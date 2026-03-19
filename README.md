@@ -81,8 +81,15 @@ In each repo:
      * `/` (site at domain root)
      * `/podcasts/` (site at `https://example.com/podcasts/`)
    * Optional:
-     * `AP_CACHE` — cache directory name (default `cache`), e.g. `cache.other`.
-     * `AP_CACHE_BRANCH` — cache git branch name (default `cache`), e.g. `cache-other`.
+      * `AP_CACHE` — cache directory name (default `cache`), e.g. `cache.other`.
+      * `AP_CACHE_BRANCH` — cache git branch name (default `cache`), e.g. `cache-other`.
+      * `AP_CLOUDFLARE_PROJECT_NAME` — enable an additional Cloudflare Pages deploy and set the target project name.
+
+3. Optional Cloudflare support:
+
+   * Add repository secrets `CLOUDFLARE_ACCOUNT_ID` and `CLOUDFLARE_API_TOKEN`.
+   * If those secrets and `AP_CLOUDFLARE_PROJECT_NAME` are present, the workflow still deploys to GitHub Pages and then also uploads the same `dist/` build to Cloudflare Pages.
+   * GitHub Pages artifacts are retained for 1 day.
 
 If `AP_BASE_PATH` is wrong, the HTML will load but assets will 404 (because pages will reference `/assets/...` instead of `/<base>/assets/...`).
 
@@ -240,6 +247,7 @@ This keeps Action runtime predictable and fits within normal GitHub Pages usage.
   * scheduled + manual trigger
   * runs `scripts/update_feeds.py`, then `scripts/build_site.py`
   * deploys `dist/` to GitHub Pages
+  * optionally mirrors the same build to Cloudflare Pages
 
 ## Future ideas (deliberately not in scope now)
 

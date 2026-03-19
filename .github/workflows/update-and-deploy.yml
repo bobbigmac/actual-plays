@@ -8,11 +8,12 @@ on:
 
 permissions:
   contents: write
+  deployments: write
   pages: write
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: "${{ github.repository }}-deploy"
   cancel-in-progress: false
 
 jobs:
@@ -28,6 +29,7 @@ jobs:
       AP_CACHE_BRANCH: ${{ vars.AP_CACHE_BRANCH }}
       # Base path the site is hosted under, e.g. "/podcasts/".
       AP_BASE_PATH: ${{ vars.AP_BASE_PATH }}
+      AP_CLOUDFLARE_PROJECT_NAME: ${{ vars.AP_CLOUDFLARE_PROJECT_NAME }}
       # Speaker search (further_search) — add these as environment secrets in github-pages
       PODCASTINDEX_KEY: ${{ secrets.PODCASTINDEX_KEY }}
       PODCASTINDEX_SECRET: ${{ secrets.PODCASTINDEX_SECRET }}
@@ -35,6 +37,8 @@ jobs:
       PODCHASER_TOKEN: ${{ secrets.PODCHASER_TOKEN }}
       PODCHASER_CLIENT_ID: ${{ secrets.PODCHASER_CLIENT_ID }}
       PODCHASER_CLIENT_SECRET: ${{ secrets.PODCHASER_CLIENT_SECRET }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
     steps:
       - name: Checkout
@@ -117,7 +121,17 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
+          retention-days: 1
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Deploy to Cloudflare Pages
+        if: ${{ env.AP_CLOUDFLARE_PROJECT_NAME != '' && env.CLOUDFLARE_ACCOUNT_ID != '' && env.CLOUDFLARE_API_TOKEN != '' }}
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          command: pages deploy dist --project-name=${{ env.AP_CLOUDFLARE_PROJECT_NAME }}
