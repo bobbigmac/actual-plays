@@ -2,10 +2,10 @@
 
 - slug: `worlds-beyond-number`
 - source: `https://feeds.simplecast.com/IAPnSSRO`
-- fetched_at: `2026-03-17T10:10:34+00:00`
-- checked_at: `2026-03-17T10:10:34+00:00`
-- etag: `"8b9485a02d5af1e9a9e8546bdad47914"`
-- last_modified: `Tue, 17 Mar 2026 09:00:18 GMT`
+- fetched_at: `2026-03-20T21:47:21+00:00`
+- checked_at: `2026-03-20T21:47:21+00:00`
+- etag: `"472c75e02a44c87c1f15b2e68d4196c1"`
+- last_modified: `Fri, 20 Mar 2026 19:54:30 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://worlds-beyond-number.simplecast.com",
   "description": "An epic, improvised storytelling podcast where Brennan Lee Mulligan, Erika Ishii, Aabria Iyengar, and Lou Wilson hang out together, play games, build worlds, and make stories.",
   "image_url": "https://image.simplecastcdn.com/images/c89bbbb6-e942-4583-ad73-4877d9c0b2f6/dfae107c-3b1e-4c37-acf7-a48a1ff6e445/3000x3000/wbn-album-logo-art-2024-3000x3000.jpg?aid=rss_feed",
-  "fetched_at": "2026-03-17T10:10:34+00:00",
+  "fetched_at": "2026-03-20T21:47:21+00:00",
   "owners": [
     "Brennan Lee Mulligan",
     "Aabria Iyengar",
@@ -36,7 +36,7 @@
       "title": "Solari: Episode 1 - Paarlor Games",
       "published_at": "2026-03-17T09:00:00+00:00",
       "link": "https://worlds-beyond-number.simplecast.com/episodes/solari-episode-1-paarlor-games-K3TL_eBz",
-      "description": "The era of seclusion is over. The 40 Suns reconnect and reunite and find themselves valuable. As borders are drawn across occupied space, the great powers of the galaxy begin their sweep of its dusty corners searching for any golden scraps that remain. Hungry eyes turn towards a tiny asteroid named Ghenopaar, a place where everything is permitted and nothing is forbidden. Strange shapes move through the shadows. The players begin the next phase of their game. History is being rewritten. We are: Brennan Lee Mulligan Erika Ishii Aabria Iyengar Lou Wilson Solari was produced by Worlds Beyond Number Edit and Sound Design by Jino Jang-Hansen at Big Giant Head Score by Will Savino https://wsavino.com/ Director of Operations: Melanie Bowman Social Media Manager: Shannon H Lorekeeper and Transcriptionist: Jack Morgan E.F. Lavandowska Character Art by Nikolas Draper-Ivey www.instagram.com/nikolasdraperivey/ Cover Art by Lu Tomkiewicz www.instagram.com/_fromlu/ This campaign uses the Stillfleet TTRPG system, created by Wythe Marschall and developed by Stillfleet Studio https://stillfleet.com/collections/stillfleet You can find transcripts of all our episodes on our Patreon. Just navigate to the post for the episode and the transcript will be attached.",
+      "description": "The era of seclusion is over. The 40 Suns reconnect and reunite and find themselves valuable. As borders are drawn across occupied space, the great powers of the galaxy begin their sweep of its dusty corners searching for any golden scraps that remain. Hungry eyes turn towards a tiny asteroid named Ghenopaar, a place where everything is permitted and nothing is forbidden. Strange shapes move through the shadows. The players begin the next phase of their game. History is being rewritten. CONTENT WARNING: This episode contains depictions of sexual content, violence, blood, and drugs. We are: Brennan Lee Mulligan Erika Ishii Aabria Iyengar Lou Wilson Solari was produced by Worlds Beyond Number Edit and Sound Design by Jino Jang-Hansen at Big Giant Head Score by Will Savino https://wsavino.com/ Director of Operations: Melanie Bowman Social Media Manager: Shannon H Lorekeeper and Transcriptionist: Jack Morgan E.F. Lavandowska Character Art by Nikolas Draper-Ivey www.instagram.com/nikolasdraperivey/ Cover Art by Lu Tomkiewicz www.instagram.com/_fromlu/ This campaign uses the Stillfleet TTRPG system, created by Wythe Marschall and developed by Stillfleet Studio https://stillfleet.com/collections/stillfleet You can find transcripts of all our episodes on our Patreon. Just navigate to the post for the episode and the transcript will be attached.",
       "image_url": "https://image.simplecastcdn.com/images/52465498-1509-439a-8bae-5a0586d07e7b/3dc27c11-0ad7-497f-a160-e31d495017d7/3000x3000/solari_album_art.jpg?aid=rss_feed",
       "enclosure_url": "https://cdn.simplecast.com/media/audio/transcoded/3271e9ed-72a9-42fd-a976-32864451ba9e/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/audio/group/43be833b-b44b-4d13-9e4a-1c8c6086a907/group-item/3c9b1a08-801f-49d0-876a-7ed62ea18811/128_default_tc.mp3?aid=rss_feed&feed=IAPnSSRO",
       "enclosure_type": "audio/mpeg",
