@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-03-10T19:10:21+00:00`
-- checked_at: `2026-03-10T19:10:21+00:00`
-- etag: `"djEuMi4wOjE3NzMxNjYxMzMzMzM="`
+- fetched_at: `2026-03-20T03:12:12+00:00`
+- checked_at: `2026-03-20T03:12:12+00:00`
+- etag: `"djEuMi4wOjE3NzM5NTg4NDQ0NzY="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-03-10T19:10:21+00:00",
+  "fetched_at": "2026-03-20T03:12:12+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -37,12 +37,12 @@
       "title": "S4 Ep. 3 - Store Wars: Darth Mall - Bargain Hunter",
       "published_at": "2026-03-10T16:00:00+00:00",
       "link": "https://patreon.com/dungeonsanddads",
-      "description": "grandson where is the brookstone This episode contains Profanity, Violence, and Sexual Content. *NOTE: We have had a few technical difficulties due to a medical emergency in our editing team, so thank you for your patience as we make adjustments! Intro sung by Elsa J Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "grandson where is the brookstone This episode contains Profanity, Violence, and Sexual Content. *NOTE: As of 3/19/26 the audio for this episode has been updated to have completed sound design. Thanks for your patience and thanks to Ester, who is on the road to recovery! Intro sung by Elsa J Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1773122284358-96aff592-e3bb-4e96-954a-3e58c97af4b1.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/69afc563765824af47648b02/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "195482431",
-      "itunes_duration": "2:15:21",
+      "enclosure_length": "189019055",
+      "itunes_duration": "2:10:48",
       "speakers": [
         "Darth Mall Bargain Hunter",
         "Anthony Burch",
