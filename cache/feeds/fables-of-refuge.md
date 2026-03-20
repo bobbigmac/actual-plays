@@ -2,9 +2,9 @@
 
 - slug: `fables-of-refuge`
 - source: `https://fablesofrefuge.libsyn.com/rss`
-- fetched_at: `2026-03-19T21:50:13+00:00`
-- checked_at: `2026-03-19T21:50:13+00:00`
-- etag: `W/"61fe3-xXPcfFbf7JSQjf8SS0mJQHRU+X4"`
+- fetched_at: `2026-03-20T07:15:15+00:00`
+- checked_at: `2026-03-20T07:15:15+00:00`
+- etag: `W/"61fe3-xNqA6nmPw3VZQWjy1o6T+Fdmqh0"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.patreon.com/FablesD20",
   "description": "A story made in our collective imagination, in a world of Jarrett Sullivan's creation. The first actual-play series produced by FablesD20.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1131005/1131005-1689437151174-55eb860d252f1.jpg",
-  "fetched_at": "2026-03-19T21:50:13+00:00",
+  "fetched_at": "2026-03-20T07:15:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
