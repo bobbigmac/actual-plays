@@ -2,9 +2,9 @@
 
 - slug: `realms-of-peril-glory-an-actual-play-anthology`
 - source: `https://feeds.megaphone.fm/FAFO5417156687`
-- fetched_at: `2026-03-17T13:53:43+00:00`
-- checked_at: `2026-03-17T13:53:43+00:00`
-- last_modified: `Tue, 17 Mar 2026 12:18:50 GMT`
+- fetched_at: `2026-03-21T02:48:58+00:00`
+- checked_at: `2026-03-21T02:48:58+00:00`
+- last_modified: `Fri, 20 Mar 2026 23:08:27 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.realmspod.com",
   "description": "Legendary Stories, Awe-inspiring Sound & Endless Adventure await in the Realms of Peril & Glory! Get ready for the actual play adventure of a lifetime! Explore the mechanically magical vistas of Vael, the paranormal mysteries of Liminal London, and the cyberpunk chaos of CY_BORG. With breathtaking sound design and enchanting original music, you’ll be immersed into unforgettable campaigns and heart-pounding one-shots. Ignite your imagination and discover the Realms of Peril & Glory today.",
   "image_url": "https://megaphone.imgix.net/podcasts/cf44508e-0b0f-11ec-8617-0328e1238bf9/image/eaa7bfb57a3a4843e7e98ba3af5b0c46.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-17T13:53:43+00:00",
+  "fetched_at": "2026-03-21T02:48:58+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -529,7 +529,7 @@
       "title": "Solemn Vale | Come All Ye Faithful",
       "published_at": "2024-12-24T05:01:00+00:00",
       "link": null,
-      "description": "The stage is set, the players are in the wings, and the show is about to begin... Go to RealmsPod.com to explore the many wonderful Realms of Peril & Glory! PATREON | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Fiona Howat Birdie: Jess Jewel Dick: Edward Spence Molly: Emily Bates Derek & Sound Design: Zack FG Ziggy & Music: James Barbarossa Voice Edit: Olie Moore System: Solemn Vale Content Warnings: Interpersonal Tension Infidelity Manipulation Horror Ambiences & Descriptions Misogyny Discussion of Familial Death Depression Anxiety Hallucinations Trauma Threats of Intimate Partner Violence Mind Control Extreme Gore Self-Half & Self-Annihilation Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "The stage is set, the players are in the wings, and the show is about to begin... Go to RealmsPod.com to explore the many wonderful Realms of Peril & Glory! PATREON | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Fiona Howat Birdie: Jess Jewell Dick: Edward Spence Molly: Emily Bates Derek & Sound Design: Zack FG Ziggy & Music: James Barbarossa Voice Edit: Olie Moore System: Solemn Vale Content Warnings: Interpersonal Tension Infidelity Manipulation Horror Ambiences & Descriptions Misogyny Discussion of Familial Death Depression Anxiety Hallucinations Trauma Threats of Intimate Partner Violence Mind Control Extreme Gore Self-Half & Self-Annihilation Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5da8f44e-3586-11ef-8905-b7b0cbbfda1e/image/b4c0cf30536ebb9209ea4f08f5321441.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP1828249679.mp3?updated=1736182439",
       "enclosure_type": "audio/mpeg",
@@ -549,7 +549,7 @@
       "title": "Solemn Vale | Silent Night",
       "published_at": "2024-12-23T05:01:00+00:00",
       "link": null,
-      "description": "Back at the Bowler's Arm and about to be interrogated by the police, the pressure is mounting, and things are about to explode. Go to RealmsPod.com to explore the many wonderful Realms of Peril & Glory! PATREON | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Fiona Howat Birdie: Jess Jewel Dick: Edward Spence Molly: Emily Bates Derek & Sound Design: Zack FG Ziggy & Music: James Barbarossa Voice Edit: Olie Moore System: Solemn Vale Content Warnings: Interpersonal Tension Infidelity Manipulation Horror Ambiences & Descriptions Misogyny Discussion of Familial Death Depression Anxiety Hallucinations Trauma Threats of Intimate Partner Violence Mind Control Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Back at the Bowler's Arm and about to be interrogated by the police, the pressure is mounting, and things are about to explode. Go to RealmsPod.com to explore the many wonderful Realms of Peril & Glory! PATREON | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Fiona Howat Birdie: Jess Jewell Dick: Edward Spence Molly: Emily Bates Derek & Sound Design: Zack FG Ziggy & Music: James Barbarossa Voice Edit: Olie Moore System: Solemn Vale Content Warnings: Interpersonal Tension Infidelity Manipulation Horror Ambiences & Descriptions Misogyny Discussion of Familial Death Depression Anxiety Hallucinations Trauma Threats of Intimate Partner Violence Mind Control Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5d744cb2-3586-11ef-8905-83bf2e0661b0/image/b4c0cf30536ebb9209ea4f08f5321441.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP4689292189.mp3?updated=1736182456",
       "enclosure_type": "audio/mpeg",
@@ -571,7 +571,7 @@
       "title": "Solemn Vale | O Little Town",
       "published_at": "2024-12-22T05:01:00+00:00",
       "link": null,
-      "description": "Birdie & Richard are trapped within the confines of the Guiding Star Commune, surrounded by people who seem to know more about their presence than they do. Meanwhile, Ziggy & Molly speed to the rescue as Derek faces his fate on the road. Go to RealmsPod.com to explore the many wonderful Realms of Peril & Glory! PATREON | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Fiona Howat Birdie: Jess Jewel Dick: Edward Spence Molly: Emily Bates Derek & Sound Design: Zack FG Ziggy & Music: James Barbarossa Voice Edit: Olie Moore System: Solemn Vale Content Warnings: Interpersonal Tension Infidelity Manipulation Horror Ambiences & Descriptions Misogyny Discussion of Familial Death Depression Anxiety Alcohol & Drug Use Extreme Intoxication Substance Abuse Hallucinations Trauma Graphic Depiction of Sex Acts Discussion of Mental Health Crisis Allusion to Psychiatric Institutions Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Birdie & Richard are trapped within the confines of the Guiding Star Commune, surrounded by people who seem to know more about their presence than they do. Meanwhile, Ziggy & Molly speed to the rescue as Derek faces his fate on the road. Go to RealmsPod.com to explore the many wonderful Realms of Peril & Glory! PATREON | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Fiona Howat Birdie: Jess Jewell Dick: Edward Spence Molly: Emily Bates Derek & Sound Design: Zack FG Ziggy & Music: James Barbarossa Voice Edit: Olie Moore System: Solemn Vale Content Warnings: Interpersonal Tension Infidelity Manipulation Horror Ambiences & Descriptions Misogyny Discussion of Familial Death Depression Anxiety Alcohol & Drug Use Extreme Intoxication Substance Abuse Hallucinations Trauma Graphic Depiction of Sex Acts Discussion of Mental Health Crisis Allusion to Psychiatric Institutions Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5d3ddd8a-3586-11ef-8905-c37566c410e7/image/b4c0cf30536ebb9209ea4f08f5321441.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP9920922126.mp3?updated=1736182471",
       "enclosure_type": "audio/mpeg",
@@ -594,7 +594,7 @@
       "title": "Solemn Vale | It Came Upon The Midnight Clear",
       "published_at": "2024-12-21T05:01:00+00:00",
       "link": null,
-      "description": "Birdie and Richard have vanished into thin air, and now it's up to Ziggy, Derek & Molly to find them. Go to RealmsPod.com to explore the many wonderful Realms of Peril & Glory! PATREON | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Fiona Howat Birdie: Jess Jewel Dick: Edward Spence Molly: Emily Bates Derek & Sound Design: Zack FG Ziggy & Music: James Barbarossa Voice Edit: Olie Moore System: Solemn Vale Content Warnings: Interpersonal Tension Infidelity Manipulation Horror Ambiences & Descriptions Misogyny Discussion of Familial Death Depression Anxiety Alcohol & Drug Use Extreme Intoxication Substance Abuse Hallucinations Trauma Graphic Depiction of Sex Acts Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Birdie and Richard have vanished into thin air, and now it's up to Ziggy, Derek & Molly to find them. Go to RealmsPod.com to explore the many wonderful Realms of Peril & Glory! PATREON | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Fiona Howat Birdie: Jess Jewell Dick: Edward Spence Molly: Emily Bates Derek & Sound Design: Zack FG Ziggy & Music: James Barbarossa Voice Edit: Olie Moore System: Solemn Vale Content Warnings: Interpersonal Tension Infidelity Manipulation Horror Ambiences & Descriptions Misogyny Discussion of Familial Death Depression Anxiety Alcohol & Drug Use Extreme Intoxication Substance Abuse Hallucinations Trauma Graphic Depiction of Sex Acts Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5d075eae-3586-11ef-8905-d30e40cd6a2d/image/b4c0cf30536ebb9209ea4f08f5321441.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP8205723940.mp3?updated=1736182485",
       "enclosure_type": "audio/mpeg",
@@ -613,7 +613,7 @@
       "title": "Solemn Vale | Deck the Halls",
       "published_at": "2024-12-20T05:01:00+00:00",
       "link": null,
-      "description": "The Gang is going out on the town at what passes for a nightclub in Solemn Vale, The Rapture. One by one, the layers are peeled back as things start to veer off the rails. Go to RealmsPod.com to explore the many wonderful Realms of Peril & Glory! PATREON | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Fiona Howat Birdie: Jess Jewel Dick: Edward Spence Molly: Emily Bates Derek & Sound Design: Zack FG Ziggy & Music: James Barbarossa Voice Edit: Olie Moore System: Solemn Vale Content Warnings: Interpersonal Tension Infidelity Manipulation Horror Ambiences & Descriptions Car Crash Misogyny Discussion of Familial Death Depression Anxiety Alcohol & Drug Use Extreme Intoxication Substance Abuse Hallucinations Trauma Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "The Gang is going out on the town at what passes for a nightclub in Solemn Vale, The Rapture. One by one, the layers are peeled back as things start to veer off the rails. Go to RealmsPod.com to explore the many wonderful Realms of Peril & Glory! PATREON | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Fiona Howat Birdie: Jess Jewell Dick: Edward Spence Molly: Emily Bates Derek & Sound Design: Zack FG Ziggy & Music: James Barbarossa Voice Edit: Olie Moore System: Solemn Vale Content Warnings: Interpersonal Tension Infidelity Manipulation Horror Ambiences & Descriptions Car Crash Misogyny Discussion of Familial Death Depression Anxiety Alcohol & Drug Use Extreme Intoxication Substance Abuse Hallucinations Trauma Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5e0ec3e6-3586-11ef-8905-d79f8339606d/image/b4c0cf30536ebb9209ea4f08f5321441.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP2067422455.mp3?updated=1736182499",
       "enclosure_type": "audio/mpeg",
@@ -632,7 +632,7 @@
       "title": "Solemn Vale | In the Bleak Midwinter",
       "published_at": "2024-12-19T05:01:00+00:00",
       "link": null,
-      "description": "When four school friends reunite for Christmas many years later in their hometown, all of their old grudges bubble to the surface. Little do they know that the walls are closing in around them as Solemn Vale works to keep them forever. Go to RealmsPod.com to explore the many wonderful Realms of Peril & Glory! PATREON | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Fiona Howat Birdie: Jess Jewel Dick: Edward Spence Molly: Emily Bates Derek & Sound Design: Zack FG Ziggy & Music: James Barbarossa Voice Edit: Olie Moore System: Solemn Vale Content Warnings: Interpersonal Tension Infidelity Manipulation Horror Ambiences & Descriptions Car Crash Misogyny Leering & Predator Men Allusions to Loss Depression Anxiety Alcohol Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "When four school friends reunite for Christmas many years later in their hometown, all of their old grudges bubble to the surface. Little do they know that the walls are closing in around them as Solemn Vale works to keep them forever. Go to RealmsPod.com to explore the many wonderful Realms of Peril & Glory! PATREON | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Fiona Howat Birdie: Jess Jewell Dick: Edward Spence Molly: Emily Bates Derek & Sound Design: Zack FG Ziggy & Music: James Barbarossa Voice Edit: Olie Moore System: Solemn Vale Content Warnings: Interpersonal Tension Infidelity Manipulation Horror Ambiences & Descriptions Car Crash Misogyny Leering & Predator Men Allusions to Loss Depression Anxiety Alcohol Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5ddb6c30-3586-11ef-8905-bf44639b096a/image/b4c0cf30536ebb9209ea4f08f5321441.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP5751256196.mp3?updated=1737672636",
       "enclosure_type": "audio/mpeg",
