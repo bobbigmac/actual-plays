@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-03-16T19:31:26+00:00`
-- checked_at: `2026-03-16T19:31:26+00:00`
-- etag: `"ab1e656e21c0a912aa8971efa96e7418"`
+- fetched_at: `2026-03-23T16:13:08+00:00`
+- checked_at: `2026-03-23T16:13:08+00:00`
+- etag: `"d98296b72c9a2973b9e15c323ba69ff8"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/5111002/Dork_Tales_d20_20238mnn1.png",
-  "fetched_at": "2026-03-16T19:31:26+00:00",
+  "fetched_at": "2026-03-23T16:13:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "ea9e366a7a492e7f301b745b6ac56e55f181c046",
+      "title": "Vecna: Eve of Ruin | Episode 29: Hell of a Ride",
+      "published_at": "2026-03-23T13:07:00+00:00",
+      "link": "https://dorktales.podbean.com/e/vecna-eve-of-ruin-episode-29-hell-of-a-ride/",
+      "description": "Vecna is here and only one party can stop him. Join us for Vecna: Eve of Ruin! In this episode, the party finds that life can be a real lich. Thank you to Bookwyrm Games for sponsoring the channel! Visit them at https://bookwyrmgames.com/ and use code DORKTALES to save 15% off your order! === Kelly Clark as Dungeon Master Cast Christine Rattray as Rosie Thistledrop Robin Holford as Lir'wen Chris Blogg as Gaunt Jen Peters as Imogen and Kal Vincent as Aurontiros Watch us LIVE on Twitch ► https://twitch.tv/dorktales Visit our website ► https://dorktales.ca Our Linktree ► https://linktr.ee/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktaleschannel/ Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy the cast a coffee ► https://ko-fi.com/dorktales Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! So smash the bell, share these videos, and we'll see you soon at our next game! === Music credits: Music: House of Secrets by Joel Steudler https://www.joelsteudlermusic.com/ Licensed under a Humblebundle Collection Also from Joel Steudler: No Mountain High Black Gate Fight or Flight Tracks by Tim Kulig: Tomb Tensions https://timkulig.com Tracks from Monument Studios Elven Secrets B Cryptic Choir Textured Classical Harp Daytime Exuberant NPC Necrotic Strings Skyward Licensed under a Fantasy Complete or All-In-One License https://www.monumentstudios.net Tracks licensed from Dark Fantasy Studio From Ashes http://www.darkfantasystudio.com This video also uses licensed audio from the Humble Music & Sound Effects For Games, Films, and Content Creators Bundle Part 2. Including our closing theme: The Harrowing This video using the following licensed tracks from Game Dev Market, Audiohero, and Ovani: Ominous Brick Wall Muscle Car Stripping the Gears Sneaky Snitch Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/b...",
+      "image_url": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog5111002/Vecna_Eve_of_Ruin_Podcast_Logo7mops.png",
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/nnd54re52jmuczqf/VecnaE28complete.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119944719",
+      "itunes_duration": "8561",
+      "speakers": [
+        "Ride Vecna"
+      ],
+      "topics": [
+        "vecna",
+        "ruin",
+        "hell",
+        "ride"
+      ]
+    },
     {
       "key": "117339306b47bae45dc3bd1006750289c76775a0",
       "title": "Vecna: Eve of Ruin | Episode 28: Rerak's Crypt",
@@ -7460,6 +7481,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — Vecna: Eve of Ruin | Episode 29: Hell of a Ride — speakers: Ride Vecna
 - 2026-03-16 — Vecna: Eve of Ruin | Episode 28: Rerak's Crypt
 - 2026-03-09 — Vecna: Eve of Ruin | Episode 27: Into the Tomb — speakers: Tomb Vecna
 - 2026-03-03 — Vecna: Eve of Ruin | Episode 26: Tomb of Wayward Souls — speakers: Wayward Souls Vecna

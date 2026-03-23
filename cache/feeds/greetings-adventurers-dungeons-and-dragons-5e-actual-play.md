@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-03-16T16:18:22+00:00`
-- checked_at: `2026-03-16T16:18:22+00:00`
-- etag: `"djEuMi4wOjE3NzM2NzY4Mzk0NzE="`
+- fetched_at: `2026-03-23T16:13:08+00:00`
+- checked_at: `2026-03-23T16:13:08+00:00`
+- etag: `"djEuMi4wOjE3NzQyODE2Mzk0NzU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-03-16T16:18:22+00:00",
+  "fetched_at": "2026-03-23T16:13:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "f59773b17bdd7e95c628bbeb2ff622cad856b67b",
+      "title": "Campaign 2: Episode 178 - Three Perfect Plans",
+      "published_at": "2026-03-23T16:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-178-three-perfect-plans",
+      "description": "The Farholde guards have already started their unjust crackdown on magical folk so it is up to us to stop them! This shall not stand while we are here and we have many tools at our disposal to foil all their nasty plans. Sometimes our solutions maybe worse in the long run what with the natural spread of fire or the uncontrollability of varmints, but that is a problem for another day. Help out people being oppressed in Minnesota and Kansas ! The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by TheDedchicken ! Want the world to see your fan art? Post it with #DrunksAndDoodles Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1774276754733-5c5a784e-7853-4b02-b0bc-e4675c8a1c9a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/69c151c07878605e117f1d44/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75986584",
+      "itunes_duration": "52:45",
+      "speakers": [],
+      "topics": [
+        "campaign",
+        "perfect",
+        "plan"
+      ]
+    },
     {
       "key": "b2f5351dda61bbe6b1fef433d0f2822ba2fa3480",
       "title": "Campaign 2: Episode 177 - Tuxedo Bazaar Beatdown",
@@ -12171,6 +12189,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — Campaign 2: Episode 178 - Three Perfect Plans
 - 2026-03-16 — Campaign 2: Episode 177 - Tuxedo Bazaar Beatdown
 - 2026-03-09 — Campaign 2: Episode 176 - Mossy Wall of Soothing Reassurance — speakers: Mossy Wall
 - 2026-03-02 — Campaign 2: Episode 175 - Bigger, Madder Family — speakers: Madder Family
