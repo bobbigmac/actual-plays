@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-03-20T21:47:21+00:00`
-- checked_at: `2026-03-20T21:47:21+00:00`
-- etag: `"728065374d9aabb6e1d079943c58a31b"`
-- last_modified: `Fri, 20 Mar 2026 21:38:22 GMT`
+- fetched_at: `2026-03-23T07:41:04+00:00`
+- checked_at: `2026-03-23T07:41:04+00:00`
+- etag: `"968d29d39218f1110ef6a0712ffde776"`
+- last_modified: `Mon, 23 Mar 2026 04:04:45 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-03-20T21:47:21+00:00",
+  "fetched_at": "2026-03-23T07:41:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "20115f184cb4bc421641f166a5e645232b1fea27",
+      "title": "Castle Thrax",
+      "published_at": "2026-03-23T04:00:00+00:00",
+      "link": "https://www.vintagerpg.com/2026/03/castle-thrax/",
+      "description": "Of stock lists and ancient history. This week on the Vintage RPG Podcast, we explore Castle Thrax and the Spellbinders' treasure. That is, Spellbinders Games, a shop in Akron that published Castle Thrax , also had a lot of interesting titles in their stock list that don't seem to exist. Or do they? We'd like to know! * * * Instagram? Old news. Join the Vintage RPG Newsletter ! That's where all the cool kids are now! Stu's book, Monsters, Aliens, and Holes in the Ground is for sale now! Buy it ! Patreon? Discord? Cool RPG things to buy? All the Vintage RPG links you need are right here in one place ! Like, Rate, Subscribe and Review the Vintage RPG Podcast! Edited by the one and only R. Alex Murray . Send questions, comments or corrections to info@vintagerpg.com . Available on iTunes , Google Podcasts , iHeartRadio , Spotify , YouTube and your favorite podcast clients. The Vintage RPG illustration is by Shafer Brown . Follow him on Twitter . Tune in next week for the next episode. Until then, may the dice always roll in your favor!",
+      "image_url": "https://static.libsyn.com/p/assets/4/2/b/e/42be6b00d2d6c9a8d959afa2a1bf1c87/Post-20260320-62xdo75145.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/thevintagerpgpodcast/VRPG_-_Castle_Thrax_.mp3?dest-id=747998",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46270970",
+      "itunes_duration": "23:35",
+      "speakers": [
+        "Castle Thrax"
+      ],
+      "topics": [
+        "castle",
+        "thrax"
+      ]
+    },
     {
       "key": "8331662f26ee14491d9758424ba7940fd81087dc",
       "title": "The Privilege of Play and Other Topics",
@@ -6491,6 +6510,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — Castle Thrax — speakers: Castle Thrax
 - 2026-03-16 — The Privilege of Play and Other Topics — speakers: Other Topics Another
 - 2026-03-09 — Mythic Britain & Ireland — speakers: Mythic Br
 - 2026-03-02 — Shadowdark

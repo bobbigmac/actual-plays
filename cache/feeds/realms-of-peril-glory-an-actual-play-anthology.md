@@ -2,9 +2,9 @@
 
 - slug: `realms-of-peril-glory-an-actual-play-anthology`
 - source: `https://feeds.megaphone.fm/FAFO5417156687`
-- fetched_at: `2026-03-23T03:25:57+00:00`
-- checked_at: `2026-03-23T03:25:57+00:00`
-- last_modified: `Sun, 22 Mar 2026 23:02:40 GMT`
+- fetched_at: `2026-03-23T07:41:04+00:00`
+- checked_at: `2026-03-23T07:41:04+00:00`
+- last_modified: `Mon, 23 Mar 2026 05:01:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.realmspod.com",
   "description": "Legendary Stories, Awe-inspiring Sound & Endless Adventure await in the Realms of Peril & Glory! Get ready for the actual play adventure of a lifetime! Explore the mechanically magical vistas of Vael, the paranormal mysteries of Liminal London, and the cyberpunk chaos of CY_BORG. With breathtaking sound design and enchanting original music, you’ll be immersed into unforgettable campaigns and heart-pounding one-shots. Ignite your imagination and discover the Realms of Peril & Glory today.",
   "image_url": "https://megaphone.imgix.net/podcasts/cf44508e-0b0f-11ec-8617-0328e1238bf9/image/eaa7bfb57a3a4843e7e98ba3af5b0c46.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-23T03:25:57+00:00",
+  "fetched_at": "2026-03-23T07:41:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "aa746ed59332698fd3e9c3223510c560fd88cc85",
+      "title": "Vael | Tragedy in the Twine",
+      "published_at": "2026-03-23T05:01:00+00:00",
+      "link": null,
+      "description": "As the Heroes of New Harbour land in the twine they are met with even more questions ahead of them... This is the final episode of Vael: Campaign Two Part One. Stay tune for Part Two later this year. Go to ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠RealmsPod.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ to discover even more stories you haven't heard! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠PATREON⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠MERCH⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠SOCIALS⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠DISCORD⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠NEWSLETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ GM: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Zachary Fortais-Gomm⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ NPC Voices & Music: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠James Barbarossa⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Isadora: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Maddy Searle⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Zongroff: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Elizabeth Campbell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Maerydyth: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠L C Girling⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Torbrennan: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Pip Gladwin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ System: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠13th Age⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Content Warnings: Intense Images of Destruction Mind Control Fantasy Threat and Violence Horror SFX and Atmosphere Death Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/80ea2fc4-2637-11f1-8fa6-77219303914f/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP2342332454.mp3?updated=1774219869",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5359",
+      "speakers": [],
+      "topics": [
+        "vael",
+        "tragedy",
+        "twine"
+      ]
+    },
     {
       "key": "ce546c551e752532eaf7d78a68deb1319ab6eb79",
       "title": "Vael | Investigation in Imperium",
@@ -2818,6 +2836,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — Vael | Tragedy in the Twine
 - 2026-02-09 — Vael | Investigation in Imperium
 - 2026-01-26 — Vael | Bureaucracy in Imperium
 - 2026-01-05 — Vael | Showdown on the Seawall — speakers: Imperium Seawall

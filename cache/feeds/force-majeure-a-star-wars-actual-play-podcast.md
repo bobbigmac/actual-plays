@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-03-17T19:31:01+00:00`
-- checked_at: `2026-03-17T19:31:01+00:00`
-- etag: `"72ee780b355d3eb58cb8b79a059a9a40"`
-- last_modified: `Tue, 17 Mar 2026 16:22:22 GMT`
+- fetched_at: `2026-03-23T07:41:04+00:00`
+- checked_at: `2026-03-23T07:41:04+00:00`
+- etag: `"eef10c1e1fbf80e2b4f044b3d84d67f2"`
+- last_modified: `Mon, 23 Mar 2026 04:37:03 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! Twitter / Facebook / Instagram: @forcemajeurepod Website: www.forcemajurepod.com",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-03-17T19:31:01+00:00",
+  "fetched_at": "2026-03-23T07:41:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ca6e344b71b99f1af142d9aecda3abd9e8c092e5",
+      "title": "A Shot At Redemption E04 - A Lovely Room Of Death",
+      "published_at": "2026-03-23T04:30:00+00:00",
+      "link": "https://forcemajeurepod.libsyn.com/a-shot-at-redemption-e04-a-lovely-room-of-death",
+      "description": "Our heroes have arrived at the research floor in desperate search for a cure. However, they are not alone here, and there are more sinister threats than just a security droid to worry about too... Cast! Adam Beltaine is your GM, and can be found on Bluesky as @maddambeltaine.bsky.social Lou plays Tryk C Rangavoon, and can be found on Bluesky at @magpiehound.bsky.social Mikey plays Jax Vorn, and can be found on Bluesky at @weaselpunk.bsky.social Tom plays Kip Kazian and can be found on Bluesky at @tcpatrick.bsky.social as well as GMing the wonderful Dice Company podcast Geoff plays Kalro Vatts, and sensibly has no social media presence Follow us on social media! All our links can now be found here: linktr.ee/albertthellama Support Albert the Llama Enterprises! If you like what we do and have some spare money, we have both a Patreon and a Ko-Fi account. We are extremely grateful for your support. https://www.patreon.com/forcemajeurepod ko-fi.com/forcemajeurepod Intro and Supplemental Music: Composed by Sly Fox Audio - check out more of her stuff on soundcloud.com/slyfoxaudio Additional Music: \"Lost Contact (No footsteps Patreon exclusive)\" by Tabletop Audio \"Space Race\" by Silverman Sound (silvermansound.com) Some additional SFX from BBC Sounds Archive, Pixabay.com and Zapsplat.com All used with gratitude under the Creative Commons licence",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/forcemajeurepod/Redemption_E04.mp3?dest-id=604132",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40355999",
+      "itunes_duration": "51:38",
+      "speakers": [],
+      "topics": [
+        "shot",
+        "redemption",
+        "room",
+        "death"
+      ]
+    },
     {
       "key": "acbcaac4d908730d840a54d08cb7b3a6d5dee8ae",
       "title": "A Shot At Redemption E03 - A Suspicious Number of Toilets",
@@ -4341,6 +4360,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — A Shot At Redemption E04 - A Lovely Room Of Death
 - 2026-03-09 — A Shot At Redemption E03 - A Suspicious Number of Toilets — speakers: droid down
 - 2026-02-23 — A Shot At Redemption E02 - The Facility
 - 2026-02-09 — A Shot At Redemption E01 - Just Another Day — speakers: Just Another Day, New Republic
