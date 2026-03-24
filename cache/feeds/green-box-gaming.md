@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-03-17T16:19:43+00:00`
-- checked_at: `2026-03-17T16:19:43+00:00`
-- etag: `"761a9be631b11bff17aac8ce3e43cb5c"`
-- last_modified: `Tue, 17 Mar 2026 16:06:43 GMT`
+- fetched_at: `2026-03-24T13:53:09+00:00`
+- checked_at: `2026-03-24T13:53:09+00:00`
+- etag: `"803d0748151fd48044e15771e087008e"`
+- last_modified: `Tue, 24 Mar 2026 13:00:17 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-03-17T16:19:43+00:00",
+  "fetched_at": "2026-03-24T13:53:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "8dae2a864bf9321114da2350bd80a78491a37a54",
+      "title": "Ep1 | Thousand Year Old Vampire w/ Gian - Living Life to the Max",
+      "published_at": "2026-03-24T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/2635436",
+      "description": "Gian and Joe play a single player RPG, Thousand Year Old Vampire! We follow the character Max as he devolves into the madness of undeath! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/2635436/green-box-gaming/2026_03_17_05_48_43_155762bd-5247-4507-94c4-7635d6939e72.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68098924",
+      "itunes_duration": "4256",
+      "speakers": [],
+      "topics": [
+        "thousand",
+        "year",
+        "vampire",
+        "gian",
+        "living",
+        "life"
+      ]
+    },
     {
       "key": "943ba50381a38282ec9d62a7e3a5281021cde971",
       "title": "Ep2 | Delta Green: The Button - Connections",
@@ -3771,6 +3792,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-24 — Ep1 | Thousand Year Old Vampire w/ Gian - Living Life to the Max
 - 2026-03-17 — Ep2 | Delta Green: The Button - Connections — speakers: Delta Green, Connections Rodrick
 - 2026-03-10 — Ep1 | Delta Green: The Button - Purple and Gold
 - 2026-03-03 — Ep10 | Delta Green: Puppet Shows and Shadow Plays - Watched
