@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-03-17T21:55:45+00:00`
-- checked_at: `2026-03-17T21:55:45+00:00`
-- etag: `"djEuMi4wOjE3NzM3Nzc2Mzk1MTQ="`
+- fetched_at: `2026-03-24T21:54:48+00:00`
+- checked_at: `2026-03-24T21:54:48+00:00`
+- etag: `"djEuMi4wOjE3NzQzODI0Mzk0ODA="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-03-17T21:55:45+00:00",
+  "fetched_at": "2026-03-24T21:54:48+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "4a88aa9e3b61537818889483f443c56fc3d56233",
+      "title": "Action Surge Episode 50",
+      "published_at": "2026-03-24T20:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-50",
+      "description": "We’re high on life, we’re high on ourselves, and Ben Starr is all shirt. We’ve made it to Episode 50, so naturally the conversation turns to rolling for ejaculation. Harry did warn us that if you play stupid games, you win stupid prizes. Unfortunately for him, he underestimated just how stupid the games we’re willing to play actually are, and now he’s somehow having to shoehorn that energy into what is supposed to be a rich and complex fantasy world. We also discuss our homework. Harry set us a simple and genuinely fun task, but never before have five pictures summed up five people so perfectly. From arts and crafts enthusiasm, to the over-achieving prefect, to those who clearly finished their homework in class. Yes Aoife, we are looking at you. Music plays a huge role in shaping our reactions at the table, and this week we hear a track that immediately strikes fear into our hearts. Alongside the Web theme, Barabask’s music might be beautiful, but it rarely signals that anything good is about to happen. He may not be physically present in Talisca, but his influence, and his link to the Gloam, is very much felt. Everyone’s least favourite Antiqua now has a god mic. That’s character development. And then there’s the Web. Turns out it has an HR department, as all good organisations should. After all, every successful company lives or dies by its bookkeeping. But how do our characters actually feel about it? Opinions are… mixed. Some are curious and want to learn more., others would rather never go near it again, and for certain people? Well, when the fun stops, stop. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/69b8764a7ebe44dc8b28879d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102267115",
+      "itunes_duration": "53:14",
+      "speakers": [
+        "Ben Starr",
+        "Harry McEntire",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "c982b358703e2031f8991b1fd41a22ec54aa134f",
       "title": "Ep. 50 Dressed to Impress",
@@ -2622,6 +2646,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-24 — Action Surge Episode 50 — speakers: Ben Starr, Harry McEntire, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-17 — Ep. 50 Dressed to Impress — speakers: Impress Sometimes, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-10 — Action Surge Episode 49 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-03 — Ep. 49 No Secrets Among Friends — speakers: No Secrets Among Friends, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
