@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-03-24T07:31:55+00:00`
-- checked_at: `2026-03-24T07:31:55+00:00`
-- etag: `"djEuMi4wOjE3NzQzMzUzMzUzOTU="`
+- fetched_at: `2026-03-24T16:18:33+00:00`
+- checked_at: `2026-03-24T16:18:33+00:00`
+- etag: `"djEuMi4wOjE3NzQzNjgwMzkzOTY="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-03-24T07:31:55+00:00",
+  "fetched_at": "2026-03-24T16:18:33+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -32,6 +32,31 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "11aa33ae75a9cfe55c975823ebbbffc973848953",
+      "title": "S4 Ep. 4 - The Immortal Scrap Wreckage Yard",
+      "published_at": "2026-03-24T16:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "Birthday gifts for my wonderful granddaughter 💗 14: some makeup 15: cash 16: a car 17: a ship in the video game she plays 18: Oh, The Places You’ll Go! by Dr Seuss 19: a jacket 20: cash 21: Space Port Wine 22: cash 23: surprise visit from grandpa and his friends This episode contains Profanity, Violence, and Sexual Content. Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1774334600952-93e8ef9e-9f8b-4f5e-97f9-4498ba59b121.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/69c232f8fce4b829c5603fe0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107347895",
+      "itunes_duration": "1:14:04",
+      "speakers": [
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "immortal",
+        "scrap",
+        "wreckage",
+        "yard"
+      ]
+    },
     {
       "key": "ab360167b004a62c48bb6295c9cebf29669a7779",
       "title": "S4 Ep. 3 - Store Wars: Darth Mall - Bargain Hunter",
@@ -4579,6 +4604,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-24 — S4 Ep. 4 - The Immortal Scrap Wreckage Yard — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-03-10 — S4 Ep. 3 - Store Wars: Darth Mall - Bargain Hunter — speakers: Darth Mall Bargain Hunter, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-02-24 — S4 Ep. 2 - Face Invaders — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-02-10 — S4 Ep. 1 - Grandfather Paradox — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
