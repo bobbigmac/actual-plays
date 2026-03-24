@@ -2,9 +2,9 @@
 
 - slug: `time-for-chaos-a-call-of-cthulhu-masks-of-nyarlathotep-campaign`
 - source: `https://feeds.acast.com/public/shows/63b72b25938ea90011f220c3`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"djEuMi4wOjE3MjUwNzY4ODc2OTU="`
+- fetched_at: `2026-03-24T19:31:29+00:00`
+- checked_at: `2026-03-24T19:31:29+00:00`
+- etag: `"djEuMi4wOjE3NzQzNzI2NTIxOTQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.glasscannonnetwork.com/shows/time-for-chaos",
   "description": "A mysterious lost expedition sets in motion an epic globe spanning adventure as investigators come face to face with ancient evils beyond the scope of human comprehension. Often considered the greatest role-playing game campaign ever written, Masks of Nyarlathotep stretches the boundaries of horror driving both characters and players insane since its publication in 1984. Time For Chaos is a playthrough of Masks of Nyarlathotep for the 7th Edition Call of Cthulhu role-playing game system by Chaosium. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/cover/1672948389521-fae88901de201570cd85921c14775c10.jpeg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-24T19:31:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "ttrpg/call-of-cthulhu"
   ],
   "episodes": [
+    {
+      "key": "7b088642bef7f74274cd41261ceae25b829c9c26",
+      "title": "Time For Chaos RSS Feed Update",
+      "published_at": "2026-03-24T17:11:38+00:00",
+      "link": "https://shows.acast.com/timeforchaos/episodes/69c2c5ca7878605e11efcdb2",
+      "description": "The entirety of Time For Chaos can now be heard on The Glass Cannon Podcast feed. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/cover/1672948389521-fae88901de201570cd85921c14775c10.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/63b72b25938ea90011f220c3/e/69c2c5ca7878605e11efcdb2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "1140192",
+      "itunes_duration": "1:11",
+      "speakers": [],
+      "topics": [
+        "time",
+        "chaos",
+        "feed",
+        "update"
+      ]
+    },
     {
       "key": "a322d77f36f2cd47779aa05b1222123542f2160e",
       "title": "Call of Cthulhu Live! | The Athenaeum | Indianapolis 2024",
@@ -38,14 +57,7 @@
       "enclosure_length": "75826186",
       "itunes_duration": "2:37:58",
       "speakers": [
-        "Keeper Troy Lavallee",
-        "Glass Cannon",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Noura Ibrahim"
+        "Glass Cannon Network"
       ],
       "topics": [
         "cthulhu",
@@ -65,12 +77,8 @@
       "enclosure_length": "141534594",
       "itunes_duration": "4:54:51",
       "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Cthulhu Masks",
+        "Misr House"
       ],
       "topics": [
         "death",
@@ -92,14 +100,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84802068",
       "itunes_duration": "2:56:40",
-      "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
-      ],
+      "speakers": [],
       "topics": [
         "island",
         "time",
@@ -121,12 +122,9 @@
       "enclosure_length": "70707022",
       "itunes_duration": "2:27:18",
       "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "One Little Room",
+        "Cthulhu Masks",
+        "Nyarlathotep After"
       ],
       "topics": [
         "room",
@@ -148,14 +146,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59039482",
       "itunes_duration": "2:02:59",
-      "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
-      ],
+      "speakers": [],
       "topics": [
         "smoke",
         "water",
@@ -178,12 +169,7 @@
       "enclosure_length": "60251982",
       "itunes_duration": "2:05:31",
       "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Cthulhu Masks"
       ],
       "topics": [
         "exhibit",
@@ -206,12 +192,9 @@
       "enclosure_length": "63403603",
       "itunes_duration": "2:12:05",
       "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Hidden Lines",
+        "Cthulhu Masks",
+        "Henson Manufacturing"
       ],
       "topics": [
         "hidden",
@@ -234,14 +217,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60656148",
       "itunes_duration": "2:06:21",
-      "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
-      ],
+      "speakers": [],
       "topics": [
         "safe",
         "house",
@@ -263,14 +239,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66873918",
       "itunes_duration": "2:19:19",
-      "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
-      ],
+      "speakers": [],
       "topics": [
         "duck",
         "time",
@@ -292,12 +261,8 @@
       "enclosure_length": "60073722",
       "itunes_duration": "2:05:09",
       "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Cthulhu Masks",
+        "Nyarlathotep Content Warning"
       ],
       "topics": [
         "prodigal",
@@ -320,13 +285,9 @@
       "enclosure_length": "66457840",
       "itunes_duration": "2:18:27",
       "speakers": [
-        "Plum Castle",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Old Habits",
+        "Cthulhu Masks",
+        "Nyarlathotep Content Warning"
       ],
       "topics": [
         "habits",
@@ -348,14 +309,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58813575",
       "itunes_duration": "2:02:31",
-      "speakers": [
-        "theglasscannon Cast",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Aliens Traveller Voyagers"
-      ],
+      "speakers": [],
       "topics": [
         "lupus",
         "fabula",
@@ -378,12 +332,7 @@
       "enclosure_length": "63200475",
       "itunes_duration": "2:11:39",
       "speakers": [
-        "theglasscannon Cast",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Aliens Traveller Voyagers"
+        "Cthulhu Masks"
       ],
       "topics": [
         "orders",
@@ -406,12 +355,9 @@
       "enclosure_length": "59851368",
       "itunes_duration": "2:04:41",
       "speakers": [
-        "theglasscannon Cast",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Aliens Traveller Voyagers"
+        "Four Great Beasts",
+        "Cthulhu Masks",
+        "Empire Spices"
       ],
       "topics": [
         "great",
@@ -434,14 +380,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69789392",
       "itunes_duration": "2:25:23",
-      "speakers": [
-        "theglasscannon Cast",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Aliens Traveller Voyagers"
-      ],
+      "speakers": [],
       "topics": [
         "time",
         "chaos",
@@ -462,12 +401,7 @@
       "enclosure_length": "61785683",
       "itunes_duration": "2:08:43",
       "speakers": [
-        "theglasscannon Cast",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Aliens Traveller Voyagers"
+        "Cthulhu Masks"
       ],
       "topics": [
         "hearts",
@@ -491,12 +425,8 @@
       "enclosure_length": "57731688",
       "itunes_duration": "2:00:16",
       "speakers": [
-        "theglasscannon Cast",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Aliens Traveller Voyagers"
+        "Night Terrors",
+        "Cthulhu Masks"
       ],
       "topics": [
         "night",
@@ -519,14 +449,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62799652",
       "itunes_duration": "2:10:49",
-      "speakers": [
-        "theglasscannon Cast",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Aliens Traveller Voyagers"
-      ],
+      "speakers": [],
       "topics": [
         "critic",
         "time",
@@ -548,13 +471,7 @@
       "enclosure_length": "60126176",
       "itunes_duration": "2:05:15",
       "speakers": [
-        "Jackson Elias",
-        "theglasscannon Cast",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Aliens Traveller Voyagers"
+        "Jackson Elias"
       ],
       "topics": [
         "artist",
@@ -578,12 +495,8 @@
       "enclosure_length": "61072435",
       "itunes_duration": "2:07:13",
       "speakers": [
-        "theglasscannon Cast",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Aliens Traveller Voyagers"
+        "Cruise Line Visit Getaway",
+        "Cthulhu Masks"
       ],
       "topics": [
         "cruise",
@@ -608,14 +521,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62189849",
       "itunes_duration": "2:09:33",
-      "speakers": [
-        "theglasscannon Cast",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Aliens Traveller Voyagers"
-      ],
+      "speakers": [],
       "topics": [
         "temptation",
         "anthony",
@@ -638,14 +544,8 @@
       "enclosure_length": "79083551",
       "itunes_duration": "2:44:45",
       "speakers": [
-        "Keeper Troy Lavallee",
-        "Kate Stamas",
-        "Rob Kerkovich",
-        "Glass Cannon",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Troy Lavallee",
-        "Noura Ibrahim"
+        "Athenaeum Theatre",
+        "Gen Con"
       ],
       "topics": [
         "cthulhu",
@@ -664,14 +564,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "130564210",
       "itunes_duration": "4:32:00",
-      "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
-      ],
+      "speakers": [],
       "topics": [
         "lunatic",
         "head",
@@ -694,12 +587,8 @@
       "enclosure_length": "61738035",
       "itunes_duration": "2:08:37",
       "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Cthulhu Masks",
+        "Carlyle Mansion"
       ],
       "topics": [
         "life",
@@ -723,13 +612,9 @@
       "enclosure_length": "46419728",
       "itunes_duration": "2:08:56",
       "speakers": [
-        "Erica Carlyle",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Maniac Mansion",
+        "Cthulhu Masks",
+        "Carlyle Mansion"
       ],
       "topics": [
         "maniac",
@@ -753,13 +638,7 @@
       "enclosure_length": "61182986",
       "itunes_duration": "2:07:27",
       "speakers": [
-        "Ju-Ju House",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Ju-Ju House"
       ],
       "topics": [
         "mystery",
@@ -783,13 +662,7 @@
       "enclosure_length": "45043715",
       "itunes_duration": "2:05:06",
       "speakers": [
-        "Ju-Ju House",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Ju-Ju House"
       ],
       "topics": [
         "soldier",
@@ -812,13 +685,7 @@
       "enclosure_length": "183219753",
       "itunes_duration": "2:07:14",
       "speakers": [
-        "Ju-Ju House",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Ju-Ju House"
       ],
       "topics": [
         "moonlight",
@@ -841,12 +708,9 @@
       "enclosure_length": "59839344",
       "itunes_duration": "2:04:39",
       "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Spot Hidden",
+        "Cthulhu Masks",
+        "Nyarlathotep New"
       ],
       "topics": [
         "time",
@@ -868,12 +732,8 @@
       "enclosure_length": "61436784",
       "itunes_duration": "2:08:35",
       "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Death House",
+        "Cthulhu Masks"
       ],
       "topics": [
         "death",
@@ -897,12 +757,8 @@
       "enclosure_length": "61200912",
       "itunes_duration": "2:07:30",
       "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Harlem Shuffle",
+        "Cthulhu Masks"
       ],
       "topics": [
         "harlem",
@@ -926,12 +782,9 @@
       "enclosure_length": "66406736",
       "itunes_duration": "2:18:59",
       "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Scream Together",
+        "Cthulhu Masks",
+        "Police Station"
       ],
       "topics": [
         "time",
@@ -953,12 +806,8 @@
       "enclosure_length": "66158176",
       "itunes_duration": "2:18:28",
       "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Cthulhu Masks",
+        "Nyarlathotep After"
       ],
       "topics": [
         "time",
@@ -980,13 +829,8 @@
       "enclosure_length": "59855776",
       "itunes_duration": "2:05:17",
       "speakers": [
-        "Jackson Elias",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Cthulhu Masks",
+        "New York City"
       ],
       "topics": [
         "room",
@@ -1009,13 +853,7 @@
       "enclosure_length": "66394880",
       "itunes_duration": "2:18:58",
       "speakers": [
-        "Homeward Bound",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Homeward Bound"
       ],
       "topics": [
         "homeward",
@@ -1038,14 +876,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61200288",
       "itunes_duration": "2:08:06",
-      "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
-      ],
+      "speakers": [],
       "topics": [
         "exquisite",
         "corpses",
@@ -1068,12 +899,8 @@
       "enclosure_length": "60726880",
       "itunes_duration": "2:07:06",
       "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Little Tear",
+        "Cthulhu Masks"
       ],
       "topics": [
         "tear",
@@ -1096,12 +923,8 @@
       "enclosure_length": "62572880",
       "itunes_duration": "2:10:21",
       "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Lake Titicaca",
+        "Cthulhu Masks"
       ],
       "topics": [
         "lake",
@@ -1125,13 +948,7 @@
       "enclosure_length": "70635168",
       "itunes_duration": "2:27:50",
       "speakers": [
-        "Augustus Larkin",
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Augustus Larkin"
       ],
       "topics": [
         "devil",
@@ -1155,14 +972,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61464032",
       "itunes_duration": "2:08:39",
-      "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
-      ],
+      "speakers": [],
       "topics": [
         "kiss",
         "time",
@@ -1184,12 +994,8 @@
       "enclosure_length": "69731824",
       "itunes_duration": "2:25:57",
       "speakers": [
-        "Troy Lavallee",
-        "Ross Bryant",
-        "Noura Ibrahim",
-        "Rob Kerkovich",
-        "Kate Stamas",
-        "Aliens Traveller Voyagers"
+        "Pisco Sour",
+        "Cthulhu Masks"
       ],
       "topics": [
         "pisco",
@@ -1217,9 +1023,7 @@
         "Ross Bryant",
         "Noura Ibrahim",
         "Kate Stamas",
-        "Rob Kerkovich",
-        "Troy Lavallee",
-        "Aliens Traveller Voyagers"
+        "Rob Kerko"
       ],
       "topics": [
         "dramatis",
@@ -1238,45 +1042,46 @@
 
 ## Episodes (newest first)
 
-- 2024-08-31 — Call of Cthulhu Live! | The Athenaeum | Indianapolis 2024 — speakers: Keeper Troy Lavallee, Glass Cannon, Joe O'Brien, Skid Maher, Matthew Capodicasa, Rob Kerkovich, Kate Stamas, Noura Ibrahim
-- 2024-06-01 — Death Be Not Proud | Time For Chaos S2 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2024-05-25 — Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2024-05-18 — One Little Room | Time For Chaos S2 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2024-05-11 — Smoke on the Water | Time For Chaos S2 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2024-05-04 — Exhibit A | Time For Chaos S2 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2024-04-27 — Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2024-04-20 — Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2024-04-13 — Two Little Ducks | Time For Chaos S2 E13 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2024-04-06 — The Prodigal Son | Time For Chaos S2 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2024-03-30 — Old Habits | Time For Chaos S2 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Plum Castle, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2024-03-23 — Lupus In Fabula | Time For Chaos S2 E10 | Call of Cthulhu Masks of Nyarlathotep — speakers: theglasscannon Cast, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Aliens Traveller Voyagers
-- 2024-03-16 — Law and Orders | Time For Chaos S2 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: theglasscannon Cast, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Aliens Traveller Voyagers
-- 2024-03-09 — Four Great Beasts | Time For Chaos S2 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: theglasscannon Cast, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Aliens Traveller Voyagers
-- 2024-03-02 — Spice It Up! | Time For Chaos S2 E7 | Call of Cthulhu Masks of Nyarlathotep — speakers: theglasscannon Cast, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Aliens Traveller Voyagers
-- 2024-02-24 — Hearts and Clubs | Time For Chaos S2 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: theglasscannon Cast, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Aliens Traveller Voyagers
-- 2024-02-17 — Night Terrors | Time For Chaos S2 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: theglasscannon Cast, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Aliens Traveller Voyagers
-- 2024-02-10 — Everyone's a Critic | Time For Chaos S2 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: theglasscannon Cast, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Aliens Traveller Voyagers
-- 2024-02-03 — Artist In Residence | Time For Chaos S2 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jackson Elias, theglasscannon Cast, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Aliens Traveller Voyagers
-- 2024-01-27 — Cruise Line Visit Getaway | Time For Chaos S2 E2 | Call of Cthulhu Masks of Nyarlathotep — speakers: theglasscannon Cast, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Aliens Traveller Voyagers
-- 2024-01-20 — The Temptation of St. Anthony | Time For Chaos S2 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: theglasscannon Cast, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Aliens Traveller Voyagers
-- 2023-09-04 — Call of Cthulhu Live! | The Athenaeum | Indianapolis 2023 — speakers: Keeper Troy Lavallee, Kate Stamas, Rob Kerkovich, Glass Cannon, Joe O'Brien, Skid Maher, Troy Lavallee, Noura Ibrahim
-- 2023-05-08 — The Lunatic Is in My Head | Time For Chaos S1 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-05-01 — Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-04-24 — Maniac Mansion | Time For Chaos S1 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Erica Carlyle, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-04-17 — The Mystery Squad | Time For Chaos S1 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-04-10 — And One Was a Soldier | Time For Chaos S1 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-04-03 — Ill Met By Moonlight | Time For Chaos S1 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-03-27 — Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-03-20 — Death House | Time For Chaos S1 E13 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-03-13 — Harlem Shuffle | Time For Chaos S1 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-03-06 — Let's Scream Together | Time For Chaos S1 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-02-27 — DMV | Time For Chaos S1 E10 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-02-20 — Room 410 | Time For Chaos S1 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jackson Elias, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-02-13 — Homeward Bound | Time For Chaos S1 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Homeward Bound, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-02-06 — Exquisite Corpses | Time For Chaos S1 E7 | Call of Cthlulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-01-30 — Just a Little Tear | Time For Chaos S1 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-01-23 — Lake Titicaca | Time For Chaos S1 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-01-16 — The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: Augustus Larkin, Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-01-09 — First Kiss | Time For Chaos S1 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-01-09 — Pisco Sour | Time For Chaos S1 E2 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Ross Bryant, Noura Ibrahim, Rob Kerkovich, Kate Stamas, Aliens Traveller Voyagers
-- 2023-01-09 — Dramatis Personae | Time For Chaos S1 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: Dramatis Personae, Ross Bryant, Noura Ibrahim, Kate Stamas, Rob Kerkovich, Troy Lavallee, Aliens Traveller Voyagers
+- 2026-03-24 — Time For Chaos RSS Feed Update
+- 2024-08-31 — Call of Cthulhu Live! | The Athenaeum | Indianapolis 2024 — speakers: Glass Cannon Network
+- 2024-06-01 — Death Be Not Proud | Time For Chaos S2 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Misr House
+- 2024-05-25 — Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep
+- 2024-05-18 — One Little Room | Time For Chaos S2 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: One Little Room, Cthulhu Masks, Nyarlathotep After
+- 2024-05-11 — Smoke on the Water | Time For Chaos S2 E17 | Call of Cthulhu Masks of Nyarlathotep
+- 2024-05-04 — Exhibit A | Time For Chaos S2 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
+- 2024-04-27 — Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Hidden Lines, Cthulhu Masks, Henson Manufacturing
+- 2024-04-20 — Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep
+- 2024-04-13 — Two Little Ducks | Time For Chaos S2 E13 | Call of Cthulhu Masks of Nyarlathotep
+- 2024-04-06 — The Prodigal Son | Time For Chaos S2 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep Content Warning
+- 2024-03-30 — Old Habits | Time For Chaos S2 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Old Habits, Cthulhu Masks, Nyarlathotep Content Warning
+- 2024-03-23 — Lupus In Fabula | Time For Chaos S2 E10 | Call of Cthulhu Masks of Nyarlathotep
+- 2024-03-16 — Law and Orders | Time For Chaos S2 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
+- 2024-03-09 — Four Great Beasts | Time For Chaos S2 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Four Great Beasts, Cthulhu Masks, Empire Spices
+- 2024-03-02 — Spice It Up! | Time For Chaos S2 E7 | Call of Cthulhu Masks of Nyarlathotep
+- 2024-02-24 — Hearts and Clubs | Time For Chaos S2 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
+- 2024-02-17 — Night Terrors | Time For Chaos S2 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Night Terrors, Cthulhu Masks
+- 2024-02-10 — Everyone's a Critic | Time For Chaos S2 E4 | Call of Cthulhu Masks of Nyarlathotep
+- 2024-02-03 — Artist In Residence | Time For Chaos S2 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jackson Elias
+- 2024-01-27 — Cruise Line Visit Getaway | Time For Chaos S2 E2 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cruise Line Visit Getaway, Cthulhu Masks
+- 2024-01-20 — The Temptation of St. Anthony | Time For Chaos S2 E1 | Call of Cthulhu Masks of Nyarlathotep
+- 2023-09-04 — Call of Cthulhu Live! | The Athenaeum | Indianapolis 2023 — speakers: Athenaeum Theatre, Gen Con
+- 2023-05-08 — The Lunatic Is in My Head | Time For Chaos S1 E20 | Call of Cthulhu Masks of Nyarlathotep
+- 2023-05-01 — Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Carlyle Mansion
+- 2023-04-24 — Maniac Mansion | Time For Chaos S1 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Maniac Mansion, Cthulhu Masks, Carlyle Mansion
+- 2023-04-17 — The Mystery Squad | Time For Chaos S1 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
+- 2023-04-10 — And One Was a Soldier | Time For Chaos S1 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
+- 2023-04-03 — Ill Met By Moonlight | Time For Chaos S1 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
+- 2023-03-27 — Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Spot Hidden, Cthulhu Masks, Nyarlathotep New
+- 2023-03-20 — Death House | Time For Chaos S1 E13 | Call of Cthulhu Masks of Nyarlathotep — speakers: Death House, Cthulhu Masks
+- 2023-03-13 — Harlem Shuffle | Time For Chaos S1 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Harlem Shuffle, Cthulhu Masks
+- 2023-03-06 — Let's Scream Together | Time For Chaos S1 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Scream Together, Cthulhu Masks, Police Station
+- 2023-02-27 — DMV | Time For Chaos S1 E10 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep After
+- 2023-02-20 — Room 410 | Time For Chaos S1 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, New York City
+- 2023-02-13 — Homeward Bound | Time For Chaos S1 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Homeward Bound
+- 2023-02-06 — Exquisite Corpses | Time For Chaos S1 E7 | Call of Cthlulhu Masks of Nyarlathotep
+- 2023-01-30 — Just a Little Tear | Time For Chaos S1 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Little Tear, Cthulhu Masks
+- 2023-01-23 — Lake Titicaca | Time For Chaos S1 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Lake Titicaca, Cthulhu Masks
+- 2023-01-16 — The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: Augustus Larkin
+- 2023-01-09 — First Kiss | Time For Chaos S1 E3 | Call of Cthulhu Masks of Nyarlathotep
+- 2023-01-09 — Pisco Sour | Time For Chaos S1 E2 | Call of Cthulhu Masks of Nyarlathotep — speakers: Pisco Sour, Cthulhu Masks
+- 2023-01-09 — Dramatis Personae | Time For Chaos S1 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: Dramatis Personae, Ross Bryant, Noura Ibrahim, Kate Stamas, Rob Kerko
