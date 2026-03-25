@@ -2,9 +2,9 @@
 
 - slug: `the-apocalypse-players`
 - source: `https://www.apocalypseplayers.com/feed.xml`
-- fetched_at: `2026-03-24T03:15:39+00:00`
-- checked_at: `2026-03-24T03:15:39+00:00`
-- etag: `"33ff1ce8d91aa878cc410478e3a9bd1e"`
+- fetched_at: `2026-03-25T03:20:37+00:00`
+- checked_at: `2026-03-25T03:20:37+00:00`
+- etag: `"d1a231bb20f2e92c438a98bf807900b3"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.apocalypseplayers.com",
   "description": "A Call of Cthulhu actual play podcast. Dice-driven cosmic horrors supplied by Dominic Allen, Joseph Chance, Danann McAleer and guests. --- The Apocalypse Players is an actual play (or live play) TTRPG podcast focused on horror tabletop roleplaying games. Think Dimension 20 or Critical Role, but fewer dragons, more eldritch horrors, and more British actors taking their roleplaying very seriously (most of the time). We primarily play the Chaosium RPG Call of Cthulhu, but have also been known to dabble with other systems, most of which can be found on our Patreon: www.patreon.com/apocalypseplayers We now have a free Discord server where you can come and worship at the altar of the Apocalypse, play Call of Cthulhu online, and meet like-minded cultists who will be only to eager to welcome you into the fold. New sacrifices oops we mean players are always welcome. Join here: discord.com/invite/kRQ62t6SjH",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/12449352/Logo_3200_yy4cvy.jpg",
-  "fetched_at": "2026-03-24T03:15:39+00:00",
+  "fetched_at": "2026-03-25T03:20:37+00:00",
   "owners": [
     "Dominic Allen",
     "Joseph Chance",
@@ -38,7 +38,7 @@
       "image_url": null,
       "enclosure_url": "https://mcdn.podbean.com/mf/web/s4mci989sfd6g7kd/Waters_Ep_179iu33.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "56277367",
+      "enclosure_length": "56277202",
       "itunes_duration": "3517",
       "speakers": [
         "Dominic Allen",
