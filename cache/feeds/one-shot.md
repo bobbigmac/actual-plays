@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-03-25T07:31:02+00:00`
-- checked_at: `2026-03-25T07:31:02+00:00`
-- last_modified: `Wed, 25 Mar 2026 04:06:38 GMT`
+- fetched_at: `2026-03-25T16:38:08+00:00`
+- checked_at: `2026-03-25T16:38:08+00:00`
+- last_modified: `Wed, 25 Mar 2026 15:21:30 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/3d67f9d92fe4f8284ae99be666359d60.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-25T07:31:02+00:00",
+  "fetched_at": "2026-03-25T16:38:08+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -32,7 +32,7 @@
       "title": "643. Dragon Reactor, Episode 3",
       "published_at": "2026-03-25T01:09:00+00:00",
       "link": null,
-      "description": "EPISODE SUMMARY The Dragon Mech Pilots’ confront an explosive ending and face the consequences of their actions. SHOW NOTES Dragon Reactor One Shot News & Updates One Shot Patreon One Shot TWITCH ULTIMATE RPG VILLAIN BACKSTORY GUIDE Follow the cast here! Dillin Apelyan Nova Drak Brian Flaherty Lexi McQueen ----------------------------------------------------- Know Your Rights Toolkits Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "EPISODE SUMMARY The Dragon Mech Pilots’ confront an explosive ending and face the consequences of their actions. SHOW NOTES Dragon Reactor One Shot News & Updates One Shot Patreon One Shot TWITCH ULTIMATE RPG VILLAIN BACKSTORY GUIDE Follow the cast here! Dillin Apelyan Nova Drak Brian Flaherty Lexi McQueen ----------------------------------------------------- Know Your Rights Toolkits Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Runaway Quartet, Moments Lurk, Wicked Cinema Salt in the Wound, Ender The Highest Order, Wicked Cinema The Dark, Wicked Cinema Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
       "enclosure_url": "https://traffic.megaphone.fm/OSPN1104863872.mp3?updated=1774403373",
       "enclosure_type": "audio/mpeg",
