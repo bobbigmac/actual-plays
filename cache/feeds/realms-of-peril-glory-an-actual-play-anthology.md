@@ -2,9 +2,9 @@
 
 - slug: `realms-of-peril-glory-an-actual-play-anthology`
 - source: `https://feeds.megaphone.fm/FAFO5417156687`
-- fetched_at: `2026-03-23T07:41:04+00:00`
-- checked_at: `2026-03-23T07:41:04+00:00`
-- last_modified: `Mon, 23 Mar 2026 05:01:00 GMT`
+- fetched_at: `2026-03-25T13:52:16+00:00`
+- checked_at: `2026-03-25T13:52:16+00:00`
+- last_modified: `Wed, 25 Mar 2026 13:22:20 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.realmspod.com",
   "description": "Legendary Stories, Awe-inspiring Sound & Endless Adventure await in the Realms of Peril & Glory! Get ready for the actual play adventure of a lifetime! Explore the mechanically magical vistas of Vael, the paranormal mysteries of Liminal London, and the cyberpunk chaos of CY_BORG. With breathtaking sound design and enchanting original music, you’ll be immersed into unforgettable campaigns and heart-pounding one-shots. Ignite your imagination and discover the Realms of Peril & Glory today.",
   "image_url": "https://megaphone.imgix.net/podcasts/cf44508e-0b0f-11ec-8617-0328e1238bf9/image/eaa7bfb57a3a4843e7e98ba3af5b0c46.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-23T07:41:04+00:00",
+  "fetched_at": "2026-03-25T13:52:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ccb6ca456a5d9d5594517c48bf5a645a775a5473",
+      "title": "Long Live, The Final Liminal London Mystery - Coming Spring 2026",
+      "published_at": "2026-03-25T12:37:00+00:00",
+      "link": null,
+      "description": "Monty, Mags and Declan have been invited to attend the coronation of the new King of Wimbledon Common. The race is on to topple The Queen of Hyde Park as the power players of Liminal London begin to make their final moves. Coming Spring 2026. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/701586a0-2847-11f1-8398-a37437c0fb93/image/37a0aa3e7a9bc1784c35fa26bbf6dfac.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP8101952437.mp3?updated=1774442684",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "111",
+      "speakers": [],
+      "topics": [
+        "long",
+        "liminal",
+        "london",
+        "mystery",
+        "spring"
+      ]
+    },
     {
       "key": "aa746ed59332698fd3e9c3223510c560fd88cc85",
       "title": "Vael | Tragedy in the Twine",
@@ -318,27 +338,6 @@
         "savage",
         "worlds",
         "realms"
-      ]
-    },
-    {
-      "key": "935e4ec3676e72aaada8fca14ff5a664a3954efc",
-      "title": "OUT NOW | Vael Campaign One Remaster",
-      "published_at": "2025-04-22T08:52:00+00:00",
-      "link": null,
-      "description": "The remaster of Vael Campaign One is AVAILABLE NOW! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | MERCH | SOCIALS | DISCORD | NEWSLETTER Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/623dfebc-1f57-11f0-989d-6f85234c77de/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP2306564026.mp3?updated=1745312438",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "167",
-      "speakers": [
-        "Vael Campaign One Remaster",
-        "Vael Campaign One"
-      ],
-      "topics": [
-        "vael",
-        "campaign",
-        "remaster"
       ]
     },
     {
@@ -2836,6 +2835,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — Long Live, The Final Liminal London Mystery - Coming Spring 2026
 - 2026-03-23 — Vael | Tragedy in the Twine
 - 2026-02-09 — Vael | Investigation in Imperium
 - 2026-01-26 — Vael | Bureaucracy in Imperium
@@ -2851,7 +2851,6 @@
 - 2025-09-01 — Vael | Return to New Harbour
 - 2025-08-25 — Vael Returns! | Realms Announcement — speakers: Vael Returns
 - 2025-04-28 — Zombie Survival | Savage Worlds | Realms x What am I Rolling! — speakers: Zombie Survival
-- 2025-04-22 — OUT NOW | Vael Campaign One Remaster — speakers: Vael Campaign One Remaster, Vael Campaign One
 - 2025-04-14 — Vael: Rapscallion Rule | It's Nothing Personal — speakers: Rapscallion Rule
 - 2025-04-07 — Vael: Rapscallion Rule | Meatball's Street Brawl — speakers: Joey Romano
 - 2025-03-31 — Vael: Rapscallion Rule | Peacetalks in Wartime — speakers: Iceforge Clan
