@@ -2,9 +2,9 @@
 
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
-- fetched_at: `2026-03-22T18:56:51+00:00`
-- checked_at: `2026-03-22T18:56:51+00:00`
-- etag: `W/"121c2f-BwnpnuTRl74ltp64XILxpqaksO4"`
+- fetched_at: `2026-03-26T21:47:51+00:00`
+- checked_at: `2026-03-26T21:47:51+00:00`
+- etag: `W/"12341e-AoQ3Sy5sK8rm695CXV2QcPmFPB8"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.legendlark.com/",
   "description": "..🚂🚃🚋🚃🚃🚋🚋🚋🚃...... A train pulls into the station. A circus raises its tents. Welcome, one and all, to NEVERNOWHERE— a place where your memories are currency, every dream is reality, and crime really does pay. LegendLark is a narrative comedy TTRPG podcast. Updates every 2nd Thursday! www.legendlark.com",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42536434/42536434-1749749385558-2ae7f02ee5d26.jpg",
-  "fetched_at": "2026-03-22T18:56:51+00:00",
+  "fetched_at": "2026-03-26T21:47:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "dd7b36a385a86f8656e1275cc22b291946b5c4c2",
+      "title": "NEVERNOWHERE 18. Cutely Casing the Itty Bitty City",
+      "published_at": "2026-03-26T20:48:32+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-18--Cutely-Casing-the-Itty-Bitty-City-e3h16oq",
+      "description": "Oak Hollow is such a cutie little tiny world, isn't it? People are wearing acorns as hats, squirrels are pulling carts like horses, violent revolution is emerging as the only means toward class liberation... SOOOOOOO KAWAII! 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42536434/42536434-1774557930543-9c074c6a437e3.jpg",
+      "enclosure_url": "https://anchor.fm/s/fe220908/podcast/play/117528794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-26%2F7fd698b8-0bb4-968c-ba66-3fd891874ff1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "118604212",
+      "itunes_duration": "01:10:33",
+      "speakers": [
+        "Cutely Casing",
+        "Itty Bitty City Oak"
+      ],
+      "topics": [
+        "nevernowhere",
+        "itty",
+        "bitty",
+        "city"
+      ]
+    },
     {
       "key": "2047899429718094da77f683f2711dfd9c28f1f8",
       "title": "Guardians Reborn TEASER",
@@ -3985,6 +4007,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-26 — NEVERNOWHERE 18. Cutely Casing the Itty Bitty City — speakers: Cutely Casing, Itty Bitty City Oak
 - 2026-03-12 — Guardians Reborn TEASER
 - 2026-02-26 — NEVERNOWHERE 17. All Cities Are The Same — speakers: Same Fresh
 - 2026-02-12 — NEVERNOWHERE: Q&A 1

@@ -2,10 +2,10 @@
 
 - slug: `worlds-beyond-number`
 - source: `https://feeds.simplecast.com/IAPnSSRO`
-- fetched_at: `2026-03-20T21:47:21+00:00`
-- checked_at: `2026-03-20T21:47:21+00:00`
-- etag: `"472c75e02a44c87c1f15b2e68d4196c1"`
-- last_modified: `Fri, 20 Mar 2026 19:54:30 GMT`
+- fetched_at: `2026-03-26T21:47:51+00:00`
+- checked_at: `2026-03-26T21:47:51+00:00`
+- etag: `"2710c2e57e89e85bd7a1373d4ca48f47"`
+- last_modified: `Thu, 26 Mar 2026 21:45:28 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://worlds-beyond-number.simplecast.com",
   "description": "An epic, improvised storytelling podcast where Brennan Lee Mulligan, Erika Ishii, Aabria Iyengar, and Lou Wilson hang out together, play games, build worlds, and make stories.",
   "image_url": "https://image.simplecastcdn.com/images/c89bbbb6-e942-4583-ad73-4877d9c0b2f6/dfae107c-3b1e-4c37-acf7-a48a1ff6e445/3000x3000/wbn-album-logo-art-2024-3000x3000.jpg?aid=rss_feed",
-  "fetched_at": "2026-03-20T21:47:21+00:00",
+  "fetched_at": "2026-03-26T21:47:51+00:00",
   "owners": [
     "Brennan Lee Mulligan",
     "Aabria Iyengar",
