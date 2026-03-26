@@ -2,10 +2,10 @@
 
 - slug: `the-unexpectables`
 - source: `https://feeds.libsyn.com/105383/rss`
-- fetched_at: `2026-02-27T19:04:47+00:00`
-- checked_at: `2026-02-27T19:04:47+00:00`
-- etag: `"e66795f9da8279176880a671ee32e32a"`
-- last_modified: `Fri, 27 Feb 2026 17:40:16 GMT`
+- fetched_at: `2026-03-26T19:34:09+00:00`
+- checked_at: `2026-03-26T19:34:09+00:00`
+- etag: `"4d1d74a64278d00d14b00f264b9e1c75"`
+- last_modified: `Thu, 26 Mar 2026 17:05:24 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://101club.libsyn.com/website",
   "description": "Follow the travels and tribulations of Task the Kobold Ranger, Greckles the Kenku Rogue, Panic the Tiefling Bard, and Borky the Orc Barbarian, as they traverse the dangerous and mysterious lands of Alivast, and the Capital City that hosts a bungle of characters, magic and villains.",
   "image_url": "https://static.libsyn.com/p/assets/6/9/c/7/69c7492dcb405690/sweet_dragon_logo.png",
-  "fetched_at": "2026-02-27T19:04:47+00:00",
+  "fetched_at": "2026-03-26T19:34:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,80 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "61813cbb1e408ca3cdd9b2781ff61e28b755ae1a",
+      "title": "ALMOST a One Shot - Fool's Gelt Episode 1",
+      "published_at": "2026-03-26T17:02:00+00:00",
+      "link": "https://101club.libsyn.com/almost-a-one-shot-fools-gelt-episode-1",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_1_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "198347033",
+      "itunes_duration": "03:56:04",
+      "speakers": [
+        "One Shot"
+      ],
+      "topics": [
+        "shot",
+        "fool",
+        "gelt"
+      ]
+    },
+    {
+      "key": "06721248a2e06c7efd2a59fff78e28da68f8fb0f",
+      "title": "The Unexpectables II Episode 144 - Aweboway",
+      "published_at": "2026-03-26T17:01:00+00:00",
+      "link": "https://101club.libsyn.com/the-unexpectables-ii-episode-144-aweboway",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_144_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "125553105",
+      "itunes_duration": "02:29:24",
+      "speakers": [],
+      "topics": [
+        "unexpectables",
+        "aweboway"
+      ]
+    },
+    {
+      "key": "1391786f183ae1f3b4813d4701c62def6c62dbcf",
+      "title": "The Unexpectables II Episode 143 - Come to Papa",
+      "published_at": "2026-03-26T16:59:00+00:00",
+      "link": "https://101club.libsyn.com/the-unexpectables-ii-episode-143-come-to-papa",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_143_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "133685127",
+      "itunes_duration": "02:39:05",
+      "speakers": [],
+      "topics": [
+        "unexpectables",
+        "papa"
+      ]
+    },
+    {
+      "key": "bcaeb32b2376f2a61498398aef83074230b99cf8",
+      "title": "The Unexpectables II Episode 142 - A Rat Spat in Ratatuga",
+      "published_at": "2026-03-26T16:57:00+00:00",
+      "link": "https://101club.libsyn.com/the-unexpectables-ii-episode-142-a-rat-spat-in-ratatuga",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_142_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "145541950",
+      "itunes_duration": "02:53:12",
+      "speakers": [
+        "Rat Spat"
+      ],
+      "topics": [
+        "unexpectables",
+        "spat",
+        "ratatuga"
+      ]
+    },
     {
       "key": "f543a67d13b9062682a2cbfe276ccd7f27ff0c57",
       "title": "The Unexpectables II Episode 141 - My Little Wormy",
@@ -10878,6 +10952,10 @@
 
 ## Episodes (newest first)
 
+- 2026-03-26 — ALMOST a One Shot - Fool's Gelt Episode 1 — speakers: One Shot
+- 2026-03-26 — The Unexpectables II Episode 144 - Aweboway
+- 2026-03-26 — The Unexpectables II Episode 143 - Come to Papa
+- 2026-03-26 — The Unexpectables II Episode 142 - A Rat Spat in Ratatuga — speakers: Rat Spat
 - 2026-02-27 — The Unexpectables II Episode 141 - My Little Wormy — speakers: My Little Wormy
 - 2026-02-27 — The Unexpectables II Episode 140 - Pig Tales — speakers: Pig Tales
 - 2026-02-27 — Gateway 103 - The End, My Only Friend (Finale) — speakers: My Only Friend
