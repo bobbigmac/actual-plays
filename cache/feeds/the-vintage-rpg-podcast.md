@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-03-27T16:08:36+00:00`
-- checked_at: `2026-03-27T16:08:36+00:00`
-- etag: `"4dc76385eb244da09ed896649d52d4fa"`
-- last_modified: `Fri, 27 Mar 2026 15:42:13 GMT`
+- fetched_at: `2026-03-27T19:16:00+00:00`
+- checked_at: `2026-03-27T19:16:00+00:00`
+- etag: `"eac9cc92b64de65dd55d286200501f68"`
+- last_modified: `Fri, 27 Mar 2026 18:36:20 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-03-27T16:08:36+00:00",
+  "fetched_at": "2026-03-27T19:16:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -32,7 +32,7 @@
       "published_at": "2026-03-23T04:00:00+00:00",
       "link": "https://www.vintagerpg.com/2026/03/castle-thrax/",
       "description": "Of stock lists and ancient history. This week on the Vintage RPG Podcast, we explore Castle Thrax and the Spellbinders' treasure. That is, Spellbinders Games, a shop in Akron that published Castle Thrax , also had a lot of interesting titles in their stock list that don't seem to exist. Or do they? We'd like to know! * * * Instagram? Old news. Join the Vintage RPG Newsletter ! That's where all the cool kids are now! Stu's book, Monsters, Aliens, and Holes in the Ground is for sale now! Buy it ! Patreon? Discord? Cool RPG things to buy? All the Vintage RPG links you need are right here in one place ! Like, Rate, Subscribe and Review the Vintage RPG Podcast! Edited by the one and only R. Alex Murray . Send questions, comments or corrections to info@vintagerpg.com . Available on iTunes , Google Podcasts , iHeartRadio , Spotify , YouTube and your favorite podcast clients. The Vintage RPG illustration is by Shafer Brown . Follow him on Twitter . Tune in next week for the next episode. Until then, may the dice always roll in your favor!",
-      "image_url": "https://static.libsyn.com/p/assets/4/2/b/e/42be6b00d2d6c9a8d959afa2a1bf1c87/Post-20260320-62xdo75145.jpg",
+      "image_url": "https://static.libsyn.com/p/assets/1/3/7/d/137dc6d8466d1821d959afa2a1bf1c87/Vintage_Podcast_Icon-20260327-amvk7ie8cx.jpg",
       "enclosure_url": "https://traffic.libsyn.com/secure/thevintagerpgpodcast/VRPG_-_Castle_Thrax_.mp3?dest-id=747998",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46270970",
