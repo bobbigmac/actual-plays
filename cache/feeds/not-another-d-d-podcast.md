@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-03-20T03:12:12+00:00`
-- checked_at: `2026-03-20T03:12:12+00:00`
-- last_modified: `Fri, 20 Mar 2026 02:25:56 GMT`
+- fetched_at: `2026-03-27T03:31:39+00:00`
+- checked_at: `2026-03-27T03:31:39+00:00`
+- last_modified: `Fri, 27 Mar 2026 03:23:13 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-03-20T03:12:12+00:00",
+  "fetched_at": "2026-03-27T03:31:39+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,30 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "819fba36d657d917b1dc5a27b6d1abb0f8251e37",
+      "title": "Gangs of Neo Galaderon - Ep. 1: The Kill Screens",
+      "published_at": "2026-03-25T07:00:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/efe4d584-6cf6-464d-8c76-7f597006923d",
+      "description": "Meet the Kill Screens! Slug the Cyborc, Aux the Fox, and Atom the ATM fight an evil corporation to save their city. Slug enters a high stakes motorcycle roller derby, Atom infiltrates a rival gang of droids, and Aux goes all in on a wild bet. Support us at Patreon.com/Naddpod to get access to the after-show and a bunch of other Naddpod content! Music / Sound Effects Include: \"Neo Galaderon\" by Emily Axford. \"Cyberskitch\" by Emily Axford. \"Slug\" by Emily Axford. \"Aux\" by Emily Axford. \"Atom\" by Emily Axford. \"The Arcade\" by Emily Axford. \"The Inkling Syndicate\" by Emily Axford. \"The Gambling District\" by Emily Axford. \"Healing Worm\" by Emily Axford. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/d1/0d/55/27/d10d5527-7f64-4fff-b8e7-f8b3f7a3c87d/e7020181f0b4c8f654b4cd6d65a40f9163097773917d730e5b51d8a1fb7742088ae0dd9c40a922234b752935de836dc22f60df49822a74b7368bf6b4c221bf07.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/efe4d584-6cf6-464d-8c76-7f597006923d.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80771866",
+      "itunes_duration": "01:24:08",
+      "speakers": [
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "gang",
+        "galaderon",
+        "kill",
+        "screens"
+      ]
+    },
     {
       "key": "d3923a2c633b48c39f42f62bc712cc0b53c18b74",
       "title": "D&D Court: Husband Gloves, Drowncula, and DM Mojo",
@@ -10804,6 +10828,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — Gangs of Neo Galaderon - Ep. 1: The Kill Screens — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-03-19 — D&D Court: Husband Gloves, Drowncula, and DM Mojo — speakers: Husband Gloves, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-03-13 — Rot Topic - The Bizarre History of McDonaldland — speakers: Bizarre History, Rot Topic, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-03-06 — D&D Court: Overpopulated Academies, Unsent Texts and Pop-Punk Homework — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
