@@ -2,10 +2,10 @@
 
 - slug: `happy-jacks-rpg-one-shots`
 - source: `https://www.happyjacks.org/feed/oneshots/`
-- fetched_at: `2026-03-26T16:36:49+00:00`
-- checked_at: `2026-03-26T16:36:49+00:00`
-- etag: `"0bf6a4e8c7325c01ce47d4033ab7d115"`
-- last_modified: `Thu, 26 Mar 2026 15:58:00 GMT`
+- fetched_at: `2026-03-28T19:01:55+00:00`
+- checked_at: `2026-03-28T19:01:55+00:00`
+- etag: `"ffe11a8a1de77a8fe20ec6005db9d5de"`
+- last_modified: `Sat, 28 Mar 2026 16:49:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://happyjacks.org/blog/",
   "description": "Happy Jacks RPG One Shots is an actual play podcast feed featuring a collection of single session or mini-campaign games in a variety table-top RPG systems, from old favorites, to the new and shiny.",
   "image_url": "https://happyjacks.org//artfiles/oneshotart.jpg",
-  "fetched_at": "2026-03-26T16:36:49+00:00",
+  "fetched_at": "2026-03-28T19:01:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

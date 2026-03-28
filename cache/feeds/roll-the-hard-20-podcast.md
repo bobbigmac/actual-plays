@@ -2,9 +2,9 @@
 
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
-- fetched_at: `2026-03-28T15:48:16+00:00`
-- checked_at: `2026-03-28T15:48:16+00:00`
-- etag: `W/"713ce652902c81fc650c90f40bdf264f"`
+- fetched_at: `2026-03-28T19:01:55+00:00`
+- checked_at: `2026-03-28T19:01:55+00:00`
+- etag: `W/"250b30cbc47b829fe6d379a93477a3fa"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollthehard20podcast.com/podcast-episode/",
   "description": "Dungeons and Dragons weekly actual play and discussions",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/9d3b0539-1955-4096-946d-2fe71cf34e12/TheHardTwenty-DeltaGreen-Greens+2.jpg?format=1500w",
-  "fetched_at": "2026-03-28T15:48:16+00:00",
+  "fetched_at": "2026-03-28T19:01:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "5157fea83bb8848f61c206192c1e893848039b3a",
+      "title": "DELTA GREEN: PLAYTHINGS (EP 7)",
+      "published_at": "2026-03-28T18:48:26+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/3/28/delta-green-playthings-ep-7",
+      "description": "The Agents have a clue as to where the dolls might have come from… and Ichi recruits the assistance of a possible ally. Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Just one more venue we can be found! https://www.delta-green.com/topics/debriefing/ Want to be a Hard Slinger and get cool swag? Join us on our Patreon page! https://www.patreon.com/rollthehard20podcast Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://instagram.com/rollthehard20?igshid=gjlo7p4lay72 https://twitter.com/rollthehard20?s=11 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1774723695590-TY2IGKUJNXDI5ARMI50H/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/69c821df05449f36335a4df7/1774723681448/pt+7+-+3%3A27%3A26%2C+7.06+PM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89408077",
+      "itunes_duration": "46:34",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "playthings"
+      ]
+    },
     {
       "key": "5d1c17c259e935c418493c5c09c02085154a9020",
       "title": "DELTA GREEN: PLAYTHINGS (EP 6)",
@@ -5659,27 +5677,6 @@
         "podcast",
         "noobie"
       ]
-    },
-    {
-      "key": "925fd65ecab9eb32fe8e1f64b963f10edc28b6ed",
-      "title": "RIDERS ON THE STORM EP 21: HOME INVASION, ISLAND STYLE!",
-      "published_at": "2018-12-02T04:14:49+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2018/12/1/riders-on-the-storm-ep-21-home-invasion-island-style",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909351059-ZVP87VTVXGQUMMPCXSTM/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c0359fe562fa75fca284456/1543723808061/Riders+on+the+Storm+EP+21+Home+Invasion+Island+Style.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "100298001",
-      "itunes_duration": "1:09:38",
-      "speakers": [],
-      "topics": [
-        "rider",
-        "storm",
-        "home",
-        "invasion",
-        "island",
-        "style"
-      ]
     }
   ]
 }
@@ -5688,6 +5685,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-28 — DELTA GREEN: PLAYTHINGS (EP 7)
 - 2026-03-20 — DELTA GREEN: PLAYTHINGS (EP 6)
 - 2026-03-14 — DELTA GREEN: PLAYTHINGS (EP 5)
 - 2026-03-08 — DELTA GREEN: PLAYTHINGS (EP 4)
@@ -5987,4 +5985,3 @@
 - 2018-12-29 — RIDERS ON THE STORM EP 24: ENTER THE DRAGONBORN
 - 2018-12-23 — RIDERS ON THE STORM EP 23: DEFINE A FREE ACTION
 - 2018-12-13 — ROLL THE HARD 20 PODCAST EP 22: SHOW ME YOUR NOOBIES (INTERVIEW)
-- 2018-12-02 — RIDERS ON THE STORM EP 21: HOME INVASION, ISLAND STYLE!
