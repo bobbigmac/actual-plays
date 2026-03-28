@@ -2,9 +2,9 @@
 
 - slug: `ballad-of-the-seven-dice-a-pathfinder-call-of-cthulhu-podcast`
 - source: `https://balladofthesevendice.podbean.com/feed.xml`
-- fetched_at: `2026-03-01T03:25:04+00:00`
-- checked_at: `2026-03-01T03:25:04+00:00`
-- etag: `"45419607acdd273965524b197b470fcd"`
+- fetched_at: `2026-03-28T21:46:46+00:00`
+- checked_at: `2026-03-28T21:46:46+00:00`
+- etag: `"e64c8fd10f6176c9f6de66381dc7e7e9"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://balladofthesevendice.podbean.com",
   "description": "Our new campaign Escaping Carcosa follows two stories; one a Pathfinder2e tale that follows a group trapped inside a video game called Carcosa Online. The other group is a team of investigators playing Call of Cthulhu trying to free everyone trapped. Will they find freedom or will their world become another until Hastur’s control?",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/2696764/BOT7DPodcast_Resized_8cwkcf.jpg",
-  "fetched_at": "2026-03-01T03:25:04+00:00",
+  "fetched_at": "2026-03-28T21:46:46+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,25 @@
     "ttrpg/call-of-cthulhu"
   ],
   "episodes": [
+    {
+      "key": "5e90c28bf03b6132e5b612e5bc250e42c0087e60",
+      "title": "Escaping Carcosa Online - Day 3 E12 // The Crawling Chaos",
+      "published_at": "2026-03-28T21:33:12+00:00",
+      "link": "https://balladofthesevendice.podbean.com/e/escaping-carcosa-online-day-3-e12-the-crawling-chaos/",
+      "description": "Welcome to the Ballad of the Seven Dice. The party is hit with the final and fourth trial before making a heavy decision. What fate will befall Sir Non Player and NPC? Check out our YouTube Want to join in on the conversation? Join Our Discord Show Notes Sin and Sinners, Experiment 4, Astral Projection, Creepy Doll, Dark Secret - Dark Fantasy Studio Filip Melvan - Fable Under The Table - 05 Tavern At The End Of Road Cellar - Monument Studios Cursed Forest, Quiet Tavern, Medieval City Indoors, Urban Park at Night, Daytime Forest, Fantasy Medieval City, - Michaël Ghelfi",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/3d5dvxj3k3siy6wu/Escaping_Carcosa_Online_-_Season_3_Episode_127y6no.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51278575",
+      "itunes_duration": "3204",
+      "speakers": [],
+      "topics": [
+        "carcosa",
+        "online",
+        "crawling",
+        "chaos"
+      ]
+    },
     {
       "key": "1f0092eb4a7e98b01d3ac543cc5d09526590fc90",
       "title": "Escaping Carcosa Online - Day 3 E11 // The Dwarf Lord's Trials",
@@ -4598,6 +4617,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-28 — Escaping Carcosa Online - Day 3 E12 // The Crawling Chaos
 - 2026-03-01 — Escaping Carcosa Online - Day 3 E11 // The Dwarf Lord's Trials
 - 2026-02-10 — Escaping Carcosa Offline - Day 3 E10 // The Pines of Zimbabwe — speakers: Carcosa Offline Day
 - 2026-01-31 — Escaping Carcosa Online - Day 3 E10 // An Unexpected Party
