@@ -2,9 +2,9 @@
 
 - slug: `ballad-of-the-seven-dice-a-pathfinder-call-of-cthulhu-podcast`
 - source: `https://balladofthesevendice.podbean.com/feed.xml`
-- fetched_at: `2026-03-28T21:46:46+00:00`
-- checked_at: `2026-03-28T21:46:46+00:00`
-- etag: `"e64c8fd10f6176c9f6de66381dc7e7e9"`
+- fetched_at: `2026-03-29T21:49:02+00:00`
+- checked_at: `2026-03-29T21:49:02+00:00`
+- etag: `"76253a7b4f42010badb68c07ec82c717"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://balladofthesevendice.podbean.com",
   "description": "Our new campaign Escaping Carcosa follows two stories; one a Pathfinder2e tale that follows a group trapped inside a video game called Carcosa Online. The other group is a team of investigators playing Call of Cthulhu trying to free everyone trapped. Will they find freedom or will their world become another until Hastur’s control?",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/2696764/BOT7DPodcast_Resized_8cwkcf.jpg",
-  "fetched_at": "2026-03-28T21:46:46+00:00",
+  "fetched_at": "2026-03-29T21:49:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,26 @@
     "ttrpg/call-of-cthulhu"
   ],
   "episodes": [
+    {
+      "key": "d625eb35f84dbd22fbdd62d131256688e784c6ef",
+      "title": "Escaping Carcosa Offline - Day 3 E11 // Get Them Digits",
+      "published_at": "2026-03-29T20:44:14+00:00",
+      "link": "https://balladofthesevendice.podbean.com/e/escaping-carcosa-offline-day-3-e11-get-them-digits/",
+      "description": "Welcome to the Ballad of the Seven Dice. The party is in full swing in their operations for MoPop and it's time to turn on the charm. It is an plan I did not anticipate, but dear listeners I should have! Check out our YouTube Want to join in on the conversation? Join Our Discord Show Notes Conspiracy Unravel, Closing In, A Bad Outcome - Monument Studio Neon God, Experiment 4, Snowfield, Time, In This Time, - Dark Fantasy Studio Italian City Streets, Urban Night - Michaël Ghelfi",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/bixq632j66vvbkc9/Escaping_Carcosa_Offline_-_Season_3_Episode_119nram.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72923845",
+      "itunes_duration": "4557",
+      "speakers": [
+        "Carcosa Offline Day"
+      ],
+      "topics": [
+        "carcosa",
+        "offline",
+        "digit"
+      ]
+    },
     {
       "key": "5e90c28bf03b6132e5b612e5bc250e42c0087e60",
       "title": "Escaping Carcosa Online - Day 3 E12 // The Crawling Chaos",
@@ -4617,6 +4637,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-29 — Escaping Carcosa Offline - Day 3 E11 // Get Them Digits — speakers: Carcosa Offline Day
 - 2026-03-28 — Escaping Carcosa Online - Day 3 E12 // The Crawling Chaos
 - 2026-03-01 — Escaping Carcosa Online - Day 3 E11 // The Dwarf Lord's Trials
 - 2026-02-10 — Escaping Carcosa Offline - Day 3 E10 // The Pines of Zimbabwe — speakers: Carcosa Offline Day
