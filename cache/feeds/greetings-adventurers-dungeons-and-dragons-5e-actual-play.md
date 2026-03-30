@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-03-30T14:03:52+00:00`
-- checked_at: `2026-03-30T14:03:52+00:00`
-- etag: `"djEuMi4wOjE3NzQ4NzY3NDExMTU="`
+- fetched_at: `2026-03-30T16:14:51+00:00`
+- checked_at: `2026-03-30T16:14:51+00:00`
+- etag: `"djEuMi4wOjE3NzQ4ODI4Mzk0NTQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-03-30T14:03:52+00:00",
+  "fetched_at": "2026-03-30T16:14:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "43ea9bd038a5ee8a650194e10988650b14bd6466",
+      "title": "Campaign 2: Episode 179 - Von Esper's Very Sad Wedding Day",
+      "published_at": "2026-03-30T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-179-von-espers-very-sad-wedding-day",
+      "description": "We get to meet Selene's very normal brother on his very special wedding day! First though, the crew decides they need a little bit of intel on the whole family situation. So, naturally, we end up in in a screaming match in and around a bathroom. Help out people being oppressed in Minnesota and Kansas ! The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by TheDedchicken ! Want the world to see your fan art? Post it with #DrunksAndDoodles Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1774876053830-0a8fe371-bd8d-46d4-8d6b-787813ddb9a6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/69ca78458fc1c62479f6eb85/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80077631",
+      "itunes_duration": "55:35",
+      "speakers": [],
+      "topics": [
+        "campaign",
+        "esper",
+        "wedding"
+      ]
+    },
     {
       "key": "f59773b17bdd7e95c628bbeb2ff622cad856b67b",
       "title": "Campaign 2: Episode 178 - Three Perfect Plans",
@@ -12189,6 +12207,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-30 — Campaign 2: Episode 179 - Von Esper's Very Sad Wedding Day
 - 2026-03-23 — Campaign 2: Episode 178 - Three Perfect Plans
 - 2026-03-16 — Campaign 2: Episode 177 - Tuxedo Bazaar Beatdown
 - 2026-03-09 — Campaign 2: Episode 176 - Mossy Wall of Soothing Reassurance — speakers: Mossy Wall
