@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-03-30T03:44:26+00:00`
-- checked_at: `2026-03-30T03:44:26+00:00`
-- last_modified: `Sun, 29 Mar 2026 23:01:52 GMT`
+- fetched_at: `2026-03-30T08:03:13+00:00`
+- checked_at: `2026-03-30T08:03:13+00:00`
+- last_modified: `Mon, 30 Mar 2026 04:03:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/3d67f9d92fe4f8284ae99be666359d60.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-30T03:44:26+00:00",
+  "fetched_at": "2026-03-30T08:03:13+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "42f3cb6bef5a796416e3ef05d09db420daea40c3",
+      "title": "644. The Session Zero System, Episode 1",
+      "published_at": "2026-03-30T04:03:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY Using the Session Zero System, we create unique characters and build a world for them to live in. SHOW NOTES Session Zero System One Shot News & Updates One Shot Patreon One Shot TWITCH ULTIMATE RPG VILLAIN BACKSTORY GUIDE Follow the cast here! Dillin Apelyan Poorna Valiant Dorian Aaron Catano-Saez Amaan HK ----------------------------------------------------- Know Your Rights Toolkits Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Path of Purposes, Cody Martin Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN2523598642.mp3?updated=1774823019",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4037",
+      "speakers": [
+        "Session Zero System",
+        "James D'Amato"
+      ],
+      "topics": [
+        "session",
+        "zero",
+        "system"
+      ]
+    },
     {
       "key": "67dafe6f2fbc8495908134540d57d36e9adb5cab",
       "title": "643. Dragon Reactor, Episode 3",
@@ -13134,6 +13155,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-30 — 644. The Session Zero System, Episode 1 — speakers: Session Zero System, James D'Amato
 - 2026-03-25 — 643. Dragon Reactor, Episode 3 — speakers: Dragon Reactor, James D'Amato
 - 2026-03-18 — 642. Dragon Reactor, Episode 2 — speakers: Dragon Reactor, James D'Amato
 - 2026-03-12 — 641. Dragon Reactor, Episode 1 — speakers: Dragon Reactor, James D'Amato

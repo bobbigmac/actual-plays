@@ -2,10 +2,10 @@
 
 - slug: `happy-jacks-rpg-one-shots`
 - source: `https://www.happyjacks.org/feed/oneshots/`
-- fetched_at: `2026-03-28T19:01:55+00:00`
-- checked_at: `2026-03-28T19:01:55+00:00`
-- etag: `"ffe11a8a1de77a8fe20ec6005db9d5de"`
-- last_modified: `Sat, 28 Mar 2026 16:49:00 GMT`
+- fetched_at: `2026-03-30T08:03:13+00:00`
+- checked_at: `2026-03-30T08:03:13+00:00`
+- etag: `"b39856e849d8082e78cd01f8f6d3d3a5"`
+- last_modified: `Mon, 30 Mar 2026 06:34:07 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://happyjacks.org/blog/",
   "description": "Happy Jacks RPG One Shots is an actual play podcast feed featuring a collection of single session or mini-campaign games in a variety table-top RPG systems, from old favorites, to the new and shiny.",
   "image_url": "https://happyjacks.org//artfiles/oneshotart.jpg",
-  "fetched_at": "2026-03-28T19:01:55+00:00",
+  "fetched_at": "2026-03-30T08:03:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,16 +27,114 @@
   ],
   "episodes": [
     {
+      "key": "597f6bffb4572897853b3b5b12284b66f44a7056",
+      "title": "OS40 | Steal My Heart",
+      "published_at": "2025-08-01T06:22:47+00:00",
+      "link": "https://happyjacks.org/os40/",
+      "description": "System: Steal My Heart by Sam Dunnewold ONE-SHOTS! Driven by the whims of the Happy Jacks crew, these games are (usually) self contained into one session. They often have guest players or GMs, and are ALWAYS a lot of fun! ◇ Visit https://happyjacks.org//oneshot for a full list of our one-shot actual play adventures! ◇ Follow Happy Jacks RPG on Twitter , Instagram, Facebook or hang out with other tabletop roleplaying fans in our Discord community ! ◇ Subscribe to our other podcast feeds! We have a weekly tabletop RPG talk show based on topics sent in from fans around the world, and a great collection of One-Shots if you prefer bite sized adventures. ◇ You can watch us on Youtube or Twitch ! ◇ Keep us independent by becoming a Patreon ! Our fantastic supporters let us play and say what we want instead of catering to companies for ad or sponsorship money. They are HEROES! h ttps://patreon.com/happyjacksrpg Ⓒ2025 Happy Jacks RPG Network https://happyjacks.org/",
+      "image_url": "https://happyjacks.org/wp-content/uploads/2025/07/Steal-My-Heart-1-scaled.jpg",
+      "enclosure_url": "https://media.blubrry.com/happyjacksrpgpodcast/episodes.castos.com/6227bbd487db94-64821592/2408982/c1e-7rkg9fv9999s55mjo-mkgn2j4xunqo-qphch7.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58470421",
+      "itunes_duration": "1:00:30",
+      "speakers": [
+        "Sam Dunnewold",
+        "Happy Jacks"
+      ],
+      "topics": [
+        "steal",
+        "heart"
+      ]
+    },
+    {
+      "key": "2f22b2e618100919e1263a889f836b43299736a9",
+      "title": "OS39 | Beaches will Remain Open | Monster of the Week",
+      "published_at": "2025-07-24T06:08:10+00:00",
+      "link": "https://happyjacks.org/os39/",
+      "description": "System: Monster of the Week by Evil Hat ONE-SHOTS! Driven by the whims of the Happy Jacks crew, these games are (usually) self contained into one session. They often have guest players or GMs, and are ALWAYS a lot of fun! ◇ Visit https://happyjacks.org//oneshot for a full list of our one-shot actual play adventures! ◇ Follow Happy Jacks RPG on Twitter , Instagram, Facebook or hang out with other tabletop roleplaying fans in our Discord community ! ◇ Subscribe to our other podcast feeds! We have a weekly tabletop RPG talk show based on topics sent in from fans around the world, and a great collection of One-Shots if you prefer bite sized adventures. ◇ You can watch us on Youtube or Twitch ! ◇ Keep us independent by becoming a Patreon ! Our fantastic supporters let us play and say what we want instead of catering to companies for ad or sponsorship money. They are HEROES! h ttps://patreon.com/happyjacksrpg Ⓒ2023 Happy Jacks RPG Network https://happyjacks.org/",
+      "image_url": "https://happyjacks.org/wp-content/uploads/2026/03/Monster-of-the-Week-scaled.jpg",
+      "enclosure_url": "https://media.blubrry.com/happyjacksrpgpodcast/episodes.castos.com/6227bbd487db94-64821592/2408980/c1e-pwjoxfw1119tqqz30-34x8qdz0inz0-anq6xb.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "180522444",
+      "itunes_duration": "3:07:38",
+      "speakers": [
+        "Evil Hat",
+        "Happy Jacks"
+      ],
+      "topics": [
+        "beach",
+        "monster",
+        "week"
+      ]
+    },
+    {
+      "key": "63a265b460ca5d29386126a26411614f1e654563",
+      "title": "OS38 | Extra Ordinary Part 2",
+      "published_at": "2025-03-26T06:04:00+00:00",
+      "link": "https://happyjacks.org/os38/",
+      "description": "System: Extra Ordinary by Kodi Gonzaga ONE-SHOTS! Driven by the whims of the Happy Jacks crew, these games are (usually) self contained into one session. They often have guest players or GMs, and are ALWAYS a lot of fun! ◇ Visit https://happyjacks.org//oneshot for a full list of our one-shot actual play adventures! ◇ Follow Happy Jacks RPG on Twitter , Instagram, Facebook or hang out with other tabletop roleplaying fans in our Discord community ! ◇ Subscribe to our other podcast feeds! We have a weekly tabletop RPG talk show based on topics sent in from fans around the world, and a great collection of One-Shots if you prefer bite sized adventures. ◇ You can watch us on Youtube or Twitch ! ◇ Keep us independent by becoming a Patreon ! Our fantastic supporters let us play and say what we want instead of catering to companies for ad or sponsorship money. They are HEROES! h ttps://patreon.com/happyjacksrpg Ⓒ2023 Happy Jacks RPG Network https://happyjacks.org/",
+      "image_url": "https://happyjacks.org/wp-content/uploads/2026/03/Extra-Ordinary-scaled.jpg",
+      "enclosure_url": "https://media.blubrry.com/happyjacksrpgpodcast/episodes.castos.com/6227bbd487db94-64821592/2408971/c1e-r2d93bowwj6u77prj-kpjr3m5mcw41-mhlkna.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "216590649",
+      "itunes_duration": "3:45:13",
+      "speakers": [
+        "Kodi Gonzaga",
+        "Happy Jacks"
+      ],
+      "topics": [
+        "extra",
+        "ordinary"
+      ]
+    },
+    {
+      "key": "9a2990a73cb3abc2f0c14af4e2c342e4c936d5ed",
+      "title": "OS37 | Extra Ordinary Part 1",
+      "published_at": "2025-03-18T05:51:00+00:00",
+      "link": "https://happyjacks.org/os37/",
+      "description": "System: Extra Ordinary by Kodi Gonzaga ONE-SHOTS! Driven by the whims of the Happy Jacks crew, these games are (usually) self contained into one session. They often have guest players or GMs, and are ALWAYS a lot of fun! ◇ Visit https://happyjacks.org//oneshot for a full list of our one-shot actual play adventures! ◇ Follow Happy Jacks RPG on Twitter , Instagram, Facebook or hang out with other tabletop roleplaying fans in our Discord community ! ◇ Subscribe to our other podcast feeds! We have a weekly tabletop RPG talk show based on topics sent in from fans around the world, and a great collection of One-Shots if you prefer bite sized adventures. ◇ You can watch us on Youtube or Twitch ! ◇ Keep us independent by becoming a Patreon ! Our fantastic supporters let us play and say what we want instead of catering to companies for ad or sponsorship money. They are HEROES! h ttps://patreon.com/happyjacksrpg Ⓒ2023 Happy Jacks RPG Network https://happyjacks.org/",
+      "image_url": "https://happyjacks.org/wp-content/uploads/2026/03/Extra-Ordinary-scaled.jpg",
+      "enclosure_url": "https://media.blubrry.com/happyjacksrpgpodcast/episodes.castos.com/6227bbd487db94-64821592/2408966/c1e-20k94fqmm8zcqq1d4-v6w737qvtkvm-asl1rc.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "218441373",
+      "itunes_duration": "3:47:08",
+      "speakers": [
+        "Kodi Gonzaga",
+        "Happy Jacks"
+      ],
+      "topics": [
+        "extra",
+        "ordinary"
+      ]
+    },
+    {
+      "key": "c497494ebc231e85a3038615b167e45e4b332bc3",
+      "title": "OS36 | Defy the Gods",
+      "published_at": "2025-02-21T06:18:00+00:00",
+      "link": "https://happyjacks.org/os36/",
+      "description": "System: Defy the Gods by Hectic Electron Games Defy the Gods is a tabletop role-playing game of daring adventure, passionate romance and cursed power, set in fantasy ancient Mesopotamia. Inspired by Conan , Clash of the Titans and Princess Mononoke , it brings queer love and resistance to sword & sorcery role-play. ONE-SHOTS! Driven by the whims of the Happy Jacks crew, these games are (usually) self contained into one session. They often have guest players or GMs, and are ALWAYS a lot of fun! ◇ Visit https://happyjacks.org//oneshot for a full list of our one-shot actual play adventures! ◇ Follow Happy Jacks RPG on Twitter , Instagram, Facebook or hang out with other tabletop roleplaying fans in our Discord community ! ◇ Subscribe to our other podcast feeds! We have a weekly tabletop RPG talk show based on topics sent in from fans around the world, and a great collection of One-Shots if you prefer bite sized adventures. ◇ You can watch us on Youtube or Twitch ! ◇ Keep us independent by becoming a Patreon ! Our fantastic supporters let us play and say what we want instead of catering to companies for ad or sponsorship money. They are HEROES! h ttps://patreon.com/happyjacksrpg Ⓒ2023 Happy Jacks RPG Network https://happyjacks.org/",
+      "image_url": "https://happyjacks.org/wp-content/uploads/2026/03/Defy-the-Gods-scaled.jpg",
+      "enclosure_url": "https://media.blubrry.com/happyjacksrpgpodcast/episodes.castos.com/6227bbd487db94-64821592/2408965/c1e-4o10xf8114df881dk-1pr1z1x0b0wm-jem18v.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "230472328",
+      "itunes_duration": "3:59:40",
+      "speakers": [],
+      "topics": [
+        "defy",
+        "gods"
+      ]
+    },
+    {
       "key": "906e9a5e41d77be5db69f5cbc7891e268bc32aad",
       "title": "OS35 | Under the Autumn Strangely",
       "published_at": "2024-10-28T01:47:41+00:00",
       "link": "https://happyjacks.org/os35/",
       "description": "ONE-SHOTS! Driven by the whims of the Happy Jacks crew, these games are (usually) self contained into one session. They often have guest players or GMs, and are ALWAYS a lot of fun! ◇ Visit https://happyjacks.org//oneshot for a full list of our one-shot actual play adventures! ◇ Follow Happy Jacks RPG on Twitter , Instagram, Facebook or hang out with other tabletop roleplaying fans in our Discord community ! ◇ Subscribe to our other podcast feeds! We have a weekly tabletop RPG talk show based on topics sent in from fans around the world, and a great collection of One-Shots if you prefer bite sized adventures. ◇ You can watch us on Youtube or Twitch ! ◇ Keep us independent by becoming a Patreon ! Our fantastic supporters let us play and say what we want instead of catering to companies for ad or sponsorship money. They are HEROES! h ttps://patreon.com/happyjacksrpg Ⓒ2023 Happy Jacks RPG Network https://happyjacks.org/",
-      "image_url": "https://happyjacks.org//artfiles/oneshotart.jpg",
+      "image_url": "https://happyjacks.org/wp-content/uploads/2024/10/Under-the-Autumn-Strangely.jpg",
       "enclosure_url": "https://media.blubrry.com/happyjacksrpgpodcast/episodes.castos.com/6227bbd487db94-64821592/1868364/c1e-3xgr7t5607piww5o7-pkjwqr16b1wg-tg3soh.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "133017203",
-      "itunes_duration": null,
+      "itunes_duration": "2:18:09",
       "speakers": [
         "Happy Jacks"
       ],
@@ -1694,6 +1792,11 @@
 
 ## Episodes (newest first)
 
+- 2025-08-01 — OS40 | Steal My Heart — speakers: Sam Dunnewold, Happy Jacks
+- 2025-07-24 — OS39 | Beaches will Remain Open | Monster of the Week — speakers: Evil Hat, Happy Jacks
+- 2025-03-26 — OS38 | Extra Ordinary Part 2 — speakers: Kodi Gonzaga, Happy Jacks
+- 2025-03-18 — OS37 | Extra Ordinary Part 1 — speakers: Kodi Gonzaga, Happy Jacks
+- 2025-02-21 — OS36 | Defy the Gods
 - 2024-10-28 — OS35 | Under the Autumn Strangely — speakers: Happy Jacks
 - 2024-10-27 — OS34 | My (Dead) Friend — speakers: Happy Jacks
 - 2023-11-20 — OS31 | Spelljammer — speakers: Happy Jacks

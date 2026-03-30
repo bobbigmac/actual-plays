@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-03-27T19:16:00+00:00`
-- checked_at: `2026-03-27T19:16:00+00:00`
-- etag: `"eac9cc92b64de65dd55d286200501f68"`
-- last_modified: `Fri, 27 Mar 2026 18:36:20 GMT`
+- fetched_at: `2026-03-30T08:03:13+00:00`
+- checked_at: `2026-03-30T08:03:13+00:00`
+- etag: `"998a81e7c9d03569a0dfcf47a8813f26"`
+- last_modified: `Mon, 30 Mar 2026 04:07:12 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-03-27T19:16:00+00:00",
+  "fetched_at": "2026-03-30T08:03:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "7646dbcff70917e9b49efde9f42dc1bce1deea1a",
+      "title": "Trollpak",
+      "published_at": "2026-03-30T04:00:00+00:00",
+      "link": "https://www.vintagerpg.com/2026/03/trollpak/",
+      "description": "Troooooooooll! This week on the Vintage RPG Podcast, we check out Trollpak, Chaosium's boxset that explores the nature of RuneQuest's trolls. It's a thoughtful approach to a \"monstrous\" species that sharply contrasts with most games of the period, and a lot of games now, even. Plus: An update on Spellbinders! * * * Instagram? Old news. Join the Vintage RPG Newsletter ! That's where all the cool kids are now! Stu's book, Monsters, Aliens, and Holes in the Ground is for sale now! Buy it ! Patreon? Discord? Cool RPG things to buy? All the Vintage RPG links you need are right here in one place ! Like, Rate, Subscribe and Review the Vintage RPG Podcast! Edited by the one and only R. Alex Murray . Send questions, comments or corrections to info@vintagerpg.com . Available on iTunes , Google Podcasts , iHeartRadio , Spotify , YouTube and your favorite podcast clients. The Vintage RPG illustration is by Shafer Brown . Follow him on Twitter . Tune in next week for the next episode. Until then, may the dice always roll in your favor!",
+      "image_url": "https://static.libsyn.com/p/assets/a/7/0/3/a7030793842c451c16c3140a3186d450/Vintage_Podcast_Icon-20260327-ygv4w83uru.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/thevintagerpgpodcast/VRPG_-_Troll_Pack_.mp3?dest-id=747998",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47703567",
+      "itunes_duration": "23:06",
+      "speakers": [
+        "Trollpak Troooooooooll"
+      ],
+      "topics": [
+        "trollpak"
+      ]
+    },
     {
       "key": "20115f184cb4bc421641f166a5e645232b1fea27",
       "title": "Castle Thrax",
@@ -6510,6 +6528,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-30 — Trollpak — speakers: Trollpak Troooooooooll
 - 2026-03-23 — Castle Thrax — speakers: Castle Thrax
 - 2026-03-16 — The Privilege of Play and Other Topics — speakers: Other Topics Another
 - 2026-03-09 — Mythic Britain & Ireland — speakers: Mythic Br
