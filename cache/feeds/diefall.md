@@ -3,8 +3,10 @@
 - slug: `diefall`
 - source: `https://feeds.soundcloud.com/users/soundcloud:users:648749499/sounds.rss`
 - fetched_at: `2026-03-30T19:31:03+00:00`
-- checked_at: `2026-03-30T19:31:03+00:00`
+- checked_at: `2026-03-30T21:59:58+00:00`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: `HTTP 500` — Internal Server Error
 
 <!-- FEED_JSON -->
 ```json
@@ -3583,7 +3585,17 @@
         "frog"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-03-30T21:59:58+00:00",
+    "status": "error",
+    "checked_at": "2026-03-30T21:59:58+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 500,
+      "message": "Internal Server Error"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
