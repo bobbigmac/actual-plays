@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-03-16T03:39:52+00:00`
-- checked_at: `2026-03-16T03:39:52+00:00`
-- etag: `"43ff6354ce54aee5a69f209386f2c167"`
+- fetched_at: `2026-03-30T03:44:26+00:00`
+- checked_at: `2026-03-30T03:44:26+00:00`
+- etag: `"bf3558e88b7c75e1282996068a7f57f2"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-03-16T03:39:52+00:00",
+  "fetched_at": "2026-03-30T03:44:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "c11bd91d26dda3e845271232da8e7f0f05de516b",
+      "title": "It Came From Beyond the Grave: Blackthorn Hill part 2",
+      "published_at": "2026-03-30T01:42:38+00:00",
+      "link": "https://fandible.com/it-came-from-beyond-the-grave-blackthorn-hill-part-2/",
+      "description": "The actors/fighters of darkness continue thier quest to fight poor direction / Great Evil! The post It Came From Beyond the Grave: Blackthorn Hill part 2 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/455_ICFBTG_BlackThornHill/Fan_800_ICFBTG_BlackthornHillp2.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63782414",
+      "itunes_duration": "1:10:37",
+      "speakers": [
+        "Blackthorn Hill",
+        "Great Evil"
+      ],
+      "topics": [
+        "grave",
+        "blackthorn",
+        "hill"
+      ]
+    },
     {
       "key": "81a5c6db4aeb9db87824234f23ca7db725e52a53",
       "title": "It Came From Beyond the Grave: Blackthorn Hill part 1",
@@ -11350,24 +11371,6 @@
         "radio",
         "edition"
       ]
-    },
-    {
-      "key": "484cbcf7a8ce15b774508a4a14ef02e3545f05bf",
-      "title": "Shadowrun: Prime Ep 7 part 1 of 2",
-      "published_at": "2016-06-03T15:04:26+00:00",
-      "link": "https://fandible.com/shadowrun-ep-9-greed-charity-part-1-2/",
-      "description": "Waking up in a grimy New Jersey bathroom, the shadow runners find themselves robbed of vital equipment. Now, they must hunt down their would be robbers and show them the persuasive powers of violence. The post Shadowrun: Prime Ep 7 part 1 of 2 appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/183_SR_GreedAndCharity/Fan_299_SR_GreedAndCharity1of2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "47577946",
-      "itunes_duration": "1:37:56",
-      "speakers": [
-        "New Jersey"
-      ],
-      "topics": [
-        "prime"
-      ]
     }
   ]
 }
@@ -11376,6 +11379,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-30 — It Came From Beyond the Grave: Blackthorn Hill part 2 — speakers: Blackthorn Hill, Great Evil
 - 2026-03-16 — It Came From Beyond the Grave: Blackthorn Hill part 1
 - 2026-02-16 — I have a Pipe — speakers: Pipe David
 - 2026-02-03 — Nightbane: Mirrored Evil Ep 1 part 3
@@ -11975,4 +11979,3 @@
 - 2016-06-17 — The End of the World: The Brotherhood of Babylon
 - 2016-06-10 — Shadowrun: Prime Ep 7 part 2 of 2
 - 2016-06-06 — GTRT Ep 32: The Rebel Radio Edition
-- 2016-06-03 — Shadowrun: Prime Ep 7 part 1 of 2 — speakers: New Jersey
