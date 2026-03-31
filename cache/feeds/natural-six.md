@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-03-30T21:59:58+00:00`
-- checked_at: `2026-03-30T21:59:58+00:00`
-- etag: `"djEuMi4wOjE3NzQ5MDE2Njg2MDk="`
+- fetched_at: `2026-03-31T19:30:58+00:00`
+- checked_at: `2026-03-31T19:30:58+00:00`
+- etag: `"djEuMi4wOjE3NzQ5ODM2Mzk0NzM="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-03-30T21:59:58+00:00",
+  "fetched_at": "2026-03-31T19:30:58+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "520e5d60770545e08760177f067d2edc0e4cc81f",
+      "title": "Ep. 51 The Sins of the Sinless",
+      "published_at": "2026-03-31T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-51-the-sins-of-the-sinless",
+      "description": "As the echoes of celebration fade, what remains are the conversations that linger long after the music has stopped. In the quiet aftermath of joy, truths surface more easily, fears are shared more freely, and the weight of what comes next can no longer be ignored. When the night ends, leadership is no longer a title to avoid, but a role that must be claimed. Yet even as resolve hardens, doubt finds its way in. Nightmares linger, questions sharpen, and trust begins to strain under the weight of secrets left unspoken. Knowledge calls to those willing to listen, stories buried in ink and memory, waiting for the right hands to find them. And when paths begin to diverge, the cost of silence becomes harder to ignore than the danger ahead. In the end, masks fall, intentions are laid bare, and a truth meant to remain hidden is dragged onto a stage for all to see. What was once a city of celebration becomes something more, a city ready to stand, to be counted, and to fight back. ---- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/69c9558cb991732771622517/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "424363498",
+      "itunes_duration": "3:40:55",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "sins",
+        "sinless"
+      ]
+    },
     {
       "key": "4a88aa9e3b61537818889483f443c56fc3d56233",
       "title": "Action Surge Episode 50",
@@ -2646,6 +2670,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-31 — Ep. 51 The Sins of the Sinless — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-24 — Action Surge Episode 50 — speakers: Ben Starr, Harry McEntire, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-17 — Ep. 50 Dressed to Impress — speakers: Impress Sometimes, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-10 — Action Surge Episode 49 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
