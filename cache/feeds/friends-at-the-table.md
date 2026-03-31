@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-03-20T21:47:21+00:00`
-- checked_at: `2026-03-20T21:47:21+00:00`
-- etag: `"6e85d4674c59e8f632c4bb34dda994d1"`
-- last_modified: `Fri, 20 Mar 2026 20:58:28 GMT`
+- fetched_at: `2026-03-31T10:15:51+00:00`
+- checked_at: `2026-03-31T10:15:51+00:00`
+- etag: `"71b9ffa84d57a6b1250470ab18736b68"`
+- last_modified: `Tue, 31 Mar 2026 07:51:07 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-03-20T21:47:21+00:00",
+  "fetched_at": "2026-03-31T10:15:51+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ae703448ee91a6f8a82352ece4dd79a20c5e5a5b",
+      "title": "Perpetua 38: The Castle Eschatonica 06",
+      "published_at": "2026-03-31T07:46:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-38-the-castle-eschatonica-06",
+      "description": "With the Wicked Weaver defeated, the trio of Antistrophe, Caoimhe, and Nicky return to their hunt for the crest of the western hall, and their search will lead them into places unlike any they've ever seen. Meanwhile, in the High Masque, tensions grow as the newest members of House Deadwind continue to make new connections among rival clans of Alteros. Will they find the masks they need to open the door before suspicions solidify into peril? This week on Perpetua: The Castle Eschatonica 06 Perpetua Guide [Community Addendum Part 04] I'm Alukard83, and I thought it would be nice to get together a section listing all of the Villains we've encountered at this point. Remember: This isn't ever enemy or even every badguy, it's every Villain. That's a specific thing in Perpetua: It's someone who has their own pool of special points they can use (Ultima points) and it's someone who gives the party Fabula points when they show up. So far, this is them, in order of appearance. Draconic Elf Woman (Name Unknown) Unlike most Villains (who seem to be campaign-specific), this lady can pop up in both the eastern and western scenarios really early on, though players might not realize it at first. The Little Snail crew can bump into her at the 'top' of the Dragon Tower, where you can get a close up on her scales and talons. And then team ABC can see a reflection of her in Burzin, where her Elven qualities are really played up. It's the same basic character model, but it seems like maybe the textures were different, or she had some sort of special effect in the reflection? I wonder why different parts of her were emphasized in those different places? Genuine Sincere You don't actually see him second, but you do see his handiwork. He tries to assassinate Vinnor Jekk, Veile's mentor and member of the Luminaries. Genuine is an old crimeworld friend of Nicky, and is now part of the Night's Own, a group loyal to Caliginia. Eventually, the party has to fight him if they want to escape from Calstega Bay. He escapes that fight when it breaks bad for him, but his location after that remains unknown. Caliginia, Fated Darkness Speaking of the Night's Own… This Goddess of Darkness first shows up at the end of the first big story arc in the Little Snail campaign and kidnaps Vinnor Jekk. It's not exactly clear what her motives are (or what her connection to Veile is), but given her actions it's pretty clear she's trying to stop Veile from reaching the White Lectern ritually halting the cycle. Aisling Revanj She's a hexcloak with a specialization in Fire. She showed up at the very end of the Burzin boss fight and prevents Lady Teribald from revealing the identity of the mysterious Elf that visited the town. Are the two of them connected? Where do the rest of the Hexcloaks fit in here? Atlas We don't know much about this ancient architect. Elena found evidence of him tied to Rilspur and the rest of the Passikan megadungeons. We learn that the Passikans themselves never existed in Perpetua, but somehow their ruins do. And that was Atlas' doing. Weird. He says they're going \"to return,\" but what does that even mean? Marshal Opal You first meet the Marshal at the cooking competition in Calstega Bay, but eventually come to learn that this military commander of the Valte is part of Nights Own later on in the main story. What we know about her is that where Commodore Onyx is more focused on the Valte sky armada, Opal leads the ground troops (and specifically the ones searching for clues and relics related to the Perpetuan cycle). Interesting! And hey, what the hell is up with the Night's Own anyway (or as I like to call it \"The Fell Organization, since that's what Elena calls it in dialog, and I think she rocks). Thereus Aegir Leader of the Hexcloaks, clearly the biggest A-Hole in the whole game so far. You first directly encounter him in Cenn, City of Iron Chains. Personally, I can't stand people like this, who act all high and mighty and who try to manipulate and provoke you into either fighting them or fighting for them. I cannot wait to kick this guy's butt, big time. Elom The big angry dragon mole laying siege to Cenn. So like, we all see it right? This is just \"Mole\" backwards. Is that how all the dragons work? D.G. Flay Aegier is the biggest a-hole, but this weird pied piper guy might be the evilest villain so far. At least, that's how he feels. He's slimy and creepy and all those bugs he's associated with? NO thanks. Reminds me of the villain from the movie with the weird aliens. Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), Janine Hawkins ( @bleatingheart ), Sylvi Bullet ( @sylvibullet ), Keith J Carberry ( @keithjcarberry ) and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_38_The_Castle_Eschatonica_06.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83557472",
+      "itunes_duration": "01:29:05",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "castle",
+        "eschatonica"
+      ]
+    },
     {
       "key": "e042367ae5ba75d51cc46a23fa161b07ef3eefb4",
       "title": "Perpetua 37: The Castle Eschatonica 05",
@@ -11396,6 +11416,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-31 — Perpetua 38: The Castle Eschatonica 06 — speakers: Austin Walker
 - 2026-03-15 — Perpetua 37: The Castle Eschatonica 05 — speakers: Austin Walker
 - 2026-03-10 — Announcement for Spotify Listeners — speakers: Spotify Listeners Hello, Austin Walker
 - 2026-03-08 — Perpetua 36: The Castle Eschatonica 04 — speakers: Austin Walker

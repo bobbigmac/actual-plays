@@ -2,10 +2,10 @@
 
 - slug: `worlds-beyond-number`
 - source: `https://feeds.simplecast.com/IAPnSSRO`
-- fetched_at: `2026-03-26T21:47:51+00:00`
-- checked_at: `2026-03-26T21:47:51+00:00`
-- etag: `"2710c2e57e89e85bd7a1373d4ca48f47"`
-- last_modified: `Thu, 26 Mar 2026 21:45:28 GMT`
+- fetched_at: `2026-03-31T10:15:51+00:00`
+- checked_at: `2026-03-31T10:15:51+00:00`
+- etag: `"12f09e1dabc89ad618c4600fa51be5fe"`
+- last_modified: `Tue, 31 Mar 2026 09:00:14 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://worlds-beyond-number.simplecast.com",
   "description": "An epic, improvised storytelling podcast where Brennan Lee Mulligan, Erika Ishii, Aabria Iyengar, and Lou Wilson hang out together, play games, build worlds, and make stories.",
   "image_url": "https://image.simplecastcdn.com/images/c89bbbb6-e942-4583-ad73-4877d9c0b2f6/dfae107c-3b1e-4c37-acf7-a48a1ff6e445/3000x3000/wbn-album-logo-art-2024-3000x3000.jpg?aid=rss_feed",
-  "fetched_at": "2026-03-26T21:47:51+00:00",
+  "fetched_at": "2026-03-31T10:15:51+00:00",
   "owners": [
     "Brennan Lee Mulligan",
     "Aabria Iyengar",
@@ -31,6 +31,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "20cd8b2878c2ca2548d251f4e4b1824868b8dea8",
+      "title": "Solari: Episode 2 - Pull/Cull",
+      "published_at": "2026-03-31T09:00:00+00:00",
+      "link": "https://worlds-beyond-number.simplecast.com/episodes/solari-episode-2-pull-cull-EQF2hfTv",
+      "description": "Uninvited guests invade the Vice Rooms. The young scion of Iverex assembles his entourage. Questions hang in the air like bullets, flung towards the inevitable. Something isn’t adding up. This Pull was supposed to be simple… Content Warning: This episode contains depictions of violence. We are: Brennan Lee Mulligan Erika Ishii Aabria Iyengar Lou Wilson Solari was produced by Worlds Beyond Number Edit and Sound Design by Jino Jang-Hansen at Big Giant Head Score by Will Savino https://wsavino.com/ Director of Operations: Melanie Bowman Social Media Manager: Shannon H Lorekeeper and Transcriptionist: Jack Morgan E.F. Lavandowska Character Art by Nikolas Draper-Ivey www.instagram.com/nikolasdraperivey/ Cover Art by Lu Tomkiewicz www.instagram.com/_fromlu/ This campaign uses the Stillfleet TTRPG system, created by Wythe Marschall and developed by Stillfleet Studio https://stillfleet.com/collections/stillfleet You can find transcripts of all our episodes on our Patreon. Just navigate to the post for the episode and the transcript will be attached.",
+      "image_url": "https://image.simplecastcdn.com/images/52465498-1509-439a-8bae-5a0586d07e7b/f939b0b8-a2d3-4c9b-a4de-281df5557937/3000x3000/solari_album_art.jpg?aid=rss_feed",
+      "enclosure_url": "https://cdn.simplecast.com/media/audio/transcoded/3271e9ed-72a9-42fd-a976-32864451ba9e/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/audio/group/859348d1-7a46-4949-bb54-ac22878e529b/group-item/2a59f357-e8a3-4e6a-b302-1fb1fa65aa5d/128_default_tc.mp3?aid=rss_feed&feed=IAPnSSRO",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69213481",
+      "itunes_duration": "01:06:07",
+      "speakers": [
+        "Brennan Lee Mulligan",
+        "Aabria Iyengar",
+        "Erika Ishii",
+        "Lou Wilson"
+      ],
+      "topics": [
+        "solari",
+        "cull"
+      ]
+    },
     {
       "key": "3b242352a56b8aae1eabe036f4ab0e550f586a2c",
       "title": "Solari: Episode 1 - Paarlor Games",
@@ -1886,6 +1908,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-31 — Solari: Episode 2 - Pull/Cull — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-03-17 — Solari: Episode 1 - Paarlor Games — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-03-03 — Flight of the Icaron: Episode 5 - Full Send — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-02-17 — Flight of the Icaron: Episode 4 - Dead Ahead — speakers: Nadir Hab, Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
