@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-03-30T21:59:58+00:00`
-- checked_at: `2026-03-30T21:59:58+00:00`
-- last_modified: `Mon, 30 Mar 2026 21:05:32 GMT`
+- fetched_at: `2026-03-31T07:46:20+00:00`
+- checked_at: `2026-03-31T07:46:20+00:00`
+- last_modified: `Tue, 31 Mar 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-30T21:59:58+00:00",
+  "fetched_at": "2026-03-31T07:46:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "c13611327d14fe820127682941250281d118b511",
+      "title": "Winter Phase, 508 A.D. | Pendragon: Under an Iron Sky | Chaosium",
+      "published_at": "2026-03-31T04:00:00+00:00",
+      "link": null,
+      "description": "The brave heroes return to the court of Lord Robert, knowing they hold the fate of the Lady Monecute in their hands. Soon, however, the blistering winds of the coming winter will be upon all the land, and the twists of fate will toy with all of our brave knights—for good or for ill—as a year of time passes before our eyes. Watch the video here: ⁠⁠ https://youtu.be/wl4Dox9XTJQ ⁠⁠ This episode originally aired in March of 2025. It has been remastered as part of the new Pendragon: Under an Iron Sky series. Season 2 of the campaign premieres on May 18th, 2026. For a limited time, save 15% on all Pendragon products with code \"PENCANNON3\" at ⁠⁠https://chaosium.com⁠⁠ Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a11955ce-1be5-11f1-9f8b-9bcc5e4f5cc0/image/1e70f848a529b62ac66f0737cced5220.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2201658141.mp3?updated=1773081450",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7133",
+      "speakers": [],
+      "topics": [
+        "winter",
+        "phase",
+        "pendragon",
+        "iron",
+        "chaosium"
+      ]
+    },
     {
       "key": "761c81454c2e6ac737f8fa7fac0616e0059c022b",
       "title": "GCN News Minute March 30, 2026",
@@ -18006,6 +18026,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-31 — Winter Phase, 508 A.D. | Pendragon: Under an Iron Sky | Chaosium
 - 2026-03-30 — GCN News Minute March 30, 2026 — speakers: News Minute March
 - 2026-03-30 — The Old Battleground | Blood of the Wild S1 E15 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-03-27 — Swamp Thing | The Glass Cannon Podcast Shadowdark E20 | Shadowdark RPG — speakers: Shadowdark Rpg
