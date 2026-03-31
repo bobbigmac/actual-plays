@@ -2,10 +2,10 @@
 
 - slug: `happy-jacks-rpg-one-shots`
 - source: `https://www.happyjacks.org/feed/oneshots/`
-- fetched_at: `2026-03-31T07:46:20+00:00`
-- checked_at: `2026-03-31T07:46:20+00:00`
-- etag: `"6a63e4c4bcdf12825ea85f42704f2e6d"`
-- last_modified: `Tue, 31 Mar 2026 04:19:11 GMT`
+- fetched_at: `2026-03-31T21:57:20+00:00`
+- checked_at: `2026-03-31T21:57:20+00:00`
+- etag: `"8d5a342f768baa4ddc53c128c197dadc"`
+- last_modified: `Tue, 31 Mar 2026 21:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://happyjacks.org/blog/",
   "description": "Happy Jacks RPG One Shots is an actual play podcast feed featuring a collection of single session or mini-campaign games in a variety table-top RPG systems, from old favorites, to the new and shiny.",
   "image_url": "https://happyjacks.org//artfiles/oneshotart.jpg",
-  "fetched_at": "2026-03-31T07:46:20+00:00",
+  "fetched_at": "2026-03-31T21:57:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "deb03ace9356e15870178763a67fe17019a317ca",
+      "title": "ONESHOT | Ballad Hunters",
+      "published_at": "2026-03-31T21:00:00+00:00",
+      "link": "https://happyjacks.org/os41/",
+      "description": "System: Ballad Hunters by by Tristan Zimmerman Britain, 1813. You are amateur folklorists working as agents of the Crown. Across the island, the folk ballads of the common people are coming to life. The dead walk, dragons rise, lovers betray one another, authorities condemn innocents to die — whatever happens in the song happens in real life. It’s up to you, armed with a little ballad magic, to decipher the clues in each song and keep people from getting hurt. Welcome to Ballad Hunters ! ONE-SHOTS! Driven by the whims of the Happy Jacks crew, these games are (usually) self contained into one session. They often have guest players or GMs, and are ALWAYS a lot of fun! ◇ Visit https://happyjacks.org//oneshot for a full list of our one-shot actual play adventures! ◇ Follow Happy Jacks RPG on Twitter , Instagram, Facebook or hang out with other tabletop roleplaying fans in our Discord community ! ◇ Subscribe to our other podcast feeds! We have a weekly tabletop RPG talk show based on topics sent in from fans around the world, and a great collection of One-Shots if you prefer bite sized adventures. ◇ You can watch us on Youtube or Twitch ! ◇ Keep us independent by becoming a Patreon ! Our fantastic supporters let us play and say what we want instead of catering to companies for ad or sponsorship money. They are HEROES! h ttps://patreon.com/happyjacksrpg Ⓒ2026 Happy Jacks RPG Network https://happyjacks.org/",
+      "image_url": "https://happyjacks.org/wp-content/uploads/2026/03/Ballad-Hunters-2-1-scaled.jpg",
+      "enclosure_url": "https://media.blubrry.com/happyjacksrpgpodcast/episodes.castos.com/6227bbd487db94-64821592/2409032/c1e-d1502somm99hwwv7q-v6w79wo3s8qn-vvr60n.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138212017",
+      "itunes_duration": "2:23:34",
+      "speakers": [
+        "Ballad Hunters System",
+        "Ballad Hunters",
+        "Tristan Zimmerman Britain"
+      ],
+      "topics": [
+        "oneshot",
+        "ballad",
+        "hunters"
+      ]
+    },
     {
       "key": "597f6bffb4572897853b3b5b12284b66f44a7056",
       "title": "OS40 | Steal My Heart",
@@ -1792,6 +1814,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-31 — ONESHOT | Ballad Hunters — speakers: Ballad Hunters System, Ballad Hunters, Tristan Zimmerman Britain
 - 2025-08-01 — OS40 | Steal My Heart — speakers: Sam Dunnewold, Happy Jacks
 - 2025-07-24 — OS39 | Beaches will Remain Open | Monster of the Week — speakers: Evil Hat, Happy Jacks
 - 2025-03-26 — OS38 | Extra Ordinary Part 2 — speakers: Kodi Gonzaga, Happy Jacks
