@@ -2,10 +2,10 @@
 
 - slug: `critical-role`
 - source: `https://feeds.simplecast.com/LXz4Q9rJ`
-- fetched_at: `2026-03-26T14:01:16+00:00`
-- checked_at: `2026-03-26T14:01:16+00:00`
-- etag: `"bf9716b44ea48176b9d32362c2bb41ad"`
-- last_modified: `Thu, 26 Mar 2026 12:00:20 GMT`
+- fetched_at: `2026-03-31T14:03:48+00:00`
+- checked_at: `2026-03-31T14:03:48+00:00`
+- etag: `"b11473e628a6c66002767e473d0c9c84"`
+- last_modified: `Tue, 31 Mar 2026 12:00:20 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.siriusxm.com",
   "description": "Welcome to Critical Role, home of a bunch of nerdy-ass voice actors playing tabletop roleplaying games! Enter a world of glorious imagination and improvisation with a group of the finest collaborative storytellers around. Here you’ll find our TTRPG and adjacent shows, including Critical Role, Exandria Unlimited, 4-Sided Dive, and a growing selection of one-shots.",
   "image_url": "https://image.simplecastcdn.com/images/a74173a8-254a-45ff-aee0-b0cd0458d7f1/b6c4a701-8e4f-402c-8cb3-691faaf1ab38/3000x3000/bfff4761a218248e.jpeg?aid=rss_feed",
-  "fetched_at": "2026-03-26T14:01:16+00:00",
+  "fetched_at": "2026-03-31T14:03:48+00:00",
   "owners": [
     "Matthew Mercer",
     "Marisha Ray",
@@ -35,6 +35,62 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "1952d1f662c2e5b3f5583e8df8bac6b1bb74c20a",
+      "title": "Hand & Wheel | Critical Role | Campaign 4, Episode 19 Part 2",
+      "published_at": "2026-03-31T12:00:00+00:00",
+      "link": "https://www.siriusxm.com",
+      "description": "Part 2 In Dol-Makjar, the Schemers juggle jobs and subterfuge as they reckon with the ascent of the Sundered Houses... New Episodes Release Weekly on Thursdays. Learn more about Campaign 4 at https://critrole.com/campaign4/ GET MORE CAMPAIGN 4 WITH BEACON We're excited to bring you even MORE Campaign 4 with a Beacon membership! Get access to exclusive shows like our behind-the-scenes Critical Role Cooldown and ask the Campaign 4 cast your burning questions directly through our LIVE monthly Fireside Chats. You'll also receive NEW Beacon exclusive series, instant ad-free access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to everything Critical Role! OFFICIAL CAMPAIGN 4 CAST GAME MASTER Brennan Lee Mulligan Laura Bailey as Thimble Luis Carazo as Azune Nayar Robbie Daymond as Kattigan Vale Aabria Iyengar as Thaisha Lloy Taliesin Jaffe as Bolaire Lathalia Ashley Johnson as Vaelus Matthew Mercer as Sir Julien Davinos Whitney Moore as Tyranny Liam O’Brien as Halandil \"Hal\" Fang Marisha Ray as Murray Mag’Nesson Sam Riegel as Wicander \"Wick\" Halovar Alexander Ward as Occtis Tachonis Travis Willingham as Teor Pridesire CREDITS Produced by Maxwell James, Steve Failows, & Kyle Shire Set Designed by Shaun Ellis Production Designer: Noxweiler Berf Character Art by Loren Hontanilla Edited by Taylor Burke and Emily \"Stevie\" Stevenson Critical Role Announcement Playhouse Editor: Vinny Celesti Opening Title Editor: Paul Foyder Opening Title Colorist: Peter Koocheradis Window Effects by Christian Brown Graphic Design by Aaron Monroy & Jordyn Torrence Dol-Makjar art by Daniel Jiménez Villalba Miniatures Painted by Payton Keo Lacebal Opening Title Theme by Neal Acree Campaign 4 Key art by Hannah Friederichs Additional Art & Design by Hannah Friederichs Episode QC by Catherine Zimmerman & Paula Flores Assistant Editor: Gianna Gencarella Post Production Coordinators: M Swing & Bryn Hubbard Closed Caption Editing by Margaret Dill, Nikki Kindelberger, Courtney Knewtson, Danielle Lackie, Eleanor Smith-Dufresne & Alice Tsoi Post Production Supervisor: Tal Levitas HEALTH & WELL-BEING Due to the improv nature of Critical Role and other RPG content on our channels, some themes and situations that occur in-game may be difficult for some to handle. If certain episodes or scenes become uncomfortable, we strongly suggest taking a break or skipping that particular episode. Your health and well-being is important to us and Psycom has a great list of international mental health resources, in case it’s useful: http://bit.ly/PsycomResources Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/2f03985c-3acd-421b-9ee9-1dec0748d835/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=2f03985c-3acd-421b-9ee9-1dec0748d835&feed=LXz4Q9rJ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124106770",
+      "itunes_duration": "02:09:01",
+      "speakers": [
+        "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
+      ],
+      "topics": [
+        "hand",
+        "wheel",
+        "critical",
+        "role",
+        "campaign"
+      ]
+    },
+    {
+      "key": "213a3459eac8ab38f8140a13e1c08a3eb9fc867b",
+      "title": "Toys and Tiny Things | EP 2 | Weird Kids",
+      "published_at": "2026-03-31T12:00:00+00:00",
+      "link": "https://www.siriusxm.com",
+      "description": "The Weird Kids episodes from 2025 are now releasing weekly on YouTube and your favorite podcast platform! New Epsiodes of Weird Kids are coming exclusivly to Beacon soon! Watch all available episodes on Beacon now: https://bit.ly/WKBeacon ------------------------------------ From Care Bears to Polly Pocket; Ashley Johnson and Taliesin Jaffe talk toys that hit every Millennial’s nostalgia nerve. Of course this is through the lens of Hollywood Christmas parties where one could win entire toy runs in carnival games or get gifted all of the sci-fi Japanese toys bought for your character's space station bedroom. Also in this episode: • Ashley meeting Arnold Schwarzenegger • Taliesin’s days as a Japanese toy store manager • Zen out with 3D Pin Art Boards ------------------------------------ Ashley Johnson and Taliesin Jaffe deep dive into their lives as the Weird Kids! This is a formal invitation to all the misfits, outcasts, and weirdos to take a seat at our table and join these former child actors as they embrace their unique upbringings and celebrate all things weird and wonderful. Learn more at https://critrole.com/weirdkids/ Produced by Maxwell James and Will Lamborn Theme Song by Dave Heatwave Animation by Max Schapiro BEACON We’re excited to bring you even MORE with a Beacon membership! Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to the shows you love completely ad-free! You’ll receive NEW Beacon exclusive series, instant access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. YOUTUBE MEMBERS / TWITCH SUBSCRIBERS Twitch Subscribers and YouTube Members gain instant access to VODs of our shows, moderated live chats, and custom emojis & badges: https://www.youtube.com/criticalrole/join https://www.twitch.tv/criticalrole Follow Weird Kids! Instagram: https://www.instagram.com/theweirdkidspod TikTok: https://www.tiktok.com/@hellobeacon YouTube: https://www.youtube.com/@TheWeirdKidsPod Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/a399ee11-98ad-476e-92a0-5a1511ab47c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=a399ee11-98ad-476e-92a0-5a1511ab47c6&feed=LXz4Q9rJ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61949953",
+      "itunes_duration": "01:04:31",
+      "speakers": [
+        "Tiny Things",
+        "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
+      ],
+      "topics": [
+        "thing",
+        "weird",
+        "kids"
+      ]
+    },
     {
       "key": "ba5f2e86837aec818d39032bbb6dc7f3b27d910c",
       "title": "Hand & Wheel | Critical Role | Campaign 4, Episode 19 Part 1",
@@ -11214,6 +11270,8 @@
 
 ## Episodes (newest first)
 
+- 2026-03-31 — Hand & Wheel | Critical Role | Campaign 4, Episode 19 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2026-03-31 — Toys and Tiny Things | EP 2 | Weird Kids — speakers: Tiny Things, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2026-03-26 — Hand & Wheel | Critical Role | Campaign 4, Episode 19 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2026-03-24 — Tale Gate | Episode 2 | Discussing Up To C4E18 — speakers: Aabria Iyengar, Ashley Johnson, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
 - 2026-03-17 — Vindicta & Vale | Critical Role | Campaign 4, Episode 18 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson

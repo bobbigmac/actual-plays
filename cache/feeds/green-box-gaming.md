@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-03-24T13:53:09+00:00`
-- checked_at: `2026-03-24T13:53:09+00:00`
-- etag: `"803d0748151fd48044e15771e087008e"`
-- last_modified: `Tue, 24 Mar 2026 13:00:17 GMT`
+- fetched_at: `2026-03-31T14:03:48+00:00`
+- checked_at: `2026-03-31T14:03:48+00:00`
+- etag: `"06b66d33ffaf3e4d5a6acdbfe79f7324"`
+- last_modified: `Tue, 31 Mar 2026 13:00:20 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-03-24T13:53:09+00:00",
+  "fetched_at": "2026-03-31T14:03:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "22e10cc6222f045acba707fb5366855f3a03263b",
+      "title": "Ep2 | Thousand Year Old Vampire w/ Gian - The Hairiest King of Scotland",
+      "published_at": "2026-03-31T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/2635441",
+      "description": "Things get bleak as our undead Max continues to outlive his sanity, memories, and entire epochs of time! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/2635441/green-box-gaming/2026_03_17_05_51_21_7d271760-6c31-4340-bd13-223d3357c015.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "125330911",
+      "itunes_duration": "7833",
+      "speakers": [],
+      "topics": [
+        "thousand",
+        "year",
+        "vampire",
+        "gian",
+        "hairiest",
+        "king",
+        "scotland"
+      ]
+    },
     {
       "key": "8dae2a864bf9321114da2350bd80a78491a37a54",
       "title": "Ep1 | Thousand Year Old Vampire w/ Gian - Living Life to the Max",
@@ -3792,6 +3814,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-31 — Ep2 | Thousand Year Old Vampire w/ Gian - The Hairiest King of Scotland
 - 2026-03-24 — Ep1 | Thousand Year Old Vampire w/ Gian - Living Life to the Max
 - 2026-03-17 — Ep2 | Delta Green: The Button - Connections — speakers: Delta Green, Connections Rodrick
 - 2026-03-10 — Ep1 | Delta Green: The Button - Purple and Gold
