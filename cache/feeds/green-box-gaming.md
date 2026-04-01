@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-04-01T16:17:37+00:00`
-- checked_at: `2026-04-01T16:17:37+00:00`
-- etag: `"93a85c745574e21cb52883a11ecb192f"`
-- last_modified: `Wed, 01 Apr 2026 16:15:41 GMT`
+- fetched_at: `2026-04-01T19:33:44+00:00`
+- checked_at: `2026-04-01T19:33:44+00:00`
+- etag: `"e8b57a9b8a17a10848db375439d9ee4b"`
+- last_modified: `Wed, 01 Apr 2026 16:22:01 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-04-01T16:17:37+00:00",
+  "fetched_at": "2026-04-01T19:33:44+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
