@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-04-01T03:47:20+00:00`
-- checked_at: `2026-04-01T03:47:20+00:00`
-- etag: `"djEuMi4wOjE3NzUwMTE4MzA2NDU="`
+- fetched_at: `2026-04-01T07:56:22+00:00`
+- checked_at: `2026-04-01T07:56:22+00:00`
+- etag: `"djEuMi4wOjE3NzUwMjc0MzkyNDI="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-04-01T03:47:20+00:00",
+  "fetched_at": "2026-04-01T07:56:22+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,40 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "6b0caf21e821572fa0c5ff0027a096f95cd2e975",
+      "title": "Ep. 323: Because, That's What Heroes Do - Chapter 20 - pt.2 | #DND",
+      "published_at": "2026-04-01T07:10:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week's episode of ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Dungeons & Dragons⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ pirate adventure, In this week’s Dungeons and Dragons finale, the Bucs face the last echoes of a world built on power, prophecy, and impossible choices. As the Dice settle and ancient forces fade, what remains is not just victory but consequence. Old magic fractures, empires fall quiet, and the heroes who shaped this DnD saga must finally decide what their legacy will be. When the battle is over, what truly survives? What becomes of power once it’s been broken? And how do legends live on when the heroes finally walk away? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Keth⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Milo⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Derek⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Jeff⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), and Sophie ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠River⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), led by James ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠the Dungeon Master⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69cba5bf92d007a76560ef66/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80423183",
+      "itunes_duration": "55:26",
+      "speakers": [],
+      "topics": [
+        "heroes",
+        "chapter"
+      ]
+    },
+    {
+      "key": "b83c154e3b963fe56778b53d8f67c6cb3ce5be37",
+      "title": "Ep. 323: Because, That's What Heroes Do - Chapter 20 - pt.1 | #DND",
+      "published_at": "2026-04-01T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week's episode of ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Dungeons & Dragons⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ pirate adventure, In this week’s Dungeons and Dragons finale, the Bucs face the last echoes of a world built on power, prophecy, and impossible choices. As the Dice settle and ancient forces fade, what remains is not just victory but consequence. Old magic fractures, empires fall quiet, and the heroes who shaped this DnD saga must finally decide what their legacy will be. When the battle is over, what truly survives? What becomes of power once it’s been broken? And how do legends live on when the heroes finally walk away? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Keth⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Milo⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Derek⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Jeff⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), and Sophie ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠River⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), led by James ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠the Dungeon Master⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69cba0a392d007a7655f1aa7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110009051",
+      "itunes_duration": "1:15:59",
+      "speakers": [],
+      "topics": [
+        "heroes",
+        "chapter"
+      ]
+    },
     {
       "key": "88e56770c0f6f24151bd240fdf0e3ae2a9c18f4b",
       "title": "Ep. 322: Because, That's What Heroes Do - Chapter 19 - pt.2 | #DND",
@@ -7516,6 +7550,8 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — Ep. 323: Because, That's What Heroes Do - Chapter 20 - pt.2 | #DND
+- 2026-04-01 — Ep. 323: Because, That's What Heroes Do - Chapter 20 - pt.1 | #DND
 - 2026-03-25 — Ep. 322: Because, That's What Heroes Do - Chapter 19 - pt.2 | #DND
 - 2026-03-25 — Ep. 322: Because, That's What Heroes Do - Chapter 19 - pt.1 | #DND
 - 2026-03-18 — Ep. 321: Because, That's What Heroes Do - Chapter 18 - pt.2 | #DND

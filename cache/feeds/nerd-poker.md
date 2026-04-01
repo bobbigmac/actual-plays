@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-03-25T19:13:21+00:00`
-- checked_at: `2026-03-25T19:13:21+00:00`
-- etag: `"9a70d04ba4fb54e0e7f0a1070047a50c"`
-- last_modified: `Wed, 25 Mar 2026 18:35:01 GMT`
+- fetched_at: `2026-04-01T07:56:22+00:00`
+- checked_at: `2026-04-01T07:56:22+00:00`
+- etag: `"be4f455c30d462801bfdc5cc6cd3b2d5"`
+- last_modified: `Wed, 01 Apr 2026 04:34:19 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-03-25T19:13:21+00:00",
+  "fetched_at": "2026-04-01T07:56:22+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "457ebe0492f3cd0f5214657656aad3cf155cda4c",
+      "title": "The Fog Campaign - Episode 65",
+      "published_at": "2026-04-01T04:30:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-65",
+      "description": "You know what's creepy? Jars full of lich parts. But you know what we love? Big skulls trying to get our attention. Definitely not a trap. For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more be sure to head to nerdpokerpod.com",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-065-20260311-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110139968",
+      "itunes_duration": "45:54",
+      "speakers": [
+        "Brian Posehn"
+      ],
+      "topics": [
+        "campaign"
+      ]
+    },
     {
       "key": "2c6f46107120eef69eefb38d8c08f570047fd274",
       "title": "The Fog Campaign - Episode 64",
@@ -8757,6 +8775,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — The Fog Campaign - Episode 65 — speakers: Brian Posehn
 - 2026-03-25 — The Fog Campaign - Episode 64 — speakers: Brian Posehn
 - 2026-03-19 — The Fog Campaign - Episode 63 — speakers: Brian Posehn
 - 2026-03-11 — The Fog Campaign - Episode 62 — speakers: Brian Posehn
