@@ -2,8 +2,8 @@
 
 - slug: `dndark`
 - source: `https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40`
-- fetched_at: `2026-04-01T10:17:47+00:00`
-- checked_at: `2026-04-01T10:17:47+00:00`
+- fetched_at: `2026-04-01T14:07:34+00:00`
+- checked_at: `2026-04-01T14:07:34+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/dndark",
   "description": "A comedy/horror D&D Actual Play Podcast starring some of history's most iconic monsters",
   "image_url": "https://media.redcircle.com/images/2025/4/2/20/c89246be-6b46-429a-909e-1e4e1bd26ad0_846-8b2d-746b3b4b007c_received_702201047512802.jpg",
-  "fetched_at": "2026-04-01T10:17:47+00:00",
+  "fetched_at": "2026-04-01T14:07:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -24,6 +24,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "e1a92666ce1e0c15359f800bb3e420921e898aca",
+      "title": "DnDark Presents: DnDark Souls Part 9: Once Upon a Dream",
+      "published_at": "2026-04-01T12:00:43+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "Contains: Gore In the team's race to confront The Mistress of all Evil, they are surprised to instead be confronted by Princess Aurora, overtaken by the sorceress' dark magic, and with emotionally distraught revelations about The Prince's past... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" Daniel Cruz - Pinocchio: \"The Real Boy\" Grayson Norman - Sir Mordred: \"The Knight\" \"Danger\" Dan Jerz - \"The Pauper\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios",
+      "image_url": "https://media.redcircle.com/images/2026/3/20/4/ebbbba34-bb11-4681-863f-618a81ce41f3_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/cddc8150-ae10-4946-8086-d60a442c9804/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58843219",
+      "itunes_duration": "3677",
+      "speakers": [],
+      "topics": [
+        "dndark",
+        "presents",
+        "souls",
+        "dream"
+      ]
+    },
     {
       "key": "472c1e18865c97c0016ca5683331fe6808ec5d7f",
       "title": "Table Talk - Interview with Jason Cordova",
@@ -2449,6 +2468,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — DnDark Presents: DnDark Souls Part 9: Once Upon a Dream
 - 2026-03-25 — Table Talk - Interview with Jason Cordova — speakers: Jason Cordova
 - 2026-03-11 — DnDark Presents: DnDark Souls Part 8: A Knight's Tale
 - 2026-03-04 — Table Talk - Interview with Mayanna Berrin — speakers: Mayanna Berrin
