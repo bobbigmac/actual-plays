@@ -2,9 +2,9 @@
 
 - slug: `the-dice-girls`
 - source: `https://thedicegirls.podbean.com/feed.xml`
-- fetched_at: `2026-03-18T03:22:20+00:00`
-- checked_at: `2026-03-18T03:22:20+00:00`
-- etag: `"2a0e269623e2ac38498fd7bc2b7c810e"`
+- fetched_at: `2026-04-01T03:47:20+00:00`
+- checked_at: `2026-04-01T03:47:20+00:00`
+- etag: `"4308871b72b6d9d8309af76d5dd2f716"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedicegirls.podbean.com",
   "description": "Join DM Becca, Ash, and Alexa as they are off on their latest D&D adventure!",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/3612512/Dragons_Logo90p3b.jpg",
-  "fetched_at": "2026-03-18T03:22:20+00:00",
+  "fetched_at": "2026-04-01T03:47:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,23 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "35f935783c4733e35e123871e2b2098d8016f218",
+      "title": "24. Battling the Storm, Literally (Part 2)",
+      "published_at": "2026-04-01T02:12:56+00:00",
+      "link": "https://thedicegirls.podbean.com/e/24-battling-the-storm-literally-part-2/",
+      "description": "Our adventurers continue their treacherous battle with the storm cloud!",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/xjqxk5tj9mun5a9w/Episode_24_Final7946k.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51109209",
+      "itunes_duration": "2129",
+      "speakers": [],
+      "topics": [
+        "storm",
+        "literally"
+      ]
+    },
     {
       "key": "57116f2af97c490ee80d43e4724ddc69cafb3142",
       "title": "23. Battling the Storm (Literally), Pt. 1",
@@ -3218,6 +3235,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — 24. Battling the Storm, Literally (Part 2)
 - 2026-03-17 — 23. Battling the Storm (Literally), Pt. 1
 - 2026-03-03 — 22. All Roads Lead to Schnicktick
 - 2026-02-05 — 21. The Grand Quest
