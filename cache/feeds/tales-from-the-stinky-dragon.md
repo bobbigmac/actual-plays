@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-03-27T19:16:00+00:00`
-- checked_at: `2026-03-27T19:16:00+00:00`
-- last_modified: `Fri, 27 Mar 2026 17:11:42 GMT`
+- fetched_at: `2026-04-01T10:17:47+00:00`
+- checked_at: `2026-04-01T10:17:47+00:00`
+- last_modified: `Wed, 01 Apr 2026 08:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-27T19:16:00+00:00",
+  "fetched_at": "2026-04-01T10:17:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "158ea65c2794b6806973734e9c6b10380302ce92",
+      "title": "C03 - Ep. 40 - Under Oondar Fire - Caught Off Vanguard",
+      "published_at": "2026-04-01T08:00:00+00:00",
+      "link": null,
+      "description": "Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new merch at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4c0fdc2e-dadb-11f0-a213-c31c672c5433/image/8f75cee677d8e5a4847b21dbaf27c04e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS5539586964.mp3?updated=1774499914",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6053",
+      "speakers": [
+        "Under Oondar Fire",
+        "Caught Off Vanguard Support"
+      ],
+      "topics": [
+        "oondar",
+        "fire",
+        "vanguard"
+      ]
+    },
     {
       "key": "d8a800b47b42eed26c5e258bb6f131fb6a65c443",
       "title": "C03 - Ep. 39 - From On Hyra - A Big Ascend-Off",
@@ -4191,6 +4212,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — C03 - Ep. 40 - Under Oondar Fire - Caught Off Vanguard — speakers: Under Oondar Fire, Caught Off Vanguard Support
 - 2026-03-18 — C03 - Ep. 39 - From On Hyra - A Big Ascend-Off — speakers: Big Ascend, Off Brutaliteam, Blood Bather
 - 2026-03-04 — C03 - Ep. 38 - From On Hyra - This Means Warden!
 - 2026-02-18 — C03 - Ep. 37 - From On Hyra - Prison Break-In

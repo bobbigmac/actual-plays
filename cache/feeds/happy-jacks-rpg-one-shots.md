@@ -3,12 +3,10 @@
 - slug: `happy-jacks-rpg-one-shots`
 - source: `https://www.happyjacks.org/feed/oneshots/`
 - fetched_at: `2026-03-31T21:57:20+00:00`
-- checked_at: `2026-04-01T07:56:22+00:00`
+- checked_at: `2026-04-01T10:17:47+00:00`
 - etag: `"8d5a342f768baa4ddc53c128c197dadc"`
 - last_modified: `Tue, 31 Mar 2026 21:00:00 GMT`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: <urlopen error [Errno 101] Network is unreachable>
 
 <!-- FEED_JSON -->
 ```json
@@ -1809,17 +1807,7 @@
         "shadowcon"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-04-01T07:56:22+00:00",
-    "status": "error",
-    "checked_at": "2026-04-01T07:56:22+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "<urlopen error [Errno 101] Network is unreachable>"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
