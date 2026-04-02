@@ -2,9 +2,9 @@
 
 - slug: `one-shot-onslaught-a-d-d-5e-actual-play-podcast`
 - source: `https://oneshotonslaught.libsyn.com/rss`
-- fetched_at: `2026-04-02T03:28:05+00:00`
-- checked_at: `2026-04-02T03:28:05+00:00`
-- last_modified: `Thu, 02 Apr 2026 01:27:13 GMT`
+- fetched_at: `2026-04-02T07:43:28+00:00`
+- checked_at: `2026-04-02T07:43:28+00:00`
+- last_modified: `Thu, 02 Apr 2026 07:30:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://oneshotonslaught.com",
   "description": "We are an actual-play fifth-edition Dungeons and Dragons podcast. The thing that we do different is that we play through popular one-shot modules from dmsguild.com which means that you can drop in and listen to any session without having to be all caught up! We split each one-shot into two separate episodes so that we can release our podcast bi-weekly! If you like bite-sized chunks of D&D that you can drop in and out of without needing to following a larger over-arching narrative then we are your show! Patreon: patreon.com/MajesticGoose Discord: bit.ly/oneshotdiscord Website: MajesticGoose.com Twitter: @goosemajestic",
   "image_url": "https://megaphone.imgix.net/podcasts/eb918fc2-6f0a-11ec-a334-330ad16a06e0/image/1_shot_onslaught_Final_Square_full_width.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-02T03:28:05+00:00",
+  "fetched_at": "2026-04-02T07:43:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "2b8546717756b8df5e3de126c3704d010f50cf56",
+      "title": "White as Snow - Part 10",
+      "published_at": "2026-04-02T07:30:00+00:00",
+      "link": "https://www.majesticgoose.com/one-shot-onslaught",
+      "description": "The crew slips into the cursed castle unseen, dodging monsters, ignoring bad ideas, and trusting a spell to keep them hidden. It works. Mostly. Like what you hear and want to support the show? Even $1 goes a long way for us! ⁠⁠⁠⁠⁠⁠⁠bit.ly/halfwaytopatreon⁠⁠⁠⁠⁠⁠⁠ Want to hang out with the cast? Come join our Discord! ⁠⁠⁠⁠⁠⁠⁠bit.ly/halfwaytodiscord⁠⁠⁠⁠⁠⁠⁠ Twitch: ⁠⁠⁠⁠⁠⁠⁠twitch.tv/majesticgoosenetwork⁠⁠⁠⁠⁠⁠⁠ Twitter: ⁠⁠⁠⁠⁠⁠⁠@1shotOnslaught⁠⁠⁠⁠⁠⁠⁠ Instagram: ⁠⁠⁠⁠⁠⁠⁠@oneshotonslaught⁠⁠⁠⁠⁠⁠⁠ Website: ⁠⁠⁠⁠⁠⁠⁠www.oneshotonslaught.com⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠Merch Shop⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠White as Snow⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠TabletopAudio⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠www.etsy.com/shop/ironclawrelics⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/MAGN3620819430.mp3?updated=1775093482",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4700",
+      "speakers": [],
+      "topics": [
+        "snow"
+      ]
+    },
     {
       "key": "2284477d976e6db3b539432fb72283468445e055",
       "title": "White as Snow - Part 9",
@@ -2260,6 +2276,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-02 — White as Snow - Part 10
 - 2026-03-03 — White as Snow - Part 9 — speakers: Kill Snow White
 - 2025-11-20 — White as Snow - Part 8
 - 2025-08-15 — White as Snow - Part 7

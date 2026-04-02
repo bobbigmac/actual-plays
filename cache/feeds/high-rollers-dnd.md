@@ -2,9 +2,9 @@
 
 - slug: `high-rollers-dnd`
 - source: `https://feeds.megaphone.fm/NSR8625352094`
-- fetched_at: `2026-03-31T19:30:58+00:00`
-- checked_at: `2026-03-31T19:30:58+00:00`
-- last_modified: `Tue, 31 Mar 2026 16:59:29 GMT`
+- fetched_at: `2026-04-02T07:43:28+00:00`
+- checked_at: `2026-04-02T07:43:28+00:00`
+- last_modified: `Thu, 02 Apr 2026 07:07:25 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://highrollersdnd.libsyn.com/website",
   "description": "Welcome to High Rollers, a live-play Dungeons & Dragons podcast! Join Dungeon Master Mark Hulmes and his players as they explore Altheya: The Dragon Empire on Europe's biggest independent TTRPG stream. Episodes go live Tuesdays and Thursdays, or watch live every Sunday at 5pm UK Time on twitch.tv/highrollersdnd or youtube.com/highrollersdnd!",
   "image_url": "https://megaphone.imgix.net/podcasts/b072907c-ca95-11eb-b4a3-f71bfb3de22d/image/PodcastV1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-31T19:30:58+00:00",
+  "fetched_at": "2026-04-02T07:43:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "2354784fa302b3a34e925bb4a5043f1c59e697b4",
+      "title": "Obey the Edict (Part 2) | Altheya: The Dragon Empire #96",
+      "published_at": "2026-04-02T07:00:00+00:00",
+      "link": null,
+      "description": "The battle continues against Edith and her haunting minions! View the map for Gallow's Eyrie on our Patreon for FREE here: https://www.patreon.com/posts/152093760 Altheya: The Dragon Empire Kickstarter is NOW LIVE! Support the project and get tons of amazing extras here: https://www.rollandplaypress.com/highrollers Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR3867312877.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3955",
+      "speakers": [],
+      "topics": [
+        "edict",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
     {
       "key": "0747a6f8e0ff16cc68f17e093c7ad7c7fc382c85",
       "title": "Obey the Edict (Part 1) | Altheya: The Dragon Empire #96",
@@ -14212,6 +14231,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-02 — Obey the Edict (Part 2) | Altheya: The Dragon Empire #96
 - 2026-03-31 — Obey the Edict (Part 1) | Altheya: The Dragon Empire #96
 - 2026-03-19 — Prison Break! (Part 2) | Altheya: The Dragon Empire #95 — speakers: Prison Break
 - 2026-03-17 — Prison Break! (Part 1) | Altheya: The Dragon Empire #95 — speakers: Prison Break
