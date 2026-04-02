@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-03-27T10:08:42+00:00`
-- checked_at: `2026-03-27T10:08:42+00:00`
-- etag: `W/"4843985aa595c014fedd8567cdb5aa27"`
-- last_modified: `Fri, 27 Mar 2026 10:00:01 GMT`
+- fetched_at: `2026-04-02T16:13:25+00:00`
+- checked_at: `2026-04-02T16:13:25+00:00`
+- etag: `W/"1d0163e123bf2673f7364b26969eee07"`
+- last_modified: `Thu, 02 Apr 2026 15:34:55 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-03-27T10:08:42+00:00",
+  "fetched_at": "2026-04-02T16:13:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,7 +27,7 @@
   "episodes": [
     {
       "key": "88925254efce6a77ed7fa6c350f282056821aec3",
-      "title": "S16 Ep1: Axis Arc 2 Ep1: Echos of Yesterday PART 2",
+      "title": "S16 Ep1: Axis Arc 2 Ep 1: Echos of Yesterday PART 2",
       "published_at": "2026-03-27T10:00:00+00:00",
       "link": "https://audioboom.com/posts/8879581",
       "description": "Axis is abuzz with the news of a major incident aboard a Turlett cruise liner, meanwhile the crew of Silver Hawke can’t help but feel like something is just… off. --- If you're enjoying the show and would like to support the show consider checking out The Rotating Heroes Patreon ! You can get instant access to the entire back catalogue of shows, catch up with two new arcs as well as bonus shows, live streams and more! If you want even more actual play goodness in your life consider checking out 12 Sided Studios' newest production Oaths and Empires . A brand new TTRPG actual play featuring Luke Dale and Tom McKay and set in a Witcher-esk inspired world, as our two rookie players navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
@@ -2493,7 +2493,7 @@
 
 ## Episodes (newest first)
 
-- 2026-03-27 — S16 Ep1: Axis Arc 2 Ep1: Echos of Yesterday PART 2
+- 2026-03-27 — S16 Ep1: Axis Arc 2 Ep 1: Echos of Yesterday PART 2
 - 2026-03-20 — S16 Ep1: Axis Arc 2 Ep 1: Echos of Yesterday PART 1
 - 2026-03-13 — S15 Ep10: Axis Arc 1 Ep 10: Tick Tick Boom PART 2 — speakers: Tick Tick Boom
 - 2026-03-06 — S15 Ep10: Axis Arc 1 Ep 10: Tick Tick Boom PART 1 — speakers: Tick Tick Boom
