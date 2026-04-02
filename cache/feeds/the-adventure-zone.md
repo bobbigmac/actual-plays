@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-03-19T13:43:54+00:00`
-- checked_at: `2026-03-19T13:43:54+00:00`
-- etag: `"e0e902acd8cec083e8f3c8de650dbddc"`
-- last_modified: `Thu, 19 Mar 2026 11:00:18 GMT`
+- fetched_at: `2026-04-02T13:58:37+00:00`
+- checked_at: `2026-04-02T13:58:37+00:00`
+- etag: `"8887ca34ed315ec1f52227a55df6f653"`
+- last_modified: `Thu, 02 Apr 2026 11:00:16 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-03-19T13:43:54+00:00",
+  "fetched_at": "2026-04-02T13:58:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "8f957dd26fc6b0ee187c55c8eaaeee75dcb860de",
+      "title": "The Adventure Zone Royale: Episode 21",
+      "published_at": "2026-04-02T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-royale-episode-21-YCu8jjy1",
+      "description": "Rictus, Hellgrammite, and Lorovith collect their winnings and gain new spells and powers . . . just in time to be thrown into the next trial, which has no guaranteed survivors. Royale Theme: “Wizard Disco” by Louie Zong: https://louiezong.bandcamp.com/album/wizard-disco Original Music by Griffin McElroy Additional Music in this Episode: \"Atmosphere for Documentaries\" by Universfield: https://unil.ink/universfield; \"The Apotheosis of All Deserts\" , \"VIII\", and \"Chewing Devil Grass\" by ROZKOL: https://rozkol.bandcamp.com/; “The Redemption in Her Arms, the Light at the End of Her Tunnel\" by Schemawound http://schemawound.com/; \"A Rainbow in the Sewers\" by Jangwa: https://www.petitesmaisons.it/jangwa/; \"Haze\" and \"Time is Ticking\" by Scott Holmes Music: https://scottholmesmusic.com/; \"Foresight\" by Serat: https://blear-moon.com; \"PULL\" by Nctrnm: https://soundcloud.com/nctrnm; \"Moulds Sun\" by 10 Echo: https://10echo.bandcamp.com/; and \"tribute to eddy\" by Jean Toba: https://jeantoba.blogspot.com/. Marsha P. Johnson Institute: https://marshap.org/",
+      "image_url": null,
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/4093e6cd-3c52-44cc-82f9-ae4def70ad46/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=4093e6cd-3c52-44cc-82f9-ae4def70ad46&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75418123",
+      "itunes_duration": "01:06:28",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "royale"
+      ]
+    },
     {
       "key": "486dfef9e4aa7cf21dc1ac6adb3f6749d3e0111d",
       "title": "The Adventure Zone Royale: Episode 20",
@@ -7860,6 +7878,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-02 — The Adventure Zone Royale: Episode 21
 - 2026-03-19 — The Adventure Zone Royale: Episode 20
 - 2026-03-05 — The Adventure Zone Royale: Episode 19
 - 2026-02-19 — The Adventure Zone Royale: Episode 18
