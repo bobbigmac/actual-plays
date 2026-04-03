@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-03-30T19:31:03+00:00`
-- checked_at: `2026-03-30T19:31:03+00:00`
-- etag: `"d7d919c463be316818986e00a2c2539d"`
+- fetched_at: `2026-04-03T15:55:47+00:00`
+- checked_at: `2026-04-03T15:55:47+00:00`
+- etag: `"1f3beb01fc9d7d9bf2c68c270c7a8e8a"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/5111002/Dork_Tales_d20_20238mnn1.png",
-  "fetched_at": "2026-03-30T19:31:03+00:00",
+  "fetched_at": "2026-04-03T15:55:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "8e4b160caca8b2071e156bea66e647febd3e0d13",
+      "title": "Mage the Ascension the Victorian Age | Chastity's Seeking | Bonus Episode",
+      "published_at": "2026-04-03T15:01:59+00:00",
+      "link": "https://dorktales.podbean.com/e/mage-the-ascension-the-victorian-age-chastitys-seeking-bonus-episode/",
+      "description": "In this special side episode, Darcie goes on her Seeking in an attempt to earn Arete 4! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage #mage20 === Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Evelyn Taylor Graphic Design by Michael Ilott You can find Michael here on Dork Tales or at https://twitch.tv/sylvesterslays The Mage the Ascension: The Victorian Era logo, this background, and all related images and logos are the property of their respective rights holders. === Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Our Linktree ► https://linktr.ee/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktaleschannel/ Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! Want to ascend? Perhaps clicking that little bell and subscribing will show you the way of true enlightenment... === Music credits: Music From Dark Fantasy Studio Evil Inside Something in the Dark Just Behind These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vision of the Ancients Lighthearted Ouija Clock Ticks Alice Celeste Horror Tones D Anxiety State These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! The composer, Tim, hosts the site for free, so give it a try and if you have a few spare bucks, definitely donate: the quality of his work is staggering. https://www.tabletopaudio.com",
+      "image_url": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog5111002/Mage_Book_3Podcast_Logoabm7t.png",
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/x77abgyp5bkyhj5p/ChastitySeeking.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49621468",
+      "itunes_duration": "2067",
+      "speakers": [],
+      "topics": [
+        "ascension",
+        "chastity"
+      ]
+    },
     {
       "key": "2d566bce109ec038c224aa5ca216592c70c02dad",
       "title": "Vecna: Eve of Ruin | Episode 30: The Red Belvedere",
@@ -7499,6 +7516,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-03 — Mage the Ascension the Victorian Age | Chastity's Seeking | Bonus Episode
 - 2026-03-30 — Vecna: Eve of Ruin | Episode 30: The Red Belvedere
 - 2026-03-23 — Vecna: Eve of Ruin | Episode 29: Hell of a Ride — speakers: Ride Vecna
 - 2026-03-16 — Vecna: Eve of Ruin | Episode 28: Rerak's Crypt
