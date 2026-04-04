@@ -3,12 +3,13 @@
 - slug: `twilight-zone-radio-dramas`
 - source: `https://archive.org/download/rss_twzo/twzo`
 - fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-04-04T15:49:23+00:00`
+- checked_at: `2026-04-04T21:48:45+00:00`
 - etag: `"61daffee-19969"`
 - last_modified: `Sun, 09 Jan 2022 15:31:58 GMT`
 - max_episodes_per_feed: `1000`
-- status: `error`
+- status: `disabled`
 - last_error: `HTTP 500` — Internal Server Error
+- disabled_reason: 3 consecutive failures
 
 <!-- FEED_JSON -->
 ```json
@@ -3624,13 +3625,16 @@
   ],
   "fetch": {
     "error_since": "2026-04-04T15:49:23+00:00",
-    "status": "error",
-    "checked_at": "2026-04-04T15:49:23+00:00",
-    "consecutive_failures": 1,
+    "status": "disabled",
+    "checked_at": "2026-04-04T21:48:45+00:00",
+    "consecutive_failures": 3,
     "error": {
       "status": 500,
       "message": "Internal Server Error"
-    }
+    },
+    "disabled": true,
+    "disabled_at": "2026-04-04T21:48:45+00:00",
+    "disabled_reason": "3 consecutive failures"
   }
 }
 ```

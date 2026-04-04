@@ -2,9 +2,9 @@
 
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
-- fetched_at: `2026-04-04T15:49:23+00:00`
-- checked_at: `2026-04-04T15:49:23+00:00`
-- etag: `W/"ab568b89ec3cc484c2b11bde226b7b6a"`
+- fetched_at: `2026-04-04T21:48:45+00:00`
+- checked_at: `2026-04-04T21:48:45+00:00`
+- etag: `W/"2ca04e6e2a4f695939fb7ffcf9f47882"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollthehard20podcast.com/podcast-episode/",
   "description": "Dungeons and Dragons weekly actual play and discussions",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/9d3b0539-1955-4096-946d-2fe71cf34e12/TheHardTwenty-DeltaGreen-Greens+2.jpg?format=1500w",
-  "fetched_at": "2026-04-04T15:49:23+00:00",
+  "fetched_at": "2026-04-04T21:48:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "c6973dfe1a45ddfb9078e8d01b5bc14187f74fc4",
+      "title": "DELTA GREEN: PLAYTHINGS (EP 8)",
+      "published_at": "2026-04-04T21:01:14+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/4/4/delta-green-playthings-ep-8",
+      "description": "The Agents question the Medical Examiner… and then go History’s Emporium… where the doll was purchased from. Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Just one more venue we can be found! https://www.delta-green.com/topics/debriefing/ Want to be a Hard Slinger and get cool swag? Join us on our Patreon page! https://www.patreon.com/rollthehard20podcast Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://instagram.com/rollthehard20?igshid=gjlo7p4lay72 https://twitter.com/rollthehard20?s=11 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1775336464434-54RPFSLN3T4DKSXRILNF/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/69d17b6855037f13406d8b2d/1775336451688/pt+8+-+4%3A3%3A26%2C+6.19+PM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104389406",
+      "itunes_duration": "54:22",
+      "speakers": [
+        "Medical Examiner"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "playthings"
+      ]
+    },
     {
       "key": "5157fea83bb8848f61c206192c1e893848039b3a",
       "title": "DELTA GREEN: PLAYTHINGS (EP 7)",
@@ -5659,24 +5679,6 @@
         "define",
         "action"
       ]
-    },
-    {
-      "key": "171b00893914c5e6b5d9b88f22b384c1c703dc7a",
-      "title": "ROLL THE HARD 20 PODCAST EP 22: SHOW ME YOUR NOOBIES (INTERVIEW)",
-      "published_at": "2018-12-13T20:58:51+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2018/12/13/roll-the-hard-20-podcast-ep-22-show-me-your-noobies-interview",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909333371-BUQA53XH24X4779ODAEM/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c12c6e5562fa79df2e89a42/1544734544514/episode+22+junior+interview+-+12%3A13%3A18%2C+12.47+PM.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "41021566",
-      "itunes_duration": "28:27",
-      "speakers": [],
-      "topics": [
-        "roll",
-        "podcast",
-        "noobie"
-      ]
     }
   ]
 }
@@ -5685,6 +5687,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-04 — DELTA GREEN: PLAYTHINGS (EP 8) — speakers: Medical Examiner
 - 2026-03-28 — DELTA GREEN: PLAYTHINGS (EP 7)
 - 2026-03-20 — DELTA GREEN: PLAYTHINGS (EP 6)
 - 2026-03-14 — DELTA GREEN: PLAYTHINGS (EP 5)
@@ -5984,4 +5987,3 @@
 - 2019-01-04 — RIDERS ON THE STORM EP 25: NO HANDLE, NO HINGES, NO LOCK
 - 2018-12-29 — RIDERS ON THE STORM EP 24: ENTER THE DRAGONBORN
 - 2018-12-23 — RIDERS ON THE STORM EP 23: DEFINE A FREE ACTION
-- 2018-12-13 — ROLL THE HARD 20 PODCAST EP 22: SHOW ME YOUR NOOBIES (INTERVIEW)
