@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-04-03T10:05:38+00:00`
-- checked_at: `2026-04-03T10:05:38+00:00`
-- etag: `W/"369c9195f6961409e54a9c09339c02f1"`
-- last_modified: `Fri, 03 Apr 2026 09:00:00 GMT`
+- fetched_at: `2026-04-05T07:34:08+00:00`
+- checked_at: `2026-04-05T07:34:08+00:00`
+- etag: `W/"9206951dc1a0fb2a0c23b4cc7022592b"`
+- last_modified: `Sun, 05 Apr 2026 06:35:06 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-04-03T10:05:38+00:00",
+  "fetched_at": "2026-04-05T07:34:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -51,7 +51,7 @@
       "link": "https://audioboom.com/posts/8879581",
       "description": "Axis is abuzz with the news of a major incident aboard a Turlett cruise liner, meanwhile the crew of Silver Hawke can’t help but feel like something is just… off. --- If you're enjoying the show and would like to support the show consider checking out The Rotating Heroes Patreon ! You can get instant access to the entire back catalogue of shows, catch up with two new arcs as well as bonus shows, live streams and more! If you want even more actual play goodness in your life consider checking out 12 Sided Studios' newest production Oaths and Empires . A brand new TTRPG actual play featuring Luke Dale and Tom McKay and set in a Witcher-esk inspired world, as our two rookie players navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": null,
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8879581.mp3?modified=1774602301&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8879581.mp3?modified=1775144403&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2883",
@@ -69,7 +69,7 @@
       "link": "https://audioboom.com/posts/8876186",
       "description": "Axis is abuzz with the news of a major incident aboard a Turlett cruise liner, meanwhile the crew of Silver Hawke can’t help but feel like something is just… off. --- If you're enjoying the show and would like to support the show consider checking out The Rotating Heroes Patreon ! You can get instant access to the entire back catalogue of shows, catch up with two new arcs as well as bonus shows, live streams and more! If you want even more actual play goodness in your life consider checking out 12 Sided Studios' newest production Oaths and Empires . A brand new TTRPG actual play featuring Luke Dale and Tom McKay and set in a Witcher-esk inspired world, as our two rookie players navigate their very first game. Rotating Heroes is a 12 Sided Studios Production.",
       "image_url": null,
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8876186.mp3?modified=1773939500&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8876186.mp3?modified=1774602437&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2903",
