@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-04-06T13:48:27+00:00`
-- checked_at: `2026-04-06T13:48:27+00:00`
-- etag: `"djEuMi4wOjE3NzU0NzkyNDY4NTk="`
+- fetched_at: `2026-04-06T16:03:17+00:00`
+- checked_at: `2026-04-06T16:03:17+00:00`
+- etag: `"djEuMi4wOjE3NzU0ODc2Mzk0MTE="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-04-06T13:48:27+00:00",
+  "fetched_at": "2026-04-06T16:03:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "cb0f173860c1dcc074bc12d6f4af6cc87d9cdb14",
+      "title": "Campaign 2: Episode 180 - Super Rat Day",
+      "published_at": "2026-04-06T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-180-super-rat-day",
+      "description": "Things have gone from bad to weird, to worse and weird, but at least we have a task to accomplish. Turns out there may be some rats in the damn cellar! This is the perfect way to 1) get out of this pre-wedding-setup room and 2) earn some good will with the Von Espers. And, honestly, a quest to go fight a large rat? We are super high level. This will be easy. Help out people being oppressed in Minnesota and Kansas ! The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by Zack Meyman AKA Zoomtoonz ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1775478860317-3f5d6b21-63fe-41ae-8ff3-c26aa06c8483.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/69d3a9cef44b357ce9f6e560/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94774870",
+      "itunes_duration": "1:05:48",
+      "speakers": [
+        "Super Rat Day Things"
+      ],
+      "topics": [
+        "campaign",
+        "super"
+      ]
+    },
     {
       "key": "43ea9bd038a5ee8a650194e10988650b14bd6466",
       "title": "Campaign 2: Episode 179 - Von Esper's Very Sad Wedding Day",
@@ -12207,6 +12226,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — Campaign 2: Episode 180 - Super Rat Day — speakers: Super Rat Day Things
 - 2026-03-30 — Campaign 2: Episode 179 - Von Esper's Very Sad Wedding Day
 - 2026-03-23 — Campaign 2: Episode 178 - Three Perfect Plans
 - 2026-03-16 — Campaign 2: Episode 177 - Tuxedo Bazaar Beatdown
