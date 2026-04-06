@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-04-03T15:55:47+00:00`
-- checked_at: `2026-04-03T15:55:47+00:00`
-- etag: `"1f3beb01fc9d7d9bf2c68c270c7a8e8a"`
+- fetched_at: `2026-04-06T13:48:27+00:00`
+- checked_at: `2026-04-06T13:48:27+00:00`
+- etag: `"8b87e48c8ba70be76198623b9375d5c0"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/5111002/Dork_Tales_d20_20238mnn1.png",
-  "fetched_at": "2026-04-03T15:55:47+00:00",
+  "fetched_at": "2026-04-06T13:48:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "0e945e7eef7f87d3cb08681785672d3671b43a0a",
+      "title": "Vecna: Eve of Ruin | Episode 31: The Dragon Queen's Pride",
+      "published_at": "2026-04-06T12:47:00+00:00",
+      "link": "https://dorktales.podbean.com/e/vecna-eve-of-ruin-episode-31-the-dragon-queens-pride/",
+      "description": "Vecna is here and only one party can stop him. Join us for Vecna: Eve of Ruin! In this episode, Death Wish meets Tiamat. No big deal, right? Thank you to Bookwyrm Games for sponsoring the channel! Visit them at https://bookwyrmgames.com/ and use code DORKTALES to save 15% off your order! === Kelly Clark as Dungeon Master Cast Christine Rattray as Rosie Thistledrop Robin Holford as Lir'wen Chris Blogg as Gaunt Jen Peters as Imogen and Kal Vincent as Aurontiros Watch us LIVE on Twitch ► https://twitch.tv/dorktales Visit our website ► https://dorktales.ca Our Linktree ► https://linktr.ee/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktaleschannel/ Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy the cast a coffee ► https://ko-fi.com/dorktales Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! So smash the bell, share these videos, and we'll see you soon at our next game! === Music credits: Music: House of Secrets by Joel Steudler https://www.joelsteudlermusic.com/ Licensed under a Humblebundle Collection Also from Joel Steudler: No Mountain High Black Gate Fight or Flight Tracks by Tim Kulig: Tomb Tensions https://timkulig.com Tracks from Monument Studios Elven Secrets B Cryptic Choir Textured Classical Harp Daytime Exuberant NPC Necrotic Strings Skyward Licensed under a Fantasy Complete or All-In-One License https://www.monumentstudios.net Tracks licensed from Dark Fantasy Studio From Ashes http://www.darkfantasystudio.com This video also uses licensed audio from the Humble Music & Sound Effects For Games, Films, and Content Creators Bundle Part 2. Including our closing theme: The Harrowing This video using the following licensed tracks from Game Dev Market, Audiohero, and Ovani: Trap Chosen by the Gods Stepped Into Their Trap Road to Hell Heavy Interlude",
+      "image_url": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog5111002/Vecna_Eve_of_Ruin_Podcast_Logo7mops.png",
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/x5givcp3aw6wyuqg/VecnaE31complete.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "112167278",
+      "itunes_duration": "7001",
+      "speakers": [
+        "Pride Vecna"
+      ],
+      "topics": [
+        "vecna",
+        "ruin",
+        "dragon",
+        "queen",
+        "pride"
+      ]
+    },
     {
       "key": "8e4b160caca8b2071e156bea66e647febd3e0d13",
       "title": "Mage the Ascension the Victorian Age | Chastity's Seeking | Bonus Episode",
@@ -7516,6 +7538,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — Vecna: Eve of Ruin | Episode 31: The Dragon Queen's Pride — speakers: Pride Vecna
 - 2026-04-03 — Mage the Ascension the Victorian Age | Chastity's Seeking | Bonus Episode
 - 2026-03-30 — Vecna: Eve of Ruin | Episode 30: The Red Belvedere
 - 2026-03-23 — Vecna: Eve of Ruin | Episode 29: Hell of a Ride — speakers: Ride Vecna
