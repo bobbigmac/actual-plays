@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-04-05T03:40:05+00:00`
-- checked_at: `2026-04-05T03:40:05+00:00`
-- etag: `"8227485a24f44d890fa9bfb6ab1ff9ff"`
-- last_modified: `Sun, 05 Apr 2026 01:26:51 GMT`
+- fetched_at: `2026-04-06T08:04:36+00:00`
+- checked_at: `2026-04-06T08:04:36+00:00`
+- etag: `"e2405a5651abf54fc285709f760e2e2a"`
+- last_modified: `Mon, 06 Apr 2026 04:10:22 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-04-05T03:40:05+00:00",
+  "fetched_at": "2026-04-06T08:04:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "272b33d3a9e60f72f1e7130956a22e03961f4389",
+      "title": "TSR Art Books",
+      "published_at": "2026-04-06T04:00:00+00:00",
+      "link": "https://www.vintagerpg.com/2026/04/tsr-art-books/",
+      "description": "Art & Arcana? Pffft, go back to the source! This week on the Vintage RPG Podcast, we pull the TSR art books off the shelf. That's The Art of Dragon Magazine , The Art of the Dungeons & Dragons Fantasy Game , The Art of Dragonlance and The Art of the Advanced Dungeons & Dragons Fantasy Game . That's a lot of art! And one more to come! * * * Instagram? Old news. Join the Vintage RPG Newsletter ! That's where all the cool kids are now! Stu's book, Monsters, Aliens, and Holes in the Ground is for sale now! Buy it ! Patreon? Discord? Cool RPG things to buy? All the Vintage RPG links you need are right here in one place ! Like, Rate, Subscribe and Review the Vintage RPG Podcast! Edited by the one and only R. Alex Murray . Send questions, comments or corrections to info@vintagerpg.com . Available on iTunes , Google Podcasts , iHeartRadio , Spotify , YouTube and your favorite podcast clients. The Vintage RPG illustration is by Shafer Brown . Follow him on Twitter . Tune in next week for the next episode. Until then, may the dice always roll in your favor!",
+      "image_url": "https://static.libsyn.com/p/assets/4/8/2/e/482e1d213208c910d959afa2a1bf1c87/Vintage_Podcast_Icon-20260405-w0q4rl2a57.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/thevintagerpgpodcast/DD_Art_Books.mp3?dest-id=747998",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64772185",
+      "itunes_duration": "32:00",
+      "speakers": [
+        "Art Books Art"
+      ],
+      "topics": [
+        "books"
+      ]
+    },
     {
       "key": "7646dbcff70917e9b49efde9f42dc1bce1deea1a",
       "title": "Trollpak",
@@ -6528,6 +6546,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — TSR Art Books — speakers: Art Books Art
 - 2026-03-30 — Trollpak — speakers: Trollpak Troooooooooll
 - 2026-03-23 — Castle Thrax — speakers: Castle Thrax
 - 2026-03-16 — The Privilege of Play and Other Topics — speakers: Other Topics Another

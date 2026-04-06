@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-03-30T08:03:13+00:00`
-- checked_at: `2026-03-30T08:03:13+00:00`
-- last_modified: `Mon, 30 Mar 2026 04:05:00 GMT`
+- fetched_at: `2026-04-06T08:04:36+00:00`
+- checked_at: `2026-04-06T08:04:36+00:00`
+- last_modified: `Mon, 06 Apr 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-03-30T08:03:13+00:00",
+  "fetched_at": "2026-04-06T08:04:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "0243aff6e4bf297ffab11d76e4d3ab63b1e87fce",
+      "title": "Guilt of the Grave World | 008: Undead to Rights",
+      "published_at": "2026-04-06T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-008-undead-to-rights/",
+      "description": "The exploration of the ancient space station continues into what looks like the crew quarters. But could anything or anyone still be alive in this station? The spooky tomb of a station gives up its ghosts this week as the Nova Rush crew attempts to survive this week’s episode!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3798/guilt-of-the-grave-world-008-undead-to-rights.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94985853",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Grave World"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "undead",
+        "rights"
+      ]
+    },
     {
       "key": "49ffc86a82df7fa4ea8f090302681c93b3b5f498",
       "title": "Guilt of the Grave World | 007: She’s All Bat",
@@ -8710,6 +8732,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — Guilt of the Grave World | 008: Undead to Rights — speakers: Grave World
 - 2026-03-30 — Guilt of the Grave World | 007: She’s All Bat — speakers: Grave World, Nova Rush
 - 2026-03-23 — Guilt of the Grave World | 006: That’s No Moon — speakers: Grave World, No Moon Attacked
 - 2026-03-16 — Guilt of the Grave World | 005: Battle Stations Royale — speakers: Grave World, Nova Rush

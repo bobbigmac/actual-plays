@@ -2,9 +2,9 @@
 
 - slug: `we-fix-space-junk`
 - source: `https://feeds.megaphone.fm/wefixspacejunk`
-- fetched_at: `2026-03-29T13:30:10+00:00`
-- checked_at: `2026-03-29T13:30:10+00:00`
-- last_modified: `Sun, 29 Mar 2026 12:44:42 GMT`
+- fetched_at: `2026-04-06T08:04:36+00:00`
+- checked_at: `2026-04-06T08:04:36+00:00`
+- last_modified: `Mon, 06 Apr 2026 06:06:34 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://battlebird.productions",
   "description": "'We Fix Space Junk' follows seasoned smuggler Kilner and reluctant fugitive Samantha as they travel the galaxy, dodging bullets and meeting strange and wonderful beings as they carry out odd jobs on the fringes of the law. A female-led sci-fi comedy sitcom set in the far future, in a high-tech, dystopian world, We Fix Space Junk draws on the sci-fi of the past, following in the footsteps of Harry Harrison and of Douglas Adams' Hitchhiker's Guide to the Galaxy. Equal parts love-letter to sci-fi and satire of the present-day, Space Junk is lovingly produced by Beth Crane and Hedley Knights of Battle Bird Productions. To support the show visit patreon.com/BattleBirdProd or visit Battlebird.productions",
   "image_url": "https://megaphone.imgix.net/podcasts/8c376dd8-0f0d-11ec-8651-57ea866800e0/image/8d5a72f1090250cbefae2050b1329e32fb962b991327db690dac1bffa8d2ba047cdd30974dd1f9bdc451659cd75d302dfd61aded64e62bb1377d9d88df6be606.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-29T13:30:10+00:00",
+  "fetched_at": "2026-04-06T08:04:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,22 @@
     "fiction/audiobook"
   ],
   "episodes": [
+    {
+      "key": "69c77cc2c8f2d877ce1cf12474e4f2a27b2fc57a",
+      "title": "S04 E02 - The Wall",
+      "published_at": "2026-04-06T06:00:00+00:00",
+      "link": null,
+      "description": "In which Kilner and Samantha meet the Bunntulas, adorable fluffy settlers trying to make a home in a dangerous world. Looking for ad-free episodes? Check out our ⁠Patreon feed!⁠ For a full transcript of the episode and content warnings click here or visit ⁠ battlebird.productions ⁠ and click transcripts! Written by Beth Crane and produced by Hedley Knights for Battle Bird Productions. All artwork and graphics by Beth Crane, all music by Hedley Knights. CAST Beth Crane Rebecca Evans Jack Carmichael Layla Katib Pip Gladwin Maddy Searle Vicki Baron Katrina Allen David Ault LOOKING FOR WAYS TO SUPPORT WE FIX SPACE JUNK? You can join our Patreon or send us a one-off donation on Ko-Fi or PayPal! If you’re looking for something we’ve advertised, visit our affiliate partner page! We’ve also got a wide range of merch available on our TeePublic, Spreadshirt and Etsy pages! FIND US ON SOCIAL MEDIA INSTAGRAM: ⁠instagram.com/battlebirdproductions⁠ FACEBOOK: ⁠facebook.com/WeFixSpaceJunk⁠ // ⁠facebook.com/BattleBirdProd⁠ TUMBLR: ⁠wefixspacejunk.tumblr.com⁠ TIKTOK: ⁠tiktok.com/@wefixspacejunk⁠ WEBSITE: battlebird.productions Heard an ad you think shouldn't be here? Get in touch! Learn more about your ad choices. Visit ⁠megaphone.fm/adchoices⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/666d767c-0dbb-11f1-b324-7716d925fdb5/image/1af5ed1abceee6a92102b553f17c9b55.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO5225276159.mp3?updated=1771758255",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1184",
+      "speakers": [],
+      "topics": [
+        "wall"
+      ]
+    },
     {
       "key": "d3d047f6d7029cfcddfa9814ccd8ea7063d8c654",
       "title": "S04E01 - Megafauna",
@@ -1433,6 +1449,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — S04 E02 - The Wall
 - 2026-03-23 — S04E01 - Megafauna — speakers: Megafauna When Kilner
 - 2026-02-23 — Season Four Announcement! — speakers: Season Four Announcement
 - 2026-01-27 — Introducing... Hard Drive — speakers: Hard Drive Hey, Space Junk Season
