@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-04-01T19:33:44+00:00`
-- checked_at: `2026-04-01T19:33:44+00:00`
-- etag: `"e8b57a9b8a17a10848db375439d9ee4b"`
-- last_modified: `Wed, 01 Apr 2026 16:22:01 GMT`
+- fetched_at: `2026-04-07T14:03:22+00:00`
+- checked_at: `2026-04-07T14:03:22+00:00`
+- etag: `"a0c06a24b1ee30be2da7ccc850f87cae"`
+- last_modified: `Tue, 07 Apr 2026 13:00:22 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-04-01T19:33:44+00:00",
+  "fetched_at": "2026-04-07T14:03:22+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,34 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "6be93e91c31c9e4fa1023ae547907902c44b7350",
+      "title": "Ep11 | Delta Green: Puppet Shows and Shadow Plays - New Badge, Who Dis?",
+      "published_at": "2026-04-07T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/2680702",
+      "description": "The team and Colorados head to investigate the ranch, and the boys become legit in the eyes of the law! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/2680702/green-box-gaming/2026_04_01_16_15_13_067b5281-bda1-426e-8854-c2256f45ea5a.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76452257",
+      "itunes_duration": "4778",
+      "speakers": [
+        "Delta Green",
+        "Puppet Shows",
+        "Shadow Plays",
+        "New Badge",
+        "Who Dis"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "puppet",
+        "shows",
+        "shadow",
+        "plays",
+        "badge"
+      ]
+    },
     {
       "key": "22e10cc6222f045acba707fb5366855f3a03263b",
       "title": "Ep2 | Thousand Year Old Vampire w/ Gian - The Hairiest King of Scotland",
@@ -3814,6 +3842,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-07 — Ep11 | Delta Green: Puppet Shows and Shadow Plays - New Badge, Who Dis? — speakers: Delta Green, Puppet Shows, Shadow Plays, New Badge, Who Dis
 - 2026-03-31 — Ep2 | Thousand Year Old Vampire w/ Gian - The Hairiest King of Scotland
 - 2026-03-24 — Ep1 | Thousand Year Old Vampire w/ Gian - Living Life to the Max
 - 2026-03-17 — Ep2 | Delta Green: The Button - Connections — speakers: Delta Green, Connections Rodrick

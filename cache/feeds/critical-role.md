@@ -2,10 +2,10 @@
 
 - slug: `critical-role`
 - source: `https://feeds.simplecast.com/LXz4Q9rJ`
-- fetched_at: `2026-04-02T13:58:37+00:00`
-- checked_at: `2026-04-02T13:58:37+00:00`
-- etag: `"59827641e1ef4f04709d5d946f579dde"`
-- last_modified: `Thu, 02 Apr 2026 12:00:18 GMT`
+- fetched_at: `2026-04-07T14:03:22+00:00`
+- checked_at: `2026-04-07T14:03:22+00:00`
+- etag: `"cbd030a81b8b71018e1589821f895891"`
+- last_modified: `Tue, 07 Apr 2026 12:00:18 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.siriusxm.com",
   "description": "Welcome to Critical Role, home of a bunch of nerdy-ass voice actors playing tabletop roleplaying games! Enter a world of glorious imagination and improvisation with a group of the finest collaborative storytellers around. Here you’ll find our TTRPG and adjacent shows, including Critical Role, Exandria Unlimited, 4-Sided Dive, and a growing selection of one-shots.",
   "image_url": "https://image.simplecastcdn.com/images/a74173a8-254a-45ff-aee0-b0cd0458d7f1/b6c4a701-8e4f-402c-8cb3-691faaf1ab38/3000x3000/bfff4761a218248e.jpeg?aid=rss_feed",
-  "fetched_at": "2026-04-02T13:58:37+00:00",
+  "fetched_at": "2026-04-07T14:03:22+00:00",
   "owners": [
     "Matthew Mercer",
     "Marisha Ray",
@@ -35,6 +35,33 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "5ee5f7269df4dbfbd5e626fb8f7825556ecc914e",
+      "title": "The Vanishing | Critical Role | Campaign 4, Episode 20 Part 2",
+      "published_at": "2026-04-07T12:00:00+00:00",
+      "link": "https://www.siriusxm.com",
+      "description": "Part 2 Azune is summoned to the Palazzo Davinos to investigate the disappearance of House Royce as Murray, Bolaire, and Hal realize other arcanists have gone missing... New Episodes Release Weekly on Thursdays. Learn more about Campaign 4 at https://critrole.com/campaign4/ GET MORE CAMPAIGN 4 WITH BEACON We're excited to bring you even MORE Campaign 4 with a Beacon membership! Get access to exclusive shows like our behind-the-scenes Critical Role Cooldown and ask the Campaign 4 cast your burning questions directly through our LIVE monthly Fireside Chats. You'll also receive NEW Beacon exclusive series, instant ad-free access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to everything Critical Role! OFFICIAL CAMPAIGN 4 CAST GAME MASTER Brennan Lee Mulligan Laura Bailey as Thimble Luis Carazo as Azune Nayar Robbie Daymond as Kattigan Vale Aabria Iyengar as Thaisha Lloy Taliesin Jaffe as Bolaire Lathalia Ashley Johnson as Vaelus Matthew Mercer as Sir Julien Davinos Whitney Moore as Tyranny Liam O’Brien as Halandil \"Hal\" Fang Marisha Ray as Murray Mag’Nesson Sam Riegel as Wicander \"Wick\" Halovar Alexander Ward as Occtis Tachonis Travis Willingham as Teor Pridesire CREDITS Produced by Maxwell James, Steve Failows, & Kyle Shire Set Designed by Shaun Ellis Production Designer: Noxweiler Berf Character Art by Loren Hontanilla Edited by Taylor Burke and Emily \"Stevie\" Stevenson Critical Role Announcement Playhouse Editor: Vinny Celesti Opening Title Editor: Paul Foyder Opening Title Colorist: Peter Koocheradis Window Effects by Christian Brown Graphic Design by Aaron Monroy & Jordyn Torrence Dol-Makjar art by Daniel Jiménez Villalba Miniatures Painted by Payton Keo Lacebal Opening Title Theme by Neal Acree Campaign 4 Key art by Hannah Friederichs Additional Art & Design by Hannah Friederichs Episode QC by Catherine Zimmerman & Paula Flores Assistant Editor: Gianna Gencarella Post Production Coordinators: M Swing & Bryn Hubbard Closed Caption Editing by Margaret Dill, Nikki Kindelberger, Courtney Knewtson, Danielle Lackie, Eleanor Smith-Dufresne & Alice Tsoi Post Production Supervisor: Tal Levitas HEALTH & WELL-BEING Due to the improv nature of Critical Role and other RPG content on our channels, some themes and situations that occur in-game may be difficult for some to handle. If certain episodes or scenes become uncomfortable, we strongly suggest taking a break or skipping that particular episode. Your health and well-being is important to us and Psycom has a great list of international mental health resources, in case it’s useful: http://bit.ly/PsycomResources Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/87b95713-2f8a-4601-8b34-43479e213202/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=87b95713-2f8a-4601-8b34-43479e213202&feed=LXz4Q9rJ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80661731",
+      "itunes_duration": "01:23:51",
+      "speakers": [
+        "Critical Role",
+        "Palazzo Davinos",
+        "House Royce",
+        "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
+        "Liam O'Brien"
+      ],
+      "topics": [
+        "critical",
+        "role",
+        "campaign"
+      ]
+    },
     {
       "key": "0b5bc6256b816702a1c783ce90f334d81ecfcc39",
       "title": "The Vanishing | Critical Role | Campaign 4, Episode 20 Part 1",
@@ -608,32 +635,6 @@
       ]
     },
     {
-      "key": "e320cff32d480ace64ad6e592e6b71853de24938",
-      "title": "Tale Gate | Episode 1 | Discussing Up To C4E11",
-      "published_at": "2026-01-27T13:00:00+00:00",
-      "link": "https://www.siriusxm.com",
-      "description": "The gate is open! Tonight, host Whitney Moore sits down with Brennan Lee Mulligan, Laura Bailey, Robbie Daymond, and Sam Riegel from the Soldier Table (minus Travis Willingham) for Tale Gate—the live talk-back show where the cast of Campaign 4 reflect, answer Lorekeeper questions, spotlight incredible fan creations, and pontificate on what could happen next! Immediately following the show, Beacon members are invited to The Night Cap—an after-hours continuation where the cast members relax and answer live questions from our Beacon exclusive Discord chat! New Episodes of Campaign 4 release weekly on Thursdays. Learn more about Campaign 4 at https://critrole.com/campaign4/ GET MORE CAMPAIGN 4 WITH BEACON We're excited to bring you even MORE Campaign 4 with a Beacon membership! Get access to exclusive shows like our behind-the-scenes Critical Role Cooldown and ask the Campaign 4 cast your burning questions directly through our LIVE monthly Fireside Chats. You'll also receive NEW Beacon exclusive series, instant ad-free access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. OFFICIAL CAMPAIGN 4 CAST GAME MASTER Brennan Lee Mulligan Laura Bailey as Thimble Luis Carazo as Azune Nayar Robbie Daymond as Kattigan Vale Aabria Iyengar as Thaisha Lloy Taliesin Jaffe as Bolaire Lathalia Ashley Johnson as Vaelus Matthew Mercer as Sir Julien Davinos Whitney Moore as Tyranny Liam O’Brien as Halandil \"Hal\" Fang Marisha Ray as Murray Mag’Nesson Sam Riegel as Wicander \"Wick\" Halovar Alexander Ward as Occtis Tachonis Travis Willingham as Teor Pridesire Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/a805f5d3-29a1-45ee-beda-7fd2f6b63994/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=a805f5d3-29a1-45ee-beda-7fd2f6b63994&feed=LXz4Q9rJ",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "60299573",
-      "itunes_duration": "01:02:47",
-      "speakers": [
-        "Whitney Moore",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Matthew Mercer",
-        "Marisha Ray",
-        "Travis Willingham",
-        "Liam O'Brien",
-        "Taliesin Jaffe"
-      ],
-      "topics": [
-        "tale",
-        "gate"
-      ]
-    },
-    {
       "key": "0fec2da46085e344010b1e98b0e983af7f7f6d7c",
       "title": "Make Merry | Critical Role | Campaign 4, Episode 11 Part 2",
       "published_at": "2026-01-27T13:00:00+00:00",
@@ -659,6 +660,32 @@
         "critical",
         "role",
         "campaign"
+      ]
+    },
+    {
+      "key": "e320cff32d480ace64ad6e592e6b71853de24938",
+      "title": "Tale Gate | Episode 1 | Discussing Up To C4E11",
+      "published_at": "2026-01-27T13:00:00+00:00",
+      "link": "https://www.siriusxm.com",
+      "description": "The gate is open! Tonight, host Whitney Moore sits down with Brennan Lee Mulligan, Laura Bailey, Robbie Daymond, and Sam Riegel from the Soldier Table (minus Travis Willingham) for Tale Gate—the live talk-back show where the cast of Campaign 4 reflect, answer Lorekeeper questions, spotlight incredible fan creations, and pontificate on what could happen next! Immediately following the show, Beacon members are invited to The Night Cap—an after-hours continuation where the cast members relax and answer live questions from our Beacon exclusive Discord chat! New Episodes of Campaign 4 release weekly on Thursdays. Learn more about Campaign 4 at https://critrole.com/campaign4/ GET MORE CAMPAIGN 4 WITH BEACON We're excited to bring you even MORE Campaign 4 with a Beacon membership! Get access to exclusive shows like our behind-the-scenes Critical Role Cooldown and ask the Campaign 4 cast your burning questions directly through our LIVE monthly Fireside Chats. You'll also receive NEW Beacon exclusive series, instant ad-free access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. OFFICIAL CAMPAIGN 4 CAST GAME MASTER Brennan Lee Mulligan Laura Bailey as Thimble Luis Carazo as Azune Nayar Robbie Daymond as Kattigan Vale Aabria Iyengar as Thaisha Lloy Taliesin Jaffe as Bolaire Lathalia Ashley Johnson as Vaelus Matthew Mercer as Sir Julien Davinos Whitney Moore as Tyranny Liam O’Brien as Halandil \"Hal\" Fang Marisha Ray as Murray Mag’Nesson Sam Riegel as Wicander \"Wick\" Halovar Alexander Ward as Occtis Tachonis Travis Willingham as Teor Pridesire Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/a805f5d3-29a1-45ee-beda-7fd2f6b63994/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=a805f5d3-29a1-45ee-beda-7fd2f6b63994&feed=LXz4Q9rJ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60299573",
+      "itunes_duration": "01:02:47",
+      "speakers": [
+        "Whitney Moore",
+        "Brennan Lee Mulligan",
+        "Laura Bailey",
+        "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
+      ],
+      "topics": [
+        "tale",
+        "gate"
       ]
     },
     {
@@ -11297,6 +11324,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-07 — The Vanishing | Critical Role | Campaign 4, Episode 20 Part 2 — speakers: Critical Role, Palazzo Davinos, House Royce, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
 - 2026-04-02 — The Vanishing | Critical Role | Campaign 4, Episode 20 Part 1 — speakers: Critical Role, Palazzo Davinos, House Royce, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
 - 2026-03-31 — Toys and Tiny Things | EP 2 | Weird Kids — speakers: Tiny Things, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2026-03-31 — Hand & Wheel | Critical Role | Campaign 4, Episode 19 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
@@ -11317,8 +11345,8 @@
 - 2026-02-05 — Seeking Sanctuary | Critical Role | Campaign 4, Episode 13 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2026-02-03 — The Giant's Belt | Critical Role | Campaign 4, Episode 12 Part 2 — speakers: Lord Einfasen, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2026-01-29 — The Giant's Belt | Critical Role | Campaign 4, Episode 12 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2026-01-27 — Tale Gate | Episode 1 | Discussing Up To C4E11 — speakers: Whitney Moore, Brennan Lee Mulligan, Laura Bailey, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien, Taliesin Jaffe
 - 2026-01-27 — Make Merry | Critical Role | Campaign 4, Episode 11 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2026-01-27 — Tale Gate | Episode 1 | Discussing Up To C4E11 — speakers: Whitney Moore, Brennan Lee Mulligan, Laura Bailey, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien, Taliesin Jaffe
 - 2026-01-22 — Make Merry | Critical Role | Campaign 4, Episode 11 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2025-12-30 — Blood for Blood | Critical Role | Campaign 4, Episode 10 Part 2 — speakers: Castle Delawney, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2025-12-25 — Blood for Blood | Critical Role | Campaign 4, Episode 10 Part 1 — speakers: Castle Delawney, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
