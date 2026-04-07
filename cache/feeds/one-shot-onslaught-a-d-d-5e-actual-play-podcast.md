@@ -2,9 +2,9 @@
 
 - slug: `one-shot-onslaught-a-d-d-5e-actual-play-podcast`
 - source: `https://oneshotonslaught.libsyn.com/rss`
-- fetched_at: `2026-04-06T19:32:07+00:00`
-- checked_at: `2026-04-06T19:32:07+00:00`
-- last_modified: `Mon, 06 Apr 2026 18:08:50 GMT`
+- fetched_at: `2026-04-07T03:32:57+00:00`
+- checked_at: `2026-04-07T03:32:57+00:00`
+- last_modified: `Mon, 06 Apr 2026 23:03:31 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://oneshotonslaught.com",
   "description": "We are an actual-play fifth-edition Dungeons and Dragons podcast. The thing that we do different is that we play through popular one-shot modules from dmsguild.com which means that you can drop in and listen to any session without having to be all caught up! We split each one-shot into two separate episodes so that we can release our podcast bi-weekly! If you like bite-sized chunks of D&D that you can drop in and out of without needing to following a larger over-arching narrative then we are your show! Patreon: patreon.com/MajesticGoose Discord: bit.ly/oneshotdiscord Website: MajesticGoose.com Twitter: @goosemajestic",
   "image_url": "https://megaphone.imgix.net/podcasts/eb918fc2-6f0a-11ec-a334-330ad16a06e0/image/1_shot_onslaught_Final_Square_full_width.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-06T19:32:07+00:00",
+  "fetched_at": "2026-04-07T03:32:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "c11d0e4e0d284d19982be0b86696decbc56e2c93",
+      "title": "Quest Queue Trailer",
+      "published_at": "2026-04-06T22:49:00+00:00",
+      "link": null,
+      "description": "Something new is joining the Majestic Goose Network. Quest Queue is an actual play D&D podcast where a rotating cast of adventurers runs through official Wizards of the Coast Dungeons & Dragons adventures. Each arc is 2 to 4 episodes, then a brand new crew takes the table and a brand new story begins. Fresh cast. Fresh adventure. Every few weeks. Players are pulled from the MGN community including Patreon supporters, Discord members, and familiar faces from across the network. Expect comedy, chaos, and just enough competence to make it out alive. The first episode is live now. Subscribe and follow along wherever you listen. https://open.spotify.com/show/6B8NRfskp2d9KxMZnjqz8m?si=2ca4f7fc942c4670 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a231999e-31e3-11f1-a909-d7f9d30ae5f8/image/d51b32e003ca1d762ceb209576b8e055.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/MAGN1309823487.mp3?updated=1775516901",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "47",
+      "speakers": [
+        "Quest Queue"
+      ],
+      "topics": [
+        "quest",
+        "queue"
+      ]
+    },
     {
       "key": "2b8546717756b8df5e3de126c3704d010f50cf56",
       "title": "White as Snow - Part 10",
@@ -2276,6 +2295,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — Quest Queue Trailer — speakers: Quest Queue
 - 2026-04-02 — White as Snow - Part 10
 - 2026-03-03 — White as Snow - Part 9 — speakers: Kill Snow White
 - 2025-11-20 — White as Snow - Part 8
