@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-04-04T21:48:45+00:00`
-- checked_at: `2026-04-04T21:48:45+00:00`
-- etag: `"djEuMi4wOjE3NzUzMzYyMTM1MDE="`
+- fetched_at: `2026-04-07T19:33:50+00:00`
+- checked_at: `2026-04-07T19:33:50+00:00`
+- etag: `"djEuMi4wOjE3NzU1ODg0Mzk2MDk="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-04-04T21:48:45+00:00",
+  "fetched_at": "2026-04-07T19:33:50+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "07bdddc29625244be8471a0e09d7d82c933124c0",
+      "title": "Action Surge Episode 51",
+      "published_at": "2026-04-07T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-51",
+      "description": "The action is surging. It's very surgy. Out of a possible 600, we got 542, which, considering the investment we have made into this city, does feel pretty fair, even if we did have to end this episode on a slightly more serious note. And no, we are not talking about a pickled egg pocket. Harry walks us through the mechanics of the city and what helped us land such a strong result in the mustering. We're thrilled to learn there was always a chance at a participation medal, but thanks to our hard work, it turns out infrastructure for Mouse is probably going to be the bigger issue. Then we get to the biggest question at the end of episode 51: to Revivify or not to Revivify? And if someone is simply dead, or dead dead? It's a pretty important decision to make, and we're sure it will be a divisive one, but in the end, we can only do what feels right in the moment for us, our characters, and the story we're telling. It's a balancing act! We also talk about the story bank Raidion visited, and the difference between storytelling in Veil and story chronicling in Talisca, as well as the difference between gold, story, and red when it comes to telling a tale. Oh, and we take a little trip into Raidion’s psyche, because sharing isn't really caring for everyone’s favourite wizard. It's more like a one night stand. And now, as we get ready to say goodbye to the city, is that it for fun stuff? Who knows. At this point, we don't even think Harry does. -- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/69cac70803f0e15830011f2d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81917916",
+      "itunes_duration": "42:39",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "520e5d60770545e08760177f067d2edc0e4cc81f",
       "title": "Ep. 51 The Sins of the Sinless",
@@ -2670,6 +2694,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-07 — Action Surge Episode 51 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-31 — Ep. 51 The Sins of the Sinless — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-24 — Action Surge Episode 50 — speakers: Ben Starr, Harry McEntire, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-17 — Ep. 50 Dressed to Impress — speakers: Impress Sometimes, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
