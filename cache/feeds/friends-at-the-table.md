@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-04-03T03:29:49+00:00`
-- checked_at: `2026-04-03T03:29:49+00:00`
-- etag: `"083f61fb4f461d9b77e32e3ab4fd749f"`
-- last_modified: `Fri, 03 Apr 2026 02:03:11 GMT`
+- fetched_at: `2026-04-07T16:32:24+00:00`
+- checked_at: `2026-04-07T16:32:24+00:00`
+- etag: `"b640bcff11d8bb1a7330081c8f283588"`
+- last_modified: `Tue, 07 Apr 2026 14:07:17 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-04-03T03:29:49+00:00",
+  "fetched_at": "2026-04-07T16:32:24+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "6567e5d0b3598e85df80908f7b9984abf9457480",
+      "title": "Perpetua 39: The Castle Eschatonica 07",
+      "published_at": "2026-04-07T14:05:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-39-the-castle-eschatonica-07",
+      "description": "After exploring the branching wings of a multi-dimensional dungeon the ad-hoc mega party joined back up. The lost keys have been retrieved. Their missing photographer has been recalled. The door to the central tower of the Castle Eschatonica will open. Will they find answers inside, or only more riddles from the mysterious and cosmic being known as Gnova? This week on on Perpetua: The Castle Eschatonica 07 Perpetua Guide [In Progress v.0584] Hey Everyone… [Page 01 of 01] FriendOfNei First of all, I just want to say sorry. I know how much I let everyone down when I left suddenly. I know that it feels a little bit like I threw a big temper tantrum over nothing, and looking back on it I sort of did. But without getting into it, I also was going through some big real life stuff at the time, and I was really feeling like I was already disappointing everyone IRL, so to suddenly be messing up here too really hit hard. Second, wow! You guys really outdid yourselves with the FAQ updates. Anne, I love all the lore connections you made to the previous games, I never would've known half that stuff. Zelgadysk, I cannot even imagine how long it took you to map out ALL the masks from ALL the different clans/houses in Alteros. That's unbelievable. Unforgiven, I know we have different ideas for what goes into a strategy guide, but I think you really did show me the benefit of including some additional info. I might just try to do something like that in the next battle update! And Alukard, believe it or not, it was reading your update that got me to pick the game back up. Seeing all of those names and story bits… it made me SO CURIOUS about where everything was going… so I had to pick the controller back up. Anyway. Thanks so much everyone. I hope you're all doing okay. If it's okay with you all, I'd like to start up on the walkthrough again. I'll incorporate all of your additions and even add your names to the credits. What do you think? Doom_Tree_Anne OMG of course! So glad to have you back Nei! XxZelgadyskXx I'd love that, Nei. DM me on IRC and we can talk about the details! Alukard83 You got it, bud. Us true gamers gotta stick together. TheUnforgivenIII I'll be honest, I thought you were too chicken to ever come back around here. Pretty cool that you did. So hell yeah, but only on the condition that I can keep sending you tips to add when you leave them out. CarlsSr lol i knew youd come back TheDiamondRanger Do you need me to send you any scans of the official strategy guide to help? PresidentEvil Why is everyone making a big deal over some loser FAQ writer? TheUnforgivenIII ADMINS CAN YOU BAN THIS A-HOLE? Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), Janine Hawkins ( @bleatingheart ), Sylvi Bullet ( @sylvibullet ), Keith J Carberry ( @keithjcarberry ) and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_39_The_Castle_Eschatonica_07.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93861527",
+      "itunes_duration": "01:33:09",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "castle",
+        "eschatonica"
+      ]
+    },
     {
       "key": "ae703448ee91a6f8a82352ece4dd79a20c5e5a5b",
       "title": "Perpetua 38: The Castle Eschatonica 06",
@@ -11416,6 +11436,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-07 — Perpetua 39: The Castle Eschatonica 07 — speakers: Austin Walker
 - 2026-03-31 — Perpetua 38: The Castle Eschatonica 06 — speakers: Austin Walker
 - 2026-03-15 — Perpetua 37: The Castle Eschatonica 05 — speakers: Austin Walker
 - 2026-03-10 — Announcement for Spotify Listeners — speakers: Spotify Listeners Hello, Austin Walker

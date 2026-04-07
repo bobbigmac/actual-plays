@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-04-07T07:51:53+00:00`
-- checked_at: `2026-04-07T07:51:53+00:00`
-- etag: `"djEuMi4wOjE3NzU1Mzc0NDIyMjM="`
+- fetched_at: `2026-04-07T16:32:24+00:00`
+- checked_at: `2026-04-07T16:32:24+00:00`
+- etag: `"djEuMi4wOjE3NzU1Nzc2Mzk1MjA="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-04-07T07:51:53+00:00",
+  "fetched_at": "2026-04-07T16:32:24+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -32,6 +32,29 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "a2c51df5b90f2c213e183a58d0ca3afe414894e1",
+      "title": "S4 Ep. 5 - Hope Bloats",
+      "published_at": "2026-04-07T16:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "jeeves how to deal with turncoat granddaughter and also where are pills This episode contains Profanity, Violence, and Sexual Content. Tickets are now on sale for Beth Wants the D going up at Dynasty Typerwriter in LA on April 29th - physically AND virtually . The livestream will be available on VOD for 7 days, so you can laugh and cry over this show from basically anywhere. Purchase tickets below: https://www.squadup.com/events/beth-wants-the-d Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1775537182708-511b936f-c54e-46f2-90c3-d0358f8a83a6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/69d48d22b76468caaca10a36/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "103003245",
+      "itunes_duration": "1:11:04",
+      "speakers": [
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "hope",
+        "bloats"
+      ]
+    },
     {
       "key": "11aa33ae75a9cfe55c975823ebbbffc973848953",
       "title": "S4 Ep. 4 - The Immortal Scrap Wreckage Yard",
@@ -4604,6 +4627,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-07 — S4 Ep. 5 - Hope Bloats — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-03-24 — S4 Ep. 4 - The Immortal Scrap Wreckage Yard — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-03-10 — S4 Ep. 3 - Store Wars: Darth Mall - Bargain Hunter — speakers: Darth Mall Bargain Hunter, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-02-24 — S4 Ep. 2 - Face Invaders — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
