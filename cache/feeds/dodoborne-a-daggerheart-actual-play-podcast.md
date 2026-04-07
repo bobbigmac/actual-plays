@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-04-07T03:32:57+00:00`
-- checked_at: `2026-04-07T03:32:57+00:00`
-- etag: `W/"77f477a567d86e69991a4edddd3eb51b"`
-- last_modified: `Tue, 07 Apr 2026 03:20:14 GMT`
+- fetched_at: `2026-04-07T07:51:53+00:00`
+- checked_at: `2026-04-07T07:51:53+00:00`
+- etag: `W/"a93a362fa2355366b31500b7834de8b3"`
+- last_modified: `Tue, 07 Apr 2026 07:06:18 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://dodoborne.transistor.fm/",
   "description": "DodoBorne is a comedy Daggerheart actual play podcast where four friends dive into the brand-new tabletop roleplaying game from Darrington Press. Join Kapi, Crank, and Pistachio as they navigate a rich world of mystery, magic, and malfeasance! Humor, heart, and nonsense guaranteed. Some assembly required.",
   "image_url": "https://img.transistorcdn.com/5JYziGENEKaP3WALYkLQQkOdOv1WrCyYhm0cDFbqnuE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83OTdi/ZGExZjcxODQ0N2Mx/ZTIyY2Y1ZDhlZDE0/MTFlYS5wbmc.jpg",
-  "fetched_at": "2026-04-07T03:32:57+00:00",
+  "fetched_at": "2026-04-07T07:51:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,23 @@
     "ttrpg/daggerheart"
   ],
   "episodes": [
+    {
+      "key": "78e62abc1947e98030cf8d023b8fc85dbe471985",
+      "title": "2.18 The Season Two Squawk-back Episode (Bonus)",
+      "published_at": "2026-04-07T07:05:00+00:00",
+      "link": "https://share.transistor.fm/s/783ac276",
+      "description": "Join the Dodoborne crew on April 20th for a Livestream Event you won't want to miss! We'll have exciting updates, announcements, games, giveaways, and more! We can’t wait to show you what we've been cooking up. Join us April 20th, 8pm ET/5pm PT at https://www.twitch.tv/dodobornepod Add to your calendar by clicking here: https://calendarlink.com/event/gOUCG Don't forget to join our Patreon and Discord to stay up to date on all upcoming Dodoborne announcements! Eyyyy, it's (another) DodoBorne talkback episode! This time we discuss all things season two: Favorite moments NPCs Highs and Lows Theories Questions from you, our awesome Squawk Squad! Thank you all for your support throughout our second season. We have some truly exciting plans ahead, and we can’t wait to show you what’s next. We say it all the time, but we really couldn't do this without you. We'll see you soon! Squawk! Special Squawkback Intro created by our friends Barbamouche and MusclesDynamite, who you can find on the Dodoborne Discord channel Music from season 2 episodes created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Lina G. Keith Stocks Loni Vogler sixla meaches Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado Josh M World of Gariva Valerie Mariana Dom sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin Johnny Rocha Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jacob Rohm (Hadwyn) Jesse Jones Colecago Maria Welch CEO Zorak. Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez yeehawboi67 Season 2.5 is coming April 21st! Join a set of new exciting characters for a limited run in Polaris University as they practice magic, take care of their Gamatotchi's™, get detention, and try and solve a murder. (you know, standard magic school shenanigans.) See you then! Don't forget to join our Patreon and Discord to stay up to date on all upcoming Dodoborne announcements!",
+      "image_url": null,
+      "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/783ac276/98d80db1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72891250",
+      "itunes_duration": "4549",
+      "speakers": [],
+      "topics": [
+        "season",
+        "squawk"
+      ]
+    },
     {
       "key": "0e3638b405e7ebdb71f9a9c5a93b5691292e82b1",
       "title": "2.17 Casus Belli: Part 2",
@@ -718,6 +735,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-07 — 2.18 The Season Two Squawk-back Episode (Bonus)
 - 2026-02-24 — 2.17 Casus Belli: Part 2 — speakers: Casus Belli
 - 2026-02-17 — 2.16 Casus Belli: Part 1 — speakers: Casus Belli
 - 2026-02-03 — 2.15 A Descent
