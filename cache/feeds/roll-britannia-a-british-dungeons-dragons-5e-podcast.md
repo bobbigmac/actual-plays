@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-04-07T07:51:53+00:00`
-- checked_at: `2026-04-07T07:51:53+00:00`
-- etag: `"djEuMi4wOjE3NzU1NDE5Mzg4MjE="`
+- fetched_at: `2026-04-08T07:54:55+00:00`
+- checked_at: `2026-04-08T07:54:55+00:00`
+- etag: `"djEuMi4wOjE3NzU2MzIyMzk0NDc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-04-07T07:51:53+00:00",
+  "fetched_at": "2026-04-08T07:54:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,49 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "e050a0cc45a85c7142fe557e1fe146b199df8e45",
+      "title": "Ep. 324 :Roll Britannia | Idols of the Neon Dark pt.2 |#DND",
+      "published_at": "2026-04-08T07:10:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s BONUS Dungeons & Dragons⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ episode, the journey fractures as the skies fall silent and the ground begins to swallow light itself. What starts as survival twists into something far older, as the Dice guide the party into a place where magic fades and something vast waits beneath. In this DnD descent, a single choice leaves them carrying more than they arrived with. What could drive even monsters to flee in fear? Why does the light vanish where they now stand? And what exactly is rising to meet them from below? There's only one way to find out, grab your Dnd Dice, join Paul , Alex , Chip , Sophie , James and our Idols GM Bee and let's Rock the Neon Dark! LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1775468118611-750663d1-414d-4601-8ea3-aca29c6ab162.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69d37eb9e9dcab307716201b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64016300",
+      "itunes_duration": "1:06:40",
+      "speakers": [
+        "Roll Britannia",
+        "Neon Dark"
+      ],
+      "topics": [
+        "roll",
+        "britannia",
+        "idols",
+        "neon",
+        "dark"
+      ]
+    },
+    {
+      "key": "60f6fa3973a40ae79c2d9497ee05c24931becbec",
+      "title": "Ep. 324: Roll Britannia | Idols of the Neon Dark pt.1 | #DND",
+      "published_at": "2026-04-08T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s BONUS Dungeons & Dragons⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ episode, the journey fractures as the skies fall silent and the ground begins to swallow light itself. What starts as survival twists into something far older, as the Dice guide the party into a place where magic fades and something vast waits beneath. In this DnD descent, a single choice leaves them carrying more than they arrived with. What could drive even monsters to flee in fear? Why does the light vanish where they now stand? And what exactly is rising to meet them from below? There's only one way to find out, grab your Dnd Dice, join Paul , Alex , Chip , Sophie , James and our Idols GM Bee and let's Rock the Neon Dark! LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1775468080719-792bf7ec-a617-4c8b-a9d2-195894733e2f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69d37e41fbf2e42b34a219e8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110003243",
+      "itunes_duration": "1:15:59",
+      "speakers": [],
+      "topics": [
+        "roll",
+        "britannia",
+        "idols",
+        "neon",
+        "dark"
+      ]
+    },
     {
       "key": "6b0caf21e821572fa0c5ff0027a096f95cd2e975",
       "title": "Ep. 323: Because, That's What Heroes Do - Chapter 20 - pt.2 | #DND",
@@ -7550,6 +7593,8 @@
 
 ## Episodes (newest first)
 
+- 2026-04-08 — Ep. 324 :Roll Britannia | Idols of the Neon Dark pt.2 |#DND — speakers: Roll Britannia, Neon Dark
+- 2026-04-08 — Ep. 324: Roll Britannia | Idols of the Neon Dark pt.1 | #DND
 - 2026-04-01 — Ep. 323: Because, That's What Heroes Do - Chapter 20 - pt.2 | #DND
 - 2026-04-01 — Ep. 323: Because, That's What Heroes Do - Chapter 20 - pt.1 | #DND
 - 2026-03-25 — Ep. 322: Because, That's What Heroes Do - Chapter 19 - pt.2 | #DND
