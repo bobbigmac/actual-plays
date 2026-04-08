@@ -2,8 +2,8 @@
 
 - slug: `dndark`
 - source: `https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40`
-- fetched_at: `2026-04-08T10:19:05+00:00`
-- checked_at: `2026-04-08T10:19:05+00:00`
+- fetched_at: `2026-04-08T14:04:43+00:00`
+- checked_at: `2026-04-08T14:04:43+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/dndark",
   "description": "A comedy/horror D&D Actual Play Podcast starring some of history's most iconic monsters",
   "image_url": "https://media.redcircle.com/images/2025/4/2/20/c89246be-6b46-429a-909e-1e4e1bd26ad0_846-8b2d-746b3b4b007c_received_702201047512802.jpg",
-  "fetched_at": "2026-04-08T10:19:05+00:00",
+  "fetched_at": "2026-04-08T14:04:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -24,6 +24,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "268da878deff562e64559fbd5f9068b037d86094",
+      "title": "Table Talk - Interview with Olivia (Cozy Crypt)",
+      "published_at": "2026-04-08T12:00:14+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The Twenty-eighth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Olivia, the GM of the Appalachian DnD5e Actual Play Podcast, Cozy Crypt. The interview discusses Appalachian folklore and the thought process behind approaching a show rooted in American folklore Check out Olivia's work: Linktr.ee: https://linktr.ee/cozycryptdnd Instagram: https://www.instagram.com/cozycryptdnd TikTok: https://www.tiktok.com/@cozycryptdnd Discord: https://discord.gg/6pECUSY5xq Spotify: https://open.spotify.com/show/1VbSU8Fc8Tx2lnaziAsp44?si=4071a8c9b8ba4fa9 Apple Podcast: https://podcasts.apple.com/us/podcast/cozy-crypt/id1820833815 YouTube Podcast: https://youtube.com/playlist?list=PLPMma-6bXL8-wrykFO8RiNHbJIdzbq9eh&si=oSBSPfsR5sRnkUEo RSS Feed: https://rss.com/podcasts/cozy-crypt/ PocketCasts: https://pca.st/mbpkm8cu Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/",
+      "image_url": "https://media.redcircle.com/images/2026/3/26/5/bb4b7fce-8a3c-4440-abd1-d6708c9753c5_dndark_interview_thimbnail.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/f1475d41-fe86-40ad-92c3-8f3a10f21cf9/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43594814",
+      "itunes_duration": "2724",
+      "speakers": [
+        "Cozy Crypt"
+      ],
+      "topics": [
+        "table",
+        "talk",
+        "olivia",
+        "cozy",
+        "crypt"
+      ]
+    },
     {
       "key": "e1a92666ce1e0c15359f800bb3e420921e898aca",
       "title": "DnDark Presents: DnDark Souls Part 9: Once Upon a Dream",
@@ -2468,6 +2490,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-08 — Table Talk - Interview with Olivia (Cozy Crypt) — speakers: Cozy Crypt
 - 2026-04-01 — DnDark Presents: DnDark Souls Part 9: Once Upon a Dream
 - 2026-03-25 — Table Talk - Interview with Jason Cordova — speakers: Jason Cordova
 - 2026-03-11 — DnDark Presents: DnDark Souls Part 8: A Knight's Tale
