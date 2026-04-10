@@ -2,10 +2,10 @@
 
 - slug: `how-we-roll-podcast`
 - source: `https://feeds.simplecast.com/9uMQFeML`
-- fetched_at: `2026-04-02T13:58:37+00:00`
-- checked_at: `2026-04-02T13:58:37+00:00`
-- etag: `"dd840ad2b7864be1b4b25b65f1673f9c"`
-- last_modified: `Thu, 02 Apr 2026 13:49:39 GMT`
+- fetched_at: `2026-04-10T10:17:55+00:00`
+- checked_at: `2026-04-10T10:17:55+00:00`
+- etag: `"105192ed3d40cd765310978672df71bb"`
+- last_modified: `Fri, 10 Apr 2026 09:43:25 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://howwerollpodcast.com/",
   "description": "Professionally produced, UK and Ireland based RPG Podcast, playing Call of Cthulhu 7e, D&d and currently AlienRPG",
   "image_url": "https://image.simplecastcdn.com/images/77737ff1-1444-446d-8d2e-2b8c8abe73ea/534fa82f-b4c6-4fe3-8ef2-98a9a1e9ec3f/3000x3000/hwr-logo.jpg?aid=rss_feed",
-  "fetched_at": "2026-04-02T13:58:37+00:00",
+  "fetched_at": "2026-04-10T10:17:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "cd53fecf499f23b841a695d4632fc08162978945",
+      "title": "006-Cthulhu Dark - Goodcliffe - Shared Dreams",
+      "published_at": "2026-04-10T09:43:08+00:00",
+      "link": "http://howwerollpodcast.com/",
+      "description": "Join us for How We Roll's first decent into the horror of Cthulhu Dark. With guest keeper Mr Spike at the helm we have a treat in store for you. With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com You can find us: On Bluesky @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast You can find us all on bluesky!",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/4091cf96-7268-4229-96e3-849ac82dd8c8/4c1043e2-857c-4f43-9dd8-07efd88404f1/episodes/audio/group/c4096e3f-2cee-42d4-9809-2001cb518d92/group-item/60b5c74c-2eba-4ea3-9668-79d8598a7cd5/128_default_tc.mp3?aid=rss_feed&feed=9uMQFeML",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61001369",
+      "itunes_duration": "01:03:32",
+      "speakers": [],
+      "topics": [
+        "cthulhu",
+        "dark",
+        "goodcliffe",
+        "shared",
+        "dreams"
+      ]
+    },
     {
       "key": "9d1f6e8f4526804f56d38a0278f5b51190814ccb",
       "title": "005-Cthulhu Dark - Goodcliffe - Darkness Creeps",
@@ -5648,6 +5668,24 @@
       ]
     },
     {
+      "key": "1452df927fe4ad7a242058ddedb18101003f27be",
+      "title": "005 - Mask of Nyarlathotep - Peru",
+      "published_at": "2020-02-19T01:00:27+00:00",
+      "link": "http://howwerollpodcast.com/",
+      "description": "Find more Masks of Nyarathotep episodes at patreon.com/howwerollpodcast With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com Twitter : @ninichimusic You can find my new scenario \"The Idol of Thoth\" here http://www.drivethrurpg.com/product/229639/The-Idol-of-Thoth?src=hottest_filtered You can find us: On twitter @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast/",
+      "image_url": "https://image.simplecastcdn.com/images/77737ff1-1444-446d-8d2e-2b8c8abe73ea/60ed5750-bae8-4bcb-8fdf-9deb32498657/3000x3000/20993034-827796287380368-852422508872523071-n-47534.jpg?aid=rss_feed",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/4c1043/4c1043e2-857c-4f43-9dd8-07efd88404f1/e9351551-0551-40ad-94ac-261101c568cb/005-masks-of-nyarathotep-peru_tc.mp3?aid=rss_feed&feed=9uMQFeML",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39926934",
+      "itunes_duration": "00:41:35",
+      "speakers": [],
+      "topics": [
+        "mask",
+        "nyarlathotep",
+        "peru"
+      ]
+    },
+    {
       "key": "5ad4cedc9b5f03b6f35c41d88a2f8724976a4e1f",
       "title": "041 - Two Headed Serpent - New York - Weekend at Bart's",
       "published_at": "2020-02-19T01:00:27+00:00",
@@ -5667,24 +5705,6 @@
         "york",
         "weekend",
         "bart"
-      ]
-    },
-    {
-      "key": "1452df927fe4ad7a242058ddedb18101003f27be",
-      "title": "005 - Mask of Nyarlathotep - Peru",
-      "published_at": "2020-02-19T01:00:27+00:00",
-      "link": "http://howwerollpodcast.com/",
-      "description": "Find more Masks of Nyarathotep episodes at patreon.com/howwerollpodcast With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com Twitter : @ninichimusic You can find my new scenario \"The Idol of Thoth\" here http://www.drivethrurpg.com/product/229639/The-Idol-of-Thoth?src=hottest_filtered You can find us: On twitter @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast/",
-      "image_url": "https://image.simplecastcdn.com/images/77737ff1-1444-446d-8d2e-2b8c8abe73ea/60ed5750-bae8-4bcb-8fdf-9deb32498657/3000x3000/20993034-827796287380368-852422508872523071-n-47534.jpg?aid=rss_feed",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/4c1043/4c1043e2-857c-4f43-9dd8-07efd88404f1/e9351551-0551-40ad-94ac-261101c568cb/005-masks-of-nyarathotep-peru_tc.mp3?aid=rss_feed&feed=9uMQFeML",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "39926934",
-      "itunes_duration": "00:41:35",
-      "speakers": [],
-      "topics": [
-        "mask",
-        "nyarlathotep",
-        "peru"
       ]
     },
     {
@@ -10679,6 +10699,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-10 — 006-Cthulhu Dark - Goodcliffe - Shared Dreams
 - 2026-04-02 — 005-Cthulhu Dark - Goodcliffe - Darkness Creeps
 - 2026-03-17 — 145 - Two Headed Serpent - Snake Island - Reunited at Last
 - 2026-03-12 — 004-Cthulhu Dark - Goodcliffe - Jago
@@ -10953,8 +10974,8 @@
 - 2020-03-10 — 042 - Two Headed Serpent - New York - Meeting Room 12 — speakers: Syrinscape Kevin MaCleod
 - 2020-03-03 — 006 - Masks of Nyarlathotep - Peru
 - 2020-02-25 — 004 - Murder on the Eberron Express - The Full Fairhaven — speakers: product Mu
-- 2020-02-19 — 041 - Two Headed Serpent - New York - Weekend at Bart's — speakers: Syrinscape Kevin MaCleod
 - 2020-02-19 — 005 - Mask of Nyarlathotep - Peru
+- 2020-02-19 — 041 - Two Headed Serpent - New York - Weekend at Bart's — speakers: Syrinscape Kevin MaCleod
 - 2020-02-04 — 003 - Murder on the Eberron Express - The Lost Heir.mp3 — speakers: product Mu
 - 2020-01-28 — 040 - Two Headed Serpent - New York - Back to Base — speakers: Syrinscape Kevin MaCleod
 - 2020-01-23 — 002 - Murder on the Eberron Express - A body is found — speakers: product Mu
