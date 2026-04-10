@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-04-09T19:40:45+00:00`
-- checked_at: `2026-04-09T19:40:45+00:00`
-- etag: `"9af68e5b4f3c6b53a2f577e6dba64120"`
+- fetched_at: `2026-04-10T13:52:00+00:00`
+- checked_at: `2026-04-10T13:52:00+00:00`
+- etag: `"d50906b4edf598d003d848cb86e1594f"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/5111002/Dork_Tales_d20_20238mnn1.png",
-  "fetched_at": "2026-04-09T19:40:45+00:00",
+  "fetched_at": "2026-04-10T13:52:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "6bcd67237ca1f925d564d6eb1051bd4583355018",
+      "title": "Mage the Ascension the Victorian Age | Book Three: Interlude",
+      "published_at": "2026-04-10T13:33:00+00:00",
+      "link": "https://dorktales.podbean.com/e/mage-the-ascension-the-victorian-age-book-three-interlude/",
+      "description": "Welcome to book three of Mage the Victorian Age! In this episode, we do a check-in with the cast and plan the next books! Thank you to Bookwyrm Games for sponsoring Dork Tales this month! Use code DORKTALES to save 15% at https://www.bookwyrmgames.com! Orders over $100 also enjoy free shipping! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage *** Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Dr. Evelyn Taylor *** Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktalescha... Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! *** Music credits: Music From Dark Fantasy Studio Hidden in the Dark These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vision of the Ancients These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! https://www.tabletopaudio.com",
+      "image_url": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog5111002/Mage_Book_3Podcast_Logoabm7t.png",
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/nnxw343wnqua4vvb/MVA30completeb7hdz.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81714784",
+      "itunes_duration": "5106",
+      "speakers": [],
+      "topics": [
+        "ascension",
+        "book",
+        "interlude"
+      ]
+    },
     {
       "key": "0e945e7eef7f87d3cb08681785672d3671b43a0a",
       "title": "Vecna: Eve of Ruin | Episode 31: The Dragon Queen's Pride",
@@ -7538,6 +7556,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-10 — Mage the Ascension the Victorian Age | Book Three: Interlude
 - 2026-04-06 — Vecna: Eve of Ruin | Episode 31: The Dragon Queen's Pride — speakers: Pride Vecna
 - 2026-04-03 — Mage the Ascension the Victorian Age | Chastity's Seeking | Bonus Episode
 - 2026-03-30 — Vecna: Eve of Ruin | Episode 30: The Red Belvedere
