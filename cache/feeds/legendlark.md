@@ -2,10 +2,10 @@
 
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
-- fetched_at: `2026-04-10T03:43:46+00:00`
-- checked_at: `2026-04-10T03:43:46+00:00`
+- fetched_at: `2026-04-11T21:49:53+00:00`
+- checked_at: `2026-04-11T21:49:53+00:00`
 - etag: `W/"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ"`
-- last_modified: `Thu, 09 Apr 2026 22:36:58 GMT`
+- last_modified: `Sat, 11 Apr 2026 20:42:10 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss",
   "description": "..🚂🚃🚋🚃🚃🚋🚋🚋🚃...... A train pulls into the station. A circus raises its tents. Welcome, one and all, to NEVERNOWHERE— a place where your memories are currency, every dream is reality, and crime really does pay. LegendLark is a narrative comedy TTRPG podcast. Updates every 2nd Thursday! www.legendlark.com",
   "image_url": "https://megaphone.imgix.net/podcasts/38353ab8-2938-11f1-b716-1b70c557bb65/image/5002d6217f82605e3208708900cb0514.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-10T03:43:46+00:00",
+  "fetched_at": "2026-04-11T21:49:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -54,10 +54,10 @@
       "link": null,
       "description": "Oak Hollow is such a cutie little tiny world, isn't it? People are wearing acorns as hats, squirrels are pulling carts like horses, violent revolution is emerging as the only means toward class liberation... SOOOOOOO KAWAII! 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/97b73624-2a16-11f1-954b-ebfbc7c0700a/image/2ba5de32b4e835ecf988f30654996903.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR5863428508.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR5863428508.mp3?updated=1775937746",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4233",
+      "itunes_duration": "4308",
       "speakers": [
         "Cutely Casing",
         "Itty Bitty City Oak"
@@ -76,10 +76,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/Guardians-Reborn-TEASER-e3ga5ov",
       "description": "‼️ FULL 'GUARDIANS REBORN 1' EPISODE HERE ‼️ In the futuristic city of New New Estra, three average college students are living three average lives... but they have been having these weird thoughts lately. Like, is any of this for real... or not? 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/394dd82e-2938-11f1-be37-cb69a082d946/image/2d9efc5c80a28c6184bfd0033c2cda9c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR6782135764.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR6782135764.mp3?updated=1775937390",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1272",
+      "itunes_duration": "1287",
       "speakers": [],
       "topics": [
         "guardians",
@@ -94,10 +94,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-17--All-Cities-Are-The-Same-e3fk3bs",
       "description": "Fresh off of Pepper's ghostly musical performance, our band of miscreants decides to make new connections on the train, only to make new connections about their very reality. 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/3a06929c-2938-11f1-be37-ab44fdcd4d22/image/5d87ebc65dac591af330fb4836ee3593.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR6916882042.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR6916882042.mp3?updated=1775937421",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2926",
+      "itunes_duration": "3001",
       "speakers": [
         "Same Fresh"
       ],
@@ -113,10 +113,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-QA-1-e3f12gr",
       "description": "The Larks answer all your questions about NeverNowhere, mind cages, and economics! 🎥 Live Video Version Here on Patreon! 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/3a8ea7ea-2938-11f1-be37-b377fe4991c7/image/89a6eb18c3704c9ee8c1ef0e9fc241f7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR4455327381.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4455327381.mp3?updated=1775937394",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4378",
+      "itunes_duration": "4453",
       "speakers": [],
       "topics": [
         "nevernowhere"
@@ -129,10 +129,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-The-Bluebird-Report-1-e3eb5cu",
       "description": "Chirp, chirp-- It's the Bluebird Report! Tune in NOW for a quick report of recent happenings in NeverNowhere and out in the city. Need the latest on known gangs? Recent scores? Weird new passengers? Our intrepid child reporters have the scoop! 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/3b41d914-2938-11f1-be37-672182e7f535/image/5d87ebc65dac591af330fb4836ee3593.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR8206579822.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR8206579822.mp3?updated=1775937221",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1290",
+      "itunes_duration": "1365",
       "speakers": [
         "Bluebird Report"
       ],
@@ -149,10 +149,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-16--Years--Years-e3dnnpv",
       "description": "The conses have quenced. And our wretched scoundrels—with no home, no hope, and no hoes—face the music that remains. 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/3bef46d0-2938-11f1-be37-33ebde0baf45/image/5d87ebc65dac591af330fb4836ee3593.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR7071965270.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR7071965270.mp3?updated=1775937227",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4124",
+      "itunes_duration": "4199",
       "speakers": [
         "no home",
         "no hope"
@@ -170,10 +170,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-15--Repercussions-Big--Small-e3cqc84",
       "description": "As our scoundrels have already betrayed all the most dangerous people they've ever met, all that's left now is to deal with the consequences. Pepper is a pervert (again), Valerian gets gets asskicked (again), and Friedrich talks shit to someone he really shouldn't (...again). 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/3c940288-2938-11f1-be37-5f274bfb5ad0/image/89a6eb18c3704c9ee8c1ef0e9fc241f7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR1304497476.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR1304497476.mp3?updated=1775937213",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3455",
+      "itunes_duration": "3530",
       "speakers": [
         "Repercussions Big"
       ],
@@ -190,10 +190,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-14--The-Third-Thrilling-Theft-e3c82mn",
       "description": "The time has come for our band of scoundrels to finally nab their third memento...but at what cost? 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/3d496056-2938-11f1-be37-933812f10ba4/image/89a6eb18c3704c9ee8c1ef0e9fc241f7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR8304370429.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR8304370429.mp3?updated=1775937100",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3321",
+      "itunes_duration": "3396",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -208,10 +208,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-13--Weekend-at-Ratmaseys-e3bk0c1",
       "description": "Stolen Derisetum firmly in-hand, our crew marches on toward their next heist— using The Piper Lord's fledgling trust against them. Also Pepper does some really weird stuff for fun, just off-screen the whole time. 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/3df62372-2938-11f1-be37-3fd4e6a49353/image/89a6eb18c3704c9ee8c1ef0e9fc241f7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR9412436261.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR9412436261.mp3?updated=1775937034",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3688",
+      "itunes_duration": "3763",
       "speakers": [
         "Stolen Derisetum"
       ],
@@ -228,10 +228,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-12--Double-Crossers-Uncross-e3auk12",
       "description": "In the aftermath of their mission against (?) the Brightwater Collective for (?) the Piper Lords, our scoundrels attempt to repair their reputation, heal their wounds, and get into some weird vices. 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/3ea38922-2938-11f1-be37-e74dddde6ace/image/89a6eb18c3704c9ee8c1ef0e9fc241f7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR4599336697.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4599336697.mp3?updated=1775936889",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3152",
+      "itunes_duration": "3227",
       "speakers": [
         "Brightwater Collective"
       ],
@@ -248,10 +248,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-11--Betrayal-at-the-Starsong-Lounge-e3a9sue",
       "description": "Our crew gains a new member, sort of, and then sets out to complete their heist of the Starsong Lounge. 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/3f461e3a-2938-11f1-be37-f3c31d93db15/image/89a6eb18c3704c9ee8c1ef0e9fc241f7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR6625047059.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR6625047059.mp3?updated=1775936933",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4664",
+      "itunes_duration": "4739",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -267,10 +267,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-10--Ratatoussy-e39l15u",
       "description": "After being warned in no uncertain terms, \"DO NOT ROB THE PIPER LORDS,\" and \"DO NOT JOIN THE PIPER LORDS,\" the gang figures out how to join and rob the Piper Lords. 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/403664bc-2938-11f1-be37-7323f5cc1799/image/89a6eb18c3704c9ee8c1ef0e9fc241f7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR2970442886.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR2970442886.mp3?updated=1775936837",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3785",
+      "itunes_duration": "3860",
       "speakers": [
         "Ratatoussy After"
       ],
@@ -286,10 +286,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-9--The-Dead-World-e3919mj",
       "description": "Our intrepid crew of scoundrels happen upon a world they couldn't have predicted and a path toward survival they wouldn't have imagined. 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/41169f8c-2938-11f1-be37-4f957c643a96/image/89a6eb18c3704c9ee8c1ef0e9fc241f7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR4137524600.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4137524600.mp3?updated=1775936657",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3504",
+      "itunes_duration": "3579",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -304,10 +304,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-8--Vice-After-Victory-e38dqbg",
       "description": "Safe on the train at last, Friedrich experiments, Pepper makes a new friend, Valerian confronts his most powerful enemy— and everyone relieves some stress, one way or another. 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/41bd7c80-2938-11f1-be37-1bd076acac5b/image/89a6eb18c3704c9ee8c1ef0e9fc241f7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR6165189089.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR6165189089.mp3?updated=1775936578",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3932",
+      "itunes_duration": "4007",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -322,10 +322,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-7--The-Sun-Queen-Caper-Concludes-e37pug5",
       "description": "It's time to crown the Sun Queen, at last. I'm sure everything will go according to plan. 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/4269d7a0-2938-11f1-be37-df8bc1636eab/image/89a6eb18c3704c9ee8c1ef0e9fc241f7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR5391811811.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR5391811811.mp3?updated=1775936428",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2991",
+      "itunes_duration": "3066",
       "speakers": [
         "Sun Queen"
       ],
@@ -455,10 +455,10 @@
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/How-to-Play-Blades-in-the-Dark-e33hv0a",
       "description": "Whether you've only played DnD, hate all non-traditional dice, or have never done anything before in your life, YOU TOO can learn to play ⁠ Blades in the Dark ⁠ ! 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/470c8afa-2938-11f1-be37-9bf6ba3cc88a/image/2d9efc5c80a28c6184bfd0033c2cda9c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR4091489684.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4091489684.mp3?updated=1775937484",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1354",
+      "itunes_duration": "1429",
       "speakers": [],
       "topics": [
         "blade",
