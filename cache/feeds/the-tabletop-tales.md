@@ -2,10 +2,10 @@
 
 - slug: `the-tabletop-tales`
 - source: `https://feeds.buzzsprout.com/1458004.rss`
-- fetched_at: `2026-03-14T15:45:15+00:00`
-- checked_at: `2026-03-14T15:45:15+00:00`
-- etag: `"991d6898abf62da0baad81f35d5d3e19"`
-- last_modified: `Sat, 14 Mar 2026 13:30:40 GMT`
+- fetched_at: `2026-04-11T07:30:03+00:00`
+- checked_at: `2026-04-11T07:30:03+00:00`
+- etag: `"2d428f581a9ac20a4fa3cef3d5000b91"`
+- last_modified: `Sat, 11 Apr 2026 03:26:16 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.thetabletoptales.com",
   "description": "A fantasy-comedy storytelling podcast inspired by tabletop roleplaying games. This mostly-improvised adventure employs immersive sound design and original score to tell humorous, compelling and entertaining fictional stories.",
   "image_url": "https://storage.buzzsprout.com/aj3jb3rjkmg6cj1zvwt4occemcmh?.jpg",
-  "fetched_at": "2026-03-14T15:45:15+00:00",
+  "fetched_at": "2026-04-11T07:30:03+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
