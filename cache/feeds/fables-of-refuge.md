@@ -3,9 +3,11 @@
 - slug: `fables-of-refuge`
 - source: `https://fablesofrefuge.libsyn.com/rss`
 - fetched_at: `2026-04-13T10:57:26+00:00`
-- checked_at: `2026-04-13T10:57:26+00:00`
+- checked_at: `2026-04-13T14:10:36+00:00`
 - etag: `W/"61fe3-981M9GyIxCEaoN4sUmtCREHjBm4"`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: The read operation timed out
 
 <!-- FEED_JSON -->
 ```json
@@ -1069,7 +1071,17 @@
         "year"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-04-13T14:10:36+00:00",
+    "status": "error",
+    "checked_at": "2026-04-13T14:10:36+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "The read operation timed out"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

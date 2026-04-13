@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-04-10T13:52:00+00:00`
-- checked_at: `2026-04-10T13:52:00+00:00`
-- etag: `"d50906b4edf598d003d848cb86e1594f"`
+- fetched_at: `2026-04-13T14:10:36+00:00`
+- checked_at: `2026-04-13T14:10:36+00:00`
+- etag: `"d4c688fce2bdc0451db861a86d971dda"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/5111002/Dork_Tales_d20_20238mnn1.png",
-  "fetched_at": "2026-04-10T13:52:00+00:00",
+  "fetched_at": "2026-04-13T14:10:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "914fe6316c8d05700cf4d275ed1cd317aebecacd",
+      "title": "Vecna: Eve of Ruin | Episode 32: The Betrayer Revealed",
+      "published_at": "2026-04-13T13:50:00+00:00",
+      "link": "https://dorktales.podbean.com/e/vecna-eve-of-ruin-episode-32-the-betrayer-revealed/",
+      "description": "Vecna is here and only one party can stop him. Join us for Vecna: Eve of Ruin! In this episode, a betrayer is revealed. It's kind of in the title. Thank you to Bookwyrm Games for sponsoring the channel! Visit them at https://bookwyrmgames.com/ and use code DORKTALES to save 15% off your order! === Kelly Clark as Dungeon Master Cast Christine Rattray as Rosie Thistledrop Robin Holford as Lir'wen Chris Blogg as Gaunt Jen Peters as Imogen and Kal Vincent as Aurontiros Watch us LIVE on Twitch ► https://twitch.tv/dorktales Visit our website ► https://dorktales.ca Our Linktree ► https://linktr.ee/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktaleschannel/ Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy the cast a coffee ► https://ko-fi.com/dorktales Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! So smash the bell, share these videos, and we'll see you soon at our next game! === Music credits: Music: House of Secrets by Joel Steudler https://www.joelsteudlermusic.com/ Licensed under a Humblebundle Collection Also from Joel Steudler: No Mountain High Tracks by Tim Kulig: Tomb Tensions https://timkulig.com Tracks from Monument Studios Elven Secrets B Cryptic Choir Textured Starborne Piano Licensed under a Fantasy Complete or All-In-One License https://www.monumentstudios.net Tracks licensed from Dark Fantasy Studio From Ashes http://www.darkfantasystudio.com This video also uses licensed audio from the Humble Music & Sound Effects For Games, Films, and Content Creators Bundle Part 2. Including our closing theme: The Harrowing This video using the following licensed tracks from Game Dev Market, Audiohero, and Ovani: Confrontation Hero Appears",
+      "image_url": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog5111002/Vecna_Eve_of_Ruin_Podcast_Logo7mops.png",
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/tq5j64tr8jyp5ry7/VecnaE32complete.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91019369",
+      "itunes_duration": "5685",
+      "speakers": [],
+      "topics": [
+        "vecna",
+        "ruin",
+        "betrayer"
+      ]
+    },
     {
       "key": "6bcd67237ca1f925d564d6eb1051bd4583355018",
       "title": "Mage the Ascension the Victorian Age | Book Three: Interlude",
@@ -7556,6 +7574,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-13 — Vecna: Eve of Ruin | Episode 32: The Betrayer Revealed
 - 2026-04-10 — Mage the Ascension the Victorian Age | Book Three: Interlude
 - 2026-04-06 — Vecna: Eve of Ruin | Episode 31: The Dragon Queen's Pride — speakers: Pride Vecna
 - 2026-04-03 — Mage the Ascension the Victorian Age | Chastity's Seeking | Bonus Episode
