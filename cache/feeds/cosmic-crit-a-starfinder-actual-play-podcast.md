@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-04-06T08:04:36+00:00`
-- checked_at: `2026-04-06T08:04:36+00:00`
-- last_modified: `Mon, 06 Apr 2026 04:05:00 GMT`
+- fetched_at: `2026-04-13T08:25:00+00:00`
+- checked_at: `2026-04-13T08:25:00+00:00`
+- last_modified: `Mon, 13 Apr 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-04-06T08:04:36+00:00",
+  "fetched_at": "2026-04-13T08:25:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "abcd492f70535ca1d32742a4578dcb9429b3f0e7",
+      "title": "Guilt of the Grave World | 009: Courage Under Fire Extinguishers",
+      "published_at": "2026-04-13T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-009-courage-under-fire-extinguishers/",
+      "description": "The mysteries of Station Alpha continue to unfold as there are more confirmations that this facility used to orbit the now destroyed planet of Iovo, destroyed by the Eoxian super weapon. But what did the ancient Elebrians do here and why did this station survive?",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3800/guilt-of-the-grave-world-009-courage-under-fire-extinguishers.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102536137",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Station Alpha"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "courage",
+        "fire",
+        "extinguishers"
+      ]
+    },
     {
       "key": "0243aff6e4bf297ffab11d76e4d3ab63b1e87fce",
       "title": "Guilt of the Grave World | 008: Undead to Rights",
@@ -8732,6 +8755,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-13 — Guilt of the Grave World | 009: Courage Under Fire Extinguishers — speakers: Station Alpha
 - 2026-04-06 — Guilt of the Grave World | 008: Undead to Rights — speakers: Grave World
 - 2026-03-30 — Guilt of the Grave World | 007: She’s All Bat — speakers: Grave World, Nova Rush
 - 2026-03-23 — Guilt of the Grave World | 006: That’s No Moon — speakers: Grave World, No Moon Attacked
