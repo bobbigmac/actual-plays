@@ -2,9 +2,9 @@
 
 - slug: `realms-of-peril-glory-an-actual-play-anthology`
 - source: `https://feeds.megaphone.fm/FAFO5417156687`
-- fetched_at: `2026-03-25T13:52:16+00:00`
-- checked_at: `2026-03-25T13:52:16+00:00`
-- last_modified: `Wed, 25 Mar 2026 13:22:20 GMT`
+- fetched_at: `2026-04-13T16:39:13+00:00`
+- checked_at: `2026-04-13T16:39:13+00:00`
+- last_modified: `Mon, 13 Apr 2026 16:15:38 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.realmspod.com",
   "description": "Legendary Stories, Awe-inspiring Sound & Endless Adventure await in the Realms of Peril & Glory! Get ready for the actual play adventure of a lifetime! Explore the mechanically magical vistas of Vael, the paranormal mysteries of Liminal London, and the cyberpunk chaos of CY_BORG. With breathtaking sound design and enchanting original music, you’ll be immersed into unforgettable campaigns and heart-pounding one-shots. Ignite your imagination and discover the Realms of Peril & Glory today.",
   "image_url": "https://megaphone.imgix.net/podcasts/cf44508e-0b0f-11ec-8617-0328e1238bf9/image/eaa7bfb57a3a4843e7e98ba3af5b0c46.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-25T13:52:16+00:00",
+  "fetched_at": "2026-04-13T16:39:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -1004,28 +1004,6 @@
         "howat",
         "rhys",
         "lawton"
-      ]
-    },
-    {
-      "key": "22c11a11c371ac5ec8b2d935deb6da4d00ab4dcb",
-      "title": "Blood on the Clocktower | Realms Pilot Program",
-      "published_at": "2024-03-20T05:01:00+00:00",
-      "link": null,
-      "description": "Now is your opportunity to give feedback on our brand-new format, Blood on the Clocktower. Check out the episodes HERE ! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | MERCH | SOCIALS | DISCORD | NEWSLETTER Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/1972fec8-e522-11ee-bb18-1b56283f127b/image/dbaf67d168fe30d73d85b4c238aa8ec1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP3557813393.mp3?updated=1722100734",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "81",
-      "speakers": [
-        "Realms Pilot Program Now"
-      ],
-      "topics": [
-        "blood",
-        "clocktower",
-        "realms",
-        "pilot",
-        "program"
       ]
     },
     {
@@ -2425,7 +2403,7 @@
       "title": "A Christmas Caper | Sugar Plum Forest Finale",
       "published_at": "2021-12-15T05:01:00+00:00",
       "link": null,
-      "description": "The Christmas Caper Finale is here! John, Merry, Scarlet, and Gumdrop must track down Jack Frost deep within the Sugar Plum Forest to see if they have any hope of recovering Santa's Hat and saving Christmas! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm Gumdrop: James Barbarossa Merry: L C Girling John: Felix Trench Scarlet: Beth Crane System: A Christmas Caper ﻿Voice Edit: Cai Gwilym Pritchard Content Warnings: Fantasy Threat and Violence Comical Existential Dread Comedic and Fantastical Portrayal of Prejudice Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "The Christmas Caper Finale is here! John, Merry, Scarlet, and Gumdrop must track down Jack Frost deep within the Sugar Plum Forest to see if they have any hope of recovering Santa's Hat and saving Christmas! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠⁠Zack FG Gumdrop: James Barbarossa Merry: L C Girling John: Felix Trench Scarlet: Beth Crane System: A Christmas Caper ﻿Voice Edit: Cai Gwilym Pritchard Content Warnings: Fantasy Threat and Violence Comical Existential Dread Comedic and Fantastical Portrayal of Prejudice Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/1dc1f99e-0bc6-11ec-86d2-af88703b2520/image/1d74e581864d99c6337a438d573a4964.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO3648059343.mp3?updated=1737551888",
       "enclosure_type": "audio/mpeg",
@@ -2448,7 +2426,7 @@
       "title": "A Christmas Caper | Battle on the Eggnog River",
       "published_at": "2021-12-08T05:01:00+00:00",
       "link": null,
-      "description": "They have found the Ginger Resistance, but now our heroes must travel to the source of the problems and up the Eggnog River towards the Sugar Plum Forest. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm Gumdrop: James Barbarossa Merry: L C Girling John: Felix Trench Scarlet: Beth Crane System: A Christmas Caper ﻿Voice Edit: Cai Gwilym Pritchard Content Warnings: Fantasy Threat and Violence Comical Existential Dread Comedic and Fantastical Portrayal of Prejudice Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "They have found the Ginger Resistance, but now our heroes must travel to the source of the problems and up the Eggnog River towards the Sugar Plum Forest. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠⁠Zack FG Gumdrop: James Barbarossa Merry: L C Girling John: Felix Trench Scarlet: Beth Crane System: A Christmas Caper ﻿Voice Edit: Cai Gwilym Pritchard Content Warnings: Fantasy Threat and Violence Comical Existential Dread Comedic and Fantastical Portrayal of Prejudice Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/1db40eb0-0bc6-11ec-86d2-4f68526a8572/image/1d74e581864d99c6337a438d573a4964.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO3074329936.mp3?updated=1737551746",
       "enclosure_type": "audio/mpeg",
@@ -2471,7 +2449,7 @@
       "title": "A Christmas Caper | The Ginger Resistance",
       "published_at": "2021-12-01T05:01:00+00:00",
       "link": null,
-      "description": "Join Merry, John, Scarlet and Gumdrop as they travel through the North Pole attempting to recover Santa's Hat and save Christmas! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm Gumdrop: James Barbarossa Merry: L C Girling John: Felix Trench Scarlet: Beth Crane System: A Christmas Caper ﻿Voice Edit: Cai Gwilym Pritchard Content Warnings: Fantasy Threat and Violence Comical Existential Dread Comedic and Fantastical Portrayal of Prejudice Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Join Merry, John, Scarlet and Gumdrop as they travel through the North Pole attempting to recover Santa's Hat and save Christmas! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠⁠Zack FG Gumdrop: James Barbarossa Merry: L C Girling John: Felix Trench Scarlet: Beth Crane System: A Christmas Caper ﻿Voice Edit: Cai Gwilym Pritchard Content Warnings: Fantasy Threat and Violence Comical Existential Dread Comedic and Fantastical Portrayal of Prejudice Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/1da5ffd2-0bc6-11ec-86d2-d73096de102d/image/1d74e581864d99c6337a438d573a4964.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO1122668640.mp3?updated=1737551625",
       "enclosure_type": "audio/mpeg",
@@ -2492,7 +2470,7 @@
       "title": "Vael | Last Stand in the Church of Rhoz",
       "published_at": "2021-11-24T05:00:00+00:00",
       "link": null,
-      "description": "It all ends here, one way or another. Can our heroes survive the legendary Undying King? Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Content Warnings: Fantasy Threat and Violence Discussions of Death and Dying Death & Dying Blood Gore Betrayal Extreme Duress and Pressure Existential Dread Fraught Parental Relationships Hospitals Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "It all ends here, one way or another. Can our heroes survive the legendary Undying King? Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠Zack FG⁠⁠ NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Content Warnings: Fantasy Threat and Violence Discussions of Death and Dying Death & Dying Blood Gore Betrayal Extreme Duress and Pressure Existential Dread Fraught Parental Relationships Hospitals Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/1d982da8-0bc6-11ec-86d2-ef466e2b2ec7/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO4843102832.mp3?updated=1744618069",
       "enclosure_type": "audio/mpeg",
@@ -2514,7 +2492,7 @@
       "title": "Vael | Answers in the Ivy Lanes",
       "published_at": "2021-11-17T05:01:00+00:00",
       "link": null,
-      "description": "The truth is unveiled and weapons are drawn as the cons-irises finally make their move. Join us for the penultimate episode of our Vael campaign. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Kathryn Stanley Content Warnings: Fantasy Threat and Violence Mind Control Discussions of Death and Dying Death & Dying Blood Narration of Slashing Throat Betrayal Extreme Duress and Pressure Existential Dread Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "The truth is unveiled and weapons are drawn as the cons-irises finally make their move. Join us for the penultimate episode of our Vael campaign. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠⁠Zack FG NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Kathryn Stanley Content Warnings: Fantasy Threat and Violence Mind Control Discussions of Death and Dying Death & Dying Blood Narration of Slashing Throat Betrayal Extreme Duress and Pressure Existential Dread Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/1d8a56f6-0bc6-11ec-86d2-83381d5add8c/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO4210076829.mp3?updated=1744568625",
       "enclosure_type": "audio/mpeg",
@@ -2532,7 +2510,7 @@
       "title": "Vael I Showdown at the Lab",
       "published_at": "2021-11-10T05:00:00+00:00",
       "link": null,
-      "description": "It's time to face off against the legendary Blades of Valarus and try to avert the crisis that is coming faster than ever! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Kathryn Stanley Content Warnings: Abduction & Kidnapping Fantasy Threat and Violence Mind Control Discussions of death and dying Losing Control of Yourself Electrocution Death & Dying Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "It's time to face off against the legendary Blades of Valarus and try to avert the crisis that is coming faster than ever! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠⁠Zack FG NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Kathryn Stanley Content Warnings: Abduction & Kidnapping Fantasy Threat and Violence Mind Control Discussions of death and dying Losing Control of Yourself Electrocution Death & Dying Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/1d7cacfe-0bc6-11ec-86d2-7bf6e6cfd7cd/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO5023246520.mp3?updated=1744568226",
       "enclosure_type": "audio/mpeg",
@@ -2548,7 +2526,7 @@
       "title": "Vael | Rescue at Langford Manor",
       "published_at": "2021-11-03T05:01:00+00:00",
       "link": null,
-      "description": "Revelations uncovered! Our heroes stride through the city towards Langford Manor and the many mysteries that lie within the large iron gates! The race is on to uncover the truth! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Cai Gwylim-Pritchard Content Warnings: Abduction & Kidnapping Fantasy Threat and Violence Mind Control Depictions of Grief and Depression Poison Intense interpersonal strain Discussions of death and dying Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Revelations uncovered! Our heroes stride through the city towards Langford Manor and the many mysteries that lie within the large iron gates! The race is on to uncover the truth! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠⁠Zack FG NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Cai Gwylim-Pritchard Content Warnings: Abduction & Kidnapping Fantasy Threat and Violence Mind Control Depictions of Grief and Depression Poison Intense interpersonal strain Discussions of death and dying Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/1d6f1300-0bc6-11ec-86d2-bb07eca13fa6/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO2681940598.mp3?updated=1744568272",
       "enclosure_type": "audio/mpeg",
@@ -2569,7 +2547,7 @@
       "title": "Vael | Deductions in the Archive",
       "published_at": "2021-10-27T04:00:00+00:00",
       "link": null,
-      "description": "The clues are coming together faster than ever as a picture of just what is happening in this city forms for our heroes. Will they be able to put a stop to these villainous machinations? Go to RealmsPod.com to discover even more stories you haven't heard PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Kathryn Stanley Content Warnings: Intense Interpersonal Strain Fantasy Threat and Violence Depictions of grief Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "The clues are coming together faster than ever as a picture of just what is happening in this city forms for our heroes. Will they be able to put a stop to these villainous machinations? Go to RealmsPod.com to discover even more stories you haven't heard PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠⁠Zack FG NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Kathryn Stanley Content Warnings: Intense Interpersonal Strain Fantasy Threat and Violence Depictions of grief Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/1d6134ba-0bc6-11ec-86d2-2f0445a3abcd/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO7731978183.mp3?updated=1744568208",
       "enclosure_type": "audio/mpeg",
@@ -2587,7 +2565,7 @@
       "title": "Vael | Raid in the Factory Lanes",
       "published_at": "2021-10-20T04:00:00+00:00",
       "link": null,
-      "description": "Everything has changed. Pine is lost, and Torbrennan has left the Blades. Our Heroes are more helpless than ever. In the darkest of nights, keep those you trust near. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Kathryn Stanley Content Warnings: Intense Interpersonal Strain Fantasy Threat and Violence Intense depictions of destructions Depictions of grief and depression Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Everything has changed. Pine is lost, and Torbrennan has left the Blades. Our Heroes are more helpless than ever. In the darkest of nights, keep those you trust near. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠⁠Zack FG NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Kathryn Stanley Content Warnings: Intense Interpersonal Strain Fantasy Threat and Violence Intense depictions of destructions Depictions of grief and depression Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/4608f802-0bc2-11ec-a25a-8bdf36f84eb6/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO4453006111.mp3?updated=1744568236",
       "enclosure_type": "audio/mpeg",
@@ -2608,7 +2586,7 @@
       "title": "Vael | Midnight in the Soul",
       "published_at": "2021-10-13T04:00:00+00:00",
       "link": null,
-      "description": "Truth is revealed, and secrets are uncovered. They spent far too long within the bowls of Athril, and machinations have claimed their toll in blood. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Kathryn Stanley Content Warnings: Intense Interpersonal Strain Fantasy Threat and Violence Off-Screen Depiction of Death Depictions of grief and depression Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Truth is revealed, and secrets are uncovered. They spent far too long within the bowls of Athril, and machinations have claimed their toll in blood. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠⁠Zack FG NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Kathryn Stanley Content Warnings: Intense Interpersonal Strain Fantasy Threat and Violence Off-Screen Depiction of Death Depictions of grief and depression Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/a7a3591a-0b4d-11ec-9267-9740d3b631bf/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO3970920410.mp3?updated=1744568051",
       "enclosure_type": "audio/mpeg",
@@ -2626,7 +2604,7 @@
       "title": "Vael | Reflections in the Vault",
       "published_at": "2021-10-06T04:00:00+00:00",
       "link": null,
-      "description": "Our party faces trials deep within the bowels of Athril, Academy of The Arcane. Vial reflections examine the core of our heroes, tormenting and testing them. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Kathryn Stanley Content Warnings: Intense Interpersonal Strain Fantasy Threat and Violence Family Trauma Neglect of a Child by a Parent or Parents Intense depictions of destructions Depictions of Illness Intense depiction of death Horror Themes Unsettling atmosphere Depictions of grief and depression Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Our party faces trials deep within the bowels of Athril, Academy of The Arcane. Vial reflections examine the core of our heroes, tormenting and testing them. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠⁠Zack FG NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Kathryn Stanley Content Warnings: Intense Interpersonal Strain Fantasy Threat and Violence Family Trauma Neglect of a Child by a Parent or Parents Intense depictions of destructions Depictions of Illness Intense depiction of death Horror Themes Unsettling atmosphere Depictions of grief and depression Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/4f7e3330-0b49-11ec-a009-238bb450564b/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO9911046993.mp3?updated=1744568116",
       "enclosure_type": "audio/mpeg",
@@ -2644,7 +2622,7 @@
       "title": "Vael | Interrogation at Justice Hall",
       "published_at": "2021-09-29T04:00:00+00:00",
       "link": null,
-      "description": "After making contact with the infamous Rapscallion Crime family, our heroes now must interrogate their arch-rival, Taavin Seguiin, imprisoned deep below Justice Hall. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Cai Gwylim-Pritchard Content Warnings: Abduction & Kidnapping Fantasy Threat and Violence Fraught Parental Relationships Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "After making contact with the infamous Rapscallion Crime family, our heroes now must interrogate their arch-rival, Taavin Seguiin, imprisoned deep below Justice Hall. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠⁠Zack FG NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Cai Gwylim-Pritchard Content Warnings: Abduction & Kidnapping Fantasy Threat and Violence Fraught Parental Relationships Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/30392522-0b42-11ec-a2da-5750555e22a9/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO3130809496.mp3?updated=1743498818",
       "enclosure_type": "audio/mpeg",
@@ -2663,7 +2641,7 @@
       "title": "Vael | Breakfast at Cleary's",
       "published_at": "2021-09-22T04:00:00+00:00",
       "link": null,
-      "description": "It's time to get the jump on the crime and enter the viper's den of the Rapscallion Crime Family. We're here to break orbs and take names, and we're all out of orbs! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Cai Gwylim-Pritchard Content Warnings: Abduction & Kidnapping Fantasy Threat and Violence Fraught Parental Relationships Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "It's time to get the jump on the crime and enter the viper's den of the Rapscallion Crime Family. We're here to break orbs and take names, and we're all out of orbs! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠⁠Zack FG NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Cai Gwylim-Pritchard Content Warnings: Abduction & Kidnapping Fantasy Threat and Violence Fraught Parental Relationships Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/05daadb4-0b3d-11ec-b0f8-eba03c30a6ad/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO6053406553.mp3?updated=1739312911",
       "enclosure_type": "audio/mpeg",
@@ -2683,7 +2661,7 @@
       "title": "Vael | Brawl in the Streets",
       "published_at": "2021-09-15T04:00:00+00:00",
       "link": null,
-      "description": "Maerydyth is captured! Would-be abductor Taavin Seguiin wields mind-controlled foes against our party. Conspiracy strikes back against those who would combat it. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Cai Gwylim-Pritchard Content Warnings: Abduction & Kidnapping Fantasy Threat and Violence Mind Control Falling from Building Gore Crude Humour Death Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Maerydyth is captured! Would-be abductor Taavin Seguiin wields mind-controlled foes against our party. Conspiracy strikes back against those who would combat it. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠⁠Zack FG NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Voice Edit: Cai Gwylim-Pritchard Content Warnings: Abduction & Kidnapping Fantasy Threat and Violence Mind Control Falling from Building Gore Crude Humour Death Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/2cc29856-0b38-11ec-8490-fb2bc30cc2f1/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO2563229078.mp3?updated=1739312682",
       "enclosure_type": "audio/mpeg",
@@ -2703,7 +2681,7 @@
       "title": "Vael | Open Mic at Cafe Pirelli",
       "published_at": "2021-09-08T04:00:00+00:00",
       "link": null,
-      "description": "Open Mic night has arrived, and our heroes cut loose for one night on the town. Destruction looms, but their case doesn't stay silent for long. Go to RealmsPod.com to discover even more stories you haven't heard. PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Content Warnings: Abduction & Kidnapping Fantasy Threat and Violence Mind Control Discrimination & Prejudice Alcohol Consumption Underage Drinking Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Open Mic night has arrived, and our heroes cut loose for one night on the town. Destruction looms, but their case doesn't stay silent for long. Go to RealmsPod.com to discover even more stories you haven't heard. PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠⁠Zack FG NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Content Warnings: Abduction & Kidnapping Fantasy Threat and Violence Mind Control Discrimination & Prejudice Alcohol Consumption Underage Drinking Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5b7b5f5a-0b30-11ec-99ea-233943b70c84/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO6929917730.mp3?updated=1739311895",
       "enclosure_type": "audio/mpeg",
@@ -2722,7 +2700,7 @@
       "title": "Vael | Teamwork in the Café",
       "published_at": "2021-09-01T04:00:00+00:00",
       "link": null,
-      "description": "With last night's vision of imminent destruction looming over them, our heroes need to decide whether or not they can trust each other. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Content Warnings: Intense Images of Destruction Abduction & Kidnapping Fantasy Threat and Violence Intense Grief & Depression Discrimination & Prejudice Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "With last night's vision of imminent destruction looming over them, our heroes need to decide whether or not they can trust each other. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zack FG⁠ NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Content Warnings: Intense Images of Destruction Abduction & Kidnapping Fantasy Threat and Violence Intense Grief & Depression Discrimination & Prejudice Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/d00df6aa-0b0f-11ec-95be-2b4c1fc71f8e/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO5661011411.mp3?updated=1739311886",
       "enclosure_type": "audio/mpeg",
@@ -2739,7 +2717,7 @@
       "title": "Vael | Sad in the City",
       "published_at": "2021-08-25T04:00:00+00:00",
       "link": null,
-      "description": "In the Church of Rhoz, a funeral takes place. Qinrith Dorai was a steadfast member of the congregation. See the cost to those people caught in the tendrils of conspiracy. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Content Warnings: Intense Images of Destruction Abduction & Kidnapping Fantasy Threat and Violence Intense Grief & Depression Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "In the Church of Rhoz, a funeral takes place. Qinrith Dorai was a steadfast member of the congregation. See the cost to those people caught in the tendrils of conspiracy. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zack FG⁠ NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Content Warnings: Intense Images of Destruction Abduction & Kidnapping Fantasy Threat and Violence Intense Grief & Depression Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/d06c129e-0b0f-11ec-95be-3fae43998765/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO8496981370.mp3?updated=1739311949",
       "enclosure_type": "audio/mpeg",
@@ -2759,7 +2737,7 @@
       "title": "Vael | Murder in the Ash Lanes",
       "published_at": "2021-08-18T06:00:00+00:00",
       "link": null,
-      "description": "Murder, most foul! Someone is covering their tracks. With tendrils of a great mystery expanding in the city of New Harbour, our heroes must begin to uncover the truth. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Content Warnings: Intense Images of Destruction Abduction & Kidnapping Murder, Dead body Fantasy Threat and Violence Emotional Distress Adultery and Cheating Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Murder, most foul! Someone is covering their tracks. With tendrils of a great mystery expanding in the city of New Harbour, our heroes must begin to uncover the truth. Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zack FG⁠ NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Content Warnings: Intense Images of Destruction Abduction & Kidnapping Murder, Dead body Fantasy Threat and Violence Emotional Distress Adultery and Cheating Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/d122c020-0b0f-11ec-95be-0b749ddddaf2/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO3910994978.mp3?updated=1739311840",
       "enclosure_type": "audio/mpeg",
@@ -2777,7 +2755,7 @@
       "title": "Vael | Battle at Deafening D'Or",
       "published_at": "2021-08-18T05:00:00+00:00",
       "link": null,
-      "description": "Automatons burst into life! Deafening D'Or is near moments from catastrophe! Can our heroes avert the disaster and defeat these mechanical attackers?! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Content Warnings: Intense Images of Destruction Abduction & Kidnapping Fantasy Threat and Violence Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Automatons burst into life! Deafening D'Or is near moments from catastrophe! Can our heroes avert the disaster and defeat these mechanical attackers?! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠Zack FG⁠⁠ NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Content Warnings: Intense Images of Destruction Abduction & Kidnapping Fantasy Threat and Violence Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/d226abda-0b0f-11ec-95be-fbbd1a6f06ae/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO2462256983.mp3?updated=1739311711",
       "enclosure_type": "audio/mpeg",
@@ -2794,7 +2772,7 @@
       "title": "Vael | Welcome to New Harbour!",
       "published_at": "2021-08-18T04:00:00+00:00",
       "link": null,
-      "description": "Vael! A world of magic, monsters and machines! Join Maerydyth, Isadora, Torbrennan and Zongroff as they uncover threads of a supernatural mystery! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: Zachary Fortais-Gomm NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Content Warnings: Intense Images of Destruction Abduction & Kidnapping Fantasy Threat and Violence Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Vael! A world of magic, monsters and machines! Join Maerydyth, Isadora, Torbrennan and Zongroff as they uncover threads of a supernatural mystery! Go to RealmsPod.com to discover even more stories you haven't heard! PATREON | TRANSCRIPT | MERCH | SOCIALS | DISCORD | NEWSLETTER GM: ⁠Zack FG⁠⁠ NPC Voices & Music: James Barbarossa Isadora: Maddy Searle Zongroff: Elizabeth Campbell Maerydyth: L C Girling Torbrennan: Pip Gladwin System: 13th Age Content Warnings: Intense Images of Destruction Abduction & Kidnapping Fantasy Threat and Violence Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/d30729b2-0b0f-11ec-95be-639decace4de/image/9608911acbc1e104a2d4ee69f3aa937e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/FAFO8009656165.mp3?updated=1739311662",
       "enclosure_type": "audio/mpeg",
@@ -2885,7 +2863,6 @@
 - 2024-05-27 — Blood Pressure Pt2 | Liminal London Mystery Five — speakers: Blood Pressure, Liminal London Mystery Five
 - 2024-05-20 — Blood Pressure Pt1 | Liminal London Mystery Five — speakers: Annie Walker, Shamini Bundell
 - 2024-04-29 — YASP | La Danse Chouette (Ft. Shamini Bundell, Fiona Howat & Rhys Lawton) — speakers: Shamini Bundell, Fiona Howat Rhys Lawton
-- 2024-03-20 — Blood on the Clocktower | Realms Pilot Program — speakers: Realms Pilot Program Now
 - 2024-03-18 — Loose Change Pt7 | Liminal London Mystery Four — speakers: Loose Change, Liminal London Mystery Four
 - 2024-03-11 — Loose Change Pt6 | Liminal London Mystery Four
 - 2024-03-04 — Loose Change Pt5 | Liminal London Mystery Four

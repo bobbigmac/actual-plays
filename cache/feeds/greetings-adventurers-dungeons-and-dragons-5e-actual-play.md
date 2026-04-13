@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-04-13T14:10:36+00:00`
-- checked_at: `2026-04-13T14:10:36+00:00`
-- etag: `"djEuMi4wOjE3NzYwNzg0OTY2NDE="`
+- fetched_at: `2026-04-13T16:39:13+00:00`
+- checked_at: `2026-04-13T16:39:13+00:00`
+- etag: `"djEuMi4wOjE3NzYwOTI0Mzk0MTQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-04-13T14:10:36+00:00",
+  "fetched_at": "2026-04-13T16:39:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "691bf0e7371636c1378f03ac5f214c27aefa45c8",
+      "title": "Campaign 2: Episode 181 - Check Point Bing Bong",
+      "published_at": "2026-04-13T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-181-check-point-bing-bong",
+      "description": "After the Wine Cellar was attacked our heroes must needs to redirect both their attention and, honestly, the attention of everyone at the Von Esper away from the weird robot mole. It could take a series of lies or half truths. Or it could take simply scootin' on out of there to get the Bell from the OT check point. Probably. Maybe. Help out people being oppressed in Minnesota and Kansas ! The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by Zack Meyman AKA Zoomtoonz ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1776078311889-103db3bf-961c-4a61-a30a-7f4ea791d35e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/69dccea094cbb214c3f813ea/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92969903",
+      "itunes_duration": "1:04:33",
+      "speakers": [
+        "Check Point Bing Bong",
+        "Wine Cellar"
+      ],
+      "topics": [
+        "campaign",
+        "check",
+        "point",
+        "bing",
+        "bong"
+      ]
+    },
     {
       "key": "cb0f173860c1dcc074bc12d6f4af6cc87d9cdb14",
       "title": "Campaign 2: Episode 180 - Super Rat Day",
@@ -12226,6 +12249,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-13 — Campaign 2: Episode 181 - Check Point Bing Bong — speakers: Check Point Bing Bong, Wine Cellar
 - 2026-04-06 — Campaign 2: Episode 180 - Super Rat Day — speakers: Super Rat Day Things
 - 2026-03-30 — Campaign 2: Episode 179 - Von Esper's Very Sad Wedding Day
 - 2026-03-23 — Campaign 2: Episode 178 - Three Perfect Plans
