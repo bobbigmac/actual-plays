@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-04-08T19:42:41+00:00`
-- checked_at: `2026-04-08T19:42:41+00:00`
-- etag: `"9d16055f8668d0cc576e3fbb567bc3e9"`
-- last_modified: `Wed, 08 Apr 2026 17:54:35 GMT`
+- fetched_at: `2026-04-14T22:07:28+00:00`
+- checked_at: `2026-04-14T22:07:28+00:00`
+- etag: `"c4107d5700f0ae0ecdbccf29379ce9da"`
+- last_modified: `Tue, 14 Apr 2026 20:56:37 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-04-08T19:42:41+00:00",
+  "fetched_at": "2026-04-14T22:07:28+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "c5948b11d811f0ab63f66374515cd6efe0e9345e",
+      "title": "The Fog Campaign - Episode 66",
+      "published_at": "2026-04-14T20:53:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-66",
+      "description": "The Undercity beneath Dellsmouth is collapsing! Time for the classic debate: swim underwater through froghemoth-infested slime, or swim the way back with our heads occaisonally above water and dodge a dead leviathan god. For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more be sure to head to nerdpokerpod.com",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-066-20260408-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "103209728",
+      "itunes_duration": "43:01",
+      "speakers": [
+        "Brian Posehn"
+      ],
+      "topics": [
+        "campaign"
+      ]
+    },
     {
       "key": "870c23320b8f79ad207bb1e9c7fbe132a1da9773",
       "title": "Apology - No Episode This Week Due To Schedules",
@@ -8795,6 +8813,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-14 — The Fog Campaign - Episode 66 — speakers: Brian Posehn
 - 2026-04-08 — Apology - No Episode This Week Due To Schedules — speakers: Brian Posehn
 - 2026-04-01 — The Fog Campaign - Episode 65 — speakers: Brian Posehn
 - 2026-03-25 — The Fog Campaign - Episode 64 — speakers: Brian Posehn
