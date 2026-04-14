@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-04-12T15:54:10+00:00`
-- checked_at: `2026-04-12T15:54:10+00:00`
-- etag: `"djEuMi4wOjE3NzYwMDE5ODk2OTI="`
+- fetched_at: `2026-04-14T19:44:04+00:00`
+- checked_at: `2026-04-14T19:44:04+00:00`
+- etag: `"djEuMi4wOjE3NzYxOTMyMzk1OTk="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-04-12T15:54:10+00:00",
+  "fetched_at": "2026-04-14T19:44:04+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "e997e36f9be9a4d54f0db9d6e17f22263cebcbcd",
+      "title": "Ep. 52 The Sword of The Flood",
+      "published_at": "2026-04-14T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-52-the-sword-of-the-flood",
+      "description": "When who you are and who you might become begin to blur, it’s no longer about the enemy you’re facing, but the truth you’ve been avoiding. A promise of power doesn’t mean it belongs in your hands. Strength can be taken, it can be wielded, but it’s not the only way to endure. Sometimes the fight is not against the unknown, but against something that understands you all too well. And when nightmares stop being warnings and start becoming challenges, the only way forward is to meet them face to face, even when it’s your face they’re wearing. It's no longer about if you’re strong enough to survive, but whether you can be honest enough to endure. In moments where spite might keep you moving, it’s trust that keeps you standing. Falling may be inevitable, but getting back up is not. Sometimes the difference is not made by the steel in your hands, but by the hands that steady you, and by who you choose to hold onto when everything threatens to pull you apart. Some burdens can only be understood when they’re laid down, reforged or left to burn up entirely. After all, the road ahead won’t ask what you’ve let go, only what you’re still carrying. ---- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/69d13204d2e95f513151930a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "426298411",
+      "itunes_duration": "3:41:52",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "sword",
+        "flood"
+      ]
+    },
     {
       "key": "07bdddc29625244be8471a0e09d7d82c933124c0",
       "title": "Action Surge Episode 51",
@@ -2694,6 +2718,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-14 — Ep. 52 The Sword of The Flood — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-04-07 — Action Surge Episode 51 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-31 — Ep. 51 The Sins of the Sinless — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-24 — Action Surge Episode 50 — speakers: Ben Starr, Harry McEntire, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
