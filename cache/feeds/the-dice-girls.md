@@ -2,9 +2,9 @@
 
 - slug: `the-dice-girls`
 - source: `https://thedicegirls.podbean.com/feed.xml`
-- fetched_at: `2026-04-01T03:47:20+00:00`
-- checked_at: `2026-04-01T03:47:20+00:00`
-- etag: `"4308871b72b6d9d8309af76d5dd2f716"`
+- fetched_at: `2026-04-14T03:44:53+00:00`
+- checked_at: `2026-04-14T03:44:53+00:00`
+- etag: `"c52843a911fc50effb486767fa04c5c6"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedicegirls.podbean.com",
   "description": "Join DM Becca, Ash, and Alexa as they are off on their latest D&D adventure!",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/3612512/Dragons_Logo90p3b.jpg",
-  "fetched_at": "2026-04-01T03:47:20+00:00",
+  "fetched_at": "2026-04-14T03:44:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,23 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "a58cd3edd542860dd510dee728d643e7e8c576c3",
+      "title": "25. The Battle's Aftermath",
+      "published_at": "2026-04-13T22:38:57+00:00",
+      "link": "https://thedicegirls.podbean.com/e/25-the-battles-aftermath/",
+      "description": "Our adventurers have to do a bit of thinking on their feet with a few injured party members!",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/myb9u6zfe3gnkynn/Episode_25_Finalaklwl.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58821849",
+      "itunes_duration": "2450",
+      "speakers": [],
+      "topics": [
+        "battle",
+        "aftermath"
+      ]
+    },
     {
       "key": "35f935783c4733e35e123871e2b2098d8016f218",
       "title": "24. Battling the Storm, Literally (Part 2)",
@@ -3235,6 +3252,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-13 — 25. The Battle's Aftermath
 - 2026-04-01 — 24. Battling the Storm, Literally (Part 2)
 - 2026-03-17 — 23. Battling the Storm (Literally), Pt. 1
 - 2026-03-03 — 22. All Roads Lead to Schnicktick

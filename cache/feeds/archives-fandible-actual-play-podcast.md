@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-03-30T03:44:26+00:00`
-- checked_at: `2026-03-30T03:44:26+00:00`
-- etag: `"bf3558e88b7c75e1282996068a7f57f2"`
+- fetched_at: `2026-04-14T03:44:53+00:00`
+- checked_at: `2026-04-14T03:44:53+00:00`
+- etag: `"91ef11e60e88bcba69fcc0f6bb4000c0"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-03-30T03:44:26+00:00",
+  "fetched_at": "2026-04-14T03:44:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ad7ef5867fc7456149f7dcf9d650af13e1f48d93",
+      "title": "Dungeons & Dragons: Trevons Heist part 1",
+      "published_at": "2026-04-14T00:31:13+00:00",
+      "link": "https://fandible.com/dungeons-dragons-trevons-heist-part-1/",
+      "description": "Two morally flexible adventurers undertake a item requisition quest. The post Dungeons & Dragons: Trevons Heist part 1 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/456_DND_TheTrevonHeist/Fan_801_DnD_TheTrevonHeistpart1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25595119",
+      "itunes_duration": "31:20",
+      "speakers": [
+        "Trevons Heist"
+      ],
+      "topics": [
+        "dungeon",
+        "dragons",
+        "trevon"
+      ]
+    },
     {
       "key": "c11bd91d26dda3e845271232da8e7f0f05de516b",
       "title": "It Came From Beyond the Grave: Blackthorn Hill part 2",
@@ -11352,25 +11372,6 @@
       "topics": [
         "prime"
       ]
-    },
-    {
-      "key": "d7435efeb994fb7e4a063cce51576455fceca3e1",
-      "title": "GTRT Ep 32: The Rebel Radio Edition",
-      "published_at": "2016-06-06T16:12:53+00:00",
-      "link": "https://fandible.com/gtrt-ep-32-rebel-radio-edition/",
-      "description": "5 3 Geeks. One Roundish Table. Its a very special Rebel Radio episode of the GTRT as three members of Fandible try to answer questions while mostly sober. The post GTRT Ep 32: The Rebel Radio Edition appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/GTRT/GTRT_032.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "31795604",
-      "itunes_duration": "1:05:03",
-      "speakers": [],
-      "topics": [
-        "gtrt",
-        "rebel",
-        "radio",
-        "edition"
-      ]
     }
   ]
 }
@@ -11379,6 +11380,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-14 — Dungeons & Dragons: Trevons Heist part 1 — speakers: Trevons Heist
 - 2026-03-30 — It Came From Beyond the Grave: Blackthorn Hill part 2 — speakers: Blackthorn Hill, Great Evil
 - 2026-03-16 — It Came From Beyond the Grave: Blackthorn Hill part 1
 - 2026-02-16 — I have a Pipe — speakers: Pipe David
@@ -11978,4 +11980,3 @@
 - 2016-06-24 — Lasers & Feelings: Holodreck — speakers: Holodreck Stuck
 - 2016-06-17 — The End of the World: The Brotherhood of Babylon
 - 2016-06-10 — Shadowrun: Prime Ep 7 part 2 of 2
-- 2016-06-06 — GTRT Ep 32: The Rebel Radio Edition
