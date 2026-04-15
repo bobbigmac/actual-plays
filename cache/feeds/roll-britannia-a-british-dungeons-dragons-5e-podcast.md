@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-04-15T03:43:40+00:00`
-- checked_at: `2026-04-15T03:43:40+00:00`
-- etag: `"djEuMi4wOjE3NzYyMjIyMzcxNDk="`
+- fetched_at: `2026-04-15T08:08:05+00:00`
+- checked_at: `2026-04-15T08:08:05+00:00`
+- etag: `"djEuMi4wOjE3NzYyMzY0NDAxODE="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-04-15T03:43:40+00:00",
+  "fetched_at": "2026-04-15T08:08:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,100 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "876e3be1e6c2cc8d0a87ad04d6485f228303e821",
+      "title": "Ep. 001: Age of Astra - Where is that Bloody Hat?! | #DND",
+      "published_at": "2026-04-15T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, a new story begins far from familiar shores, where the stars themselves feel just a little too quiet. Four strangers are pulled together by a call that shouldn’t exist, armed with barely more than instinct, training, and the roll of the Dice. In this DnD tale of unknown worlds and uneasy alliances, the mission is simple… until it isn’t. What sends a distress signal from a world no one has ever seen? Why were these particular agents chosen? And what waits on the other side of that first step into the unknown? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) and led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1776111046382-558179af-86dd-46c6-9856-35735e51b46c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69dc0f5a361823b78127d4ee/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "125037777",
+      "itunes_duration": "52:05",
+      "speakers": [
+        "Bloody Hat"
+      ],
+      "topics": [
+        "astra",
+        "bloody"
+      ]
+    },
+    {
+      "key": "d62a32604b6358b2bea9ed2e3e14910c38c0e4dc",
+      "title": "BONUS: Age of Astra - Meet Snik Unbord | #DND",
+      "published_at": "2026-04-15T06:55:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this Dungeons and Dragons episode, as a New Age begins, a small figure steps out from the shadows with far more confidence than his size suggests. Among tools, tight spaces, and the quiet hum of something bigger, the Dice begin to shape a story built on curiosity, instinct, and just a hint of chaos. In this DnD introduction, first impressions don’t quite tell the whole truth. What drives someone so small to think so big? What secrets hide behind that careful attention to detail? And when the moment comes, what kind of hero will Snik choose to be? Grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1776183924857-cb2272e9-c2f6-4652-94f9-0a7e5bedc327.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69de6b707beb0a17359e72e0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26728041",
+      "itunes_duration": "11:07",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "meet",
+        "snik",
+        "unbord"
+      ]
+    },
+    {
+      "key": "501177fae6b581942ce82b4b981271fa4d84b690",
+      "title": "BONUS: Age of Astra - Meet Sig Rivet | #DND",
+      "published_at": "2026-04-15T06:50:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this weeks Dungeons and Dragons episode, something small moves where others wouldn’t even think to look. Sparks, scraps, and quiet ingenuity shape the edges of a mind that never really switches off, as the Dice begin to favour curiosity over caution and There’s more going on here than meets the eye… probably several things at once. What is Sig really building behind the scenes? How far will curiosity push him into danger? And when something breaks… will he fix it, or make it worse? Grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1776184653802-7a961a3a-5363-493a-a106-88fa40ade373.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69de6d782cab0d3ec89d56d8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "16857320",
+      "itunes_duration": "7:01",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "meet",
+        "rivet"
+      ]
+    },
+    {
+      "key": "dad45243c49edb0181e9af8e7fd10dba51c686f5",
+      "title": "BONUS: Age of Astra - Meet Patch Kiaros | #DND",
+      "published_at": "2026-04-15T06:45:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this Dungeons and Dragons episode, a steady pair of hands prepares for whatever comes next, where routine feels less like habit and more like survival. Beneath calm precision and quiet focus, the Dice begin to hint at something heavier carried just out of sight in this introduction. Not every healer is untouched by what they’ve seen. What keeps Patch so controlled when everything else isn’t? How much does he really carry from one mission to the next? And when things go wrong… who keeps the fixer together? Grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1776184359878-1a5fc0bc-c546-465f-96b4-57049e922691.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69de6c37ae338647150478a6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28940844",
+      "itunes_duration": "12:03",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "meet",
+        "patch",
+        "kiaros"
+      ]
+    },
+    {
+      "key": "f9f1827d30e13b7da0c9a17d0ced3599282c0597",
+      "title": "BONUS: Age of Astra - Meet Ivan Tuzakyrblad | #DND",
+      "published_at": "2026-04-15T06:40:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, a figure emerges from shadow and silence, carrying a presence that feels older than the room itself. Ritual, restraint, and something quietly dangerous sit just beneath the surface, as the Dice begin to hint at a story shaped by hunger, memory, and control. In this DnD introduction, not everything that looks composed truly is. What does Ivan really hunger for? How much of his past still follows him? And when control slips… what steps forward instead? Grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1776184411062-34b75434-ce84-4839-a018-e8f9b98db325.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69de6d372cab0d3ec89d483b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23697321",
+      "itunes_duration": "9:52",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "meet",
+        "ivan",
+        "tuzakyrblad"
+      ]
+    },
     {
       "key": "e050a0cc45a85c7142fe557e1fe146b199df8e45",
       "title": "Ep. 324 :Roll Britannia | Idols of the Neon Dark pt.2 |#DND",
@@ -7593,6 +7687,11 @@
 
 ## Episodes (newest first)
 
+- 2026-04-15 — Ep. 001: Age of Astra - Where is that Bloody Hat?! | #DND — speakers: Bloody Hat
+- 2026-04-15 — BONUS: Age of Astra - Meet Snik Unbord | #DND
+- 2026-04-15 — BONUS: Age of Astra - Meet Sig Rivet | #DND
+- 2026-04-15 — BONUS: Age of Astra - Meet Patch Kiaros | #DND
+- 2026-04-15 — BONUS: Age of Astra - Meet Ivan Tuzakyrblad | #DND
 - 2026-04-08 — Ep. 324 :Roll Britannia | Idols of the Neon Dark pt.2 |#DND — speakers: Roll Britannia, Neon Dark
 - 2026-04-08 — Ep. 324: Roll Britannia | Idols of the Neon Dark pt.1 | #DND
 - 2026-04-01 — Ep. 323: Because, That's What Heroes Do - Chapter 20 - pt.2 | #DND
