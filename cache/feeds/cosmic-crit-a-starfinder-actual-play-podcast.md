@@ -3,11 +3,9 @@
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
 - fetched_at: `2026-04-13T08:25:00+00:00`
-- checked_at: `2026-04-15T19:45:30+00:00`
+- checked_at: `2026-04-15T22:06:14+00:00`
 - last_modified: `Mon, 13 Apr 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: `HTTP 500` — Internal Server Error
 
 <!-- FEED_JSON -->
 ```json
@@ -8750,17 +8748,7 @@
         "podcast"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-04-15T19:45:30+00:00",
-    "status": "error",
-    "checked_at": "2026-04-15T19:45:30+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": 500,
-      "message": "Internal Server Error"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->

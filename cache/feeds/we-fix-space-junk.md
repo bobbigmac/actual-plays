@@ -2,9 +2,9 @@
 
 - slug: `we-fix-space-junk`
 - source: `https://feeds.megaphone.fm/wefixspacejunk`
-- fetched_at: `2026-04-10T19:14:16+00:00`
-- checked_at: `2026-04-10T19:14:16+00:00`
-- last_modified: `Fri, 10 Apr 2026 16:07:36 GMT`
+- fetched_at: `2026-04-15T22:06:14+00:00`
+- checked_at: `2026-04-15T22:06:14+00:00`
+- last_modified: `Wed, 15 Apr 2026 21:57:01 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://battlebird.productions",
   "description": "'We Fix Space Junk' follows seasoned smuggler Kilner and reluctant fugitive Samantha as they travel the galaxy, dodging bullets and meeting strange and wonderful beings as they carry out odd jobs on the fringes of the law. A female-led sci-fi comedy sitcom set in the far future, in a high-tech, dystopian world, We Fix Space Junk draws on the sci-fi of the past, following in the footsteps of Harry Harrison and of Douglas Adams' Hitchhiker's Guide to the Galaxy. Equal parts love-letter to sci-fi and satire of the present-day, Space Junk is lovingly produced by Beth Crane and Hedley Knights of Battle Bird Productions. To support the show visit patreon.com/BattleBirdProd or visit Battlebird.productions",
   "image_url": "https://megaphone.imgix.net/podcasts/8c376dd8-0f0d-11ec-8651-57ea866800e0/image/8d5a72f1090250cbefae2050b1329e32fb962b991327db690dac1bffa8d2ba047cdd30974dd1f9bdc451659cd75d302dfd61aded64e62bb1377d9d88df6be606.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-10T19:14:16+00:00",
+  "fetched_at": "2026-04-15T22:06:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -48,10 +48,10 @@
       "link": null,
       "description": "When Kilner and Samantha visit a planet full of megafauna, they find a toothy surprise waiting for them... Looking for ad-free episodes? Check out our Patreon feed! For a full transcript of the episode and content warnings click here or visit battlebird.productions and click transcripts! Written by Beth Crane and produced by Hedley Knights for Battle Bird Productions. All artwork and graphics by Beth Crane, all music by Hedley Knights CAST Beth Crane Rebecca Evans Jack Carmichael Shamini Bundell Maddy Searle Pip Gladwin Laurence Owen Sarah Rhea Werner Vicki Baron David Ault LOOKING FOR WAYS TO SUPPORT WE FIX SPACE JUNK? You can join our Patreon or send us a one-off donation on Ko-Fi or PayPal! If you’re looking for something we’ve advertised, visit our affiliate partner page! We’ve also got a wide range of merch available on our TeePublic, Spreadshirt and Etsy pages! FIND US ON SOCIAL MEDIA INSTAGRAM: instagram.com/battlebirdproductions FACEBOOK: facebook.com/WeFixSpaceJunk // facebook.com/BattleBirdProd TUMBLR: wefixspacejunk.tumblr.com TIKTOK: tiktok.com/@wefixspacejunk WEBSITE: battlebird.productions Heard an ad you think shouldn't be here? Get in touch! Learn more about your ad choices. Visit megaphone.fm/adchoices Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/f731dbae-0dba-11f1-b10a-3b3cee43117c/image/b7e976f99a9e4375acf2eafdc5b6e0b5.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO5643723613.mp3?updated=1771758345",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO5643723613.mp3?updated=1776290510",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1238",
+      "itunes_duration": "1268",
       "speakers": [
         "Megafauna When Kilner"
       ],
@@ -236,7 +236,7 @@
       "published_at": "2021-08-23T04:00:00+00:00",
       "link": "https://art19.com/shows/we-fix-space-junk/episodes/fb7853ff-fb88-4dc0-b5ed-626554a8f473",
       "description": "In which Marilyn and Computer run into some unexpected problems on Gontano... Looking for ad-free episodes? Check out our Patreon feed! For a full transcript of the episode and content warnings click HERE or visit battlebird.productions and click transcripts ! Written by Beth Crane and produced by Hedley Knights for Battle Bird Productions . All artwork and graphics by Beth Crane, all music by Hedley Knights CAST Francesca Mintowt-Czyz James Carney Ty Corr Jade Cash Chastity Brown Hedley Knights Luke Booys Kristi Boulton Stas Mintowt-Czyz LOOKING FOR WAYS TO SUPPORT WE FIX SPACE JUNK? You can join our Patreon or send us a one-off donation on Ko-Fi or PayPal ! If you’re looking for something we’ve advertised, visit our affiliate partner page ! We’ve also got a wide range of merch available on our TeePublic , Spreadshirt and Etsy pages! FIND US ON SOCIAL MEDIA TWITTER: twitter.com/WeFixSpaceJunk // twitter.com/battlebirdprod // twitter.com/Automnicon FACEBOOK: facebook.com/WeFixSpaceJunk // facebook.com/BattleBirdProd INSTAGRAM: instagram.com/battlebirdproductions TUMBLR: wefixspacejunk.tumblr.com TIKTOK: tiktok.com/@wefixspacejunk WEBSITE: battlebird.productions Heard an ad you think shouldn't be here? Get in touch Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/8db472b4-0f0d-11ec-9a05-7b376c20e92f/image/b178e70d8c1ae89391d2029f8de6cb0d9c9225e5a074f0e04f4b4db79f495f50656e9aa265fe4f69e1c02211684de06a1dc8ae00df31522cda1055bc17d75630.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/8db472b4-0f0d-11ec-9a05-7b376c20e92f/image/36c203466250ad17da1358e3abaef86a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO8799442095.mp3?updated=1662669011",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -336,7 +336,7 @@
       "published_at": "2021-06-14T04:00:00+00:00",
       "link": "https://art19.com/shows/we-fix-space-junk/episodes/ffc58fec-c0c3-4468-8703-63147fe030e2",
       "description": "Marilyn and Computer visit a planet which carries out a very curious trade... Looking for ad-free episodes? Check out our Patreon feed! For a full transcript of the episode and content warnings click HERE or visit battlebird.productions and click transcripts ! Written by Beth Crane and produced by Hedley Knights for Battle Bird Productions . All artwork and graphics by Beth Crane, all music by Hedley Knights CAST Francesca Mintowt-Czyz James Carney LOOKING FOR WAYS TO SUPPORT WE FIX SPACE JUNK? You can join our Patreon or send us a one-off donation on Ko-Fi or PayPal ! If you’re looking for something we’ve advertised, visit our affiliate partner page ! We’ve also got a wide range of merch available on our TeePublic , Spreadshirt and Etsy pages! FIND US ON SOCIAL MEDIA TWITTER: twitter.com/WeFixSpaceJunk // twitter.com/battlebirdprod // twitter.com/Automnicon FACEBOOK: facebook.com/WeFixSpaceJunk // facebook.com/BattleBirdProd INSTAGRAM: instagram.com/battlebirdproductions TUMBLR: wefixspacejunk.tumblr.com TIKTOK: tiktok.com/@wefixspacejunk WEBSITE: battlebird.productions Heard an ad you think shouldn't be here? Get in touch Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/90cdf61e-0f0d-11ec-9a05-c732f14ef02a/image/5fca9296d92fa0506becfdd5e92b759fa7c5735a0e0315cb53540bda3d37d1f28d6c736cc686d9f9b10734cd01f8e41bf05646e6da6dc125f9d1c92773dcd0b7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/90cdf61e-0f0d-11ec-9a05-c732f14ef02a/image/36c203466250ad17da1358e3abaef86a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO5980822792.mp3?updated=1662668943",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -1142,7 +1142,7 @@
       "published_at": "2018-08-06T04:30:00+00:00",
       "link": "https://art19.com/shows/we-fix-space-junk/episodes/afa64b4b-83fe-451f-a755-355e71c071a4",
       "description": "The final entry in Marilyn's Diary. Looking for ad-free episodes? Check out our Patreon feed! For a full transcript of the episode and content warnings click here or visit battlebird.productions and click transcripts ! Written by Beth Crane and produced by Hedley Knights for Battle Bird Productions . All artwork and graphics by Beth Crane, all music by Hedley Knights CAST Francesca Mintowt-Czyz James Carney LOOKING FOR WAYS TO SUPPORT WE FIX SPACE JUNK? You can join our Patreon or send us a one-off donation on Ko-Fi or PayPal ! If you’re looking for something we’ve advertised, visit our affiliate partner page ! We’ve also got a wide range of merch available on our TeePublic , Spreadshirt and Etsy pages! FIND US ON SOCIAL MEDIA TWITTER: twitter.com/WeFixSpaceJunk // twitter.com/battlebirdprod // twitter.com/Automnicon FACEBOOK: facebook.com/WeFixSpaceJunk // facebook.com/BattleBirdProd INSTAGRAM: instagram.com/battlebirdproductions TUMBLR: wefixspacejunk.tumblr.com TIKTOK: tiktok.com/@wefixspacejunk WEBSITE: battlebird.productions Heard an ad you think shouldn't be here? Get in touch Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a4ae74c4-0f0d-11ec-9a05-4fef844669d8/image/dc6d0a8dcd7250943fa1dc46e116387058fd24be8084485d905b9c2e0c545cf234287120103f24633b84b739c134c366dfc1a14cb0989ad2d264193afddd2938.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/a4ae74c4-0f0d-11ec-9a05-4fef844669d8/image/f03230a3598da28a538bcf8a130f2831.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO7803559779.mp3?updated=1639753013",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -1244,7 +1244,7 @@
       "published_at": "2018-06-25T05:30:00+00:00",
       "link": "https://art19.com/shows/we-fix-space-junk/episodes/b9b41918-e39b-4247-8c24-a0eca894c1ec",
       "description": "This week Marilyn learns about A.I.s, humans, love and coffee shops. Looking for ad-free episodes? Check out our Patreon feed! For a full transcript of the episode and content warnings click here or visit battlebird.productions and click transcripts ! Written by Beth Crane and produced by Hedley Knights for Battle Bird Productions . All artwork and graphics by Beth Crane, all music by Hedley Knights CAST Francesca Mintowt-Czyz James Carney LOOKING FOR WAYS TO SUPPORT WE FIX SPACE JUNK? You can join our Patreon or send us a one-off donation on Ko-Fi or PayPal ! If you’re looking for something we’ve advertised, visit our affiliate partner page ! We’ve also got a wide range of merch available on our TeePublic , Spreadshirt and Etsy pages! FIND US ON SOCIAL MEDIA TWITTER: twitter.com/WeFixSpaceJunk // twitter.com/battlebirdprod // twitter.com/Automnicon FACEBOOK: facebook.com/WeFixSpaceJunk // facebook.com/BattleBirdProd INSTAGRAM: instagram.com/battlebirdproductions TUMBLR: wefixspacejunk.tumblr.com TIKTOK: tiktok.com/@wefixspacejunk WEBSITE: battlebird.productions Heard an ad you think shouldn't be here? Get in touch Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a66664e8-0f0d-11ec-9a05-478c5cb054d4/image/f3de04af4991ad6c4794d4af505e43ea9ffa4e5a0dd92664745ca127c3100dea0b8ff9a968fe51172b0ec20a0abfa8008de18679d2d59bf95cde1a3b7e96fb95.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/a66664e8-0f0d-11ec-9a05-478c5cb054d4/image/f03230a3598da28a538bcf8a130f2831.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO9975609762.mp3?updated=1639752657",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -1261,7 +1261,7 @@
       "published_at": "2018-06-18T05:30:00+00:00",
       "link": "https://art19.com/shows/we-fix-space-junk/episodes/7d7ef842-d0e6-4be8-8e7f-5dbfe6d09663",
       "description": "In which Marilyn gets to grip with her new life... In Episode 7 of We Fix Space Junk we met Marilyn. She's half Gontanan (giant wasp) quarter Human (the reluctant father, Jault) and a quarter cow... (from the steak they were implanted in). Suffice to say, Marilyn has many questions about who she is, what she is, the universe she was 'born' into and her place in it! Looking for ad-free episodes? Check out our Patreon feed! ﻿ For a full transcript of the episode and content warnings click here or visit battlebird.productions and click transcripts ! Written by Beth Crane and produced by Hedley Knights for Battle Bird Productions . All artwork and graphics by Beth Crane, all music by Hedley Knights CAST Francesca Mintowt-Czyz James Carney (of the fantastic Unseen Hour ) LOOKING FOR WAYS TO SUPPORT WE FIX SPACE JUNK? You can join our Patreon or send us a one-off donation on Ko-Fi or PayPal ! If you’re looking for something we’ve advertised, visit our affiliate partner page ! We’ve also got a wide range of merch available on our TeePublic , Spreadshirt and Etsy pages! FIND US ON SOCIAL MEDIA TWITTER: twitter.com/WeFixSpaceJunk // twitter.com/battlebirdprod // twitter.com/Automnicon FACEBOOK: facebook.com/WeFixSpaceJunk // facebook.com/BattleBirdProd INSTAGRAM: instagram.com/battlebirdproductions TUMBLR: wefixspacejunk.tumblr.com TIKTOK: tiktok.com/@wefixspacejunk WEBSITE: battlebird.productions Heard an ad you think shouldn't be here? Get in touch Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a6ae35d4-0f0d-11ec-9a05-cb56613d9599/image/7eb6352d0ad42bbc72bc71bad506282d47ad18fef089583db1a1d43fa872614a2aca7f68c0d1c9c982ee3e8b5d6efef7b24dc3182e7d81e8be800bab4618eca7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/a6ae35d4-0f0d-11ec-9a05-cb56613d9599/image/f03230a3598da28a538bcf8a130f2831.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO6352044920.mp3?updated=1639752578",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -1278,7 +1278,7 @@
       "published_at": "2018-06-04T05:00:00+00:00",
       "link": "https://art19.com/shows/we-fix-space-junk/episodes/82766cd5-0fdb-41c0-a20c-c4acb22f1b49",
       "description": "The trailer for our new mini-series, Marilyn's Diary, coming on June 18th! (and released a week early for $2+ Patreon supporters!) Looking for ad-free episodes? Check out our Patreon feed! Written by Beth Crane and produced by Hedley Knights for Battle Bird Productions . All artwork and graphics by Beth Crane, all music by Hedley Knights LOOKING FOR WAYS TO SUPPORT WE FIX SPACE JUNK? You can join our Patreon or send us a one-off donation on Ko-Fi or PayPal ! If you’re looking for something we’ve advertised, visit our affiliate partner page ! We’ve also got a wide range of merch available on our TeePublic , Spreadshirt and Etsy pages! FIND US ON SOCIAL MEDIA TWITTER: twitter.com/WeFixSpaceJunk // twitter.com/battlebirdprod // twitter.com/Automnicon FACEBOOK: facebook.com/WeFixSpaceJunk // facebook.com/BattleBirdProd INSTAGRAM: instagram.com/battlebirdproductions TUMBLR: wefixspacejunk.tumblr.com TIKTOK: tiktok.com/@wefixspacejunk WEBSITE: battlebird.productions Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a703f0e6-0f0d-11ec-9a05-27a3249a5f23/image/eb5d573faa733954a3bda671e141ef139a7363cf1c976e1589e6dcab1056aef3444ff4b39c17b0f6b33fa53f6b6162320b7462ee75f6fab8e42adbfb504eebe9.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/a703f0e6-0f0d-11ec-9a05-27a3249a5f23/image/f03230a3598da28a538bcf8a130f2831.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO5677863431.mp3?updated=1662976848",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -1413,7 +1413,7 @@
       "published_at": "2018-03-18T12:00:00+00:00",
       "link": "https://art19.com/shows/we-fix-space-junk/episodes/fb1e2348-4980-4394-bdc9-8a38f79ad25e",
       "description": "In which Kilner picks up a suspect package and Samantha flees from the law. Looking for ad-free episodes? Check out our Patreon feed! For a full transcript of the episode and content warnings click here or visit battlebird.productions and click transcripts ! Written by Beth Crane and produced by Hedley Knights for Battle Bird Productions . All artwork and graphics by Beth Crane, all music by Hedley Knights CAST Beth Crane Becky Evans Jack Carmichael Hedley Knights Chris Montague Rosie Alys Aaron Simmonds Krystal Hewitt LOOKING FOR WAYS TO SUPPORT WE FIX SPACE JUNK? You can join our Patreon or send us a one-off donation on Ko-Fi or PayPal ! If you’re looking for something we’ve advertised, visit our affiliate partner page ! We’ve also got a wide range of merch available on our TeePublic , Spreadshirt and Etsy pages! FIND US ON SOCIAL MEDIA TWITTER: twitter.com/WeFixSpaceJunk // twitter.com/battlebirdprod // twitter.com/Automnicon FACEBOOK: facebook.com/WeFixSpaceJunk // facebook.com/BattleBirdProd INSTAGRAM: instagram.com/battlebirdproductions TUMBLR: wefixspacejunk.tumblr.com TIKTOK: tiktok.com/@wefixspacejunk WEBSITE: battlebird.productions Heard an ad you think shouldn't be here? Get in touch Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a9a01b90-0f0d-11ec-9a05-37460aec4207/image/ca4ad31bb3a961ce996144558b8767972d60ab91b633d054e2610839119f014369e51d6bc29bc98b9d4b041183009fce7d92085aff4601360a0177be26eba6ed.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/a9a01b90-0f0d-11ec-9a05-37460aec4207/image/0d1ba52ce4cb5153b26cf424b637f4ba.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO6695174439.mp3?updated=1636032822",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
