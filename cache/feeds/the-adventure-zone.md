@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-04-02T13:58:37+00:00`
-- checked_at: `2026-04-02T13:58:37+00:00`
-- etag: `"8887ca34ed315ec1f52227a55df6f653"`
-- last_modified: `Thu, 02 Apr 2026 11:00:16 GMT`
+- fetched_at: `2026-04-16T14:16:41+00:00`
+- checked_at: `2026-04-16T14:16:41+00:00`
+- etag: `"cb3fe52311ce54f25c4d85f79ecff2d1"`
+- last_modified: `Thu, 16 Apr 2026 11:00:15 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-04-02T13:58:37+00:00",
+  "fetched_at": "2026-04-16T14:16:41+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "9dc926d09efab99e0279d987795c04c0cf5bbce3",
+      "title": "The Adventure Zone Royale: Episode 22",
+      "published_at": "2026-04-16T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-royale-episode-22-kik5VZU5",
+      "description": "The Trial of Necromancy, Part I Only 14 wizards are left -- alive! The remainder must face their fallen competitors and survive the night in a house with zombies . . . as well as with their murderous living rivals. Royale Theme: “Wizard Disco” by Louie Zong: https://louiezong.bandcamp.com/album/wizard-disco Original Music by Griffin McElroy Additional Music in this Episode: tribute to eddy\" by Jean Toba: https://jeantoba.blogspot.com/; “Oneiri” by Kai Engel http://www.kai-engel.com/; and \"Rust Colony\" by ROZKOL: https://rozkol.bandcamp.com/. Marsha P. Johnson Institute: https://marshap.org/",
+      "image_url": null,
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/15a3af76-a046-4928-8a13-9c5590e2a008/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=15a3af76-a046-4928-8a13-9c5590e2a008&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75552474",
+      "itunes_duration": "01:06:39",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "royale"
+      ]
+    },
     {
       "key": "8f957dd26fc6b0ee187c55c8eaaeee75dcb860de",
       "title": "The Adventure Zone Royale: Episode 21",
@@ -7878,6 +7896,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — The Adventure Zone Royale: Episode 22
 - 2026-04-02 — The Adventure Zone Royale: Episode 21
 - 2026-03-19 — The Adventure Zone Royale: Episode 20
 - 2026-03-05 — The Adventure Zone Royale: Episode 19
