@@ -2,10 +2,10 @@
 
 - slug: `analog-science-fiction-fact`
 - source: `https://analogsf.podomatic.com/rss2.xml`
-- fetched_at: `2026-04-16T03:49:17+00:00`
-- checked_at: `2026-04-16T03:49:17+00:00`
-- etag: `"3e8c31e7da01e866868c750df52b40ba"`
-- last_modified: `Sat, 04 Apr 2026 16:38:02 GMT`
+- fetched_at: `2026-04-16T19:39:39+00:00`
+- checked_at: `2026-04-16T19:39:39+00:00`
+- etag: `W/"4e6ae7060e9047c3824c3ba5450ed396-gzip"`
+- last_modified: `Thu, 16 Apr 2026 16:59:53 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.podomatic.com/podcasts/analogsf",
   "description": "Fiction and features from editors, authors, and new issues of Analog Science Fiction & Fact, the longest continuously running science fiction magazine.",
   "image_url": "https://assets.podomatic.net/ts/bd/dc/ec/ehockaday/1400x1400_14516937.jpg",
-  "fetched_at": "2026-04-16T03:49:17+00:00",
+  "fetched_at": "2026-04-16T19:39:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "fiction/audiobook"
   ],
   "episodes": [
+    {
+      "key": "70263dc0d1849f36c522d56c45299f9d7253b0b5",
+      "title": "Episode 15: Genius, Borrowed and Brief by Julia Darcey",
+      "published_at": "2026-04-16T16:59:32+00:00",
+      "link": "https://www.podomatic.com/podcasts/analogsf/episodes/2026-04-16T09_59_32-07_00",
+      "description": "Grayson George is a digital art grad student who makes mediocre fractal art. Late one night, he discovers a computer program that created a masterpiece, entrancing everyone who sees it. Grayson claims the program's spectacular work, and all of its subsequent artworks, as his own. How long will Grayson continue living a lie? Find out in “Genius, Borrowed and Brief,” read and written by Julia Darcey.",
+      "image_url": "https://assets.podomatic.net/ts/bd/dc/ec/ehockaday/1400x1400_17744005.jpg",
+      "enclosure_url": "https://analogsf.podomatic.com/enclosure/2026-04-16T09_59_32-07_00.mp3?_=1776358777.17744003",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33873036",
+      "itunes_duration": "1905",
+      "speakers": [
+        "Grayson George"
+      ],
+      "topics": [
+        "genius",
+        "borrowed",
+        "brief",
+        "julia",
+        "darcey"
+      ]
+    },
     {
       "key": "944fd63aa040d9043ae3879f48671a8f633fc679",
       "title": "Episode 14: The Robot and the Winding Woods by Brenda Cooper",
@@ -712,6 +734,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — Episode 15: Genius, Borrowed and Brief by Julia Darcey — speakers: Grayson George
 - 2025-11-26 — Episode 14: The Robot and the Winding Woods by Brenda Cooper — speakers: Brenda Cooper
 - 2025-10-22 — Episode 13: Lady Ballistic: Fast and Accurate Cleaning by Alex Jablokov — speakers: Alex Jablokov Sirina
 - 2025-09-11 — Episode 12: Last Dam Standing by Dawn Vogel — speakers: Dawn Vogel, Cara Blake
