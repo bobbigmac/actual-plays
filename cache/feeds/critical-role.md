@@ -2,10 +2,10 @@
 
 - slug: `critical-role`
 - source: `https://feeds.simplecast.com/LXz4Q9rJ`
-- fetched_at: `2026-04-16T19:39:39+00:00`
-- checked_at: `2026-04-16T19:39:39+00:00`
-- etag: `"4f2977fbf6fff3abfd91551e05be5a79"`
-- last_modified: `Thu, 16 Apr 2026 17:00:21 GMT`
+- fetched_at: `2026-04-16T22:01:35+00:00`
+- checked_at: `2026-04-16T22:01:35+00:00`
+- etag: `"68157ea2032c2cb8840fa4af50aabfaa"`
+- last_modified: `Thu, 16 Apr 2026 19:40:13 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.siriusxm.com",
   "description": "Welcome to Critical Role, home of a bunch of nerdy-ass voice actors playing tabletop roleplaying games! Enter a world of glorious imagination and improvisation with a group of the finest collaborative storytellers around. Here you’ll find our TTRPG and adjacent shows, including Critical Role, Exandria Unlimited, 4-Sided Dive, and a growing selection of one-shots.",
   "image_url": "https://image.simplecastcdn.com/images/a74173a8-254a-45ff-aee0-b0cd0458d7f1/b6c4a701-8e4f-402c-8cb3-691faaf1ab38/3000x3000/bfff4761a218248e.jpeg?aid=rss_feed",
-  "fetched_at": "2026-04-16T19:39:39+00:00",
+  "fetched_at": "2026-04-16T22:01:35+00:00",
   "owners": [
     "Matthew Mercer",
     "Marisha Ray",
@@ -40,7 +40,7 @@
       "title": "Welcome Back to Weirdsville | Weird Kids Returns on May 5th",
       "published_at": "2026-04-16T17:00:00+00:00",
       "link": "https://www.siriusxm.com",
-      "description": "Get your ticket to Hollyweird with magnificent misfits Ashley Johnson and Taliesin Jaffe as they explore their favorite oddities, dive into their pasts as iconic child actors, and celebrate all the truly bizarre things that set them apart. From classic toys to the underground haunts of LA, you're invited along as our dynamic duo explore their eccentricities at home and abroad and share their favorite tastes, tales, and travels from all over the weird wide world. 24 oddball new episodes drop this May 5th, exclusively on Beacon.tv! ------------------------------------ Producers: Maxwell James & Will Lamborn Associate Producer: Parker Smith Garden Photography: Hanna Armour | https://www.instagram.com/photosbyhanna Dollhouse Photography: by Michael Schmidt | https://www.instagram.com/divalicious Wardrobe: Jennifer Newman | https://www.instagram.com/jennernugen Make up: Dre Ronayne | https://www.instagram.com/dreronaynemakeup Theme Song: Dave Heatwave | https://www.instagram.com/daveheatwave Animation: Max Schapiro ------------------------------------ Only on Beacon: https://beacon.tv/weirdkids Learn more at: https://critrole.com/weirdkids Get a copy of our Zine: http://beacon.tv/wkzine BEACON We’re excited to bring you even MORE with a Beacon membership! Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to the shows you love completely ad-free! You’ll receive NEW Beacon exclusive series, instant access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. Follow Weird Kids! Instagram: https://www.instagram.com/theweirdkidspod TikTok: https://www.tiktok.com/@hellobeacon YouTube: https://www.youtube.com/@TheWeirdKidsPod Mail Bag: http://bit.ly/WKMailBag Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "description": "Get your ticket to Hollyweird with magnificent misfits Ashley Johnson and Taliesin Jaffe as they explore their favorite oddities, dive into their pasts as iconic child actors, and celebrate all the truly bizarre things that set them apart. From classic toys to the underground haunts of LA, you're invited along as our dynamic duo explore their eccentricities at home and abroad and share their favorite tastes, tales, and travels from all over the weird wide world. New episodes drop weekly, starting on May 5th, exclusively on Beacon.tv! ------------------------------------ Producers: Maxwell James & Will Lamborn Associate Producer: Parker Smith Garden Photography: Hanna Armour | https://www.instagram.com/photosbyhanna Dollhouse Photography: by Michael Schmidt | https://www.instagram.com/divalicious Wardrobe: Jennifer Newman | https://www.instagram.com/jennernugen Make up: Dre Ronayne | https://www.instagram.com/dreronaynemakeup Theme Song: Dave Heatwave | https://www.instagram.com/daveheatwave Animation: Max Schapiro ------------------------------------ Only on Beacon: https://beacon.tv/weirdkids Learn more at: https://critrole.com/weirdkids Get a copy of our Zine: http://beacon.tv/wkzine BEACON We’re excited to bring you even MORE with a Beacon membership! Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to the shows you love completely ad-free! You’ll receive NEW Beacon exclusive series, instant access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. Follow Weird Kids! Instagram: https://www.instagram.com/theweirdkidspod TikTok: https://www.tiktok.com/@hellobeacon YouTube: https://www.youtube.com/@TheWeirdKidsPod Mail Bag: http://bit.ly/WKMailBag Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "image_url": null,
       "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/a6377a35-5da0-4aee-ae4a-04ffc37e3e02/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=a6377a35-5da0-4aee-ae4a-04ffc37e3e02&feed=LXz4Q9rJ",
       "enclosure_type": "audio/mpeg",
