@@ -2,8 +2,8 @@
 
 - slug: `dndark`
 - source: `https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40`
-- fetched_at: `2026-04-16T03:49:17+00:00`
-- checked_at: `2026-04-16T03:49:17+00:00`
+- fetched_at: `2026-04-16T08:06:14+00:00`
+- checked_at: `2026-04-16T08:06:14+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/dndark",
   "description": "A comedy/horror D&D Actual Play Podcast starring some of history's most iconic monsters",
   "image_url": "https://media.redcircle.com/images/2025/4/2/20/c89246be-6b46-429a-909e-1e4e1bd26ad0_846-8b2d-746b3b4b007c_received_702201047512802.jpg",
-  "fetched_at": "2026-04-16T03:49:17+00:00",
+  "fetched_at": "2026-04-16T08:06:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -740,6 +740,166 @@
       ]
     },
     {
+      "key": "8772dc01876e7e06aced47c88cdd999d3b4b6967",
+      "title": "Table Talk - Interview with Neil (Fey Earth)",
+      "published_at": "2025-04-24T12:40:00+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The eighth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Neil, creator of the upcoming indie TTRPG Fey Earth, and discusses his research into European Folklore and advice for creating indie and 3rd party TTRPG content. Back Hidden Folk of the Feywild: https://www.kickstarter.com/projects/brambleheartgames/hidden-folk-of-the-feywild Check out Neil's work: Neil's Games: https://fey-earth.itch.io/ Neil's BlueSky: https://bsky.app/profile/feyearth.bsky.social Neil's YouTube: https://www.youtube.com/@feyearth Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/",
+      "image_url": "https://media.redcircle.com/images/2025/3/4/23/b636240e-f9f5-4bb1-acef-79a8a0eab02f_dndark_interview_thimbnail.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/06d1be6b-9a2b-4c1a-b3ba-629982459e80/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38746070",
+      "itunes_duration": "2421",
+      "speakers": [],
+      "topics": [
+        "table",
+        "talk",
+        "neil",
+        "earth"
+      ]
+    },
+    {
+      "key": "a0f0e00b5b94e5504486bbda743f0df619cb4370",
+      "title": "Table Talk - Interview with Brigitte Winter (Scryptid Games)",
+      "published_at": "2025-04-24T12:35:00+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The seventh episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Brigitte Winter from the award-winning indie TTRPG company Scryptid Games, and discusses her path and process into creating TTRPGs. Order Psychic Trash Detectives: https://scryptidgames.com/products/psychic-trash-detectives Preorder Golden Good Girls: https://scryptidgames.com/products/golden-good-girls Check out Brigitte's work: Brigitte's website: https://www.brigittewinter.com/ Brigitte's Instagram: https://www.instagram.com/bwinterose Brigitte's BlueSky: https://bsky.app/profile/brigittewinter.bsky.social Brigitte's Games: https://brigittewinter.itch.io/ Brigitte's Nonprofit Work: https://youngplaywrightstheater.org/ More From Scryptid Games: Scryptid's Website: https://scryptidgames.com/ Scryptid's Instagram: https://www.instagram.com/scryptidgames/ Scryptid's BlueSky: https://bsky.app/profile/scryptidgames.bsky.social Scryptid's Discord: https://discord.gg/E9cC6WrCsC Support Assemblage: https://www.backerkit.com/call_to_action/c9586024-69bc-4cbe-972b-566aa25baf37/landing?syclid=cugmaeojp7pc73dokh30 Listen to the Against the Gloom Album: https://youtu.be/-a1BQTI9Zxc?si=1NJTC_RIn0OCnYzI Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/",
+      "image_url": "https://media.redcircle.com/images/2025/2/18/17/4b559eed-3662-4ad8-873c-7bf446948e0a_dndark_interview_thimbnail.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/e24edf02-babf-473f-b634-fe225b833095/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37984130",
+      "itunes_duration": "2374",
+      "speakers": [],
+      "topics": [
+        "table",
+        "talk",
+        "brigitte",
+        "winter",
+        "scryptid",
+        "games"
+      ]
+    },
+    {
+      "key": "99e5343b35b14174b292f285d04c7c3024d27911",
+      "title": "Table Talk - Interview with The Infinite Tavern",
+      "published_at": "2025-04-24T12:30:00+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The sixth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Amaan and Raghav (AKA Anorak) from the CRIT Award Winning Podcast: The Infinite Tavern, and discusses the culture of Table Talk gaming communities in India. Listen and Watch The Infinite Tavern: Spotify: https://open.spotify.com/show/7yl2IVHwB2jQ5m7XaCEzxx?si=f6e0de47440c4f0a Youtube: https://www.youtube.com/@TheInfiniteTavern Follow them on their socials: Discord: https://discord.gg/jKqc8JRjwa Infinite Tavern Twitter: https://x.com/TavernInfinite Infinite Tavern Instagram: https://instagram.com/infinitetavern Amaan's Bluesky: https://amaanhk.bsky.social Amaan's Instagram: https://instagram.com/amaanhk Amaan's Youtube: https://youtube.com/@amaanhk Amaan's Twitter: https://x.com/AmaanHK Raghav's Instagram: https://instagram.com/the_poluri Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/",
+      "image_url": "https://media.redcircle.com/images/2025/1/21/8/511ec0ff-9809-4c6c-b6f7-63c59e2a6359_dndark_interview_thimbnail.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/b587eef5-a860-4fc4-9412-9678e6c86a9b/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39718243",
+      "itunes_duration": "2482",
+      "speakers": [],
+      "topics": [
+        "table",
+        "talk",
+        "infinite",
+        "tavern"
+      ]
+    },
+    {
+      "key": "88f54ad586ba4a4d829c2a09b00b2d217a5762a2",
+      "title": "Table Talk - Interview with Ian The Wolf Man (The Monster Archives)",
+      "published_at": "2025-04-24T12:25:00+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The fifth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Ian the Wolf Man, host of the show: The Monster Archives, and discusses what is necessary for successful adaptations of the classic monsters. Listen to the Monster Archives: Spotify - https://open.spotify.com/show/6usRqPjWcWqQJAtldebnPA?si=1dc79b782f6c4d5f Apple Podcasts - https://podcasts.apple.com/us/podcast/the-monster-archives/id1749859381 Check out more from Ian on his socials: https://www.instagram.com/universalstudiosmonsters/ https://www.instagram.com/ian_thewolfman/ Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: @JeremyVillucci_WreckOfTime.",
+      "image_url": "https://media.redcircle.com/images/2024/11/27/10/a5f3c149-59d4-4942-8bb3-2161d7e7d275_4-a09d-6641e7729f82_dndark_interview_thimbnail.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/e9289cfc-f1c4-4ea0-b62d-f458e32c589c/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48000522",
+      "itunes_duration": "3000",
+      "speakers": [
+        "Wolf Man"
+      ],
+      "topics": [
+        "table",
+        "talk",
+        "wolf",
+        "monster",
+        "archives"
+      ]
+    },
+    {
+      "key": "e80f7522dc71512e4475a5d1ec9ff38f8290ad70",
+      "title": "Table Talk - Interview with Jem (Goodberry Cafe)",
+      "published_at": "2025-04-24T12:20:00+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The fourth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Jem from the live stream actual play show: Goodberry Cafe, and discusses the ins and outs of One-Shots. Watch Goodberry Cafe live on the New Age Geeks channel: https://www.twitch.tv/new_age_geeks https://www.youtube.com/@New_Age_Geeks Check out more from Jem on her socials: TikTok/Twitter - @jemboree Instagram/Threads - @jemaginative Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: @JeremyVillucci_WreckOfTime.",
+      "image_url": "https://media.redcircle.com/images/2024/9/27/7/3fe7d2f1-37cb-49a8-a61e-e75e6b1ed8a9_dndark_interview_thimbnail.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/5fb7f49a-2911-455e-a4a5-9bbbc52e9c4c/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32116401",
+      "itunes_duration": "2007",
+      "speakers": [
+        "Goodberry Cafe"
+      ],
+      "topics": [
+        "table",
+        "talk",
+        "goodberry",
+        "cafe"
+      ]
+    },
+    {
+      "key": "94e0ee7e9eec0e324a747da68d9f78a1abd4e0af",
+      "title": "Table Talk - Interview with Cece (Queer and Present Danger)",
+      "published_at": "2025-04-24T12:15:00+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The third episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Cece (AKA kolaamay) from the live stream actual play: Queer and Present Danger, and discusses the process of creating and conceptualizing a homebrew campaign. Watch Queer and Present Danger live on the New Age Geeks channel: https://www.twitch.tv/new_age_geeks https://www.youtube.com/@New_Age_Geeks Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: @JeremyVillucci_WreckOfTime.",
+      "image_url": "https://media.redcircle.com/images/2024/8/29/5/bc8e8857-5ab0-4e1a-90c3-9a0a2658002f_f-a80d-f91d37ce1961_dndark_interview_thimbnail.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/08316917-acb6-488d-b785-ec2f204d993d/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35926099",
+      "itunes_duration": "2245",
+      "speakers": [],
+      "topics": [
+        "table",
+        "talk",
+        "cece",
+        "queer",
+        "present",
+        "danger"
+      ]
+    },
+    {
+      "key": "7e61649daa99aa53024e9548eefb4f8a184e3ec0",
+      "title": "Table Talk - Interview with Dread and Breakfast",
+      "published_at": "2025-04-24T12:10:00+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The second episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Marissa, Fabrice, Christine and Jacob from the Dread and Breakfast Podcast and discusses the intricacies of making an actual play show from the Dread TTRPG. Dread and Breakfast Links Website: https://dandbpod.com Podlink: https://pod.link/1529476065 Instagram: https://www.instagram.com/DandBPod Twitter/X: https://x.com/DreadAndBfast Youtube: https://www.youtube.com/channel/UC7wGH-3wbRZ6daXSF9L3qjg Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: @JeremyVillucci_WreckOfTime.",
+      "image_url": "https://media.redcircle.com/images/2024/8/23/21/7df3c947-bd6e-46e8-abce-529835eb5258_5-9049-a05010cc48bd_dndark_interview_thimbnail.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/4876de33-6918-4934-9c3d-ed0f2a702227/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40621871",
+      "itunes_duration": "2538",
+      "speakers": [],
+      "topics": [
+        "table",
+        "talk",
+        "dread",
+        "breakfast"
+      ]
+    },
+    {
+      "key": "31bf32b32574cf25b3602f58ec34fc31bd7b60c6",
+      "title": "Table Talk - Interview with Kav (OWDCast)",
+      "published_at": "2025-04-24T12:00:00+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "Introducing Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Kav from the Only Wizards in the Dungeon Podcast (OWDCast) and discusses his experiences running campaigns in over a dozen different TTRPG systems and making Actual Play content out of 9 of them and counting! Only Wizards in the Dungeon: https://rss.com/podcasts/owdcast/ Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: @JeremyVillucci_WreckOfTime.",
+      "image_url": "https://media.redcircle.com/images/2024/8/23/21/c950fa41-f436-4e4a-8cd0-f348843fbf26_4-ad92-5a928fc752b7_dndark_interview_thimbnail.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/7eb3d0c5-57a5-4bd9-9d46-44d35ab982c7/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34900427",
+      "itunes_duration": "2181",
+      "speakers": [],
+      "topics": [
+        "table",
+        "talk",
+        "owdcast"
+      ]
+    },
+    {
       "key": "11334efc689003dac3e59c6ebd320c416041abed",
       "title": "S1 Epilogue: Lets All Have a Ball",
       "published_at": "2025-04-23T12:05:00+00:00",
@@ -843,46 +1003,6 @@
       ]
     },
     {
-      "key": "8772dc01876e7e06aced47c88cdd999d3b4b6967",
-      "title": "Table Talk - Interview with Neil (Fey Earth)",
-      "published_at": "2025-03-05T13:00:00+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "The eighth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Neil, creator of the upcoming indie TTRPG Fey Earth, and discusses his research into European Folklore and advice for creating indie and 3rd party TTRPG content. Back Hidden Folk of the Feywild: https://www.kickstarter.com/projects/brambleheartgames/hidden-folk-of-the-feywild Check out Neil's work: Neil's Games: https://fey-earth.itch.io/ Neil's BlueSky: https://bsky.app/profile/feyearth.bsky.social Neil's YouTube: https://www.youtube.com/@feyearth Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/",
-      "image_url": "https://media.redcircle.com/images/2025/3/4/23/b636240e-f9f5-4bb1-acef-79a8a0eab02f_dndark_interview_thimbnail.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/06d1be6b-9a2b-4c1a-b3ba-629982459e80/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "38746070",
-      "itunes_duration": "2421",
-      "speakers": [],
-      "topics": [
-        "table",
-        "talk",
-        "neil",
-        "earth"
-      ]
-    },
-    {
-      "key": "a0f0e00b5b94e5504486bbda743f0df619cb4370",
-      "title": "Table Talk - Interview with Brigitte Winter (Scryptid Games)",
-      "published_at": "2025-02-19T13:00:00+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "The seventh episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Brigitte Winter from the award-winning indie TTRPG company Scryptid Games, and discusses her path and process into creating TTRPGs. Order Psychic Trash Detectives: https://scryptidgames.com/products/psychic-trash-detectives Preorder Golden Good Girls: https://scryptidgames.com/products/golden-good-girls Check out Brigitte's work: Brigitte's website: https://www.brigittewinter.com/ Brigitte's Instagram: https://www.instagram.com/bwinterose Brigitte's BlueSky: https://bsky.app/profile/brigittewinter.bsky.social Brigitte's Games: https://brigittewinter.itch.io/ Brigitte's Nonprofit Work: https://youngplaywrightstheater.org/ More From Scryptid Games: Scryptid's Website: https://scryptidgames.com/ Scryptid's Instagram: https://www.instagram.com/scryptidgames/ Scryptid's BlueSky: https://bsky.app/profile/scryptidgames.bsky.social Scryptid's Discord: https://discord.gg/E9cC6WrCsC Support Assemblage: https://www.backerkit.com/call_to_action/c9586024-69bc-4cbe-972b-566aa25baf37/landing?syclid=cugmaeojp7pc73dokh30 Listen to the Against the Gloom Album: https://youtu.be/-a1BQTI9Zxc?si=1NJTC_RIn0OCnYzI Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/",
-      "image_url": "https://media.redcircle.com/images/2025/2/18/17/4b559eed-3662-4ad8-873c-7bf446948e0a_dndark_interview_thimbnail.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/e24edf02-babf-473f-b634-fe225b833095/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "37984130",
-      "itunes_duration": "2374",
-      "speakers": [],
-      "topics": [
-        "table",
-        "talk",
-        "brigitte",
-        "winter",
-        "scryptid",
-        "games"
-      ]
-    },
-    {
       "key": "82a1d58b47a43ca9e0872d2151e5651a44da774b",
       "title": "S1 E76: The Devil's Bargain",
       "published_at": "2025-02-12T13:00:00+00:00",
@@ -915,25 +1035,6 @@
       ],
       "topics": [
         "storm"
-      ]
-    },
-    {
-      "key": "99e5343b35b14174b292f285d04c7c3024d27911",
-      "title": "Table Talk - Interview with The Infinite Tavern",
-      "published_at": "2025-01-22T13:00:00+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "The sixth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Amaan and Raghav (AKA Anorak) from the CRIT Award Winning Podcast: The Infinite Tavern, and discusses the culture of Table Talk gaming communities in India. Listen and Watch The Infinite Tavern: Spotify: https://open.spotify.com/show/7yl2IVHwB2jQ5m7XaCEzxx?si=f6e0de47440c4f0a Youtube: https://www.youtube.com/@TheInfiniteTavern Follow them on their socials: Discord: https://discord.gg/jKqc8JRjwa Infinite Tavern Twitter: https://x.com/TavernInfinite Infinite Tavern Instagram: https://instagram.com/infinitetavern Amaan's Bluesky: https://amaanhk.bsky.social Amaan's Instagram: https://instagram.com/amaanhk Amaan's Youtube: https://youtube.com/@amaanhk Amaan's Twitter: https://x.com/AmaanHK Raghav's Instagram: https://instagram.com/the_poluri Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/",
-      "image_url": "https://media.redcircle.com/images/2025/1/21/8/511ec0ff-9809-4c6c-b6f7-63c59e2a6359_dndark_interview_thimbnail.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/b587eef5-a860-4fc4-9412-9678e6c86a9b/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "39718243",
-      "itunes_duration": "2482",
-      "speakers": [],
-      "topics": [
-        "table",
-        "talk",
-        "infinite",
-        "tavern"
       ]
     },
     {
@@ -1008,28 +1109,6 @@
       ]
     },
     {
-      "key": "88f54ad586ba4a4d829c2a09b00b2d217a5762a2",
-      "title": "Table Talk - Interview with Ian The Wolf Man (The Monster Archives)",
-      "published_at": "2024-11-27T13:00:00+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "The fifth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Ian the Wolf Man, host of the show: The Monster Archives, and discusses what is necessary for successful adaptations of the classic monsters. Listen to the Monster Archives: Spotify - https://open.spotify.com/show/6usRqPjWcWqQJAtldebnPA?si=1dc79b782f6c4d5f Apple Podcasts - https://podcasts.apple.com/us/podcast/the-monster-archives/id1749859381 Check out more from Ian on his socials: https://www.instagram.com/universalstudiosmonsters/ https://www.instagram.com/ian_thewolfman/ Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: @JeremyVillucci_WreckOfTime.",
-      "image_url": "https://media.redcircle.com/images/2024/11/27/10/a5f3c149-59d4-4942-8bb3-2161d7e7d275_4-a09d-6641e7729f82_dndark_interview_thimbnail.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/e9289cfc-f1c4-4ea0-b62d-f458e32c589c/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "48000522",
-      "itunes_duration": "3000",
-      "speakers": [
-        "Wolf Man"
-      ],
-      "topics": [
-        "table",
-        "talk",
-        "wolf",
-        "monster",
-        "archives"
-      ]
-    },
-    {
       "key": "063db157d7c11f6cb592ab1579c567c6b6bf2754",
       "title": "S1 E70: Battletoads",
       "published_at": "2024-11-20T13:00:00+00:00",
@@ -1090,27 +1169,6 @@
       "topics": []
     },
     {
-      "key": "e80f7522dc71512e4475a5d1ec9ff38f8290ad70",
-      "title": "Table Talk - Interview with Jem (Goodberry Cafe)",
-      "published_at": "2024-10-02T12:00:00+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "The fourth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Jem from the live stream actual play show: Goodberry Cafe, and discusses the ins and outs of One-Shots. Watch Goodberry Cafe live on the New Age Geeks channel: https://www.twitch.tv/new_age_geeks https://www.youtube.com/@New_Age_Geeks Check out more from Jem on her socials: TikTok/Twitter - @jemboree Instagram/Threads - @jemaginative Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: @JeremyVillucci_WreckOfTime.",
-      "image_url": "https://media.redcircle.com/images/2024/9/27/7/3fe7d2f1-37cb-49a8-a61e-e75e6b1ed8a9_dndark_interview_thimbnail.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/5fb7f49a-2911-455e-a4a5-9bbbc52e9c4c/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "32116401",
-      "itunes_duration": "2007",
-      "speakers": [
-        "Goodberry Cafe"
-      ],
-      "topics": [
-        "table",
-        "talk",
-        "goodberry",
-        "cafe"
-      ]
-    },
-    {
       "key": "b9abbb2788d620782e3d10abb92432d2663646c2",
       "title": "S1 E66: Army of Darkness",
       "published_at": "2024-09-25T12:00:00+00:00",
@@ -1142,27 +1200,6 @@
       "topics": [
         "interrogation",
         "vampire"
-      ]
-    },
-    {
-      "key": "94e0ee7e9eec0e324a747da68d9f78a1abd4e0af",
-      "title": "Table Talk - Interview with Cece (Queer and Present Danger)",
-      "published_at": "2024-09-04T12:00:00+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "The third episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Cece (AKA kolaamay) from the live stream actual play: Queer and Present Danger, and discusses the process of creating and conceptualizing a homebrew campaign. Watch Queer and Present Danger live on the New Age Geeks channel: https://www.twitch.tv/new_age_geeks https://www.youtube.com/@New_Age_Geeks Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: @JeremyVillucci_WreckOfTime.",
-      "image_url": "https://media.redcircle.com/images/2024/8/29/5/bc8e8857-5ab0-4e1a-90c3-9a0a2658002f_f-a80d-f91d37ce1961_dndark_interview_thimbnail.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/08316917-acb6-488d-b785-ec2f204d993d/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "35926099",
-      "itunes_duration": "2245",
-      "speakers": [],
-      "topics": [
-        "table",
-        "talk",
-        "cece",
-        "queer",
-        "present",
-        "danger"
       ]
     },
     {
@@ -1198,25 +1235,6 @@
       ]
     },
     {
-      "key": "7e61649daa99aa53024e9548eefb4f8a184e3ec0",
-      "title": "Table Talk - Interview with Dread and Breakfast",
-      "published_at": "2024-08-07T12:00:00+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "The second episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Marissa, Fabrice, Christine and Jacob from the Dread and Breakfast Podcast and discusses the intricacies of making an actual play show from the Dread TTRPG. Dread and Breakfast Links Website: https://dandbpod.com Podlink: https://pod.link/1529476065 Instagram: https://www.instagram.com/DandBPod Twitter/X: https://x.com/DreadAndBfast Youtube: https://www.youtube.com/channel/UC7wGH-3wbRZ6daXSF9L3qjg Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: @JeremyVillucci_WreckOfTime.",
-      "image_url": "https://media.redcircle.com/images/2024/8/23/21/7df3c947-bd6e-46e8-abce-529835eb5258_5-9049-a05010cc48bd_dndark_interview_thimbnail.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/4876de33-6918-4934-9c3d-ed0f2a702227/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "40621871",
-      "itunes_duration": "2538",
-      "speakers": [],
-      "topics": [
-        "table",
-        "talk",
-        "dread",
-        "breakfast"
-      ]
-    },
-    {
       "key": "f1d58b6e748782c7ff4d6dcb037ea75eae1b559e",
       "title": "S1 E62: Fear the Reaper Part 2",
       "published_at": "2024-07-31T12:00:00+00:00",
@@ -1246,24 +1264,6 @@
       "speakers": [],
       "topics": [
         "reaper"
-      ]
-    },
-    {
-      "key": "31bf32b32574cf25b3602f58ec34fc31bd7b60c6",
-      "title": "Table Talk - Interview with Kav (OWDCast)",
-      "published_at": "2024-07-10T12:00:00+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "Introducing Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Kav from the Only Wizards in the Dungeon Podcast (OWDCast) and discusses his experiences running campaigns in over a dozen different TTRPG systems and making Actual Play content out of 9 of them and counting! Only Wizards in the Dungeon: https://rss.com/podcasts/owdcast/ Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: @JeremyVillucci_WreckOfTime.",
-      "image_url": "https://media.redcircle.com/images/2024/8/23/21/c950fa41-f436-4e4a-8cd0-f348843fbf26_4-ad92-5a928fc752b7_dndark_interview_thimbnail.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/7eb3d0c5-57a5-4bd9-9d46-44d35ab982c7/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "34900427",
-      "itunes_duration": "2181",
-      "speakers": [],
-      "topics": [
-        "table",
-        "talk",
-        "owdcast"
       ]
     },
     {
@@ -2525,36 +2525,36 @@
 - 2025-05-07 — D&Dark Presents: Muppet Alien Part 2: Cabin Fever — speakers: Mental Instability
 - 2025-05-07 — D&Dark Presents Muppet Alien Part 1: The Weyland Connection
 - 2025-04-30 — Table Talk - Interview with Hannah Harper (HannahPlaysDnD) — speakers: Hannah Harper
+- 2025-04-24 — Table Talk - Interview with Neil (Fey Earth)
+- 2025-04-24 — Table Talk - Interview with Brigitte Winter (Scryptid Games)
+- 2025-04-24 — Table Talk - Interview with The Infinite Tavern
+- 2025-04-24 — Table Talk - Interview with Ian The Wolf Man (The Monster Archives) — speakers: Wolf Man
+- 2025-04-24 — Table Talk - Interview with Jem (Goodberry Cafe) — speakers: Goodberry Cafe
+- 2025-04-24 — Table Talk - Interview with Cece (Queer and Present Danger)
+- 2025-04-24 — Table Talk - Interview with Dread and Breakfast
+- 2025-04-24 — Table Talk - Interview with Kav (OWDCast)
 - 2025-04-23 — S1 Epilogue: Lets All Have a Ball
 - 2025-04-23 — S1 E80: Monster Mash Part 4
 - 2025-04-09 — S1 E79: Monster Mash Part 3
 - 2025-03-26 — S1 E78: Monster Mash Part 2
 - 2025-03-12 — S1 E77: Monster Mash Part 1
 - 2025-03-12 — Season 1 Recap (Ep. 41-75)
-- 2025-03-05 — Table Talk - Interview with Neil (Fey Earth)
-- 2025-02-19 — Table Talk - Interview with Brigitte Winter (Scryptid Games)
 - 2025-02-12 — S1 E76: The Devil's Bargain
 - 2025-01-29 — S1 E75: The Storm — speakers: Horror Dracula
-- 2025-01-22 — Table Talk - Interview with The Infinite Tavern
 - 2025-01-15 — S1 E74: The Calm — speakers: Suicide Under Duress, Warwick Castle
 - 2025-01-01 — S1 E73: Familiar Feelings — speakers: Warwick Castle
 - 2024-12-18 — S1 E72: Creature Feature Part 2
 - 2024-12-04 — S1 E71: Creature Feature Part 1
-- 2024-11-27 — Table Talk - Interview with Ian The Wolf Man (The Monster Archives) — speakers: Wolf Man
 - 2024-11-20 — S1 E70: Battletoads
 - 2024-11-06 — S1 E69: Now You Don't...
 - 2024-10-23 — S1 E68: Now You See Me...
 - 2024-10-09 — S1 E67: The Visible Man — speakers: Big Ben
-- 2024-10-02 — Table Talk - Interview with Jem (Goodberry Cafe) — speakers: Goodberry Cafe
 - 2024-09-25 — S1 E66: Army of Darkness
 - 2024-09-11 — S1 E65: Interrogation with the Vampire
-- 2024-09-04 — Table Talk - Interview with Cece (Queer and Present Danger)
 - 2024-08-28 — S1 E64: Hunter x Hunter
 - 2024-08-14 — S1 E63: No Moon at All
-- 2024-08-07 — Table Talk - Interview with Dread and Breakfast
 - 2024-07-31 — S1 E62: Fear the Reaper Part 2
 - 2024-07-17 — S1 E61: Fear the Reaper Part 1
-- 2024-07-10 — Table Talk - Interview with Kav (OWDCast)
 - 2024-07-03 — S1 E60: Toil and Trouble
 - 2024-06-19 — S1 E59: Something Wicked Here We Come
 - 2024-06-05 — S1 E58: Are You My Mummy? — speakers: Mild Gore
