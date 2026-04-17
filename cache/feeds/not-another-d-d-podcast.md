@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-04-10T03:43:46+00:00`
-- checked_at: `2026-04-10T03:43:46+00:00`
-- last_modified: `Fri, 10 Apr 2026 03:31:17 GMT`
+- fetched_at: `2026-04-17T03:47:25+00:00`
+- checked_at: `2026-04-17T03:47:25+00:00`
+- last_modified: `Thu, 16 Apr 2026 23:30:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-04-10T03:43:46+00:00",
+  "fetched_at": "2026-04-17T03:47:25+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,29 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "06db43fa1107dcfcf22069d21625a17dde30c4f6",
+      "title": "Gangs of Neo Galaderon - Ep. 3: Crack the Safe",
+      "published_at": "2026-04-16T23:30:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/a03d7c71-2ed6-49d4-8ef2-fdb34e1a2438",
+      "description": "The Kill Screens attempt to secure Petunia's fingerprint and access the Mothership safe! Slug demonstrates a firm handshake, Atom secures a sweet prize, and Aux plays the keyboard. Support us at Patreon.com/Naddpod to get access to the after-show and a bunch of other Naddpod content! Music / Sound Effects Include: \"Neo Galaderon\" by Emily Axford. \"The Prototype\" by Emily Axford. \"Atom\" by Emily Axford. \"Implicated\" by Emily Axford. \"The Gambling District\" by Emily Axford. \"Mothership Lobby\" by Emily Axford. \"Galavanting\" by Emily Axford. \"The Inkling Syndicate\" by Emily Axford. \"Cyberskitch\" by Emily Axford. \"Slug\" by Emily Axford. \"Paetina\" by Emily Axford. \"Corrupted\" by Emily Axford. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/dc/dd/ed/d7/dcddedd7-775d-4ba8-98e4-ae621cf3f38e/c566640cd685a08d878caeb0bdc2d22702e0263c06f67f0022824caed843465ea57443a0e57feb4c94eeda53edad555aaacf59345d45ccfb3e861f0f0cced7f7.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/a03d7c71-2ed6-49d4-8ef2-fdb34e1a2438.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73828728",
+      "itunes_duration": "01:16:54",
+      "speakers": [
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "gang",
+        "galaderon",
+        "safe"
+      ]
+    },
     {
       "key": "6c61c2f9dc04c4028aaba3a0ef4594ff8f6d803e",
       "title": "D&D Court: Sexy Squirrels, Powerful Turtles, and Shambling Mounds",
@@ -10880,6 +10903,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — Gangs of Neo Galaderon - Ep. 3: Crack the Safe — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-04-09 — D&D Court: Sexy Squirrels, Powerful Turtles, and Shambling Mounds — speakers: Powerful Turtles, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-04-02 — Gangs of Neo Galaderon - Ep. 2: Glenbottle Gala — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-03-26 — Gangs of Neo Galaderon - Ep. 1: The Kill Screens — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner

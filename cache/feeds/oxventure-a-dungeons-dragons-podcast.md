@@ -2,12 +2,10 @@
 
 - slug: `oxventure-a-dungeons-dragons-podcast`
 - source: `https://outsidexbox.libsyn.com/rss`
-- fetched_at: `2026-03-02T21:51:51+00:00`
-- checked_at: `2026-04-16T19:39:39+00:00`
-- last_modified: `Mon, 02 Mar 2026 20:46:54 GMT`
+- fetched_at: `2026-04-17T03:47:25+00:00`
+- checked_at: `2026-04-17T03:47:25+00:00`
+- last_modified: `Thu, 16 Apr 2026 22:42:22 GMT`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: The read operation timed out
 
 <!-- FEED_JSON -->
 ```json
@@ -19,7 +17,7 @@
   "link": "Geek.com",
   "description": "Are you looking for a Dungeons & Dragons improvised storytelling experience that contains jokes, as well as thrilling boss fights against unspeakable horrors? Oxventure: A Dungeons & Dragons Podcast brings you the hilarious, unruly fun of a tabletop RPG campaign with friends. Join Jane Douglas, Andy Farrant, Mike Channell, Ellen Rose, Luke Westaway and Johnny Chiodini for an audio adventure you won't want to miss, with bingeable complete seasons of chaos in D&D, Weird West horror in Deadlands, and urban gothic fantasy in Blades in the Dark. Listen to the Oxventure D&D Podcast wherever you get your podcasts. Oxventure is a part of the Geek Media Podcast Network, an IGN Entertainment Brand. |Visit Geek.com for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/fa7b297e-90ee-11ed-806e-1b2f85eac454/image/f0b5ff0c7d4ae38e979865868fee3328.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-02T21:51:51+00:00",
+  "fetched_at": "2026-04-17T03:47:25+00:00",
   "owners": [
     "Johnny Chiodini",
     "Andy Farrant",
@@ -5863,17 +5861,7 @@
         "caper"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-04-16T19:39:39+00:00",
-    "status": "error",
-    "checked_at": "2026-04-16T19:39:39+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "The read operation timed out"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
