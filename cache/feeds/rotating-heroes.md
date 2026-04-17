@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-04-10T10:17:55+00:00`
-- checked_at: `2026-04-10T10:17:55+00:00`
-- etag: `W/"84e77d450968ebe8f45e08424d0e2e46"`
-- last_modified: `Fri, 10 Apr 2026 09:00:10 GMT`
+- fetched_at: `2026-04-17T10:36:22+00:00`
+- checked_at: `2026-04-17T10:36:22+00:00`
+- etag: `W/"78775454fa9b26e1c7a118b56fc03b25"`
+- last_modified: `Fri, 17 Apr 2026 09:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,31 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-04-10T10:17:55+00:00",
+  "fetched_at": "2026-04-17T10:36:22+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "e23e651121aa943f7957e8a06c36f90375e2d271",
+      "title": "Axis Arc 2 Ep 3 - Through the Looking Glass PART 1",
+      "published_at": "2026-04-17T09:00:00+00:00",
+      "link": "https://audioboom.com/posts/8890694",
+      "description": "Our crew are in a tough spot as they come face to face with themselves! --- Support the brand new Force of Extinction Backerkit Here! GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
+      "image_url": "https://audioboom.com/i/43576245.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8890694.mp3?modified=1776328457&sid=5167570&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3677",
+      "speakers": [],
+      "topics": [
+        "axis",
+        "looking",
+        "glass"
+      ]
+    },
     {
       "key": "cb199fb3fbccfe780b0da475a5b82a5c29b0bf9b",
       "title": "Axis Arc 2 Ep 2: The Hangover PART 2",
@@ -2546,6 +2564,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-17 — Axis Arc 2 Ep 3 - Through the Looking Glass PART 1
 - 2026-04-10 — Axis Arc 2 Ep 2: The Hangover PART 2 — speakers: Axis Arc
 - 2026-04-03 — Axis Arc 2 Ep 2: The Hangover PART 1 — speakers: Axis Arc
 - 2026-03-27 — Axis Arc 2 Ep 1: Echos of Yesterday PART 2
