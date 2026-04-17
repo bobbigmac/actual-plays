@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-04-13T14:10:36+00:00`
-- checked_at: `2026-04-13T14:10:36+00:00`
-- etag: `"d4c688fce2bdc0451db861a86d971dda"`
+- fetched_at: `2026-04-17T13:59:54+00:00`
+- checked_at: `2026-04-17T13:59:54+00:00`
+- etag: `"f634174e264ab1bf3eaf6288e3c6f367"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/5111002/Dork_Tales_d20_20238mnn1.png",
-  "fetched_at": "2026-04-13T14:10:36+00:00",
+  "fetched_at": "2026-04-17T13:59:54+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "21de345904d1119c3cba1658fb6f21b56d252219",
+      "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 1: A Long Overdue Departure",
+      "published_at": "2026-04-17T13:42:00+00:00",
+      "link": "https://dorktales.podbean.com/e/mage-the-ascension-the-victorian-age-book-3-chapter-1-a-long-overdue-departure/",
+      "description": "Welcome to book three of Mage the Victorian Age! In this episode, the Doves finally set sail! Welcome to book two of Mage the Victorian Age! In the final episode of Book Two, the Doves confront the vile Dr. Escoffier. Thank you to Bookwyrm Games for sponsoring Dork Tales this month! Use code DORKTALES to save 15% at https://www.bookwyrmgames.com! Orders over $100 also enjoy free shipping! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage *** Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Evelyn Taylor *** Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktalescha... Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! *** Music credits: Music From Dark Fantasy Studio Hidden in the Dark These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vision of the Ancients Veil Entropy Dork Time Piano Alice Guitar Forthright Choir Exodus These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! https://www.tabletopaudio.com",
+      "image_url": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog5111002/Mage_Book_3Podcast_Logoabm7t.png",
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/yfg2wnukut6ng7eu/MVA3x1complete.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "129999340",
+      "itunes_duration": "8123",
+      "speakers": [
+        "Victorian Age",
+        "Long Overdue Departure Welcome"
+      ],
+      "topics": [
+        "ascension",
+        "book",
+        "chapter",
+        "long",
+        "overdue",
+        "departure"
+      ]
+    },
     {
       "key": "914fe6316c8d05700cf4d275ed1cd317aebecacd",
       "title": "Vecna: Eve of Ruin | Episode 32: The Betrayer Revealed",
@@ -7574,6 +7598,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-17 — Mage the Ascension the Victorian Age | Book 3, Chapter 1: A Long Overdue Departure — speakers: Victorian Age, Long Overdue Departure Welcome
 - 2026-04-13 — Vecna: Eve of Ruin | Episode 32: The Betrayer Revealed
 - 2026-04-10 — Mage the Ascension the Victorian Age | Book Three: Interlude
 - 2026-04-06 — Vecna: Eve of Ruin | Episode 31: The Dragon Queen's Pride — speakers: Pride Vecna
