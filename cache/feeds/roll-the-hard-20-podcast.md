@@ -3,9 +3,11 @@
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
 - fetched_at: `2026-04-16T08:06:14+00:00`
-- checked_at: `2026-04-16T08:06:14+00:00`
+- checked_at: `2026-04-18T21:52:10+00:00`
 - etag: `W/"f7ac466d16d24e721d58d228de0449d7"`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: <urlopen error [Errno 104] Connection reset by peer>
 
 <!-- FEED_JSON -->
 ```json
@@ -5681,7 +5683,17 @@
         "dragonborn"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-04-18T21:52:10+00:00",
+    "status": "error",
+    "checked_at": "2026-04-18T21:52:10+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "<urlopen error [Errno 104] Connection reset by peer>"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
