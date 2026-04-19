@@ -2,9 +2,9 @@
 
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
-- fetched_at: `2026-04-19T07:48:25+00:00`
-- checked_at: `2026-04-19T07:48:25+00:00`
-- etag: `W/"360e312fe19f80ed3e939b04ea7e2675"`
+- fetched_at: `2026-04-19T10:03:47+00:00`
+- checked_at: `2026-04-19T10:03:47+00:00`
+- etag: `W/"54e4207dcddb2ecdb8149a5abca2cb20"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollthehard20podcast.com/podcast-episode/",
   "description": "Dungeons and Dragons weekly actual play and discussions",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/9d3b0539-1955-4096-946d-2fe71cf34e12/TheHardTwenty-DeltaGreen-Greens+2.jpg?format=1500w",
-  "fetched_at": "2026-04-19T07:48:25+00:00",
+  "fetched_at": "2026-04-19T10:03:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "17c6194b0fe928154019b139deec5e4095009eb6",
+      "title": "DELTA GREEN: PLAYTHINGS (EP 10)",
+      "published_at": "2026-04-19T09:46:15+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/4/19/delta-green-playthings-ep-10-",
+      "description": "The Agents confront the Mercer brothers, while Ichi heads to save the child. Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Just one more venue we can be found! https://www.delta-green.com/topics/debriefing/ Want to be a Hard Slinger and get cool swag? Join us on our Patreon page! https://www.patreon.com/rollthehard20podcast Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://instagram.com/rollthehard20?igshid=gjlo7p4lay72 https://twitter.com/rollthehard20?s=11 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1776591963946-POQXA5GXMWDHGA1AM5CV/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/69e4a397aca423464cda9a80/1776591941300/pt+10+-+4%3A18%3A26%2C+5.13+PM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107018369",
+      "itunes_duration": "55:44",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "playthings"
+      ]
+    },
     {
       "key": "e50f214910c2c66eb1afe1e8d10b16690f2924f0",
       "title": "DELTA GREEN: PLAYTHINGS (EP 9)",
@@ -5662,24 +5680,6 @@
         "hinges",
         "lock"
       ]
-    },
-    {
-      "key": "42bbb54227a442837e07c96a22412b876b3136b1",
-      "title": "RIDERS ON THE STORM EP 24: ENTER THE DRAGONBORN",
-      "published_at": "2018-12-29T04:59:34+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2018/12/28/riders-on-the-storm-ep-24-enter-the-dragonborn",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909303857-E8ZLRYY88B5KPKNCE2NI/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c26fd4e88251b499661a640/1546059345152/Riders+on+the+Storm+EP+24.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "90668221",
-      "itunes_duration": "1:02:58",
-      "speakers": [],
-      "topics": [
-        "rider",
-        "storm",
-        "dragonborn"
-      ]
     }
   ]
 }
@@ -5688,6 +5688,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-19 — DELTA GREEN: PLAYTHINGS (EP 10)
 - 2026-04-11 — DELTA GREEN: PLAYTHINGS (EP 9) — speakers: Molly Doll
 - 2026-04-04 — DELTA GREEN: PLAYTHINGS (EP 8) — speakers: Medical Examiner
 - 2026-03-28 — DELTA GREEN: PLAYTHINGS (EP 7)
@@ -5987,4 +5988,3 @@
 - 2019-01-14 — RIDERS ON THE STORM EP 27: THE SOUL CRUCIBLE
 - 2019-01-08 — RIDERS ON THE STORM EP 26: THE END IS NIGH
 - 2019-01-04 — RIDERS ON THE STORM EP 25: NO HANDLE, NO HINGES, NO LOCK
-- 2018-12-29 — RIDERS ON THE STORM EP 24: ENTER THE DRAGONBORN
