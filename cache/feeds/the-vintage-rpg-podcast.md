@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-04-20T03:53:40+00:00`
-- checked_at: `2026-04-20T03:53:40+00:00`
-- etag: `"68d4395fbbca1c98b63909efd2200423"`
-- last_modified: `Mon, 20 Apr 2026 02:01:42 GMT`
+- fetched_at: `2026-04-20T19:35:53+00:00`
+- checked_at: `2026-04-20T19:35:53+00:00`
+- etag: `"b6e7db8106c986c8638e1e3027641103"`
+- last_modified: `Mon, 20 Apr 2026 18:37:04 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-04-20T03:53:40+00:00",
+  "fetched_at": "2026-04-20T19:35:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "b0c71e6f7a34271c6a7af40b57a0023a9dc82a19",
+      "title": "Night of the Ninja (and More!)",
+      "published_at": "2026-04-20T18:32:00+00:00",
+      "link": "https://www.vintagerpg.com/2026/04/night-of-the-ninja-and-more/",
+      "description": "Ninjas, ninjas, ninjas, they're all Stu wants to talk about these days. This week on the Vintage RPG Podcast, we're dodging shuriken in order to keep talk about shinobi, both generally and somewhat specifically regarding the Night of the Ninja RPG. Also a follow-up on the Worlds of TSR art book and a plug for Graham Barey's excellent graphic novel/Troika supplement Black Orb . * * * Links! Games People Play ninja episode The Revenge of the Ninja soundtrack Black Orb (it comes with the Troika booklet!) * * * Instagram? Old news. Join the Vintage RPG Newsletter ! That's where all the cool kids are now! Stu's book, Monsters, Aliens, and Holes in the Ground is for sale now! Buy it ! Patreon? Discord? Cool RPG things to buy? All the Vintage RPG links you need are right here in one place ! Like, Rate, Subscribe and Review the Vintage RPG Podcast! Edited by the one and only R. Alex Murray . Send questions, comments or corrections to info@vintagerpg.com . Available on iTunes , Google Podcasts , iHeartRadio , Spotify , YouTube and your favorite podcast clients. The Vintage RPG illustration is by Shafer Brown . Follow him on Twitter . Tune in next week for the next episode. Until then, may the dice always roll in your favor!",
+      "image_url": "https://static.libsyn.com/p/assets/8/9/1/8/8918c7094699c58ad959afa2a1bf1c87/Vintage_Podcast_Icon-20260420-x9pjuxrl1q.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/thevintagerpgpodcast/VRPG_-_Ninja_Stuff.mp3?dest-id=747998",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52859512",
+      "itunes_duration": "25:48",
+      "speakers": [],
+      "topics": [
+        "night",
+        "ninja"
+      ]
+    },
     {
       "key": "272b33d3a9e60f72f1e7130956a22e03961f4389",
       "title": "TSR Art Books",
@@ -6546,6 +6563,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — Night of the Ninja (and More!)
 - 2026-04-06 — TSR Art Books — speakers: Art Books Art
 - 2026-03-30 — Trollpak — speakers: Trollpak Troooooooooll
 - 2026-03-23 — Castle Thrax — speakers: Castle Thrax

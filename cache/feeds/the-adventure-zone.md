@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-04-20T08:30:00+00:00`
-- checked_at: `2026-04-20T08:30:00+00:00`
-- etag: `"fbee6f6695e24161b2736cc6651301c8"`
-- last_modified: `Mon, 20 Apr 2026 05:23:05 GMT`
+- fetched_at: `2026-04-20T19:35:53+00:00`
+- checked_at: `2026-04-20T19:35:53+00:00`
+- etag: `"db5ea940c68e8814e8f866dbd66954b2"`
+- last_modified: `Mon, 20 Apr 2026 19:34:44 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-04-20T08:30:00+00:00",
+  "fetched_at": "2026-04-20T19:35:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "192142320749593e04b4fee9149542e5e0d1acd2",
+      "title": "MaxFunDrive 2026: Cousinverse BoCo Teaser!",
+      "published_at": "2026-04-20T19:34:28+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/maxfundrive-2026-cousinverse-boco-teaser-SV83Aj8_",
+      "description": "Happy MaxFunDrive 2026! To celebrate the launch of the drive we're dropping a little teaser for this year's bonus episode here in the feed for everyone. If you like what you hear, you can become a member to get access to the full episode, plus all the other bonus content we've posted over the years, including some not-yet aired live episodes! You can become a member at MaximumFun.Org/Join We'll be celebrating for the next two weeks with bonus goals and daily livestreams on YouTube , so follow us there and on Instagram . or check our website to stay up to date on everything we have planned! Happy MaxFunDrive! Right now is the best time to start a membership to support your favorite shows. Learn more and join at https://maximumfun.org/jointaz",
+      "image_url": "https://image.simplecastcdn.com/images/9ba52d4c-4e8c-4203-a3de-be89969671f2/ca068aba-f77c-4a35-b5f4-e2f6d666fe06/3000x3000/adventure_zone_experiment_art27.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/458e9bb3-8c26-4dbe-93f8-1d6ced55c2c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=458e9bb3-8c26-4dbe-93f8-1d6ced55c2c1&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "5108696",
+      "itunes_duration": "00:04:45",
+      "speakers": [],
+      "topics": [
+        "cousinverse",
+        "boco",
+        "teaser"
+      ]
+    },
     {
       "key": "9dc926d09efab99e0279d987795c04c0cf5bbce3",
       "title": "The Adventure Zone Royale: Episode 22",
@@ -7896,6 +7914,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — MaxFunDrive 2026: Cousinverse BoCo Teaser!
 - 2026-04-16 — The Adventure Zone Royale: Episode 22
 - 2026-04-02 — The Adventure Zone Royale: Episode 21
 - 2026-03-19 — The Adventure Zone Royale: Episode 20
