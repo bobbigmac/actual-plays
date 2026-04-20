@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-04-20T10:58:49+00:00`
-- checked_at: `2026-04-20T10:58:49+00:00`
-- etag: `"djEuMi4wOjE3NzY2Nzc4MzQ5MDA="`
+- fetched_at: `2026-04-20T16:37:19+00:00`
+- checked_at: `2026-04-20T16:37:19+00:00`
+- etag: `"djEuMi4wOjE3NzY2OTcyMzk1NTg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-04-20T10:58:49+00:00",
+  "fetched_at": "2026-04-20T16:37:19+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "c95f838c9c4f55e4d441c95e8585684cfafffca3",
+      "title": "Campaign 2: Episode 182 - Big Bad Bread Wars",
+      "published_at": "2026-04-20T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-182-big-bad-bread-wars",
+      "description": "I am not going to say his name since he is trying real hard, but, this week we have to deal with a lot of bread antics. Maybe Screech is dealing with a new rival. Maybe an old man wants to be adopted. Who knows. Regardless, all this bread is just a distraction from our true goal - going to a wedding. I think. The 2026 Geekly Inc 24-Hour Charity Stream airs on Twitch on the 25th April! The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by Zack Meyman AKA Zoomtoonz ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1776677681198-88467eda-e93e-4de9-8515-7575ce999f51.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/69e5f3ca66c3374f7e92741f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96977016",
+      "itunes_duration": "1:07:19",
+      "speakers": [
+        "Big Bad Bread Wars"
+      ],
+      "topics": [
+        "campaign",
+        "bread"
+      ]
+    },
     {
       "key": "691bf0e7371636c1378f03ac5f214c27aefa45c8",
       "title": "Campaign 2: Episode 181 - Check Point Bing Bong",
@@ -12249,6 +12268,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — Campaign 2: Episode 182 - Big Bad Bread Wars — speakers: Big Bad Bread Wars
 - 2026-04-13 — Campaign 2: Episode 181 - Check Point Bing Bong — speakers: Check Point Bing Bong, Wine Cellar
 - 2026-04-06 — Campaign 2: Episode 180 - Super Rat Day — speakers: Super Rat Day Things
 - 2026-03-30 — Campaign 2: Episode 179 - Von Esper's Very Sad Wedding Day
