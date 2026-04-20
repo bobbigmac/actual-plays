@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-04-13T08:25:00+00:00`
-- checked_at: `2026-04-15T22:06:14+00:00`
-- last_modified: `Mon, 13 Apr 2026 04:05:00 GMT`
+- fetched_at: `2026-04-20T08:30:00+00:00`
+- checked_at: `2026-04-20T08:30:00+00:00`
+- last_modified: `Mon, 20 Apr 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-04-13T08:25:00+00:00",
+  "fetched_at": "2026-04-20T08:30:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "cc7e169c133200eff9a970dc6c45760fe2781e5e",
+      "title": "Guilt of the Grave World | 010: Orb Your Enthusiasm",
+      "published_at": "2026-04-20T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-010-orb-your-enthusiasm/",
+      "description": "The mystical secrets of Station Alpha begin to reveal themselves as the heroes of the Nova Rush investigate the Arcane Laboratory. Can they make peace with the outside entities that have seemed to take up residency here or will their orbs be cooked? Find out on another thrilling adventure of Cosmic Crit!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3802/guilt-of-the-grave-world-010-orb-your-enthusiasm.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77667503",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Station Alpha"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "enthusiasm"
+      ]
+    },
     {
       "key": "abcd492f70535ca1d32742a4578dcb9429b3f0e7",
       "title": "Guilt of the Grave World | 009: Courage Under Fire Extinguishers",
@@ -8755,6 +8776,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — Guilt of the Grave World | 010: Orb Your Enthusiasm — speakers: Station Alpha
 - 2026-04-13 — Guilt of the Grave World | 009: Courage Under Fire Extinguishers — speakers: Station Alpha
 - 2026-04-06 — Guilt of the Grave World | 008: Undead to Rights — speakers: Grave World
 - 2026-03-30 — Guilt of the Grave World | 007: She’s All Bat — speakers: Grave World, Nova Rush
