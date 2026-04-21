@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-04-10T03:43:46+00:00`
-- checked_at: `2026-04-10T03:43:46+00:00`
-- etag: `"2b9e3155b3c8353f626a8a1970ed8d64"`
-- last_modified: `Fri, 10 Apr 2026 01:07:05 GMT`
+- fetched_at: `2026-04-21T08:11:01+00:00`
+- checked_at: `2026-04-21T08:11:01+00:00`
+- etag: `"ac56c50bb97b16191329c8bb1c3a12a9"`
+- last_modified: `Tue, 21 Apr 2026 06:45:04 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-04-10T03:43:46+00:00",
+  "fetched_at": "2026-04-21T08:11:01+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "b438cae38c17e6caa79d937779f239da25c2794d",
+      "title": "Perpetua 40: The Castle Eschatonica 08",
+      "published_at": "2026-04-21T06:44:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-40-the-castle-eschatonica-08",
+      "description": "At the highest point of the Castle Eschatonica, the crew of the Little Snail and Team ABC finally find some answers to their most desperate questions. And yet, many mysteries remain, perhaps most of all: How can they escape this castle and return to the paths from which they were pulled away? For that, the answer is simple: Walk on… and beware the True Beckonings. This week on Perpetua: The Castle Eschatonica 08 Perpetua Guide [In Progress v.0599] Some Feedback [Page 59 of 60] Alukard83 So does anyone know what happens if you don't resist the beckonings? TheUnforgivenIII That depends on which one it is, right? Don't you just get the thing? Alukard83 But aren't some of them really big changes? Like sure, if you get the pet landshark, you just get the companion added to your sheet. But if Elena retires to takeover her family's bar, doesn't wouldn't that like, end the story for her? FriendOfNei Woah, I didn't get either of those options when I hit the True Beckonings chapter. What the heck! For me, Elena was offered the chance to build her own megadungeon, and there was nothing shark related for anyone (land or sea or otherwise). Anyone know what's going on here?I promise I'm not freaking out and leaving this time, I just really want to know what I missed! xXZelgadyskXx Maybe it's random? Has anyone tried loading up a save from before the Beckonings to see if it's always the same? TheUnforgivenIII I just tried and it SUCKS, it takes SO LONG. The only save point is before you meet Gnova so you have to wait through THAT WHOLE UNSKIPPABLE CUTSCENE and all that text before you get to even SEE the Beckonings again, and it was all the same for me anyway. Doom_Tree_Anne Since the \"True Beckonings\" are meant to relate to what someone really desires deep down inside, maybe it's tied to how you've been playing? TheDiamondRanger The official guide says it's just random, so it's probably just random, right? FriendOfNei Maybe… But sometimes those guides get stuff wrong. That's part of what made me want to do write my own FAQs to begin with. When I played the first Alteros game, the official guide said that you could only get the Ill Wings of Deadwind OR the Black Wings of Night, but not only was it totally possible to get both, you needed both to get the best epilogue. Which is really my question (and I'm not sure if I trust that the official guide knows the right answer, sorry Diamond): Do you think the game punishes you for following the beckonings with a worse ending, or do you think you can accept what they say on their face? Doom_Tree_Anne Hmm. Well, this is my own opinion, but I sort of think some of them are their own punishment, ya know? Like, it's the difference between you getting to write the walkthrough you wanted to see in the world vs just buying it ready made. Actually getting to write it is its own reward. CarlsSr Sounds like someone who can't afford the strategy guide lol",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_40_The_Castle_Eschatonica_08.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89947504",
+      "itunes_duration": "01:28:50",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "castle",
+        "eschatonica"
+      ]
+    },
     {
       "key": "6567e5d0b3598e85df80908f7b9984abf9457480",
       "title": "Perpetua 39: The Castle Eschatonica 07",
@@ -11436,6 +11456,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-21 — Perpetua 40: The Castle Eschatonica 08 — speakers: Austin Walker
 - 2026-04-07 — Perpetua 39: The Castle Eschatonica 07 — speakers: Austin Walker
 - 2026-03-31 — Perpetua 38: The Castle Eschatonica 06 — speakers: Austin Walker
 - 2026-03-15 — Perpetua 37: The Castle Eschatonica 05 — speakers: Austin Walker
