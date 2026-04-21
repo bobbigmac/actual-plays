@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-04-21T08:11:01+00:00`
-- checked_at: `2026-04-21T08:11:01+00:00`
-- etag: `"djEuMi4wOjE3NzY3NTMyOTA3MjA="`
+- fetched_at: `2026-04-21T16:33:48+00:00`
+- checked_at: `2026-04-21T16:33:48+00:00`
+- etag: `"djEuMi4wOjE3NzY3ODgxMTE5NzI="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-04-21T08:11:01+00:00",
+  "fetched_at": "2026-04-21T16:33:48+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -32,6 +32,29 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "dd2ed6a1e70ef99a84dfa27decf34b3100904b64",
+      "title": "S4 Ep. 6 - Finding Doory",
+      "published_at": "2026-04-21T16:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "how to turn off ring camera how to mute ring camera how to stop ring camera opening door This episode contains Profanity, Violence, and Sexual Content. Intro courtesy of Ben \"Yahtzee\" Croshaw, parodying his game review series, Fully Ramblomatic. These days you can find him making videos for his independent media company, Second Wind . Check out his animated actual play series - Adventure is Nigh ! Reminder that our 2nd Annual Pride Zine submissions are still open ! In honor of Pride Month, we're releasing a limited-print zine to raise money for charity. If you want to participate, we're looking for all kinds of art: traditional, digital, cosplay, and everything in between. To be considered, submit your work by April 27th . Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1776751127768-ef2a072e-cd23-4f5f-8853-95ff98aa268e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/69e7130507ecece42a2a37d9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97465154",
+      "itunes_duration": "1:41:31",
+      "speakers": [
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "finding",
+        "doory"
+      ]
+    },
     {
       "key": "a2c51df5b90f2c213e183a58d0ca3afe414894e1",
       "title": "S4 Ep. 5 - Hope Bloats",
@@ -4627,6 +4650,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-21 — S4 Ep. 6 - Finding Doory — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-04-07 — S4 Ep. 5 - Hope Bloats — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-03-24 — S4 Ep. 4 - The Immortal Scrap Wreckage Yard — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-03-10 — S4 Ep. 3 - Store Wars: Darth Mall - Bargain Hunter — speakers: Darth Mall Bargain Hunter, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
