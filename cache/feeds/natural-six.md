@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-04-14T19:44:04+00:00`
-- checked_at: `2026-04-14T19:44:04+00:00`
-- etag: `"djEuMi4wOjE3NzYxOTMyMzk1OTk="`
+- fetched_at: `2026-04-21T19:39:58+00:00`
+- checked_at: `2026-04-21T19:39:58+00:00`
+- etag: `"djEuMi4wOjE3NzY3OTgwMzk0NTg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-04-14T19:44:04+00:00",
+  "fetched_at": "2026-04-21T19:39:58+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "cdc203c557c72a01f7a259435b2167f777a54212",
+      "title": "Action Surge Episode 52",
+      "published_at": "2026-04-21T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-52",
+      "description": "This episode was a nice reminder that you never quite know what you are going to get. We mean, who knew that trees would love a bit of gossip? It’s wild to think that everything with the now aptly named Sword of the Flood, a cursed item that is a shock to absolutely nobody, started all the way back in episode 37. It really shows just how much has happened, and how far we have come (ugh) as a group. Those dreams? Isolation might have been the theme, but Elowen had a set number of dreams that had to play out, and you never quite know how those rolls are going to land. Harry finally talks the table through what Elowen experienced, and we dig into the choices she made. Elowen and Raidion definitely have the energy of a couple who have been together far too long, but also cannot function without each other. Harry also gives us more insight into his planning, how much he prepares, how much he has planned, how much he doesn’t, and how much is simply created in the moment. Taverns are a perfect example. We had plenty to choose from, but none of them were planned, and those little moments are what make it special. And weird. Special and weird. Oh, and it covers plot holes too. Patience is a virtue, and we talk about arcs and how complex storytelling becomes easier the deeper you go. This time, we are tagging Kelnys in, and we’re very excited for the next part of the adventure. -- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/69dba3c5f736e119c370fa78/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100824585",
+      "itunes_duration": "52:30",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "e997e36f9be9a4d54f0db9d6e17f22263cebcbcd",
       "title": "Ep. 52 The Sword of The Flood",
@@ -2718,6 +2742,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-21 — Action Surge Episode 52 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-04-14 — Ep. 52 The Sword of The Flood — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-04-07 — Action Surge Episode 51 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-31 — Ep. 51 The Sins of the Sinless — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
