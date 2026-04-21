@@ -2,10 +2,10 @@
 
 - slug: `worlds-beyond-number`
 - source: `https://feeds.simplecast.com/IAPnSSRO`
-- fetched_at: `2026-04-14T10:41:43+00:00`
-- checked_at: `2026-04-14T10:41:43+00:00`
-- etag: `"4621ed70e55deb932f836256c2ab67a4"`
-- last_modified: `Tue, 14 Apr 2026 09:00:17 GMT`
+- fetched_at: `2026-04-21T03:47:35+00:00`
+- checked_at: `2026-04-21T03:47:35+00:00`
+- etag: `"8f15866b1a386e966b1bac98360d11cb"`
+- last_modified: `Mon, 20 Apr 2026 23:16:50 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://worlds-beyond-number.simplecast.com",
   "description": "An epic, improvised storytelling podcast where Brennan Lee Mulligan, Erika Ishii, Aabria Iyengar, and Lou Wilson hang out together, play games, build worlds, and make stories.",
   "image_url": "https://image.simplecastcdn.com/images/c89bbbb6-e942-4583-ad73-4877d9c0b2f6/dfae107c-3b1e-4c37-acf7-a48a1ff6e445/3000x3000/wbn-album-logo-art-2024-3000x3000.jpg?aid=rss_feed",
-  "fetched_at": "2026-04-14T10:41:43+00:00",
+  "fetched_at": "2026-04-21T03:47:35+00:00",
   "owners": [
     "Brennan Lee Mulligan",
     "Aabria Iyengar",
@@ -60,9 +60,9 @@
       "link": "https://worlds-beyond-number.simplecast.com/episodes/solari-episode-2-pull-cull-EQF2hfTv",
       "description": "Uninvited guests invade the Vice Rooms. The young scion of Iverex assembles his entourage. Questions hang in the air like bullets, flung towards the inevitable. Something isn’t adding up. This Pull was supposed to be simple… Content Warning: This episode contains depictions of violence. We are: Brennan Lee Mulligan Erika Ishii Aabria Iyengar Lou Wilson Solari was produced by Worlds Beyond Number Edit and Sound Design by Jino Jang-Hansen at Big Giant Head Score by Will Savino https://wsavino.com/ Director of Operations: Melanie Bowman Social Media Manager: Shannon H Lorekeeper and Transcriptionist: Jack Morgan E.F. Lavandowska Recording Engineer: Rainie Toll Character Art by Nikolas Draper-Ivey www.instagram.com/nikolasdraperivey/ Cover Art by Lu Tomkiewicz www.instagram.com/_fromlu/ This campaign uses the Stillfleet TTRPG system, created by Wythe Marschall and developed by Stillfleet Studio https://stillfleet.com/collections/stillfleet You can find transcripts of all our episodes on our Patreon. Just navigate to the post for the episode and the transcript will be attached.",
       "image_url": "https://image.simplecastcdn.com/images/52465498-1509-439a-8bae-5a0586d07e7b/f939b0b8-a2d3-4c9b-a4de-281df5557937/3000x3000/solari_album_art.jpg?aid=rss_feed",
-      "enclosure_url": "https://cdn.simplecast.com/media/audio/transcoded/3271e9ed-72a9-42fd-a976-32864451ba9e/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/audio/group/859348d1-7a46-4949-bb54-ac22878e529b/group-item/2a59f357-e8a3-4e6a-b302-1fb1fa65aa5d/128_default_tc.mp3?aid=rss_feed&feed=IAPnSSRO",
+      "enclosure_url": "https://cdn.simplecast.com/media/audio/transcoded/3271e9ed-72a9-42fd-a976-32864451ba9e/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/audio/group/ea24b447-b9ce-44da-b30e-b462f6e7d40a/group-item/a9ae4715-fbc0-4256-ad05-3c8c75640be7/128_default_tc.mp3?aid=rss_feed&feed=IAPnSSRO",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "69213481",
+      "enclosure_length": "69213491",
       "itunes_duration": "01:06:07",
       "speakers": [
         "Brennan Lee Mulligan",
@@ -82,9 +82,9 @@
       "link": "https://worlds-beyond-number.simplecast.com/episodes/solari-episode-1-paarlor-games-K3TL_eBz",
       "description": "The era of seclusion is over. The 40 Suns reconnect and reunite and find themselves valuable. As borders are drawn across occupied space, the great powers of the galaxy begin their sweep of its dusty corners searching for any golden scraps that remain. Hungry eyes turn towards a tiny asteroid named Ghenopaar, a place where everything is permitted and nothing is forbidden. Strange shapes move through the shadows. The players begin the next phase of their game. History is being rewritten. CONTENT WARNING: This episode contains depictions of sexual content, violence, blood, and drugs. We are: Brennan Lee Mulligan Erika Ishii Aabria Iyengar Lou Wilson Solari was produced by Worlds Beyond Number Edit and Sound Design by Jino Jang-Hansen at Big Giant Head Score by Will Savino https://wsavino.com/ Director of Operations: Melanie Bowman Social Media Manager: Shannon H Lorekeeper and Transcriptionist: Jack Morgan E.F. Lavandowska Recording Engineer: Rainie Toll Character Art by Nikolas Draper-Ivey www.instagram.com/nikolasdraperivey/ Cover Art by Lu Tomkiewicz www.instagram.com/_fromlu/ This campaign uses the Stillfleet TTRPG system, created by Wythe Marschall and developed by Stillfleet Studio https://stillfleet.com/collections/stillfleet You can find transcripts of all our episodes on our Patreon. Just navigate to the post for the episode and the transcript will be attached.",
       "image_url": "https://image.simplecastcdn.com/images/52465498-1509-439a-8bae-5a0586d07e7b/3dc27c11-0ad7-497f-a160-e31d495017d7/3000x3000/solari_album_art.jpg?aid=rss_feed",
-      "enclosure_url": "https://cdn.simplecast.com/media/audio/transcoded/3271e9ed-72a9-42fd-a976-32864451ba9e/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/audio/group/43be833b-b44b-4d13-9e4a-1c8c6086a907/group-item/3c9b1a08-801f-49d0-876a-7ed62ea18811/128_default_tc.mp3?aid=rss_feed&feed=IAPnSSRO",
+      "enclosure_url": "https://cdn.simplecast.com/media/audio/transcoded/3271e9ed-72a9-42fd-a976-32864451ba9e/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/audio/group/a694c0a8-31f6-4581-be40-58e820dd439a/group-item/924c0af1-6b24-4a0a-bb29-712e57a6ff37/128_default_tc.mp3?aid=rss_feed&feed=IAPnSSRO",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "97891369",
+      "enclosure_length": "97891372",
       "itunes_duration": "01:35:59",
       "speakers": [
         "Brennan Lee Mulligan",
