@@ -2,9 +2,9 @@
 
 - slug: `the-iron-realm-mega-dungeon-crawl-dark-fantasy-solo-rpg-gaming-podcast`
 - source: `https://feeds.feedburner.com/TheIronRealm`
-- fetched_at: `2026-04-22T14:12:26+00:00`
-- checked_at: `2026-04-22T14:12:26+00:00`
-- last_modified: `Wed, 22 Apr 2026 00:17:24 GMT`
+- fetched_at: `2026-04-22T16:34:15+00:00`
+- checked_at: `2026-04-22T16:34:15+00:00`
+- last_modified: `Wed, 22 Apr 2026 16:03:40 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://theironrealm.blogspot.com/",
   "description": "Dramatic RPG adventure in a massive Mega Dungeon. Free gaming aids provided. Dark Fantasy Fiction in the classic RPG style. Listen or play!",
   "image_url": "https://archive.org/download/TheIronRealm/IronRealm_1400.jpg",
-  "fetched_at": "2026-04-22T14:12:26+00:00",
+  "fetched_at": "2026-04-22T16:34:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -31,11 +31,11 @@
       "title": "Chapter 152: The Bunker",
       "published_at": "2026-04-21T23:03:00+00:00",
       "link": "http://theironrealm.blogspot.com/2026/04/chapter-152-bunker.html",
-      "description": "Summary : In a disquieting and liminal space, the Tribe is disoriented, unconscous, and close to death. Of Special Note : On tonight's Character Eight , the final answer - and reward - are revealed for The Maze Master's Grand Challenge. PLUS take the Circuit Dungeon Extra from the Extras Tab in order to begin mapping this new and impossible nightmare. Download Chapter 152: The Bunker Download All Future Episodes & Bonus Episodes --HERE-- The fiction of John Merle Holes is read for you, with his permission, on Travellers of the Maze. Follow John on Twitter The following recording for The Iron Realm Podcast by Guinefurrie was showcased on tonight's episode under the CC Attribution License 3.0 : v5 and Bound 0 find Guinefurrie on FreeSound: Guinefurrie My thanks as well for all audio featured under the cc0 license on tonight's podcast. The Iron Realm is intended for adult audiences. Listener Discretion is advised. The Iron Realm album art/website art was created from a public domain image/CC0 image from PixaBay. Audio on the podcast, unless otherwise noted, has either been created by the author or has been used in accordance with the Creative Commons Zero license. A new Iron Realm Podcast is released periodically and each is a labor of my love for Solo RPG Gaming. Enjoy and support the show. And fare ye well, Traveler of The Maze, in the light and in the dark. Subscribe to The Iron Realm Podcast!",
+      "description": "Summary : In a disquieting liminal space, the Tribe is disoriented, unconscious, and close to death. Of Special Note : On tonight's Character Eight , the final answer - and reward - are revealed for The Maze Master's Grand Challenge. PLUS take the Circuit Dungeon Extra from the Extras Tab in order to begin mapping this new and impossible nightmare. Download Chapter 152: The Bunker Download All Future Episodes & Bonus Episodes --HERE-- The fiction of John Merle Holes is read for you, with his permission, on Travellers of the Maze. Follow John on Twitter The following recording for The Iron Realm Podcast by Guinefurrie was showcased on tonight's episode under the CC Attribution License 3.0 : v5 and Bound 0 find Guinefurrie on FreeSound: Guinefurrie My thanks as well for all audio featured under the cc0 license on tonight's podcast. The Iron Realm is intended for adult audiences. Listener Discretion is advised. The Iron Realm album art/website art was created from a public domain image/CC0 image from PixaBay. Audio on the podcast, unless otherwise noted, has either been created by the author or has been used in accordance with the Creative Commons Zero license. A new Iron Realm Podcast is released periodically and each is a labor of my love for Solo RPG Gaming. Enjoy and support the show. And fare ye well, Traveler of The Maze, in the light and in the dark. Subscribe to The Iron Realm Podcast!",
       "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "enclosure_url": "https://archive.org/download/TheIronRealm/0152_IronRealm.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41295913",
       "itunes_duration": null,
       "speakers": [],
       "topics": [
