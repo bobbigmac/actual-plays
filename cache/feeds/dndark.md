@@ -2,8 +2,8 @@
 
 - slug: `dndark`
 - source: `https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40`
-- fetched_at: `2026-04-22T10:43:43+00:00`
-- checked_at: `2026-04-22T10:43:43+00:00`
+- fetched_at: `2026-04-22T14:12:26+00:00`
+- checked_at: `2026-04-22T14:12:26+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/dndark",
   "description": "A comedy/horror D&D Actual Play Podcast starring some of history's most iconic monsters",
   "image_url": "https://media.redcircle.com/images/2025/4/2/20/c89246be-6b46-429a-909e-1e4e1bd26ad0_846-8b2d-746b3b4b007c_received_702201047512802.jpg",
-  "fetched_at": "2026-04-22T10:43:43+00:00",
+  "fetched_at": "2026-04-22T14:12:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -24,6 +24,29 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "451427587f706a65fbfb09860287b3e2ef83ce70",
+      "title": "DnDark Presents: DnDark Souls Part 10: Knight on Bald Mountain",
+      "published_at": "2026-04-22T12:00:37+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The team prepares for the final battle, learning more about the nature of The Great Flame and the mysterious \"Benefactor\" working with The Vile Ones... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" Daniel Cruz - Pinocchio: \"The Real Boy\" Grayson Norman - Sir Mordred: \"The Knight\" \"Danger\" Dan Jerz - \"The Pauper\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios",
+      "image_url": "https://media.redcircle.com/images/2026/4/2/4/509112b7-70f3-4835-9701-b061e913ab49_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/40053e0d-5900-4bfe-8d53-b7b15cbccc0c/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57738553",
+      "itunes_duration": "3608",
+      "speakers": [
+        "Bald Mountain"
+      ],
+      "topics": [
+        "dndark",
+        "presents",
+        "souls",
+        "knight",
+        "bald",
+        "mountain"
+      ]
+    },
     {
       "key": "268da878deff562e64559fbd5f9068b037d86094",
       "title": "Table Talk - Interview with Olivia (Cozy Crypt)",
@@ -2490,6 +2513,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — DnDark Presents: DnDark Souls Part 10: Knight on Bald Mountain — speakers: Bald Mountain
 - 2026-04-08 — Table Talk - Interview with Olivia (Cozy Crypt) — speakers: Cozy Crypt
 - 2026-04-01 — DnDark Presents: DnDark Souls Part 9: Once Upon a Dream
 - 2026-03-25 — Table Talk - Interview with Jason Cordova — speakers: Jason Cordova
