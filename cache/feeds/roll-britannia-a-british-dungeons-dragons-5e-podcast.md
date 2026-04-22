@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-04-22T03:44:14+00:00`
-- checked_at: `2026-04-22T03:44:14+00:00`
-- etag: `"djEuMi4wOjE3NzY4MTEyNDA3OTc="`
+- fetched_at: `2026-04-22T08:09:04+00:00`
+- checked_at: `2026-04-22T08:09:04+00:00`
+- etag: `"djEuMi4wOjE3NzY4NDEyMzk3NDU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-04-22T03:44:14+00:00",
+  "fetched_at": "2026-04-22T08:09:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "78daaeb9083f3453e924def06722b52445558405",
+      "title": "Ep. 002: Age of Astra - We're here from Astra | #DND",
+      "published_at": "2026-04-22T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the agents step onto a world that looks far too perfect, where polished streets and calm smiles hide something just out of reach. The Dice feel uneasy as questions are brushed aside, names slip at the wrong moment, and a simple DnD mission starts to twist into something far more deliberate. Beneath the surface, the truth waits… but it doesn’t seem eager to be found. Why does a distress signal lead to silence instead of panic? What are they being steered away from? And who is really telling the truth in this perfect world? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1776197434314-f401c87d-030c-4232-a346-3482e1afbc09.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69de9fa57beb0a1735b0c469/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "147288942",
+      "itunes_duration": "1:01:20",
+      "speakers": [],
+      "topics": [
+        "astra"
+      ]
+    },
     {
       "key": "876e3be1e6c2cc8d0a87ad04d6485f228303e821",
       "title": "Ep. 001: Age of Astra - Where is that Bloody Hat?! | #DND",
@@ -7687,6 +7703,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — Ep. 002: Age of Astra - We're here from Astra | #DND
 - 2026-04-15 — Ep. 001: Age of Astra - Where is that Bloody Hat?! | #DND — speakers: Bloody Hat
 - 2026-04-15 — BONUS: Age of Astra - Meet Snik Unbord | #DND
 - 2026-04-15 — BONUS: Age of Astra - Meet Sig Rivet | #DND
