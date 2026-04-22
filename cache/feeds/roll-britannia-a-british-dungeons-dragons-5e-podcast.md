@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-04-21T22:02:09+00:00`
-- checked_at: `2026-04-21T22:02:09+00:00`
-- etag: `"djEuMi4wOjE3NzY4MDY5NDE4NTc="`
+- fetched_at: `2026-04-22T03:44:14+00:00`
+- checked_at: `2026-04-22T03:44:14+00:00`
+- etag: `"djEuMi4wOjE3NzY4MTEyNDA3OTc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-04-21T22:02:09+00:00",
+  "fetched_at": "2026-04-22T03:44:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

@@ -2,9 +2,9 @@
 
 - slug: `the-iron-realm-mega-dungeon-crawl-dark-fantasy-solo-rpg-gaming-podcast`
 - source: `https://feeds.feedburner.com/TheIronRealm`
-- fetched_at: `2026-04-21T22:02:09+00:00`
-- checked_at: `2026-04-21T22:02:09+00:00`
-- last_modified: `Thu, 16 Apr 2026 16:44:09 GMT`
+- fetched_at: `2026-04-22T03:44:14+00:00`
+- checked_at: `2026-04-22T03:44:14+00:00`
+- last_modified: `Wed, 22 Apr 2026 00:17:24 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://theironrealm.blogspot.com/",
   "description": "Dramatic RPG adventure in a massive Mega Dungeon. Free gaming aids provided. Dark Fantasy Fiction in the classic RPG style. Listen or play!",
   "image_url": "https://archive.org/download/TheIronRealm/IronRealm_1400.jpg",
-  "fetched_at": "2026-04-21T22:02:09+00:00",
+  "fetched_at": "2026-04-22T03:44:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,11 +27,28 @@
   ],
   "episodes": [
     {
+      "key": "d4bbc0c83c9d3807d18d9e86cf6264a2e491e36b",
+      "title": "Chapter 152: The Bunker",
+      "published_at": "2026-04-21T23:03:00+00:00",
+      "link": "http://theironrealm.blogspot.com/2026/04/chapter-152-bunker.html",
+      "description": "Summary : In a disquieting and liminal space, the Tribe is disoriented, unconscous, and close to death. Of Special Note : On tonight's Character Eight , the final answer - and reward - are revealed for The Maze Master's Grand Challenge. PLUS take the Circuit Dungeon Extra from the Extras Tab in order to begin mapping this new and impossible nightmare. Download Chapter 152: The Bunker Download All Future Episodes & Bonus Episodes --HERE-- The fiction of John Merle Holes is read for you, with his permission, on Travellers of the Maze. Follow John on Twitter The following recording for The Iron Realm Podcast by Guinefurrie was showcased on tonight's episode under the CC Attribution License 3.0 : v5 and Bound 0 find Guinefurrie on FreeSound: Guinefurrie My thanks as well for all audio featured under the cc0 license on tonight's podcast. The Iron Realm is intended for adult audiences. Listener Discretion is advised. The Iron Realm album art/website art was created from a public domain image/CC0 image from PixaBay. Audio on the podcast, unless otherwise noted, has either been created by the author or has been used in accordance with the Creative Commons Zero license. A new Iron Realm Podcast is released periodically and each is a labor of my love for Solo RPG Gaming. Enjoy and support the show. And fare ye well, Traveler of The Maze, in the light and in the dark. Subscribe to The Iron Realm Podcast!",
+      "image_url": null,
+      "enclosure_url": null,
+      "enclosure_type": null,
+      "enclosure_length": null,
+      "itunes_duration": null,
+      "speakers": [],
+      "topics": [
+        "chapter",
+        "bunker"
+      ]
+    },
+    {
       "key": "d6bb9cef0d58d17330e0f428e5cc52b420a2ea38",
       "title": "Chapter 151: The Last Violation",
       "published_at": "2025-12-29T21:17:00+00:00",
       "link": "http://theironrealm.blogspot.com/2025/12/chapter-151-last-violation.html",
-      "description": "Summary : The faces of all whom they have lost are before them now, at the lip of the Singularity. Of Special Note : On tonight's Creature Legends , the Ti'Miri. Download Chapter 151: The Runner Download All Future Episodes, the Kaylana Miniature & Bonus Episodes --HERE-- The following recording for The Iron Realm Podcast by Katie Otten was showcased on tonight's episode: Custom Audio created for The Iron Realm by Katie Otten I edited tracks for volume, length, pitch, and mood. Katie's aforementioned audio is included with permission. Find Katie Otten online on: katieotten.com katieotten13 on Twitter, Facebook, and Instagram The following music for The Iron Realm Podcast was contributed to The Iron Realm by Max at Coltrin Compositions: What is this Melody Lost Just Beeps The Entrance I edited tracks for volume, length, pitch, and mood. Find Coltrin Compositions online on: Max's Patreon Max's YouTube Max's aforementioned audio is included with permission. The following epic audio by Scribbler was featured during tonight's episode: Custom Audio created for The Iron Realm by Scribbler Johnny I edited tracks for volume, length, pitch, and mood. Click here to visit Scribbler on Twitter X Scribbler's aforementioned audio is included on The Iron Realm with permission. The following recording for The Iron Realm Podcast by Guinefurrie was showcased on tonight's episode under the CC Attribution License 3.0 : Custom Audio created for The Iron Realm by Guinefurrie find Guinefurrie on FreeSound: Guinefurrie The following selection by AmeAngelofSin was featured during tonight's episoide: Custom Audio for The Iron Realm Podcast I edited tracks for volume, length, pitch and mood. Find AmeAngelofSin online on: X YouTube or email AmeAngelofSin at AMEANGELOFSIN AT GMAIL DOT COM AmeAngelofSin's aforementioned audio is included in accordance with Creative Commons: By Attribution 3.0 http://creativecommons.org/licenses/by/3.0/ Crediting the talented Blue Siren for the voice of Seera (from FreeSound dot org): Custom Audio for The Iron Realm The following recording for The Iron Realm Podcast by Alexandra Drotz Ruhn was gratefully heard upon tonight's podcast : Custom Audio created for The Iron Realm by Alexandra I edited tracks for volume, length, pitch, and mood. (find Alexandra at freesound.org) Click here to visit her page Alexandra's aforementioned audio is included in accordance with Creative Commons: By Attribution 3.0 http://creativecommons.org/licenses/by/3.0/ My thanks as well for all audio featured under the cc0 license on tonight's podcast. The Iron Realm is intended for adult audiences. Listener Discretion is advised. The Iron Realm album art/website art was created from a public domain image/CC0 image from PixaBay. Audio on the podcast, unless otherwise noted, has either been created by the author or has been used in accordance with the Creative Commons Zero license. A new Iron Realm Podcast is released periodically and each is a labor of my love for Solo RPG Gaming. Enjoy and support the show. And fare ye well, Traveler of The Maze, in the light and in the dark. Subscribe to The Iron Realm Podcast!",
+      "description": "Summary : The faces of all whom they have lost are before them now, at the lip of the Singularity. Of Special Note : On tonight's Creature Legends , the Ti'Miri. Download Chapter 151: The Last Violation Download All Future Episodes, the Kaylana Miniature & Bonus Episodes --HERE-- The following recording for The Iron Realm Podcast by Katie Otten was showcased on tonight's episode: Custom Audio created for The Iron Realm by Katie Otten I edited tracks for volume, length, pitch, and mood. Katie's aforementioned audio is included with permission. Find Katie Otten online on: katieotten.com katieotten13 on Twitter, Facebook, and Instagram The following music for The Iron Realm Podcast was contributed to The Iron Realm by Max at Coltrin Compositions: What is this Melody Lost Just Beeps The Entrance I edited tracks for volume, length, pitch, and mood. Find Coltrin Compositions online on: Max's Patreon Max's YouTube Max's aforementioned audio is included with permission. The following epic audio by Scribbler was featured during tonight's episode: Custom Audio created for The Iron Realm by Scribbler Johnny I edited tracks for volume, length, pitch, and mood. Click here to visit Scribbler on Twitter X Scribbler's aforementioned audio is included on The Iron Realm with permission. The following recording for The Iron Realm Podcast by Guinefurrie was showcased on tonight's episode under the CC Attribution License 3.0 : Custom Audio created for The Iron Realm by Guinefurrie find Guinefurrie on FreeSound: Guinefurrie The following selection by AmeAngelofSin was featured during tonight's episoide: Custom Audio for The Iron Realm Podcast I edited tracks for volume, length, pitch and mood. Find AmeAngelofSin online on: X YouTube or email AmeAngelofSin at AMEANGELOFSIN AT GMAIL DOT COM AmeAngelofSin's aforementioned audio is included in accordance with Creative Commons: By Attribution 3.0 http://creativecommons.org/licenses/by/3.0/ Crediting the talented Blue Siren for the voice of Seera (from FreeSound dot org): Custom Audio for The Iron Realm The following recording for The Iron Realm Podcast by Alexandra Drotz Ruhn was gratefully heard upon tonight's podcast : Custom Audio created for The Iron Realm by Alexandra I edited tracks for volume, length, pitch, and mood. (find Alexandra at freesound.org) Click here to visit her page Alexandra's aforementioned audio is included in accordance with Creative Commons: By Attribution 3.0 http://creativecommons.org/licenses/by/3.0/ My thanks as well for all audio featured under the cc0 license on tonight's podcast. The Iron Realm is intended for adult audiences. Listener Discretion is advised. The Iron Realm album art/website art was created from a public domain image/CC0 image from PixaBay. Audio on the podcast, unless otherwise noted, has either been created by the author or has been used in accordance with the Creative Commons Zero license. A new Iron Realm Podcast is released periodically and each is a labor of my love for Solo RPG Gaming. Enjoy and support the show. And fare ye well, Traveler of The Maze, in the light and in the dark. Subscribe to The Iron Realm Podcast!",
       "image_url": null,
       "enclosure_url": "https://archive.org/download/TheIronRealm/0151_IronRealm.mp3",
       "enclosure_type": "audio/mpeg",
@@ -2855,23 +2872,6 @@
         "rescue",
         "attempt"
       ]
-    },
-    {
-      "key": "925c2a8df7c7e1b17d485f39282b5a83ced98141",
-      "title": "Chapter 2: The Goblin Pits",
-      "published_at": "2015-09-03T10:59:00+00:00",
-      "link": "http://theironrealm.blogspot.com/2015/09/chapter-2-goblin-pits.html",
-      "description": "Summary : Solus, Stockholm, and Temic are slaves of the Goblins, sentenced to expand the reach of the Goblin Kingdom by excavating tunnels through solid rock. Yet when the human, the Dwarf and the Halfling realize that there are three other humans being held in a faraway pit, this fires a plan for escape... Of Special Note : Listeners are invited to map The Maze as the first areas of The Iron Realm are revealed. Character Introductions are given for the three male characters and there is also an in-depth profile given for Solus the Fighter on Iron Personas . Be sure to visit the Extras Tab for the Iron Realm Map Master Graph Paper download. Download Chapter 2: The Goblin Pits Become an honored Patron. Download All Future Episodes & Bonus Episodes -HERE- The Iron Realm is intended for adult audiences. Listener Discretion is advised. The Iron Realm album art was created from a public domain image from PixaBay. Audio on the podcast, unless otherwise noted, has either been created by the author or has been used in accordance with the Creative Commons Zero license. The Iron Realm Podcast is released 1d4 times per month and is a labor of love. Enjoy and support the show. And fare ye well, traveler of the maze, in the light and in the dark. Thank you. Subscribe to The Iron Realm Podcast!",
-      "image_url": null,
-      "enclosure_url": "https://archive.org/download/TheIronRealm/0002_IronRealm.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "31654001",
-      "itunes_duration": null,
-      "speakers": [],
-      "topics": [
-        "chapter",
-        "goblin"
-      ]
     }
   ]
 }
@@ -2880,6 +2880,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-21 — Chapter 152: The Bunker
 - 2025-12-29 — Chapter 151: The Last Violation
 - 2025-11-02 — Chapter 150: The Runner
 - 2025-10-20 — Chapter 149: Love Lets Go — speakers: Love Lets Go Summary
@@ -3029,4 +3030,3 @@
 - 2015-09-24 — Chapter 5: The Hunter - Released! — speakers: Goblin Chieftain
 - 2015-09-17 — Chapter 4: The Goblin Chieftain
 - 2015-09-10 — Chapter 3: Rescue Attempt — speakers: Rescue Attempt Summary
-- 2015-09-03 — Chapter 2: The Goblin Pits
