@@ -2,10 +2,10 @@
 
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
-- fetched_at: `2026-04-21T16:33:48+00:00`
-- checked_at: `2026-04-21T16:33:48+00:00`
+- fetched_at: `2026-04-23T03:49:29+00:00`
+- checked_at: `2026-04-23T03:49:29+00:00`
 - etag: `W/"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ"`
-- last_modified: `Tue, 21 Apr 2026 15:38:18 GMT`
+- last_modified: `Wed, 22 Apr 2026 23:21:47 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss",
   "description": "..🚂🚃🚋🚃🚃🚋🚋🚋🚃...... A train pulls into the station. A circus raises its tents. Welcome, one and all, to NEVERNOWHERE— a place where your memories are currency, every dream is reality, and crime really does pay. LegendLark is a narrative comedy TTRPG podcast. Updates every 2nd Thursday! www.legendlark.com",
   "image_url": "https://megaphone.imgix.net/podcasts/38353ab8-2938-11f1-b716-1b70c557bb65/image/5002d6217f82605e3208708900cb0514.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-21T16:33:48+00:00",
+  "fetched_at": "2026-04-23T03:49:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -71,7 +71,7 @@
     },
     {
       "key": "2047899429718094da77f683f2711dfd9c28f1f8",
-      "title": "Guardians Reborn TEASER",
+      "title": "Guardians Reborn 1 TEASER",
       "published_at": "2026-03-12T21:30:00+00:00",
       "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/Guardians-Reborn-TEASER-e3ga5ov",
       "description": "‼️ FULL 'GUARDIANS REBORN 1' EPISODE HERE ‼️ In the futuristic city of New New Estra, three average college students are living three average lives... but they have been having these weird thoughts lately. Like, is any of this for real... or not? 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -4031,7 +4031,7 @@
 
 - 2026-04-09 — NEVERNOWHERE 19. Punily Plundering the Itty Bitty City
 - 2026-03-27 — NEVERNOWHERE 18. Cutely Casing the Itty Bitty City — speakers: Cutely Casing, Itty Bitty City Oak
-- 2026-03-12 — Guardians Reborn TEASER
+- 2026-03-12 — Guardians Reborn 1 TEASER
 - 2026-02-26 — NEVERNOWHERE 17. All Cities Are The Same — speakers: Same Fresh
 - 2026-02-12 — NEVERNOWHERE: Q&A 1
 - 2026-01-30 — NEVERNOWHERE: The Bluebird Report #1 — speakers: Bluebird Report
