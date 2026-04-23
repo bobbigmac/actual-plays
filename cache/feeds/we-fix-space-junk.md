@@ -2,9 +2,9 @@
 
 - slug: `we-fix-space-junk`
 - source: `https://feeds.megaphone.fm/wefixspacejunk`
-- fetched_at: `2026-04-20T08:30:00+00:00`
-- checked_at: `2026-04-20T08:30:00+00:00`
-- last_modified: `Mon, 20 Apr 2026 06:06:37 GMT`
+- fetched_at: `2026-04-23T14:14:29+00:00`
+- checked_at: `2026-04-23T14:14:29+00:00`
+- last_modified: `Thu, 23 Apr 2026 13:21:44 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://battlebird.productions",
   "description": "'We Fix Space Junk' follows seasoned smuggler Kilner and reluctant fugitive Samantha as they travel the galaxy, dodging bullets and meeting strange and wonderful beings as they carry out odd jobs on the fringes of the law. A female-led sci-fi comedy sitcom set in the far future, in a high-tech, dystopian world, We Fix Space Junk draws on the sci-fi of the past, following in the footsteps of Harry Harrison and of Douglas Adams' Hitchhiker's Guide to the Galaxy. Equal parts love-letter to sci-fi and satire of the present-day, Space Junk is lovingly produced by Beth Crane and Hedley Knights of Battle Bird Productions. To support the show visit patreon.com/BattleBirdProd or visit Battlebird.productions",
   "image_url": "https://megaphone.imgix.net/podcasts/8c376dd8-0f0d-11ec-8651-57ea866800e0/image/8d5a72f1090250cbefae2050b1329e32fb962b991327db690dac1bffa8d2ba047cdd30974dd1f9bdc451659cd75d302dfd61aded64e62bb1377d9d88df6be606.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-20T08:30:00+00:00",
+  "fetched_at": "2026-04-23T14:14:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -93,26 +93,6 @@
       "topics": [
         "season",
         "announcement"
-      ]
-    },
-    {
-      "key": "a49b2fc355b8e17197cfca4c8935cd2243474cd1",
-      "title": "Introducing... Hard Drive",
-      "published_at": "2026-01-27T13:20:00+00:00",
-      "link": null,
-      "description": "Hey! I’m sure you’re all keen for some news; keep your eyes and ears open for some Space Junk Season 4 news over the next month! In the meantime, we wanted to share a trailer for a new sci-fi audio drama from Voyage Media. It’s been created by the Neese Twins, aka the producers of Netflix’s Umbrella Academy, and stars Priah Ferguson, aka the excellent Erica Sinclair in Stranger Things, as Dasha, our protagonist. Hard Drive begins with Dasha inheriting a hard drive of her late grandfather’s memories. She begins to go through them, and as she does she uncovers a conspiracy of global proportions. It’s a mix of sci-fi, mystery, thriller and action and the first season is available to listen to right now. Just look for HARD DRIVE, from Voyage Media, anywhere you listen to podcasts. Here's the trailer! Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/7e6203b6-fac8-11f0-a507-efe6a68cea29/image/9bf8eb3e3130f4d2c7c87931c0f18154.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO8159905082.mp3?updated=1769440392",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "185",
-      "speakers": [
-        "Hard Drive Hey",
-        "Space Junk Season"
-      ],
-      "topics": [
-        "hard",
-        "drive"
       ]
     },
     {
@@ -1470,7 +1450,6 @@
 - 2026-04-06 — S04 E02 - The Wall
 - 2026-03-23 — S04E01 - Megafauna — speakers: Megafauna When Kilner
 - 2026-02-23 — Season Four Announcement! — speakers: Season Four Announcement
-- 2026-01-27 — Introducing... Hard Drive — speakers: Hard Drive Hey, Space Junk Season
 - 2023-12-07 — No Space Like Home: A We Fix Space Junk Festive Special! [Trailer]
 - 2022-12-25 — Sponsor Bot's Brucemas Broadcast — speakers: Brucemas Broadcast, Sponsor Bot, Merry Brucemas
 - 2022-10-20 — The Hollow Battery: A We Fix Space Junk Halloween Special! — speakers: Halloween Special, When Kilner
