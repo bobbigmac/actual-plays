@@ -19,6 +19,16 @@ export function joinPath(basePath, suffix) {
   return b + s;
 }
 
+export function resolveUrlMaybeRelative(value, baseHref) {
+  var text = String(value || "").trim();
+  if (!text) return "";
+  try {
+    return new URL(text, baseHref || window.location.href).toString();
+  } catch (_err) {
+    return text;
+  }
+}
+
 export function normalizePathname(p) {
   var out = String(p || "/");
   // Treat "/x" and "/x/" as equivalent for routing checks.
@@ -26,4 +36,3 @@ export function normalizePathname(p) {
   if (!out.endsWith("/")) out = out + "/";
   return out;
 }
-

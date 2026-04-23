@@ -1,3 +1,5 @@
+import { resolveUrlMaybeRelative } from "../util/url.js";
+
 function isAndroid() {
   try {
     return /Android/i.test(navigator.userAgent || "");
@@ -82,6 +84,12 @@ export function initShareUi() {
     e.preventDefault();
 
     var url = String(btn.getAttribute("data-share-url") || "");
+    var panel = btn.closest ? btn.closest(".subscribe-panel") : null;
+    if (panel) {
+      var input = panel.querySelector(".rss-input");
+      if (input) url = String(input.value || input.getAttribute("value") || url || "");
+    }
+    url = resolveUrlMaybeRelative(url);
     if (!url) return;
     var title = String(btn.getAttribute("data-share-title") || "");
 

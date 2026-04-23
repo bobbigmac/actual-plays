@@ -1,3 +1,41 @@
+import { resolveUrlMaybeRelative } from "../util/url.js";
+
+function refreshRssPanel(panel) {
+  if (!panel || !panel.querySelector) return;
+
+  var input = panel.querySelector(".rss-input");
+  var raw = "";
+  if (input) raw = String(input.getAttribute("value") || input.value || "").trim();
+  if (!raw) return;
+
+  var resolved = resolveUrlMaybeRelative(raw);
+  if (input) {
+    input.value = resolved;
+    input.setAttribute("value", resolved);
+  }
+
+  var copyBtn = panel.querySelector("[data-copy-text]");
+  if (copyBtn) copyBtn.setAttribute("data-copy-text", resolved);
+
+  var shareBtn = panel.querySelector("[data-share-url]");
+  if (shareBtn) shareBtn.setAttribute("data-share-url", resolved);
+
+  var androidLink = panel.querySelector("[data-android-intent][data-intent-url]");
+  if (androidLink) androidLink.setAttribute("data-intent-url", resolved);
+
+  var iosLink = panel.querySelector("[data-ios-feed][data-feed-url]");
+  if (iosLink) iosLink.setAttribute("data-feed-url", resolved);
+}
+
+export function refreshCopyUi(root) {
+  var scope = root || document;
+  if (!scope || !scope.querySelectorAll) return;
+  var panels = scope.querySelectorAll(".subscribe-panel");
+  for (var i = 0; i < panels.length; i++) {
+    refreshRssPanel(panels[i]);
+  }
+}
+
 export function initCopyUi() {
   document.addEventListener("click", function (e) {
     var t = e && e.target ? e.target : null;
@@ -7,6 +45,12 @@ export function initCopyUi() {
     e.preventDefault();
 
     var text = String(btn.getAttribute("data-copy-text") || "");
+    var panel = btn.closest ? btn.closest(".subscribe-panel") : null;
+    if (panel) {
+      var input = panel.querySelector(".rss-input");
+      if (input) text = String(input.value || input.getAttribute("value") || text || "");
+    }
+    text = resolveUrlMaybeRelative(text);
     if (!text) return;
 
     function flash(label) {
@@ -54,4 +98,3 @@ export function initCopyUi() {
     }
   });
 }
-
