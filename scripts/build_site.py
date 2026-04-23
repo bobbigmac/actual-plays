@@ -1615,7 +1615,8 @@ def main() -> int:
     # Home page.
     feed_cards = []
     supplemental_count = 0
-    for feed in feeds:
+    browse_feeds = [f for f in feeds if not bool(f.get("supplemental"))] + [f for f in feeds if bool(f.get("supplemental"))]
+    for feed in browse_feeds:
         slug = str(feed.get("slug") or "")
         title = _esc(str(feed.get("title") or slug))
         desc = _esc(str(feed.get("description") or ""))
