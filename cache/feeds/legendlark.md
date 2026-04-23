@@ -2,10 +2,10 @@
 
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
-- fetched_at: `2026-04-23T03:49:29+00:00`
-- checked_at: `2026-04-23T03:49:29+00:00`
+- fetched_at: `2026-04-23T22:03:40+00:00`
+- checked_at: `2026-04-23T22:03:40+00:00`
 - etag: `W/"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ"`
-- last_modified: `Wed, 22 Apr 2026 23:21:47 GMT`
+- last_modified: `Thu, 23 Apr 2026 22:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss",
   "description": "..🚂🚃🚋🚃🚃🚋🚋🚋🚃...... A train pulls into the station. A circus raises its tents. Welcome, one and all, to NEVERNOWHERE— a place where your memories are currency, every dream is reality, and crime really does pay. LegendLark is a narrative comedy TTRPG podcast. Updates every 2nd Thursday! www.legendlark.com",
   "image_url": "https://megaphone.imgix.net/podcasts/38353ab8-2938-11f1-b716-1b70c557bb65/image/5002d6217f82605e3208708900cb0514.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-23T03:49:29+00:00",
+  "fetched_at": "2026-04-23T22:03:40+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ae5748cb1d0e2335de7283efcd3d20c79f4fda82",
+      "title": "Guardians Reborn 2 TEASER",
+      "published_at": "2026-04-23T22:00:00+00:00",
+      "link": null,
+      "description": "‼️ FULL 'GUARDIANS REBORN 2' EPISODE HERE ‼️ Fran, Corbin, and Slake meet their ultimate destinies, make connections, and wonder: Who is that watching from the rooftop? 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/96630a4c-3e9c-11f1-b856-b7eb60e17bdc/image/45bb1c00b6377e9d66e96704c018d75a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR3175272375.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "380",
+      "speakers": [],
+      "topics": [
+        "guardians",
+        "reborn",
+        "teaser"
+      ]
+    },
     {
       "key": "a5b1b061cd0d23c9e71fd948bbf8fbcce442a71e",
       "title": "NEVERNOWHERE 19. Punily Plundering the Itty Bitty City",
@@ -4029,6 +4047,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-23 — Guardians Reborn 2 TEASER
 - 2026-04-09 — NEVERNOWHERE 19. Punily Plundering the Itty Bitty City
 - 2026-03-27 — NEVERNOWHERE 18. Cutely Casing the Itty Bitty City — speakers: Cutely Casing, Itty Bitty City Oak
 - 2026-03-12 — Guardians Reborn 1 TEASER
