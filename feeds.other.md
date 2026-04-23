@@ -19,6 +19,8 @@
 
 # Feeds
 
+- include: feeds.fubar.md
+
 ## a-woodturners-journey
 - url: https://feeds.acast.com/public/shows/65a70f72224eec0017895999
 - title_override: A Woodturners Journey

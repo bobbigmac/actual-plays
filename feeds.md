@@ -15,8 +15,6 @@
 - request_timeout_seconds: 20
 - user_agent: static-podcast-index/1.0 (+https://github.com/)
 
-# Feeds
-
 ## off-menu
 - url: https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4
 - title_override: Off Menu with Ed Gamble and James Acaster

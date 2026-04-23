@@ -1,8 +1,10 @@
 from __future__ import annotations
 
 import argparse
+import html
 import json
 import os
+import re
 import sys
 import time
 import urllib.error
@@ -14,6 +16,7 @@ from pathlib import Path
 from threading import Lock
 import threading
 import weakref
+from typing import Any
 
 from scripts.shared import (
     REPO_ROOT,
@@ -29,6 +32,7 @@ from scripts.shared import (
     sanitize_speakers,
     sanitize_topics,
     stable_episode_key,
+    sha1_hex,
     strip_html,
     utc_now_iso,
     write_json,
@@ -136,6 +140,225 @@ def _normalize_youtube_url(url: str) -> tuple[str, str | None]:
             return f"https://www.youtube.com/feeds/videos.xml?channel_id={urllib.parse.quote(cid)}", "channel"
 
     return u, None
+
+
+def _html_feed_page_cache_path(*, cache_dir: Path, feed_slug: str, page_url: str) -> Path:
+    return cache_dir / "html_pages" / feed_slug / f"{sha1_hex(page_url)}.json"
+
+
+def _html_unescape(text: str | None) -> str:
+    return html.unescape(str(text or ""))
+
+
+def _parse_fubar_pubdate(raw_date: str | None) -> str | None:
+    s = normalize_ws(_html_unescape(raw_date))
+    if not s:
+        return None
+    if "," in s:
+        s = s.split(",", 1)[1].strip()
+    for fmt in ("%d %B %Y", "%d %b %Y"):
+        try:
+            dt = datetime.strptime(s, fmt).replace(tzinfo=timezone.utc)
+            return dt.replace(microsecond=0).isoformat()
+        except Exception:
+            continue
+    return None
+
+
+def _normalize_fubar_audio_url(raw_url: str) -> str:
+    url = urllib.parse.urlparse(_html_unescape(raw_url).strip())
+    if not url.scheme:
+        return ""
+    if url.query:
+        q = urllib.parse.parse_qs(url.query, keep_blank_values=True)
+        if q.get("providerId") == ["fu"]:
+            q["providerId"] = ["fubar_radio"]
+            query = urllib.parse.urlencode(q, doseq=True)
+            url = url._replace(query=query)
+    return urllib.parse.urlunparse(url)
+
+
+def _parse_fubar_episode_card(card_html: str, *, page_url: str) -> dict[str, Any] | None:
+    title_match = re.search(
+        r'<div class="c-feed__item-title">\s*<a class="c-feed__link"[^>]*>([\s\S]*?)</a>',
+        card_html,
+    )
+    date_match = re.search(r'<div class="c-feed__item-meta">\s*([^<]+)\s*</div>', card_html)
+    description_match = re.search(r'<div class="c-feed__item-description">\s*([\s\S]*?)\s*</div>', card_html)
+    audio_match = re.search(r'data-player-audio-url-param="([^"]+)"', card_html)
+    link_match = re.search(r'<a class="c-feed__link"\s+href="([^"]+)"', card_html)
+    image_match = re.search(r'data-player-image-url-param="([^"]+)"', card_html)
+
+    if not title_match or not audio_match:
+        return None
+
+    title = normalize_ws(_html_unescape(title_match.group(1)))
+    published_at = _parse_fubar_pubdate(date_match.group(1) if date_match else None)
+    description = normalize_ws(_html_unescape(description_match.group(1) if description_match else ""))
+    audio_url = _normalize_fubar_audio_url(audio_match.group(1))
+    if not audio_url:
+        return None
+    link = urllib.parse.urljoin(page_url, _html_unescape(link_match.group(1))) if link_match else page_url
+    image_url = _html_unescape(image_match.group(1)).strip() if image_match else ""
+    parsed_audio = urllib.parse.urlparse(audio_url)
+    q = urllib.parse.parse_qs(parsed_audio.query)
+    guid = q.get("awEpisodeId", [audio_url])[0]
+    key = stable_episode_key(guid=guid, enclosure_url=audio_url, title=title, published_at=published_at)
+    return {
+        "key": key,
+        "guid": guid,
+        "title": title,
+        "published_at": published_at,
+        "link": link,
+        "description": description,
+        "image_url": image_url,
+        "enclosure_url": audio_url,
+        "enclosure_type": "audio/mpeg",
+        "enclosure_length": 0,
+        "itunes_duration": None,
+    }
+
+
+def _parse_fubar_html_page(html_text: str, *, page_url: str) -> dict[str, Any]:
+    card_regex = re.compile(r'<div class="c-feed__item"[\s\S]*?<button[\s\S]*?</button>\s*</div>\s*</div>', re.I)
+    episodes: list[dict[str, Any]] = []
+    for card_match in card_regex.finditer(html_text):
+        parsed = _parse_fubar_episode_card(card_match.group(0), page_url=page_url)
+        if parsed:
+            episodes.append(parsed)
+
+    next_match = re.search(r'<a href="([^"]+page=\d+)"\s+class="c-feed__more">See more\.\.\.<\/a>', html_text)
+    next_page_url = urllib.parse.urljoin(page_url, _html_unescape(next_match.group(1))) if next_match else None
+
+    title_match = re.search(r'<p class="c-hero__page-title">\s*([^<]+)\s*</p>', html_text)
+    page_title = normalize_ws(_html_unescape(title_match.group(1))) if title_match else ""
+
+    return {
+        "page_title": page_title,
+        "episodes": episodes,
+        "next_page_url": next_page_url,
+    }
+
+
+def _load_html_page_cache(path: Path) -> dict[str, Any] | None:
+    if not path.exists():
+        return None
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+    return data if isinstance(data, dict) else None
+
+
+def _write_html_page_cache(path: Path, data: dict[str, Any]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    _atomic_write_text(path, json.dumps(data, ensure_ascii=False, indent=2))
+
+
+def _fetch_fubar_html_feed(
+    job: _FeedJob,
+    *,
+    cache_dir: Path,
+    timeout_seconds: int,
+    user_agent: str,
+    per_feed_state: dict,
+    now_iso: str,
+    quiet: bool,
+) -> tuple[dict[str, Any], dict[str, Any]]:
+    """
+    Crawl a paginated FUBAR on-demand page and synthesize a feed-shaped JSON payload.
+    Page responses are cached individually so unchanged HTML pages are reused via
+    conditional requests instead of being reparsed on every update.
+    """
+    root_url = job.url
+    visited: set[str] = set()
+    page_url = root_url
+    all_items: list[dict[str, Any]] = []
+    seen_guids: set[str] = set()
+    page_count = 0
+    page_cache_dir = cache_dir / "html_pages" / job.slug
+    last_page_title = ""
+    last_page_cache: dict[str, Any] | None = None
+
+    while page_url and page_url not in visited:
+        visited.add(page_url)
+        page_cache_path = _html_feed_page_cache_path(cache_dir=cache_dir, feed_slug=job.slug, page_url=page_url)
+        prev_page_cache = _load_html_page_cache(page_cache_path) or {}
+        etag = str(prev_page_cache.get("etag") or "").strip() or None
+        last_modified = str(prev_page_cache.get("last_modified") or "").strip() or None
+
+        result = fetch_url(
+            page_url,
+            timeout_seconds=timeout_seconds,
+            user_agent=user_agent,
+            if_none_match=etag,
+            if_modified_since=last_modified,
+        )
+        page_count += 1
+        resolved_page_url = str(result.url or page_url)
+
+        if result.status == 304 and prev_page_cache:
+            page_data = prev_page_cache
+            if not quiet:
+                print(f"[unchanged] {job.slug} page {page_count}")
+        else:
+            if not result.content:
+                raise RuntimeError(f"Empty HTML response for {resolved_page_url}")
+            html_text = result.content.decode("utf-8", errors="replace")
+            parsed_page = _parse_fubar_html_page(html_text, page_url=resolved_page_url)
+            page_data = {
+                "url": page_url,
+                "resolved_url": resolved_page_url,
+                "fetched_at": now_iso,
+                "etag": result.etag,
+                "last_modified": result.last_modified,
+                "page_title": parsed_page.get("page_title") or "",
+                "next_page_url": parsed_page.get("next_page_url"),
+                "episodes": parsed_page.get("episodes") or [],
+            }
+            _write_html_page_cache(page_cache_path, page_data)
+            if not quiet:
+                print(f"[cached] {job.slug} page {page_count} -> {page_cache_path}")
+
+        last_page_title = str(page_data.get("page_title") or last_page_title or "")
+        last_page_cache = page_data
+
+        for item in page_data.get("episodes") or []:
+            if not isinstance(item, dict):
+                continue
+            guid = str(item.get("guid") or item.get("key") or "")
+            if guid and guid in seen_guids:
+                continue
+            if guid:
+                seen_guids.add(guid)
+            all_items.append(dict(item))
+
+        page_url = str(page_data.get("next_page_url") or "").strip() or None
+
+    if not all_items:
+        raise RuntimeError("No episodes found on HTML feed pages")
+
+    all_items.sort(key=lambda e: str(e.get("published_at") or ""), reverse=True)
+    if job.feed_max_episodes > 0:
+        all_items = all_items[: job.feed_max_episodes]
+
+    feed_json = {
+        "version": 1,
+        "slug": job.slug,
+        "source_url": root_url,
+        "title": job.feed_title or last_page_title or job.slug,
+        "link": root_url,
+        "description": f"Built from the official FUBAR on-demand page at {root_url}",
+        "image_url": str((last_page_cache or {}).get("image_url") or ""),
+        "fetched_at": now_iso,
+        "owners": sanitize_speakers(job.owners),
+        "common_speakers": sanitize_speakers(job.common_speakers),
+        "categories": list(job.categories or []),
+        "episodes": all_items,
+    }
+    if job.scraper:
+        feed_json["scraper"] = job.scraper
+    return feed_json, {"status": "ok", "checked_at": now_iso, "pages": page_count}
 
 
 def _atomic_write_text(path: Path, text: str) -> None:
@@ -439,6 +662,7 @@ def _try_tag_with_spacy(items: list[dict], *, quiet: bool) -> dict[str, dict]:
 class _FeedJob:
     slug: str
     url: str
+    scraper: str
     feed_title: str | None
     feed_min_hours: int
     feed_max_episodes: int
@@ -533,10 +757,21 @@ class _DaemonThreadPoolExecutor(ThreadPoolExecutor):
         num_threads = len(self._threads)
         if num_threads < self._max_workers:
             thread_name = "%s_%d" % (self._thread_name_prefix or self, num_threads)
+            if hasattr(self, "_create_worker_context"):
+                worker_ctx_factory = getattr(self, "_create_worker_context", None)
+                worker_ctx = worker_ctx_factory() if callable(worker_ctx_factory) else None
+                worker_args = (weakref.ref(self, weakref_cb), worker_ctx, self._work_queue)
+            else:
+                worker_args = (
+                    weakref.ref(self, weakref_cb),
+                    self._work_queue,
+                    getattr(self, "_initializer", None),
+                    getattr(self, "_initargs", ()),
+                )
             t = threading.Thread(
                 name=thread_name,
                 target=_worker,
-                args=(weakref.ref(self, weakref_cb), self._work_queue, self._initializer, self._initargs),
+                args=worker_args,
                 daemon=True,
             )
             t.start()
@@ -658,6 +893,75 @@ def _process_one_feed(
     disable_after = int(
         defaults.get("disable_after_consecutive_failures", _DISABLE_AFTER_CONSECUTIVE_FAILURES_DEFAULT)
     )
+
+    if job.scraper == "fubar_on_demand":
+        try:
+            feed_json, fetch_meta = _fetch_fubar_html_feed(
+                job,
+                cache_dir=feeds_md_dir.parent,
+                timeout_seconds=timeout_seconds,
+                user_agent=user_agent,
+                per_feed_state=per_feed_state,
+                now_iso=now_iso,
+                quiet=quiet,
+            )
+        except Exception as e:
+            msg = str(e).strip() or "Parse error"
+            _err(f"[error] {slug} fetch failed: {msg}")
+            per_feed_state["last_checked_at"] = now_iso
+            per_feed_state["last_checked_unix"] = int(time.time())
+            wrote = _record_failure(
+                feed_slug=slug,
+                url=url,
+                job=job,
+                prev_json=prev_json,
+                per_feed_state=per_feed_state,
+                defaults=defaults,
+                now_iso=now_iso,
+                status=None,
+                message=msg,
+                disable_after=disable_after,
+                quiet=quiet,
+                md_path=md_path,
+            )
+            return _FeedResult(slug=slug, per_feed_state=per_feed_state, changed=wrote, wrote_cache=wrote)
+
+        per_feed_state["last_checked_at"] = now_iso
+        per_feed_state["last_checked_unix"] = int(time.time())
+
+        if per_feed_state.get("consecutive_failures") or per_feed_state.get("disabled"):
+            per_feed_state["consecutive_failures"] = 0
+            per_feed_state.pop("disabled", None)
+            per_feed_state.pop("disabled_at", None)
+            per_feed_state.pop("disabled_url", None)
+            per_feed_state.pop("disabled_reason", None)
+            per_feed_state.pop("last_error_at", None)
+            per_feed_state.pop("last_error_status", None)
+            per_feed_state.pop("last_error_message", None)
+
+        prev_sig = json.dumps(prev_json, sort_keys=True, ensure_ascii=False)
+        next_sig = json.dumps(feed_json, sort_keys=True, ensure_ascii=False)
+        if prev_sig == next_sig:
+            if not quiet:
+                print(f"[no-op] {slug}")
+            return _FeedResult(slug=slug, per_feed_state=per_feed_state, changed=False, wrote_cache=False)
+
+        feeds_md_dir.mkdir(parents=True, exist_ok=True)
+        md = _render_cache_markdown(
+            feed_slug=slug,
+            fetched_at=str(feed_json.get("fetched_at") or now_iso),
+            checked_at=str(fetch_meta.get("checked_at") or now_iso),
+            etag=None,
+            last_modified=None,
+            feed=feed_json,
+            defaults=defaults,
+        )
+        _atomic_write_text(md_path, md)
+        if not quiet:
+            pages = fetch_meta.get("pages")
+            page_note = f" ({pages} pages)" if isinstance(pages, int) and pages else ""
+            print(f"[updated] {slug}{page_note} -> {md_path}")
+        return _FeedResult(slug=slug, per_feed_state=per_feed_state, changed=True, wrote_cache=True)
 
     try:
         result = fetch_url(
@@ -1074,6 +1378,7 @@ def main() -> int:
             _FeedJob(
                 slug=str(slug),
                 url=str(url),
+                scraper=str(feed_cfg.get("scraper") or "").strip(),
                 feed_title=feed_cfg.get("title_override"),
                 feed_min_hours=feed_min_hours,
                 feed_max_episodes=feed_max_episodes,

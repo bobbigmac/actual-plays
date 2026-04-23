@@ -42,7 +42,7 @@ def read_feeds_config(path: Path) -> dict[str, Any]:
             f"Tip: run `yarn convert:feedsmd` to generate `feeds.md` from legacy `feeds*.json`."
         )
     text = path.read_text(encoding="utf-8", errors="replace")
-    cfg = parse_feeds_markdown(text)
+    cfg = parse_feeds_markdown(text, base_dir=path.parent)
     if not isinstance(cfg, dict):
         raise ValueError(f"Invalid markdown feeds config: {path}")
     return cfg

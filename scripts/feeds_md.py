@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import re
 from dataclasses import dataclass
+from pathlib import Path
 from typing import Any
 
 
@@ -88,7 +89,12 @@ class _Section:
     level: int
 
 
-def parse_feeds_markdown(text: str) -> dict[str, Any]:
+def parse_feeds_markdown(
+    text: str,
+    *,
+    base_dir: Path | None = None,
+    _include_stack: tuple[Path, ...] = (),
+) -> dict[str, Any]:
     """
     Parse a feeds config written in conventional Markdown.
 
@@ -109,6 +115,7 @@ def parse_feeds_markdown(text: str) -> dict[str, Any]:
     ...
 
     # Feeds
+    - include: feeds.fubar.md
     ## off-menu
     - url: https://...
     - title_override: ...
@@ -136,6 +143,28 @@ def parse_feeds_markdown(text: str) -> dict[str, Any]:
             if body:
                 site["home_intro_md"] = body
         intro_lines = []
+
+    def load_include(value: str) -> None:
+        include_paths = _split_list(value, seps=",;")
+        for raw_path in include_paths:
+            include_path = Path(raw_path).expanduser()
+            if not include_path.is_absolute():
+                include_path = (base_dir or Path.cwd()) / include_path
+            include_path = include_path.resolve()
+            if include_path in _include_stack:
+                chain = " -> ".join(str(p) for p in _include_stack + (include_path,))
+                raise ValueError(f"Include cycle detected while parsing feeds markdown: {chain}")
+            if not include_path.exists():
+                raise ValueError(f"Included feeds markdown not found: {include_path}")
+            include_text = include_path.read_text(encoding="utf-8", errors="replace")
+            include_cfg = parse_feeds_markdown(
+                include_text,
+                base_dir=include_path.parent,
+                _include_stack=_include_stack + (include_path,),
+            )
+            included_feeds = include_cfg.get("feeds")
+            if isinstance(included_feeds, list) and included_feeds:
+                cfg["feeds"].extend([feed for feed in included_feeds if isinstance(feed, dict)])
 
     for raw in lines:
         line = _strip_comment(raw).rstrip("\n")
@@ -194,6 +223,11 @@ def parse_feeds_markdown(text: str) -> dict[str, Any]:
 
         key = _norm_key(km.group("key"))
         val_raw = km.group("val")
+        key_l = key.lower()
+
+        if current_top == "feeds" and current_feed is None and key_l in ("include", "includes", "import", "imports"):
+            load_include(val_raw)
+            continue
 
         target: dict[str, Any] | None
         if current_top == "site":
@@ -207,8 +241,6 @@ def parse_feeds_markdown(text: str) -> dict[str, Any]:
 
         if target is None:
             continue
-
-        key_l = key.lower()
 
     # Key aliases / normalization.
         if current_top == "feeds" and key_l == "title":
@@ -394,6 +426,7 @@ def dumps_feeds_markdown(cfg: dict[str, Any]) -> str:
         "url",
         "title_override",
         "supplemental",
+        "scraper",
         "owners",
         "common_speakers",
         "exclude_speakers",

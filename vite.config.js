@@ -194,5 +194,9 @@ export default defineConfig({
   server: {
     port: 8000,
     strictPort: true,
+    watch: {
+      usePolling: true,
+      ignored: ["**/node_modules/**", "**/dist/**"],
+    },
   },
 });

@@ -542,6 +542,75 @@ def _fmt_size(bytes_value: int | None) -> str:
     return format_bytes(int(bytes_value))
 
 
+def _render_local_rss_xml(
+    *,
+    feed: dict[str, Any],
+    slug: str,
+    feed_title: str,
+    feed_desc: str,
+    feed_link: str,
+    rss_self_url: str,
+) -> str:
+    episodes = feed.get("episodes") or []
+    latest_pub = _rss_pubdate((episodes[0].get("published_at") if isinstance(episodes, list) and episodes else None))
+    last_build = latest_pub or format_datetime(datetime.now(timezone.utc))
+    items_xml: list[str] = []
+    if isinstance(episodes, list):
+        for ep in episodes:
+            if not isinstance(ep, dict):
+                continue
+            title = str(ep.get("title") or "").strip()
+            if not title:
+                continue
+            audio_url = _safe_http_href(str(ep.get("enclosure_url") or "").strip())
+            if not audio_url:
+                continue
+            link_url = _safe_http_href(str(ep.get("link") or "").strip()) or feed_link
+            pub = _rss_pubdate(ep.get("published_at")) or last_build
+            guid = str(ep.get("guid") or ep.get("key") or title).strip()
+            length = int(ep.get("enclosure_length") or 0) if isinstance(ep.get("enclosure_length"), int) else 0
+            typ = str(ep.get("enclosure_type") or "audio/mpeg").strip() or "audio/mpeg"
+            desc = str(ep.get("description") or "").strip()
+            desc_xml = f"<description>{_esc(desc)}</description>" if desc else ""
+            dur = _fmt_time(_duration_seconds(ep.get("itunes_duration")))
+            dur_xml = f"<itunes:duration>{_esc(dur)}</itunes:duration>" if dur else ""
+            image_url = _safe_http_href(str(ep.get("image_url") or feed.get("image_url") or "").strip())
+            img_xml = f'<itunes:image href="{_esc(image_url)}" />' if image_url else ""
+            items_xml.append(
+                f"""
+                <item>
+                  <title>{_esc(title)}</title>
+                  <link>{_esc(link_url)}</link>
+                  <guid isPermaLink="false">{_esc(guid)}</guid>
+                  <pubDate>{_esc(pub)}</pubDate>
+                  {desc_xml}
+                  {img_xml}
+                  {dur_xml}
+                  <enclosure url="{_esc(audio_url)}" length="{length}" type="{_esc(typ)}" />
+                </item>
+                """.strip()
+            )
+
+    author = ", ".join([str(x).strip() for x in (feed.get("owners") or []) if str(x).strip()]) or feed_title
+    rss_lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">',
+        "<channel>",
+        f"  <title>{_esc(feed_title)}</title>",
+        f"  <description>{_esc(feed_desc)}</description>",
+        f"  <link>{_esc(feed_link)}</link>",
+        "  <language>en-gb</language>",
+        f"  <lastBuildDate>{_esc(last_build)}</lastBuildDate>",
+        f'  <atom:link href="{_esc(rss_self_url)}" rel="self" type="application/rss+xml" />',
+        f"  <itunes:author>{_esc(author)}</itunes:author>",
+        f"  <itunes:summary>{_esc(feed_desc)}</itunes:summary>",
+    ]
+    for item in items_xml:
+        rss_lines.append("  " + item.replace("\n", "\n  "))
+    rss_lines.extend(["  </channel>", "</rss>", ""])
+    return "\n".join(rss_lines)
+
+
 def _fmt_avg_duration(seconds: int | None) -> str:
     if not seconds:
         return ""
@@ -1994,7 +2063,6 @@ def main() -> int:
                 """.strip()
             )
 
-        feed_link = feed.get("link") or feed.get("source_url") or ""
         feed_desc = feed.get("description") or ""
         categories = feed.get("categories") or []
         note = str(feed.get("editors_note") or "").strip()
@@ -2034,34 +2102,51 @@ def main() -> int:
             cat_slug = cat_slug_by_name.get(cat) or slugify(cat)
             cat_links.append(f'<a class="tag" href="{_esc(_href(base_path, f"categories/{cat_slug}/"))}">{_esc(cat)}</a>')
         cats_html = f'<div class="tags">{"".join(cat_links)}</div>' if cat_links else ""
+        feed_link = feed.get("link") or feed.get("source_url") or ""
 
+        generated_rss = str(feed.get("scraper") or "").strip() == "fubar_on_demand"
         rss_url = _safe_http_href(str(feed.get("source_url") or ""))
-        rss_q = urllib.parse.quote(rss_url, safe="") if rss_url else ""
+        rss_path = _href(base_path, f"{slug}/feed.xml") if generated_rss else ""
+        rss_href = rss_path if generated_rss else rss_url
+        rss_abs = _abs_site_href(site_url_norm, rss_href) if site_url_norm and rss_href else ""
+        rss_for_actions = rss_abs or rss_href
+        rss_q = urllib.parse.quote(rss_for_actions, safe="") if rss_for_actions else ""
         title_q = urllib.parse.quote(str(title or ""), safe="")
         subscribe_panel = ""
-        if rss_url:
+        if rss_for_actions:
             rss_icon = _href(base_path, "assets/rss.svg")
             subscribe_panel = f"""
             <section class="card panel subscribe-panel">
               <div class="panel-head">
                 <h2 class="panel-title"><img class="rss-icon" src="{_esc(rss_icon)}" alt="" aria-hidden="true" /> RSS</h2>
-                <a class="btn btn-sm" href="{_esc(rss_url)}" rel="noopener" target="_blank">RSS</a>
+                <a class="btn btn-sm" href="{_esc(rss_href)}" rel="noopener" target="_blank">Feed</a>
               </div>
               <div class="subscribe-row">
-                <input class="rss-input" type="text" value="{_esc(rss_url)}" readonly />
-                <button class="btn btn-sm" type="button" data-copy-text="{_esc(rss_url)}">Copy</button>
-                <button class="btn btn-sm" type="button" data-share-url="{_esc(rss_url)}" data-share-title="{_esc(title)}">Share</button>
+                <input class="rss-input" type="text" value="{_esc(rss_for_actions)}" readonly />
+                <button class="btn btn-sm" type="button" data-copy-text="{_esc(rss_for_actions)}">Copy</button>
+                <button class="btn btn-sm" type="button" data-share-url="{_esc(rss_for_actions)}" data-share-title="{_esc(title)}">Share</button>
               </div>
               <div class="subscribe-actions">
                 <a class="btn btn-sm" href="{_esc('https://overcast.fm/add?url=' + rss_q)}" rel="noopener" target="_blank">Overcast</a>
                 <a class="btn btn-sm" href="{_esc('https://pocketcasts.com/submit/?url=' + rss_q)}" rel="noopener" target="_blank">Pocket Casts</a>
                 <a class="btn btn-sm" href="{_esc('https://gpodder.net/subscribe?url=' + rss_q)}" rel="noopener" target="_blank">gPodder</a>
                 <a class="btn btn-sm" href="{_esc('https://podcasts.apple.com/search?term=' + title_q)}" rel="noopener" target="_blank">Apple Podcasts</a>
-                <a class="btn btn-sm" data-android-intent hidden data-intent-url="{_esc(rss_url)}" rel="noopener">Open in app</a>
-                <a class="btn btn-sm" data-ios-feed hidden data-feed-url="{_esc(rss_url)}" rel="noopener">Open in app</a>
+                <a class="btn btn-sm" data-android-intent hidden data-intent-url="{_esc(rss_for_actions)}" rel="noopener">Open in app</a>
+                <a class="btn btn-sm" data-ios-feed hidden data-feed-url="{_esc(rss_for_actions)}" rel="noopener">Open in app</a>
               </div>
             </section>
             """.strip()
+            if generated_rss:
+                rss_xml = _render_local_rss_xml(
+                    feed=feed,
+                    slug=slug,
+                    feed_title=title,
+                    feed_desc=str(feed_desc or ""),
+                    feed_link=str(feed_link or ""),
+                    rss_self_url=rss_abs or rss_href,
+                )
+                (dist_dir / slug).mkdir(parents=True, exist_ok=True)
+                (dist_dir / slug / "feed.xml").write_text(rss_xml, encoding="utf-8")
         content = f"""
         <h1>{_esc(title)}</h1>
         <p class="muted">{_esc(feed_desc)}</p>
