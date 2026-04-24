@@ -2,9 +2,9 @@
 
 - slug: `adventure-is-nigh`
 - source: `https://anchor.fm/s/fcdf7d8c/podcast/rss`
-- fetched_at: `2026-04-23T16:54:05+00:00`
-- checked_at: `2026-04-23T16:54:05+00:00`
-- etag: `W/"18a71-MRXG92e5z+Dyrp7R5vKmXfdoOsM"`
+- fetched_at: `2026-04-24T03:53:34+00:00`
+- checked_at: `2026-04-24T03:53:34+00:00`
+- etag: `W/"18a71-NQoAD94XJsqxo1tWjqF+bPAh8U4"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Adventure is Nigh is Second Wind's animated Dungeons & Dragons actual play series hosted by Jack Packard and featuring Yahtzee Croshaw, KC Nwosu, Amy Campbell and Jesse Galena.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42325051/42325051-1730101520408-b0882a325f37d.jpg",
-  "fetched_at": "2026-04-23T16:54:05+00:00",
+  "fetched_at": "2026-04-24T03:53:34+00:00",
   "owners": [
     "Jack Packard",
     "Yahtzee Croshaw",
