@@ -2,9 +2,9 @@
 
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
-- fetched_at: `2026-04-24T19:15:07+00:00`
-- checked_at: `2026-04-24T19:15:07+00:00`
-- etag: `W/"8801e62a346f49311a659246f0181251"`
+- fetched_at: `2026-04-24T22:05:00+00:00`
+- checked_at: `2026-04-24T22:05:00+00:00`
+- etag: `W/"63bbd6f684e8e5b1cb92b6ff7c4bb2f2"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollthehard20podcast.com/podcast-episode/",
   "description": "Dungeons and Dragons weekly actual play and discussions",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/9d3b0539-1955-4096-946d-2fe71cf34e12/TheHardTwenty-DeltaGreen-Greens+2.jpg?format=1500w",
-  "fetched_at": "2026-04-24T19:15:07+00:00",
+  "fetched_at": "2026-04-24T22:05:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "9bb7732dbe9beffd18f54957117d256274ca4839",
+      "title": "DELTA GREEN: PLAYTHINGS (EP 11: THE FINALE)",
+      "published_at": "2026-04-24T21:26:41+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/4/24/delta-green-playthings-ep-11-the-finale",
+      "description": "The Agents pursue Dr. Windhelm… and Molly Doll! Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1777065989217-EZUM4OCM77QZIAR8C3U9/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/69ebdf132ac3db640978e277/1777065951606/pt+11+-+4%3A23%3A26%2C+6.19+PM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127880385",
+      "itunes_duration": "1:06:36",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "playthings",
+        "finale"
+      ]
+    },
     {
       "key": "17c6194b0fe928154019b139deec5e4095009eb6",
       "title": "DELTA GREEN: PLAYTHINGS (EP 10)",
@@ -5660,26 +5679,6 @@
         "storm",
         "nigh"
       ]
-    },
-    {
-      "key": "0ac39091339adf445404de5994b98761380b75c3",
-      "title": "RIDERS ON THE STORM EP 25: NO HANDLE, NO HINGES, NO LOCK",
-      "published_at": "2019-01-04T01:07:10+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/1/3/riders-on-the-storm-ep-25-no-handle-no-hinges-no-lock",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909290912-KGS4Z63LX7HOUZIE57DQ/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c2eb02c8a922d8f0fe8e37f/1546563815403/Riders+on+the+Storm+EP+25.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "58105021",
-      "itunes_duration": "40:20",
-      "speakers": [],
-      "topics": [
-        "rider",
-        "storm",
-        "handle",
-        "hinges",
-        "lock"
-      ]
     }
   ]
 }
@@ -5688,6 +5687,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-24 — DELTA GREEN: PLAYTHINGS (EP 11: THE FINALE)
 - 2026-04-19 — DELTA GREEN: PLAYTHINGS (EP 10)
 - 2026-04-11 — DELTA GREEN: PLAYTHINGS (EP 9) — speakers: Molly Doll
 - 2026-04-04 — DELTA GREEN: PLAYTHINGS (EP 8) — speakers: Medical Examiner
@@ -5987,4 +5987,3 @@
 - 2019-01-21 — RIDERS ON THE STORM EP 28: IN-FLIGHT ENTERTAINMENT
 - 2019-01-14 — RIDERS ON THE STORM EP 27: THE SOUL CRUCIBLE
 - 2019-01-08 — RIDERS ON THE STORM EP 26: THE END IS NIGH
-- 2019-01-04 — RIDERS ON THE STORM EP 25: NO HANDLE, NO HINGES, NO LOCK
