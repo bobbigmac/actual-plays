@@ -2,9 +2,9 @@
 
 - slug: `flail-to-the-face-a-compatible-with-m-rk-borg-actual-play-podcast`
 - source: `https://anchor.fm/s/e221626c/podcast/rss`
-- fetched_at: `2026-04-20T22:05:12+00:00`
-- checked_at: `2026-04-20T22:05:12+00:00`
-- etag: `W/"64447-G+CSD1BFm30/NbCN0KHNjbsK9XI"`
+- fetched_at: `2026-04-24T16:13:43+00:00`
+- checked_at: `2026-04-24T16:13:43+00:00`
+- etag: `W/"65b0b-jeMwyy7yF000GIujWsTarNXZjJk"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://discord.gg/ye4VzTv9",
   "description": "Flail to the Face is a \"Compatible with Mörk Borg\" Actual Play Podcast, focusing on playing and promoting third party content and their creators.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37838387/37838387-1756395980208-7d45de7e84c02.jpg",
-  "fetched_at": "2026-04-20T22:05:12+00:00",
+  "fetched_at": "2026-04-24T16:13:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "ttrpg/mork-borg"
   ],
   "episodes": [
+    {
+      "key": "6732844683669b566d641348a7cfa7500cf003ac",
+      "title": "Season Two, Episode Seven: Sounding Off!",
+      "published_at": "2026-04-24T09:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/flailtotheface/episodes/Season-Two--Episode-Seven-Sounding-Off-e3i5bhn",
+      "description": "In this episode, our Agents of M.I.L.F team up with their contact, Tunguska, to track down the alleged Malefactor! But on the way, they make a pit stop. What could possibly go wrong, you ask? Find out as Flail to the Face plays Wasteland Degenerates! This episode of Flail to the face features the game Human Occupied Landfill by Todd Shaughnessy, Daniel Thron, Chris Elliott, HellSpawn by Richard Markert and Lee Iovis & Wasteland Degenerates by Scott C. McDonald. With: Thomas Genno-Stumme playing Dalton Walls. Tom Gambino playing Collette Stellarno. Charles Paschke playing Donnie. And Kevin Welch as the FlailMeister. Season 2 theme music is Void Construct by Alex Grohl. Editing by Kevin Welch. Cover Art by Tom Gambino with assets from UnitSix. Video Editing by Dan Finney SFX courtesy of Epidemic Sound & Pixabay. Whispers of the Dying Lands: https://open.spotify.com/show/7yFvPcYtVa2jP5nCI1QqCS?si=a93f011397354f8d HellSpawn: ⁠⁠⁠⁠⁠⁠hellspawnrpg.com⁠⁠⁠⁠⁠⁠ Wasteland Degenerates: ⁠⁠⁠Wasteland Degenerates⁠⁠⁠ Dan Finney : ⁠⁠⁠⁠OVERLAND EMPIRE⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠ Find us on whatever social media platform you use: Facebook Twitter Instagram BlueSky #FlailToTheFace #mörkborg #actualplay #podcast #ttrpg #hol #HumanOccupiedLandfill #Hellspawn #WastelandDegenerates",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37838387/37838387-1777028903492-06d8f71eaa06f.jpg",
+      "enclosure_url": "https://anchor.fm/s/e221626c/podcast/play/118713335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-20%2Ff2bfe04a-85e7-87c0-a751-7edaa011ffac.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93381648",
+      "itunes_duration": "01:01:08",
+      "speakers": [],
+      "topics": [
+        "season",
+        "seven"
+      ]
+    },
     {
       "key": "63209657fa81c628028ba60542ef5b4a14e8da52",
       "title": "Season Two, Episode Six: Hot Wheels",
@@ -1096,6 +1113,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-24 — Season Two, Episode Seven: Sounding Off!
 - 2026-04-03 — Season Two, Episode Six: Hot Wheels — speakers: Season Two
 - 2026-03-13 — Bonus Episode: The Alchemist Appendix (w/ Guest Gm Dylan Anderson of Weird Alchemy) — speakers: Guest Gm, Dylan Anderson
 - 2026-02-13 — Season Two, Episode Five: Of Ducks And Demons — speakers: Season Two
