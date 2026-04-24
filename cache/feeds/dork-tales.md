@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-04-20T14:15:50+00:00`
-- checked_at: `2026-04-20T14:15:50+00:00`
-- etag: `"b596dd80630f4d283be9a07077118e08"`
+- fetched_at: `2026-04-24T19:15:07+00:00`
+- checked_at: `2026-04-24T19:15:07+00:00`
+- etag: `"7f7364bee9b9d9c2604f144ed586a3aa"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/5111002/Dork_Tales_d20_20238mnn1.png",
-  "fetched_at": "2026-04-20T14:15:50+00:00",
+  "fetched_at": "2026-04-24T19:15:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "a601105693515b8e394e2cde69fae1d2ef7dda60",
+      "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 2: The Voyage of the Nestor",
+      "published_at": "2026-04-24T16:43:48+00:00",
+      "link": "https://dorktales.podbean.com/e/mage-the-ascension-the-victorian-age-book-3-chapter-2-the-voyage-of-the-nestor/",
+      "description": "Welcome to book three of Mage the Victorian Age! In this episode, the Doves begin their journey to Egypt. Thank you to Bookwyrm Games for sponsoring Dork Tales this month! Use code DORKTALES to save 15% at https://www.bookwyrmgames.com! Orders over $100 also enjoy free shipping! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage *** Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Evelyn Taylor *** Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktalescha... Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! *** Music credits: Music From Dark Fantasy Studio Hidden in the Dark These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vision of the Ancients Veil Entropy Dork Time Piano Alice Guitar Forthright Choir Exodus These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! https://www.tabletopaudio.com",
+      "image_url": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog5111002/Mage_Book_3Podcast_Logoabm7t.png",
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/jj6qsb9f9usefzzw/MVA3x2complete.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132555576",
+      "itunes_duration": "9465",
+      "speakers": [
+        "Victorian Age",
+        "Nestor Welcome"
+      ],
+      "topics": [
+        "ascension",
+        "book",
+        "chapter",
+        "voyage",
+        "nestor"
+      ]
+    },
     {
       "key": "0d75a58f4c6ef1315d666b9406ce0a2738553c55",
       "title": "Vecna: Eve of Ruin | Episode 33: Torment of Kas",
@@ -7618,6 +7641,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-24 — Mage the Ascension the Victorian Age | Book 3, Chapter 2: The Voyage of the Nestor — speakers: Victorian Age, Nestor Welcome
 - 2026-04-20 — Vecna: Eve of Ruin | Episode 33: Torment of Kas — speakers: Kas Vecna
 - 2026-04-17 — Mage the Ascension the Victorian Age | Book 3, Chapter 1: A Long Overdue Departure — speakers: Victorian Age, Long Overdue Departure Welcome
 - 2026-04-13 — Vecna: Eve of Ruin | Episode 32: The Betrayer Revealed
