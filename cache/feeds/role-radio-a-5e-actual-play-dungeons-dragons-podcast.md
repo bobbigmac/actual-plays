@@ -2,8 +2,8 @@
 
 - slug: `role-radio-a-5e-actual-play-dungeons-dragons-podcast`
 - source: `https://feeds.redcircle.com/721aa1af-1a3d-4127-a0b9-7f1c74c64231`
-- fetched_at: `2026-04-25T15:58:09+00:00`
-- checked_at: `2026-04-25T15:58:09+00:00`
+- fetched_at: `2026-04-25T19:12:52+00:00`
+- checked_at: `2026-04-25T19:12:52+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/role_radio",
   "description": "Welcome to Role Radio, an actual play, 5th Edition, Dungeons & Dragons Podcast. We are a group of old friends who get together every week and have fun playing D&D, and fun for us is role playing, rolling dice, and rolling on the floor laughing. We then take that fun time and edit it , fill it with music, sound effects, and surprises to create a fast paced, cinematic and compelling story so that you can have as much fun listening as we do playing. Join us as we travel to the Forgotten Realms and play Wizards of the Coast exciting adventure, Scourge of the Sword Coast. Will the players be able to save the Western Heartlands from the Red Wizards evil plans? Who Knows! Tune in and find out on Role Radio! Check us out at our website - https://roleradio.com",
   "image_url": "https://media.redcircle.com/images/2019/8/23/1/a849cb1e-4999-4dce-b26b-85c2fc9432ff_fd352b_15c46494-8000-47e5-b36c-2f888a696a55_a9155d89-8fbe-4d72-a618-ce3de3fac1f5_a73f8806-062f-4528-94c8-60579d761bf3_fd03ab16-3b80-4f94-a02a-56e91890729d_6abcaf3a-0d59-4e63-9557-22fd65d6b8ec_blob.jpg",
-  "fetched_at": "2026-04-25T15:58:09+00:00",
+  "fetched_at": "2026-04-25T19:12:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,22 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "8d110f75aacc87cfc09441041872f5eaf69d88a2",
+      "title": "S5E132 - Who's NOT Dead?",
+      "published_at": "2026-04-25T16:42:57+00:00",
+      "link": "https://roleradio.com/",
+      "description": "In this shocking episode the party reunites with and old \"friend\". We also learn what familiars do while they are in the pocket dimension as well as the extent and limitations of giant spiders' CPR capabilities.",
+      "image_url": null,
+      "enclosure_url": "https://audio3.redcircle.com/episodes/eb30bbe5-8531-44da-b0fa-a377b5362a7a/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54080992",
+      "itunes_duration": "3380",
+      "speakers": [],
+      "topics": [
+        "s5e132"
+      ]
+    },
     {
       "key": "8f3de99229b6e4d54fdd0766a006388086d84b4f",
       "title": "S5E131 - Nudge the Bubble",
@@ -2325,6 +2341,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-25 — S5E132 - Who's NOT Dead?
 - 2026-03-15 — S5E131 - Nudge the Bubble
 - 2026-02-12 — S5E130 - Take That, Posturepedic!
 - 2025-12-27 — S5E129 - Murder is a Strong Word

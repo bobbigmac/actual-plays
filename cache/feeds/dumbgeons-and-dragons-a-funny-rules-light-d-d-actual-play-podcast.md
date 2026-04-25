@@ -2,9 +2,9 @@
 
 - slug: `dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast`
 - source: `https://rss.art19.com/dumbgeons-and-dragons`
-- fetched_at: `2026-04-22T08:09:04+00:00`
-- checked_at: `2026-04-22T08:09:04+00:00`
-- last_modified: `Wed, 22 Apr 2026 07:00:03 GMT`
+- fetched_at: `2026-04-25T19:12:52+00:00`
+- checked_at: `2026-04-25T19:12:52+00:00`
+- last_modified: `Sat, 25 Apr 2026 16:17:20 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.dumbdragons.com/",
   "description": "Dumbgeons & Dragons is a funny, rules-light Dungeons & Dragons actual play podcast where friends tell epic stories full of heart, chaos, and ridiculous choices. Whether you’re new to D&D, just learning the ropes, or a longtime fan who loves a lighthearted adventure, you’ll feel right at home at our table. Campaign 2 (Seasons 3 & 4) begins in the gritty city of Vintersmouth—a place of secrets, schemes, and spontaneous street magic. This season is the perfect place to jump in, with a fresh cast of characters and a mystery that pulls them deep into a city on the edge. Start with Episode 301: Let’s Begin Again! Featuring fast-paced storytelling, character-driven arcs, improv comedy, and zero gatekeeping, Dumbgeons & Dragons is your cozy-but-chaotic fantasy fix. New episodes every Wednesday. Support the show and get bonus episodes at patreon.com/dumbdragoncast More info, recaps, and character bios at dumbdragons.com",
   "image_url": "https://content.production.cdn.art19.com/images/f3/8f/9a/30/f38f9a30-68d2-46ca-87f1-4261dbe574e5/dc447b9659ef194b4fefd29c9bde8d0344f5519fb86dfca67d4122b062044b0c6c10ebfc0dca39f8ec2ecc2b5d2894d6ae621c12620cea9f553a42508c664e65.jpeg",
-  "fetched_at": "2026-04-22T08:09:04+00:00",
+  "fetched_at": "2026-04-25T19:12:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -3345,7 +3345,7 @@
       "title": "HALLOWEEN BOONANZA: Oh My God, Moby's Here! (feat. Spout Lore)",
       "published_at": "2021-10-31T14:48:00+00:00",
       "link": "https://art19.com/shows/dumbgeons-and-dragons/episodes/3a12bdad-6793-4e6b-ae1b-be928f4cf761",
-      "description": "Welcome to Part 2 of the Halloween Bonanza! To hear Part 1 so you have ANY idea of what is happening, visit our friends over in the Spout Lore Feed. Here's a link you can follow to find it quick! FOLLOW THIS LINK FOR Halloween Boo-nanza PART 1: Cider House Rules ---> https://link.chtbl.com/-QrDBIdu?sid=dumbgeons.show.notes The adventurers venture into the Haunted Mansion in an effort to claim their prize, but what lies in wait for them is horrifyingly terrible and something no one EVER wants to relive... Moot goes party now. Glim gets a different perspective on the world. Sully came to start the party. Tuk did that dunk. Fat Billie can't control 100 of himself. Vyng... as Tuk is a little turned on. - - - - - - - - - - CAST & CREW DM: Russ More Players: Amy More, Carla Maxted, Tom Laird Guests: Abdul Aziz, Jessica Tai, Paul Oppers and Shawn O'Hara Sound Design: Russ More Music: Epidemic Sound Sound Effects: Epidemic Sound , Boom Library Cover Art: Chrissytor Illustrations - - - - - - - - - - Find and support our sponsors at: fableandfolly.com/partners - - - - - - - - - - Support the podcast by joining our Patreon community and instantly access 130+ bonus episodes at Patreon.com/DumbDragonCast . Are you on DISCORD? Come hang out in our server! - https://discord.gg/tb8nTa6GbD Email - dumbdragonpodcast@gmail.com Join us in The Reckless Play Guild Facebook Group ! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "description": "Welcome to Part 2 of the Halloween Bonanza! To hear Part 1 so you have ANY idea of what is happening, visit our friends over in the Spout Lore Feed. Here's a link you can follow to find it quick! FOLLOW THIS LINK FOR Halloween Boo-nanza PART 1: Cider House Rules ---> https://pod.link/1307373953/episode/N2QzMGFkOGItZTgyOC00Y2Y0LTkyYWMtOTYxN2UyNDExOWFm The adventurers venture into the Haunted Mansion in an effort to claim their prize, but what lies in wait for them is horrifyingly terrible and something no one EVER wants to relive... Moot goes party now. Glim gets a different perspective on the world. Sully came to start the party. Tuk did that dunk. Fat Billie can't control 100 of himself. Vyng... as Tuk is a little turned on. - - - - - - - - - - CAST & CREW DM: Russ More Players: Amy More, Carla Maxted, Tom Laird Guests: Abdul Aziz, Jessica Tai, Paul Oppers and Shawn O'Hara Sound Design: Russ More Music: Epidemic Sound Sound Effects: Epidemic Sound , Boom Library Cover Art: Chrissytor Illustrations - - - - - - - - - - Find and support our sponsors at: fableandfolly.com/partners - - - - - - - - - - Support the podcast by joining our Patreon community and instantly access 130+ bonus episodes at Patreon.com/DumbDragonCast . Are you on DISCORD? Come hang out in our server! - https://discord.gg/tb8nTa6GbD Email - dumbdragonpodcast@gmail.com Join us in The Reckless Play Guild Facebook Group ! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
       "image_url": "https://content.production.cdn.art19.com/images/34/4c/77/78/344c7778-7057-47e0-ac87-caaa6f932dfc/33869ed573b74bee541f583732945144567ec0b0a0bc992cbc1d5e398a965a83db9d93c76cda77751f3915993d354ab49e15219b0597c10c21ce5d266032bc4e.jpeg",
       "enclosure_url": "https://swap.fm/track/WgbGgxzM3MFRwjmX5fnx/op3.dev/e/pscrb.fm/rss/p/rss.art19.com/episodes/3a12bdad-6793-4e6b-ae1b-be928f4cf761.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
       "enclosure_type": "audio/mpeg",
