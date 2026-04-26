@@ -2,9 +2,9 @@
 
 - slug: `we-fix-space-junk`
 - source: `https://feeds.megaphone.fm/wefixspacejunk`
-- fetched_at: `2026-04-23T14:14:29+00:00`
-- checked_at: `2026-04-23T14:14:29+00:00`
-- last_modified: `Thu, 23 Apr 2026 13:21:44 GMT`
+- fetched_at: `2026-04-26T03:58:01+00:00`
+- checked_at: `2026-04-26T03:58:01+00:00`
+- last_modified: `Sat, 25 Apr 2026 23:06:26 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://battlebird.productions",
   "description": "'We Fix Space Junk' follows seasoned smuggler Kilner and reluctant fugitive Samantha as they travel the galaxy, dodging bullets and meeting strange and wonderful beings as they carry out odd jobs on the fringes of the law. A female-led sci-fi comedy sitcom set in the far future, in a high-tech, dystopian world, We Fix Space Junk draws on the sci-fi of the past, following in the footsteps of Harry Harrison and of Douglas Adams' Hitchhiker's Guide to the Galaxy. Equal parts love-letter to sci-fi and satire of the present-day, Space Junk is lovingly produced by Beth Crane and Hedley Knights of Battle Bird Productions. To support the show visit patreon.com/BattleBirdProd or visit Battlebird.productions",
   "image_url": "https://megaphone.imgix.net/podcasts/8c376dd8-0f0d-11ec-8651-57ea866800e0/image/8d5a72f1090250cbefae2050b1329e32fb962b991327db690dac1bffa8d2ba047cdd30974dd1f9bdc451659cd75d302dfd61aded64e62bb1377d9d88df6be606.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-23T14:14:29+00:00",
+  "fetched_at": "2026-04-26T03:58:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,22 @@
     "fiction/audiobook"
   ],
   "episodes": [
+    {
+      "key": "f8c9d3e5b9b9e5d9813dfdf6d14ac9eb918df1c6",
+      "title": "Introducing... Death by Dying",
+      "published_at": "2026-04-25T23:00:00+00:00",
+      "link": null,
+      "description": "So if you've been in the audio-drama-sphere as long as we have, you probably know Death by Dying (and if you haven't, you're in for a treat). They're one of our favourites, we love the people behind it (and we've worked with them a bunch) and we're overjoyed that in the year we're finally back from hiatus, they're back too! If you've not heard of Death By Dying before, it's a dark comedy fiction podcast following the adventures of Crestfall, Idaho's Obituary Writer as he deals with - and writes about - death on a daily basis, finding himself in over his head as he investigates a series of strange and mysterious deaths. It's a combination of hilarious, absurd and also darkly comforting. We're so, so glad it's back and we hope you enjoy listening!The first three episodes of their much-anticipated second season are out now, with the fourth, \"Obituary 9: Kai died\" coming out TODAY, April 27th! Season 2 picks up right after the shocking Season 1 finale, with the Obituary Writer searching for his missing friend on a journey that will take him to the strangest corners of Crestfall. Season 1, bonus episodes, a live show, and a 3-part Tales from Crestfall mini-series are available now on the DEATH BY DYING feed. We're so glad they're back and we hope you love them too! Death by Dying can be found anywhere you listen to podcasts and, like We Fix Space Junk, is available on Fable and Folly's ad-free premium feed. Right now, listen on for Episode One of Season One: Wyatt Died. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/04c31302-3f14-11f1-998c-f7da2c9dcf03/image/65f23d24ea52f178cba464b4befb90d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO3209798398.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1859",
+      "speakers": [],
+      "topics": [
+        "death"
+      ]
+    },
     {
       "key": "0c8c0cf8dbd7510df4124802cc22c4e8964a7180",
       "title": "S04 E03 - Word Wrangling",
@@ -1446,6 +1462,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-25 — Introducing... Death by Dying
 - 2026-04-20 — S04 E03 - Word Wrangling
 - 2026-04-06 — S04 E02 - The Wall
 - 2026-03-23 — S04E01 - Megafauna — speakers: Megafauna When Kilner
