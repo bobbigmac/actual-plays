@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-04-25T03:34:02+00:00`
-- checked_at: `2026-04-25T03:34:02+00:00`
-- etag: `"c25fb35bb05383d9fe72af03c581d1d1"`
-- last_modified: `Sat, 25 Apr 2026 00:32:27 GMT`
+- fetched_at: `2026-04-27T08:42:10+00:00`
+- checked_at: `2026-04-27T08:42:10+00:00`
+- etag: `"3b5fd3527eff8d66c6d080735e66c084"`
+- last_modified: `Mon, 27 Apr 2026 04:07:22 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-04-25T03:34:02+00:00",
+  "fetched_at": "2026-04-27T08:42:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ce4047459f92bd8e6c9e116b99aeb7009e4328c4",
+      "title": "Sea and Land",
+      "published_at": "2026-04-27T04:00:00+00:00",
+      "link": "https://www.vintagerpg.com/2026/04/sea-and-land/",
+      "description": "In which I make the baseless argument that this is the first Monster Manual . This week on the Vintage RPG Podcast, we're going back in time to 1887 to check out J.W. Buel's unhinged tome of natural history, Sea and Land . 800 pages, with 300 illustrations depicting the natural world at its hungriest. A glorious thing. * * * Instagram? Old news. Join the Vintage RPG Newsletter ! That's where all the cool kids are now! Stu's book, Monsters, Aliens, and Holes in the Ground is for sale now! Buy it ! Patreon? Discord? Cool RPG things to buy? All the Vintage RPG links you need are right here in one place ! Like, Rate, Subscribe and Review the Vintage RPG Podcast! Edited by the one and only R. Alex Murray . Send questions, comments or corrections to info@vintagerpg.com . Available on iTunes , Google Podcasts , iHeartRadio , Spotify , YouTube and your favorite podcast clients. The Vintage RPG illustration is by Shafer Brown . Follow him on Twitter . Tune in next week for the next episode. Until then, may the dice always roll in your favor!",
+      "image_url": "https://static.libsyn.com/p/assets/5/3/1/0/5310d528f5c33cd3d959afa2a1bf1c87/Vintage_Podcast_Icon-20260425-rcbn42poor.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/thevintagerpgpodcast/VRPG_-_Stus_Old_Book__.mp3?dest-id=747998",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50671913",
+      "itunes_duration": "24:39",
+      "speakers": [
+        "Monster Manual"
+      ],
+      "topics": [
+        "land"
+      ]
+    },
     {
       "key": "b0c71e6f7a34271c6a7af40b57a0023a9dc82a19",
       "title": "Night of the Ninja (and More!)",
@@ -6563,6 +6581,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — Sea and Land — speakers: Monster Manual
 - 2026-04-20 — Night of the Ninja (and More!)
 - 2026-04-06 — TSR Art Books — speakers: Art Books Art
 - 2026-03-30 — Trollpak — speakers: Trollpak Troooooooooll
