@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-04-27T19:50:06+00:00`
-- checked_at: `2026-04-27T19:50:06+00:00`
-- etag: `W/"c5c7bf1f8525bbd2a9e1a18389016c22"`
-- last_modified: `Mon, 27 Apr 2026 18:21:25 GMT`
+- fetched_at: `2026-04-27T22:09:31+00:00`
+- checked_at: `2026-04-27T22:09:31+00:00`
+- etag: `W/"18fcad51258905dc0a4f89ee2b1af860"`
+- last_modified: `Mon, 27 Apr 2026 22:04:21 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://dodoborne.transistor.fm/",
   "description": "DodoBorne is a comedy Daggerheart actual play podcast where four friends dive into the brand-new tabletop roleplaying game from Darrington Press. Join Kapi, Crank, and Pistachio as they navigate a rich world of mystery, magic, and malfeasance! Humor, heart, and nonsense guaranteed. Some assembly required.",
   "image_url": "https://img.transistorcdn.com/fg-CMns6Eb56K4IBpV4Y4XV3-bmmXfvIV6gQH2te_ag/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82NWZh/MWU1YWJkN2VjMmYy/ZmIwYjlmOTk0NzBk/MGM0ZS5wbmc.jpg",
-  "fetched_at": "2026-04-27T19:50:06+00:00",
+  "fetched_at": "2026-04-27T22:09:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

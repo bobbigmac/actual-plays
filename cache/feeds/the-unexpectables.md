@@ -2,10 +2,10 @@
 
 - slug: `the-unexpectables`
 - source: `https://feeds.libsyn.com/105383/rss`
-- fetched_at: `2026-03-26T19:34:09+00:00`
-- checked_at: `2026-03-26T19:34:09+00:00`
-- etag: `"4d1d74a64278d00d14b00f264b9e1c75"`
-- last_modified: `Thu, 26 Mar 2026 17:05:24 GMT`
+- fetched_at: `2026-04-27T22:09:31+00:00`
+- checked_at: `2026-04-27T22:09:31+00:00`
+- etag: `"244e2ae0cb4887bab5de169f62f668c2"`
+- last_modified: `Mon, 27 Apr 2026 21:50:40 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://101club.libsyn.com/website",
   "description": "Follow the travels and tribulations of Task the Kobold Ranger, Greckles the Kenku Rogue, Panic the Tiefling Bard, and Borky the Orc Barbarian, as they traverse the dangerous and mysterious lands of Alivast, and the Capital City that hosts a bungle of characters, magic and villains.",
   "image_url": "https://static.libsyn.com/p/assets/6/9/c/7/69c7492dcb405690/sweet_dragon_logo.png",
-  "fetched_at": "2026-03-26T19:34:09+00:00",
+  "fetched_at": "2026-04-27T22:09:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,102 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "5e2646084688438e60d48a99eb8799d39e310d71",
+      "title": "Rams vs Chargers - The Unexpectables II Episode 147",
+      "published_at": "2026-04-27T21:49:00+00:00",
+      "link": "https://101club.libsyn.com/rams-vs-chargers-the-unexpectables-ii-episode-147",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_147_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124150225",
+      "itunes_duration": "02:27:44",
+      "speakers": [],
+      "topics": [
+        "chargers",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "249ae14fdd5c6a282d1c6eb429753d08c162546c",
+      "title": "Technical Difficulties - Fool's Gelt Episode 3",
+      "published_at": "2026-04-27T21:48:00+00:00",
+      "link": "https://101club.libsyn.com/technical-difficulties-fools-gelt-episode-3",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_Episode_3_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "185308609",
+      "itunes_duration": "03:40:33",
+      "speakers": [
+        "Technical Difficulties"
+      ],
+      "topics": [
+        "technical",
+        "difficulties",
+        "fool",
+        "gelt"
+      ]
+    },
+    {
+      "key": "118b7f0d12d3eedd30546288ab3d0c0847cf414c",
+      "title": "Korri in the House - The Unexpectables II Episode 146",
+      "published_at": "2026-04-27T21:47:00+00:00",
+      "link": "https://101club.libsyn.com/korri-in-the-house-the-unexpectables-ii-episode-146",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_146_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124130476",
+      "itunes_duration": "02:27:43",
+      "speakers": [],
+      "topics": [
+        "korri",
+        "house",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "3ea10d72fe355a2d42658d9e7cf079eca5fb4c5e",
+      "title": "No Breaks - Fool's Gelt Episode 2",
+      "published_at": "2026-04-27T21:46:00+00:00",
+      "link": "https://101club.libsyn.com/no-breaks-fools-gelt-episode-2",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_Episode_2_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "161013843",
+      "itunes_duration": "03:11:37",
+      "speakers": [
+        "No Breaks"
+      ],
+      "topics": [
+        "breaks",
+        "fool",
+        "gelt"
+      ]
+    },
+    {
+      "key": "bfa3a0ae5c7d8eef106f0c0f2be7a9205da9b446",
+      "title": "Baaad Blood - The Unexpectables II Episode 145",
+      "published_at": "2026-04-27T21:45:00+00:00",
+      "link": "https://101club.libsyn.com/baaad-blood-the-unexpectables-ii-episode-145",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_145_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110066688",
+      "itunes_duration": "02:10:58",
+      "speakers": [
+        "Unexpectables II"
+      ],
+      "topics": [
+        "baaad",
+        "blood",
+        "unexpectables"
+      ]
+    },
     {
       "key": "61813cbb1e408ca3cdd9b2781ff61e28b755ae1a",
       "title": "ALMOST a One Shot - Fool's Gelt Episode 1",
@@ -10952,6 +11048,11 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — Rams vs Chargers - The Unexpectables II Episode 147
+- 2026-04-27 — Technical Difficulties - Fool's Gelt Episode 3 — speakers: Technical Difficulties
+- 2026-04-27 — Korri in the House - The Unexpectables II Episode 146
+- 2026-04-27 — No Breaks - Fool's Gelt Episode 2 — speakers: No Breaks
+- 2026-04-27 — Baaad Blood - The Unexpectables II Episode 145 — speakers: Unexpectables II
 - 2026-03-26 — ALMOST a One Shot - Fool's Gelt Episode 1 — speakers: One Shot
 - 2026-03-26 — The Unexpectables II Episode 144 - Aweboway
 - 2026-03-26 — The Unexpectables II Episode 143 - Come to Papa
