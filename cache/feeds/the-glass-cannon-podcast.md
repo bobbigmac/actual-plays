@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-04-27T08:42:10+00:00`
-- checked_at: `2026-04-27T08:42:10+00:00`
-- last_modified: `Mon, 27 Apr 2026 04:00:00 GMT`
+- fetched_at: `2026-04-27T19:50:06+00:00`
+- checked_at: `2026-04-27T19:50:06+00:00`
+- last_modified: `Mon, 27 Apr 2026 17:30:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-27T08:42:10+00:00",
+  "fetched_at": "2026-04-27T19:50:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ffb4bc1abcbfb0f7ba6c56b9fe37f955ee09643d",
+      "title": "GCN News Minute April 27, 2026",
+      "published_at": "2026-04-27T17:30:00+00:00",
+      "link": null,
+      "description": "The content schedule gets a little shake-up this week. Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fba3c604-425b-11f1-b1cd-3f892cf7f170/image/21e083c82522bf323f3364beb8236dac.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7792632419.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "377",
+      "speakers": [
+        "News Minute April"
+      ],
+      "topics": [
+        "news",
+        "minute",
+        "april"
+      ]
+    },
     {
       "key": "5973141df435f2856dff7a960d07eaca1dc63bf5",
       "title": "You're Not My Father | Blood of the Wild S1 E19 | Pathfinder 2E Quest for the Frozen Flame",
@@ -2705,24 +2725,6 @@
       ]
     },
     {
-      "key": "bd647d478d6948ad0c4bb8c49d5a73f67a421240",
-      "title": "Call of Cthulhu Live! – New Life (Indianapolis 2025)",
-      "published_at": "2025-08-28T04:00:00+00:00",
-      "link": null,
-      "description": "The Glass Cannon Network was back at the Athenaeum in Indianapolis during Gen Con 2025 with a cast of GCN all-stars ready to once again take on a modern Call of Cthulhu nightmare one shot. In this scenario custom written by Scott Dorward, a ragtag group of criminals learn about the location of a mysterious vault that belonged to a 1920s gangster, but what they find inside is anything but rewarding. Watch the video here: https://youtu.be/o3sW2RRRNfA Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/7aff223e-8369-11f0-a101-ff8317acc335/image/cf14076619f95f62a456ff31aa0d16cc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6450054257.mp3?updated=1756315835",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "9849",
-      "speakers": [],
-      "topics": [
-        "cthulhu",
-        "life",
-        "indianapolis"
-      ]
-    },
-    {
       "key": "1365379c48c9e9adbae6156df821034fe9059440",
       "title": "Glass Cannon Radio #31 - Violence in RPGs/Crunch Factor/Unwritten Rules",
       "published_at": "2025-08-28T04:00:00+00:00",
@@ -2744,6 +2746,24 @@
         "factor",
         "unwritten",
         "rules"
+      ]
+    },
+    {
+      "key": "bd647d478d6948ad0c4bb8c49d5a73f67a421240",
+      "title": "Call of Cthulhu Live! – New Life (Indianapolis 2025)",
+      "published_at": "2025-08-28T04:00:00+00:00",
+      "link": null,
+      "description": "The Glass Cannon Network was back at the Athenaeum in Indianapolis during Gen Con 2025 with a cast of GCN all-stars ready to once again take on a modern Call of Cthulhu nightmare one shot. In this scenario custom written by Scott Dorward, a ragtag group of criminals learn about the location of a mysterious vault that belonged to a 1920s gangster, but what they find inside is anything but rewarding. Watch the video here: https://youtu.be/o3sW2RRRNfA Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7aff223e-8369-11f0-a101-ff8317acc335/image/cf14076619f95f62a456ff31aa0d16cc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6450054257.mp3?updated=1756315835",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9849",
+      "speakers": [],
+      "topics": [
+        "cthulhu",
+        "life",
+        "indianapolis"
       ]
     },
     {
@@ -18402,6 +18422,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — GCN News Minute April 27, 2026 — speakers: News Minute April
 - 2026-04-27 — You're Not My Father | Blood of the Wild S1 E19 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-04-24 — Plot Armor | The Glass Cannon Podcast Shadowdark E24 | Shadowdark RPG — speakers: Shadowdark Rpg, Myre Castle
 - 2026-04-21 — Winter Phase, 509 A.D. | Pendragon: Under an Iron Sky | Chaosium — speakers: Winter Phase, Iron Sky
@@ -18523,8 +18544,8 @@
 - 2025-09-04 — Glass Cannon Radio #32 – Monster Psychology 101/Best Movie Monsters/Book Club
 - 2025-08-30 — Forget It, Jake | Time For Chaos S3 E8 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-08-29 — Whiny the Elders | The Glass Cannon Podcast Gatewalkers E100 | Pathfinder 2E
-- 2025-08-28 — Call of Cthulhu Live! – New Life (Indianapolis 2025)
 - 2025-08-28 — Glass Cannon Radio #31 - Violence in RPGs/Crunch Factor/Unwritten Rules
+- 2025-08-28 — Call of Cthulhu Live! – New Life (Indianapolis 2025)
 - 2025-08-23 — Sophrosyne | Time For Chaos S3 E7 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jack Brady
 - 2025-08-22 — HR Buffs N' Stuff | The Glass Cannon Podcast Gatewalkers E99 | Pathfinder 2E
 - 2025-08-21 — Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E

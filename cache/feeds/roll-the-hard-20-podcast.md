@@ -2,12 +2,10 @@
 
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
-- fetched_at: `2026-04-27T14:29:04+00:00`
-- checked_at: `2026-04-27T16:58:08+00:00`
-- etag: `W/"53cd9070e06f6df3ff01ef3b9c42aa50"`
+- fetched_at: `2026-04-27T19:50:06+00:00`
+- checked_at: `2026-04-27T19:50:06+00:00`
+- etag: `W/"7622bc4e3ac49ac47ce214f8c9ca3505"`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: IncompleteRead(818131 bytes read, 1805437 more expected)
 
 <!-- FEED_JSON -->
 ```json
@@ -19,7 +17,7 @@
   "link": "https://www.rollthehard20podcast.com/podcast-episode/",
   "description": "Dungeons and Dragons weekly actual play and discussions",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/9d3b0539-1955-4096-946d-2fe71cf34e12/TheHardTwenty-DeltaGreen-Greens+2.jpg?format=1500w",
-  "fetched_at": "2026-04-27T14:29:04+00:00",
+  "fetched_at": "2026-04-27T19:50:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -5682,17 +5680,7 @@
         "nigh"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-04-27T16:58:08+00:00",
-    "status": "error",
-    "checked_at": "2026-04-27T16:58:08+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "IncompleteRead(818131 bytes read, 1805437 more expected)"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
