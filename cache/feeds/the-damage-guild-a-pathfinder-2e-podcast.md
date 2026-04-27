@@ -2,9 +2,9 @@
 
 - slug: `the-damage-guild-a-pathfinder-2e-podcast`
 - source: `https://www.thedamageguild.com/feed/podcast2`
-- fetched_at: `2026-04-13T08:25:00+00:00`
-- checked_at: `2026-04-13T08:25:00+00:00`
-- last_modified: `Mon, 13 Apr 2026 04:01:00 GMT`
+- fetched_at: `2026-04-27T04:02:23+00:00`
+- checked_at: `2026-04-27T04:02:23+00:00`
+- last_modified: `Mon, 27 Apr 2026 04:01:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedamageguild.com",
   "description": "Do you like jokes, adventure, killing things, and friendship? Of course you do! The Damage Guild is an actual-play Pathfinder 2nd Edition (PF2E) podcast with a focus on collaborative storytelling, character-driven narrative, and improv comedy shenanigans, delivered in a family-friendly style and set in a homebrew world. Join us for new episodes every other Monday, so you can kiss those weekend blues goodbye and get pumped to slay the dragon of your everyday life!",
   "image_url": "https://thedamageguild.com/wp-content/uploads/dgp_pf2e_podcast_artwork.jpg",
-  "fetched_at": "2026-04-13T08:25:00+00:00",
+  "fetched_at": "2026-04-27T04:02:23+00:00",
   "owners": [
     "Sean Abrams",
     "Thayne Bohman",
@@ -31,6 +31,25 @@
     "ttrpg/pathfinder"
   ],
   "episodes": [
+    {
+      "key": "536c400e497bd4c5d714dc22c5f3f919b995cfae",
+      "title": "Episode 46 – There’s a Map for That",
+      "published_at": "2026-04-27T04:01:00+00:00",
+      "link": "https://thedamageguild.com/pf2e-episodes/episode-46-2/",
+      "description": "Our heroes continue their assault on the goblin outpost. Kardain expresses his doubts. Verrol provides imaginary insight. Zara discovers a key landmark .",
+      "image_url": null,
+      "enclosure_url": "https://media.blubrry.com/damageguild/media.blubrry.com/3739398/mc.blubrry.com/3739398/dgp_pf2e_episode46.mp3?awCollectionId=3739398&awEpisodeId=12007089&aw_0_azn.pgenre=Leisure&aw_0_1st.ri=blubrry&aw_0_azn.pcountry=US&aw_0_azn.planguage=en-us&cat_exclude=IAB1-8%2CIAB1-9%2CIAB7-41%2CIAB8-5%2CIAB8-18%2CIAB11-4%2CIAB23%2CIAB24%2CIAB25%2CIAB26&aw_0_cnt.rss=https%3A%2F%2Fwww.thedamageguild.com%2Ffeed%2Fpodcast2",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61592182",
+      "itunes_duration": "1:04:09",
+      "speakers": [
+        "Sean Abrams",
+        "Thayne Bohman",
+        "Bryan Staudt",
+        "Jay Staudt"
+      ],
+      "topics": []
+    },
     {
       "key": "49a3f8e6c5a66ab55020bc6a08aff6157f7a856d",
       "title": "Episode 45 – A Vine of the Times",
@@ -1041,6 +1060,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — Episode 46 – There’s a Map for That — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-04-13 — Episode 45 – A Vine of the Times — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-03-30 — Episode 44 – Mo Money Mo Goblins — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-03-16 — Episode 43 – Random Axe of Kindness — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
