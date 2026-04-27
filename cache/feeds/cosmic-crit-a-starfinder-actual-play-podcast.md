@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-04-20T08:30:00+00:00`
-- checked_at: `2026-04-21T03:47:35+00:00`
-- last_modified: `Mon, 20 Apr 2026 04:05:00 GMT`
+- fetched_at: `2026-04-27T16:58:08+00:00`
+- checked_at: `2026-04-27T16:58:08+00:00`
+- last_modified: `Mon, 27 Apr 2026 16:05:43 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-04-20T08:30:00+00:00",
+  "fetched_at": "2026-04-27T16:58:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "4503b4e186a6ffc31f66a91cd8c45b9d2d64b1b4",
+      "title": "Guilt of the Grave World | 011: Get Glitch or Die Tryin’",
+      "published_at": "2026-04-27T16:05:43+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-011-get-glitch-or-die-tryin/",
+      "description": "The station’s rat population takes a nosedive this week as the exploration of Station Alpha takes a scrappy turn. Can a few simpler combats boost the player’s opinions of their characters before they lock into their builds at level 2? We endeavor to answer that question and more on this week’s penultimate part 1 episode!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3804/guilt-of-the-grave-world-011-get-glitch-or-die-tryin.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72500216",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Station Alpha"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "glitch",
+        "tryin"
+      ]
+    },
     {
       "key": "cc7e169c133200eff9a970dc6c45760fe2781e5e",
       "title": "Guilt of the Grave World | 010: Orb Your Enthusiasm",
@@ -8776,6 +8798,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — Guilt of the Grave World | 011: Get Glitch or Die Tryin’ — speakers: Station Alpha
 - 2026-04-20 — Guilt of the Grave World | 010: Orb Your Enthusiasm — speakers: Station Alpha
 - 2026-04-13 — Guilt of the Grave World | 009: Courage Under Fire Extinguishers — speakers: Station Alpha
 - 2026-04-06 — Guilt of the Grave World | 008: Undead to Rights — speakers: Grave World

@@ -3,9 +3,11 @@
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
 - fetched_at: `2026-04-27T14:29:04+00:00`
-- checked_at: `2026-04-27T14:29:04+00:00`
+- checked_at: `2026-04-27T16:58:08+00:00`
 - etag: `W/"53cd9070e06f6df3ff01ef3b9c42aa50"`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: IncompleteRead(818131 bytes read, 1805437 more expected)
 
 <!-- FEED_JSON -->
 ```json
@@ -5680,7 +5682,17 @@
         "nigh"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-04-27T16:58:08+00:00",
+    "status": "error",
+    "checked_at": "2026-04-27T16:58:08+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "IncompleteRead(818131 bytes read, 1805437 more expected)"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
