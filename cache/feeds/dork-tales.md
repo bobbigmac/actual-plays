@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-04-24T19:15:07+00:00`
-- checked_at: `2026-04-24T19:15:07+00:00`
-- etag: `"7f7364bee9b9d9c2604f144ed586a3aa"`
+- fetched_at: `2026-04-27T14:29:04+00:00`
+- checked_at: `2026-04-27T14:29:04+00:00`
+- etag: `"57131dfdd55bf4401b1164d7fee5f922"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/5111002/Dork_Tales_d20_20238mnn1.png",
-  "fetched_at": "2026-04-24T19:15:07+00:00",
+  "fetched_at": "2026-04-27T14:29:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "5564162b02bc2e5da9670094c20234dd373d5d50",
+      "title": "Vecna: Eve of Ruin | Episode 34: Eve of Ruin",
+      "published_at": "2026-04-27T13:55:00+00:00",
+      "link": "https://dorktales.podbean.com/e/vecna-eve-of-ruin-episode-34-eve-of-ruin/",
+      "description": "Vecna is here and only one party can stop him. Join us for Vecna: Eve of Ruin! In the final episode, Death Wish faces off against the lich himself. Thank you to Bookwyrm Games for sponsoring the channel! Visit them at https://bookwyrmgames.com/ and use code DORKTALES to save 15% off your order! === Kelly Clark as Dungeon Master Cast Christine Rattray as Rosie Thistledrop Robin Holford as Lir'wen Chris Blogg as Gaunt Jen Peters as Imogen and Kal Vincent as Aurontiros Watch us LIVE on Twitch ► https://twitch.tv/dorktales Visit our website ► https://dorktales.ca Our Linktree ► https://linktr.ee/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktaleschannel/ Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy the cast a coffee ► https://ko-fi.com/dorktales Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! So smash the bell, share these videos, and we'll see you soon at our next game! === Music credits: Music: House of Secrets by Joel Steudler https://www.joelsteudlermusic.com/ Licensed under a Humblebundle Collection Also from Joel Steudler: No Mountain High Black Gate Fight or Flight Tracks by Tim Kulig: Tomb Tensions https://timkulig.com Tracks from Monument Studios Elven Secrets B Cryptic Choir Textured Gothic Ensemble Licensed under a Fantasy Complete or All-In-One License https://www.monumentstudios.net Tracks licensed from Dark Fantasy Studio From Ashes http://www.darkfantasystudio.com This video also uses licensed audio from the Humble Music & Sound Effects For Games, Films, and Content Creators Bundle Part 2. Including our closing theme: The Harrowing This video using the following licensed tracks from Game Dev Market, Audiohero, and Ovani: Veil of Malice",
+      "image_url": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog5111002/Vecna_Eve_of_Ruin_Podcast_Logo7mops.png",
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/e4xf6g9vt8x5sk32/VecnaE34complete.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79528528",
+      "itunes_duration": "4967",
+      "speakers": [
+        "Ruin Vecna"
+      ],
+      "topics": [
+        "vecna",
+        "ruin"
+      ]
+    },
     {
       "key": "a601105693515b8e394e2cde69fae1d2ef7dda60",
       "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 2: The Voyage of the Nestor",
@@ -7641,6 +7660,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — Vecna: Eve of Ruin | Episode 34: Eve of Ruin — speakers: Ruin Vecna
 - 2026-04-24 — Mage the Ascension the Victorian Age | Book 3, Chapter 2: The Voyage of the Nestor — speakers: Victorian Age, Nestor Welcome
 - 2026-04-20 — Vecna: Eve of Ruin | Episode 33: Torment of Kas — speakers: Kas Vecna
 - 2026-04-17 — Mage the Ascension the Victorian Age | Book 3, Chapter 1: A Long Overdue Departure — speakers: Victorian Age, Long Overdue Departure Welcome
