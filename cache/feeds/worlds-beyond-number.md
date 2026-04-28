@@ -2,10 +2,10 @@
 
 - slug: `worlds-beyond-number`
 - source: `https://feeds.simplecast.com/IAPnSSRO`
-- fetched_at: `2026-04-21T03:47:35+00:00`
-- checked_at: `2026-04-21T03:47:35+00:00`
-- etag: `"8f15866b1a386e966b1bac98360d11cb"`
-- last_modified: `Mon, 20 Apr 2026 23:16:50 GMT`
+- fetched_at: `2026-04-28T11:18:34+00:00`
+- checked_at: `2026-04-28T11:18:34+00:00`
+- etag: `"52ad4e7defa8b4d10436990426da5e8c"`
+- last_modified: `Tue, 28 Apr 2026 09:00:18 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://worlds-beyond-number.simplecast.com",
   "description": "An epic, improvised storytelling podcast where Brennan Lee Mulligan, Erika Ishii, Aabria Iyengar, and Lou Wilson hang out together, play games, build worlds, and make stories.",
   "image_url": "https://image.simplecastcdn.com/images/c89bbbb6-e942-4583-ad73-4877d9c0b2f6/dfae107c-3b1e-4c37-acf7-a48a1ff6e445/3000x3000/wbn-album-logo-art-2024-3000x3000.jpg?aid=rss_feed",
-  "fetched_at": "2026-04-21T03:47:35+00:00",
+  "fetched_at": "2026-04-28T11:18:34+00:00",
   "owners": [
     "Brennan Lee Mulligan",
     "Aabria Iyengar",
@@ -31,6 +31,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "35436940f5118e1c2995a3c3aa1dcb7856d65a82",
+      "title": "Solari: Episode 4 - Port of Call",
+      "published_at": "2026-04-28T09:00:00+00:00",
+      "link": "https://worlds-beyond-number.simplecast.com/episodes/solari-episode-4-port-of-call-r_gKqgq1",
+      "description": "A cryptic warning scrawled in red. The Captain is no longer taking orders. Stranded en route, we are bound by contract: Do we thank or fear our liberator? Content Warning : This episode contains depictions of blood, violence, and alcohol consumption. We are: Brennan Lee Mulligan Erika Ishii Aabria Iyengar Lou Wilson Solari was produced by Worlds Beyond Number Edit and Sound Design by Jino Jang-Hansen at Big Giant Head Score by Will Savino https://wsavino.com/ Director of Operations: Melanie Bowman Social Media Manager: Shannon H Lorekeeper and Transcriptionist: Jack Morgan E.F. Lavandowska Recording Engineer: Rainie Toll Character Art by Nikolas Draper-Ivey www.instagram.com/nikolasdraperivey/ Cover Art by Lu Tomkiewicz www.instagram.com/_fromlu/ This campaign uses the Stillfleet TTRPG system, created by Wythe Marschall and developed by Stillfleet Studio https://stillfleet.com/collections/stillfleet You can find transcripts of all our episodes on our Patreon. Just navigate to the post for the episode and the transcript will be attached.",
+      "image_url": "https://image.simplecastcdn.com/images/52465498-1509-439a-8bae-5a0586d07e7b/be19482f-2f47-4092-b974-b5c0ce9410fc/3000x3000/solari_album_art.jpg?aid=rss_feed",
+      "enclosure_url": "https://cdn.simplecast.com/media/audio/transcoded/3271e9ed-72a9-42fd-a976-32864451ba9e/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/audio/group/a33a1cba-4880-4164-af22-64ef24a6546c/group-item/13cffe9b-9d92-48c9-8ca6-d9a8b65def93/128_default_tc.mp3?aid=rss_feed&feed=IAPnSSRO",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98831413",
+      "itunes_duration": "01:36:58",
+      "speakers": [
+        "Brennan Lee Mulligan",
+        "Aabria Iyengar",
+        "Erika Ishii",
+        "Lou Wilson"
+      ],
+      "topics": [
+        "solari",
+        "port"
+      ]
+    },
     {
       "key": "0d2cdd77034a36d3c39695a723a2e250e047843c",
       "title": "Solari: Episode 3 - Parley",
@@ -1930,6 +1952,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-28 — Solari: Episode 4 - Port of Call — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-04-14 — Solari: Episode 3 - Parley — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-03-31 — Solari: Episode 2 - Pull/Cull — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-03-17 — Solari: Episode 1 - Paarlor Games — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson

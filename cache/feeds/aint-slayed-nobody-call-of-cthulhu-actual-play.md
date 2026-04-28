@@ -2,9 +2,9 @@
 
 - slug: `aint-slayed-nobody-call-of-cthulhu-actual-play`
 - source: `https://feeds.acast.com/public/shows/632da7cf6d7ffa0012565ffa`
-- fetched_at: `2026-04-28T08:40:35+00:00`
-- checked_at: `2026-04-28T08:40:35+00:00`
-- etag: `"djEuMi4wOjE3NzczNTY4NjM5NjQ="`
+- fetched_at: `2026-04-28T11:18:34+00:00`
+- checked_at: `2026-04-28T11:18:34+00:00`
+- etag: `"djEuMi4wOjE3NzczNzIyMzkzMzY="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.aintslayednobody.com",
   "description": "A Call of Cthulhu Actual Play of Horror, Comedy, and the Weird West",
   "image_url": "https://assets.pippa.io/shows/632da7cf6d7ffa0012565ffa/1770424763930-7baac491-35cc-4c89-9b14-2a85d1740d9d.jpeg",
-  "fetched_at": "2026-04-28T08:40:35+00:00",
+  "fetched_at": "2026-04-28T11:18:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/call-of-cthulhu"
   ],
   "episodes": [
+    {
+      "key": "e207c4d17465343653ab8b2d8c26e9fc6c15acba",
+      "title": "The Between 30 - Grave Matters",
+      "published_at": "2026-04-28T10:30:00+00:00",
+      "link": "https://shows.acast.com/aint-slayed-nobody/episodes/the-between-30-grave-matters",
+      "description": "Things in Hargrave House feel off, even more than usual. While everyone chases their own strange leads, something bigger keeps quietly unfolding in the background. It’s a little hard to tell who's making things better or worse. (Part 30) This series is not suitable for listeners under the age of 18 and may contain material some people find disturbing. CONTENT WARNINGS: cannibalism, decomposition, serial killing, brief sexual undertones, violence, profanity Player Characters Jason Cordova as Keeper Scott Dorward as Sebastian Melmoth Josephine McAdam as Moyra Innes Nic Rosenberg as Viola Archer cuppycup as Edward Quiet Production and Creative The Between system by The Gauntlet Editing by cuppycup and Scott Dorward Sound Design and Production by cuppycup Patreon: https://patreon.com/aintslayed Leave a Tip: https://streamlabs.com/pushtheroll/tip Merch: https://shop.pushtheroll.com/ Discord: https://slayed.me/discord Web: https://pushtheroll.com Instagram: https://instagram.com/pushtheroll Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/632da7cf6d7ffa0012565ffa/1777356841364-57b2a3a7-9509-440e-970b-f0d06e0846f9.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/632da7cf6d7ffa0012565ffa/e/69f0503fe615a680f55c9272/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "134224378",
+      "itunes_duration": "1:09:54",
+      "speakers": [
+        "Grave Matters Things",
+        "Hargrave House"
+      ],
+      "topics": [
+        "grave",
+        "matter"
+      ]
+    },
     {
       "key": "74fe7bf42f48c1ecf2f14b9034aeb4db92b15be8",
       "title": "The Between 29 - The Beast Without",
@@ -3583,6 +3603,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-28 — The Between 30 - Grave Matters — speakers: Grave Matters Things, Hargrave House
 - 2026-03-03 — The Between 29 - The Beast Without
 - 2026-02-24 — The Between 28 - Trust
 - 2026-02-17 — The Between 27 - Marionettes
