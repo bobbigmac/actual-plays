@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-04-28T04:09:00+00:00`
-- checked_at: `2026-04-28T04:09:00+00:00`
-- etag: `W/"04eec67dd3a11880fb85ed1fca7f1030"`
-- last_modified: `Tue, 28 Apr 2026 01:54:08 GMT`
+- fetched_at: `2026-04-28T08:40:35+00:00`
+- checked_at: `2026-04-28T08:40:35+00:00`
+- etag: `W/"240a308878a9d8e271ebb91cfe1a2b1d"`
+- last_modified: `Tue, 28 Apr 2026 07:01:43 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://dodoborne.transistor.fm/",
   "description": "DodoBorne is a comedy Daggerheart actual play podcast where four friends dive into the brand-new tabletop roleplaying game from Darrington Press. Join Kapi, Crank, and Pistachio as they navigate a rich world of mystery, magic, and malfeasance! Humor, heart, and nonsense guaranteed. Some assembly required.",
   "image_url": "https://img.transistorcdn.com/fg-CMns6Eb56K4IBpV4Y4XV3-bmmXfvIV6gQH2te_ag/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82NWZh/MWU1YWJkN2VjMmYy/ZmIwYjlmOTk0NzBk/MGM0ZS5wbmc.jpg",
-  "fetched_at": "2026-04-28T04:09:00+00:00",
+  "fetched_at": "2026-04-28T08:40:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,24 @@
     "ttrpg/daggerheart"
   ],
   "episodes": [
+    {
+      "key": "ea87bbba627ff0a7569b8e108fa53845891e03e0",
+      "title": "Polaris University 1.2: Discovery",
+      "published_at": "2026-04-28T07:00:00+00:00",
+      "link": "https://share.transistor.fm/s/d9fe378a",
+      "description": "Gadzooks and Jinkies! A body has been found! While I can assure you it wasn't Hickory in the Lab with the Lead Pipe, I CAN assure you that a mystery is afoot! Our students must put their heads and antennae together to figure out what happened to their professor. What secrets lie in wait? What strange things will be found? Find out now! Rainy causes a kerfuffle. Hickory is confused. Vivi has mixed results with her magic. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla meaches Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana Dom sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin Johnny Rocha Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch (say it in a way like we just broke up) CEO Zorak? Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez yeehawboi67",
+      "image_url": null,
+      "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/d9fe378a/a195c27b.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68994602",
+      "itunes_duration": "2872",
+      "speakers": [],
+      "topics": [
+        "polaris",
+        "university",
+        "discovery"
+      ]
+    },
     {
       "key": "90e3006265007b7e5670c7c24a48841f72c6235b",
       "title": "Polaris University 1.1: Detention",
@@ -778,6 +796,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-28 — Polaris University 1.2: Discovery
 - 2026-04-21 — Polaris University 1.1: Detention — speakers: Polaris University, Detention Welcome
 - 2026-04-07 — 2.18 The Season Two Squawk-back Episode (Bonus)
 - 2026-02-24 — 2.17 Casus Belli: Part 2 — speakers: Casus Belli
