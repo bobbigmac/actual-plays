@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-04-20T19:35:53+00:00`
-- checked_at: `2026-04-20T19:35:53+00:00`
-- last_modified: `Mon, 20 Apr 2026 17:40:48 GMT`
+- fetched_at: `2026-04-28T19:58:15+00:00`
+- checked_at: `2026-04-28T19:58:15+00:00`
+- last_modified: `Tue, 28 Apr 2026 18:01:40 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/3d67f9d92fe4f8284ae99be666359d60.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-20T19:35:53+00:00",
+  "fetched_at": "2026-04-28T19:58:15+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "2a20f2976c89a759a6f989eefb9fab6723a54fe4",
+      "title": "648. Realis, Episode 3",
+      "published_at": "2026-04-28T17:33:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY This moon-hopping death-squad take their chances at escape, learn how their captors have treated the ship, and make an attempt to land safely in our finale of Realis. SHOW NOTES REALIS One Shot News & Updates One Shot Patreon One Shot TWITCH All’s Fair preorders Follow the cast here! Dillin Apelyan Austin Walker Tyler Crumrine Viditya Voleti Elliot Davis ----------------------------------------------------- Know Your Rights Toolkits Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Left for Dead, Wastelander Lamentation, Wastelander Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN6874561035.mp3?updated=1777398079",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4138",
+      "speakers": [
+        "James D'Amato"
+      ],
+      "topics": [
+        "realis"
+      ]
+    },
     {
       "key": "cf867e40adbbf2d2082d90d2e0594907c8330f19",
       "title": "647. Realis, Episode 2",
@@ -13212,6 +13230,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-28 — 648. Realis, Episode 3 — speakers: James D'Amato
 - 2026-04-20 — 647. Realis, Episode 2 — speakers: James D'Amato
 - 2026-04-13 — 646. Realis, Episode 1 — speakers: Austin Walker, James D'Amato
 - 2026-04-07 — 645. The Session Zero System, Episode 2 — speakers: James D'Amato

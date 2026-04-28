@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-04-26T21:56:05+00:00`
-- checked_at: `2026-04-26T21:56:05+00:00`
-- etag: `"djEuMi4wOjE3NzcyMzU5MjI4NDM="`
+- fetched_at: `2026-04-28T19:58:15+00:00`
+- checked_at: `2026-04-28T19:58:15+00:00`
+- etag: `"djEuMi4wOjE3Nzc0MDI4Mzk0MjE="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-04-26T21:56:05+00:00",
+  "fetched_at": "2026-04-28T19:58:15+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "25350b5b262588cf1b5d042df38f303f45e8a29e",
+      "title": "Ep. 53 Boorish Rebuke",
+      "published_at": "2026-04-28T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-53-boorish-rebuke",
+      "description": "Some moments don’t wait for speeches or second thoughts, because in the space between one breath and the next, perfection can become perilous when the gauntlet begins. Sharpen your senses, steady your nerves, and take the initiative to jump into the fray, because while beauty may be in the eye of the beholder, it’s best not to look it directly in the eye. Confidence might be slowly peeled away and fear might be getting under your skin, but all you need to survive is remember just how impressive you are. After all, humility may be optional, but enthusiasm is mandatory, and salvation can still arrive with a flourish. Even ancient magic enjoys a well timed brag. While every fight might feel like a drop in the ocean, it’s time to take the plunge. Calmer waters may await, but even they don’t stop what lies below from reaching the surface. Sometimes answers only appear when you look closer, and not everyone is ready to see what the reflection reveals. After all, it’s one thing to survive what’s in front of you, and quite another to face what’s staring back. ---- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/69d13207f44b357ce91a0ede/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "418405399",
+      "itunes_duration": "3:37:35",
+      "speakers": [
+        "Boorish Rebuke Some",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "boorish",
+        "rebuke"
+      ]
+    },
     {
       "key": "cdc203c557c72a01f7a259435b2167f777a54212",
       "title": "Action Surge Episode 52",
@@ -2742,6 +2767,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-28 — Ep. 53 Boorish Rebuke — speakers: Boorish Rebuke Some, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-04-21 — Action Surge Episode 52 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-04-14 — Ep. 52 The Sword of The Flood — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-04-07 — Action Surge Episode 51 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
