@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-04-21T14:10:54+00:00`
-- checked_at: `2026-04-21T14:10:54+00:00`
-- etag: `"b2049758010707e751f738ea5478602f"`
-- last_modified: `Tue, 21 Apr 2026 13:00:24 GMT`
+- fetched_at: `2026-04-28T17:03:35+00:00`
+- checked_at: `2026-04-28T17:03:35+00:00`
+- etag: `"edc7f4863dbbffe66de13b0825cfc842"`
+- last_modified: `Tue, 28 Apr 2026 13:00:26 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-04-21T14:10:54+00:00",
+  "fetched_at": "2026-04-28T17:03:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "554e3f23609b131116f7f156263a011e531f747e",
+      "title": "Ep4 | Thousand Year Old Vampire w/ Brad - Rat King",
+      "published_at": "2026-04-28T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/2733157",
+      "description": "Randy the immortal gets... weird as the years grind his humanity to dust! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/2733157/green-box-gaming/2026_04_14_01_17_07_0f493d84-359a-4ea5-aa0d-a2bf5092e680.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54773132",
+      "itunes_duration": "3423",
+      "speakers": [],
+      "topics": [
+        "thousand",
+        "year",
+        "vampire",
+        "brad",
+        "king"
+      ]
+    },
     {
       "key": "93ac291e57f8c7062385cfcb1d868aa392cdfe78",
       "title": "Ep3 | Thousand Year Old Vampire w/ Brad - A Work of Art",
@@ -3889,6 +3909,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-28 — Ep4 | Thousand Year Old Vampire w/ Brad - Rat King
 - 2026-04-21 — Ep3 | Thousand Year Old Vampire w/ Brad - A Work of Art
 - 2026-04-14 — Ep12 | Delta Green: Puppet Shows and Shadow Plays - Sacred Ground — speakers: Delta Green, Puppet Shows, Shadow Plays
 - 2026-04-07 — Ep11 | Delta Green: Puppet Shows and Shadow Plays - New Badge, Who Dis? — speakers: Delta Green, Puppet Shows, Shadow Plays, New Badge, Who Dis
