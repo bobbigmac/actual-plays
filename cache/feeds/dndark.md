@@ -2,8 +2,8 @@
 
 - slug: `dndark`
 - source: `https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40`
-- fetched_at: `2026-04-29T11:07:20+00:00`
-- checked_at: `2026-04-29T11:07:20+00:00`
+- fetched_at: `2026-04-29T14:33:08+00:00`
+- checked_at: `2026-04-29T14:33:08+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/dndark",
   "description": "A comedy/horror D&D Actual Play Podcast starring some of history's most iconic monsters",
   "image_url": "https://media.redcircle.com/images/2025/4/2/20/c89246be-6b46-429a-909e-1e4e1bd26ad0_846-8b2d-746b3b4b007c_received_702201047512802.jpg",
-  "fetched_at": "2026-04-29T11:07:20+00:00",
+  "fetched_at": "2026-04-29T14:33:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -24,6 +24,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "54596aad4a1ae12c89c33aaad12c48a64ceca0a5",
+      "title": "Table Talk - Interview with Mike (Arcane Circle)",
+      "published_at": "2026-04-29T12:00:54+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The Twenty-ninth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Mike, the founder and CEO of the All-in-one TTRPG Platform, Arcane Circe. The interview discusses what Arcane Circle offers, what obstacles he needed to overcome when creating the platform, and some general GM philosophy. Check out Mike's work: Linktree: https://linktr.ee/ArcaneCirclegames Arcane Circle Website: https://www.arcanecircle.games/ Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/",
+      "image_url": "https://media.redcircle.com/images/2026/4/10/4/daad98f8-c7a2-45c3-9ac1-0f7633ca8310_dndark_interview_thimbnail.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/344d1567-74ee-490a-983f-4c54d3e50f23/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40457195",
+      "itunes_duration": "2528",
+      "speakers": [],
+      "topics": [
+        "table",
+        "talk",
+        "mike",
+        "arcane",
+        "circle"
+      ]
+    },
     {
       "key": "451427587f706a65fbfb09860287b3e2ef83ce70",
       "title": "DnDark Presents: DnDark Souls Part 10: Knight on Bald Mountain",
@@ -2513,6 +2533,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — Table Talk - Interview with Mike (Arcane Circle)
 - 2026-04-22 — DnDark Presents: DnDark Souls Part 10: Knight on Bald Mountain — speakers: Bald Mountain
 - 2026-04-08 — Table Talk - Interview with Olivia (Cozy Crypt) — speakers: Cozy Crypt
 - 2026-04-01 — DnDark Presents: DnDark Souls Part 9: Once Upon a Dream
