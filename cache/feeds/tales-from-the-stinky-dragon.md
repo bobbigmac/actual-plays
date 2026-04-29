@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-04-29T14:33:08+00:00`
-- checked_at: `2026-04-29T14:33:08+00:00`
-- last_modified: `Wed, 29 Apr 2026 11:21:10 GMT`
+- fetched_at: `2026-04-29T16:55:34+00:00`
+- checked_at: `2026-04-29T16:55:34+00:00`
+- last_modified: `Wed, 29 Apr 2026 16:49:41 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-29T14:33:08+00:00",
+  "fetched_at": "2026-04-29T16:55:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -2222,10 +2222,10 @@
       "link": "https://www.patreon.com/posts/arrested-in-city-105370136",
       "description": "In this newest tale from the Stinky Dragon, a new party of adventurers try and figure out how they have landed in the Attro City prison. Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/05a769a0-e2c7-11ed-acc5-e35a74afb220/image/927d0c9e4b2a7bba81a068f3e9b740d1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER6147470592.mp3?updated=1731432180",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER6147470592.mp3?updated=1777480372",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3599",
+      "itunes_duration": "3593",
       "speakers": [
         "Attro City",
         "Stinky Dragon"
