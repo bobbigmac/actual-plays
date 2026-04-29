@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-04-23T22:03:40+00:00`
-- checked_at: `2026-04-23T22:03:40+00:00`
-- etag: `"djEuMi4wOjE3NzY5ODE1MTYxMTA="`
+- fetched_at: `2026-04-29T08:34:57+00:00`
+- checked_at: `2026-04-29T08:34:57+00:00`
+- etag: `"djEuMi4wOjE3Nzc0NDg4NDU5NzU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-04-23T22:03:40+00:00",
+  "fetched_at": "2026-04-29T08:34:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "82e22e95591a9abdd55712311a45f16ce3e89f1d",
+      "title": "Ep. 003: Age of Astra - Hammers, Clubs, The Occasional Dagger! | #DND",
+      "published_at": "2026-04-29T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the calm façade begins to crack as questions linger a little too long and answers come far too easily. The agents press deeper into a situation that doesn’t quite add up, where names slip, tensions rise, and the Dice seem to favour unease over clarity. In this DnD tale, the truth is close… but it’s being carefully kept just out of reach. Who is really in control of what’s happening here? What is being hidden behind polite smiles? And when the truth finally surfaces, will it change everything? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1776980761364-96ed8a9d-a10a-4f44-ab1b-9c1eb5093a4a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69ea9377738b0d0aa50efebc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "130098537",
+      "itunes_duration": "54:10",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "hammers",
+        "clubs",
+        "occasional",
+        "dagger"
+      ]
+    },
     {
       "key": "78daaeb9083f3453e924def06722b52445558405",
       "title": "Ep. 002: Age of Astra - We're here from Astra | #DND",
@@ -7703,6 +7723,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — Ep. 003: Age of Astra - Hammers, Clubs, The Occasional Dagger! | #DND
 - 2026-04-22 — Ep. 002: Age of Astra - We're here from Astra | #DND
 - 2026-04-15 — Ep. 001: Age of Astra - Where is that Bloody Hat?! | #DND — speakers: Bloody Hat
 - 2026-04-15 — BONUS: Age of Astra - Meet Snik Unbord | #DND
