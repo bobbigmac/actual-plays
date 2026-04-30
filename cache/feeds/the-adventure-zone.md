@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-04-23T14:14:29+00:00`
-- checked_at: `2026-04-23T14:14:29+00:00`
-- etag: `"a6f18d30d8301607e3bfc0517250bc90"`
-- last_modified: `Thu, 23 Apr 2026 11:00:20 GMT`
+- fetched_at: `2026-04-30T11:10:18+00:00`
+- checked_at: `2026-04-30T11:10:18+00:00`
+- etag: `"b58fdbb41c2cc69616a76a3da2b38e10"`
+- last_modified: `Thu, 30 Apr 2026 11:00:16 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-04-23T14:14:29+00:00",
+  "fetched_at": "2026-04-30T11:10:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "61d2b0b56d054da0e24b323099ba4a04a7b14f91",
+      "title": "The Adventure Zone Royale: Episode 23",
+      "published_at": "2026-04-30T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-royale-episode-23-wbgH5F1p",
+      "description": "The Trial of Necromancy, Part II The zombie horde shambles into the house and the survivors scramble for safety as dawn slowly approaches. But with the situation getting desperate, some of the wizards will be forced to sacrifice more than they ever expected. Royale Theme: “Wizard Disco” by Louie Zong: https://louiezong.bandcamp.com/album/wizard-disco Original Music by Griffin McElroy Additional Music in this Episode: \"Fireball\" and \"Sunny Day\" by Jar of Flies: https://jaroffliesofficial.bandcamp.com/; \"Skin Writhes Anxious\" and \"VIII\" by ROZKOL: https://rozkol.bandcamp.com/; \"Foresight\" by Serat: https://blear-moon.com; and “If You Can't be the Sun, Be the Sun” by Schemawound http://schemawound.com/. Marsha P. Johnson Institute: https://marshap.org/ Happy MaxFunDrive! Right now is the best time to start a membership to support your favorite shows. Learn more and join at https://maximumfun.org/jointaz",
+      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/8c6134cc-8abd-4066-ad66-323ed9f403ff/3000x3000/tazroyalecoverresizedforsite.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/37bc0243-761e-4bda-96f1-61c59453a337/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=37bc0243-761e-4bda-96f1-61c59453a337&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68982910",
+      "itunes_duration": "01:06:58",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "royale"
+      ]
+    },
     {
       "key": "310bf497f1619118a7821dd81a076fbfb186238b",
       "title": "The Adventure Zone Versus A Midsummer Night’s Dream: Live in Columbus!",
@@ -7938,6 +7956,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-30 — The Adventure Zone Royale: Episode 23
 - 2026-04-23 — The Adventure Zone Versus A Midsummer Night’s Dream: Live in Columbus! — speakers: Midsummer Night
 - 2026-04-20 — MaxFunDrive 2026: Cousinverse BoCo Teaser!
 - 2026-04-16 — The Adventure Zone Royale: Episode 22
