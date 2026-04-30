@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-04-30T14:26:03+00:00`
-- checked_at: `2026-04-30T14:26:03+00:00`
-- last_modified: `Thu, 30 Apr 2026 11:19:33 GMT`
+- fetched_at: `2026-04-30T16:50:10+00:00`
+- checked_at: `2026-04-30T16:50:10+00:00`
+- last_modified: `Thu, 30 Apr 2026 16:24:54 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-30T14:26:03+00:00",
+  "fetched_at": "2026-04-30T16:50:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -4171,12 +4171,12 @@
       "title": "C01 - Ep. 03 - Infinight Interns - The Search for Dr. Ahem Pt. 2",
       "published_at": "2021-05-18T07:00:00+00:00",
       "link": "https://www.patreon.com/posts/infinight-ep-3-2-105333887",
-      "description": "The Infinight Interns attempt to solve the door puzzles- included but not limited to a sleepy dragon, a monster with a cleaning problem, and an adorable bloodstained teddy bear. Will they find Mayor Prattle and Dr. Ahem or will they become mince meat first? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8875567665.mp3?updated=1738394114",
+      "description": "The Infinight Interns attempt to solve the door puzzles- included but not limited to a sleepy dragon, a monster with a cleaning problem, and an adorable bloodstained teddy bear. Will they find Mayor Prattle and Dr. Ahem or will they become mince meat first? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5745ffd4-b753-11eb-8428-f37550bcb1cd/image/bbfc36dbb787724f7a254dd051405d26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8875567665.mp3?updated=1777566586",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2580",
+      "itunes_duration": "2577",
       "speakers": [
         "Ahem Pt",
         "Infinight Interns"
@@ -4193,12 +4193,12 @@
       "title": "C01 - Ep. 02 - Infinight Interns - The Search for Dr. Ahem Pt. 1",
       "published_at": "2021-05-11T07:00:00+00:00",
       "link": "https://www.patreon.com/posts/infinight-ep-2-1-105333768",
-      "description": "Mayor Prattle tells our heroes that one key witness knows what happened to the Infinights. But before they can figure out next steps, the mayor is taken! Can our heroes rescue him or will they be stopped in their tracks by their first puzzle....doors! Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER1644079127.mp3?updated=1738392825",
+      "description": "Mayor Prattle tells our heroes that one key witness knows what happened to the Infinights. But before they can figure out next steps, the mayor is taken! Can our heroes rescue him or will they be stopped in their tracks by their first puzzle....doors! Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7d185e30-b1ce-11eb-a432-8f677eb5fa69/image/bbfc36dbb787724f7a254dd051405d26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER1644079127.mp3?updated=1777565120",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2619",
+      "itunes_duration": "2615",
       "speakers": [
         "Ahem Pt"
       ],
