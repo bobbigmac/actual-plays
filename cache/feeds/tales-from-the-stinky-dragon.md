@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-04-30T04:06:58+00:00`
-- checked_at: `2026-04-30T04:06:58+00:00`
-- last_modified: `Thu, 30 Apr 2026 03:34:22 GMT`
+- fetched_at: `2026-04-30T08:36:30+00:00`
+- checked_at: `2026-04-30T08:36:30+00:00`
+- last_modified: `Thu, 30 Apr 2026 07:54:44 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-30T04:06:58+00:00",
+  "fetched_at": "2026-04-30T08:36:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -1067,9 +1067,9 @@
       "title": "C02 - Grotethe Campaign Wrap Up",
       "published_at": "2024-08-27T07:00:00+00:00",
       "link": null,
-      "description": "Join the whole crew - Gus, Barbara, Blaine, Jon, Chris, Micah, & Ben as they talk about campaign 02 - the Grotethe Finale and the future of Grotethe, favorite moments and characters, and a hint at what characters you'll see in campaign 03. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Go to http://HeroForge.com and use code STINKY to get 5% off all orders of physical miniatures. Go to http://shopify.com/dragon to sign up for a $1-per-month trial period. Go to http://mistymountaingaming.com and use code STINKY to get 10% off your order. Listen and subscribe to Dragon Age: Vows & Vengeance on August 29 - available to listen wherever you get podcasts! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Join the whole crew - Gus, Barbara, Blaine, Jon, Chris, Micah, & Ben as they talk about campaign 02 - the Grotethe Finale and the future of Grotethe, favorite moments and characters, and a hint at what characters you'll see in campaign 03. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/cdb132ea-61e3-11ef-a178-1b1a035ccc89/image/3ea2f0970603e680cd168e97851f6aee.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER3257853798.mp3?updated=1731707390",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER3257853798.mp3?updated=1777535245",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4553",
@@ -1085,9 +1085,9 @@
       "title": "C02 - Ep. 50 - Finale in Faunaloch - Unloching A Secret",
       "published_at": "2024-08-13T07:00:00+00:00",
       "link": null,
-      "description": "The Grotethe Gang have cleared their name but there is one final secret of Grotethe they must uncover while chasing down the slippery mastermind of their arrest! Support us directly on Patreon - https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Go to http://katoskoffee.com and use code Stinky5 for 5% off your order. Go to http://HeroForge.com and use code STINKY to get 5% off all orders of physical miniatures. Go to http://shopify.com/dragon to sign up for a $1-per-month trial period. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "The Grotethe Gang have cleared their name but there is one final secret of Grotethe they must uncover while chasing down the slippery mastermind of their arrest! Support us directly on Patreon - https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/6dd30f7a-5873-11ef-86ba-8bd339a95d0d/image/964653ee7904405b6932519adac399f9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8007418374.mp3?updated=1731706549",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8007418374.mp3?updated=1777533387",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4928",
@@ -1106,7 +1106,7 @@
       "link": null,
       "description": "In the penultimate Grotethe episode - the Grotethe Gang finally gets some answers and seeks help from Nessie to put this case to rest once and for all. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Go to http://HeroForge.com and use code STINKY to get 5% off all orders of physical miniatures. Go to http://shopify.com/dragon to sign up for a $1-per-month trial period. Go to http://mistymountaingaming.com and use code STINKY to get 10% off your order. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/eac7a398-4c4c-11ef-988a-c740794f451f/image/964653ee7904405b6932519adac399f9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER5955162686.mp3?updated=1731706185",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER5955162686.mp3?updated=1777531853",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4427",
@@ -1129,7 +1129,7 @@
       "link": null,
       "description": "The Grotethe Gang finds themselves in a showdown with familiar final foes! Support us at Patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Go to http://HeroForge.com and use code STINKY to get 5% off all orders of physical miniatures. Go to http://shadyrays.com and use code STINKY for 50% off your purchase of two or more pairs. Go to http://katoskoffee.com and use code Stinky5 for 5% off your order. This episode is sponsored by BetterHelp — go to http://betterhelp.com/stinkydragon to get 10% off your first month. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/57d99378-4267-11ef-9720-5383c44f01e5/image/964653ee7904405b6932519adac399f9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER6470875344.mp3?updated=1731706055",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER6470875344.mp3?updated=1777530811",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6582",
@@ -1146,9 +1146,9 @@
       "title": "C02 - Ep. 47 - Finale in Faunaloch - Lying Through Your SHEATH",
       "published_at": "2024-07-02T07:00:00+00:00",
       "link": null,
-      "description": "The Grotethe Gang has a rare chance to get answers from SHEATH and sets off on a mission to collect important ingredients for a potent potion. Support us at Patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon This episode is sponsored by BetterHelp — go to http://betterhelp.com/stinkydragon to get 10% off your first month. Go to http://shopify.com/dragon to sign up for a $1-per-month trial period. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "The Grotethe Gang has a rare chance to get answers from SHEATH and sets off on a mission to collect important ingredients for a potent potion. Support us at Patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/ee5e95a8-373d-11ef-88c9-ab56310e1719/image/964653ee7904405b6932519adac399f9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER4471191410.mp3?updated=1731705525",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER4471191410.mp3?updated=1777524744",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5645",
@@ -1163,9 +1163,9 @@
       "title": "C02 - Ep. 46 - Finale in Faunaloch - Tempoor Unfortunate Souls",
       "published_at": "2024-06-18T07:00:00+00:00",
       "link": null,
-      "description": "Settled in on the Grotethe Express headed to Faunaloch - the party has a chance to learn more about S.H.E.A.T.H. from Countess Von Brath Join the Party and help make this show possible by joining us on https://www.patreon.com/stinkydragon ! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 This episode is sponsored by BetterHelp — go to http://betterhelp.com/stinkydragon to get 10% off your first month. Go to http://HeroForge.com and use code STINKY to get 5% off all orders of physical miniatures. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Settled in on the Grotethe Express headed to Faunaloch - the party has a chance to learn more about S.H.E.A.T.H. from Countess Von Brath Join the Party and help make this show possible by joining us on https://www.patreon.com/stinkydragon ! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/29bd0228-2aba-11ef-94af-5f3fe3d910cb/image/964653ee7904405b6932519adac399f9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER2510872393.mp3?updated=1731705058",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER2510872393.mp3?updated=1777523431",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5377",
