@@ -2,9 +2,9 @@
 
 - slug: `strange-encounter-a-pirate-borg-actual-play`
 - source: `https://feeds.acast.com/public/shows/67e7f489e270d6e036be51c1`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"djEuMi4wOjE3NjA2OTM0ODc3NjA="`
+- fetched_at: `2026-04-30T04:06:58+00:00`
+- checked_at: `2026-04-30T04:06:58+00:00`
+- etag: `"djEuMi4wOjE3Nzc1MDg0MjE2Mzg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.acast.com/public/shows/strange-encounter",
   "description": "A Live Pirate Borg Actual Play Podcast",
   "image_url": "https://assets.pippa.io/shows/67e7f489e270d6e036be51c1/1743272326908-4351dd30-998a-42b9-8394-33f532824378.jpeg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-04-30T04:06:58+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -56,7 +56,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121378427",
       "itunes_duration": "1:41:29",
-      "speakers": [],
+      "speakers": [
+        "Forever Gate Stealing",
+        "Strange Encounter"
+      ],
       "topics": [
         "pirate",
         "borg",
@@ -94,7 +97,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98168567",
       "itunes_duration": "1:18:47",
-      "speakers": [],
+      "speakers": [
+        "Blood Ghosts",
+        "Ancient Secrets",
+        "Strange Encounter"
+      ],
       "topics": [
         "pirate",
         "borg",
@@ -113,7 +120,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85971701",
       "itunes_duration": "1:09:00",
-      "speakers": [],
+      "speakers": [
+        "Yuma Island"
+      ],
       "topics": [
         "pirate",
         "borg",
@@ -238,10 +247,10 @@
 ## Episodes (newest first)
 
 - 2025-10-17 — ANNOUNCEMENT - Mothership RPG - Party At Bethyl's
-- 2025-07-04 — Pirate Borg Ep 10 - Forever Gate
+- 2025-07-04 — Pirate Borg Ep 10 - Forever Gate — speakers: Forever Gate Stealing, Strange Encounter
 - 2025-06-27 — Pirate Borg Ep 9 - The Warrior's Grave
-- 2025-05-27 — Pirate Borg Ep 8 - The Doors of Blood
-- 2025-05-20 — Pirate Borg Ep 7 - Haunted & Revelation
+- 2025-05-27 — Pirate Borg Ep 8 - The Doors of Blood — speakers: Blood Ghosts, Ancient Secrets, Strange Encounter
+- 2025-05-20 — Pirate Borg Ep 7 - Haunted & Revelation — speakers: Yuma Island
 - 2025-05-06 — Pirate Borg Ep 6 - Following The Map
 - 2025-04-29 — Pirate Borg Ep 5 - Reunited
 - 2025-04-22 — Pirate Borg Ep 4 - Organ Donors
