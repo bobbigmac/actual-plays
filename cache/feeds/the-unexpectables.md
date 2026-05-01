@@ -2,10 +2,10 @@
 
 - slug: `the-unexpectables`
 - source: `https://feeds.libsyn.com/105383/rss`
-- fetched_at: `2026-04-27T22:09:31+00:00`
-- checked_at: `2026-04-27T22:09:31+00:00`
-- etag: `"244e2ae0cb4887bab5de169f62f668c2"`
-- last_modified: `Mon, 27 Apr 2026 21:50:40 GMT`
+- fetched_at: `2026-05-01T22:08:23+00:00`
+- checked_at: `2026-05-01T22:08:23+00:00`
+- etag: `"1054e87584bdb31e9ee737012f13dc6d"`
+- last_modified: `Fri, 01 May 2026 21:52:37 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://101club.libsyn.com/website",
   "description": "Follow the travels and tribulations of Task the Kobold Ranger, Greckles the Kenku Rogue, Panic the Tiefling Bard, and Borky the Orc Barbarian, as they traverse the dangerous and mysterious lands of Alivast, and the Capital City that hosts a bungle of characters, magic and villains.",
   "image_url": "https://static.libsyn.com/p/assets/6/9/c/7/69c7492dcb405690/sweet_dragon_logo.png",
-  "fetched_at": "2026-04-27T22:09:31+00:00",
+  "fetched_at": "2026-05-01T22:08:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ded068950086b14b12aaf0fbadd19dece83dc469",
+      "title": "For Whom the Bellum Tolls - The Unexpectables II Episode 148",
+      "published_at": "2026-05-01T21:40:00+00:00",
+      "link": "https://101club.libsyn.com/for-whom-the-bellum-tolls-the-unexpectables-ii-episode-148",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_148_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "141859573",
+      "itunes_duration": "02:48:49",
+      "speakers": [
+        "Bellum Tolls"
+      ],
+      "topics": [
+        "bellum",
+        "tolls",
+        "unexpectables"
+      ]
+    },
     {
       "key": "5e2646084688438e60d48a99eb8799d39e310d71",
       "title": "Rams vs Chargers - The Unexpectables II Episode 147",
@@ -11048,6 +11068,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-01 — For Whom the Bellum Tolls - The Unexpectables II Episode 148 — speakers: Bellum Tolls
 - 2026-04-27 — Rams vs Chargers - The Unexpectables II Episode 147
 - 2026-04-27 — Technical Difficulties - Fool's Gelt Episode 3 — speakers: Technical Difficulties
 - 2026-04-27 — Korri in the House - The Unexpectables II Episode 146
