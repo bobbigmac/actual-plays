@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-04-27T14:29:04+00:00`
-- checked_at: `2026-04-27T14:29:04+00:00`
-- etag: `"57131dfdd55bf4401b1164d7fee5f922"`
+- fetched_at: `2026-05-01T16:13:35+00:00`
+- checked_at: `2026-05-01T16:13:35+00:00`
+- etag: `"e0fcc6ee7b92ea37b37a80fdb886d6be"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/5111002/Dork_Tales_d20_20238mnn1.png",
-  "fetched_at": "2026-04-27T14:29:04+00:00",
+  "fetched_at": "2026-05-01T16:13:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "290da5be6d3d72228144befab7a262fd38de8db8",
+      "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 3: Blood on the Deck",
+      "published_at": "2026-05-01T14:00:00+00:00",
+      "link": "https://dorktales.podbean.com/e/mage-the-ascension-the-victorian-age-book-3-chapter-3-blood-on-the-deck/",
+      "description": "Welcome to book three of Mage the Victorian Age! In this episode, the Doves get into a bit of trouble on board. Thank you to Bookwyrm Games for sponsoring Dork Tales this month! Use code DORKTALES to save 15% at https://www.bookwyrmgames.com! Orders over $100 also enjoy free shipping! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage *** Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Evelyn Taylor *** Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktalescha... Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! *** Music credits: Music From Dark Fantasy Studio Hidden in the Dark These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vision of the Ancients Veil Entropy Chaotic Tavern Another Round Exodus Suspense Bass These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! https://www.tabletopaudio.com",
+      "image_url": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog5111002/Mage_Book_3Podcast_Logoabm7t.png",
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/fdr236wy4tu28ifg/MVA3x3complete.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138384257",
+      "itunes_duration": "9882",
+      "speakers": [
+        "Victorian Age",
+        "Deck Welcome"
+      ],
+      "topics": [
+        "ascension",
+        "book",
+        "chapter",
+        "blood",
+        "deck"
+      ]
+    },
     {
       "key": "5564162b02bc2e5da9670094c20234dd373d5d50",
       "title": "Vecna: Eve of Ruin | Episode 34: Eve of Ruin",
@@ -7660,6 +7683,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-01 — Mage the Ascension the Victorian Age | Book 3, Chapter 3: Blood on the Deck — speakers: Victorian Age, Deck Welcome
 - 2026-04-27 — Vecna: Eve of Ruin | Episode 34: Eve of Ruin — speakers: Ruin Vecna
 - 2026-04-24 — Mage the Ascension the Victorian Age | Book 3, Chapter 2: The Voyage of the Nestor — speakers: Victorian Age, Nestor Welcome
 - 2026-04-20 — Vecna: Eve of Ruin | Episode 33: Torment of Kas — speakers: Kas Vecna

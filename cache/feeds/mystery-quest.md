@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-04-30T16:50:10+00:00`
-- checked_at: `2026-04-30T16:50:10+00:00`
-- last_modified: `Thu, 30 Apr 2026 14:41:45 GMT`
+- fetched_at: `2026-05-01T16:13:35+00:00`
+- checked_at: `2026-05-01T16:13:35+00:00`
+- last_modified: `Fri, 01 May 2026 16:09:02 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-30T16:50:10+00:00",
+  "fetched_at": "2026-05-01T16:13:35+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,25 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "84d476c5c558dfd538058f1d119258aac9c974fb",
+      "title": "Call of Cthulhu: DeadFellas #2",
+      "published_at": "2026-05-01T16:00:00+00:00",
+      "link": null,
+      "description": "Welcome back to Call of Cthulhu and the scenario, 'DeadFellas'. The crew gather their nerves after a close call on the treacherous icy roads, but ambition, opportunity and disturbing visions cloud their judgement. Straining under pressure can these tenuous loyalties hold much longer... Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! The DeadFellas scenario by Christian Grundel: https://www.drivethrurpg.com/en/product/512356/deadfellas Check out Call of Cthulhu from Chaosium: https://www.chaosium.com/call-of-cthulhu-rpg/ Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: @AngoryTom Joseph: @apocplayers Danann: @apocplayers Lydia: https://twitch.tv/squidgame Ravs: @Ravs_ Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR9965493016.mp3?updated=1777560394",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3203",
+      "speakers": [
+        "Tom Bates"
+      ],
+      "topics": [
+        "cthulhu",
+        "deadfellas"
+      ]
+    },
     {
       "key": "a642c94303dbed5649e0c7a765969184df32d72f",
       "title": "Call of Cthulhu: DeadFellas #1",
@@ -2931,6 +2950,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-01 — Call of Cthulhu: DeadFellas #2 — speakers: Tom Bates
 - 2026-04-24 — Call of Cthulhu: DeadFellas #1 — speakers: Tom Bates
 - 2026-04-17 — Blade Runner RPG: Electric Dreams #7 — speakers: Blade Runner Rpg, Tom Bates
 - 2026-04-10 — Blade Runner RPG: Electric Dreams #6 — speakers: Blade Runner Rpg, Blade Runner, Electric Dreams, Tom Bates
