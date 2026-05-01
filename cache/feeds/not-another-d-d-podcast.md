@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-04-24T03:53:34+00:00`
-- checked_at: `2026-04-24T03:53:34+00:00`
-- last_modified: `Thu, 23 Apr 2026 23:30:00 GMT`
+- fetched_at: `2026-05-01T08:26:07+00:00`
+- checked_at: `2026-05-01T08:26:07+00:00`
+- last_modified: `Fri, 01 May 2026 05:38:59 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-04-24T03:53:34+00:00",
+  "fetched_at": "2026-05-01T08:26:07+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,32 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "77348881f00fa3097cb30003aa0f00f69a59e1e7",
+      "title": "D&D Court: Questionable Rests, Dubious Daggers and The Rise of Clunky",
+      "published_at": "2026-05-01T05:00:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/6a5e9352-f97e-488b-b488-f32f83f45e47",
+      "description": "Dungeon Court is back in session! Join Justices Murphy, Tanner and Axford, along with Apple Car Driver / Bailiff Jake, as they pass judgement on your trials at the table! CREDITS: Sound Mixing and Editing by Trevor Lyon Dungeon Court Theme Song by Sam Weiller See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/cf/3c/d3/b4/cf3cd3b4-48d0-4496-8d4f-bc17a4afbe33/1a770ae697851b880cd74f2f629073da90076cf0ea27f04fa64baa0563918c47649f4fbdb74d5571cd1646e15358c588e71c6a63cf7ee828454bc390488e8923.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/6a5e9352-f97e-488b-b488-f32f83f45e47.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63807320",
+      "itunes_duration": "01:06:27",
+      "speakers": [
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "court",
+        "rests",
+        "dubious",
+        "daggers",
+        "rise",
+        "clunky"
+      ]
+    },
     {
       "key": "fcb6ccafacede0d0004ef54e2d46c6e4730a2641",
       "title": "Gangs of Neo Galaderon - Ep. 4: Murdercycle",
@@ -80,7 +106,7 @@
     {
       "key": "6c61c2f9dc04c4028aaba3a0ef4594ff8f6d803e",
       "title": "D&D Court: Sexy Squirrels, Powerful Turtles, and Shambling Mounds",
-      "published_at": "2026-04-09T04:00:00+00:00",
+      "published_at": "2026-04-10T04:00:00+00:00",
       "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/a5088cdf-563a-4705-89e6-1c396c9d074b",
       "description": "Dungeon Court is back in session! Join Justices Murphy, Tanner and Axford, along with Bailiff Jake, as they pass judgement on your trials at the table! Come see us LIVE at Radio City Music Hall! CREDITS: Sound Mixing and Editing by Trevor Lyon Dungeon Court Theme Song by Sam Weiller See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
       "image_url": "https://content.production.cdn.art19.com/images/1c/d9/f2/37/1cd9f237-e784-4b05-9681-07a96920201b/746bfb2751f6982d4927a61eb926e818a2802b2161375c3bb467d2902c989b969152fb11651e2ffaddc3a56836e7ec09af3a86c8844e200e85ff16520ead9f20.jpeg",
@@ -10926,9 +10952,10 @@
 
 ## Episodes (newest first)
 
+- 2026-05-01 — D&D Court: Questionable Rests, Dubious Daggers and The Rise of Clunky — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-04-23 — Gangs of Neo Galaderon - Ep. 4: Murdercycle — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-04-16 — Gangs of Neo Galaderon - Ep. 3: Crack the Safe — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2026-04-09 — D&D Court: Sexy Squirrels, Powerful Turtles, and Shambling Mounds — speakers: Powerful Turtles, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2026-04-10 — D&D Court: Sexy Squirrels, Powerful Turtles, and Shambling Mounds — speakers: Powerful Turtles, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-04-02 — Gangs of Neo Galaderon - Ep. 2: Glenbottle Gala — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-03-26 — Gangs of Neo Galaderon - Ep. 1: The Kill Screens — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-03-19 — D&D Court: Husband Gloves, Drowncula, and DM Mojo — speakers: Husband Gloves, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
