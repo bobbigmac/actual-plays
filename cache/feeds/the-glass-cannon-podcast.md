@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-04-30T16:50:10+00:00`
-- checked_at: `2026-04-30T16:50:10+00:00`
-- last_modified: `Thu, 30 Apr 2026 15:30:31 GMT`
+- fetched_at: `2026-05-01T04:32:13+00:00`
+- checked_at: `2026-05-01T04:32:13+00:00`
+- last_modified: `Fri, 01 May 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-30T16:50:10+00:00",
+  "fetched_at": "2026-05-01T04:32:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "1565febc7af0584e9be7e23d181fc38d1953e62f",
+      "title": "Horizon 271 | Call of Cthulhu Live! | Los Angeles Night One 2026 | Modern Call of Cthulhu",
+      "published_at": "2026-05-01T04:00:00+00:00",
+      "link": null,
+      "description": "A group of strangers brought together by a clandestine organization known as Quiet Horizon must escort a federal official on a private flight from New York to Washington, D.C. Watch the video here: https://youtu.be/z5zoY2LgtGM Cast: Sydney Amanual, Ross Bryant, Matthew Capodicasa, Mary Lou, Skid Maher, Joe O'Brien, and Troy Lavallee Come see us LIVE in a city near you at https://www.glasscannonnetwork.com/tour Dallas, TX | 5/13/2026 St. Paul, MN | 5/14/2026 Indianapolis, IN | 7/30/2026 Indianapolis, IN | 7/31/2026 New Orleans, LA | 9/2/2026 Atlanta, GA | 9/3/2026 Madison, WI | 10/15/2026 Philadelphia, PA | 12/4/2026 Philadelphia, PA | 12/5/2026 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/427e8642-44a8-11f1-a043-57534281cfec/image/3e4566969ffca3ba1ebe317ed7f02a45.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7036098364.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "10378",
+      "speakers": [
+        "Quiet Horizon"
+      ],
+      "topics": [
+        "horizon",
+        "cthulhu",
+        "angeles",
+        "night",
+        "modern"
+      ]
+    },
     {
       "key": "51ee187283f76488147b899f85cd88b37384ba83",
       "title": "The Fury of King Lot, Part 1 | Pendragon: Under an Iron Sky | Chaosium",
@@ -3332,6 +3354,28 @@
       ]
     },
     {
+      "key": "698c3e7f50e27081ea55d0d3f7b6f842dd57d3f1",
+      "title": "Phantom Punch | Glass Cannon Live! Ascension Part 8 | Toronto 2025 | Pathfinder 2E",
+      "published_at": "2025-07-10T04:00:00+00:00",
+      "link": null,
+      "description": "At a feast to celebrate the Prince's visit, a heinous act rouses restless spirits. Watch the video here: ⁠⁠⁠⁠ https://youtu.be/eryS3FOiFFU Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5b90c0ca-5cd0-11f0-84f7-03aee642a26d/image/779a3b14f46da6289eae80709444cd27.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7724252759.mp3?updated=1752071646",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8157",
+      "speakers": [],
+      "topics": [
+        "phantom",
+        "punch",
+        "glass",
+        "cannon",
+        "ascension",
+        "toronto",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "5f24cf0337c5f75f09022390246e3ae01337a1cf",
       "title": "Glass Cannon Radio #24 – Superman (2025)/Superhero RPGs/Andor Finale",
       "published_at": "2025-07-10T04:00:00+00:00",
@@ -3353,28 +3397,6 @@
         "rpgs",
         "andor",
         "finale"
-      ]
-    },
-    {
-      "key": "698c3e7f50e27081ea55d0d3f7b6f842dd57d3f1",
-      "title": "Phantom Punch | Glass Cannon Live! Ascension Part 8 | Toronto 2025 | Pathfinder 2E",
-      "published_at": "2025-07-10T04:00:00+00:00",
-      "link": null,
-      "description": "At a feast to celebrate the Prince's visit, a heinous act rouses restless spirits. Watch the video here: ⁠⁠⁠⁠ https://youtu.be/eryS3FOiFFU Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/5b90c0ca-5cd0-11f0-84f7-03aee642a26d/image/779a3b14f46da6289eae80709444cd27.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7724252759.mp3?updated=1752071646",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "8157",
-      "speakers": [],
-      "topics": [
-        "phantom",
-        "punch",
-        "glass",
-        "cannon",
-        "ascension",
-        "toronto",
-        "pathfinder"
       ]
     },
     {
@@ -3423,27 +3445,6 @@
       ]
     },
     {
-      "key": "844a181747a141de804ff909cb42554de9aa2145",
-      "title": "Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-07-03T04:00:00+00:00",
-      "link": null,
-      "description": "The investigators make their way to Walton-on-the-Naze in search of Misr House. Watch the video here: ⁠⁠https://youtu.be/KMdlFIRM82s For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/15210dd0-5365-11f0-9494-432c2cc37bb8/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7346316478.mp3?updated=1751037254",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "10777",
-      "speakers": [],
-      "topics": [
-        "island",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
-      ]
-    },
-    {
       "key": "4feff011f9adfa010db75c0c1785e6978f82c8e5",
       "title": "Glass Cannon Radio #23 – Captain America/Indie RPGs/Best Fictional President",
       "published_at": "2025-07-03T04:00:00+00:00",
@@ -3466,6 +3467,27 @@
         "best",
         "fictional",
         "president"
+      ]
+    },
+    {
+      "key": "844a181747a141de804ff909cb42554de9aa2145",
+      "title": "Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-07-03T04:00:00+00:00",
+      "link": null,
+      "description": "The investigators make their way to Walton-on-the-Naze in search of Misr House. Watch the video here: ⁠⁠https://youtu.be/KMdlFIRM82s For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/15210dd0-5365-11f0-9494-432c2cc37bb8/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7346316478.mp3?updated=1751037254",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "10777",
+      "speakers": [],
+      "topics": [
+        "island",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
       ]
     },
     {
@@ -3562,32 +3584,6 @@
       ]
     },
     {
-      "key": "ab5531ac81149fa94b351891399d308a3e2edd36",
-      "title": "Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-06-27T04:00:00+00:00",
-      "link": null,
-      "description": "An attempt to break into Henson Manufacturing goes quickly awry. Watch the video here: ⁠ https://youtu.be/ja-2nOpaZVc ⁠⁠⁠ For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/f1f97042-4c5a-11f0-90c3-7374f999d197/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1873340630.mp3?updated=1750261971",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "8102",
-      "speakers": [
-        "Hidden Lines",
-        "Cthulhu Masks",
-        "Henson Manufacturing"
-      ],
-      "topics": [
-        "hidden",
-        "lines",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
-      ]
-    },
-    {
       "key": "296e5799d408a34255c588eb6cc4765675df46e8",
       "title": "Yurty Rotten Scoundrels | The Glass Cannon Podcast Gatewalkers E91 | Pathfinder 2E",
       "published_at": "2025-06-27T04:00:00+00:00",
@@ -3613,20 +3609,24 @@
       ]
     },
     {
-      "key": "6402200aaabbdbff3ad0715d53cb9aae2ad0a27f",
-      "title": "Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-06-26T04:00:00+00:00",
+      "key": "ab5531ac81149fa94b351891399d308a3e2edd36",
+      "title": "Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-06-27T04:00:00+00:00",
       "link": null,
-      "description": "With a new companion in tow, the investigators look into Henson Manufacturing. Watch the video here: ⁠https://youtu.be/S5IvIPGehU8 For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/d0287fc6-4c5a-11f0-a806-a349d24a68f5/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6873814941.mp3?updated=1750261919",
+      "description": "An attempt to break into Henson Manufacturing goes quickly awry. Watch the video here: ⁠ https://youtu.be/ja-2nOpaZVc ⁠⁠⁠ For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f1f97042-4c5a-11f0-90c3-7374f999d197/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1873340630.mp3?updated=1750261971",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7758",
-      "speakers": [],
+      "itunes_duration": "8102",
+      "speakers": [
+        "Hidden Lines",
+        "Cthulhu Masks",
+        "Henson Manufacturing"
+      ],
       "topics": [
-        "safe",
-        "house",
+        "hidden",
+        "lines",
         "time",
         "chaos",
         "cthulhu",
@@ -3656,6 +3656,28 @@
         "zombie",
         "gaming",
         "beat"
+      ]
+    },
+    {
+      "key": "6402200aaabbdbff3ad0715d53cb9aae2ad0a27f",
+      "title": "Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-06-26T04:00:00+00:00",
+      "link": null,
+      "description": "With a new companion in tow, the investigators look into Henson Manufacturing. Watch the video here: ⁠https://youtu.be/S5IvIPGehU8 For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d0287fc6-4c5a-11f0-a806-a349d24a68f5/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6873814941.mp3?updated=1750261919",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7758",
+      "speakers": [],
+      "topics": [
+        "safe",
+        "house",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
       ]
     },
     {
@@ -3772,6 +3794,28 @@
       ]
     },
     {
+      "key": "5b830a3a861098fe7e6690b10bc6ababcd57a0f7",
+      "title": "Glass Cannon Radio #21 – The Alien Franchise/Railroading PCs/Great Gamblers",
+      "published_at": "2025-06-19T04:00:00+00:00",
+      "link": null,
+      "description": "Joe and Jared breakdown the Alien: Earth trailer and give their thoughts on the franchise in general. Plus, is railroading the wrong way to run an adventure? 0:00 Intro 2:30 Vegas Games 40:00 Alien: Earth 59:00 Alien Franchise 1:25:45 Railroading 1:56:00 Listener Award Watch the video here: ⁠ https://youtu.be/ZcluFugz5g8 Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/78aa79b8-4cbc-11f0-b0ca-f362db80ac74/image/84a45230b86b492b21418b413b25c180.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4018014662.mp3?updated=1750303582",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7428",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "radio",
+        "alien",
+        "franchise",
+        "great",
+        "gamblers"
+      ]
+    },
+    {
       "key": "cf530540913888535b55e4aa666f1f9e21ac2b07",
       "title": "Law and Orders | Time For Chaos S2 E9 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-06-19T04:00:00+00:00",
@@ -3792,28 +3836,6 @@
         "cthulhu",
         "masks",
         "nyarlathotep"
-      ]
-    },
-    {
-      "key": "5b830a3a861098fe7e6690b10bc6ababcd57a0f7",
-      "title": "Glass Cannon Radio #21 – The Alien Franchise/Railroading PCs/Great Gamblers",
-      "published_at": "2025-06-19T04:00:00+00:00",
-      "link": null,
-      "description": "Joe and Jared breakdown the Alien: Earth trailer and give their thoughts on the franchise in general. Plus, is railroading the wrong way to run an adventure? 0:00 Intro 2:30 Vegas Games 40:00 Alien: Earth 59:00 Alien Franchise 1:25:45 Railroading 1:56:00 Listener Award Watch the video here: ⁠ https://youtu.be/ZcluFugz5g8 Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/78aa79b8-4cbc-11f0-b0ca-f362db80ac74/image/84a45230b86b492b21418b413b25c180.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4018014662.mp3?updated=1750303582",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7428",
-      "speakers": [],
-      "topics": [
-        "glass",
-        "cannon",
-        "radio",
-        "alien",
-        "franchise",
-        "great",
-        "gamblers"
       ]
     },
     {
@@ -4025,30 +4047,6 @@
       ]
     },
     {
-      "key": "207db954276f5709e92bed56f3be2ddfd1a4b5a2",
-      "title": "Doctor Roust Us | The Glass Cannon Podcast Gatewalkers E88 | Pathfinder 2E",
-      "published_at": "2025-06-06T04:00:00+00:00",
-      "link": null,
-      "description": "After 87 episodes, the heroes come face to face with Dr. Ritalson once more. Watch the video here: ⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠ ⁠ https://youtu.be/h-ltlxSE0zc This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9891261392.mp3?updated=1753915844",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5294",
-      "speakers": [
-        "Roust Us"
-      ],
-      "topics": [
-        "doctor",
-        "roust",
-        "glass",
-        "cannon",
-        "podcast",
-        "gatewalkers",
-        "pathfinder"
-      ]
-    },
-    {
       "key": "cd5292e5a095b28b62a643956e061e82c20294af",
       "title": "The Lunatic Is in My Head | Time For Chaos S1 E20 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-06-06T04:00:00+00:00",
@@ -4071,28 +4069,27 @@
       ]
     },
     {
-      "key": "4e2fdd61897ae1f21a46066851a33113f34cba2c",
-      "title": "Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-06-05T04:00:00+00:00",
+      "key": "207db954276f5709e92bed56f3be2ddfd1a4b5a2",
+      "title": "Doctor Roust Us | The Glass Cannon Podcast Gatewalkers E88 | Pathfinder 2E",
+      "published_at": "2025-06-06T04:00:00+00:00",
       "link": null,
-      "description": "The investigators are confronted by various guests at the Carlyle Mansion. Watch the video here: https://youtu.be/FggtnBzbLb0 For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/d16d9aee-3d85-11f0-b77d-77e30032bff2/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3283243673.mp3?updated=1748632354",
+      "description": "After 87 episodes, the heroes come face to face with Dr. Ritalson once more. Watch the video here: ⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠ ⁠ https://youtu.be/h-ltlxSE0zc This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9891261392.mp3?updated=1753915844",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7912",
+      "itunes_duration": "5294",
       "speakers": [
-        "Cthulhu Masks",
-        "Carlyle Mansion"
+        "Roust Us"
       ],
       "topics": [
-        "life",
-        "party",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
+        "doctor",
+        "roust",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4119,6 +4116,31 @@
         "nerdiest",
         "hobbies",
         "bracket"
+      ]
+    },
+    {
+      "key": "4e2fdd61897ae1f21a46066851a33113f34cba2c",
+      "title": "Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-06-05T04:00:00+00:00",
+      "link": null,
+      "description": "The investigators are confronted by various guests at the Carlyle Mansion. Watch the video here: https://youtu.be/FggtnBzbLb0 For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d16d9aee-3d85-11f0-b77d-77e30032bff2/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3283243673.mp3?updated=1748632354",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7912",
+      "speakers": [
+        "Cthulhu Masks",
+        "Carlyle Mansion"
+      ],
+      "topics": [
+        "life",
+        "party",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
       ]
     },
     {
@@ -4551,30 +4573,6 @@
       ]
     },
     {
-      "key": "c66a62252e7ce402baaef0ca1da8004883a44c94",
-      "title": "Loosey Balls | The Glass Cannon Podcast Gatewalkers E85 | Pathfinder 2E",
-      "published_at": "2025-05-16T04:00:00+00:00",
-      "link": null,
-      "description": "The investigation into Dr. Ritalson's work continues to reveal more disturbing details. Watch the video here: ⁠⁠ https://youtu.be/TZwUzQ0GV4E This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠https://norsefoundry.com⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠jointhenaish.com⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1699427919.mp3?updated=1747329561",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5739",
-      "speakers": [
-        "Loosey Balls"
-      ],
-      "topics": [
-        "loosey",
-        "balls",
-        "glass",
-        "cannon",
-        "podcast",
-        "gatewalkers",
-        "pathfinder"
-      ]
-    },
-    {
       "key": "399ea114bd9a125576a5b5cfc9e822db79b26fca",
       "title": "Lake Titicaca | Time For Chaos S1 E5 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-05-16T04:00:00+00:00",
@@ -4597,6 +4595,30 @@
         "cthulhu",
         "masks",
         "nyarlathotep"
+      ]
+    },
+    {
+      "key": "c66a62252e7ce402baaef0ca1da8004883a44c94",
+      "title": "Loosey Balls | The Glass Cannon Podcast Gatewalkers E85 | Pathfinder 2E",
+      "published_at": "2025-05-16T04:00:00+00:00",
+      "link": null,
+      "description": "The investigation into Dr. Ritalson's work continues to reveal more disturbing details. Watch the video here: ⁠⁠ https://youtu.be/TZwUzQ0GV4E This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠https://norsefoundry.com⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠jointhenaish.com⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1699427919.mp3?updated=1747329561",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5739",
+      "speakers": [
+        "Loosey Balls"
+      ],
+      "topics": [
+        "loosey",
+        "balls",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -8520,25 +8542,6 @@
       ]
     },
     {
-      "key": "64abfc66c33a5f55e06a40457353d76fe0e6293c",
-      "title": "Cannon Fodder 9/27/23",
-      "published_at": "2023-09-27T04:00:00+00:00",
-      "link": "https://youtu.be/J_wQO8ovUaI",
-      "description": "The guys share some big news about their plans for New York Comic Con before giving a juicy update on the new GCN Subscription Service. In We Are Stupid, they focus in on how the Aid reaction works and discuss options for tables to make it more or less difficult at early levels. In Listener Mail, a potential new GM is looking for how to get started! Watch the video here: https://youtu.be/J_wQO8ovUaI For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7013464845.mp3?updated=1713896515",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "2978",
-      "speakers": [
-        "Cannon Fodder"
-      ],
-      "topics": [
-        "cannon",
-        "fodder"
-      ]
-    },
-    {
       "key": "762c24a373d0a7feef5bfdb92f2c811cb4914613",
       "title": "Strange Aeons Episode 83 – Hollow the Leader",
       "published_at": "2023-09-27T04:00:00+00:00",
@@ -8557,6 +8560,25 @@
         "strange",
         "aeons",
         "leader"
+      ]
+    },
+    {
+      "key": "64abfc66c33a5f55e06a40457353d76fe0e6293c",
+      "title": "Cannon Fodder 9/27/23",
+      "published_at": "2023-09-27T04:00:00+00:00",
+      "link": "https://youtu.be/J_wQO8ovUaI",
+      "description": "The guys share some big news about their plans for New York Comic Con before giving a juicy update on the new GCN Subscription Service. In We Are Stupid, they focus in on how the Aid reaction works and discuss options for tables to make it more or less difficult at early levels. In Listener Mail, a potential new GM is looking for how to get started! Watch the video here: https://youtu.be/J_wQO8ovUaI For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7013464845.mp3?updated=1713896515",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2978",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
       ]
     },
     {
@@ -9686,6 +9708,23 @@
       ]
     },
     {
+      "key": "4630a56055a60700f9745d5c5d85c1f82f42f990",
+      "title": "Friends of the Pod – Pathfinder 2E",
+      "published_at": "2023-02-01T05:01:00+00:00",
+      "link": "https://blubrry.com/the_glass_cannon/93530579/friends-of-the-pod-pathfinder-2e/",
+      "description": "With all of the shake ups in the tabletop industry as of late, we went live last week with the Pathfinder Society Scenario Inheritor's Rite to show fans new and old how much fun Pathfinder 2E is and how simple it is to jump right in and play! ﻿ For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at patreon.com/glasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD3829405594.mp3?updated=1692726580",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "16789",
+      "speakers": [],
+      "topics": [
+        "friend",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "04282c6d13692676a896fbfbd0393d2791e43683",
       "title": "Cannon Fodder 2/1/23",
       "published_at": "2023-02-01T05:01:00+00:00",
@@ -9702,23 +9741,6 @@
       "topics": [
         "cannon",
         "fodder"
-      ]
-    },
-    {
-      "key": "4630a56055a60700f9745d5c5d85c1f82f42f990",
-      "title": "Friends of the Pod – Pathfinder 2E",
-      "published_at": "2023-02-01T05:01:00+00:00",
-      "link": "https://blubrry.com/the_glass_cannon/93530579/friends-of-the-pod-pathfinder-2e/",
-      "description": "With all of the shake ups in the tabletop industry as of late, we went live last week with the Pathfinder Society Scenario Inheritor's Rite to show fans new and old how much fun Pathfinder 2E is and how simple it is to jump right in and play! ﻿ For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at patreon.com/glasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD3829405594.mp3?updated=1692726580",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "16789",
-      "speakers": [],
-      "topics": [
-        "friend",
-        "pathfinder"
       ]
     },
     {
@@ -18446,6 +18468,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-01 — Horizon 271 | Call of Cthulhu Live! | Los Angeles Night One 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
 - 2026-04-28 — The Fury of King Lot, Part 1 | Pendragon: Under an Iron Sky | Chaosium — speakers: King Lot, Iron Sky, Chaosium Hark
 - 2026-04-27 — GCN News Minute April 27, 2026 — speakers: News Minute April
 - 2026-04-27 — You're Not My Father | Blood of the Wild S1 E19 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
@@ -18594,27 +18617,27 @@
 - 2025-07-15 — Enter the GCN Gauntlet — speakers: Skid Maher, Matthew Capodi
 - 2025-07-12 — Batter My Heart | Time For Chaos S3 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: Batter My Heart, Cthulhu Masks, Black Pharaoh, Misr House
 - 2025-07-11 — Owl's Moving Castle | The Glass Cannon Podcast Gatewalkers E93 | Pathfinder 2E — speakers: Moving Castle
-- 2025-07-10 — Glass Cannon Radio #24 – Superman (2025)/Superhero RPGs/Andor Finale — speakers: James Gunn
 - 2025-07-10 — Phantom Punch | Glass Cannon Live! Ascension Part 8 | Toronto 2025 | Pathfinder 2E
+- 2025-07-10 — Glass Cannon Radio #24 – Superman (2025)/Superhero RPGs/Andor Finale — speakers: James Gunn
 - 2025-07-04 — Death Be Not Proud | Time For Chaos S2 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Misr House
 - 2025-07-04 — Once Bitten, Ice Shy | The Glass Cannon Podcast Gatewalkers E92 | Pathfinder 2E
-- 2025-07-03 — Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-07-03 — Glass Cannon Radio #23 – Captain America/Indie RPGs/Best Fictional President
+- 2025-07-03 — Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-07-02 — One Little Room | Time For Chaos S2 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: One Little Room, Cthulhu Masks, Nyarlathotep After
 - 2025-07-01 — Smoke on the Water | Time For Chaos S2 E17 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-30 — Exhibit A | Time For Chaos S2 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
 - 2025-06-28 — Kingdom Come | Glass Cannon Live! Ascension Part 7 | Ann Arbor 2025 | Pathfinder 2E — speakers: Rosewood Vale
-- 2025-06-27 — Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Hidden Lines, Cthulhu Masks, Henson Manufacturing
 - 2025-06-27 — Yurty Rotten Scoundrels | The Glass Cannon Podcast Gatewalkers E91 | Pathfinder 2E — speakers: Yurty Rotten Scoundrels
-- 2025-06-26 — Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-06-27 — Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Hidden Lines, Cthulhu Masks, Henson Manufacturing
 - 2025-06-26 — Glass Cannon Radio #22 – Nerd Bracket Finals/Zombie Gaming/Beat McD
+- 2025-06-26 — Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-25 — Two Little Ducks | Time For Chaos S2 E13 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-24 — The Prodigal Son | Time For Chaos S2 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep Content Warning
 - 2025-06-23 — Old Habits | Time For Chaos S2 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Old Habits, Cthulhu Masks, Nyarlathotep Content Warning
 - 2025-06-20 — We Did Extinction | The Glass Cannon Podcast Gatewalkers E90 | Pathfinder 2E
 - 2025-06-20 — Lupus In Fabula | Time For Chaos S2 E10 | Call of Cthulhu Masks of Nyarlathotep
-- 2025-06-19 — Law and Orders | Time For Chaos S2 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
 - 2025-06-19 — Glass Cannon Radio #21 – The Alien Franchise/Railroading PCs/Great Gamblers
+- 2025-06-19 — Law and Orders | Time For Chaos S2 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
 - 2025-06-18 — Four Great Beasts | Time For Chaos S2 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Four Great Beasts, Cthulhu Masks, Empire Spices
 - 2025-06-17 — Spice It Up! | Time For Chaos S2 E7 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-16 — Hearts and Clubs | Time For Chaos S2 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
@@ -18624,10 +18647,10 @@
 - 2025-06-11 — Artist In Residence | Time For Chaos S2 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jackson Elias
 - 2025-06-10 — Cruise Line Visit Getaway | Time For Chaos S2 E2 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-09 — The Temptation of St. Anthony | Time For Chaos S2 E1 | Call of Cthulhu Masks of Nyarlathotep
-- 2025-06-06 — Doctor Roust Us | The Glass Cannon Podcast Gatewalkers E88 | Pathfinder 2E — speakers: Roust Us
 - 2025-06-06 — The Lunatic Is in My Head | Time For Chaos S1 E20 | Call of Cthulhu Masks of Nyarlathotep
-- 2025-06-05 — Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Carlyle Mansion
+- 2025-06-06 — Doctor Roust Us | The Glass Cannon Podcast Gatewalkers E88 | Pathfinder 2E — speakers: Roust Us
 - 2025-06-05 — Glass Cannon Radio #20 – Is Fudging Rolls Okay? / Age of Vikings RPG / Nerdiest Hobbies Bracket — speakers: Skid Maher
+- 2025-06-05 — Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Carlyle Mansion
 - 2025-06-04 — Maniac Mansion | Time For Chaos S1 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Maniac Mansion, Cthulhu Masks, Carlyle Mansion
 - 2025-06-03 — The Mystery Squad | Time For Chaos S1 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
 - 2025-06-02 — And One Was a Soldier | Time For Chaos S1 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
@@ -18646,8 +18669,8 @@
 - 2025-05-20 — Exquisite Corpses | Time For Chaos S1 E7 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-05-19 — Just a Little Tear | Time For Chaos S1 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Little Tear, Cthulhu Masks
 - 2025-05-17 — Along Came a Rider | Glass Cannon Live! Ascension Part 6 | Portland 2025 | Pathfinder 2E — speakers: Rosewood Vale
-- 2025-05-16 — Loosey Balls | The Glass Cannon Podcast Gatewalkers E85 | Pathfinder 2E — speakers: Loosey Balls
 - 2025-05-16 — Lake Titicaca | Time For Chaos S1 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Lake Titicaca, Cthulhu Masks
+- 2025-05-16 — Loosey Balls | The Glass Cannon Podcast Gatewalkers E85 | Pathfinder 2E — speakers: Loosey Balls
 - 2025-05-15 — The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: Augustus Larkin
 - 2025-05-15 — Glass Cannon Radio #17 – The Blacktongue Thief / Going Rogue in RPGs / Nerd Rant — speakers: Christopher Buehlman
 - 2025-05-14 — First Kiss | Time For Chaos S1 E3 | Call of Cthulhu Masks of Nyarlathotep
@@ -18830,8 +18853,8 @@
 - 2023-10-06 — Shadows and Dogs | The Glass Cannon Podcast Gatewalkers E4 | Pathfinder 2E
 - 2023-10-04 — Cannon Fodder 10/4/23 — speakers: Cannon Fodder
 - 2023-09-29 — Ooh Baby Baby, It's the Wilewood | The Glass Cannon Podcast Gatewalkers E3 | Pathfinder 2E — speakers: Ooh Baby Baby
-- 2023-09-27 — Cannon Fodder 9/27/23 — speakers: Cannon Fodder
 - 2023-09-27 — Strange Aeons Episode 83 – Hollow the Leader — speakers: Leader Weapons, Paradise Rock Club
+- 2023-09-27 — Cannon Fodder 9/27/23 — speakers: Cannon Fodder
 - 2023-09-22 — Ladies' Night | The Glass Cannon Podcast Gatewalkers E2 | Pathfinder 2E
 - 2023-09-20 — Cannon Fodder 9/20/23 — speakers: Cannon Fodder
 - 2023-09-15 — Where's the Tavern? | The Glass Cannon Podcast Gatewalkers E1 | Pathfinder 2E
@@ -18889,8 +18912,8 @@
 - 2023-02-14 — Strange Aeons Episode 62 – The Ghast and the Curious
 - 2023-02-08 — Cannon Fodder 2/8/23 — speakers: Cannon Fodder
 - 2023-02-07 — Strange Aeons Episode 61 – A Mid-forest Night's Dream — speakers: Verduran Forest
-- 2023-02-01 — Cannon Fodder 2/1/23 — speakers: Cannon Fodder
 - 2023-02-01 — Friends of the Pod – Pathfinder 2E
+- 2023-02-01 — Cannon Fodder 2/1/23 — speakers: Cannon Fodder
 - 2023-01-31 — Strange Aeons Episode 60 – That's My Juice Now
 - 2023-01-25 — Cannon Fodder 1/25/23 — speakers: Cannon Fodder
 - 2023-01-24 — Strange Aeons Episode 59 – Tricorne Flakes — speakers: Tricorne Flakes Just
