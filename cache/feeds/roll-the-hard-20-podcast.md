@@ -2,9 +2,9 @@
 
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
-- fetched_at: `2026-05-02T22:01:29+00:00`
-- checked_at: `2026-05-02T22:01:29+00:00`
-- etag: `W/"d863e5eeabb11e6d901997709b9f455e"`
+- fetched_at: `2026-05-03T04:14:00+00:00`
+- checked_at: `2026-05-03T04:14:00+00:00`
+- etag: `W/"684971aaa4037a95899118557fae8770"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollthehard20podcast.com/podcast-episode/",
   "description": "Dungeons and Dragons weekly actual play and discussions",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/9d3b0539-1955-4096-946d-2fe71cf34e12/TheHardTwenty-DeltaGreen-Greens+2.jpg?format=1500w",
-  "fetched_at": "2026-05-02T22:01:29+00:00",
+  "fetched_at": "2026-05-03T04:14:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "614f535b8752aff78a4b01de22947dc8d7b31842",
+      "title": "DELTA GREEN: PLAYTHINGS (EP 12: AFTER ACTION REPORT)",
+      "published_at": "2026-05-02T22:39:00+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/5/2/delta-green-playthings-ep-12-the-after-action-report",
+      "description": "Time for Your Trusted Handler and the Hard Slingers to peel back the onion that is Playthings! Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1777761528735-51UJIKBQHF5TD09JWBLT/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/69f67c2bf1e7616b4a6c5b9b/1777761515508/PT+EP+12+AAR.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "133872248",
+      "itunes_duration": "1:09:43",
+      "speakers": [
+        "Hard Slingers"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "playthings",
+        "action",
+        "report"
+      ]
+    },
     {
       "key": "9bb7732dbe9beffd18f54957117d256274ca4839",
       "title": "DELTA GREEN: PLAYTHINGS (EP 11: THE FINALE)",
@@ -5661,24 +5683,6 @@
         "storm",
         "soul"
       ]
-    },
-    {
-      "key": "d719ef36c9598a8e62307991cbe3ae1770ba0f10",
-      "title": "RIDERS ON THE STORM EP 26: THE END IS NIGH",
-      "published_at": "2019-01-08T22:21:43+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/1/8/riders-on-the-storm-ep-26-the-end-is-nigh",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 ROLL THE HARD 20 PODCAST https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a roll-the-hard-20-podcast",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909274940-98AMNFQTEWDI5Z2XO2G4/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c352113562fa7737da35cb9/1546985977772/Riders+on+the+Storm+EP+26+.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "94163405",
-      "itunes_duration": "1:04:03",
-      "speakers": [],
-      "topics": [
-        "rider",
-        "storm",
-        "nigh"
-      ]
     }
   ]
 }
@@ -5687,6 +5691,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-02 — DELTA GREEN: PLAYTHINGS (EP 12: AFTER ACTION REPORT) — speakers: Hard Slingers
 - 2026-04-24 — DELTA GREEN: PLAYTHINGS (EP 11: THE FINALE)
 - 2026-04-19 — DELTA GREEN: PLAYTHINGS (EP 10)
 - 2026-04-11 — DELTA GREEN: PLAYTHINGS (EP 9) — speakers: Molly Doll
@@ -5986,4 +5991,3 @@
 - 2019-01-29 — RIDERS ON THE STORM EP 29: IRE OF THE SERPENT BEASTS
 - 2019-01-21 — RIDERS ON THE STORM EP 28: IN-FLIGHT ENTERTAINMENT
 - 2019-01-14 — RIDERS ON THE STORM EP 27: THE SOUL CRUCIBLE
-- 2019-01-08 — RIDERS ON THE STORM EP 26: THE END IS NIGH
