@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-04-28T19:58:15+00:00`
-- checked_at: `2026-04-28T19:58:15+00:00`
-- etag: `"djEuMi4wOjE3Nzc0MDI4Mzk0MjE="`
+- fetched_at: `2026-05-04T22:16:27+00:00`
+- checked_at: `2026-05-04T22:16:27+00:00`
+- etag: `"djEuMi4wOjE3Nzc5MzE3NzE3MjU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-04-28T19:58:15+00:00",
+  "fetched_at": "2026-05-04T22:16:27+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
