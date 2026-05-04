@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-05-04T14:33:34+00:00`
-- checked_at: `2026-05-04T14:33:34+00:00`
-- etag: `"djEuMi4wOjE3Nzc4OTgwNTM3ODE="`
+- fetched_at: `2026-05-04T17:02:59+00:00`
+- checked_at: `2026-05-04T17:02:59+00:00`
+- etag: `"djEuMi4wOjE3Nzc5MDY4MzkyOTg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-05-04T14:33:34+00:00",
+  "fetched_at": "2026-05-04T17:02:59+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "00240d6ca899e8808d4a7a4cd1ee61854eeef1d8",
+      "title": "Campaign 2: Bonus Episode - Great Kings and Venturers! Part 4",
+      "published_at": "2026-05-04T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-bonus-episode-great-kings-and-venturers-part-4",
+      "description": "Welcome back to the Chaotic Caves of Chaos, where the magics are so out of sync with the natural weave of arcane energy that sometimes the wires get crossed and spells have unintended consequences. Like accidentally going full isekai. This is part 4 of “Great Kings and Venturers”, an adventure DM'ed by Tim where the cast plays as themselves within the Chaotic Caves of Chaos. It may take place in the same world, maybe, but it is completely separate from either Campaign 1 or 2. So no spoilers or background info needed! The adventure continues with Mike Bachmann ( Mike Bachmann ), Jennifer Cheek ( Jennifer Cheek ), Nika Howard ( Nika Howard ), and our Dungeon Master Tim Lanning . Edited by Vincent. Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here: https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1777897842781-54358d14-2ca3-4abd-9f98-e710095647c5.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/69f892458beeba5310374f02/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101676657",
+      "itunes_duration": "1:10:35",
+      "speakers": [],
+      "topics": [
+        "campaign",
+        "king",
+        "venturer"
+      ]
+    },
     {
       "key": "57c4c1f3699ef52cb7062c9f6dc093a6434483dd",
       "title": "Campaign 2: Bonus Episode - Great Kings and Venturers! Part 3",
@@ -12286,6 +12304,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — Campaign 2: Bonus Episode - Great Kings and Venturers! Part 4
 - 2026-04-27 — Campaign 2: Bonus Episode - Great Kings and Venturers! Part 3
 - 2026-04-20 — Campaign 2: Episode 182 - Big Bad Bread Wars — speakers: Big Bad Bread Wars
 - 2026-04-13 — Campaign 2: Episode 181 - Check Point Bing Bong — speakers: Check Point Bing Bong, Wine Cellar
