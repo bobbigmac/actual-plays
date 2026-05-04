@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-05-03T19:29:27+00:00`
-- checked_at: `2026-05-03T19:29:27+00:00`
-- last_modified: `Sun, 03 May 2026 16:36:43 GMT`
+- fetched_at: `2026-05-04T04:12:37+00:00`
+- checked_at: `2026-05-04T04:12:37+00:00`
+- last_modified: `Mon, 04 May 2026 04:03:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/8e75fc9d6dbbc2142cca11c14acfdea1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-03T19:29:27+00:00",
+  "fetched_at": "2026-05-04T04:12:37+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "d4f1452e5980db1fd2cf2bb795ff3c9f1100fdb9",
+      "title": "649. Perils and Princesses, Episode 1",
+      "published_at": "2026-05-04T04:03:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY Each of our princesses need something to continue on their adventure, and so they stopped at The Night Market to find the goods they seek. SHOW NOTES Perils & Princesses One Shot News & Updates One Shot Patreon One Shot TWITCH Ultimate RPG Villain Backstory Guide Follow the cast here! Dillin Apelyan Candace McAfee Amelia Som Jackie Kashian James D’Amato ----------------------------------------------------- Know Your Rights Toolkits Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Solfege, Elision Spiritual Choir, Sound Phenomenon Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN2514996748.mp3?updated=1777848953",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3926",
+      "speakers": [
+        "James D'Amato"
+      ],
+      "topics": [
+        "peril",
+        "princesses"
+      ]
+    },
     {
       "key": "2a20f2976c89a759a6f989eefb9fab6723a54fe4",
       "title": "648. Realis, Episode 3",
@@ -13230,6 +13249,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — 649. Perils and Princesses, Episode 1 — speakers: James D'Amato
 - 2026-04-28 — 648. Realis, Episode 3 — speakers: James D'Amato
 - 2026-04-20 — 647. Realis, Episode 2 — speakers: James D'Amato
 - 2026-04-13 — 646. Realis, Episode 1 — speakers: Austin Walker, James D'Amato

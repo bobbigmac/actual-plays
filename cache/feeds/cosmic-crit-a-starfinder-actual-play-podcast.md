@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-04-27T16:58:08+00:00`
-- checked_at: `2026-04-27T16:58:08+00:00`
-- last_modified: `Mon, 27 Apr 2026 16:05:43 GMT`
+- fetched_at: `2026-05-04T04:12:37+00:00`
+- checked_at: `2026-05-04T04:12:37+00:00`
+- last_modified: `Mon, 04 May 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-04-27T16:58:08+00:00",
+  "fetched_at": "2026-05-04T04:12:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "ad5fd76189e2e38f93f49368d157e3904a05be8c",
+      "title": "Guilt of the Grave World | 012: Star Crit: Starship Academy",
+      "published_at": "2026-05-04T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-012-star-crit-starship-academy/",
+      "description": "The Nova Rush crew are headed away from Station Alpha this week as they’ve finalised their mission and secured the space rock. But something or someone is waiting for them in the cold dark asteroid fields of the Diaspora. Listen to this week’s Cosmic Crit for the first bout of Starship Combat courtesy of corpselike foes!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3806/guilt-of-the-grave-world-012-star-crit-starship-academy.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72681269",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Station Alpha"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "star",
+        "crit",
+        "starship",
+        "academy"
+      ]
+    },
     {
       "key": "4503b4e186a6ffc31f66a91cd8c45b9d2d64b1b4",
       "title": "Guilt of the Grave World | 011: Get Glitch or Die Tryin’",
@@ -8798,6 +8822,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — Guilt of the Grave World | 012: Star Crit: Starship Academy — speakers: Station Alpha
 - 2026-04-27 — Guilt of the Grave World | 011: Get Glitch or Die Tryin’ — speakers: Station Alpha
 - 2026-04-20 — Guilt of the Grave World | 010: Orb Your Enthusiasm — speakers: Station Alpha
 - 2026-04-13 — Guilt of the Grave World | 009: Courage Under Fire Extinguishers — speakers: Station Alpha

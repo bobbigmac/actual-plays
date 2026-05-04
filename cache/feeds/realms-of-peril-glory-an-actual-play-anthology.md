@@ -2,9 +2,9 @@
 
 - slug: `realms-of-peril-glory-an-actual-play-anthology`
 - source: `https://feeds.megaphone.fm/FAFO5417156687`
-- fetched_at: `2026-04-23T03:49:29+00:00`
-- checked_at: `2026-04-23T03:49:29+00:00`
-- last_modified: `Wed, 22 Apr 2026 22:12:39 GMT`
+- fetched_at: `2026-05-04T04:12:37+00:00`
+- checked_at: `2026-05-04T04:12:37+00:00`
+- last_modified: `Mon, 04 May 2026 04:01:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.realmspod.com",
   "description": "Legendary Stories, Awe-inspiring Sound & Endless Adventure await in the Realms of Peril & Glory! Get ready for the actual play adventure of a lifetime! Explore the mechanically magical vistas of Vael, the paranormal mysteries of Liminal London, and the cyberpunk chaos of CY_BORG. With breathtaking sound design and enchanting original music, you’ll be immersed into unforgettable campaigns and heart-pounding one-shots. Ignite your imagination and discover the Realms of Peril & Glory today.",
   "image_url": "https://megaphone.imgix.net/podcasts/cf44508e-0b0f-11ec-8617-0328e1238bf9/image/eaa7bfb57a3a4843e7e98ba3af5b0c46.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-23T03:49:29+00:00",
+  "fetched_at": "2026-05-04T04:12:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "f1ceb002d83772cb88750127423064bc3abf0283",
+      "title": "Long Live Pt1 | The Final Liminal London Mystery",
+      "published_at": "2026-05-04T04:01:00+00:00",
+      "link": null,
+      "description": "The crew have been invited to the coronation of the new King of Wimbledon Common. As they plot to unseat the Queen, new developments come to light... Go to ⁠RealmsPod.com⁠ to explore the many wonderful Realms of Peril & Glory! ⁠PATREON⁠ | ⁠MERCH⁠ | ⁠SOCIALS⁠ | ⁠DISCORD⁠ | ⁠NEWSLETTER⁠ GM: ⁠Zachary Fortais-Gomm⁠ 'Three-Card' Monty Barker: ⁠Naomi Clarke⁠ Mags Holt: ⁠Elizabeth Campbell⁠ Declan Buchanan: ⁠Pip Gladwin⁠ Music by: ⁠James Barbarossa⁠ System: ⁠Liminal⁠ Content Warnings: Horror Atmospheres and Sound Effects Discussion alluding to drugs and alcohol Homelessness Violence Mild gore & disgusting descriptions Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/66a442e0-3e96-11f1-a9f2-972af77f91e6/image/37a0aa3e7a9bc1784c35fa26bbf6dfac.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/pscrb.fm/rss/p/mgln.ai/e/495/traffic.megaphone.fm/SBP1792557203.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3915",
+      "speakers": [
+        "Wimbledon Common"
+      ],
+      "topics": [
+        "liminal",
+        "london",
+        "mystery"
+      ]
+    },
     {
       "key": "ccb6ca456a5d9d5594517c48bf5a645a775a5473",
       "title": "Long Live, The Final Liminal London Mystery - Coming Spring 2026",
@@ -2813,6 +2833,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — Long Live Pt1 | The Final Liminal London Mystery — speakers: Wimbledon Common
 - 2026-03-25 — Long Live, The Final Liminal London Mystery - Coming Spring 2026
 - 2026-03-23 — Vael | Tragedy in the Twine
 - 2026-02-09 — Vael | Investigation in Imperium
