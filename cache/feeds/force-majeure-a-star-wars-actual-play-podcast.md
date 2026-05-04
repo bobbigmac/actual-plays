@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-04-20T08:30:00+00:00`
-- checked_at: `2026-04-20T08:30:00+00:00`
-- etag: `"14076551cfbbe1c7ed9c12bbcb3631bd"`
-- last_modified: `Mon, 20 Apr 2026 04:34:48 GMT`
+- fetched_at: `2026-05-04T08:42:54+00:00`
+- checked_at: `2026-05-04T08:42:54+00:00`
+- etag: `"234d328fc90a0714ff9fd975f9435e32"`
+- last_modified: `Mon, 04 May 2026 04:33:51 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! Twitter / Facebook / Instagram: @forcemajeurepod Website: www.forcemajurepod.com",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-04-20T08:30:00+00:00",
+  "fetched_at": "2026-05-04T08:42:54+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "4bdec04de49a1b549d31e7de23219a3bde95591d",
+      "title": "A Shot At Redemption E07 - Wait and See",
+      "published_at": "2026-05-04T04:30:00+00:00",
+      "link": "https://forcemajeurepod.libsyn.com/a-shot-at-redemption-e07-wait-and-see",
+      "description": "Has Jax successfully managed to manufacture the cure? And if he has, has he done it in time to save himself, let alone the others? And even if he has, what will our heroes do while a cure gets manufactured? Why, wait and see, of course... Cast! Adam Beltaine is your GM, and can be found on Bluesky as @maddambeltaine.bsky.social Lou plays Tryk C Rangavoon, and can be found on Bluesky at @magpiehound.bsky.social Mikey plays Jax Vorn, and can be found on Bluesky at @weaselpunk.bsky.social Tom plays Kip Kazian and can be found on Bluesky at @tcpatrick.bsky.social as well as GMing the wonderful Dice Company podcast Geoff plays Kalro Vatts, and sensibly has no social media presence Follow us on social media! All our links can now be found here: linktr.ee/albertthellama Support Albert the Llama Enterprises! If you like what we do and have some spare money, we have both a Patreon and a Ko-Fi account. We are extremely grateful for your support. https://www.patreon.com/forcemajeurepod ko-fi.com/forcemajeurepod Intro and Supplemental Music: Composed by Sly Fox Audio - check out more of her stuff on soundcloud.com/slyfoxaudio Additional Music: \"Lost Contact (No footsteps Patreon exclusive)\" \"Starforged: Vault\" both by Tabletop Audio \"Suspense Tension Background Music\" by Peacock Music, courtesy of Pixabay.com \"Space Race\" by Silverman Sound (silvermansound.com) Some additional SFX from BBC Sounds Archive, Pixabay.com and Zapsplat.com All used with gratitude under the Creative Commons licence",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/forcemajeurepod/Redemption_E07.mp3?dest-id=604132",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60202404",
+      "itunes_duration": "46:18",
+      "speakers": [],
+      "topics": [
+        "shot",
+        "redemption"
+      ]
+    },
     {
       "key": "bd6c044e3cbdc4d566961f83fd4cf96bdebcbf6d",
       "title": "A Shot At Redemption E06 - The Cure?",
@@ -4398,6 +4415,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — A Shot At Redemption E07 - Wait and See
 - 2026-04-20 — A Shot At Redemption E06 - The Cure? — speakers: Will Jax
 - 2026-04-06 — A Shot At Redemption E05 - Into The Labs
 - 2026-03-23 — A Shot At Redemption E04 - A Lovely Room Of Death
