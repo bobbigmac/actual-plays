@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-05-01T16:13:35+00:00`
-- checked_at: `2026-05-01T16:13:35+00:00`
-- etag: `"e0fcc6ee7b92ea37b37a80fdb886d6be"`
+- fetched_at: `2026-05-04T14:33:34+00:00`
+- checked_at: `2026-05-04T14:33:34+00:00`
+- etag: `"c38ce1b336b7d579c12820090007f753"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/5111002/Dork_Tales_d20_20238mnn1.png",
-  "fetched_at": "2026-05-01T16:13:35+00:00",
+  "fetched_at": "2026-05-04T14:33:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "39f86b9dc4af434e12b4e75efd99cbc36a9472eb",
+      "title": "How to Run Vecna: Eve of Ruin",
+      "published_at": "2026-05-04T13:57:00+00:00",
+      "link": "https://dorktales.podbean.com/e/how-to-run-vecna-eve-of-ruin/",
+      "description": "Vecna was here and only one party could stop him. And they did. In this final final episode, we do a chapter-by-chapter breakdown of how to run Vecna: Eve of Ruin! Thank you to Bookwyrm Games for sponsoring the channel! Visit them at https://bookwyrmgames.com/ and use code DORKTALES to save 15% off your order! === Kelly Clark as Dungeon Master Cast Christine Rattray as Rosie Thistledrop Robin Holford as Lir'wen Chris Blogg as Gaunt Jen Peters as Imogen and Kal Vincent as Aurontiros Watch us LIVE on Twitch ► https://twitch.tv/dorktales Visit our website ► https://dorktales.ca Our Linktree ► https://linktr.ee/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktaleschannel/ Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy the cast a coffee ► https://ko-fi.com/dorktales Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! So smash the bell, share these videos, and we'll see you soon at our next game! === Music credits: Music: House of Secrets by Joel Steudler https://www.joelsteudlermusic.com/ Licensed under a Humblebundle Collection Music: House of Secrets by Joel Steudler https://www.joelsteudlermusic.com/ Licensed under a Humblebundle Collection Tracks from Monument Studios Elven Secrets B Licensed under a Fantasy Complete or All-In-One License https://www.monumentstudios.net This video also uses licensed audio from the Humble Music & Sound Effects For Games, Films, and Content Creators Bundle Part 2. Including our closing theme: The Harrowing",
+      "image_url": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog5111002/Vecna_Eve_of_Ruin_Podcast_Logo7mops.png",
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/ybdmpzns7y88uigz/VecnaHOW.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "148913520",
+      "itunes_duration": "9303",
+      "speakers": [
+        "Run Vecna",
+        "Ruin Vecna"
+      ],
+      "topics": [
+        "vecna",
+        "ruin"
+      ]
+    },
     {
       "key": "290da5be6d3d72228144befab7a262fd38de8db8",
       "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 3: Blood on the Deck",
@@ -7683,6 +7703,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — How to Run Vecna: Eve of Ruin — speakers: Run Vecna, Ruin Vecna
 - 2026-05-01 — Mage the Ascension the Victorian Age | Book 3, Chapter 3: Blood on the Deck — speakers: Victorian Age, Deck Welcome
 - 2026-04-27 — Vecna: Eve of Ruin | Episode 34: Eve of Ruin — speakers: Ruin Vecna
 - 2026-04-24 — Mage the Ascension the Victorian Age | Book 3, Chapter 2: The Voyage of the Nestor — speakers: Victorian Age, Nestor Welcome
