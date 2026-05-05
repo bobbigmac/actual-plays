@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-05-05T03:52:46+00:00`
-- checked_at: `2026-05-05T03:52:46+00:00`
-- etag: `"djEuMi4wOjE3Nzc5NTI4Nzg3NDU="`
+- fetched_at: `2026-05-05T08:30:01+00:00`
+- checked_at: `2026-05-05T08:30:01+00:00`
+- etag: `"djEuMi4wOjE3Nzc5NTMxMDc0Mzc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-05-05T03:52:46+00:00",
+  "fetched_at": "2026-05-05T08:30:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -11702,9 +11702,9 @@
     },
     {
       "key": "2a958bb12fdd4a17247d6d976bbdc4c29a609836",
-      "title": "Episode 34 – Teamwork, the Deadliest Weapon",
+      "title": "Teamwork, the Deadliest Weapon",
       "published_at": "2013-06-24T13:18:05+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a4c",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/teamwork-the-deadliest-weapon",
       "description": "Hello friends and family, thank you for visiting our magical headquaters located conveniently in an underwater valcono. This week things get – dicey – to put it midly. A bitter battler rages and the survival of the Drunks and Dragons it filed into the “doubtful” drawer. The only way to fight off this viscous monster … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a4c.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D491/media.mp3",
@@ -11722,9 +11722,9 @@
     },
     {
       "key": "a86cc4d0bd81181ef5e7c914591442aa42676d42",
-      "title": "Episode 33 – What Rhymes with Crag Mon?",
+      "title": "What Rhymes with Crag Mon?",
       "published_at": "2013-06-17T01:23:39+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a4d",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/what-rhymes-with-crag-mon",
       "description": "Hello adventurers! I hope you are wearing your hott pink parachute because we are falling into another magical episode of Drunks and Dragons. On this episode the gang learns a little more about this Harper character. What is his deal anyway? Also, Bucky leads us to the mystical temple. As always, thank you for your … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a4d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D489/media.mp3",
@@ -11740,9 +11740,9 @@
     },
     {
       "key": "6af109285fb80fc46b3c78d5d0b11842568c1593",
-      "title": "Episode 32 – I HATE GNOLLS",
+      "title": "I HATE GNOLLS",
       "published_at": "2013-06-09T20:22:58+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a4e",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/i-hate-gnolls",
       "description": "A seemingly defeated group of adventurers must face powerful enemies with their hopes slowly draining. Thom and Aludra, alone on the Lost Isle, must search for clues about the lost adventurer Captain Blindy. Without the aid of Junpei, who left the group to join a famous group of Githyanki space pirates, or Tum, who left … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a4e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D464/media.mp3",
@@ -11756,9 +11756,9 @@
     },
     {
       "key": "6fbef25d54f82106302585a778e74bffbcb63559",
-      "title": "Episode 31: Fond Farewells",
+      "title": "Fond Farewells",
       "published_at": "2013-06-03T10:00:54+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a4f",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/fond-farewells",
       "description": "Hello, dear Drunks (and Dragons?). Have you recovered from last week’s very dramatic episode? Are you ready for another intense and surprising adventure with our ragtag crew? You’re not? Better slug some grog and gird your loins, because we’re getting dicey up in here. This week’s episode centers around fond farewells and quests both old … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a4f.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D460/media.mp3",
@@ -11773,9 +11773,9 @@
     },
     {
       "key": "857cbc0bf38dfb2dd136b87146707411362f18ce",
-      "title": "Episode 30 – A Sly Flourish",
+      "title": "A Sly Flourish",
       "published_at": "2013-05-25T20:20:29+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a50",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-sly-flourish",
       "description": "Hello brave adventurers and welcome to a very special episode of Drunks and Dragons. We say that most of our episodes are special but this time we mean it. The gang finally gets some clues to the location of the Lost Isle but must acquire a magical compass hidden in a dangerous cave. Will everyone … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a50.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D428/media.mp3",
@@ -11789,9 +11789,9 @@
     },
     {
       "key": "65be26c3b47ab561043567f1627d949dfcf31db0",
-      "title": "Episode 29 – A Disproportionate Response",
+      "title": "A Disproportionate Response",
       "published_at": "2013-05-20T03:14:44+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a51",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-disproportionate-response",
       "description": "This is an… interesting episode full of a bit of experimintation. Mostly we tried to really dig into the question of “What if?” and learned to live with the consequences. Join us as we explore the pirate island of Bowbreaker Bay searching for clues for the Lost Isle. Maybe we make a friend or two. … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a51.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D425/media.mp3",
@@ -11806,16 +11806,18 @@
     },
     {
       "key": "de35041a4272bd014b0a661d619e3774c7fbc9c6",
-      "title": "Episode 28 – Spooky, Crazy Mystery Hour",
+      "title": "Spooky, Crazy Mystery Hour",
       "published_at": "2013-05-13T15:08:53+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a52",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/spooky-crazy-mystery-hour",
       "description": "I know you will love this week’s episode of Drunks and Dragons because we make fools of ourselves. You see, without spoiling what happens, the gang is put into a bit of a pickle that they need to try and figure out. The issue is that the gang is full of lunatics who like to use their … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a52.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D414/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88374961",
       "itunes_duration": "1:32:03",
-      "speakers": [],
+      "speakers": [
+        "Crazy Mystery Hour"
+      ],
       "topics": [
         "spooky",
         "crazy",
@@ -12955,13 +12957,13 @@
 - 2013-07-15 — Episode 37 – Mastwick Chronicles — speakers: Mastwick Chronicles Hello
 - 2013-07-08 — Episode 36 – No Rest for the Wicked — speakers: No Rest, Wicked Hello
 - 2013-07-01 — Episode 35 – A Flight of Futility — speakers: Futility Hello
-- 2013-06-24 — Episode 34 – Teamwork, the Deadliest Weapon — speakers: Deadliest Weapon Hello
-- 2013-06-17 — Episode 33 – What Rhymes with Crag Mon? — speakers: Crag Mon
-- 2013-06-09 — Episode 32 – I HATE GNOLLS
-- 2013-06-03 — Episode 31: Fond Farewells
-- 2013-05-25 — Episode 30 – A Sly Flourish
-- 2013-05-20 — Episode 29 – A Disproportionate Response
-- 2013-05-13 — Episode 28 – Spooky, Crazy Mystery Hour
+- 2013-06-24 — Teamwork, the Deadliest Weapon — speakers: Deadliest Weapon Hello
+- 2013-06-17 — What Rhymes with Crag Mon? — speakers: Crag Mon
+- 2013-06-09 — I HATE GNOLLS
+- 2013-06-03 — Fond Farewells
+- 2013-05-25 — A Sly Flourish
+- 2013-05-20 — A Disproportionate Response
+- 2013-05-13 — Spooky, Crazy Mystery Hour — speakers: Crazy Mystery Hour
 - 2013-05-06 — Painful Memories — speakers: Dragons gang
 - 2013-04-29 — A Test of Friendship
 - 2013-04-22 — Acid Trip

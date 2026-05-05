@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-05-05T03:52:46+00:00`
-- checked_at: `2026-05-05T03:52:46+00:00`
-- etag: `W/"0b3663e263eb309a67b360cd69fa308f"`
-- last_modified: `Tue, 05 May 2026 03:07:07 GMT`
+- fetched_at: `2026-05-05T08:30:01+00:00`
+- checked_at: `2026-05-05T08:30:01+00:00`
+- etag: `W/"6fb0e88e70fecdfebdfc75e409375fbe"`
+- last_modified: `Tue, 05 May 2026 07:02:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://dodoborne.transistor.fm/",
   "description": "DodoBorne is a comedy actual play podcast where five friends dive into Daggerheart, the new tabletop roleplaying game from Darrington Press. Join Kapi, Crank, and Pistachio as they navigate a rich world of mystery, magic, and malfeasance! Humor, heart, and nonsense guaranteed. Some assembly required.",
   "image_url": "https://img.transistorcdn.com/BSVuYZCsKpTMwWe3TwBDDSylQZRg2pPh9xswN9Msu70/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZWU5/MDZiZDQ5NTI2NTU5/NDIwNjNhZTYxYjI1/YWI5Yy5wbmc.jpg",
-  "fetched_at": "2026-05-05T03:52:46+00:00",
+  "fetched_at": "2026-05-05T08:30:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,27 @@
     "ttrpg/daggerheart"
   ],
   "episodes": [
+    {
+      "key": "858908dc255198cfa0e5e18bc46311c414733944",
+      "title": "Polaris University 1.3: Secrets",
+      "published_at": "2026-05-05T07:00:00+00:00",
+      "link": "https://share.transistor.fm/s/9ded91cf",
+      "description": "Whew, what a day it’s been! Our students need time to recover after the intense discovery they made yesterday. Little do they know that whoever “Zelda’d” the poor professor isn’t the only one keeping secrets! Hickory has a rendezvous. Rainy tries her best. Vivi is hot to trot. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla meaches Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana Dom sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin Johnny Rocha Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch (say it in a way like we just broke up) CEO Zorak? Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez yeehawboi67",
+      "image_url": "https://img.transistorcdn.com/3f9uXhNWuxU9Hckqr04nJBH74WMwYyNrAn2v4TVgzCg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMjE1/M2RhZDNhMmVkY2Uy/YzE1NTZmNWFjYjY4/OTk1Zi5wbmc.jpg",
+      "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/9ded91cf/7d938967.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66491608",
+      "itunes_duration": "2767",
+      "speakers": [
+        "Polaris University",
+        "Secrets Whew"
+      ],
+      "topics": [
+        "polaris",
+        "university",
+        "secret"
+      ]
+    },
     {
       "key": "ea87bbba627ff0a7569b8e108fa53845891e03e0",
       "title": "Polaris University 1.2: Discovery",
@@ -796,6 +817,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-05 — Polaris University 1.3: Secrets — speakers: Polaris University, Secrets Whew
 - 2026-04-28 — Polaris University 1.2: Discovery
 - 2026-04-21 — Polaris University 1.1: Detention — speakers: Polaris University, Detention Welcome
 - 2026-04-07 — 2.18 The Season Two Squawk-back Episode (Bonus)

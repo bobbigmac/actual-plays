@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-04-21T16:33:48+00:00`
-- checked_at: `2026-04-21T16:33:48+00:00`
-- etag: `"djEuMi4wOjE3NzY3ODgxMTE5NzI="`
+- fetched_at: `2026-05-05T08:30:01+00:00`
+- checked_at: `2026-05-05T08:30:01+00:00`
+- etag: `"djEuMi4wOjE3Nzc5NjQyNjE4OTk="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-04-21T16:33:48+00:00",
+  "fetched_at": "2026-05-05T08:30:01+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
