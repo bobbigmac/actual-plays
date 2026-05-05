@@ -2,9 +2,9 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-05-01T10:45:41+00:00`
-- checked_at: `2026-05-01T10:45:41+00:00`
-- etag: `W/"0e86ab42ce465ce0ecd7dc5c4b5458f9"`
+- fetched_at: `2026-05-05T14:27:13+00:00`
+- checked_at: `2026-05-05T14:27:13+00:00`
+- etag: `W/"9f729a350ff50ce58fbf1973434942f0"`
 - last_modified: `Fri, 01 May 2026 09:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
@@ -18,7 +18,7 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-05-01T10:45:41+00:00",
+  "fetched_at": "2026-05-05T14:27:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

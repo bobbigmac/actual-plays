@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-05-05T08:30:01+00:00`
-- checked_at: `2026-05-05T08:30:01+00:00`
-- etag: `"djEuMi4wOjE3Nzc5NTMxMDc0Mzc="`
+- fetched_at: `2026-05-05T14:27:13+00:00`
+- checked_at: `2026-05-05T14:27:13+00:00`
+- etag: `"djEuMi4wOjE3Nzc5OTExOTMzMzY="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-05-05T08:30:01+00:00",
+  "fetched_at": "2026-05-05T14:27:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -11525,9 +11525,9 @@
     },
     {
       "key": "e8303ee1564a0ebc867c1849992ec6d52aa655ac",
-      "title": "Episode 44 – The Sins of the Fathers",
+      "title": "The Sins of the Fathers",
       "published_at": "2013-09-02T19:33:44+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a42",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-sins-of-the-fathers",
       "description": "We aren’t saying that all backwoods settlements in our campaign world are filled with crazy people. We aren’t saying that. But, something about this particular backwoods village seems a little…off? I guess the gang has to deal out some old school justice if anything is fishy is going on. But what are the odds of … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a42.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D605/media.mp3",
@@ -11543,9 +11543,9 @@
     },
     {
       "key": "ef9118777e7ab171611b69ac7c2d1b0882ae135a",
-      "title": "Episode 43 – The Raging Storm",
+      "title": "The Raging Storm",
       "published_at": "2013-08-26T13:00:39+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a43",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-raging-storm",
       "description": "A bruised and battered group of adventurers sheath their weapons. They know that they almost died and the only thing that saved them was the help of their friends. Unity is what keeps this group together. Once again the gang is back together and ready to face the great next step in their grand adventure! … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a43.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D603/media.mp3",
@@ -11560,9 +11560,9 @@
     },
     {
       "key": "6560fc70d707e36819b85a84ddf4a29de4060a71",
-      "title": "Episode 42 – Mordenkrad Time",
+      "title": "Mordenkrad Time",
       "published_at": "2013-08-19T14:38:28+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a44",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/mordenkrad-time",
       "description": "Well, we found Ros but we also found a group of fearsome thugs. One of which was wielding a giant Mordenkrad that really threatened Harper’s good looks. Who knows, maybe we can talk our way out of this battle? A hero can dream, right? The adventure continues with Titus Harper (Tim Lanning), Thom the Dragonborn … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a44.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D584/media.mp3",
@@ -11577,9 +11577,9 @@
     },
     {
       "key": "b6d5317f8daaec4a8b56d6a07b380a23ec168da6",
-      "title": "Episode 41 – Salty Sea Wench",
+      "title": "Salty Sea Wench",
       "published_at": "2013-08-13T00:01:39+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a45",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/salty-sea-wench",
       "description": "After our strange dream and battle with the red dragon, we adventurers we ready to pursue another artifact. Already having The Whip of Binding, we set off to gather the Brazier of Worlds and the Orb of Endless Power. Except that there was a small issue that prevented us from our journey. The adventure continues … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a45.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D582/media.mp3",
@@ -11594,9 +11594,9 @@
     },
     {
       "key": "1ceac115075b923fb37680bd8948522b18f4d36e",
-      "title": "Episode 40 – Requiem with the Dragon Hunter",
+      "title": "Requiem with the Dragon Hunter",
       "published_at": "2013-08-05T13:20:39+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a46",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/requiem-with-the-dragon-hunter",
       "description": "We are whisked away once again to our weird dragon world. Who knows what this strange dream world is and what our purpose is within it. We will fight our way through this trial like we always do. Knowing that another battle is just around the corner, whether that corner be dream or otherwise. The … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a46.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D555/media.mp3",
@@ -11612,9 +11612,9 @@
     },
     {
       "key": "a7aba5f747dd9a0deb789a563af0f15b6d4607fa",
-      "title": "Episode 39 – Settling up with the Darkblades",
+      "title": "Settling up with the Darkblades",
       "published_at": "2013-07-29T21:24:16+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a47",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/settling-up-with-the-darkblades",
       "description": "Hell hath no fury like a dragonborn scorn. Our adventurers decide to seek out the Darkblades who have double-crossed them in our latest episode. Stay turned after the end music to hear an impromptu discussion of DnD Next. You also get the hear the normal nonsense that goes on between episodes. Subscribe on iTunes Subscribe via … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a47.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D566/media.mp3",
@@ -11628,9 +11628,9 @@
     },
     {
       "key": "bad154a7f8815ee22c3e7ba53aecf8ca872a3142",
-      "title": "Episode 38 – Smash and Grab",
+      "title": "Smash and Grab",
       "published_at": "2013-07-22T11:28:40+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a48",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/smash-and-grab",
       "description": "With the aide of our new…business partner we set out to find out where Ham Hands stashed his winnings. Will things go smoothly as Ham Hands turns himself in? Or will the gang have to convince him with fire and sword? I think you already know the answer… The adventure continues with Titus Harper (Tim … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a48.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D543/media.mp3",
@@ -11645,9 +11645,9 @@
     },
     {
       "key": "eabb35010992862c053ec0910044321d067f41f7",
-      "title": "Episode 37 – Mastwick Chronicles",
+      "title": "Mastwick Chronicles",
       "published_at": "2013-07-15T15:36:55+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a49",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/mastwick-chronicles",
       "description": "Hello wonderful listeners, we welcome you back to the auditory version of the beautiful Mastwick. Yes, it is a fine little city. But, you are not here for pleasure, no this is a business trip. Perhaps you will meet a few new associates along the way. You know, Networking. The adventure continues with Titus Harper … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a49.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D541/media.mp3",
@@ -11664,9 +11664,9 @@
     },
     {
       "key": "813119956e8118e79579da0b9f1406261f43d288",
-      "title": "Episode 36 – No Rest for the Wicked",
+      "title": "No Rest for the Wicked",
       "published_at": "2013-07-08T15:14:06+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a4a",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/no-rest-for-the-wicked",
       "description": "Hello and welcome back to another excited episode of Drunks and Dragons. This sure has been a dragon filled bit of episodes hasn’t it? It really fits within our theme. There shouldn’t be a dragon or dragon-folk on the water so everything should be A-ok. Maybe we will start fighting several groups of drunks since … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a4a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D527/media.mp3",
@@ -11683,9 +11683,9 @@
     },
     {
       "key": "d046348b78a89e4fc42d0b1a547519c4f95f15b2",
-      "title": "Episode 35 – A Flight of Futility",
+      "title": "A Flight of Futility",
       "published_at": "2013-07-01T16:14:08+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a4b",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-flight-of-futility",
       "description": "Hello wonderful listeners. Boy are we in a pickle… without getting too deep into the whole situation, we may have angered an elder dragon. Who is to say. Anyways, we are a hearty and strong bunch so everything should be A-ok. Thrifty wouldn’t kill us, right? Especially not Bucky… The adventure continues with Tum Darkblade (Tim Lanning), … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a4b.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D521/media.mp3",
@@ -12220,8 +12220,8 @@
       "title": "A Brief Respite",
       "published_at": "2012-12-04T00:24:35+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-brief-respite",
-      "description": "Hello Adventurers! This week we took a hiatus from our harrowing adventure through the lands of fantasy and giant evil turkeys to look back at what we have accomplished thus far. As our little story gets more and more complicated, these breaks will help new listeners as well as old get caught up with the … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a69.jpg",
+      "description": "Hello Adventurers! This week we took a hiatus from our harrowing adventure through the lands of fantasy and giant evil turkeys to look back at what we have accomplished thus far. As our little story gets more and more complicated, these breaks will help new listeners as well as old get caught up with the various story threads. So prepare your standard adventurer’s rations and gather around the fire! Since we are new and just getting our new shaky podcast legs we need your help with as much feedback as possible. One great way to spread all your positive feedback is on iTunes! Please do not leave the bad ones there since it hurts for a long, long time. Thanks for listening! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your DM ( Michael DiMauro ). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1777991187563-4b563349-5976-49d8-bb3e-6c0f428116c4.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D55/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33262027",
@@ -12236,44 +12236,51 @@
     },
     {
       "key": "0696ba238e54b2ade2582af8bc0e87fe0acbb69f",
-      "title": "Episode 4",
+      "title": "Two Problems, One Dreadwing",
       "published_at": "2012-11-27T03:23:40+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a6a",
-      "description": "Greetings Adventurers! Join us for a very special holiday (American Thanksgiving) edition of the Drunks and Dragons podcast. I don’t want to spoil the adventure, so go ahead and listen in! The adventure continues with Tum Darkblade (Tim Lanning), Thom the Dragonborn (Mike Bachmann), an absent Junpei Iori (Steven Strom) and Aludra (Jennifer Cheek). Drunks and … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a6a.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/two-problems-one-dreadwing",
+      "description": "Greetings Adventurers! Join us for a very special holiday (American Thanksgiving) edition of the Drunks and Dragons podcast. I don’t want to spoil the adventure, so go ahead and listen in! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), an absent Junpei Iori ( Steven Strom ) and Aludra ( Jennifer Cheek ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Screens from our recording: As we are ready for battle, we laugh. Look at the gang getting ready to fight! We won and are happy more battle Turkey time! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1777991098195-d9c94cda-e38b-4ba8-8a49-e9a447b842eb.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D40/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101281123",
       "itunes_duration": "1:45:30",
       "speakers": [
-        "Greetings Adventurers",
+        "Two Problems",
+        "One Dreadwing Greetings Adventurers",
         "American Thanksgiving"
       ],
-      "topics": []
+      "topics": [
+        "problems",
+        "dreadwing"
+      ]
     },
     {
       "key": "c672622efd93009f4c0052a60e1ec291a642e837",
-      "title": "Episode 3",
+      "title": "Eight Legged Freaks",
       "published_at": "2012-11-20T00:13:47+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a6b",
-      "description": "Greetings Adventurers! Join us as the crew makes their way through a deep dark forest. What sort of nasty creatures will they run into? The adventure continues with Tum Darkblade (Tim Lanning), Thom the Dragonborn (Mike Bachmann), Junpei Iori (Steven Strom) and Aludra (Jennifer Cheek). Drunks and Dragons is a weekly podcast using the Dungeons and … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a6b.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/eight-legged-freaks",
+      "description": "Greetings Adventurers! Join us as the crew makes their way through a deep dark forest. What sort of nasty creatures will they run into? The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ) and Aludra ( Jennifer Cheek ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1777991006658-49b54bc4-bf33-431b-a4dc-56d14435f3f8.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D30/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87263608",
       "itunes_duration": "1:30:54",
       "speakers": [
-        "Greetings Adventurers"
+        "Eight Legged Freaks Greetings"
       ],
-      "topics": []
+      "topics": [
+        "legged",
+        "freak"
+      ]
     },
     {
       "key": "be5698ea0adc6209320042d4afe3cff3d985eaf4",
-      "title": "Episode 2",
+      "title": "Slab Number Five",
       "published_at": "2012-11-13T05:11:01+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a6c",
-      "description": "Greetings Adventurers! Join us on our second adventure as Tum Darkblade (Tim Lanning), Thom the Dragonborn (Mike Bachmann), Junpei Iori (Steven Strom) and Aludra (Jennifer Cheek) continue to work their way out of their current sticky situation. Drunkards and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a6c.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/slab-number-five",
+      "description": "Greetings Adventurers! Join us on our second adventure as Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ) and Aludra ( Jennifer Cheek ) continue to work their way out of their current sticky situation. Drunkards and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1777990930547-99262fa0-b016-45fb-ba0e-68c3ca5ea414.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D15/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56503066",
@@ -12282,14 +12289,17 @@
         "Tum Darkblade",
         "Tim Lanning"
       ],
-      "topics": []
+      "topics": [
+        "slab",
+        "number"
+      ]
     },
     {
       "key": "17ebab1aac2bbd87a437f94b19a8c5b17e3bb93e",
-      "title": "Episode 1",
+      "title": "So it Begins!",
       "published_at": "2012-11-13T04:49:47+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a6d",
-      "description": "Greetings Adventurers! Join us on our very first adventure as Tum Darkblade (Tim Lanning), Thom the Dragonborn (Mike Bachmann), Junpei Iori (Steven Strom) and Aludra (Jennifer Cheek) find themselves in a very strange situation. With only their wits, the newly formed group must work together to escape certain death and dismemberment in this spooky Halloween themed … Hosted on Acast. See acast.com/privacy for more information.",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/so-it-begins",
+      "description": "Greetings Adventurers! Join us on our very first adventure as Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ) and Aludra ( Jennifer Cheek ) find themselves in a very strange situation cooked up by DM Michael \"ThriftyNerd\" DiMauro . With only their wits, the newly formed group must work together to escape certain death and dismemberment in this spooky Halloween themed adventure. Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! You can follow the show on Twitter and Instagram . UPDATE – Dear future listeners! Thanks for finding this episode, what is the future like? Flying cars?! Anyways, it is amazing to see how far we have come from recording this episode. Here are some helpful links to help you get into the world of Drunks and Dragons! Somewhat official map by – HwaetWeGaerdena Group picture! by – (the amazing) Azad Injejikian A Wiki of helpful info – Maintained by a lot of folks, but a big thanks to Steph Kingston and Mr. Red. Be careful of spoilers… Patreon – Our Patreon with exclusive content. Probably won’t matter for you for many episodes but, who knows?! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a6d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D6/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12299,7 +12309,9 @@
         "Tum Darkblade",
         "Tim Lanning"
       ],
-      "topics": []
+      "topics": [
+        "begins"
+      ]
     }
   ]
 }
@@ -12947,16 +12959,16 @@
 - 2013-09-23 — Episode 47 – A Flying House — speakers: Flying House Hello
 - 2013-09-16 — Episode 46 – Troll Toll Part 2 — speakers: Troll Toll
 - 2013-09-09 — Episode 45 – Troll Toll — speakers: Troll Toll
-- 2013-09-02 — Episode 44 – The Sins of the Fathers — speakers: crazy people
-- 2013-08-26 — Episode 43 – The Raging Storm
-- 2013-08-19 — Episode 42 – Mordenkrad Time
-- 2013-08-13 — Episode 41 – Salty Sea Wench
-- 2013-08-05 — Episode 40 – Requiem with the Dragon Hunter
-- 2013-07-29 — Episode 39 – Settling up with the Darkblades
-- 2013-07-22 — Episode 38 – Smash and Grab
-- 2013-07-15 — Episode 37 – Mastwick Chronicles — speakers: Mastwick Chronicles Hello
-- 2013-07-08 — Episode 36 – No Rest for the Wicked — speakers: No Rest, Wicked Hello
-- 2013-07-01 — Episode 35 – A Flight of Futility — speakers: Futility Hello
+- 2013-09-02 — The Sins of the Fathers — speakers: crazy people
+- 2013-08-26 — The Raging Storm
+- 2013-08-19 — Mordenkrad Time
+- 2013-08-13 — Salty Sea Wench
+- 2013-08-05 — Requiem with the Dragon Hunter
+- 2013-07-29 — Settling up with the Darkblades
+- 2013-07-22 — Smash and Grab
+- 2013-07-15 — Mastwick Chronicles — speakers: Mastwick Chronicles Hello
+- 2013-07-08 — No Rest for the Wicked — speakers: No Rest, Wicked Hello
+- 2013-07-01 — A Flight of Futility — speakers: Futility Hello
 - 2013-06-24 — Teamwork, the Deadliest Weapon — speakers: Deadliest Weapon Hello
 - 2013-06-17 — What Rhymes with Crag Mon? — speakers: Crag Mon
 - 2013-06-09 — I HATE GNOLLS
@@ -12987,7 +12999,7 @@
 - 2012-12-17 — The Next Level
 - 2012-12-10 — The Return of the Eight Legged Freaks — speakers: Eight Legged Freaks Hello
 - 2012-12-04 — A Brief Respite — speakers: Brief Respite Hello Adventurers
-- 2012-11-27 — Episode 4 — speakers: Greetings Adventurers, American Thanksgiving
-- 2012-11-20 — Episode 3 — speakers: Greetings Adventurers
-- 2012-11-13 — Episode 2 — speakers: Tum Darkblade, Tim Lanning
-- 2012-11-13 — Episode 1 — speakers: Tum Darkblade, Tim Lanning
+- 2012-11-27 — Two Problems, One Dreadwing — speakers: Two Problems, One Dreadwing Greetings Adventurers, American Thanksgiving
+- 2012-11-20 — Eight Legged Freaks — speakers: Eight Legged Freaks Greetings
+- 2012-11-13 — Slab Number Five — speakers: Tum Darkblade, Tim Lanning
+- 2012-11-13 — So it Begins! — speakers: Tum Darkblade, Tim Lanning
