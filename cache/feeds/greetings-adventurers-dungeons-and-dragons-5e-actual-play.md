@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-05-05T16:57:04+00:00`
-- checked_at: `2026-05-05T16:57:04+00:00`
-- etag: `"djEuMi4wOjE3Nzc5OTI5OTEyNjk="`
+- fetched_at: `2026-05-05T19:53:29+00:00`
+- checked_at: `2026-05-05T19:53:29+00:00`
+- etag: `"djEuMi4wOjE3NzgwMDcxNDk5NTY="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-05-05T16:57:04+00:00",
+  "fetched_at": "2026-05-05T19:53:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -11525,11 +11525,11 @@
     },
     {
       "key": "e8303ee1564a0ebc867c1849992ec6d52aa655ac",
-      "title": "The Sins of the Fathers",
+      "title": "The Sins of the Fathers - Campaign 1: Episode 44",
       "published_at": "2013-09-02T19:33:44+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/the-sins-of-the-fathers",
-      "description": "We aren’t saying that all backwoods settlements in our campaign world are filled with crazy people. We aren’t saying that. But, something about this particular backwoods village seems a little…off? I guess the gang has to deal out some old school justice if anything is fishy is going on. But what are the odds of … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a42.jpg",
+      "description": "We aren’t saying that all backwoods settlements in our campaign world are filled with crazy people. We aren’t saying that. But, something about this particular backwoods village seems a little…off? I guess the gang has to deal out some old school justice if anything is fishy is going on. But what are the odds of that, right? The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778002915269-c7320503-cb96-4a4b-80c8-81f66f0602ed.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D605/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66914011",
@@ -11538,33 +11538,34 @@
         "crazy people"
       ],
       "topics": [
-        "father"
+        "fathers",
+        "campaign"
       ]
     },
     {
       "key": "ef9118777e7ab171611b69ac7c2d1b0882ae135a",
-      "title": "The Raging Storm",
+      "title": "The Raging Storm - Campaign 1: Episode 43",
       "published_at": "2013-08-26T13:00:39+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/the-raging-storm",
-      "description": "A bruised and battered group of adventurers sheath their weapons. They know that they almost died and the only thing that saved them was the help of their friends. Unity is what keeps this group together. Once again the gang is back together and ready to face the great next step in their grand adventure! … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a43.jpg",
+      "description": "A bruised and battered group of adventurers sheath their weapons. They know that they almost died and the only thing that saved them was the help of their friends. Unity is what keeps this group together. Once again the gang is back together and ready to face the great next step in their grand adventure! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778002832184-be283d1f-938d-4e4a-810c-28396db24d24.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D603/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65675180",
       "itunes_duration": "1:08:24",
       "speakers": [],
       "topics": [
-        "raging",
-        "storm"
+        "storm",
+        "campaign"
       ]
     },
     {
       "key": "6560fc70d707e36819b85a84ddf4a29de4060a71",
-      "title": "Mordenkrad Time",
+      "title": "Mordenkrad Time - Campaign 1: Episode 42",
       "published_at": "2013-08-19T14:38:28+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/mordenkrad-time",
-      "description": "Well, we found Ros but we also found a group of fearsome thugs. One of which was wielding a giant Mordenkrad that really threatened Harper’s good looks. Who knows, maybe we can talk our way out of this battle? A hero can dream, right? The adventure continues with Titus Harper (Tim Lanning), Thom the Dragonborn … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a44.jpg",
+      "description": "Well, we found Ros but we also found a group of fearsome thugs. One of which was wielding a giant Mordenkrad that really threatened Harper’s good looks. Who knows, maybe we can talk our way out of this battle? A hero can dream, right? The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778002745275-24a502a5-516c-4b7e-bbbb-46f1f0d7490d.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D584/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88518321",
@@ -11572,15 +11573,16 @@
       "speakers": [],
       "topics": [
         "mordenkrad",
-        "time"
+        "time",
+        "campaign"
       ]
     },
     {
       "key": "b6d5317f8daaec4a8b56d6a07b380a23ec168da6",
-      "title": "Salty Sea Wench",
+      "title": "Salty Sea Wench - Campaign 1: Episode 41",
       "published_at": "2013-08-13T00:01:39+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/salty-sea-wench",
-      "description": "After our strange dream and battle with the red dragon, we adventurers we ready to pursue another artifact. Already having The Whip of Binding, we set off to gather the Brazier of Worlds and the Orb of Endless Power. Except that there was a small issue that prevented us from our journey. The adventure continues … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "After our strange dream and battle with the red dragon, we adventurers we ready to pursue another artifact. Already having The Whip of Binding, we set off to gather the Brazier of Worlds and the Orb of Endless Power. Except that there was a small issue that prevented us from our journey. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a45.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D582/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -11589,15 +11591,16 @@
       "speakers": [],
       "topics": [
         "salty",
-        "wench"
+        "wench",
+        "campaign"
       ]
     },
     {
       "key": "1ceac115075b923fb37680bd8948522b18f4d36e",
-      "title": "Requiem with the Dragon Hunter",
+      "title": "Requiem with the Dragon Hunter - Campaign 1: Episode 40",
       "published_at": "2013-08-05T13:20:39+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/requiem-with-the-dragon-hunter",
-      "description": "We are whisked away once again to our weird dragon world. Who knows what this strange dream world is and what our purpose is within it. We will fight our way through this trial like we always do. Knowing that another battle is just around the corner, whether that corner be dream or otherwise. The … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "We are whisked away once again to our weird dragon world. Who knows what this strange dream world is and what our purpose is within it. We will fight our way through this trial like we always do. Knowing that another battle is just around the corner, whether that corner be dream or otherwise. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a46.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D555/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -11607,15 +11610,16 @@
       "topics": [
         "requiem",
         "dragon",
-        "hunter"
+        "hunter",
+        "campaign"
       ]
     },
     {
       "key": "a7aba5f747dd9a0deb789a563af0f15b6d4607fa",
-      "title": "Settling up with the Darkblades",
+      "title": "Settling up with the Darkblades - Campaign 1: Episode 39",
       "published_at": "2013-07-29T21:24:16+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/settling-up-with-the-darkblades",
-      "description": "Hell hath no fury like a dragonborn scorn. Our adventurers decide to seek out the Darkblades who have double-crossed them in our latest episode. Stay turned after the end music to hear an impromptu discussion of DnD Next. You also get the hear the normal nonsense that goes on between episodes. Subscribe on iTunes Subscribe via … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Hell hath no fury like a dragonborn scorn. Our adventurers decide to seek out the Darkblades who have double-crossed them in our latest episode. Stay turned after the end music to hear an impromptu discussion of DnD Next. You also get the hear the normal nonsense that goes on between episodes. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a47.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D566/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -11623,15 +11627,16 @@
       "itunes_duration": "1:01:20",
       "speakers": [],
       "topics": [
-        "darkblade"
+        "darkblades",
+        "campaign"
       ]
     },
     {
       "key": "bad154a7f8815ee22c3e7ba53aecf8ca872a3142",
-      "title": "Smash and Grab",
+      "title": "Smash and Grab - Campaign 1: Episode 38",
       "published_at": "2013-07-22T11:28:40+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/smash-and-grab",
-      "description": "With the aide of our new…business partner we set out to find out where Ham Hands stashed his winnings. Will things go smoothly as Ham Hands turns himself in? Or will the gang have to convince him with fire and sword? I think you already know the answer… The adventure continues with Titus Harper (Tim … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "With the aide of our new…business partner we set out to find out where Ham Hands stashed his winnings. Will things go smoothly as Ham Hands turns himself in? Or will the gang have to convince him with fire and sword? I think you already know the answer… The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes It will look like this. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a48.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D543/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -11640,92 +11645,95 @@
       "speakers": [],
       "topics": [
         "smash",
-        "grab"
+        "grab",
+        "campaign"
       ]
     },
     {
       "key": "eabb35010992862c053ec0910044321d067f41f7",
-      "title": "Mastwick Chronicles",
+      "title": "Mastwick Chronicles - Campaign 1: Episode 37",
       "published_at": "2013-07-15T15:36:55+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/mastwick-chronicles",
-      "description": "Hello wonderful listeners, we welcome you back to the auditory version of the beautiful Mastwick. Yes, it is a fine little city. But, you are not here for pleasure, no this is a business trip. Perhaps you will meet a few new associates along the way. You know, Networking. The adventure continues with Titus Harper … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Hello wonderful listeners, we welcome you back to the auditory version of the beautiful Mastwick. Yes, it is a fine little city. But, you are not here for pleasure, no this is a business trip. Perhaps you will meet a few new associates along the way. You know, Networking. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a49.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D541/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73699578",
       "itunes_duration": "1:16:46",
       "speakers": [
-        "Mastwick Chronicles Hello"
+        "Mastwick Chronicles Campaign"
       ],
       "topics": [
         "mastwick",
-        "chronicles"
+        "chronicles",
+        "campaign"
       ]
     },
     {
       "key": "813119956e8118e79579da0b9f1406261f43d288",
-      "title": "No Rest for the Wicked",
+      "title": "No Rest for the Wicked - Campaign 1: Episode 36",
       "published_at": "2013-07-08T15:14:06+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/no-rest-for-the-wicked",
-      "description": "Hello and welcome back to another excited episode of Drunks and Dragons. This sure has been a dragon filled bit of episodes hasn’t it? It really fits within our theme. There shouldn’t be a dragon or dragon-folk on the water so everything should be A-ok. Maybe we will start fighting several groups of drunks since … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Hello and welcome back to another excited episode of Drunks and Dragons. This sure has been a dragon filled bit of episodes hasn’t it? It really fits within our theme. There shouldn’t be a dragon or dragon-folk on the water so everything should be A-ok. Maybe we will start fighting several groups of drunks since that is the next logical conclusion. I don’t think there are any podcasts in our fantasy world… The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a4a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D527/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94617600",
       "itunes_duration": "1:38:33",
       "speakers": [
-        "No Rest",
-        "Wicked Hello"
+        "No Rest"
       ],
       "topics": [
-        "rest"
+        "rest",
+        "wicked",
+        "campaign"
       ]
     },
     {
       "key": "d046348b78a89e4fc42d0b1a547519c4f95f15b2",
-      "title": "A Flight of Futility",
+      "title": "A Flight of Futility - Campaign 1: Episode 35",
       "published_at": "2013-07-01T16:14:08+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-flight-of-futility",
-      "description": "Hello wonderful listeners. Boy are we in a pickle… without getting too deep into the whole situation, we may have angered an elder dragon. Who is to say. Anyways, we are a hearty and strong bunch so everything should be A-ok. Thrifty wouldn’t kill us, right? Especially not Bucky… The adventure continues with Tum Darkblade (Tim Lanning), … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Hello wonderful listeners. Boy are we in a pickle… without getting too deep into the whole situation, we may have angered an elder dragon. Who is to say. Anyways, we are a hearty and strong bunch so everything should be A-ok. Thrifty wouldn’t kill us, right? Especially not Bucky… The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a4b.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D521/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65670164",
       "itunes_duration": "1:08:24",
-      "speakers": [
-        "Futility Hello"
-      ],
+      "speakers": [],
       "topics": [
         "flight",
-        "futility"
+        "futility",
+        "campaign"
       ]
     },
     {
       "key": "2a958bb12fdd4a17247d6d976bbdc4c29a609836",
-      "title": "Teamwork, the Deadliest Weapon",
+      "title": "Teamwork, the Deadliest Weapon - Campaign 1: Episode 34",
       "published_at": "2013-06-24T13:18:05+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/teamwork-the-deadliest-weapon",
-      "description": "Hello friends and family, thank you for visiting our magical headquaters located conveniently in an underwater valcono. This week things get – dicey – to put it midly. A bitter battler rages and the survival of the Drunks and Dragons it filed into the “doubtful” drawer. The only way to fight off this viscous monster … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Hello friends and family, thank you for visiting our magical headquaters located conveniently in an underwater valcono. This week things get – dicey – to put it midly. A bitter battler rages and the survival of the Drunks and Dragons it filed into the “doubtful” drawer. The only way to fight off this viscous monster is to work as a team. iTunes is a great place to leave a review for the show. Really, it is probably the best place. You see, other podcasts try to steal your mp3s and if you don’t have enough reviews they can just walk right in and take them! So thank you! Also, if you want to hang out with the cast members of this show and you play the Dungeons and Dragons MMO, Neverwinter, we have just started a guild on Dragon Shard! So hop online and let’s get stabby! The adventure continues with Lord Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a4c.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D491/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80499774",
       "itunes_duration": "1:23:51",
       "speakers": [
-        "Deadliest Weapon Hello"
+        "Deadliest Weapon"
       ],
       "topics": [
         "teamwork",
         "deadliest",
-        "weapon"
+        "weapon",
+        "campaign"
       ]
     },
     {
       "key": "a86cc4d0bd81181ef5e7c914591442aa42676d42",
-      "title": "What Rhymes with Crag Mon?",
+      "title": "What Rhymes with Crag Mon? - Campaign 1: Episode 33",
       "published_at": "2013-06-17T01:23:39+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/what-rhymes-with-crag-mon",
-      "description": "Hello adventurers! I hope you are wearing your hott pink parachute because we are falling into another magical episode of Drunks and Dragons. On this episode the gang learns a little more about this Harper character. What is his deal anyway? Also, Bucky leads us to the mystical temple. As always, thank you for your … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Hello adventurers! I hope you are wearing your hott pink parachute because we are falling into another magical episode of Drunks and Dragons. On this episode the gang learns a little more about this Harper character. What is his deal anyway? Also, Bucky leads us to the mystical temple. As always, thank you for your wonderful reviews on iTunes. It makes us work 3x harder to make a better show for you. We are sending our thank you rays right back at you so that you will have 1) better luck with ladies/ dudes 2) better grades 3) that promotion that you deserve, yeah get back Carl, this is my promotion! Also, if you want to hang out with the cast members of this show and you play the Dungeons and Dragons MMO, Neverwinter, we have just started a guild on Dragon Shard! So hop online and let’s get stabby! The adventure continues with Lord Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a4d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D489/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -11735,15 +11743,16 @@
         "Crag Mon"
       ],
       "topics": [
-        "crag"
+        "crag",
+        "campaign"
       ]
     },
     {
       "key": "6af109285fb80fc46b3c78d5d0b11842568c1593",
-      "title": "I HATE GNOLLS",
+      "title": "I HATE GNOLLS - Campaign 1: Episode 32",
       "published_at": "2013-06-09T20:22:58+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/i-hate-gnolls",
-      "description": "A seemingly defeated group of adventurers must face powerful enemies with their hopes slowly draining. Thom and Aludra, alone on the Lost Isle, must search for clues about the lost adventurer Captain Blindy. Without the aid of Junpei, who left the group to join a famous group of Githyanki space pirates, or Tum, who left … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "A seemingly defeated group of adventurers must face powerful enemies with their hopes slowly draining. Thom and Aludra, alone on the Lost Isle, must search for clues about the lost adventurer Captain Blindy. Without the aid of Junpei, who left the group to join a famous group of Githyanki space pirates, or Tum, who left the group for the grave. They must fight an uphill battle. If only one of their new simple boat mans would be more helpful… All of your wonderful support these past few weeks has meant a whole lot to all of us at DnDpodcast headquarters After the dust settles from the recent changes we have some amazing things in store for y’all! Also, if you want to hang out with the cast members of this show and you play the Dungeons and Dragons MMO, Neverwinter, we have just started a guild on Dragon Shard! So hop online and let’s get stabby! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a4e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D464/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -11751,15 +11760,16 @@
       "itunes_duration": "1:10:42",
       "speakers": [],
       "topics": [
-        "gnoll"
+        "gnolls",
+        "campaign"
       ]
     },
     {
       "key": "6fbef25d54f82106302585a778e74bffbcb63559",
-      "title": "Fond Farewells",
+      "title": "Fond Farewells - Campaign 1: Episode 31",
       "published_at": "2013-06-03T10:00:54+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/fond-farewells",
-      "description": "Hello, dear Drunks (and Dragons?). Have you recovered from last week’s very dramatic episode? Are you ready for another intense and surprising adventure with our ragtag crew? You’re not? Better slug some grog and gird your loins, because we’re getting dicey up in here. This week’s episode centers around fond farewells and quests both old … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Hello, dear Drunks (and Dragons?). Have you recovered from last week’s very dramatic episode? Are you ready for another intense and surprising adventure with our ragtag crew? You’re not? Better slug some grog and gird your loins, because we’re getting dicey up in here. This week’s episode centers around fond farewells and quests both old and new. So put in your headphones! We’re going to the Lost Isle. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a4f.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D460/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -11768,15 +11778,16 @@
       "speakers": [],
       "topics": [
         "fond",
-        "farewells"
+        "farewells",
+        "campaign"
       ]
     },
     {
       "key": "857cbc0bf38dfb2dd136b87146707411362f18ce",
-      "title": "A Sly Flourish",
+      "title": "A Sly Flourish - Campaign 1: Episode 30",
       "published_at": "2013-05-25T20:20:29+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-sly-flourish",
-      "description": "Hello brave adventurers and welcome to a very special episode of Drunks and Dragons. We say that most of our episodes are special but this time we mean it. The gang finally gets some clues to the location of the Lost Isle but must acquire a magical compass hidden in a dangerous cave. Will everyone … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Hello brave adventurers and welcome to a very special episode of Drunks and Dragons. We say that most of our episodes are special but this time we mean it. The gang finally gets some clues to the location of the Lost Isle but must acquire a magical compass hidden in a dangerous cave. Will everyone make it out of the cave in one piece? Found out now in this week’s of Drunks and Dragons. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a50.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D428/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -11784,32 +11795,36 @@
       "itunes_duration": "1:26:07",
       "speakers": [],
       "topics": [
-        "flourish"
+        "flourish",
+        "campaign"
       ]
     },
     {
       "key": "65be26c3b47ab561043567f1627d949dfcf31db0",
-      "title": "A Disproportionate Response",
+      "title": "A Disproportionate Response - Campaign 1: Episode 29",
       "published_at": "2013-05-20T03:14:44+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-disproportionate-response",
-      "description": "This is an… interesting episode full of a bit of experimintation. Mostly we tried to really dig into the question of “What if?” and learned to live with the consequences. Join us as we explore the pirate island of Bowbreaker Bay searching for clues for the Lost Isle. Maybe we make a friend or two. … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "This is an… interesting episode full of a bit of experimintation. Mostly we tried to really dig into the question of “What if?” and learned to live with the consequences. Join us as we explore the pirate island of Bowbreaker Bay searching for clues for the Lost Isle. Maybe we make a friend or two. Maybe we murder an NPC or two. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a51.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D425/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67531337",
       "itunes_duration": "1:10:20",
-      "speakers": [],
+      "speakers": [
+        "Disproportionate Response"
+      ],
       "topics": [
         "disproportionate",
-        "response"
+        "response",
+        "campaign"
       ]
     },
     {
       "key": "de35041a4272bd014b0a661d619e3774c7fbc9c6",
-      "title": "Spooky, Crazy Mystery Hour",
+      "title": "Spooky, Crazy Mystery Hour - Campaign 1: Episode 28",
       "published_at": "2013-05-13T15:08:53+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/spooky-crazy-mystery-hour",
-      "description": "I know you will love this week’s episode of Drunks and Dragons because we make fools of ourselves. You see, without spoiling what happens, the gang is put into a bit of a pickle that they need to try and figure out. The issue is that the gang is full of lunatics who like to use their … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "I know you will love this week’s episode of Drunks and Dragons because we make fools of ourselves. You see, without spoiling what happens, the gang is put into a bit of a pickle that they need to try and figure out. The issue is that the gang is full of lunatics who like to use their weapons instead of their minds. Listen as we attempt to solve a mystery that befalls a small island on our voyage to Mastwick. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a52.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D414/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -11822,15 +11837,16 @@
         "spooky",
         "crazy",
         "mystery",
-        "hour"
+        "hour",
+        "campaign"
       ]
     },
     {
       "key": "e27d8d81f31d0a8b3df2e1a65114a9244e48bee1",
-      "title": "Painful Memories",
+      "title": "Painful Memories - Campaign 1: Episode 27",
       "published_at": "2013-05-06T03:28:38+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/painful-memories",
-      "description": "Thank you as always for joining us for another thrilling adventure with the Drunks and Dragons gang. This week we learn even more about one character’s past with some… unfortunate revelations. Perhaps some memories are best left buried behind that weird contraption in your head that could explode at any minute (or reanimate you as a zombie … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Thank you as always for joining us for another thrilling adventure with the Drunks and Dragons gang. This week we learn even more about one character’s past with some… unfortunate revelations. Perhaps some memories are best left buried behind that weird contraption in your head that could explode at any minute (or reanimate you as a zombie when you die.) Also, this week has some disturbingly helpful new avenues for potential Drunks and Dragons fan-fiction, so you are welcome! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a53.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D412/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -11840,15 +11856,17 @@
         "Dragons gang"
       ],
       "topics": [
-        "memory"
+        "painful",
+        "memories",
+        "campaign"
       ]
     },
     {
       "key": "31761c52b2cf445b21a86a0d55509da3c471b5ea",
-      "title": "A Test of Friendship",
+      "title": "A Test of Friendship - Campaign 1: Episode 26",
       "published_at": "2013-04-29T02:53:27+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-test-of-friendship",
-      "description": "I know we say this every week, but honestly, things get dicey on this episode of Drunks and Dragons. With Junpei going a little crazy and Thom being influenced by some mysterious force the gang’s trust is tested to its limits. Add in a visit from a group of Darkblades and things got really interesting. … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "I know we say this every week, but honestly, things get dicey on this episode of Drunks and Dragons. With Junpei going a little crazy and Thom being influenced by some mysterious force the gang’s trust is tested to its limits. Add in a visit from a group of Darkblades and things got really interesting. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a54.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D394/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -11857,123 +11875,131 @@
       "speakers": [],
       "topics": [
         "test",
-        "friendship"
+        "friendship",
+        "campaign"
       ]
     },
     {
       "key": "01ef2b13a93455cec2e3871bae8c6502ca1c18f4",
-      "title": "Acid Trip",
+      "title": "Acid Trip - Campaign 1: Episode 25",
       "published_at": "2013-04-22T09:00:28+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/acid-trip",
-      "description": "Our heroes were left in quite the pickle last week eh? Who knows what is going on in the mysterious armory of Trant Thumble and if the gang will make it out alive… Fortunately, some powerful magic items were left just lying around so the odds should be in their favor. We would love if … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Our heroes were left in quite the pickle last week eh? Who knows what is going on in the mysterious armory of Trant Thumble and if the gang will make it out alive… Fortunately, some powerful magic items were left just lying around so the odds should be in their favor. We would love if you could take a moment out of your busy day to leave us a review on iTunes. It is the best way to help us out and you have a chance to get a mention on the show! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a55.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D382/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102433854",
       "itunes_duration": "1:46:42",
-      "speakers": [],
+      "speakers": [
+        "Acid Trip"
+      ],
       "topics": [
         "acid",
-        "trip"
+        "trip",
+        "campaign"
       ]
     },
     {
       "key": "253b0a0d39838729c2482d013f04911cd3ce6029",
-      "title": "Maps and Mystery",
+      "title": "Maps and Mystery - Campaign 1: Episode 24",
       "published_at": "2013-04-15T09:00:38+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/maps-and-mystery",
-      "description": "As our little world is growing, I know all you fine people can’t wait to see which directions the heroes take. Any week could hold completely different adventures because we the players chose to go left instead of right. This is the magic of Dungeons and Dragons and one of the main reasons why this show is … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a56.jpg",
+      "description": "As our little world is growing, I know all you fine people can’t wait to see which directions the heroes take. Any week could hold completely different adventures because we the players chose to go left instead of right. This is the magic of Dungeons and Dragons and one of the main reasons why this show is so much fun to make. This week’s episode is a truly special one and we hope you enjoy it. Things get pretty interesting to say the least. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778002120799-661a5147-1d25-4119-bf96-6e2b7fd85966.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D366/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89191235",
       "itunes_duration": "1:32:54",
       "speakers": [],
       "topics": [
-        "maps",
-        "mystery"
+        "mystery",
+        "campaign"
       ]
     },
     {
       "key": "f25349d5e0b54d26f0211b6613c3e3e585253fb1",
-      "title": "The Beasts in the Streets",
+      "title": "The Beasts in the Streets - Campaign 1: Episode 23",
       "published_at": "2013-04-08T13:11:46+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/the-beasts-in-the-streets",
-      "description": "Since we had such a nice time on last week’s episode of Drunks and Dragons the gang was feeling pretty good. Our heads were in much less danger of being exploded. We met Fennekin the famed cleric. And we even had some direction for our lives! This week things don’t go as well and without … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Since we had such a nice time on last week’s episode of Drunks and Dragons the gang was feeling pretty good. Our heads were in much less danger of being exploded. We met Fennekin the famed cleric. And we even had some direction for our lives! This week things don’t go as well and without spoiling anything I think we can all agree that Tum’s family is the worst. Have you had a chance to check out our kickstarer? No??? Well head on over to and check it out! We are now in our stretch goal to record several episodes in the Firefly RPG universe, which sounds golram amazing. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a57.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D354/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113377697",
       "itunes_duration": "1:58:06",
-      "speakers": [
-        "Streets Since"
-      ],
+      "speakers": [],
       "topics": [
         "beasts",
-        "street"
+        "streets",
+        "campaign"
       ]
     },
     {
       "key": "f4fa0d88de588bcedf8a7824c37889b5b7b4896d",
-      "title": "A Hysterical Dragonborn",
+      "title": "A Hysterical Dragonborn - Campaign 1: Episode 22",
       "published_at": "2013-04-01T09:00:01+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-hysterical-dragonborn",
-      "description": "Welcome to another action packed episode of Drunks and Dragons! When we last left our heroes there was a strange ticking noise coming from Thom’s head… What could this mean for our group? Found out who lives and who dies in “A Hysterical Dragonborn.” The adventure continues with Tum Darkblade (Tim Lanning), Thom the Dragonborn … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Welcome to another action packed episode of Drunks and Dragons! When we last left our heroes there was a strange ticking noise coming from Thom’s head… What could this mean for our group? Found out who lives and who dies in “A Hysterical Dragonborn.” The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a58.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D336/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66704613",
       "itunes_duration": "1:09:29",
       "speakers": [
-        "Hysterical Dragonborn Welcome"
+        "Hysterical Dragonborn"
       ],
       "topics": [
         "hysterical",
-        "dragonborn"
+        "dragonborn",
+        "campaign"
       ]
     },
     {
       "key": "c9e670befb86f5eba949e6f4cd98b2d8a7bf1ccb",
-      "title": "Family Dinner",
+      "title": "Family Dinner - Campaign 1: Episode 21",
       "published_at": "2013-03-25T09:00:25+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/family-dinner",
-      "description": "Our stalwart companions continue their battle against the giant croco-monster fresh from the swamps of Ichtaka. If they can defeat their foe, they have a special treat awaiting them: dinner with Papa Trant and the rest of Tum’s siblings. The adventure continues with Tum Darkblade (Tim Lanning), Thom the Dragonborn (Mike Bachmann), Junpei Iori (Steven … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Our stalwart companions continue their battle against the giant croco-monster fresh from the swamps of Ichtaka. If they can defeat their foe, they have a special treat awaiting them: dinner with Papa Trant and the rest of Tum’s siblings. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a59.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D331/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57422158",
       "itunes_duration": "59:49",
-      "speakers": [],
+      "speakers": [
+        "Family Dinner"
+      ],
       "topics": [
         "family",
-        "dinner"
+        "dinner",
+        "campaign"
       ]
     },
     {
       "key": "d9fc9f6862dfa86f5ba29ba7ae80dce4c2f8bce5",
-      "title": "Gladiator Games",
+      "title": "Gladiator Games - Campaign 1: Episode 20",
       "published_at": "2013-03-18T09:00:34+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/gladiator-games",
-      "description": "After being captured by Thumble soldiers the gang has to overcome a few obstacles to win their freedom. Tum’s father, Trant Thumble, has some sort of coleseum with scary creatures that host fights for the entertainment of the people. Tum was pitted against the brand new Tum – a horrific minotaur. Hopefully he will get through the … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "After being captured by Thumble soldiers the gang has to overcome a few obstacles to win their freedom. Tum’s father, Trant Thumble, has some sort of coleseum with scary creatures that host fights for the entertainment of the people. Tum was pitted against the brand new Tum – a horrific minotaur. Hopefully he will get through the help of his friends everything will work out A-OK. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: Getting a little help from your friends… Killing the cool gator. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a5a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D315/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85659898",
       "itunes_duration": "1:29:13",
       "speakers": [
-        "Gladiator Games After"
+        "Gladiator Games"
       ],
       "topics": [
         "gladiator",
-        "games"
+        "games",
+        "campaign"
       ]
     },
     {
       "key": "395ab6a21772eaa27be1d910df7baeaaa5ff271a",
-      "title": "Sibling Rivalry",
+      "title": "Sibling Rivalry - Campaign 1: Episode 19",
       "published_at": "2013-03-12T17:29:21+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/sibling-rivalry",
-      "description": "This week your adventurers are faced with a brand new set of un-friendly faces. When a potential new friend crosses their path, things turn ugly really fast. The inhabitants of this crazy world really hate our heroes. It is almost like everything revolves around them while catastrophe follows in their wake. We are also announcing our Drunks … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "This week your adventurers are faced with a brand new set of un-friendly faces. When a potential new friend crosses their path, things turn ugly really fast. The inhabitants of this crazy world really hate our heroes. It is almost like everything revolves around them while catastrophe follows in their wake. We are also announcing our Drunks and Dragons Kickstarter ! The short version is we have been having some audio issues resulting mostly from our recording gear. For the most part we have been able to hide the majority from your ears but we wanted to level up our equipment! Plus, this is one of the best ways to reward our loyal listeners with some DnD branded swag! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: Oh no… I sense trouble A beautiful group of people. I hope they are not related to Tum. Aludra moves in for the defense Oh no. Several people are down. Oh no, we are all knocked out. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a5b.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D286/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -11982,32 +12008,36 @@
       "speakers": [],
       "topics": [
         "sibling",
-        "rivalry"
+        "rivalry",
+        "campaign"
       ]
     },
     {
       "key": "78d73e13c4937394c6eea42c55abdecbf05a490c",
-      "title": "Canine Justice",
+      "title": "Canine Justice - Campaign 1: Episode 18",
       "published_at": "2013-03-04T10:52:57+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/canine-justice",
-      "description": "We may have gotten ourselves into a pickle after ransacking Zantac’s emporium. Our personal flavor of justice seems to have angered the elderly shop keeper. Someone had to put a stop to this horrible dog murderer and if that means acquiring some magical items in the process then that is just the universe rewarding our … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "We may have gotten ourselves into a pickle after ransacking Zantac’s emporium. Our personal flavor of justice seems to have angered the elderly shop keeper. Someone had to put a stop to this horrible dog murderer and if that means acquiring some magical items in the process then that is just the universe rewarding our good deed. Hopefully we are not also rewarded with a free trip to jail. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a5c.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D276/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108141087",
       "itunes_duration": "1:52:38",
-      "speakers": [],
+      "speakers": [
+        "Canine Justice"
+      ],
       "topics": [
         "canine",
-        "justice"
+        "justice",
+        "campaign"
       ]
     },
     {
       "key": "f741fb53488564bf569578adc6aed859bde22f13",
-      "title": "Welcome to Caer!",
+      "title": "Welcome to Caer! - Campaign 1: Episode 17",
       "published_at": "2013-02-25T10:00:28+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-caer",
-      "description": "Having bested a legendary Kraken has earned the crew a break from the grind of “almost dying constantly.” Unfortunately, things start going to h-e-double dagger almost immediately. But I am sure Caer will be a safe place fo the gang to avoid getting into any misfortune. As long as no one makes any terrible decisions everything will go … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Having bested a legendary Kraken has earned the crew a break from the grind of “almost dying constantly.” Unfortunately, things start going to h-e-double dagger almost immediately. But I am sure Caer will be a safe place fo the gang to avoid getting into any misfortune. As long as no one makes any terrible decisions everything will go swell! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a5d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D270/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12015,15 +12045,16 @@
       "itunes_duration": "1:52:28",
       "speakers": [],
       "topics": [
-        "caer"
+        "caer",
+        "campaign"
       ]
     },
     {
       "key": "b5b185eda0ca6a0dc55cf3aa3cebf65021813142",
-      "title": "A Legend from the Depths",
+      "title": "A Legend from the Depths - Campaign 1: Episode 16",
       "published_at": "2013-02-18T10:00:22+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-legend-from-the-depths",
-      "description": "After a daring battle with a band of evil pirates, your adventurers are now looking forward to a little fun in the sun. Having “liberated” Hookbeard’s boat and freeing his captives getting to Caer is now only a few days passage. That is if they don’t run into the legendary sea monster that haunts these … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "After a daring battle with a band of evil pirates, your adventurers are now looking forward to a little fun in the sun. Having “liberated” Hookbeard’s boat and freeing his captives getting to Caer is now only a few days passage. That is if they don’t run into the legendary sea monster that haunts these water. I am sure he won’t show up though. We are still running a contest for a free copy of Heroes of the Elemental Chaos . Just head on over to this post and leave your iTunes review in the comment section. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a5e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D254/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12032,15 +12063,16 @@
       "speakers": [],
       "topics": [
         "legend",
-        "depth"
+        "depths",
+        "campaign"
       ]
     },
     {
       "key": "7e2cc0e62586c25ba6e34cd66d2089b22e52204d",
-      "title": "A Pirate’s Life for Me",
+      "title": "A Pirate’s Life for Me - Campaign 1: Episode 15",
       "published_at": "2013-02-12T04:05:57+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-pirates-life-for-me",
-      "description": "Your heroes are one step closer to finding the answers they seek in the city of Caer. First they have to gain passage with the infamous pirate Hookbeard. Will the gang have to jeopardize their already shaky morals to reach Caer? Find out in this weeks Drunks and Dragons! The adventure continues with Tum Darkblade (Tim Lanning), … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Your heroes are one step closer to finding the answers they seek in the city of Caer. First they have to gain passage with the infamous pirate Hookbeard. Will the gang have to jeopardize their already shaky morals to reach Caer? Find out in this weeks Drunks and Dragons! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Contest! The lovely folks at Wizards of the Coast have provided us with a copy of Heroes of the Elemental Chaos to give away! Just write a review on iTunes and paste it into the comments thread on this post to enter. Must be in the US (sorry!). Pro-tip, copy the review before you submit it, they tend to disappear in the iTunes system for about a day. Screens from this week’s adventure to assist with your theater of the mind: Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a5f.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D241/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12049,34 +12081,34 @@
       "speakers": [],
       "topics": [
         "pirate",
-        "life"
+        "life",
+        "campaign"
       ]
     },
     {
       "key": "c91d15887d764a04a09018a3cbd43223befecbe1",
-      "title": "Dreams of Dragons",
+      "title": "Dreams of Dragons - Campaign 1: Episode 14",
       "published_at": "2013-02-04T10:00:53+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/dreams-of-dragons",
-      "description": "Imagine, if you can, waking up in a desert and fighting to survive the night. This is the situation our adventurers found themselves in. We have mentioned our “dream sequence” episode in the past and we glad to finally release it! We are joined by a new friend and get to fight a terrifying new … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Imagine, if you can, waking up in a desert and fighting to survive the night. This is the situation our adventurers found themselves in. We have mentioned our “dream sequence” episode in the past and we glad to finally release it! We are joined by a new friend and get to fight a terrifying new foe. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Aelor played by special guest Owen DiMauro. Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a60.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D233/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55299343",
       "itunes_duration": "57:36",
-      "speakers": [
-        "Dragons Imagine"
-      ],
+      "speakers": [],
       "topics": [
         "dream",
-        "dragons"
+        "dragons",
+        "campaign"
       ]
     },
     {
       "key": "be7e47ee37d723b926488c7c804edffd4b1bd660",
-      "title": "A Dwarf, Dragonborn and a Githyanki Walk into a Bar…",
+      "title": "A Dwarf, Dragonborn and a Githyanki Walk into a Bar… - Campaign 1: Episode 13",
       "published_at": "2013-01-28T10:00:53+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-dwarf-dragonborn-and-a-githyanki-walk-into-a-bar",
-      "description": "Oh boy, this week on Drunks and Dragons things sure do get dicey. While searching for answers the gang must try to work together while not destroying the town of Mastwick. Are they prepared to find out the truths that await them? Or will their pasts stop their adventure in its tracks… The adventure continues … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Oh boy, this week on Drunks and Dragons things sure do get dicey. While searching for answers the gang must try to work together while not destroying the town of Mastwick. Are they prepared to find out the truths that await them? Or will their pasts stop their adventure in its tracks… The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a61.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D216/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12086,15 +12118,16 @@
       "topics": [
         "dwarf",
         "githyanki",
-        "walk"
+        "walk",
+        "campaign"
       ]
     },
     {
       "key": "f152153c46b00e11f1be6b31686015077f0ad191",
-      "title": "Not Quite Through the Woods",
+      "title": "Not Quite Through the Woods - Campaign 1: Episode 12",
       "published_at": "2013-01-21T10:00:51+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/not-quite-through-the-woods",
-      "description": "To make up for the lack of a battle in last week’s Drunks and Dragons we fight for a really long time this episode. Like always, we go back and forth between dying and exploding the enemies with reckless abandon. Close your eyes and let the sounds of battle wash over you. Be sure to listen to … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "To make up for the lack of a battle in last week’s Drunks and Dragons we fight for a really long time this episode. Like always, we go back and forth between dying and exploding the enemies with reckless abandon. Close your eyes and let the sounds of battle wash over you. Be sure to listen to the end since some pretty crazy cliff hangers occur. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a62.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D203/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12104,16 +12137,17 @@
         "Not Quite Through"
       ],
       "topics": [
-        "wood"
+        "woods",
+        "campaign"
       ]
     },
     {
       "key": "f07d539104fa0b5d03f4f03c5b4a782e04361ed1",
-      "title": "An Intense Headache",
+      "title": "An Intense Headache - Campaign 1: Episode 11",
       "published_at": "2013-01-13T22:55:23+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/an-intense-headache",
-      "description": "Maybe a few poor decisions were made this week. Who is to say? Do we have any regrets? Sure we do. Would we like to go back in time? Yes, most definitely. Your adventurers may be a little worse for wear but are bound together in a race to save their lives. (please forgive some … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a63.jpg",
+      "description": "Maybe a few poor decisions were made this week. Who is to say? Do we have any regrets? Sure we do. Would we like to go back in time? Yes, most definitely. Your adventurers may be a little worse for wear but are bound together in a race to save their lives. (please forgive some continuing audio issues – Thrifty’s mic is dying. We are working to fix this issue, and it should be better next week!) The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778001510541-404f0f00-097f-48fc-83f1-c7e8fb86c9e7.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D192/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79232522",
@@ -12121,15 +12155,16 @@
       "speakers": [],
       "topics": [
         "intense",
-        "headache"
+        "headache",
+        "campaign"
       ]
     },
     {
       "key": "3ba5d962a1c4ecf3db55870deac25b62de65fc6e",
-      "title": "The Long Hallway",
+      "title": "The Long Hallway - Campaign 1: Episode 10",
       "published_at": "2013-01-07T04:29:03+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/the-long-hallway",
-      "description": "We are back from the holiday and here to bring you DnD! The gang finds themselves in a bit of a trap and death is only a hallway away. Will the hallway devour our heros like an angry squirrel? What is on the other side of the door? Tune in and all of these answers … Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "We are back from the holiday and here to bring you DnD! The gang finds themselves in a bit of a trap and death is only a hallway away. Will the hallway devour our heros like an angry squirrel? What is on the other side of the door? Tune in and all of these answers will be yours! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: This is the Death Hallway of Death Another robot?? Is this a really bad guy? He looks cool as hell! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a64.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D162/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12138,12 +12173,13 @@
       "speakers": [],
       "topics": [
         "long",
-        "hallway"
+        "hallway",
+        "campaign"
       ]
     },
     {
       "key": "a076d0fc2d5aba341c967c2fb4b2fb395e5b49a5",
-      "title": "Thokas Takes a Header",
+      "title": "Thokas Takes a Header - Campaign 1: Episode 9",
       "published_at": "2012-12-30T22:29:07+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/thokas-takes-a-header",
       "description": "This week’s episode is short because of the holiday, but hey, at least we have an episode! The audio quality is also pretty terrible, but we have a fix for that going forward, so sorry about that! Hope you still enjoy this lovely episode! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12157,12 +12193,13 @@
       ],
       "topics": [
         "thokas",
-        "header"
+        "header",
+        "campaign"
       ]
     },
     {
       "key": "bd1dfc15529b6c845045c7a2bfcba25e48832725",
-      "title": "Robot No Feel Love?",
+      "title": "Robot No Feel Love? - Campaign 1: Episode 8",
       "published_at": "2012-12-23T20:33:56+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/robot-no-feel-love",
       "description": "A quick note: We had some audio issues this week, and we apologize for the lack of quality. We have a plan moving forward that should dramatically increase our audio quality. This week on Drunks and Dragons: Our heroes come face-to-face with one of the dwellers of Shadowspar, and battle quickly ensues. Will the gang survives? Will they agree on what an arcana check does? Will one of the group cause another member of the group to get hammered to death? Only time will tell! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: Thokas and his Robo friends! We are nervous that Junpei will kill us all We are almost done with the robo murder! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12176,12 +12213,13 @@
       ],
       "topics": [
         "robot",
-        "love"
+        "love",
+        "campaign"
       ]
     },
     {
       "key": "e9448fd524b860fcd0f499468a38ab3bff11e575",
-      "title": "The Next Level",
+      "title": "The Next Level - Campaign 1: Episode 7",
       "published_at": "2012-12-17T02:05:08+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/the-next-level",
       "description": "The whole gang has gone through a lot of changes this week. Everyone has leveled up, and has all sorts of new powers and abilities to show off. Aludra takes it one step further by shifting to the Warden class so that she can take over the defender duties for the group. The group flexes their new muscles by rolling on Shadowspar Keep and revisiting the trial of the zombie hulks. There are some new surprises as well. Find out what happens by listening to this week’s episode of Drunks and Dragons! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: Battle time! Double flanking this zombie. Even more baby zombies. Bachmann is so ready and excited about being attacked by so many enemies Hosted on Acast. See acast.com/privacy for more information.",
@@ -12192,12 +12230,13 @@
       "itunes_duration": "2:23:31",
       "speakers": [],
       "topics": [
-        "level"
+        "level",
+        "campaign"
       ]
     },
     {
       "key": "80317a3934b6484c451ad129661d0b3510238e91",
-      "title": "The Return of the Eight Legged Freaks",
+      "title": "The Return of the Eight Legged Freaks - Campaign 1: Episode 6",
       "published_at": "2012-12-10T03:28:50+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/the-return-of-the-eight-legged-freaks",
       "description": "Hello stalwart heroes! After a small hiatus the gang was rip-roaring ready to make things “dicey” this session. Prepare to fall deeper into the pit that is our fantasy world. Lives are changed and allegiances are set in stone. This is an episode to remember. Are you prepared for the revelations that await you? The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: We finally have a map of the region we are adventurin’ around. We are reacting to some magic world building by our lovely DM. This is how you battle against evil giant spiders. Spoiler – someone almost dies. Hosted on Acast. See acast.com/privacy for more information.",
@@ -12207,17 +12246,18 @@
       "enclosure_length": "108758831",
       "itunes_duration": "1:53:17",
       "speakers": [
-        "Eight Legged Freaks Hello"
+        "Eight Legged Freaks"
       ],
       "topics": [
         "return",
         "legged",
-        "freak"
+        "freaks",
+        "campaign"
       ]
     },
     {
       "key": "075830afe41011b02a46d603b7484ff5f6368bc4",
-      "title": "A Brief Respite",
+      "title": "A Brief Respite - Campaign 1: Episode 5",
       "published_at": "2012-12-04T00:24:35+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-brief-respite",
       "description": "Hello Adventurers! This week we took a hiatus from our harrowing adventure through the lands of fantasy and giant evil turkeys to look back at what we have accomplished thus far. As our little story gets more and more complicated, these breaks will help new listeners as well as old get caught up with the various story threads. So prepare your standard adventurer’s rations and gather around the fire! Since we are new and just getting our new shaky podcast legs we need your help with as much feedback as possible. One great way to spread all your positive feedback is on iTunes! Please do not leave the bad ones there since it hurts for a long, long time. Thanks for listening! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your DM ( Michael DiMauro ). Hosted on Acast. See acast.com/privacy for more information.",
@@ -12227,16 +12267,17 @@
       "enclosure_length": "33262027",
       "itunes_duration": "34:38",
       "speakers": [
-        "Brief Respite Hello Adventurers"
+        "Brief Respite",
+        "Hello Adventurers"
       ],
       "topics": [
-        "brief",
-        "respite"
+        "respite",
+        "campaign"
       ]
     },
     {
       "key": "0696ba238e54b2ade2582af8bc0e87fe0acbb69f",
-      "title": "Two Problems, One Dreadwing",
+      "title": "Two Problems, One Dreadwing - Campaign 1: Episode 4",
       "published_at": "2012-11-27T03:23:40+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/two-problems-one-dreadwing",
       "description": "Greetings Adventurers! Join us for a very special holiday (American Thanksgiving) edition of the Drunks and Dragons podcast. I don’t want to spoil the adventure, so go ahead and listen in! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), an absent Junpei Iori ( Steven Strom ) and Aludra ( Jennifer Cheek ). With DM Michael DiMauro. Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Screens from our recording: As we are ready for battle, we laugh. Look at the gang getting ready to fight! We won and are happy more battle Turkey time! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12247,17 +12288,19 @@
       "itunes_duration": "1:45:30",
       "speakers": [
         "Two Problems",
-        "One Dreadwing Greetings Adventurers",
+        "One Dreadwing",
+        "Greetings Adventurers",
         "American Thanksgiving"
       ],
       "topics": [
         "problems",
-        "dreadwing"
+        "dreadwing",
+        "campaign"
       ]
     },
     {
       "key": "c672622efd93009f4c0052a60e1ec291a642e837",
-      "title": "Eight Legged Freaks",
+      "title": "Eight Legged Freaks - Campaign 1: Episode 3",
       "published_at": "2012-11-20T00:13:47+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/eight-legged-freaks",
       "description": "Greetings Adventurers! Join us as the crew makes their way through a deep dark forest. What sort of nasty creatures will they run into? The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ) and Aludra ( Jennifer Cheek ). With DM Michael DiMauro. Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12267,16 +12310,18 @@
       "enclosure_length": "87263608",
       "itunes_duration": "1:30:54",
       "speakers": [
-        "Eight Legged Freaks Greetings"
+        "Eight Legged Freaks",
+        "Greetings Adventurers"
       ],
       "topics": [
         "legged",
-        "freak"
+        "freaks",
+        "campaign"
       ]
     },
     {
       "key": "be5698ea0adc6209320042d4afe3cff3d985eaf4",
-      "title": "Slab Number Five",
+      "title": "Slab Number Five - Campaign 1: Episode 2",
       "published_at": "2012-11-13T05:11:01+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/slab-number-five",
       "description": "Greetings Adventurers! Join us on our second adventure as Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ) and Aludra ( Jennifer Cheek ) continue to work their way out of their current sticky situation invented by DM Michael DiMauro. Drunkards and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12291,12 +12336,13 @@
       ],
       "topics": [
         "slab",
-        "number"
+        "number",
+        "campaign"
       ]
     },
     {
       "key": "17ebab1aac2bbd87a437f94b19a8c5b17e3bb93e",
-      "title": "So it Begins!",
+      "title": "So it Begins! - Campaign 1: Episode 1",
       "published_at": "2012-11-13T04:49:47+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/so-it-begins",
       "description": "Greetings Adventurers! Join us on our very first adventure as Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ) and Aludra ( Jennifer Cheek ) find themselves in a very strange situation cooked up by DM Michael \"ThriftyNerd\" DiMauro . With only their wits, the newly formed group must work together to escape certain death and dismemberment in this spooky Halloween themed adventure. Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! You can follow the show on Twitter and Instagram . UPDATE – Dear future listeners! Thanks for finding this episode, what is the future like? Flying cars?! Anyways, it is amazing to see how far we have come from recording this episode. Here are some helpful links to help you get into the world of Drunks and Dragons! Somewhat official map by – HwaetWeGaerdena Group picture! by – (the amazing) Azad Injejikian A Wiki of helpful info – Maintained by a lot of folks, but a big thanks to Steph Kingston and Mr. Red. Be careful of spoilers… Patreon – Our Patreon with exclusive content. Probably won’t matter for you for many episodes but, who knows?! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12310,7 +12356,7 @@
         "Tim Lanning"
       ],
       "topics": [
-        "begins"
+        "campaign"
       ]
     }
   ]
@@ -12959,47 +13005,47 @@
 - 2013-09-23 — Episode 47 – A Flying House — speakers: Flying House Hello
 - 2013-09-16 — Episode 46 – Troll Toll Part 2 — speakers: Troll Toll
 - 2013-09-09 — Episode 45 – Troll Toll — speakers: Troll Toll
-- 2013-09-02 — The Sins of the Fathers — speakers: crazy people
-- 2013-08-26 — The Raging Storm
-- 2013-08-19 — Mordenkrad Time
-- 2013-08-13 — Salty Sea Wench
-- 2013-08-05 — Requiem with the Dragon Hunter
-- 2013-07-29 — Settling up with the Darkblades
-- 2013-07-22 — Smash and Grab
-- 2013-07-15 — Mastwick Chronicles — speakers: Mastwick Chronicles Hello
-- 2013-07-08 — No Rest for the Wicked — speakers: No Rest, Wicked Hello
-- 2013-07-01 — A Flight of Futility — speakers: Futility Hello
-- 2013-06-24 — Teamwork, the Deadliest Weapon — speakers: Deadliest Weapon Hello
-- 2013-06-17 — What Rhymes with Crag Mon? — speakers: Crag Mon
-- 2013-06-09 — I HATE GNOLLS
-- 2013-06-03 — Fond Farewells
-- 2013-05-25 — A Sly Flourish
-- 2013-05-20 — A Disproportionate Response
-- 2013-05-13 — Spooky, Crazy Mystery Hour — speakers: Crazy Mystery Hour
-- 2013-05-06 — Painful Memories — speakers: Dragons gang
-- 2013-04-29 — A Test of Friendship
-- 2013-04-22 — Acid Trip
-- 2013-04-15 — Maps and Mystery
-- 2013-04-08 — The Beasts in the Streets — speakers: Streets Since
-- 2013-04-01 — A Hysterical Dragonborn — speakers: Hysterical Dragonborn Welcome
-- 2013-03-25 — Family Dinner
-- 2013-03-18 — Gladiator Games — speakers: Gladiator Games After
-- 2013-03-12 — Sibling Rivalry
-- 2013-03-04 — Canine Justice
-- 2013-02-25 — Welcome to Caer!
-- 2013-02-18 — A Legend from the Depths
-- 2013-02-12 — A Pirate’s Life for Me
-- 2013-02-04 — Dreams of Dragons — speakers: Dragons Imagine
-- 2013-01-28 — A Dwarf, Dragonborn and a Githyanki Walk into a Bar…
-- 2013-01-21 — Not Quite Through the Woods — speakers: Not Quite Through
-- 2013-01-13 — An Intense Headache
-- 2013-01-07 — The Long Hallway
-- 2012-12-30 — Thokas Takes a Header — speakers: Thokas Takes
-- 2012-12-23 — Robot No Feel Love? — speakers: Robot No Feel Love
-- 2012-12-17 — The Next Level
-- 2012-12-10 — The Return of the Eight Legged Freaks — speakers: Eight Legged Freaks Hello
-- 2012-12-04 — A Brief Respite — speakers: Brief Respite Hello Adventurers
-- 2012-11-27 — Two Problems, One Dreadwing — speakers: Two Problems, One Dreadwing Greetings Adventurers, American Thanksgiving
-- 2012-11-20 — Eight Legged Freaks — speakers: Eight Legged Freaks Greetings
-- 2012-11-13 — Slab Number Five — speakers: Tum Darkblade, Tim Lanning
-- 2012-11-13 — So it Begins! — speakers: Tum Darkblade, Tim Lanning
+- 2013-09-02 — The Sins of the Fathers - Campaign 1: Episode 44 — speakers: crazy people
+- 2013-08-26 — The Raging Storm - Campaign 1: Episode 43
+- 2013-08-19 — Mordenkrad Time - Campaign 1: Episode 42
+- 2013-08-13 — Salty Sea Wench - Campaign 1: Episode 41
+- 2013-08-05 — Requiem with the Dragon Hunter - Campaign 1: Episode 40
+- 2013-07-29 — Settling up with the Darkblades - Campaign 1: Episode 39
+- 2013-07-22 — Smash and Grab - Campaign 1: Episode 38
+- 2013-07-15 — Mastwick Chronicles - Campaign 1: Episode 37 — speakers: Mastwick Chronicles Campaign
+- 2013-07-08 — No Rest for the Wicked - Campaign 1: Episode 36 — speakers: No Rest
+- 2013-07-01 — A Flight of Futility - Campaign 1: Episode 35
+- 2013-06-24 — Teamwork, the Deadliest Weapon - Campaign 1: Episode 34 — speakers: Deadliest Weapon
+- 2013-06-17 — What Rhymes with Crag Mon? - Campaign 1: Episode 33 — speakers: Crag Mon
+- 2013-06-09 — I HATE GNOLLS - Campaign 1: Episode 32
+- 2013-06-03 — Fond Farewells - Campaign 1: Episode 31
+- 2013-05-25 — A Sly Flourish - Campaign 1: Episode 30
+- 2013-05-20 — A Disproportionate Response - Campaign 1: Episode 29 — speakers: Disproportionate Response
+- 2013-05-13 — Spooky, Crazy Mystery Hour - Campaign 1: Episode 28 — speakers: Crazy Mystery Hour
+- 2013-05-06 — Painful Memories - Campaign 1: Episode 27 — speakers: Dragons gang
+- 2013-04-29 — A Test of Friendship - Campaign 1: Episode 26
+- 2013-04-22 — Acid Trip - Campaign 1: Episode 25 — speakers: Acid Trip
+- 2013-04-15 — Maps and Mystery - Campaign 1: Episode 24
+- 2013-04-08 — The Beasts in the Streets - Campaign 1: Episode 23
+- 2013-04-01 — A Hysterical Dragonborn - Campaign 1: Episode 22 — speakers: Hysterical Dragonborn
+- 2013-03-25 — Family Dinner - Campaign 1: Episode 21 — speakers: Family Dinner
+- 2013-03-18 — Gladiator Games - Campaign 1: Episode 20 — speakers: Gladiator Games
+- 2013-03-12 — Sibling Rivalry - Campaign 1: Episode 19
+- 2013-03-04 — Canine Justice - Campaign 1: Episode 18 — speakers: Canine Justice
+- 2013-02-25 — Welcome to Caer! - Campaign 1: Episode 17
+- 2013-02-18 — A Legend from the Depths - Campaign 1: Episode 16
+- 2013-02-12 — A Pirate’s Life for Me - Campaign 1: Episode 15
+- 2013-02-04 — Dreams of Dragons - Campaign 1: Episode 14
+- 2013-01-28 — A Dwarf, Dragonborn and a Githyanki Walk into a Bar… - Campaign 1: Episode 13
+- 2013-01-21 — Not Quite Through the Woods - Campaign 1: Episode 12 — speakers: Not Quite Through
+- 2013-01-13 — An Intense Headache - Campaign 1: Episode 11
+- 2013-01-07 — The Long Hallway - Campaign 1: Episode 10
+- 2012-12-30 — Thokas Takes a Header - Campaign 1: Episode 9 — speakers: Thokas Takes
+- 2012-12-23 — Robot No Feel Love? - Campaign 1: Episode 8 — speakers: Robot No Feel Love
+- 2012-12-17 — The Next Level - Campaign 1: Episode 7
+- 2012-12-10 — The Return of the Eight Legged Freaks - Campaign 1: Episode 6 — speakers: Eight Legged Freaks
+- 2012-12-04 — A Brief Respite - Campaign 1: Episode 5 — speakers: Brief Respite, Hello Adventurers
+- 2012-11-27 — Two Problems, One Dreadwing - Campaign 1: Episode 4 — speakers: Two Problems, One Dreadwing, Greetings Adventurers, American Thanksgiving
+- 2012-11-20 — Eight Legged Freaks - Campaign 1: Episode 3 — speakers: Eight Legged Freaks, Greetings Adventurers
+- 2012-11-13 — Slab Number Five - Campaign 1: Episode 2 — speakers: Tum Darkblade, Tim Lanning
+- 2012-11-13 — So it Begins! - Campaign 1: Episode 1 — speakers: Tum Darkblade, Tim Lanning

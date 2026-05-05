@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-05-04T22:16:27+00:00`
-- checked_at: `2026-05-04T22:16:27+00:00`
-- etag: `"djEuMi4wOjE3Nzc5MzE3NzE3MjU="`
+- fetched_at: `2026-05-05T19:53:29+00:00`
+- checked_at: `2026-05-05T19:53:29+00:00`
+- etag: `"djEuMi4wOjE3NzgwMDc2Mzk0MzQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-05-04T22:16:27+00:00",
+  "fetched_at": "2026-05-05T19:53:29+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "11a3eeda4a021adf29d8dd0ec97f5c09189347c3",
+      "title": "Action Surge Episode 53",
+      "published_at": "2026-05-05T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-53",
+      "description": "Kel with HIS spoons. This episode of Action Surge is a little different, but before you find out why, please enjoy a very long-winded explanation about why Ben got pizza sauce on his top. Turns out we got REALLY unlucky (or very lucky, if you love narratively satisfying storytelling) in our d4 rolls for the trial. But that's pretty par for the course by now really. Find out which dark and twisted tomes Harry pulled our horrific opponents from, how difficult this group (still) is to balance, and how the party feel about THAT near death. Blood magic, it'll get ya. Let's also gush (eugh) a little bit over our new spells too, and discuss the Deck of Many Friends as it currently stands. Shout out to Ben for hijacking Aoife's joke. A hijoke, if you will. -- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/69ee77d2aa3f81e2b906a82e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93971626",
+      "itunes_duration": "48:55",
+      "speakers": [
+        "Action Surge",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "25350b5b262588cf1b5d042df38f303f45e8a29e",
       "title": "Ep. 53 Boorish Rebuke",
@@ -2767,6 +2792,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-05 — Action Surge Episode 53 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-04-28 — Ep. 53 Boorish Rebuke — speakers: Boorish Rebuke Some, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-04-21 — Action Surge Episode 52 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-04-14 — Ep. 52 The Sword of The Flood — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
