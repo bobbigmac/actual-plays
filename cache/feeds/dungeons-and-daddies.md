@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-05-05T08:30:01+00:00`
-- checked_at: `2026-05-05T08:30:01+00:00`
-- etag: `"djEuMi4wOjE3Nzc5NjQyNjE4OTk="`
+- fetched_at: `2026-05-05T16:57:04+00:00`
+- checked_at: `2026-05-05T16:57:04+00:00`
+- etag: `"djEuMi4wOjE3Nzc5OTY4MzkzMzA="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-05-05T08:30:01+00:00",
+  "fetched_at": "2026-05-05T16:57:04+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -32,6 +32,29 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "b6c804028024d9f6a4ee72f62e00320f5f518322",
+      "title": "S4 Ep. 7 - Vent Horizon",
+      "published_at": "2026-05-05T16:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "Alexa order the latest Hardy boys please my credit card number is 4242 5743 3089 7611 exp 02/20 ccv 942 This episode contains Profanity, Violence, and Sexual Content. Listen to all of the Dungeons and Daddies intro songs [at the free membership tier and above on Patreon] with Now Dads What I Call Music ! Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1777963166791-8f486953-3e24-4180-9bfc-09af28e72a9a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/69f994e59d4faa15061c8e88/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "149419738",
+      "itunes_duration": "1:43:17",
+      "speakers": [
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "vent",
+        "horizon"
+      ]
+    },
     {
       "key": "dd2ed6a1e70ef99a84dfa27decf34b3100904b64",
       "title": "S4 Ep. 6 - Finding Doory",
@@ -4650,6 +4673,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-05 — S4 Ep. 7 - Vent Horizon — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-04-21 — S4 Ep. 6 - Finding Doory — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-04-07 — S4 Ep. 5 - Hope Bloats — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-03-24 — S4 Ep. 4 - The Immortal Scrap Wreckage Yard — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos

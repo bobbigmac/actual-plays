@@ -2,10 +2,10 @@
 
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
-- fetched_at: `2026-04-24T03:53:34+00:00`
-- checked_at: `2026-04-24T03:53:34+00:00`
+- fetched_at: `2026-05-05T16:57:04+00:00`
+- checked_at: `2026-05-05T16:57:04+00:00`
 - etag: `W/"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ"`
-- last_modified: `Thu, 23 Apr 2026 22:05:44 GMT`
+- last_modified: `Tue, 05 May 2026 16:46:50 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss",
   "description": "..🚂🚃🚋🚃🚃🚋🚋🚋🚃...... A train pulls into the station. A circus raises its tents. Welcome, one and all, to NEVERNOWHERE— a place where your memories are currency, every dream is reality, and crime really does pay. LegendLark is a narrative comedy TTRPG podcast. Updates every 2nd Thursday! www.legendlark.com",
   "image_url": "https://megaphone.imgix.net/podcasts/38353ab8-2938-11f1-b716-1b70c557bb65/image/5002d6217f82605e3208708900cb0514.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-24T03:53:34+00:00",
+  "fetched_at": "2026-05-05T16:57:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -54,7 +54,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7633593995.mp3?updated=1775766034",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3210",
+      "itunes_duration": "3225",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -75,7 +75,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5863428508.mp3?updated=1775937746",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4308",
+      "itunes_duration": "4323",
       "speakers": [
         "Cutely Casing",
         "Itty Bitty City Oak"
@@ -97,7 +97,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6782135764.mp3?updated=1775937390",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1287",
+      "itunes_duration": "1302",
       "speakers": [],
       "topics": [
         "guardians",
@@ -115,7 +115,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6916882042.mp3?updated=1775937421",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3001",
+      "itunes_duration": "3016",
       "speakers": [
         "Same Fresh"
       ],
@@ -134,7 +134,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4455327381.mp3?updated=1775937394",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4453",
+      "itunes_duration": "4468",
       "speakers": [],
       "topics": [
         "nevernowhere"
@@ -150,7 +150,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8206579822.mp3?updated=1775937221",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1365",
+      "itunes_duration": "1380",
       "speakers": [
         "Bluebird Report"
       ],
@@ -170,7 +170,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7071965270.mp3?updated=1775937227",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4199",
+      "itunes_duration": "4214",
       "speakers": [
         "no home",
         "no hope"
@@ -191,7 +191,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1304497476.mp3?updated=1775937213",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3530",
+      "itunes_duration": "3545",
       "speakers": [
         "Repercussions Big"
       ],
@@ -211,7 +211,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8304370429.mp3?updated=1775937100",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3396",
+      "itunes_duration": "3411",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -229,7 +229,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9412436261.mp3?updated=1775937034",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3763",
+      "itunes_duration": "3778",
       "speakers": [
         "Stolen Derisetum"
       ],
@@ -249,7 +249,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4599336697.mp3?updated=1775936889",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3227",
+      "itunes_duration": "3242",
       "speakers": [
         "Brightwater Collective"
       ],
@@ -269,7 +269,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6625047059.mp3?updated=1775936933",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4739",
+      "itunes_duration": "4754",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -288,7 +288,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2970442886.mp3?updated=1775936837",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3860",
+      "itunes_duration": "3875",
       "speakers": [
         "Ratatoussy After"
       ],
@@ -307,7 +307,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4137524600.mp3?updated=1775936657",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3579",
+      "itunes_duration": "3594",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -325,7 +325,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6165189089.mp3?updated=1775936578",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4007",
+      "itunes_duration": "4022",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -343,7 +343,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5391811811.mp3?updated=1775936428",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3066",
+      "itunes_duration": "3081",
       "speakers": [
         "Sun Queen"
       ],
@@ -363,7 +363,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3563140804.mp3?updated=1775774050",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3276",
+      "itunes_duration": "3291",
       "speakers": [
         "Complicates Pepper"
       ],
@@ -384,7 +384,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2158436416.mp3?updated=1775772986",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3485",
+      "itunes_duration": "3500",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -402,7 +402,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8391300301.mp3?updated=1775772704",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3383",
+      "itunes_duration": "3398",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -420,7 +420,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2371315769.mp3?updated=1775772470",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3169",
+      "itunes_duration": "3184",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -439,7 +439,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9872703604.mp3?updated=1775765949",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3845",
+      "itunes_duration": "3860",
       "speakers": [
         "All Aboard"
       ],
@@ -458,7 +458,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6719111933.mp3?updated=1775765992",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7237",
+      "itunes_duration": "7252",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -476,7 +476,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4091489684.mp3?updated=1775937484",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1429",
+      "itunes_duration": "1444",
       "speakers": [],
       "topics": [
         "blade",
@@ -493,7 +493,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9771537774.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5061",
+      "itunes_duration": "5091",
       "speakers": [],
       "topics": [
         "dames",
@@ -510,7 +510,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5745510082.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4963",
+      "itunes_duration": "4993",
       "speakers": [],
       "topics": [
         "dames",
@@ -529,7 +529,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8699864342.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1425",
+      "itunes_duration": "1455",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -546,7 +546,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5191984512.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6317",
+      "itunes_duration": "6347",
       "speakers": [],
       "topics": [
         "dames",
@@ -565,7 +565,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8229979159.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3961",
+      "itunes_duration": "3991",
       "speakers": [],
       "topics": [
         "dames",
@@ -584,7 +584,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6957691824.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3957",
+      "itunes_duration": "3987",
       "speakers": [],
       "topics": [
         "dames",
@@ -603,7 +603,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2228151566.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5131",
+      "itunes_duration": "5161",
       "speakers": [],
       "topics": [
         "dames",
@@ -622,7 +622,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1714232079.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "8753",
+      "itunes_duration": "8783",
       "speakers": [],
       "topics": [
         "dames",
@@ -641,7 +641,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1792753431.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3280",
+      "itunes_duration": "3310",
       "speakers": [],
       "topics": [
         "dames",
@@ -660,7 +660,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2122101956.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3820",
+      "itunes_duration": "3850",
       "speakers": [],
       "topics": [
         "dames",
@@ -679,7 +679,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6341216835.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "29",
+      "itunes_duration": "59",
       "speakers": [],
       "topics": [
         "legendlark",
@@ -696,7 +696,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2133665451.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3532",
+      "itunes_duration": "3562",
       "speakers": [],
       "topics": [
         "dames",
@@ -715,7 +715,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3525793746.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5116",
+      "itunes_duration": "5146",
       "speakers": [],
       "topics": [
         "dames",
@@ -734,7 +734,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1008579714.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4158",
+      "itunes_duration": "4188",
       "speakers": [],
       "topics": [
         "dames",
@@ -753,7 +753,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6600092057.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3236",
+      "itunes_duration": "3266",
       "speakers": [
         "Strong Selni Wolf"
       ],
@@ -774,7 +774,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6383852830.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3452",
+      "itunes_duration": "3482",
       "speakers": [],
       "topics": [
         "dames",
@@ -793,7 +793,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6678656064.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7173",
+      "itunes_duration": "7203",
       "speakers": [],
       "topics": [
         "dames",
@@ -812,7 +812,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6291987341.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5046",
+      "itunes_duration": "5076",
       "speakers": [],
       "topics": [
         "dames",
@@ -831,7 +831,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5636734378.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4530",
+      "itunes_duration": "4560",
       "speakers": [],
       "topics": [
         "dames",
@@ -850,7 +850,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7373974047.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3864",
+      "itunes_duration": "3894",
       "speakers": [],
       "topics": [
         "dames",
@@ -869,7 +869,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1812190874.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4048",
+      "itunes_duration": "4078",
       "speakers": [],
       "topics": [
         "dames",
@@ -888,7 +888,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1445614853.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3760",
+      "itunes_duration": "3790",
       "speakers": [],
       "topics": [
         "dames",
@@ -907,7 +907,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6409930988.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3524",
+      "itunes_duration": "3554",
       "speakers": [
         "giant women"
       ],
@@ -928,7 +928,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7712436951.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3861",
+      "itunes_duration": "3891",
       "speakers": [],
       "topics": [
         "dames",
@@ -947,7 +947,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9679430074.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5060",
+      "itunes_duration": "5090",
       "speakers": [],
       "topics": [
         "dames",
@@ -966,7 +966,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8637417199.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4151",
+      "itunes_duration": "4181",
       "speakers": [],
       "topics": [
         "dames",
@@ -985,7 +985,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9383871400.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4654",
+      "itunes_duration": "4684",
       "speakers": [],
       "topics": [
         "dames",
@@ -1004,7 +1004,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3698849195.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3555",
+      "itunes_duration": "3585",
       "speakers": [],
       "topics": [
         "dames",
@@ -1023,7 +1023,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3423771597.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3316",
+      "itunes_duration": "3346",
       "speakers": [
         "Lucky Lamia"
       ],
@@ -1044,7 +1044,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8399928597.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3403",
+      "itunes_duration": "3433",
       "speakers": [],
       "topics": [
         "dames",
@@ -1063,7 +1063,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8103692273.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4856",
+      "itunes_duration": "4886",
       "speakers": [
         "New Estra"
       ],
@@ -1084,7 +1084,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2111081013.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5042",
+      "itunes_duration": "5072",
       "speakers": [],
       "topics": [
         "dames",
@@ -1103,7 +1103,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9771370046.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3865",
+      "itunes_duration": "3895",
       "speakers": [],
       "topics": [
         "dames",
@@ -1122,7 +1122,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9237431435.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3905",
+      "itunes_duration": "3935",
       "speakers": [],
       "topics": [
         "dames",
@@ -1141,7 +1141,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1441205344.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4010",
+      "itunes_duration": "4040",
       "speakers": [],
       "topics": [
         "dames",
@@ -1160,7 +1160,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7677507812.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3864",
+      "itunes_duration": "3894",
       "speakers": [],
       "topics": [
         "dames",
@@ -1177,7 +1177,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7357653397.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1861",
+      "itunes_duration": "1891",
       "speakers": [
         "Dragons Arc"
       ],
@@ -1199,7 +1199,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1795865482.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3566",
+      "itunes_duration": "3596",
       "speakers": [],
       "topics": [
         "hrose",
@@ -1217,7 +1217,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8603572530.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3249",
+      "itunes_duration": "3279",
       "speakers": [],
       "topics": [
         "hrose",
@@ -1237,7 +1237,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5239916777.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3878",
+      "itunes_duration": "3908",
       "speakers": [],
       "topics": [
         "hrose",
@@ -1257,7 +1257,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1425577990.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4016",
+      "itunes_duration": "4046",
       "speakers": [],
       "topics": [
         "hrose",
@@ -1276,7 +1276,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3564347194.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4071",
+      "itunes_duration": "4101",
       "speakers": [],
       "topics": [
         "hrose",
@@ -1295,7 +1295,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4636846039.mp3?updated=1774546203",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5103",
+      "itunes_duration": "5133",
       "speakers": [],
       "topics": [
         "hrose",
@@ -1313,7 +1313,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5046493871.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3620",
+      "itunes_duration": "3650",
       "speakers": [],
       "topics": [
         "hrose",
@@ -1331,7 +1331,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7334472248.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3375",
+      "itunes_duration": "3405",
       "speakers": [],
       "topics": [
         "hrose",
@@ -1350,7 +1350,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8595331732.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1980",
+      "itunes_duration": "2010",
       "speakers": [],
       "topics": [
         "hrose",
@@ -1369,7 +1369,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5045559627.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5520",
+      "itunes_duration": "5550",
       "speakers": [],
       "topics": [
         "dames",
@@ -1388,7 +1388,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8302319611.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2868",
+      "itunes_duration": "2898",
       "speakers": [],
       "topics": [
         "dames",
@@ -1407,7 +1407,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8582343267.mp3?updated=1774546121",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3132",
+      "itunes_duration": "3162",
       "speakers": [],
       "topics": [
         "dames",
@@ -1426,7 +1426,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4075222703.mp3?updated=1774546191",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3135",
+      "itunes_duration": "3165",
       "speakers": [],
       "topics": [
         "dames",
@@ -1445,7 +1445,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9506435665.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3634",
+      "itunes_duration": "3664",
       "speakers": [],
       "topics": [
         "dames",
@@ -1464,7 +1464,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9596546265.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3828",
+      "itunes_duration": "3858",
       "speakers": [
         "Strong Selni"
       ],
@@ -1485,7 +1485,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2115134451.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2658",
+      "itunes_duration": "2688",
       "speakers": [
         "Swan Rockson"
       ],
@@ -1506,7 +1506,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3429631863.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3394",
+      "itunes_duration": "3424",
       "speakers": [],
       "topics": [
         "dames",
@@ -1525,7 +1525,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9861963784.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3894",
+      "itunes_duration": "3924",
       "speakers": [],
       "topics": [
         "dames",
@@ -1544,7 +1544,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9842754141.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3351",
+      "itunes_duration": "3381",
       "speakers": [],
       "topics": [
         "dames",
@@ -1563,7 +1563,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7248293120.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3737",
+      "itunes_duration": "3767",
       "speakers": [],
       "topics": [
         "dames",
@@ -1582,7 +1582,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3393383024.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3637",
+      "itunes_duration": "3667",
       "speakers": [
         "Red Tier"
       ],
@@ -1603,7 +1603,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9563495871.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3412",
+      "itunes_duration": "3442",
       "speakers": [],
       "topics": [
         "dames",
@@ -1622,7 +1622,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9753277835.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3386",
+      "itunes_duration": "3416",
       "speakers": [],
       "topics": [
         "dames",
@@ -1641,7 +1641,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4411768506.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3838",
+      "itunes_duration": "3868",
       "speakers": [],
       "topics": [
         "dames",
@@ -1660,7 +1660,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1188773435.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4310",
+      "itunes_duration": "4340",
       "speakers": [],
       "topics": [
         "dames",
@@ -1679,7 +1679,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9403192883.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3301",
+      "itunes_duration": "3331",
       "speakers": [],
       "topics": [
         "dames",
@@ -1698,7 +1698,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2644808666.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3431",
+      "itunes_duration": "3461",
       "speakers": [],
       "topics": [
         "dames",
@@ -1717,7 +1717,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5202684215.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4790",
+      "itunes_duration": "4820",
       "speakers": [],
       "topics": [
         "dames",
@@ -1736,7 +1736,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1932360822.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3785",
+      "itunes_duration": "3815",
       "speakers": [],
       "topics": [
         "dames",
@@ -1755,7 +1755,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4995602925.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3672",
+      "itunes_duration": "3702",
       "speakers": [],
       "topics": [
         "dames",
@@ -1774,7 +1774,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5150474053.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3851",
+      "itunes_duration": "3881",
       "speakers": [],
       "topics": [
         "dames",
@@ -1791,7 +1791,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9604960468.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1496",
+      "itunes_duration": "1526",
       "speakers": [
         "Dragons Arc",
         "Ballad Welcome",
@@ -1815,7 +1815,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4868044469.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6129",
+      "itunes_duration": "6159",
       "speakers": [],
       "topics": [
         "dames",
@@ -1834,7 +1834,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2499431176.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3733",
+      "itunes_duration": "3763",
       "speakers": [],
       "topics": [
         "dames",
@@ -1855,7 +1855,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8053381091.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3518",
+      "itunes_duration": "3548",
       "speakers": [
         "Dream Dames Drop Dragons",
         "Distance Dinterlude"
@@ -1879,7 +1879,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2642687836.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2963",
+      "itunes_duration": "2993",
       "speakers": [
         "Andrew Palmer"
       ],
@@ -1902,7 +1902,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8851539547.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2925",
+      "itunes_duration": "2955",
       "speakers": [],
       "topics": [
         "dames",
@@ -1923,7 +1923,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5604835757.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3302",
+      "itunes_duration": "3332",
       "speakers": [
         "Andrew Palmer"
       ],
@@ -1946,7 +1946,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8308435665.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5105",
+      "itunes_duration": "5135",
       "speakers": [
         "Conowitch Corbin"
       ],
@@ -1969,7 +1969,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3661781669.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4447",
+      "itunes_duration": "4477",
       "speakers": [
         "Conowitch Corbin"
       ],
@@ -1992,7 +1992,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6049856991.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5426",
+      "itunes_duration": "5456",
       "speakers": [
         "Lysa Penrose"
       ],
@@ -2015,7 +2015,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9658431477.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4089",
+      "itunes_duration": "4119",
       "speakers": [
         "Lysa Penrose Slake"
       ],
@@ -2038,7 +2038,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2097064384.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5024",
+      "itunes_duration": "5054",
       "speakers": [
         "Noel Shiri Corbin"
       ],
@@ -2061,7 +2061,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4856754544.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3871",
+      "itunes_duration": "3901",
       "speakers": [
         "Noel Shiri Corbin"
       ],
@@ -2084,7 +2084,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7369311631.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4455",
+      "itunes_duration": "4485",
       "speakers": [
         "TK Johnson Corbin"
       ],
@@ -2106,7 +2106,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5569919054.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4926",
+      "itunes_duration": "4956",
       "speakers": [
         "TK Johnson Corbin"
       ],
@@ -2128,7 +2128,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2297143993.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4864",
+      "itunes_duration": "4894",
       "speakers": [
         "Rudy Basso"
       ],
@@ -2151,7 +2151,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6771579087.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4498",
+      "itunes_duration": "4528",
       "speakers": [
         "Rudy Basso Corbin"
       ],
@@ -2174,7 +2174,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7284194674.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6675",
+      "itunes_duration": "6705",
       "speakers": [
         "Seger Corbin"
       ],
@@ -2197,7 +2197,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4679171120.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4416",
+      "itunes_duration": "4446",
       "speakers": [],
       "topics": [
         "dames",
@@ -2216,7 +2216,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3286259405.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2915",
+      "itunes_duration": "2945",
       "speakers": [],
       "topics": [
         "dames",
@@ -2235,7 +2235,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9821543085.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3632",
+      "itunes_duration": "3662",
       "speakers": [],
       "topics": [
         "dames",
@@ -2254,7 +2254,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9110634412.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3985",
+      "itunes_duration": "4015",
       "speakers": [],
       "topics": [
         "dames",
@@ -2273,7 +2273,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9550325273.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4940",
+      "itunes_duration": "4970",
       "speakers": [],
       "topics": [
         "dames",
@@ -2290,7 +2290,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1876520470.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1725",
+      "itunes_duration": "1755",
       "speakers": [
         "Dragons Arc",
         "Recap News"
@@ -2311,7 +2311,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9598880929.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "8659",
+      "itunes_duration": "8689",
       "speakers": [],
       "topics": [
         "dames",
@@ -2328,7 +2328,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4703891090.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4519",
+      "itunes_duration": "4549",
       "speakers": [],
       "topics": [
         "dames",
@@ -2345,7 +2345,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3888881679.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4847",
+      "itunes_duration": "4877",
       "speakers": [],
       "topics": [
         "dames",
@@ -2362,7 +2362,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8729597437.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4016",
+      "itunes_duration": "4046",
       "speakers": [],
       "topics": [
         "dames",
@@ -2379,7 +2379,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5044278925.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4396",
+      "itunes_duration": "4426",
       "speakers": [],
       "topics": [
         "dames",
@@ -2396,7 +2396,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3590744123.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3543",
+      "itunes_duration": "3573",
       "speakers": [],
       "topics": [
         "dames",
@@ -2413,7 +2413,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8390589769.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2876",
+      "itunes_duration": "2906",
       "speakers": [],
       "topics": [
         "dames",
@@ -2430,7 +2430,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9947177566.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3110",
+      "itunes_duration": "3140",
       "speakers": [],
       "topics": [
         "dames",
@@ -2447,7 +2447,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8025284117.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3133",
+      "itunes_duration": "3163",
       "speakers": [
         "Dashing Dawson"
       ],
@@ -2466,7 +2466,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8416109258.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3672",
+      "itunes_duration": "3702",
       "speakers": [],
       "topics": [
         "dames",
@@ -2483,7 +2483,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6383839541.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3234",
+      "itunes_duration": "3264",
       "speakers": [
         "subtle subterfuge"
       ],
@@ -2502,7 +2502,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9634776293.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3230",
+      "itunes_duration": "3260",
       "speakers": [],
       "topics": [
         "dames",
@@ -2519,7 +2519,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2382426158.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4828",
+      "itunes_duration": "4858",
       "speakers": [],
       "topics": [
         "dames",
@@ -2536,7 +2536,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2026249012.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3087",
+      "itunes_duration": "3117",
       "speakers": [],
       "topics": [
         "dames",
@@ -2553,7 +2553,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1758770813.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4769",
+      "itunes_duration": "4799",
       "speakers": [],
       "topics": [
         "dames",
@@ -2570,7 +2570,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4447910014.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3772",
+      "itunes_duration": "3802",
       "speakers": [
         "Stan Ferguson"
       ],
@@ -2591,7 +2591,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2153914666.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4210",
+      "itunes_duration": "4240",
       "speakers": [],
       "topics": [
         "dames",
@@ -2608,7 +2608,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4939179383.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3804",
+      "itunes_duration": "3834",
       "speakers": [],
       "topics": [
         "dames",
@@ -2625,7 +2625,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2036167191.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "682",
+      "itunes_duration": "712",
       "speakers": [
         "Dragons Arc",
         "Fragmentary Passage Welcome",
@@ -2649,7 +2649,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3603764509.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1451",
+      "itunes_duration": "1481",
       "speakers": [
         "Dragons Arc",
         "Spears Welcome",
@@ -2673,7 +2673,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8421375906.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3261",
+      "itunes_duration": "3291",
       "speakers": [
         "Fragmentary Passage"
       ],
@@ -2694,7 +2694,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9251462385.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4796",
+      "itunes_duration": "4826",
       "speakers": [
         "Fragmentary Passage"
       ],
@@ -2715,7 +2715,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7093762899.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4436",
+      "itunes_duration": "4466",
       "speakers": [
         "old friends"
       ],
@@ -2736,7 +2736,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1109828347.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4419",
+      "itunes_duration": "4449",
       "speakers": [],
       "topics": [
         "dames",
@@ -2755,7 +2755,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2228614848.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2955",
+      "itunes_duration": "2985",
       "speakers": [],
       "topics": [
         "dames",
@@ -2772,7 +2772,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8011213928.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4015",
+      "itunes_duration": "4045",
       "speakers": [],
       "topics": [
         "dames",
@@ -2791,7 +2791,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7118106474.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3922",
+      "itunes_duration": "3952",
       "speakers": [],
       "topics": [
         "dames",
@@ -2810,7 +2810,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2390314277.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3493",
+      "itunes_duration": "3523",
       "speakers": [],
       "topics": [
         "dames",
@@ -2829,7 +2829,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4606813423.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3543",
+      "itunes_duration": "3573",
       "speakers": [],
       "topics": [
         "dames",
@@ -2848,7 +2848,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2893224380.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4113",
+      "itunes_duration": "4143",
       "speakers": [],
       "topics": [
         "dames",
@@ -2867,7 +2867,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9778507817.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4261",
+      "itunes_duration": "4291",
       "speakers": [],
       "topics": [
         "dames",
@@ -2886,7 +2886,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6210027649.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3565",
+      "itunes_duration": "3595",
       "speakers": [],
       "topics": [
         "dames",
@@ -2905,7 +2905,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6873009431.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3898",
+      "itunes_duration": "3928",
       "speakers": [
         "Dashing Diversion",
         "Dirk Helmshire"
@@ -2927,7 +2927,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8665476319.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3526",
+      "itunes_duration": "3556",
       "speakers": [
         "Queen Tenevine"
       ],
@@ -2948,7 +2948,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8835402346.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4074",
+      "itunes_duration": "4104",
       "speakers": [],
       "topics": [
         "dames",
@@ -2967,7 +2967,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8758251167.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5039",
+      "itunes_duration": "5069",
       "speakers": [
         "Golgari Swarm"
       ],
@@ -2988,7 +2988,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7569616763.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4326",
+      "itunes_duration": "4356",
       "speakers": [
         "Dodson Goodson"
       ],
@@ -3009,7 +3009,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2844318977.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3895",
+      "itunes_duration": "3925",
       "speakers": [],
       "topics": [
         "dames",
@@ -3028,7 +3028,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4237565485.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4021",
+      "itunes_duration": "4051",
       "speakers": [],
       "topics": [
         "dames",
@@ -3047,7 +3047,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3871642806.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4010",
+      "itunes_duration": "4040",
       "speakers": [],
       "topics": [
         "dames",
@@ -3066,7 +3066,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9416139334.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3889",
+      "itunes_duration": "3919",
       "speakers": [],
       "topics": [
         "dames",
@@ -3085,7 +3085,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5292556935.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3874",
+      "itunes_duration": "3904",
       "speakers": [],
       "topics": [
         "dames",
@@ -3104,7 +3104,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4522406411.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3290",
+      "itunes_duration": "3320",
       "speakers": [],
       "topics": [
         "dames",
@@ -3123,7 +3123,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8759211836.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3623",
+      "itunes_duration": "3653",
       "speakers": [],
       "topics": [
         "dames",
@@ -3142,7 +3142,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5276807616.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3688",
+      "itunes_duration": "3718",
       "speakers": [
         "Hannah Culbert"
       ],
@@ -3161,7 +3161,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8925966818.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1171",
+      "itunes_duration": "1201",
       "speakers": [
         "Dragons Arc",
         "Recap News"
@@ -3184,7 +3184,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1941113689.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2825",
+      "itunes_duration": "2855",
       "speakers": [
         "Meet Slake"
       ],
@@ -3205,7 +3205,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1699914347.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3728",
+      "itunes_duration": "3758",
       "speakers": [
         "Final Chapter Prologue"
       ],
@@ -3226,7 +3226,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8419447312.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3997",
+      "itunes_duration": "4027",
       "speakers": [
         "Final Chapter Prologue"
       ],
@@ -3247,7 +3247,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5511560263.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5208",
+      "itunes_duration": "5238",
       "speakers": [
         "Rudy Basso"
       ],
@@ -3270,7 +3270,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7329788108.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3459",
+      "itunes_duration": "3489",
       "speakers": [
         "Rudy Basso"
       ],
@@ -3293,7 +3293,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7974332595.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3648",
+      "itunes_duration": "3678",
       "speakers": [],
       "topics": [
         "dames",
@@ -3312,7 +3312,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8276523744.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3835",
+      "itunes_duration": "3865",
       "speakers": [
         "Blue Palace"
       ],
@@ -3333,7 +3333,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8196497883.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3370",
+      "itunes_duration": "3400",
       "speakers": [],
       "topics": [
         "dames",
@@ -3352,7 +3352,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8547379645.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3438",
+      "itunes_duration": "3468",
       "speakers": [],
       "topics": [
         "dames",
@@ -3371,7 +3371,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3129261768.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3475",
+      "itunes_duration": "3505",
       "speakers": [
         "Gray Manacle"
       ],
@@ -3392,7 +3392,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6144624475.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4186",
+      "itunes_duration": "4216",
       "speakers": [
         "Rudy Basso Time"
       ],
@@ -3415,7 +3415,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1813291517.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3871",
+      "itunes_duration": "3901",
       "speakers": [
         "Rudy Basso Corbin"
       ],
@@ -3438,7 +3438,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2832687760.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4954",
+      "itunes_duration": "4984",
       "speakers": [],
       "topics": [
         "dames",
@@ -3457,7 +3457,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8865161360.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1232",
+      "itunes_duration": "1262",
       "speakers": [
         "Lore Vignette"
       ],
@@ -3481,7 +3481,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1961898813.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2262",
+      "itunes_duration": "2292",
       "speakers": [],
       "topics": [
         "dames",
@@ -3498,7 +3498,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2180360754.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1404",
+      "itunes_duration": "1434",
       "speakers": [
         "Dragons Arc",
         "Into Avelis Hello",
@@ -3521,7 +3521,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9502841553.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5073",
+      "itunes_duration": "5103",
       "speakers": [],
       "topics": [
         "dames",
@@ -3539,7 +3539,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8340640787.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3637",
+      "itunes_duration": "3667",
       "speakers": [],
       "topics": [
         "dames",
@@ -3557,7 +3557,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7180076429.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3622",
+      "itunes_duration": "3652",
       "speakers": [],
       "topics": [
         "dames",
@@ -3575,7 +3575,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7467244660.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4328",
+      "itunes_duration": "4358",
       "speakers": [],
       "topics": [
         "dames",
@@ -3593,7 +3593,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9890324365.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3328",
+      "itunes_duration": "3358",
       "speakers": [],
       "topics": [
         "dames",
@@ -3611,7 +3611,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4887415425.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3966",
+      "itunes_duration": "3996",
       "speakers": [],
       "topics": [
         "dames",
@@ -3629,7 +3629,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7489000153.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4554",
+      "itunes_duration": "4584",
       "speakers": [],
       "topics": [
         "dames",
@@ -3647,7 +3647,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9873525827.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4266",
+      "itunes_duration": "4296",
       "speakers": [],
       "topics": [
         "dames",
@@ -3665,7 +3665,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9358030673.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3951",
+      "itunes_duration": "3981",
       "speakers": [
         "Fang Lak"
       ],
@@ -3685,7 +3685,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7645846551.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4291",
+      "itunes_duration": "4321",
       "speakers": [],
       "topics": [
         "dames",
@@ -3703,7 +3703,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1678345709.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3941",
+      "itunes_duration": "3971",
       "speakers": [],
       "topics": [
         "dames",
@@ -3721,7 +3721,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6019252593.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4076",
+      "itunes_duration": "4106",
       "speakers": [
         "Errol Culbert Fran"
       ],
@@ -3743,7 +3743,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8052569612.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3976",
+      "itunes_duration": "4006",
       "speakers": [
         "Errol Culbert"
       ],
@@ -3765,7 +3765,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6572318467.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4035",
+      "itunes_duration": "4065",
       "speakers": [],
       "topics": [
         "dames",
@@ -3783,7 +3783,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7094951386.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4116",
+      "itunes_duration": "4146",
       "speakers": [],
       "topics": [
         "dames",
@@ -3801,7 +3801,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3017670861.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2518",
+      "itunes_duration": "2548",
       "speakers": [],
       "topics": [
         "dames",
@@ -3818,7 +3818,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2709272443.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1248",
+      "itunes_duration": "1278",
       "speakers": [
         "Dragons Arc",
         "Lights Welcome",
@@ -3842,7 +3842,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3062013239.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "265",
+      "itunes_duration": "295",
       "speakers": [
         "Dragons Promos Wow"
       ],
@@ -3862,7 +3862,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3914643675.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5840",
+      "itunes_duration": "5870",
       "speakers": [],
       "topics": [
         "dames",
@@ -3881,7 +3881,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3567146561.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3419",
+      "itunes_duration": "3449",
       "speakers": [],
       "topics": [
         "dames",
@@ -3900,7 +3900,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8654007710.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3341",
+      "itunes_duration": "3371",
       "speakers": [],
       "topics": [
         "dames",
@@ -3919,7 +3919,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7847225953.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3828",
+      "itunes_duration": "3858",
       "speakers": [],
       "topics": [
         "dames",
@@ -3938,7 +3938,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3007859252.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2937",
+      "itunes_duration": "2967",
       "speakers": [],
       "topics": [
         "dames",
@@ -3957,7 +3957,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3099874396.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3106",
+      "itunes_duration": "3136",
       "speakers": [],
       "topics": [
         "dames",
@@ -3976,7 +3976,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3243448826.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2908",
+      "itunes_duration": "2938",
       "speakers": [],
       "topics": [
         "dames",
@@ -3995,7 +3995,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9804030197.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3147",
+      "itunes_duration": "3177",
       "speakers": [],
       "topics": [
         "dames",
@@ -4014,7 +4014,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3326485197.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4830",
+      "itunes_duration": "4860",
       "speakers": [],
       "topics": [
         "dames",
@@ -4033,7 +4033,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7568289714.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "900",
+      "itunes_duration": "930",
       "speakers": [],
       "topics": [
         "dungeon",
