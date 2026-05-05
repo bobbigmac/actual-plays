@@ -2,9 +2,9 @@
 
 - slug: `aint-slayed-nobody-call-of-cthulhu-actual-play`
 - source: `https://feeds.acast.com/public/shows/632da7cf6d7ffa0012565ffa`
-- fetched_at: `2026-05-05T03:52:46+00:00`
-- checked_at: `2026-05-05T03:52:46+00:00`
-- etag: `"djEuMi4wOjE3Nzc5NDY0NzUyNDI="`
+- fetched_at: `2026-05-05T10:56:12+00:00`
+- checked_at: `2026-05-05T10:56:12+00:00`
+- etag: `"djEuMi4wOjE3Nzc5NzcwMzkzNzY="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.aintslayednobody.com",
   "description": "A Call of Cthulhu Actual Play of Horror, Comedy, and the Weird West",
   "image_url": "https://assets.pippa.io/shows/632da7cf6d7ffa0012565ffa/1770424763930-7baac491-35cc-4c89-9b14-2a85d1740d9d.jpeg",
-  "fetched_at": "2026-05-05T03:52:46+00:00",
+  "fetched_at": "2026-05-05T10:56:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "ttrpg/call-of-cthulhu"
   ],
   "episodes": [
+    {
+      "key": "2d6b8e12aba29b66aa48da05e9ca13e861abd9ca",
+      "title": "The Between 31 - Doors Closing",
+      "published_at": "2026-05-05T10:30:00+00:00",
+      "link": "https://shows.acast.com/aint-slayed-nobody/episodes/the-between-31-doors-closing",
+      "description": "The hunters put together some very strange clues and get a clearer idea of what the Coven is planning. Mr. Quiet takes a deeply questionable approach to research, while Sebastian invites himself into danger. Meanwhile, Hargrave House gets a new neighbor. (Part 31) This series is not suitable for listeners under the age of 18 and may contain material some people find disturbing. CONTENT WARNINGS: buried alive, body horror, profanity, violence Player Characters Jason Cordova as Keeper Scott Dorward as Sebastian Melmoth Josephine McAdam as Moyra Innes Nic Rosenberg as Viola Archer cuppycup as Edward Quiet Production and Creative The Between system by The Gauntlet Editing by cuppycup and Scott Dorward Sound Design and Production by cuppycup Patreon: https://patreon.com/aintslayed Leave a Tip: https://streamlabs.com/pushtheroll/tip Merch: https://shop.pushtheroll.com/ Discord: https://slayed.me/discord Web: https://pushtheroll.com Instagram: https://instagram.com/pushtheroll Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/632da7cf6d7ffa0012565ffa/1777942937239-b1c9d64b-7f81-4e0e-84a2-3605da21d497.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/632da7cf6d7ffa0012565ffa/e/69f94f6b836b4ec7189f91e8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "136269034",
+      "itunes_duration": "1:10:58",
+      "speakers": [],
+      "topics": [
+        "doors",
+        "closing"
+      ]
+    },
     {
       "key": "e207c4d17465343653ab8b2d8c26e9fc6c15acba",
       "title": "The Between 30 - Grave Matters",
@@ -3603,6 +3620,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-05 — The Between 31 - Doors Closing
 - 2026-04-28 — The Between 30 - Grave Matters — speakers: Grave Matters Things, Hargrave House
 - 2026-03-03 — The Between 29 - The Beast Without
 - 2026-02-24 — The Between 28 - Trust
