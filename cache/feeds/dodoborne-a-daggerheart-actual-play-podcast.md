@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-05-04T11:19:08+00:00`
-- checked_at: `2026-05-04T11:19:08+00:00`
-- etag: `W/"d0740ac0e5bc041daf48cc055b78cee1"`
-- last_modified: `Mon, 04 May 2026 10:42:51 GMT`
+- fetched_at: `2026-05-05T03:52:46+00:00`
+- checked_at: `2026-05-05T03:52:46+00:00`
+- etag: `W/"0b3663e263eb309a67b360cd69fa308f"`
+- last_modified: `Tue, 05 May 2026 03:07:07 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,9 +16,9 @@
   "source_url": "https://feeds.transistor.fm/dodoborne",
   "title": "DodoBorne: A Daggerheart Actual Play Podcast",
   "link": "https://dodoborne.transistor.fm/",
-  "description": "DodoBorne is a comedy Daggerheart actual play podcast where four friends dive into the brand-new tabletop roleplaying game from Darrington Press. Join Kapi, Crank, and Pistachio as they navigate a rich world of mystery, magic, and malfeasance! Humor, heart, and nonsense guaranteed. Some assembly required.",
-  "image_url": "https://img.transistorcdn.com/fg-CMns6Eb56K4IBpV4Y4XV3-bmmXfvIV6gQH2te_ag/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82NWZh/MWU1YWJkN2VjMmYy/ZmIwYjlmOTk0NzBk/MGM0ZS5wbmc.jpg",
-  "fetched_at": "2026-05-04T11:19:08+00:00",
+  "description": "DodoBorne is a comedy actual play podcast where five friends dive into Daggerheart, the new tabletop roleplaying game from Darrington Press. Join Kapi, Crank, and Pistachio as they navigate a rich world of mystery, magic, and malfeasance! Humor, heart, and nonsense guaranteed. Some assembly required.",
+  "image_url": "https://img.transistorcdn.com/BSVuYZCsKpTMwWe3TwBDDSylQZRg2pPh9xswN9Msu70/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZWU5/MDZiZDQ5NTI2NTU5/NDIwNjNhZTYxYjI1/YWI5Yy5wbmc.jpg",
+  "fetched_at": "2026-05-05T03:52:46+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -33,7 +33,7 @@
       "published_at": "2026-04-28T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/d9fe378a",
       "description": "Gadzooks and Jinkies! A body has been found! While I can assure you it wasn't Hickory in the Lab with the Lead Pipe, I CAN assure you that a mystery is afoot! Our students must put their heads and antennae together to figure out what happened to their professor. What secrets lie in wait? What strange things will be found? Find out now! Rainy causes a kerfuffle. Hickory is confused. Vivi has mixed results with her magic. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla meaches Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana Dom sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin Johnny Rocha Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch (say it in a way like we just broke up) CEO Zorak? Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez yeehawboi67",
-      "image_url": null,
+      "image_url": "https://img.transistorcdn.com/-MU_jVzCUTb2rUPvEzUNInN2ISXi8e768UPUf94oPwQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMzEy/NjRjODM3ZGQxM2Fk/MDYzODNjYTJmOGU4/ODczNi5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/d9fe378a/a195c27b.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68994602",

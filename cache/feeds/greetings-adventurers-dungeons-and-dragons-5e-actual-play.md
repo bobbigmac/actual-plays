@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-05-04T17:02:59+00:00`
-- checked_at: `2026-05-04T17:02:59+00:00`
-- etag: `"djEuMi4wOjE3Nzc5MDY4MzkyOTg="`
+- fetched_at: `2026-05-05T03:52:46+00:00`
+- checked_at: `2026-05-05T03:52:46+00:00`
+- etag: `"djEuMi4wOjE3Nzc5NTI4Nzg3NDU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-05-04T17:02:59+00:00",
+  "fetched_at": "2026-05-05T03:52:46+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -9475,16 +9475,18 @@
     },
     {
       "key": "673712d961454433316dcfeb34d9b9ef6ac6829f",
-      "title": "Episode 160 – Monkier Business",
+      "title": "Monkier Business",
       "published_at": "2016-03-21T15:16:19+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739cd",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/monkier-business",
       "description": "With the deaths of their friends in the backs of their mind, the group finally gets a chance to chat with this powerful monkey or ape like creature. Sure, we have experienced loss, but maybe, just maybe, this will be a potential new ally that will help us feel whole again. A strong new fighter … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739cd.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D36651/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76079020",
       "itunes_duration": "1:19:15",
-      "speakers": [],
+      "speakers": [
+        "Monkier Business"
+      ],
       "topics": [
         "monkier",
         "business"
@@ -11823,9 +11825,9 @@
     },
     {
       "key": "e27d8d81f31d0a8b3df2e1a65114a9244e48bee1",
-      "title": "Episode 27 – Painful Memories",
+      "title": "Painful Memories",
       "published_at": "2013-05-06T03:28:38+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a53",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/painful-memories",
       "description": "Thank you as always for joining us for another thrilling adventure with the Drunks and Dragons gang. This week we learn even more about one character’s past with some… unfortunate revelations. Perhaps some memories are best left buried behind that weird contraption in your head that could explode at any minute (or reanimate you as a zombie … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a53.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D412/media.mp3",
@@ -11841,9 +11843,9 @@
     },
     {
       "key": "31761c52b2cf445b21a86a0d55509da3c471b5ea",
-      "title": "Episode 26 – A Test of Friendship",
+      "title": "A Test of Friendship",
       "published_at": "2013-04-29T02:53:27+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a54",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-test-of-friendship",
       "description": "I know we say this every week, but honestly, things get dicey on this episode of Drunks and Dragons. With Junpei going a little crazy and Thom being influenced by some mysterious force the gang’s trust is tested to its limits. Add in a visit from a group of Darkblades and things got really interesting. … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a54.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D394/media.mp3",
@@ -11858,9 +11860,9 @@
     },
     {
       "key": "01ef2b13a93455cec2e3871bae8c6502ca1c18f4",
-      "title": "Episode 25 – Acid Trip",
+      "title": "Acid Trip",
       "published_at": "2013-04-22T09:00:28+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a55",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/acid-trip",
       "description": "Our heroes were left in quite the pickle last week eh? Who knows what is going on in the mysterious armory of Trant Thumble and if the gang will make it out alive… Fortunately, some powerful magic items were left just lying around so the odds should be in their favor. We would love if … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a55.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D382/media.mp3",
@@ -11875,9 +11877,9 @@
     },
     {
       "key": "253b0a0d39838729c2482d013f04911cd3ce6029",
-      "title": "Episode 24 – Maps and Mystery",
+      "title": "Maps and Mystery",
       "published_at": "2013-04-15T09:00:38+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a56",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/maps-and-mystery",
       "description": "As our little world is growing, I know all you fine people can’t wait to see which directions the heroes take. Any week could hold completely different adventures because we the players chose to go left instead of right. This is the magic of Dungeons and Dragons and one of the main reasons why this show is … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a56.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D366/media.mp3",
@@ -11892,9 +11894,9 @@
     },
     {
       "key": "f25349d5e0b54d26f0211b6613c3e3e585253fb1",
-      "title": "Episode 23 – The Beasts in the Streets",
+      "title": "The Beasts in the Streets",
       "published_at": "2013-04-08T13:11:46+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a57",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-beasts-in-the-streets",
       "description": "Since we had such a nice time on last week’s episode of Drunks and Dragons the gang was feeling pretty good. Our heads were in much less danger of being exploded. We met Fennekin the famed cleric. And we even had some direction for our lives! This week things don’t go as well and without … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a57.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D354/media.mp3",
@@ -11911,9 +11913,9 @@
     },
     {
       "key": "f4fa0d88de588bcedf8a7824c37889b5b7b4896d",
-      "title": "Episode 22 – A Hysterical Dragonborn",
+      "title": "A Hysterical Dragonborn",
       "published_at": "2013-04-01T09:00:01+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a58",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-hysterical-dragonborn",
       "description": "Welcome to another action packed episode of Drunks and Dragons! When we last left our heroes there was a strange ticking noise coming from Thom’s head… What could this mean for our group? Found out who lives and who dies in “A Hysterical Dragonborn.” The adventure continues with Tum Darkblade (Tim Lanning), Thom the Dragonborn … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a58.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D336/media.mp3",
@@ -11930,9 +11932,9 @@
     },
     {
       "key": "c9e670befb86f5eba949e6f4cd98b2d8a7bf1ccb",
-      "title": "Episode 21 – Family Dinner",
+      "title": "Family Dinner",
       "published_at": "2013-03-25T09:00:25+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a59",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/family-dinner",
       "description": "Our stalwart companions continue their battle against the giant croco-monster fresh from the swamps of Ichtaka. If they can defeat their foe, they have a special treat awaiting them: dinner with Papa Trant and the rest of Tum’s siblings. The adventure continues with Tum Darkblade (Tim Lanning), Thom the Dragonborn (Mike Bachmann), Junpei Iori (Steven … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a59.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D331/media.mp3",
@@ -11947,9 +11949,9 @@
     },
     {
       "key": "d9fc9f6862dfa86f5ba29ba7ae80dce4c2f8bce5",
-      "title": "Episode 20 – Gladiator Games",
+      "title": "Gladiator Games",
       "published_at": "2013-03-18T09:00:34+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a5a",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/gladiator-games",
       "description": "After being captured by Thumble soldiers the gang has to overcome a few obstacles to win their freedom. Tum’s father, Trant Thumble, has some sort of coleseum with scary creatures that host fights for the entertainment of the people. Tum was pitted against the brand new Tum – a horrific minotaur. Hopefully he will get through the … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a5a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D315/media.mp3",
@@ -11966,9 +11968,9 @@
     },
     {
       "key": "395ab6a21772eaa27be1d910df7baeaaa5ff271a",
-      "title": "Episode 19 – Sibling Rivalry",
+      "title": "Sibling Rivalry",
       "published_at": "2013-03-12T17:29:21+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a5b",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/sibling-rivalry",
       "description": "This week your adventurers are faced with a brand new set of un-friendly faces. When a potential new friend crosses their path, things turn ugly really fast. The inhabitants of this crazy world really hate our heroes. It is almost like everything revolves around them while catastrophe follows in their wake. We are also announcing our Drunks … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a5b.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D286/media.mp3",
@@ -11983,9 +11985,9 @@
     },
     {
       "key": "78d73e13c4937394c6eea42c55abdecbf05a490c",
-      "title": "Episode 18 – Canine Justice",
+      "title": "Canine Justice",
       "published_at": "2013-03-04T10:52:57+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a5c",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/canine-justice",
       "description": "We may have gotten ourselves into a pickle after ransacking Zantac’s emporium. Our personal flavor of justice seems to have angered the elderly shop keeper. Someone had to put a stop to this horrible dog murderer and if that means acquiring some magical items in the process then that is just the universe rewarding our … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a5c.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D276/media.mp3",
@@ -12000,9 +12002,9 @@
     },
     {
       "key": "f741fb53488564bf569578adc6aed859bde22f13",
-      "title": "Episode 17 – Welcome to Caer!",
+      "title": "Welcome to Caer!",
       "published_at": "2013-02-25T10:00:28+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a5d",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-caer",
       "description": "Having bested a legendary Kraken has earned the crew a break from the grind of “almost dying constantly.” Unfortunately, things start going to h-e-double dagger almost immediately. But I am sure Caer will be a safe place fo the gang to avoid getting into any misfortune. As long as no one makes any terrible decisions everything will go … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a5d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D270/media.mp3",
@@ -12016,9 +12018,9 @@
     },
     {
       "key": "b5b185eda0ca6a0dc55cf3aa3cebf65021813142",
-      "title": "Episode 16 – A Legend from the Depths",
+      "title": "A Legend from the Depths",
       "published_at": "2013-02-18T10:00:22+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a5e",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-legend-from-the-depths",
       "description": "After a daring battle with a band of evil pirates, your adventurers are now looking forward to a little fun in the sun. Having “liberated” Hookbeard’s boat and freeing his captives getting to Caer is now only a few days passage. That is if they don’t run into the legendary sea monster that haunts these … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a5e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D254/media.mp3",
@@ -12033,9 +12035,9 @@
     },
     {
       "key": "7e2cc0e62586c25ba6e34cd66d2089b22e52204d",
-      "title": "Episode 15 – A Pirate’s Life for Me",
+      "title": "A Pirate’s Life for Me",
       "published_at": "2013-02-12T04:05:57+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a5f",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-pirates-life-for-me",
       "description": "Your heroes are one step closer to finding the answers they seek in the city of Caer. First they have to gain passage with the infamous pirate Hookbeard. Will the gang have to jeopardize their already shaky morals to reach Caer? Find out in this weeks Drunks and Dragons! The adventure continues with Tum Darkblade (Tim Lanning), … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a5f.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D241/media.mp3",
@@ -12050,9 +12052,9 @@
     },
     {
       "key": "c91d15887d764a04a09018a3cbd43223befecbe1",
-      "title": "Episode 14 – Dreams of Dragons",
+      "title": "Dreams of Dragons",
       "published_at": "2013-02-04T10:00:53+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a60",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/dreams-of-dragons",
       "description": "Imagine, if you can, waking up in a desert and fighting to survive the night. This is the situation our adventurers found themselves in. We have mentioned our “dream sequence” episode in the past and we glad to finally release it! We are joined by a new friend and get to fight a terrifying new … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a60.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D233/media.mp3",
@@ -12063,15 +12065,15 @@
         "Dragons Imagine"
       ],
       "topics": [
-        "dreams",
+        "dream",
         "dragons"
       ]
     },
     {
       "key": "be7e47ee37d723b926488c7c804edffd4b1bd660",
-      "title": "Episode 13 – A Dwarf, Dragonborn and a Githyanki Walk into a Bar…",
+      "title": "A Dwarf, Dragonborn and a Githyanki Walk into a Bar…",
       "published_at": "2013-01-28T10:00:53+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a61",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-dwarf-dragonborn-and-a-githyanki-walk-into-a-bar",
       "description": "Oh boy, this week on Drunks and Dragons things sure do get dicey. While searching for answers the gang must try to work together while not destroying the town of Mastwick. Are they prepared to find out the truths that await them? Or will their pasts stop their adventure in its tracks… The adventure continues … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a61.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D216/media.mp3",
@@ -12087,9 +12089,9 @@
     },
     {
       "key": "f152153c46b00e11f1be6b31686015077f0ad191",
-      "title": "Episode 12 – Not Quite Through the Woods",
+      "title": "Not Quite Through the Woods",
       "published_at": "2013-01-21T10:00:51+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a62",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/not-quite-through-the-woods",
       "description": "To make up for the lack of a battle in last week’s Drunks and Dragons we fight for a really long time this episode. Like always, we go back and forth between dying and exploding the enemies with reckless abandon. Close your eyes and let the sounds of battle wash over you. Be sure to listen to … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a62.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D203/media.mp3",
@@ -12105,9 +12107,9 @@
     },
     {
       "key": "f07d539104fa0b5d03f4f03c5b4a782e04361ed1",
-      "title": "Episode 11 – An Intense Headache",
+      "title": "An Intense Headache",
       "published_at": "2013-01-13T22:55:23+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a63",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/an-intense-headache",
       "description": "Maybe a few poor decisions were made this week. Who is to say? Do we have any regrets? Sure we do. Would we like to go back in time? Yes, most definitely. Your adventurers may be a little worse for wear but are bound together in a race to save their lives. (please forgive some … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a63.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D192/media.mp3",
@@ -12122,9 +12124,9 @@
     },
     {
       "key": "3ba5d962a1c4ecf3db55870deac25b62de65fc6e",
-      "title": "Episode 10 – The Long Hallway",
+      "title": "The Long Hallway",
       "published_at": "2013-01-07T04:29:03+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a64",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-long-hallway",
       "description": "We are back from the holiday and here to bring you DnD! The gang finds themselves in a bit of a trap and death is only a hallway away. Will the hallway devour our heros like an angry squirrel? What is on the other side of the door? Tune in and all of these answers … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a64.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D162/media.mp3",
@@ -12139,9 +12141,9 @@
     },
     {
       "key": "a076d0fc2d5aba341c967c2fb4b2fb395e5b49a5",
-      "title": "Episode 9 – Thokas Takes a Header",
+      "title": "Thokas Takes a Header",
       "published_at": "2012-12-30T22:29:07+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a65",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/thokas-takes-a-header",
       "description": "This week’s episode is short because of the holiday, but hey, at least we have an episode! The audio quality is also pretty terrible, but we have a fix for that going forward, so sorry about that! Hope you still enjoy this lovely episode! The adventure continues with Tum Darkblade (Tim Lanning), Thom the Dragonborn … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a65.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D154/media.mp3",
@@ -12158,9 +12160,9 @@
     },
     {
       "key": "bd1dfc15529b6c845045c7a2bfcba25e48832725",
-      "title": "Episode 8 – Robot No Feel Love?",
+      "title": "Robot No Feel Love?",
       "published_at": "2012-12-23T20:33:56+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a66",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/robot-no-feel-love",
       "description": "A quick note: We had some audio issues this week, and we apologize for the lack of quality. We have a plan moving forward that should dramatically increase our audio quality. This week on Drunks and Dragons: Our heroes come face-to-face with one of the dwellers of Shadowspar, and battle quickly ensues. Will the gang … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a66.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D127/media.mp3",
@@ -12177,9 +12179,9 @@
     },
     {
       "key": "e9448fd524b860fcd0f499468a38ab3bff11e575",
-      "title": "Episode 7 – The Next Level",
+      "title": "The Next Level",
       "published_at": "2012-12-17T02:05:08+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a67",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-next-level",
       "description": "The whole gang has gone through a lot of changes this week. Everyone has leveled up, and has all sorts of new powers and abilities to show off. Aludra takes it one step further by shifting to the Warden class so that she can take over the defender duties for the group. The group flexes … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a67.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D99/media.mp3",
@@ -12193,9 +12195,9 @@
     },
     {
       "key": "80317a3934b6484c451ad129661d0b3510238e91",
-      "title": "Episode 6 – The Return of the Eight Legged Freaks",
+      "title": "The Return of the Eight Legged Freaks",
       "published_at": "2012-12-10T03:28:50+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a68",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-return-of-the-eight-legged-freaks",
       "description": "Hello stalwart heroes! After a small hiatus the gang was rip-roaring ready to make things “dicey” this session. Prepare to fall deeper into the pit that is our fantasy world. Lives are changed and allegiances are set in stone. This is an episode to remember. Are you prepared for the revelations that await you? The adventure … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a68.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D70/media.mp3",
@@ -12213,9 +12215,9 @@
     },
     {
       "key": "075830afe41011b02a46d603b7484ff5f6368bc4",
-      "title": "Episode 5 – A Brief Respite",
+      "title": "A Brief Respite",
       "published_at": "2012-12-04T00:24:35+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a69",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-brief-respite",
       "description": "Hello Adventurers! This week we took a hiatus from our harrowing adventure through the lands of fantasy and giant evil turkeys to look back at what we have accomplished thus far. As our little story gets more and more complicated, these breaks will help new listeners as well as old get caught up with the … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a69.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D55/media.mp3",
@@ -12826,7 +12828,7 @@
 - 2016-04-11 — Episode 163 – Welcome to Deephome
 - 2016-04-04 — Episode 162 – The Dangerous Life of a Musician — speakers: Jett Razor
 - 2016-03-28 — Episode 161 – Welcome to Calsten
-- 2016-03-21 — Episode 160 – Monkier Business
+- 2016-03-21 — Monkier Business — speakers: Monkier Business
 - 2016-03-14 — Episode 159 – Monkey Business — speakers: Monkey Business Things
 - 2016-03-07 — Episode 158 – A Deep One Rises — speakers: Deep One Rises Dang
 - 2016-02-29 — Episode 157 – Storm’s A-Brewin’
@@ -12960,29 +12962,29 @@
 - 2013-05-25 — Episode 30 – A Sly Flourish
 - 2013-05-20 — Episode 29 – A Disproportionate Response
 - 2013-05-13 — Episode 28 – Spooky, Crazy Mystery Hour
-- 2013-05-06 — Episode 27 – Painful Memories — speakers: Dragons gang
-- 2013-04-29 — Episode 26 – A Test of Friendship
-- 2013-04-22 — Episode 25 – Acid Trip
-- 2013-04-15 — Episode 24 – Maps and Mystery
-- 2013-04-08 — Episode 23 – The Beasts in the Streets — speakers: Streets Since
-- 2013-04-01 — Episode 22 – A Hysterical Dragonborn — speakers: Hysterical Dragonborn Welcome
-- 2013-03-25 — Episode 21 – Family Dinner
-- 2013-03-18 — Episode 20 – Gladiator Games — speakers: Gladiator Games After
-- 2013-03-12 — Episode 19 – Sibling Rivalry
-- 2013-03-04 — Episode 18 – Canine Justice
-- 2013-02-25 — Episode 17 – Welcome to Caer!
-- 2013-02-18 — Episode 16 – A Legend from the Depths
-- 2013-02-12 — Episode 15 – A Pirate’s Life for Me
-- 2013-02-04 — Episode 14 – Dreams of Dragons — speakers: Dragons Imagine
-- 2013-01-28 — Episode 13 – A Dwarf, Dragonborn and a Githyanki Walk into a Bar…
-- 2013-01-21 — Episode 12 – Not Quite Through the Woods — speakers: Not Quite Through
-- 2013-01-13 — Episode 11 – An Intense Headache
-- 2013-01-07 — Episode 10 – The Long Hallway
-- 2012-12-30 — Episode 9 – Thokas Takes a Header — speakers: Thokas Takes
-- 2012-12-23 — Episode 8 – Robot No Feel Love? — speakers: Robot No Feel Love
-- 2012-12-17 — Episode 7 – The Next Level
-- 2012-12-10 — Episode 6 – The Return of the Eight Legged Freaks — speakers: Eight Legged Freaks Hello
-- 2012-12-04 — Episode 5 – A Brief Respite — speakers: Brief Respite Hello Adventurers
+- 2013-05-06 — Painful Memories — speakers: Dragons gang
+- 2013-04-29 — A Test of Friendship
+- 2013-04-22 — Acid Trip
+- 2013-04-15 — Maps and Mystery
+- 2013-04-08 — The Beasts in the Streets — speakers: Streets Since
+- 2013-04-01 — A Hysterical Dragonborn — speakers: Hysterical Dragonborn Welcome
+- 2013-03-25 — Family Dinner
+- 2013-03-18 — Gladiator Games — speakers: Gladiator Games After
+- 2013-03-12 — Sibling Rivalry
+- 2013-03-04 — Canine Justice
+- 2013-02-25 — Welcome to Caer!
+- 2013-02-18 — A Legend from the Depths
+- 2013-02-12 — A Pirate’s Life for Me
+- 2013-02-04 — Dreams of Dragons — speakers: Dragons Imagine
+- 2013-01-28 — A Dwarf, Dragonborn and a Githyanki Walk into a Bar…
+- 2013-01-21 — Not Quite Through the Woods — speakers: Not Quite Through
+- 2013-01-13 — An Intense Headache
+- 2013-01-07 — The Long Hallway
+- 2012-12-30 — Thokas Takes a Header — speakers: Thokas Takes
+- 2012-12-23 — Robot No Feel Love? — speakers: Robot No Feel Love
+- 2012-12-17 — The Next Level
+- 2012-12-10 — The Return of the Eight Legged Freaks — speakers: Eight Legged Freaks Hello
+- 2012-12-04 — A Brief Respite — speakers: Brief Respite Hello Adventurers
 - 2012-11-27 — Episode 4 — speakers: Greetings Adventurers, American Thanksgiving
 - 2012-11-20 — Episode 3 — speakers: Greetings Adventurers
 - 2012-11-13 — Episode 2 — speakers: Tum Darkblade, Tim Lanning
