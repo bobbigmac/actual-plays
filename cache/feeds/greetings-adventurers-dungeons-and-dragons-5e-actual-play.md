@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-05-06T20:02:48+00:00`
-- checked_at: `2026-05-06T20:02:48+00:00`
-- etag: `"djEuMi4wOjE3NzgwOTY5MDIxMjU="`
+- fetched_at: `2026-05-06T22:10:21+00:00`
+- checked_at: `2026-05-06T22:10:21+00:00`
+- etag: `"djEuMi4wOjE3NzgxMDE2NTcxNTQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-05-06T20:02:48+00:00",
+  "fetched_at": "2026-05-06T22:10:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -5363,9 +5363,9 @@
     },
     {
       "key": "00e45c5f2a853b3eeda6805d834eff70346a0664",
-      "title": "Episode 376 - Welcome to the Night Zone",
+      "title": "Welcome to the Night Zone - C1: E376",
       "published_at": "2020-09-28T17:32:38+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738e5",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-the-night-zone-c1-e376",
       "description": "Chasing down a suspected brother into a scary cave system isn't how we planned our trip to the Elemental Plane of Earth. But, hey. it sounds like this Night Zone is dangerous so we gotta help save a brother. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/artsy22ajl ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738e5.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FWETg9jglV51moD6xa6Gfc7gXxHL7xplkUE0_2odpPnQ/media.mp3",
@@ -5373,19 +5373,18 @@
       "enclosure_length": "74888254",
       "itunes_duration": "1:18:00",
       "speakers": [
-        "Night Zone Chasing"
+        "Night Zone"
       ],
       "topics": [
-        "welcome",
         "night",
         "zone"
       ]
     },
     {
       "key": "3a05cef7cf49c2185cd15ea363bb49efe07641fb",
-      "title": "Episode 375 - The Sorrowful Man",
+      "title": "The Sorrowful Man - C1: E375",
       "published_at": "2020-09-21T14:25:53+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738e6",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-sorrowful-man-c1-e375",
       "description": "Our quest to make Skud the greatest Bone Card Champion continues! Hopefully the Sorrowful Man is cool and chill. Maybe the nickname is just a cute nickname since he is super nice? Maybe? The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/brunomacx1?s=21 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738e6.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FcbkoV1PFrmY4aTT3GSywjOd3uDPS8UWwmT6sMLjSL6w/media.mp3",
@@ -5399,9 +5398,9 @@
     },
     {
       "key": "bea0824a6a15dcdae9376c72cfa2a943ffef5faf",
-      "title": "Episode 374 - The Mind Killer",
+      "title": "The Mind Killer - C1: E374",
       "published_at": "2020-09-14T17:28:27+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738e7",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-mind-killer-c1-e374",
       "description": "These dang Mind Flayers sure are nasty and weirdly obsessed with brains... yikes! Get a better hobby, ya weirdos! Thanks again to Pat Edwards for guesting! You can find the Kickstarter here - https://www.kickstarter.com/projects/stonejamison/the-red-opera-rpg?ref=9zc12j The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/Arthiiiii1 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738e7.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FsT6Wh8NBIXeVWXZdvFZWx5JJu181noK-P2X6cRfTnQM/media.mp3",
@@ -5418,9 +5417,9 @@
     },
     {
       "key": "58c0db5483bd78e7ee857bcd4141d007307e13b3",
-      "title": "Episode 373 - Brain Brine Juice",
+      "title": "Brain Brine Juice - C1: E373",
       "published_at": "2020-09-07T19:04:30+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738e8",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/brain-brine-juice-c1-e373",
       "description": "Alright, time to figure out how to get into Earth Smash 42. This plane is already crowded and we seem late but there has got to be a helpful person looking for a favor. This is the Adventuring Hero way! Thanks again to Pat Edwards for guesting! You can find the Kickstarter here - https://www.kickstarter.com/projects/stonejamison/the-red-opera-rpg?ref=9zc12j The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/IForgetHisName ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738e8.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FuftFq-5XcGxgYIFQSzggFc1ere3r-DzsrisVxvFwvFE/media.mp3",
@@ -5428,7 +5427,8 @@
       "enclosure_length": "78371526",
       "itunes_duration": "1:21:38",
       "speakers": [
-        "Brain Brine"
+        "Brain Brine Juice",
+        "Earth Smash"
       ],
       "topics": [
         "brain",
@@ -5458,9 +5458,9 @@
     },
     {
       "key": "d947374dc0438e9c92736281cbfe4a0ba6ad66a5",
-      "title": "Episode 372 - Welcome to the Elemental Plane of Earth",
+      "title": "Welcome to the Elemental Plane of Earth - C1: E372",
       "published_at": "2020-08-24T17:29:05+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738ea",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-the-elemental-plane-of-earth-c1-e372",
       "description": "Having solved the Water Gym and receiving the respective badge, our heroes rush to the Elemental Plane of Earth for more Bonecard Battles! Will these battles be hard as a rock? Or will Skud and his Bone Team pumice them?! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/PamRamblin ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738ea.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FnNRNnkp1f9_QnWwnSjU-LhzcyTZr0nG7-f-iSqOcGI0/media.mp3",
@@ -5469,12 +5469,10 @@
       "itunes_duration": "56:38",
       "speakers": [
         "Elemental Plane",
-        "Earth Having",
         "Water Gym",
         "Elemental Pla"
       ],
       "topics": [
-        "welcome",
         "elemental",
         "plane",
         "earth"
@@ -5482,9 +5480,9 @@
     },
     {
       "key": "6606b67af842a29663be0016c93a177d976f5212",
-      "title": "Episode 371 - Bonesplash 42 Part 2",
+      "title": "Bonesplash 42 Part 2 - C1: E371",
       "published_at": "2020-08-17T15:43:26+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738eb",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/bonesplash-42-part-2-c1-e371",
       "description": "Oh no, it is a freaking kraken! Aaaaaahhhh! It is so big and so gross and how... does it have a skeleton and bones and such everywhere? I get the body and face...but bone tentacles? We truly live in a cursed time. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/YourDarlingSon/ ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738eb.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F_0M2KZa3Q4cL3rjcxqKFUMvv1eNesylrlpPRkPzr4rs/media.mp3",
@@ -5498,9 +5496,9 @@
     },
     {
       "key": "4ad37d8ae1c16208df5f9d45da59a0ae7eef7f2b",
-      "title": "Episode 370 - Bonesplash 42",
+      "title": "Bonesplash 42 - C1: E370",
       "published_at": "2020-08-10T21:00:08+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738ec",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/bonesplash-42-c1-e370",
       "description": "Our Bonesplash battle starts now! Will your heroes become bone dust or will they dig deep into their marrow and crush the competition?! Listen now to find out. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/IForgetHisName ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738ec.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FKV4owEQqigb6S2Od3aUf5zgljnXF7qNqHH_sSJgG2PA/media.mp3",
@@ -5508,13 +5506,15 @@
       "enclosure_length": "69209025",
       "itunes_duration": "1:12:05",
       "speakers": [],
-      "topics": []
+      "topics": [
+        "bonesplash"
+      ]
     },
     {
       "key": "60f3f06f046217d57d4b5dbb259876b7c7b99d27",
-      "title": "Episode 369 - Bone Brothers",
+      "title": "Bone Brothers - C1: E369",
       "published_at": "2020-08-03T15:04:43+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738ed",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/bone-brothers-c1-e369",
       "description": "Sometimes you have to face your fears...even if those fears are your Father who happens to be A God. Hopefully you too have the love and support of your pals if and when you have to deal with your god father. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://www.instagram.com/puppydigs/ ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738ed.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F2P8g07jhlx2cv2x-Rb2HLBXB_lxQ8xzrKvi-Txrdb78/media.mp3",
@@ -5522,7 +5522,7 @@
       "enclosure_length": "69693857",
       "itunes_duration": "1:12:36",
       "speakers": [
-        "Bone Brothers Sometimes"
+        "Bone Brothers"
       ],
       "topics": [
         "bone",
@@ -5549,9 +5549,9 @@
     },
     {
       "key": "1efb267ef81872b431be9a660cb8ce2c0e278c8b",
-      "title": "Episode 368 - The Party Father",
+      "title": "The Party Father - C1: E368",
       "published_at": "2020-07-20T20:50:41+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738ef",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-party-father-c1-e368",
       "description": "We learn a little more about Skud's past in this very special episode of Greetings, Adventurers! I hope you brought a bucket for your tears. Also a sports drink to recover vitamins after crying so much. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/artsy22ajl ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738ef.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FVh81JqDH7TXWnBibSYxefm5NOMp-gyFPFtl0NqRe36I/media.mp3",
@@ -5566,9 +5566,9 @@
     },
     {
       "key": "89f1e1fae60e3cd959919e15764c3d8be010b111",
-      "title": "Episode 367 - In The Mother's Shadow",
+      "title": "In The Mother's Shadow - C1: E367",
       "published_at": "2020-07-13T15:52:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738f0",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/in-the-mothers-shadow-c1-e367",
       "description": "We continue on on our quest to defeat this Plane's Bonecard champion and prove once and for all that... we... are allowed into the room where hopefully the piece of the godkilling artifact is. At least I am pretty sure that is the goal here. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/bendrawslife ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738f0.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FZrZa5PGEkOru3pBJB-MamMjcd8Fw3sThuANmuj3l01w/media.mp3",
@@ -5583,25 +5583,27 @@
     },
     {
       "key": "ab4e30209ac0f6c7adae36b8f4080e70033f096f",
-      "title": "Episode 366 - Jilling the Bonehammer",
+      "title": "Jilling the Bonehammer - C1: E366",
       "published_at": "2020-07-06T17:08:44+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738f1",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/jilling-the-bonehammer-c1-e366",
       "description": "Listen in wonder as your heroes descend into the Elemental Plane of Water and learn a bit more of its mysterious ways. Luckily for all of us, a friendly local gives us a lay of the land as we pursue the bone card master on this plane. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://www.instagram.com/contrarytocarrion/ ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738f1.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F993PZKNtiEgi0xJYU1QY23JTGA7mbQfFHuKPkjBb-3Q/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55147624",
       "itunes_duration": "57:26",
-      "speakers": [],
+      "speakers": [
+        "Elemental Plane"
+      ],
       "topics": [
         "bonehammer"
       ]
     },
     {
       "key": "ee4c7542ea39022557be31bd7ed63498c9de02bd",
-      "title": "Episode 365 - Ticket to Ride",
+      "title": "Ticket to Ride - C1: E365",
       "published_at": "2020-06-29T20:46:49+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738f2",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/ticket-to-ride-c1-e365",
       "description": "It is a time of Celebration as our heroes enjoy some more ham based delights. But, their quest is far from over so there is simply no time to waste! Onward and forward! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738f2.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F8hQamGQXmirZQUViOeVUenIgZLPXXJzld_A_H--fcBs/media.mp3",
@@ -5610,14 +5612,15 @@
       "itunes_duration": "1:04:24",
       "speakers": [],
       "topics": [
-        "ticket"
+        "ticket",
+        "ride"
       ]
     },
     {
       "key": "2aee6f22241ca820b5f04e651f6903c4093985b4",
-      "title": "Episode 364 - Toppling the Tyrannical Pyre Part 3",
+      "title": "Toppling the Tyrannical Pyre Part 3 - C1: E364",
       "published_at": "2020-06-22T17:16:52+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738f3",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/toppling-the-tyrannical-pyre-part-3-c1-e364",
       "description": "Pyre turning into a freaking skellington and being all weird and gross at us was definitely a twist we did not see coming. But, seeing as we are strong AND brave heroes, this was nothing that we couldn't handle / run away from. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://www.instagram.com/toddondesigndenver/ ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738f3.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F6IqfVawMkvWiHfn6O3C4qugQ_-mOspSEUxMAlW735Ho/media.mp3",
@@ -5632,9 +5635,9 @@
     },
     {
       "key": "5a9177af2c0efa8531f962e3ec0580c14b09e170",
-      "title": "Episode 363 - Toppling the Tyrannical Pyre Part 2",
+      "title": "Toppling the Tyrannical Pyre Part 2 - C1: E363",
       "published_at": "2020-06-15T17:36:46+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738f4",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/toppling-the-tyrannical-pyre-part-2-c1-e363",
       "description": "We are really kicking Pyre's butt. He looks like a damn fool. Ok, he almost kills one of us in one shot, but besides that we are doing great! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/darzin ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738f4.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fv6qgf0NOLeZc07TcHvNJlv63XMLAJbzVM4eyCaHf4SA/media.mp3",
@@ -5670,9 +5673,9 @@
     },
     {
       "key": "d80d0bcf893ccc6d43eba551eb40e5f3f0e4c7a7",
-      "title": "Episode 362 - Toppling the Tyrannical Pyre",
+      "title": "Toppling the Tyrannical Pyre - C1: E362",
       "published_at": "2020-06-01T14:36:59+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738f6",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/toppling-the-tyrannical-pyre-c1-e362",
       "description": "With bated breaths our heroes prepare themselves to fight their greatest foe to date. The tyrant Pyre. A name who has struck fear around the land for hundreds of years. Today he will fall. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/the_dan_chech ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738f6.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FPBAQsRccnW2H1EKO7Xw7Wl0uPcUb1CbC-RMs-7t51_4/media.mp3",
@@ -5687,26 +5690,27 @@
     },
     {
       "key": "3f58b4cccafaf1dd3bea09d2ae10649729fd93b6",
-      "title": "Episode 361 - RIP to a True Hero",
+      "title": "RIP to a True Hero - C1: E361",
       "published_at": "2020-05-25T14:50:19+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738f7",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/rip-to-a-true-hero-c1-e361",
       "description": "Our...\"heroes\" prepare a trap most foul for Pyre. A snack that will sure to cause some issues for our foe. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/audrey_rene ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738f7.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fei7GH3VHdkPMN6G24MC6x11dsRBL_l_oA2CuJnx9Wlo/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70283598",
       "itunes_duration": "1:13:12",
-      "speakers": [],
+      "speakers": [
+        "True Hero"
+      ],
       "topics": [
-        "true",
         "hero"
       ]
     },
     {
       "key": "2f4ada72993710e4850e1f89aebfd47c13f4508b",
-      "title": "Episode 360 - Hamhand's Horrific Handiwork",
+      "title": "Hamhand's Horrific Handiwork - C1: E360",
       "published_at": "2020-05-18T18:20:58+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738f8",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/hamhands-horrific-handiwork-c1-e360",
       "description": "Our heroes test the waters with a new ally and maybe brag a whole lot about how good at subterfuge they are. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/EtsitraLottie ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Wonderful end song by https://twitter.com/PsychoRedFox Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738f8.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F-gP0Tl-5cFIBtdpduUY5CM_IOMiiH7OrpkWjFL2K4ok/media.mp3",
@@ -5760,9 +5764,9 @@
     },
     {
       "key": "afbeec3037d493e4aae7aef3a410e86837563496",
-      "title": "Episode 359 - Momma's Home",
+      "title": "Momma's Home - C1: E359",
       "published_at": "2020-04-27T17:39:09+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738fb",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/mommas-home-c1-e359",
       "description": "On this week's episode we steal a pie and other adventurous activities. Plus a blast from our past returns. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738fb.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fj_xaIQ9CWY9lMuDBI1sWtagmggQ6JJVOJPqRqYlLUcc/media.mp3",
@@ -5800,9 +5804,9 @@
     },
     {
       "key": "fe420b3487835284c6721fe6704a3c6cfd291e6f",
-      "title": "Episode 358 - Not So Secret Hideout",
+      "title": "Not So Secret Hideout - C1: E358",
       "published_at": "2020-04-13T15:26:45+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738fd",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/not-so-secret-hideout-c1-e358",
       "description": "Your heroes return to relative safety with their newfound information and hostages. But maybe...Pyre and his pals have things in place to stop adventurers from walking out of the Spike with his hard earned info. Welp, I am sure nothing bad will happen. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738fd.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fhg3W87fgybf2uvzg2Ptp6PrkyWtp-yD3KVvNIasgoWw/media.mp3",
@@ -5811,14 +5815,15 @@
       "itunes_duration": "1:08:09",
       "speakers": [],
       "topics": [
+        "secret",
         "hideout"
       ]
     },
     {
       "key": "7b3a79da04d8f2c0e8560777156959a61fae846b",
-      "title": "Episode 357 - Digging Up That Dirt",
+      "title": "Digging Up That Dirt - C1: E357",
       "published_at": "2020-04-06T15:04:36+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738fe",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/digging-up-that-dirt-c1-e357",
       "description": "When destabilizing a city of evil people you gotta find dirt on people that are maybe good? Or maybe more evil? Things get complicated really fast with these sorts of things. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738fe.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F2y4a3kh-40oaH02VPlS_ta4aI_sx92axoiDuij69xyY/media.mp3",
@@ -5832,9 +5837,9 @@
     },
     {
       "key": "f99b32e6d0da4118c88ede41c4975f751d8e8d30",
-      "title": "Episode 356 - Delving Up Into The Spike",
+      "title": "Delving Up Into The Spike - C1: E356",
       "published_at": "2020-03-30T15:34:36+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738ff",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/delving-up-into-the-spike-c1-e356",
       "description": "Ok, we make some drastic decisions and then go up into The Spike a bit. It was stressful. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/EtsitraLottie ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738ff.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FrMmRdvZ61I3mQwYzjw4MTWMh--Nf2s8eMlbvuOO4qxM/media.mp3",
@@ -5848,9 +5853,9 @@
     },
     {
       "key": "c63c37f5390c2ee6b4753ad573b6834ffa878606",
-      "title": "Episode 355 - Turning the Enemy",
+      "title": "Turning the Enemy - C1: E355",
       "published_at": "2020-03-23T14:50:30+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873900",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/turning-the-enemy-c1-e355",
       "description": "Having captured the evil Master of Punishment Zelon your heroes have some tough decisions to make. Do they make nice with this truly awful man or do they do what they do best - use extreme violence to solve their problems. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/EtsitraLottie ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873900.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F7ejIOKtGPfJkgpoX3rVliVmYXncVVDd3zQEYglTOlgc/media.mp3",
@@ -5858,7 +5863,6 @@
       "enclosure_length": "64890671",
       "itunes_duration": "1:07:35",
       "speakers": [
-        "Enemy Having",
         "Punishment Zelon"
       ],
       "topics": [
@@ -5867,9 +5871,9 @@
     },
     {
       "key": "525783ec4c1304f2a307716ad89354b5660c0ff8",
-      "title": "Episode 354 - The Final Bonk",
+      "title": "The Final Bonk - C1: E354",
       "published_at": "2020-03-16T18:17:52+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873901",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-final-bonk-c1-e354",
       "description": "Oh crap! We gotta get rude with some of Mastwicke's roughest dudes in some sort of torture room! Hopefully our heroes are able to handle this horrid place and its more horrid henchmen. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://www.instagram.com/contrarytocarrion/ ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873901.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FrtQzecvJ_mdx-1bFS3SmtwyKvJs0RiXWsch0GKep2CM/media.mp3",
@@ -5878,21 +5882,24 @@
       "itunes_duration": "1:21:02",
       "speakers": [],
       "topics": [
+        "final",
         "bonk"
       ]
     },
     {
       "key": "2d808c1612bed1cda65bae7d77b7547e6156bca2",
-      "title": "Episode 353 - Croc Crunch",
+      "title": "Croc Crunch - C1: E353",
       "published_at": "2020-03-09T19:18:48+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873902",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/croc-crunch-c1-e353",
       "description": "We brave the horrors of our favorite dungeon type - a dooky filled sewer! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://www.instagram.com/contrarytocarrion/ ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873902.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FUOIgUWeAPbFE3Ja92a0mjfuwwLBxTijvfLKEBinva-s/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "756754584",
       "itunes_duration": "1:05:36",
-      "speakers": [],
+      "speakers": [
+        "Croc Crunch"
+      ],
       "topics": [
         "croc",
         "crunch"
@@ -5900,9 +5907,9 @@
     },
     {
       "key": "f56c5e374a13968a3fff3d678b88bde9315eaaf1",
-      "title": "Episode 352 - 480 Feet From Greatness",
+      "title": "480 Feet From Greatness - C1: E352",
       "published_at": "2020-03-02T21:49:45+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873903",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/480-feet-from-greatness-c1-e352",
       "description": "Our heroes make their way into Mastwick and buddy you know that is going to lead to some hijinks. Will the simulacrum of Silga Darvo be enough? Are the Darkblades still the honorable band of thieves we remember or have they succumbed to the darkness of the times? Find out some of these answers and more on today's episode! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/DoodleKm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873903.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F8JfmHAPz9xexfj37WUBLn6PdAbqJ4UXCWLo5hqpXJPA/media.mp3",
@@ -5917,9 +5924,9 @@
     },
     {
       "key": "8a52c0db59b5ef2df0b425b8584decbb751ecd4c",
-      "title": "Episode 351 - Spy Time",
+      "title": "Spy Time - C1: E351",
       "published_at": "2020-02-24T17:17:30+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873904",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/spy-time-c1-e351",
       "description": "Time for information gathering about our current hated foe - Pyre. That naughty dragon is going to get his just desserts after attacking us at Skud monastery and oh boy will he be shocked when he goes to Bone Card Prison. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/sanderdoesart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873904.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FfiQOaRwkdRn2Mb1wgCzSD1fOH1ZSqXzymiUW3UIv1P4/media.mp3",
@@ -5927,7 +5934,7 @@
       "enclosure_length": "73492689",
       "itunes_duration": "1:16:33",
       "speakers": [
-        "Spy Time Time"
+        "Spy Time"
       ],
       "topics": [
         "time"
@@ -5935,44 +5942,44 @@
     },
     {
       "key": "2bdbc0751295f1826aa8296cf598e4bb92b99ead",
-      "title": "Episode 350 - Failed Experiments",
+      "title": "Failed Experiments - C1: E350",
       "published_at": "2020-02-17T16:21:33+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873905",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/failed-experiments-c1-e350",
       "description": "We were ambushed by some strange creatures and this leaves us questioning everything. Can we trust our eyes and ears anymore? Probably not... The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/IForgetHisName ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873905.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FuHGJsuYybqMUeu5RYSbwo7mh4gl956dxFVvKAd5DSdU/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "791007334",
       "itunes_duration": "1:08:33",
-      "speakers": [],
+      "speakers": [
+        "Failed Experiments"
+      ],
       "topics": [
         "failed",
-        "experiment"
+        "experiments"
       ]
     },
     {
       "key": "98b258b0940027447b99a39af253a4b3ec3c83de",
-      "title": "Episode 349 - How to Kill a Dragon",
+      "title": "How to Kill a Dragon - C1: E349",
       "published_at": "2020-02-10T17:50:30+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873906",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/how-to-kill-a-dragon-c1-e349",
       "description": "Two out of three super powerful bone card monsters down! Now, to change the face of Drunkeros forever- Time To Kill Pyre. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873906.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F2NbqepCC6cr02gRuchaP3SjK8YE4_ErhvqwrW4eSNDw/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81255026",
       "itunes_duration": "1:24:38",
-      "speakers": [
-        "Dragon Two"
-      ],
+      "speakers": [],
       "topics": [
         "dragon"
       ]
     },
     {
       "key": "ca3c5728a1ad72e81c04b09a4d3924c38608458d",
-      "title": "Episode 348 - Dr. Varmus Gremp's Monster",
+      "title": "Dr. Varmus Gremp's Monster - C1: E348",
       "published_at": "2020-02-03T19:48:13+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873907",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/dr-varmus-gremps-monster-c1-e348",
       "description": "More Bone Card action but this time it is for a good cause! Hopefully your heroes are able to take down the evil Dr. Varmus Gremp and stop his nefarious schemes! Super honored to have Fred Greenleaf on the podcast! He is wonderful. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://www.instagram.com/contrarytocarrion/ ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873907.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FbZX-s1OLjOabgX_2jfRbvFUkIvQ3BiPW2zPouQmkOTY/media.mp3",
@@ -5990,9 +5997,9 @@
     },
     {
       "key": "21c1ad7d23eb29c59ac380dce9e7f28d0bb52c8e",
-      "title": "Episode 347 - The Gremp",
+      "title": "The Gremp - C1: E347",
       "published_at": "2020-01-27T16:05:14+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873908",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-gremp-c1-e347",
       "description": "Being an adventurer means having to spin a lot of plates. And sometimes those plates, well, you just have to let other plate spinners deal with. But also sometimes you realize that the disease you ignored is still a spinning and you gotta kick a cloud giant's butt. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by https://twitter.com/DoodleKm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873908.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FlzANKUmVZUSjPV186t-DXnH5uS6k3_9_Ee0bdEZemhE/media.mp3",
@@ -6006,9 +6013,9 @@
     },
     {
       "key": "d6b3c4a716a648bd7502a4f36795581da9561fc8",
-      "title": "Episode 346 - A Beholder's Bar",
+      "title": "A Beholder's Bar - C1: E346",
       "published_at": "2020-01-20T18:09:12+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873909",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-beholders-bar-c1-e346",
       "description": "This Hell Swamp is terrible but maybe this bar will be cool. I don't think it will be. Infernal Rick, the infernal beholder, keeps some strange company... We are joined by longtime friend and Geekly Ivana Greenleaf ! It was a pleasure to get chaotic with you. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by illustrator_nerd ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873909.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F9e-LmFBT9XZYPEHACYj60E7NTnZll1QRm_ZL-R52E5E/media.mp3",
@@ -6022,9 +6029,9 @@
     },
     {
       "key": "20462baef661d570c3234b3f9867d5a9449d0fd7",
-      "title": "Episode 345 - Swamp Sass",
+      "title": "Swamp Sass - C1: E345",
       "published_at": "2020-01-13T17:33:28+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287390a",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/swamp-sass-c1-e345",
       "description": "We got these empty cards burning a hole in our pockets so you know what that means - we gotta fill them with monsters! We are joined by longtime friend and Geekly Ivana Greenleaf ! It was a pleasure to get chaotic with you. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287390a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FgmxyvQkTo6tKGpYve7JDHNWM09sbcbg9u-WTr53JomI/media.mp3",
@@ -6055,30 +6062,36 @@
     },
     {
       "key": "2adb17717361431f6e2d5e4b4b795655934c3e89",
-      "title": "Episode 344 - Bonecarding Them All",
+      "title": "Bonecarding Them All - C1: E344",
       "published_at": "2019-12-30T17:06:13+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287390c",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/bonecarding-them-all-c1-e344",
       "description": "We survived that damn mansion somehow and came out much stronger. But now the real test begins - can we collect a full Bonecard deck of six monsters. Should be easy to fight the multiverse's most powerful monsters... The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @DoodleKm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287390c.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FQfamB1aeViiL4iGF7PPKlnVlw2whJNiLdbxAX3mZBOk/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59136626",
       "itunes_duration": "1:01:36",
-      "speakers": [],
-      "topics": []
+      "speakers": [
+        "Bonecarding Them All"
+      ],
+      "topics": [
+        "bonecarding"
+      ]
     },
     {
       "key": "d978fdb4952f467db9dbbdeeb9dd9ffa8a84f80a",
-      "title": "Episode 343 - Volcanic Mansion Alone",
+      "title": "Volcanic Mansion Alone - C1: E343",
       "published_at": "2019-12-23T16:29:33+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287390d",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/volcanic-mansion-alone-c1-e343",
       "description": "We continue our hellish descent into this beautiful home. Wish us luck. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @sanderdoesart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287390d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FnFzqi-TxHxNoal-xA9PTZPemll_uefNUCIYSsYfu04E/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "837201568",
       "itunes_duration": "1:12:34",
-      "speakers": [],
+      "speakers": [
+        "Volcanic Mansion Alone"
+      ],
       "topics": [
         "volcanic",
         "mansion"
@@ -6086,9 +6099,9 @@
     },
     {
       "key": "a577a1b420f9dd3752d9600a3b86698e6d661050",
-      "title": "Episode 342 - Sweeties Day",
+      "title": "Sweeties Day - C1: E342",
       "published_at": "2019-12-16T16:51:11+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287390e",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/sweeties-day-c1-e342",
       "description": "Any accidental references of beloved holiday movies found within this episode are a matter of pure coincidence and should be taken with the joy they are presented. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @toddondesigndenver ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287390e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FjbklNWWKFTp5O1rY4I9tvRb9HezFoMLt8ujZtcCnQ0g/media.mp3",
@@ -6096,7 +6109,7 @@
       "enclosure_length": "906568648",
       "itunes_duration": "1:18:35",
       "speakers": [
-        "Sweeties Day Any"
+        "Sweeties Day"
       ],
       "topics": [
         "sweeties"
@@ -6104,9 +6117,9 @@
     },
     {
       "key": "bbc5d8d15cb8b60e42ef19ead5fc1645f6cd59d2",
-      "title": "Episode 341 - The Ballista Twins",
+      "title": "The Ballista Twins - C1: E341",
       "published_at": "2019-12-09T20:22:21+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287390f",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-ballista-twins-c1-e341",
       "description": "Ok, time for a horrific battle with the Ballista Twins. We must all put our heads together to ensure that Skud is successful on dealing with these powerful foes. And maybe bone battle a little bit too but I am not sure what that even is... The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @ DoodleKm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287390f.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FucyZYciv-4Qc_DwaOxzn2QOA0tpONBiNzmF7XyTJUKU/media.mp3",
@@ -6121,9 +6134,9 @@
     },
     {
       "key": "478a9466046de33ab22d9daea122984c3920e9c5",
-      "title": "Episode 340 - The Mansion in the Mountain",
+      "title": "The Mansion in the Mountain - C1: E340",
       "published_at": "2019-12-02T16:58:15+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873910",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-mansion-in-the-mountain-c1-e340",
       "description": "We have made it through even more traps and continue deeper into this volcano. Our noble quest to...wait...our quest is just to steal a playing card from some folks? This seems a bit excessive but when a friend asks you for help you help them. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @darzin ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873910.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FzZiLhfpZZqx7HbJJ60a5Gi7eZAY6wZSC3lYgN30MBes/media.mp3",
@@ -6138,9 +6151,9 @@
     },
     {
       "key": "e70f9592705ac306483b741877c9f88df7a359c7",
-      "title": "Episode 339 - Fire Fighters",
+      "title": "Fire Fighters - C1: E339",
       "published_at": "2019-11-25T19:25:15+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873911",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/fire-fighters-c1-e339",
       "description": "The battle rages on and honestly... it is a bit much. Like, what is so good in this mountain? Right? The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by Podcast art by emily_ee_draws ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Need some tech products that don't destroy the earth? Well head on over to gonimble.com/dragons today! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873911.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fmr573VDpz_5ERu3dSa-7hZ2CTsCGxS0AlXNqy25yJmU/media.mp3",
@@ -6155,16 +6168,18 @@
     },
     {
       "key": "34532b83cd2d25e468d39dc00e43fa482d665bbf",
-      "title": "Episode 338 - Indoor Fire Pit",
+      "title": "Indoor Fire Pit - C1: E338",
       "published_at": "2019-11-18T17:45:16+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873912",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/indoor-fire-pit-c1-e338",
       "description": "The battle rages on and honestly... it is a bit much. Like, what is so good in this mountain? Right? The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @ lavendergooms13 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Need some tech products that don't destroy the earth? Well head on over to gonimble.com/dragons today! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873912.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F9VlVWuCL6GotHbeoTR-fdsUSMsBUAf8p3bFgNOWjplc/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "603487338",
       "itunes_duration": "52:18",
-      "speakers": [],
+      "speakers": [
+        "Indoor Fire Pit"
+      ],
       "topics": [
         "indoor",
         "fire"
@@ -6172,18 +6187,16 @@
     },
     {
       "key": "5c1a163afa4a07af5c36487d5992d4643fc46586",
-      "title": "Episode 337 - Brimstone and Melted Snow",
+      "title": "Brimstone and Melted Snow - C1: E337",
       "published_at": "2019-11-11T17:06:06+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873913",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/brimstone-and-melted-snow-c1-e337",
       "description": "This volcano sucks. There, I said it. Whatever defenses remain better be more welcoming. I know defenses are supposed to defend but you can at least be polite about it. Anyways, I hate this plane. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @ lavendergooms13 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Need some tech products that don't destroy the earth? Well head on over to gonimble.com/dragons today! We could all use a little bit of better mental health in 2019. Help yourself today by going to betterhelp.com/dragons to find out more! Head to ExpressVPN.com/dragons to protect your weird browsing history today! Want custom tabletop minis? Well head to Heroforge.com and start designing your heroes now! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873913.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FdV-Pjl-RxfQIyaRA19UKdwVH9AlcjpaQUvLiqOmVRNI/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "686062214",
       "itunes_duration": "59:28",
-      "speakers": [
-        "Melted Snow"
-      ],
+      "speakers": [],
       "topics": [
         "brimstone",
         "melted",
@@ -6192,9 +6205,9 @@
     },
     {
       "key": "b04ac272c6d3c736094a994a21460daa446be583",
-      "title": "Episode 336 - Skank Your Way Into A Volcano",
+      "title": "Skank Your Way Into A Volcano - C1: E336",
       "published_at": "2019-11-04T17:47:58+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873914",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/skank-your-way-into-a-volcano-c1-e336",
       "description": "We continue our search for facts and clues about this strange City of Brass. They have this odd, haunting horn filled music that we are all taking a shine too. Is this local dance a clue? The way they swings their elbows and kick their feet must be some sort of magical ritual. We must investigate more. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @ lavendergooms13 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Need some tech products that don't destroy the earth? Well head on over to gonimble.com/dragons today! We could all use a little bit of better mental health in 2019. Help yourself today by going to betterhelp.com/dragons to find out more! Head to ExpressVPN.com/dragons to protect your weird browsing history today! Want custom tabletop minis? Well head to Heroforge.com and start designing your heroes now! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873914.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FfK_E0q052A5swIkw7-7T8h9ma3kqIMBkMRc0yjib__w/media.mp3",
@@ -6209,29 +6222,26 @@
     },
     {
       "key": "f4b1f0ac1da79dff2df85c2a1cb6816598aa8080",
-      "title": "Episode 335 - Welcome to the City of Brass",
+      "title": "Welcome to the City of Brass - C1: E335",
       "published_at": "2019-10-28T18:08:11+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873915",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-the-city-of-brass-c1-e335",
       "description": "When entering a new, strange town you gotta learn who the power movers and shakers are. The City of Brass is about as foreign as any place we have been so it stands to reason that whoever runs this place is going to be extremely powerful in a way that we are not fully capable of understanding. But that is why we need to hang out with the locals and learn. And dance. And Bone Fight. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @ YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Need some tech products that don't destroy the earth? Well head on over to gonimble.com/dragons today! We could all use a little bit of better mental health in 2019. Help yourself today by going to betterhelp.com/dragons to find out more! Head to ExpressVPN.com/dragons to protect your weird browsing history today! Want custom tabletop minis? Well head to Heroforge.com and start designing your heroes now! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873915.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F4nhvttniZUst8vXYfDioYn2BK3AzwIxjPqE178lA8LI/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "814816448",
       "itunes_duration": "1:10:39",
-      "speakers": [
-        "Brass When"
-      ],
+      "speakers": [],
       "topics": [
-        "welcome",
         "city",
         "brass"
       ]
     },
     {
       "key": "d89da838519110b842f6d0372da0114a078c0843",
-      "title": "Episode 334 - Welcome to the Elemental Plane of Fire",
+      "title": "Welcome to the Elemental Plane of Fire - C1: E334",
       "published_at": "2019-10-21T17:51:42+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873916",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-the-elemental-plane-of-fire-c1-e334",
       "description": "Time to continue on our quest to save everything. The Plane of Fire. What can you say about it that hasn't been said before. This is...going to be hard and very, very hot, isn't it? Be sure to stick around after the episode to find out what the heck Bachmann has been doing in his basement and who he's been doing it with! You can also check out RollforStreetwise.com to see video of it. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Need some tech products that don't destroy the earth? Well head on over to gonimble.com/dragons today! We could all use a little bit of better mental health in 2019. Help yourself today by going to betterhelp.com/dragons to find out more! Head to ExpressVPN.com/dragons to protect your weird browsing history today! Want custom tabletop minis? Well head to Heroforge.com and start designing your heroes now! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873916.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FLDwCAXURZ1AJQ47TKV85SBt6wm2uUDa988O_4ef_dQg/media.mp3",
@@ -6239,11 +6249,9 @@
       "enclosure_length": "733714978",
       "itunes_duration": "1:03:37",
       "speakers": [
-        "Elemental Plane",
-        "Fire Time"
+        "Elemental Plane"
       ],
       "topics": [
-        "welcome",
         "elemental",
         "plane",
         "fire"
@@ -6251,9 +6259,9 @@
     },
     {
       "key": "de675d4a760fa4ff4f36aaa7b0377e1d6b5a7289",
-      "title": "Episode 333 - Oops! All Tobies",
+      "title": "Oops! All Tobies - C1: E333",
       "published_at": "2019-10-14T19:22:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873917",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/oops-all-tobies-c1-e333",
       "description": "With the gang returning from HELL they now have some hard choices to make. Well, mostly one choice to make and it is hard. But, since they get a brief moment of downtime they are able to explore some of their hobbies and train a little bit. Maybe some spring cleaning too. Be sure to stick around after the episode to find out what the heck Bachmann has been doing in his basement and who he's been doing it with! You can also check out RollforStreetwise.com to see video of it. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Need some tech products that don't destroy the earth? Well head on over to gonimble.com/dragons today! We could all use a little bit of better mental health in 2019. Help yourself today by going to betterhelp.com/dragons to find out more! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873917.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fkc0xOcX4fLupY-M32YMJ5av2uQvCyqJtpXT9IIRb5-A/media.mp3",
@@ -6262,15 +6270,14 @@
       "itunes_duration": "1:13:20",
       "speakers": [],
       "topics": [
-        "oops",
-        "toby"
+        "tobies"
       ]
     },
     {
       "key": "a4a35c5c083371ac791ba6d894a91afdd7a7fa11",
-      "title": "Episode 332 - Welcome to Sigil Part 2",
+      "title": "Welcome to Sigil Part 2 - C1: E332",
       "published_at": "2019-10-07T18:11:09+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873918",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-sigil-part-2-c1-e332",
       "description": "Jaela and Aludra continue their search for Adira Harper. Hopefully the journey isn't filled with danger as well as twists and turns! That would be spooky! Thanks to Celeste for joining us! Please follow her on twitter . And thank you to Carly for returning! Follow her on twitter ! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @DoodleKm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Need some tech products that don't destroy the earth? Well head on over to gonimble.com/dragons today! We could all use a little bit of better mental health in 2019. Help yourself today by going to betterhelp.com/dragons to find out more! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873918.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FWxcD6UbWnpJqWMOWBzYmEo-woNhfYMBnVS34fKnjEIo/media.mp3",
@@ -6281,34 +6288,30 @@
         "Adira Harper"
       ],
       "topics": [
-        "welcome",
         "sigil"
       ]
     },
     {
       "key": "689d088fa1d705173cd5b266f3ff041ea52eb8b6",
-      "title": "Episode 331 - Welcome to Sigil",
+      "title": "Welcome to Sigil - C1: E331",
       "published_at": "2019-09-30T17:43:03+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873919",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-sigil-c1-e331",
       "description": "Let us continue these interlude stories to show you that our world is like a ticking clock. Even though your heroes from the Tower of Grey are busy saving the realms other heroes are out there also getting wild. I will say no more about who we meet today, but it is very regal. Thanks to Celeste for joining us! Please follow her on twitter . The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @Jessmic15 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Finding and scheduling a game night can be hard but Gamelyapp.com is there to help out! Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873919.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F0ZOjRhEzZQeXEYO1uwpxI7I4xMGzidG43NuuMGofcGk/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "809030668",
       "itunes_duration": "1:10:06",
-      "speakers": [
-        "Sigil Let"
-      ],
+      "speakers": [],
       "topics": [
-        "welcome",
         "sigil"
       ]
     },
     {
       "key": "eb2c5a6df72d909c20ce095e3070a7027eee9d65",
-      "title": "Episode 330 - Some Ends Are Beginnings",
+      "title": "Some Ends Are Beginnings - C1: E330",
       "published_at": "2019-09-23T17:18:28+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287391a",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/some-ends-are-beginnings-c1-e330",
       "description": "We continue our flash back adventure, which is something that is so fun about tabletop RPGs, right? Just throw in some backstory later in the adventure. I love it. Anyways things go real, real bad for our heroes and new pals. Good Luck! Thanks to Josh for guesting! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @sanderdoesart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Finding and scheduling a game night can be hard but Gamelyapp.com is there to help out! Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287391a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FxkROVmOryl6prC6wS9yKf6KNAXplyRbroPwp7qP41tw/media.mp3",
@@ -6323,20 +6326,17 @@
     },
     {
       "key": "260dd3e9b826aae7e6c807144e3a55a50a21e27c",
-      "title": "Episode 329 - Welcome to the Temple of Uthgar",
+      "title": "Welcome to the Temple of Uthgar - C1: E329",
       "published_at": "2019-09-16T17:46:48+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287391b",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-the-temple-of-uthgar-c1-e329",
       "description": "Let's take a quick trip to the past to find out about the history of one of our heroes. Not much is known about Skud but maybe we can shed some light on our friendly Bonemancer. Thanks to Josh for guesting! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @sanderdoesart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Finding and scheduling a game night can be hard but Gamelyapp.com is there to help out! Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287391b.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FZv1bVxNHJBPhhhtd4NSWTqIpbj0avFkh-cBbOVDKy40/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "690261830",
       "itunes_duration": "59:49",
-      "speakers": [
-        "Uthgar Let"
-      ],
+      "speakers": [],
       "topics": [
-        "welcome",
         "temple",
         "uthgar"
       ]
@@ -6362,9 +6362,9 @@
     },
     {
       "key": "be0d8d55a0f0d9aff511f88dc18f0cffaf550dd2",
-      "title": "Episode 328 - A Victory in the Vault",
+      "title": "A Victory in the Vault - C1: E328",
       "published_at": "2019-09-02T20:04:35+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287391d",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-victory-in-the-vault-c1-e328",
       "description": "With some quick thinking and even quicker teamwork The Tower of Grey managed to not be instantly killed by another dragon of the Hellish Bank. There are a few more left but for right now, I think I we have our hands full with this one who just won't stop spraying ice everywhere. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @Jessmic15 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Finding and scheduling a game night can be hard but Gamelyapp.com is there to help out! Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287391d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F4xP3jLPgWtSDhwweurT0BUo6tcfWAJ6Nh81C7Dw9NTY/media.mp3",
@@ -6381,9 +6381,9 @@
     },
     {
       "key": "60e553319d2aa1b306c38674a9a3d23d91391160",
-      "title": "Episode 327 - Chromatic Chaos",
+      "title": "Chromatic Chaos - C1: E327",
       "published_at": "2019-08-26T18:03:41+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287391e",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/chromatic-chaos-c1-e327",
       "description": "Is this the Final Battle in the Hell Bank? If your heroes act fast and use all the cunning they have saved up by purposely, and bravely, making bad plans surely the end is in sight! Fighting inside a giant robot bank is extremely dangerous and we do not recommend it. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @Jessmic15 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Finding and scheduling a game night can be hard but Gamelyapp.com is there to help out! Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287391e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F_R9RmIakWwDUEkU7pbkH68s8sNCt3qklYs2Nj59rSi0/media.mp3",
@@ -6391,6 +6391,7 @@
       "enclosure_length": "858038902",
       "itunes_duration": "1:14:22",
       "speakers": [
+        "Chromatic Chaos",
         "Final Battle",
         "Hell Bank"
       ],
@@ -6401,34 +6402,34 @@
     },
     {
       "key": "bb42a8a011192eefd2a781d80a8695c6d2e1a81b",
-      "title": "Episode 326 - The Under-Bank",
+      "title": "The Under-Bank - C1: E326",
       "published_at": "2019-08-19T18:52:33+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287391f",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-under-bank-c1-e326",
       "description": "Only way to go is up, even if up seems to be an abandoned sub floor of the hell bank. Like, what if there are truly monsterous things down here? I cannot imagine that they make sure nothing horrible, some discarded security measure deemed too cruel even for this hellish bank, roams these halls. But we must take this bank down if we are to make the realms safer so forward we go. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Finding and scheduling a game night can be hard but Gamelyapp.com is there to help out! Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287391f.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F4fjm_Fhc8pa9xQqgBYsaNRDcKaABfKzw6N7-5cdcj7s/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "699720806",
       "itunes_duration": "1:00:39",
-      "speakers": [
-        "Bank Only"
-      ],
+      "speakers": [],
       "topics": [
         "bank"
       ]
     },
     {
       "key": "c703f7f71b1fe3576666f415b362882a8ea9817c",
-      "title": "Episode 325 - A Shattered Illusion",
+      "title": "A Shattered Illusion - C1: E325",
       "published_at": "2019-08-12T17:47:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873920",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-shattered-illusion-c1-e325",
       "description": "It seems like many somethings are not quite the something that they originally seemed to seem. We knew that we most likely were not on some sort of nice beach but I think we underestimated how treacherous this bank holiday could be. What's worse is that it is possible we are being used to further some other entities goals unbeknownst to us! Well, our quest is still an honorable one so we must press on. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @DoodleKm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Finding and scheduling a game night can be hard but Gamelyapp.com is there to help out! Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873920.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FcwVVndUBgkGMzUrUogg6Jqd25a4jLeuMEpNm70P5lhY/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69444754",
       "itunes_duration": "1:12:20",
-      "speakers": [],
+      "speakers": [
+        "Shattered Illusion"
+      ],
       "topics": [
         "shattered",
         "illusion"
@@ -6471,9 +6472,9 @@
     },
     {
       "key": "3ca2ec5447e71bb61c7db9d8cab525958fe57385",
-      "title": "Episode 324 - Everything Leads to Dragons in the End",
+      "title": "Everything Leads to Dragons in the End - C1: E324",
       "published_at": "2019-07-22T21:35:16+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873923",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/everything-leads-to-dragons-in-the-end-c1-e324",
       "description": "Having angered yet another dragon, the gang must fight for their lives against the creatures' fury. Meanwhile, Toby is in his own fight in the bedroom. Both are dangerous but one is fun and they other has big teeth full of lightning. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @Jessmic15 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Finding and scheduling a game night can be hard but Gamelyapp.com is there to help out! Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873923.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FGjDI9w8tq4q5iYQ8N8krM-LloIWOPbycESY0DzQFM0Q/media.mp3",
@@ -6481,8 +6482,7 @@
       "enclosure_length": "820769726",
       "itunes_duration": "1:11:09",
       "speakers": [
-        "Everything Leads",
-        "End Having"
+        "Everything Leads"
       ],
       "topics": [
         "dragons"
@@ -6490,9 +6490,9 @@
     },
     {
       "key": "5c9fbb18c11fbb4b33254a371d7625069b83825f",
-      "title": "Episode 323 - In the Bedroom",
+      "title": "In the Bedroom - C1: E323",
       "published_at": "2019-07-15T18:10:09+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873924",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/in-the-bedroom-c1-e323",
       "description": "A classic tale in spy adventures is \"What if the enemy is hot and wants to kiss???\" Sure, it is dangerous, but so is doing spy things! Maybe doing a little kissy is going to make things more complicated but honestly you won't know until you find out. The mission is the most important thing and if having a bedroom moment helps he mission why not I say. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @bridgitconnell ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Finding and scheduling a game night can be hard but Gamelyapp.com is there to help out! Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873924.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F3bP50m7nanFRkz6FA7VhGr8YsoS4q3JYrd4GFTVxPfk/media.mp3",
@@ -6506,9 +6506,9 @@
     },
     {
       "key": "8581cbd32c4ab532d6073764465794ed63981f9a",
-      "title": "Episode 322 - One Bad Bungalow",
+      "title": "One Bad Bungalow - C1: E322",
       "published_at": "2019-07-08T19:08:01+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873925",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/one-bad-bungalow-c1-e322",
       "description": "Close your eyes. Imagine an idyllic tropical resort. You would imagine that they would have some sort of cabin filled with whatever your heart desires. Now imagine you are hearing screams from a pal you met on a Prison Plane. Not a fun thought, is it. That is the life of an adventurer and it is only going to get weirder. With our emotions wounds somewhat healed we must head out into the most fearsome foe yet - a corporate mixer party. What will these dreaded hellions get into to sate their dark desires? If there is a limbo and conga line we are leaving. That is the final straw. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @Rattenkaefig ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Finding and scheduling a game night can be hard but Gamelyapp.com is there to help out! Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873925.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FLAmC1VROxLsHWm8ZkJx4WC1E6h3AJwxuQ4JAnO_RsHw/media.mp3",
@@ -6516,7 +6516,7 @@
       "enclosure_length": "63006093",
       "itunes_duration": "1:05:38",
       "speakers": [
-        "Bad Bungalow"
+        "One Bad Bungalow"
       ],
       "topics": [
         "bungalow"
@@ -6524,9 +6524,9 @@
     },
     {
       "key": "0c28ef706839a258a36340d566caf4ee472c1286",
-      "title": "Episode 321 - The Mixer",
+      "title": "The Mixer - C1: E321",
       "published_at": "2019-07-01T15:53:27+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873926",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-mixer-c1-e321",
       "description": "With our emotions wounds somewhat healed we must head out into the most fearsome foe yet - a corporate mixer party. What will these dreaded hellions get into to sate their dark desires? If there is a limbo and conga line we are leaving. That is the final straw. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Finding and scheduling a game night can be hard but Gamelyapp.com is there to help out! Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873926.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FDxNyeFMd5bDbTP1OEiZZ569EmS6WS3-ifZp45WwxBfg/media.mp3",
@@ -6540,9 +6540,9 @@
     },
     {
       "key": "512f59d6aee6253f674fd1373910daa2289ec208",
-      "title": "Episode 320 - Preparing to Get Talented",
+      "title": "Preparing to Get Talented - C1: E320",
       "published_at": "2019-06-24T19:48:28+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873927",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/preparing-to-get-talented-c1-e320",
       "description": "With the extreme stakes bearing down on our heroes' shoulders they decide that the safest route to their goals is - A Talent Show. Weirder things have saved millions if our histories can be believed. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Fear all ye who miss Dwarven Forge’s Hellscape kickstarter ! Complete with illuminated lava and infernal decor, this miniature table top gaming terrain is full of all the evil your life has been missing. Live now on Kickstarter, get your pledge in while it’s still hot. Get your fresh hell and melt the faces on your whole party. We know the devil is in the details, and that’s why Dwarven Forge’s terrain is hand painted, hand sculpted, and individually kissed by Asmodeus himself. Ending on July 1st, you will want to make sure you get in on this before hell freezes over. Podcast art by @wingedhat ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Finding and scheduling a game night can be hard but Gamelyapp.com is there to help out! Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873927.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fqn6xvF2Nt9pcL0916bC5u4lna1U7ghZAcwxIW34vl9g/media.mp3",
@@ -6550,13 +6550,15 @@
       "enclosure_length": "700443258",
       "itunes_duration": "1:00:44",
       "speakers": [],
-      "topics": []
+      "topics": [
+        "talented"
+      ]
     },
     {
       "key": "66a9701f1bd2d1d98d5a12756b8605a4597f8e3e",
-      "title": "Episode 319 - Love the Skin You're In",
+      "title": "Love the Skin You're In - C1: E319",
       "published_at": "2019-06-17T15:21:36+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873928",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/love-the-skin-youre-in-c1-e319",
       "description": "When danger is all around you it is easy to rely on past successes and charge into the unknown. Surely, since you have faced gods and survived, this next peril will be tough but manageable. Surely, we will be able to solve any problem thrown our way. Surely, any foe we face should be more afraid of us than we are of them. But that is not always the case, unfortunately. And you only have to be wrong once. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @Rattenkaefig ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Dwarven Forge’s Hellscape kickstarter is now live and you simply don't want to miss it! Finding and scheduling a game night can be hard but Gamelyapp.com is there to help out! You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873928.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F97im_o2NMbRMR_Or0IASM5ZDB1eTWOfHQJZIY2dtNiA/media.mp3",
@@ -6570,9 +6572,9 @@
     },
     {
       "key": "e19f7f71ac1af39e2810daa290c74cd7c235f6f5",
-      "title": "Episode 318 - An Early End",
+      "title": "An Early End - C1: E318",
       "published_at": "2019-06-10T19:46:41+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873929",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/an-early-end-c1-e318",
       "description": "Our heroes have found the location of the artifact, which is their whole reason for being in Hell. All they have to do is get into the vault, grab it, and they can dip out of this weird and creepy corporate hell-retreat. Maybe this arc will end up being a short one after all! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @a_goatfacekilla ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873929.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FF75kwCSvhX6fgF3xnye9wOQgPf7ekprrmm5unx-gmxo/media.mp3",
@@ -6584,9 +6586,9 @@
     },
     {
       "key": "61aa29c03705c25a054d488cbaf029c000c419e5",
-      "title": "Episode 317 - The Vault",
+      "title": "The Vault - C1: E317",
       "published_at": "2019-06-03T15:48:18+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287392a",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-vault-c1-e317",
       "description": "Your heroes race deeper into the depths of the hell bank searching for the piece of the god killing puzzle. They have never experienced such a frightful lair as this but with the power of team work they will surely come out the other side. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287392a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FaGQLVifo8iRF0jKyw50saPGgfDHgQqi4vgezZnn74QQ/media.mp3",
@@ -6600,18 +6602,16 @@
     },
     {
       "key": "8b35d481d0d4e6f5b3fd02412f844a1114daa5ae",
-      "title": "Episode 316 - Robo Reconnaissance",
+      "title": "Robo Reconnaissance - C1: E316",
       "published_at": "2019-05-27T17:28:35+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287392c",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/robo-reconnaissance-c1-e316",
       "description": "Look we know the hell bank vault is going to have a lot of defenses but what else are we supposed to do? Not try to break in??? No, the only logical course of action is to rush into danger with a plan we know will not work and then adapt a new plan once we get down there. How bad could it be? The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @wingedhat ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287392c.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FjMnOz3HmWR6S-JuodEgs9BOS_eegbGlGBMqx8wr-0DA/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "865958074",
       "itunes_duration": "1:15:07",
-      "speakers": [
-        "Robo Reconnaissance Look"
-      ],
+      "speakers": [],
       "topics": [
         "robo",
         "reconnaissance"
@@ -6619,16 +6619,18 @@
     },
     {
       "key": "c3a3eea8f9100de436b7907137a8480aaa8b53a6",
-      "title": "Episode 315 - Hell Room",
+      "title": "Hell Room - C1: E315",
       "published_at": "2019-05-20T20:22:50+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287392d",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/hell-room-c1-e315",
       "description": "This dang corporate retreat is going to kill us. Probably literally. This infernal bank has strange and dangerous magics we have never seen before and that is terrifying. Surely, we are strong enough to overcome any obsticle but at what cost? Being shot with hell beams hurts like...well...hell. Also, a little announcement. As we have mentioned way back we are changing the name of the podcast. The reasons are many and complicated but we hope we still have your trust as we all work through this change. Only the name of the podcast is changing, nothing else! Still the same wild antics and really bad plans. We are pleased to finally reveal that the new name of our little D&D podcast is - Greetings, Adventurers! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @sanderdoesart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287392d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FJRp3cGQASdDFGwd-Q8rq30YjfaaAgoSK1wXinp49tk4/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "760300726",
       "itunes_duration": "1:05:57",
-      "speakers": [],
+      "speakers": [
+        "Hell Room"
+      ],
       "topics": [
         "hell",
         "room"
@@ -6636,9 +6638,9 @@
     },
     {
       "key": "bd2a574169bc18a20f6179d7b73b970a5f74d35c",
-      "title": "Episode 314 - Welcome to Vacation Island",
+      "title": "Welcome to Vacation Island - C1: E314",
       "published_at": "2019-05-13T18:11:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287392e",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-vacation-island-c1-e314",
       "description": "The gang finally catches a break! Are they in hell? Sure. Do they have a bungalow with HDTV and a lazy river that follows directly to the pool bar? YES! It seems like this all tracks, and nothing could possibly go wrong. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by @gregor_stiebert ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287392e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FKdweONo7S6sFoIXFmcGuTc8LaEHRb3tEKqFeLJJCh7U/media.mp3",
@@ -6647,16 +6649,15 @@
       "itunes_duration": "1:07:31",
       "speakers": [],
       "topics": [
-        "welcome",
         "vacation",
         "island"
       ]
     },
     {
       "key": "0168948111ead68d42360d7867418c1c6baa3fa5",
-      "title": "Episode 313 - The Corporate Retreat",
+      "title": "The Corporate Retreat - C1: E313",
       "published_at": "2019-05-06T15:02:17+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287392f",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-corporate-retreat-c1-e313",
       "description": "If I can take a step outside of in character podcast descriptions for a second, it is obvious that Michael needed a break from trying (and usually failing) to kill us every week so he sent us to the beach. Michael may act like this is some sort of spooky hell beach but I am pretty sure we are just RPing being able to afford a vacation like this. This is what makes D&D so special - imagining a world where the impossible is possible. I am excited. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor David Stewart ( @spudcam )! Podcast art by jojo.draws ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Want to eat good dreadwing level meals at home without fighting slimes? Head to hellofresh.com/DRAGONS80 and use the offer code DRAGONS80. You gotta respect your teeth like a +1 greatsword, amirite? Head to GETQUIP.com/DRAGONS to get your first re-fill pack for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287392f.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FAarkQYDKYDauv0DSlSqWRsSpNwC_SRVdm_jXOOpD5QQ/media.mp3",
@@ -6671,9 +6672,9 @@
     },
     {
       "key": "a9019f5f8ffc24447bc59b12f177d4497ca9d75a",
-      "title": "Episode 312 - Banksona 2",
+      "title": "Banksona 2 - C1: E312",
       "published_at": "2019-04-29T17:28:55+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873930",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/banksona-2-c1-e312",
       "description": "Our brave Bank Heroes continue their task of infiltrating the dread bank of Pelor's Hope. Surely, whoever ate Gruebel McSnuggs lunch didn't plan on The Tower of Grey to be on the scene! Whoa to all lunch stealers! Podcast art by @lochearte ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873930.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fcx4DKbm8tqV66DsvsdJzZcUeYI2LdhUqTatYbLCWUyE/media.mp3",
@@ -6689,27 +6690,25 @@
     },
     {
       "key": "17a1d5a7007dd027ab6ff4e22c02a17cbe2b8ec5",
-      "title": "Episode 311 - Banksona 1",
+      "title": "Banksona 1 - C1: E311",
       "published_at": "2019-04-22T17:27:27+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873931",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/banksona-1-c1-e311",
       "description": "Dress for the job you want and when you want a job at an evil bank in the big city, well, the only option is to dress to the 7s. Rowan, unfortunately, is afraid of having a job so she ran into the woods! (Jennifer was in NYC for work). Gather around and listen to the tale of 3 brave heroes who must try with all their might to get a job at a bank. Podcast art by @DoodleKm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873931.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FI4Ds67R9vHoBiSZUvR9usvvi_feeGBqz6aoee7OOoSA/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "739882338",
       "itunes_duration": "1:04:09",
-      "speakers": [
-        "Banksona Dress"
-      ],
+      "speakers": [],
       "topics": [
         "banksona"
       ]
     },
     {
       "key": "9ae918b351ed12dcae7aa63a407889a9da11e456",
-      "title": "Episode 310 - With Tooth and Tail",
+      "title": "With Tooth and Tail - C1: E310",
       "published_at": "2019-04-15T17:20:30+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873932",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/with-tooth-and-tail-c1-e310",
       "description": "We are really showing that dragon what's what, aren't we? Unfortunately, Drakoolus's guards are no push over so the gang still has to stay on their combat toes or else risk serious bodily harm. More disconcerting, however, is the mental damage poor Frank must be experiencing... Poor guy. Podcast art by @JinxStark ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873932.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FJQZTcFrsXAcWbz-IPCyRm6epGNm5nQja6McFPBuiZK8/media.mp3",
@@ -6724,9 +6723,9 @@
     },
     {
       "key": "f5134dfdeb414b78ede740bbb075869a47f291c9",
-      "title": "Episode 309 - A Maze for You, Dear Drakoolus",
+      "title": "A Maze for You, Dear Drakoolus - C1: E309",
       "published_at": "2019-04-08T15:49:10+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873933",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-maze-for-you-dear-drakoolus-c1-e309",
       "description": "I am not one to say I told you so but a fella running a damn bank named Oseary Drakoolus is a red flag and a half. Luckily we are seasoned heroes ready for any threat! And two wizards working together while a Monk and a Ranger protect them is a powerful combo worthy to be feared! Podcast art by @arosekami ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873933.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F9tKL2gn2yEm6qvwCM1BGFsPCcd6uBT9tkhChb8EQzEk/media.mp3",
@@ -6745,18 +6744,16 @@
     },
     {
       "key": "782de947f9009df516cd13100d611098bed9f613",
-      "title": "Episode 308 - The Head of Accounting",
+      "title": "The Head of Accounting - C1: E308",
       "published_at": "2019-04-01T18:15:22+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873934",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-head-of-accounting-c1-e308",
       "description": "Frank is cool now so we owe it to him to find out what is up with his weird, probably evil boss. Don't tell Frank, but any excuse to continue to attend the various brunches around the city is always at the top of our minds. If we happen to discover some sort of evil plan that ties all this god capturing shenanigans then that is just icing on my large cinnamon roll. Podcast art by @DoodleKm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873934.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FJ_MbZmLIFCtwX07GHkDpSS03DF7WzG05k02-xJPdZQ0/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "722627396",
       "itunes_duration": "1:02:39",
-      "speakers": [
-        "Accounting Frank"
-      ],
+      "speakers": [],
       "topics": [
         "head",
         "accounting"
@@ -6764,44 +6761,43 @@
     },
     {
       "key": "b013c11c2e0631c211a7a60c971f8d19fe4e727e",
-      "title": "Episode 307 - Breaking the Bank",
+      "title": "Breaking the Bank - C1: E307",
       "published_at": "2019-03-25T15:44:20+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873935",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/breaking-the-bank-c1-e307",
       "description": "Frank is pretty sure that this Iron Bank isn't bad, but we have our doubts. Naturally, we want to be sure that we don't make a very powerful enemy without cause so we gotta do our research. After brunch, that is. Podcast art by @sanderdoesart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873935.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FSoJASzFbSP9rsSARILEOHgOnZz8eFGLVHV0i-uvOAbs/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67350778",
       "itunes_duration": "1:10:09",
-      "speakers": [],
+      "speakers": [
+        "Iron Bank"
+      ],
       "topics": [
         "bank"
       ]
     },
     {
       "key": "095e021836b77f6a8dbb899ce7ad5bfb7495e348",
-      "title": "Episode 306 - What Hell to Travel Next",
+      "title": "What Hell to Travel Next - C1: E306",
       "published_at": "2019-03-18T15:09:43+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873936",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/what-hell-to-travel-next-c1-e306",
       "description": "When you are face to face with Ioun the goddess of knowledge you gotta take advantage of it. Our heroes are about to journey into extremely dangerous planes so naturally they try to get as much info as possible. Apparently they solved the safer god problems and the next few are a doozy and a half. They all sound terrible. But being a hero means you jump into danger when called to do so. Being a living hero means you make sure you know where you are landing and if the air is poison. Podcast art by @DoodleKm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873936.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FxsRRT9hoFyotSynbKLPOMmlxpf49h2zXs3cYdTaiWY0/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "750101686",
       "itunes_duration": "1:05:02",
-      "speakers": [
-        "What Hell"
-      ],
+      "speakers": [],
       "topics": [
-        "hell",
-        "travel"
+        "hell"
       ]
     },
     {
       "key": "2e61c54898f46427ad464b96a95e811f154e845e",
-      "title": "Episode 305 - A Grand Battle Part 2",
+      "title": "A Grand Battle Part 2 - C1: E305",
       "published_at": "2019-03-11T18:21:56+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873937",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-grand-battle-part-2-c1-e305",
       "description": "The battle outside Deephome rages on, but will our heroes be able to keep their rag tag army in check against the onslaught of the approaching Dragons!? That is such a stressful thing to think about! Did we ever imagine the Aludra who woke up on that slab all those years ago and would be commanding an army? They grow up so fast. Unfortunately, there is another shade from Aludra's past on the horizon. Surely... it cannot be...I will not say that heroes name! Trickster! Charlatan! Podcast art by @sanderdoesart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873937.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FchurF6rGPSMpckKO8NMxJhqvMuVeAOKrVSR78Dr3FUY/media.mp3",
@@ -6816,9 +6812,9 @@
     },
     {
       "key": "f57f3ca55b209dfceb39d2cf801ac22d87061980",
-      "title": "Episode 304 - A Grand Battle",
+      "title": "A Grand Battle - C1: E304",
       "published_at": "2019-03-04T18:09:07+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873938",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-grand-battle-c1-e304",
       "description": "Turns out there are lots of bad things going on throughout Drunkeros but luckily Queen Aludra has called her allies to defend Deephome. Listen as we play out a huge battle and repel thousands of enemies from the entrance of the dwarven home land of Deephome. Gasp as a mighty brontosaurus covered in goblins smashes the ranks of a dragonborn cavalry. Stare in awe at a dragons approach over the horizon! Podcast art by @cclaray ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873938.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FhiqLPUbQ9BeOpAKQ9EgLanHfVT3Zel-UQ7o5641ObHY/media.mp3",
@@ -6835,9 +6831,9 @@
     },
     {
       "key": "d81afe42256b97235dd5e666c6fd78c5cf7bce93",
-      "title": "Episode 303 - Something Mailbag this Way Comes",
+      "title": "Something Mailbag this Way Comes - C1: E303",
       "published_at": "2019-02-25T16:03:09+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873939",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/something-mailbag-this-way-comes-c1-e303",
       "description": "Before we jump into the next chunk of this arc we wanted to take a moment to answer y'all's burning questions! Thank you all so much for writing in. We always love doing these eps since it gives us a chance to wild out a bit. Next episode we will I guess go into some sort of worse place than Prison Planet so that is something nice to think about. I think one of the planes was entirely on fire? Working on our tans would be nice, I guess... Anyways I don't think there are any controversial questions this time (Pie is better than Cake) but feel free to scream at your listening device along with us. Podcast art by @DoodleKm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873939.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FmYu0orCdzvpE9y0WB-GUxDXEgkmslH46FhF4MV4_WZE/media.mp3",
@@ -6846,17 +6842,18 @@
       "itunes_duration": "1:21:46",
       "speakers": [
         "Something Mailbag",
-        "Way Comes Before"
+        "Way Comes"
       ],
       "topics": [
-        "mailbag"
+        "mailbag",
+        "comes"
       ]
     },
     {
       "key": "bbc1da2d6ba3ae64e7827cd31c6270cd637a4613",
-      "title": "Episode 302 - Never Have We Ever",
+      "title": "Never Have We Ever - C1: E302",
       "published_at": "2019-02-18T18:28:40+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287393a",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/never-have-we-ever-c1-e302",
       "description": "I think it is safe to say that the heroes of our story needed to let off a little steam. To collectively exhale, let their guard down and just act like all of existence isn't being threatened by some all powerful force. Luckily they have made some allies that many consider gods. It is good to have friends like that. Friends who have whole cities named after them. Podcast art by @sanderdoesart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287393a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FB_BB4ZIIPjdnNMSnna7WyqY_UBIjpBm4jbP8JunR5sY/media.mp3",
@@ -6864,13 +6861,15 @@
       "enclosure_length": "798883794",
       "itunes_duration": "1:09:17",
       "speakers": [],
-      "topics": []
+      "topics": [
+        "never"
+      ]
     },
     {
       "key": "82cc9851d129fe8b6490f34009bd6448cec73684",
-      "title": "Episode 301 - Back to the Tower",
+      "title": "Back to the Tower - C1: E301",
       "published_at": "2019-02-11T16:41:04+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287393b",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/back-to-the-tower-c1-e301",
       "description": "Having defeated Josail Longshadow our crew of adventurers must decide what to do with the frozen bodies of Torog and Pelor. Pelor is pretty simple: release him. Torog...well Torog will probably be pretty mad and in a \"squash small things\" mood. Whatever they decide, fate has dealt them a hand that forces them to keep moving forward or else more gods of the realm will be captured. Captured gods tend to have disastrous effects on their local population so they barely have time to catch their breath. That is the life of a hero for you. Podcast art by @mcwafflez45 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287393b.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FRQp4eCWdo_C3UPCE2NrVhcJeTlvYFwMEsofmGqFaUEo/media.mp3",
@@ -6908,9 +6907,9 @@
     },
     {
       "key": "28aac4bde7706575460fa3e8095292e0d568b946",
-      "title": "Episode 299.5 - Power Fully Restored",
+      "title": "Power Fully Restored - C1: E299.5",
       "published_at": "2019-01-28T18:27:58+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287393d",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/power-fully-restored-c1-e2995",
       "description": "This is it! Josail Longshadow and Pelor is within our grasps! We are stronger than ever and full of righteous anger. Our quest is to free a god for, Pelor's sake, so we have no choice but to pull out all the stops and end this once and for all. Well, until the next god goes missing. But we are even more prepared for that! We must stop whatever is going on here because not only our plane but all planes of existence could be wiped out! I hope Josail wore a clean pair of undies today. Podcast art by @LadyVidalis ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287393d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FHg2iruljjPvScmYt2yNicpSDDAZ8qTHGjg-912mdjg8/media.mp3",
@@ -6921,14 +6920,15 @@
         "Josail Longshadow"
       ],
       "topics": [
-        "power"
+        "power",
+        "restored"
       ]
     },
     {
       "key": "d976941d750fb2dbd589cab7f7e503fdbc5a73cf",
-      "title": "Episode 299 - A Crystalline Horror",
+      "title": "A Crystalline Horror - C1: E299",
       "published_at": "2019-01-21T19:04:17+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287393e",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-crystalline-horror-c1-e299",
       "description": "I think we all knew there was going to be something weird inside the armory or whatever your would call this room. An impound? Is that what you would call it? Anyway this creature is terrifying and I hate fighting it. Something...is screaming inside. Something, dare I say, familiar? Every quest has a moment when you stop and just for one second appreciate just how weird things have gotten. Hopefully this weird crystal belly haver is that moment. Podcast art by @YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287393e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FB5M9yHfrJuvEYiN4qAd6TVdR_mibdP7bD-Wrq_vwJbY/media.mp3",
@@ -6966,9 +6966,9 @@
     },
     {
       "key": "785b106d81f966a7576035dd148aae8ba71bfa5d",
-      "title": "Episode 298 - The Office Space",
+      "title": "The Office Space - C1: E298",
       "published_at": "2019-01-07T16:23:55+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873940",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-office-space-c1-e298",
       "description": "Having defeated those weird...creatures and saved Ekhart, the gang now has to journey to the prison offices. Hopefully all of their loot is there. As it often happens, more and more guards are like, trying to stop them? Luckily, we have several...demon or dog based tricks up our sleeves. Podcast art by @IForgetHisName ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873940.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FAvjBcID7GfiHKJIDHtsxcIVnEgQjkJpZ5_9mKAUGth4/media.mp3",
@@ -6983,9 +6983,9 @@
     },
     {
       "key": "9a1a6eeb0c94890f1c28deb3b3008a284947c932",
-      "title": "Episode 297 - Masked Monsters",
+      "title": "Masked Monsters - C1: E297",
       "published_at": "2018-12-31T19:56:53+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873941",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/masked-monsters-c1-e297",
       "description": "Falling down a big hole usually leads to fun, new experiences but not today! Luckily, our good friend Eckhart Day Hammer is here. But it looks like he is getting…eaten alive? This hole sucks to be in. Podcast art by @sanderdoesart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873941.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FEggZWhOUpB9DFV7t6ySqNNUbRcjnsVcKWkxq-hkV7rI/media.mp3",
@@ -6993,18 +6993,18 @@
       "enclosure_length": "75137358",
       "itunes_duration": "1:18:16",
       "speakers": [
-        "Masked Monsters Falling"
+        "Masked Monsters"
       ],
       "topics": [
         "masked",
-        "monster"
+        "monsters"
       ]
     },
     {
       "key": "9cc36e7dae64a5d0268fe9beb4ad0643c077bce2",
-      "title": "Episode 296 - The Bone Pit",
+      "title": "The Bone Pit - C1: E296",
       "published_at": "2018-12-25T13:19:46+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873942",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-bone-pit-c1-e296",
       "description": "Half the team hasn't returned from their meeting with The Baus and Jimmy Skags is running his mouth. Luckily Toby's potion is ready to go and probably isn't poison! Looks like it is time for Plan B(ean) and a head on confrontation with The Baus. Podcast art by @kikyo_cat ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873942.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FKKZDNDfnL4px_a7-4UXGtaQ2lzh6sduhZafqR8gFyIg/media.mp3",
@@ -7020,28 +7020,26 @@
     },
     {
       "key": "c672721f579a960ae3c2e3de29ea293f01470420",
-      "title": "Episode 295 - The Proverbial Pin in the Beans",
+      "title": "The Proverbial Pin in the Beans - C1: E295",
       "published_at": "2018-12-17T15:08:02+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873943",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-proverbial-pin-in-the-beans-c1-e295",
       "description": "When a plan just makes sense, you can't think about it too hard. You just have to go for it. Making a crime boss eat his own poisoned pin in a bowl of beans is both poetic and a richly deserved fate. In this episode we watch this beautifully concocted plan play out. Nothing goes wrong. Podcast art by @cclaray ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873943.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FVQUaWwPIj6mmp03_d-JxgAFsKmqyarzyaAhUIkXr3eg/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "730256324",
       "itunes_duration": "1:03:18",
-      "speakers": [
-        "Beans When"
-      ],
+      "speakers": [],
       "topics": [
         "proverbial",
-        "bean"
+        "beans"
       ]
     },
     {
       "key": "719814e231ae06369b48269ce9a7287e7eda3b20",
-      "title": "Episode 294 - Much Ado About Beans",
+      "title": "Much Ado About Beans - C1: E294",
       "published_at": "2018-12-10T17:15:20+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b5780800012873944",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/much-ado-about-beans-c1-e294",
       "description": "Now that Skud has low friends in high places things continue to get dicey. Especially since we can't really trust all these damn low friends. Not surprising but still so dang disappointing! Anyways, we are closing in on several of our small time goals in the big house so I got a feeling we are going to breaking out of this damn place soon! Hell yea! Podcast art by @emily_ee_draws ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b5780800012873944.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FRmmFWS5WzRDXVptRkqy6WghO-TDls0wQsHABtcgnMpI/media.mp3",
@@ -7052,14 +7050,14 @@
         "Much Ado About Beans"
       ],
       "topics": [
-        "bean"
+        "beans"
       ]
     },
     {
       "key": "77790d9d24d427b10fe837055856ca1580a2e572",
-      "title": "Episode 293 - One More Quick Thing about Corn",
+      "title": "One More Quick Thing about Corn - C1: E293",
       "published_at": "2018-12-03T16:18:28+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873945",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/one-more-quick-thing-about-corn-c1-e293",
       "description": "Slowly but surely the gang is getting their footing in this terrible prison. But, they need to make sure they do not botch this up since they will only have one real chance to grab the blood or the book before the guards get wise and do something about it. Maybe it is losing some of their magical abilities but it looks like our heroes are showing some restraint for the first time ever. But as we are finding out making allies in this place is just as dangerous as fighting a large Slaad. Luckily we have all these tasty and nutritious beans and corns. Well, the corn isn't for us...but still. Podcast art by @artsy22ajl ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873945.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FdGa8pggH9g-IHtpI3tudKiZ1Rck8eDgSyAFVFlzmdWQ/media.mp3",
@@ -7067,8 +7065,7 @@
       "enclosure_length": "701789892",
       "itunes_duration": "1:00:50",
       "speakers": [
-        "One More Quick Thing",
-        "Corn Slowly"
+        "One More Quick Thing"
       ],
       "topics": [
         "thing",
@@ -7077,9 +7074,9 @@
     },
     {
       "key": "bb3aff293ab6124ed13150e40ec43403b68dadfa",
-      "title": "Episode 292 - The Sausage Heist",
+      "title": "The Sausage Heist - C1: E292",
       "published_at": "2018-11-26T21:42:32+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873946",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-sausage-heist-c1-e292",
       "description": "When you have nothing to work with in a magical super prison you have to latch onto the small victories. Maybe you get a small rock or a sharpened toothbrush. Who knows what a level 17 adventurer could do with that? Baby steps is the name of the game. Plus, you have to keep your moral up in a place like this. And nothing would make me and my buds happier than that sausage platter over there. I think that guard has a plate of 90 sausages...that is so many. Podcast art by @the_checha ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873946.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FUzwzyfKnzQtgk-SL68LmKu9RiPXgfFxauVb-WqjDSGY/media.mp3",
@@ -7094,9 +7091,9 @@
     },
     {
       "key": "c28cd0e73a36e835b1c3928ed33d129e421bfc8d",
-      "title": "Episode 291 - First Days on the Job",
+      "title": "First Days on the Job - C1: E291",
       "published_at": "2018-11-19T17:47:53+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873947",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/first-days-on-the-job-c1-e291",
       "description": "Having gotten their work assignments, our heroes now actually have to go to them and perform adequately enough to not get fired or murdered. Things are very strict in this prison city so naturally our jobs are not that great. But, there are some great secrets and even greater joys to be found for those that look for them. Plus, everyone gets to eat some nice beans, which is great for the soul. Podcast art by @killurmonkey ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873947.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FyDHNvMmT7qkYjprwonWJQX8XgCgMpTRJXspVgluz3Lc/media.mp3",
@@ -7104,16 +7101,15 @@
       "enclosure_length": "713363696",
       "itunes_duration": "1:01:51",
       "speakers": [
-        "First Days",
-        "Job Having"
+        "First Days"
       ],
       "topics": []
     },
     {
       "key": "6c9a9470f1a910ca0463643a79b783d783719626",
-      "title": "Episode 290 - Getting to Work",
+      "title": "Getting to Work - C1: E290",
       "published_at": "2018-11-12T16:44:09+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873948",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/getting-to-work-c1-e290",
       "description": "Things sure are complicated in this prison. I guess it is probably the most complicated prison in all of the realms if you think about it. Anyways, we gotta get out of here and I guess free our blood? That is a weird thing to say but we have definitely said weirder things. But even if we escape the physical grounds of the prison who knows what they can do with our blood. So, that is a huge priority. So is getting to work! Finally, we got our job assignments. Podcast art by @killurmonkey ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873948.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FyZSOUqr3MnEnpXo8riqqPGI_cv-hlw9O8hHUHmYg9gk/media.mp3",
@@ -7121,13 +7117,15 @@
       "enclosure_length": "662620428",
       "itunes_duration": "57:31",
       "speakers": [],
-      "topics": []
+      "topics": [
+        "work"
+      ]
     },
     {
       "key": "55457b357a573110723a90a97e831f5fec7725b0",
-      "title": "Episode 289 - First Impressions",
+      "title": "First Impressions - C1: E289",
       "published_at": "2018-11-05T15:14:01+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873949",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/first-impressions-c1-e289",
       "description": "When starting any new life activity - prison included - you have GOT to make a great first impression. One well-known way to do that it is a sucker-punk the biggest prisoner in the place. In this episode we go ahead and explore that space. Oh, and Skud is back. Oh, and what's up with Frank's new friends? Podcast art by @Floyd_jpg ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873949.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FWu_CNAx0MjT6XDXYk9848R8MnErExO7xCKtXu1QGEjw/media.mp3",
@@ -7135,7 +7133,7 @@
       "enclosure_length": "65076662",
       "itunes_duration": "1:07:47",
       "speakers": [
-        "First Impressions When"
+        "First Impressions"
       ],
       "topics": [
         "impressions"
@@ -7143,9 +7141,9 @@
     },
     {
       "key": "aa4d4b993d2ed830ae11433b144ae2d6be246b5b",
-      "title": "Episode 288 - Welcome to Grull",
+      "title": "Welcome to Grull - C1: E288",
       "published_at": "2018-10-29T15:48:54+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287394a",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-grull-c1-e288",
       "description": "Dang! We are in the slammer! No big deal though, I am sure we will come up with something. Many adventurers have been locked up and then came up with their most daring stories from their dangerous escapes. Sure, we have no way to access our magics... and we can't find Skud or Frank... but we are making new life-long friends. No prison in all the planes can hold the Tower of Grey! Podcast art by @eemilyyclairee ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287394a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FtMd5bKbmRur90hxA9qc5b9CvCost05kiYD71g-BEoQA/media.mp3",
@@ -7154,34 +7152,30 @@
       "itunes_duration": "1:05:26",
       "speakers": [],
       "topics": [
-        "welcome",
         "grull"
       ]
     },
     {
       "key": "f96b65cc2bd5c86b2ac0562bd929745166d92005",
-      "title": "Episode 287 - Welcome to the Shadowfell",
+      "title": "Welcome to the Shadowfell - C1: E287",
       "published_at": "2018-10-22T17:50:13+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287394b",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-the-shadowfell-c1-e287",
       "description": "Entering into a new plane of existence is always a dicey proposition. Sure, you could be prepared for anything in your realm and immediately be a fish out of water in this new one. Things are just that different. The Shadowfell has an even more ruthless reputation so it came as no surprise that entering through their front door was not great...But I am sure nothing bad will happen. We are heroes! Folks love heroes no matter which realm you are in. Podcast art by @Psycho_Captain ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287394b.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FII3Ha2va3k1iN09-ei_Ypq9BdNxqErvjf-UYCbD12Ec/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "709064822",
       "itunes_duration": "1:01:28",
-      "speakers": [
-        "Shadowfell Entering"
-      ],
+      "speakers": [],
       "topics": [
-        "welcome",
         "shadowfell"
       ]
     },
     {
       "key": "7d9e5b635c50d554a9fe3a2608aa128c8a3206d0",
-      "title": "Episode 286 - Preparing to Enter the Shadows",
+      "title": "Preparing to Enter the Shadows - C1: E286",
       "published_at": "2018-10-15T20:22:24+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287394c",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/preparing-to-enter-the-shadows-c1-e286",
       "description": "Now that our course is set we actually have to figure out how to get to the ding dang Shadowfell. It isn't easy! Plus we need time to catch our breath while in Pelor's Hope. Toby is hard at work on a solution thanks to the aide of the some of the greatest minds in Drunkeros while the rest of the gang spent time with old friends or made new, bitter rivals. The Die is Cast. The Iron is Hot. Let's get ready to enter a horrible dangerous plane of existence that we absolutely shouldn't go to unless all of existence is under assault. Podcast art by @a_goatfacekilla ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287394c.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fj6Eqqiv1rNsN_6TGK4W0BoRxsKxN4N64xNRzg5hzw9c/media.mp3",
@@ -7190,14 +7184,14 @@
       "itunes_duration": "1:01:13",
       "speakers": [],
       "topics": [
-        "shadow"
+        "shadows"
       ]
     },
     {
       "key": "8ab74aa18cc6804d9d686d7652993a58c3540faf",
-      "title": "Episode 285 - A History of Things Powerful and Evil",
+      "title": "A History of Things Powerful and Evil - C1: E285",
       "published_at": "2018-10-08T14:46:21+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287394d",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-history-of-things-powerful-and-evil-c1-e285",
       "description": "Our new best friend Eckart Dayhammer gives us a brief history of the Circle of Seven and about how lots of things are real bad right now. But, we know now that our quest leads us to Grol a city in the Shadowfell. Since things are bad like, everywhere we enlisted the aide of our former adventurer pals/ scary boat captain to help collect info while we are venture into the dangerous unknown. Hopefully the Shadowfell will be chill and fun but we need to be prepared for when we return. If we return... Podcast art by @sanderdoesart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287394d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FJJq3F1T-_0axM_LxpW26T0hnWEZQ5bgH8_qttkwPmi4/media.mp3",
@@ -7214,9 +7208,9 @@
     },
     {
       "key": "babefd305d9e041ac425f80a550d8cd91be7e204",
-      "title": "Episode 284 - Goodbye, My Son",
+      "title": "Goodbye, My Son - C1: E284",
       "published_at": "2018-10-01T21:57:53+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287394e",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/goodbye-my-son-c1-e284",
       "description": "With things getting Real Bad in this particular heaven we need to move on. Cut and Run. Get Out While the Gettin is Good. You know. Plus, the greater threat is always around the corner and we must meet it head on in order to make the realms a safer place. We must. If we don't then who will? We are heroes. Podcast art by @AndrewStrawder ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287394e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FtuoyxvA2igmVRgH819X4GsNGDxm3dxBuDh_qh6WPW1M/media.mp3",
@@ -7226,15 +7220,13 @@
       "speakers": [
         "Real Bad"
       ],
-      "topics": [
-        "goodbye"
-      ]
+      "topics": []
     },
     {
       "key": "308cf6c7131a553b78a750bbd9484e9c50606c7e",
-      "title": "Episode 283 - Once More into the Bone Cage",
+      "title": "Once More into the Bone Cage - C1: E283",
       "published_at": "2018-09-24T19:14:12+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287394f",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/once-more-into-the-bone-cage-c1-e283",
       "description": "When suspects flee the scene of a crime you gotta throw them into the - Bone Cage. That is how justice is served in a helpful non-lethal way. Plus these two knuckle heads had something to do with the disappearance of a god, so that is a huge no-no in pretty much every realm. But they are very powerful, but will they be powerful enough to destroy the bone cage? Who knows!? The bone cage is vague and loose in game stats so you just kinda gotta wing it. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our regular editor David Stewart ( @spudcam ), and also our junior editor Alan Mathews ( @JAlanMathewsJr )! Podcast art by @bridgitconnell ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Want to impress your pals with your wine collection and good taste? Well head to tryfirstleaf.com/DRAGONS for three bottles for just $15! Stop paying too much for your contacts! Head over to simplecontacts.com/DRAGONS20 to save $20 off your first order. Want to eat good meals without all that figuring out which good meals to make? Well head on over to blueapron.com/dragons to get your first three meals for free! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287394f.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FlCz8pKTO7xFWCx35HO4Uwk8062-5IuwsC2CKgnxeUFI/media.mp3",
@@ -7243,7 +7235,6 @@
       "itunes_duration": "57:17",
       "speakers": [
         "Once More",
-        "Bone Cage When",
         "Bone Cage"
       ],
       "topics": [
@@ -7253,9 +7244,9 @@
     },
     {
       "key": "6642dfb55f77bacdfa5830d5b99dd4a7ec1eeddf",
-      "title": "Episode 282 - A Tavern at the End of Heaven",
+      "title": "A Tavern at the End of Heaven - C1: E282",
       "published_at": "2018-09-17T18:02:37+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873950",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-tavern-at-the-end-of-heaven-c1-e282",
       "description": "Finding Pelor is extremely important, we can all agree, but so is making sure the orcs don't overrun Elysium. That is a ticking clock with Gruumsh's face all over it. While we are not powerful enough to take on Gruumsh we are powerful enough to find clues to Pelor's wheareabouts. We can talk to people who run Laundry Mats in heaven! We can argue with guards! We are heroes. Sometimes being a hero means kidnapping our favorite meat seller to help with our plans. Sometimes. Podcast art by @Oni_shiri ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FURclg5thB2hgG43TsblIYIaJXcbSfgFIVX14G0MZqo8/media.mp3",
@@ -7263,7 +7254,7 @@
       "enclosure_length": "806024880",
       "itunes_duration": "1:09:52",
       "speakers": [
-        "Heaven Finding Pelor"
+        "Finding Pelor"
       ],
       "topics": [
         "tavern",
@@ -7272,9 +7263,9 @@
     },
     {
       "key": "58c9a98fd11e7c392dd08a894a2db31b71548579",
-      "title": "Episode 281 - Where in the Realms is Pelor?!?",
+      "title": "Where in the Realms is Pelor?!? - C1: E281",
       "published_at": "2018-09-10T16:10:25+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873951",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/where-in-the-realms-is-pelor-c1-e281",
       "description": "The mystery of the missing Pelor continues, this time we actually make some progress and find some good clues. Mostly that we have a suspect and it seems like there is a mysterious stranger that knows more than it seems. Also, Toby Takes A Nap! Podcast art by @YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873951.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FMU136JN302_M7eYWsXxu6hnOylKrYBEZ5FkrVvzpmpk/media.mp3",
@@ -7289,9 +7280,9 @@
     },
     {
       "key": "1242a9d6e9e1b0633b2b34ad07d08239d66b0e5e",
-      "title": "Episode 280 - Dragon Siege",
+      "title": "Dragon Siege - C1: E280",
       "published_at": "2018-09-03T16:13:37+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873952",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/dragon-siege-c1-e280",
       "description": "Meanwhile in Pelor's Hope a huge problem has befallen the good Queen Ashayara which requires the help of some of her old allies. Something odd must be going on with the strongest entities in the realms since it seems like they are all riled up and ready to fight whatever they can. What can rile up the gods...it is terrifying to think about. Surely it can't be a coincidence, right? Something bananas has to happening in the various hells and abysses and heavens to cause such calamity on the mortal realm. But that is why we have heroes - to stop really bad things from happening. Podcast art by @YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873952.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F6c4T7Vc6_-0grNl2es4KysmaaUMElaKP2G3_jLSzYcc/media.mp3",
@@ -7308,16 +7299,18 @@
     },
     {
       "key": "73a03fa2de28bc364e9419bdd08cc63978cb3fd6",
-      "title": "Episode 279 – A Complicated Heaven",
+      "title": "A Complicated Heaven - C1: E279",
       "published_at": "2018-08-27T17:21:13+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873953",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-complicated-heaven-c1-e279",
       "description": "Turns out one of the more important aspects of Elysium is missing. It is kinda like going to Disneyland and finding out Mickey Mouse was murdered...After weighing our options I guess we are the ones to solve this problem especially since this cursed orb keeps bringing us to terrible places. Sure, all of this is very difficult but if we heroes don't do something then I guess everyone will die? Maybe? I am pretty sure the leaders of hell would not be super chill as rulers. Podcast art by @Oni_shiri ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873953.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F9SpPGrWN9czNipbrkH3U6jLZ0z_7hkBThw1mke6iNCE/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "709657176",
       "itunes_duration": "1:01:32",
-      "speakers": [],
+      "speakers": [
+        "Complicated Heaven"
+      ],
       "topics": [
         "complicated",
         "heaven"
@@ -7325,9 +7318,9 @@
     },
     {
       "key": "60d4a13849d03d973c691f207463265eed1055f6",
-      "title": "Episode 278 - Heaven Can Wait",
+      "title": "Heaven Can Wait - C1: E278",
       "published_at": "2018-08-20T19:09:32+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873954",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/heaven-can-wait-c1-e278",
       "description": "Having narrowly avoided the sea of Gruumsh's massive army we now have to deal with those pesky bad bois who are climbing over the wall right in front of us. Sure, enemies are swarming everywhere but we are here and I think we can help this section. And then who knows, maybe we can help the next section too! And then the next. Or we could solve larger problems and avoid this large war...yeah let's do that. Podcast art by @chulllie ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873954.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FE77N2nL3wpB2FLpJrk1p4OBL-HWrXwoeYO213edO5IY/media.mp3",
@@ -7341,28 +7334,25 @@
     },
     {
       "key": "8291f3b440e6e849d8ccc08a28ac2985c15a74cf",
-      "title": "Episode 277 - Welcome to Elysium",
+      "title": "Welcome to Elysium - C1: E277",
       "published_at": "2018-08-13T19:27:21+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873955",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-elysium-c1-e277",
       "description": "Time to go to literal heaven. We are sure that nothing bad will happen in literal heaven. Time to kick back and relax and drink whatever Pelor and his buds drink. Probably some sort of like...wine made out of...grapes. I almost feel bad for how easy this next step in our Orb Mystery will be. Anyways what is that sound and why does it feel like 43 trains are coming our way? Podcast art by zonatedtag341 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873955.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F5Yc0KW67gvhn6PO2IToNukMt1l1sn6X1vvOUkmjU_gc/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "671740328",
       "itunes_duration": "58:15",
-      "speakers": [
-        "Elysium Time"
-      ],
+      "speakers": [],
       "topics": [
-        "welcome",
         "elysium"
       ]
     },
     {
       "key": "68ba697c927dd546d9ec9e91cd5863cab88aa78e",
-      "title": "Episode 276 - Becoming the Greatest in All the Lands",
+      "title": "Becoming the Greatest in All the Lands - C1: E276",
       "published_at": "2018-08-06T17:31:52+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873956",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/becoming-the-greatest-in-all-the-lands-c1-e276",
       "description": "Hello and welcome into our home. Our home is an actual play Dungeons & Dragons podcast. Cozy, huh?! Listen as we level up to level 17 and prepare our next adventure. Our fun and weird Orb is itching to bring us to a new plane where I gotta assume nothing bad will happen. We are going to literal heaven. Pelor runs a tight ship so I am confident we will be fine. But can our heroes survive the most stressful encounter yet - Performance Reviews. Podcast art by DevinBillyArt ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873956.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fa-Yu8srLk9sgnStP9T8_ybCbDJ6j1hntUY62sqsxKmI/media.mp3",
@@ -7371,14 +7361,14 @@
       "itunes_duration": "1:06:49",
       "speakers": [],
       "topics": [
-        "land"
+        "lands"
       ]
     },
     {
       "key": "6e559274731be9aab9a3f52f7574fed41aee7234",
-      "title": "Episode 275 - An Unquenchable Thirst (GeeklyCon 2018 Live Show)",
+      "title": "An Unquenchable Thirst (GeeklyCon 2018 Live Show) - C1: E275",
       "published_at": "2018-07-30T18:52:30+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873957",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/an-unquenchable-thirst-geeklycon-2018-live-show-c1-e275",
       "description": "We recorded this episode live from the Lincoln Theater in Columbus Ohio! We had such a wonderful time in an honest to goodness theater. The staff even helped us with fancy lav mics!! It ruled. Listen as your heroes aide a pal who has lost their stick. What dangers will they face? What magical tricks will be played on the poor players who are definitely smart and good at Dungeons & Dragons? Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873957.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FaFUVc9Fcf6Q6UHwQ_s5094VDRA-zZwOsCnRl8voG7fU/media.mp3",
@@ -7394,9 +7384,9 @@
     },
     {
       "key": "c8a7fea11bd45d555c8c94b236d1b855789ab878",
-      "title": "Episode 274 - Queen of the Feycourt",
+      "title": "Queen of the Feycourt - C1: E274",
       "published_at": "2018-07-23T21:46:27+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873958",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/queen-of-the-feycourt-c1-e274",
       "description": "The statues resonate with destructive power yet our heroes muster all their strength knowing that if they fail then all of the Feywild, and possibly all realms, will fall. As the waters rise so due their personally held fears that they are not strong enough to aid Melora in her time of need. Some other heroes should have handled this. Fighting all these minions of Lolth is way more stressful than brewing potions in the Tower of Grey. Podcast art by Dgriffon325 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FCKdu9bpwnK4KdJj8qy74df4rq_OSFtLVHCIvsOBSaH8/media.mp3",
@@ -7411,16 +7401,18 @@
     },
     {
       "key": "474cf43f8832fa0c3800b9a51df9d2db713a8506",
-      "title": "Episode 273 - Marbled Madness",
+      "title": "Marbled Madness - C1: E273",
       "published_at": "2018-07-16T16:36:54+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873959",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/marbled-madness-c1-e273",
       "description": "As we draw ever nearer to the sound of battle and the overwhelming, yet hard to place, power emanating from this Fey Castle we know that some truly awful stuff is going to greet us. Just, ten gallons of bad in a 8 gallon jug. Thank the gods that other heroes from the planes seem to be assisting us or else we would turn into adventurer slime. Podcast art by Dgriffon325 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873959.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F8tHp5nfHmamMBXlCE3Wq7Wy8KcWdBDBxGvY-PDP3KFo/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "768060972",
       "itunes_duration": "1:06:36",
-      "speakers": [],
+      "speakers": [
+        "Marbled Madness"
+      ],
       "topics": [
         "marbled",
         "madness"
@@ -7428,9 +7420,9 @@
     },
     {
       "key": "f1195577cccad523bfb78dd1eda4c8d08da9a64b",
-      "title": "Episode 272 - One Step Closer to the Gods",
+      "title": "One Step Closer to the Gods - C1: E272",
       "published_at": "2018-07-09T14:43:01+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287395a",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/one-step-closer-to-the-gods-c1-e272",
       "description": "Having defeated and befriended those pesky Drow, your heroes now must enter seat of the Fey Court. Sounds of battle can be heard raging throughout the corpse strewn halls but we must press on! Finally, we will learn some answers about what the heck is going on. Well, at least we hope so. Who knows, I guess. Podcast art by @chulllie ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287395a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FRdZxWN6y_afODELID75j1QBTzc74ueWX4YJCtGh8kYI/media.mp3",
@@ -7445,9 +7437,9 @@
     },
     {
       "key": "3659d571c323d6be19bfc23fa0fe9b076f5d5dc0",
-      "title": "Episode 271 - The Finality of Our Proving",
+      "title": "The Finality of Our Proving - C1: E271",
       "published_at": "2018-07-02T17:12:40+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287395b",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-finality-of-our-proving-c1-e271",
       "description": "What is this? Aludra and the gang are up to some investigations on a snowy mountaintop and with Drunkeros in a tailspin they need all the help they can get. Hopefully the The High Level Executive - Class Drow Supreme Fighting Force doesn't slow down our heroes too much back in the feywild...they have realms to save. Podcast art by @thedogleech ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287395b.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FRk_rHynPcq71yFAjrgrk9OPATbLGZZCfD5rjqD5LJC8/media.mp3",
@@ -7462,9 +7454,9 @@
     },
     {
       "key": "3fedd9f1df7eea0389369d9e12b2d2c25040db64",
-      "title": "Episode 270 - The High Level Executive - Class Drow Supreme Fighting Force",
+      "title": "The High Level Executive - Class Drow Supreme Fighting Force - C1: E270",
       "published_at": "2018-06-25T18:25:11+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287395c",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-high-level-executive-class-drow-supreme-fighting-force-c",
       "description": "We knew that getting into the tower was going to be hard but honestly we kinda hoped that whatever was in the lake was going to be the worst of it. We had no idea that a supreme fighting force would get in our way. Luckily, the Tower of Grey is also a Supreme Fighting Force so they better get their pants tied tight because a skill based challenge beat down is coming their way! Podcast art by @Rattenkaefig ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287395c.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fyx4cv7_L0Y_CdWdEE7WmtyM5lrgmoRDfo7nvc3FmOAk/media.mp3",
@@ -7487,9 +7479,9 @@
     },
     {
       "key": "e2a0a06c04f88fdb3763464bdf1aff37748d8fbc",
-      "title": "Episode 269 - The Writhing Mass Under the Lake",
+      "title": "The Writhing Mass Under the Lake - C1: E269",
       "published_at": "2018-06-18T16:29:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287395d",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-writhing-mass-under-the-lake-c1-e269",
       "description": "Was the lake sounding the tower always writhing in that menacing way? This really is a shame since we want to travel across the lake but I gotta tell ya I don't look forward to figuring out what the hell is beneath the water. I suppose it could be a school of harmless fish? Oh. Oh no nevermind I saw something poke out that was positively not \"fish-like\". Today is going to be horrible. Podcast art by @_wrenfro ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287395d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FoSHFAGDHiagVwTfCEwR7jo2EQ5H4geUvAjd6-oAHpkk/media.mp3",
@@ -7505,9 +7497,9 @@
     },
     {
       "key": "adfdc3ae7cee970b1eeaaa0bae1357736b14281c",
-      "title": "Episode 268 - The Orcus Onslaught Part 2",
+      "title": "The Orcus Onslaught Part 2 - C1: E268",
       "published_at": "2018-06-11T16:02:29+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287395e",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-orcus-onslaught-part-2-c1-e268",
       "description": "The Circle of Seven continues their fight against Orcus and his undead minions. Fortunately, this is the most hardened crew of god-slayers in all the realms so if anyone can bring down the dreaded Orcus it is them. But at what cost... Podcast art by @BrotherToasty ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287395e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FZAE6CFr44J7ZjY5xaB8zVNX3gW7a38T_nZyA0NJp_Qk/media.mp3",
@@ -7522,9 +7514,9 @@
     },
     {
       "key": "3068779f7ffc4b4c63b3eaa6d430a52462527bad",
-      "title": "Episode 267 - The Orcus Onslaught Part 1",
+      "title": "The Orcus Onslaught Part 1 - C1: E267",
       "published_at": "2018-06-04T18:13:56+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287395f",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-orcus-onslaught-part-1-c1-e267",
       "description": "What do you do when the natural order of the realms falls in to chaos? Good and evil must exist in harmony so when Orus threatened to disrupt that balance the Archmage Bigby sent for the strongest, meanest and most Demon-Lord vanquising-est adventures around - The Circle of Seven. But will their power be enough to slay the Prince of Undeath in his realm? Podcast art by @D_R_White_ ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287395f.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FXdNvjJi3LfX_NawC_rSmijyapuSGVamdv18_xkBxB9k/media.mp3",
@@ -7539,9 +7531,9 @@
     },
     {
       "key": "cca376406ba8927e348aede5c91ea72c56e88147",
-      "title": "Episode 266 - A Mailbag Episode!",
+      "title": "A Mailbag Episode! - C1: E266",
       "published_at": "2018-05-28T15:27:03+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873960",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-mailbag-episode-c1-e266",
       "description": "Due the to busy or sick state of the cast this week we chose to lean into the weird and do another mailbag episode! Thank you to all the folks who wrote in, mainly on twitter, to ask us questions. We could have chatted for 13 hours but we knew we had to save some questions for the future. Podcast art by @BrotherToasty ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873960.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F8uV3bQ1-GeQpBMxG2VnB6rtMYVmDj5MVqGQIU2YV9mY/media.mp3",
@@ -7555,18 +7547,16 @@
     },
     {
       "key": "1af02cfdf4021def34be018336fa9372995dd695",
-      "title": "Episode 265 - Towards the Banks of Fate",
+      "title": "Towards the Banks of Fate - C1: E265",
       "published_at": "2018-05-21T14:59:43+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873961",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/towards-the-banks-of-fate-c1-e265",
       "description": "Getting your biscuits smashed by some rude enemies is enough to make even the strongest and bravest heroes pause for a moment and assess their situation. Unfortunately for our heroes, the longer they wait the longer young Prince Thom Harper remains in his captors grasp. But there sure do seem like a lot of Drow around these parts. And the friend we have met along the way seem to both be avoid the area we are going. This should be fun. Podcast art by @dirtymm86 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873961.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F8UiyNCuC5LIp33wKeKeMqUzz_1TDaSs0dtAbMRrghJI/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "713018398",
       "itunes_duration": "1:01:50",
-      "speakers": [
-        "Fate Getting"
-      ],
+      "speakers": [],
       "topics": [
         "banks",
         "fate"
@@ -7574,18 +7564,16 @@
     },
     {
       "key": "24a91c744dfa3abb41245ee0daafb11d046d25e4",
-      "title": "Episode 264 - The Big and Brave Ben Dilladong",
+      "title": "The Big and Brave Ben Dilladong - C1: E264",
       "published_at": "2018-05-14T15:16:11+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873962",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-big-and-brave-ben-dilladong-c1-e264",
       "description": "After escaping the fierce Drow Warriors, our heroes must decide he next plan of attack. They have little time to decide since Thom Harper is still in peril. But...it serves Thom no good if his would be rescuers die in the process. Unfortunately we also do not know what dangers hide within the Astral Plane...it is just so weird. But have no fear for the Tower of Grey shall not be toppled so easily! Podcast art by @WolfishGrin_21 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873962.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FFudduGW1eFhoKnpsbYBtSIAZ0JbNdhCZl7BCv1SPnLI/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "694707178",
       "itunes_duration": "1:00:14",
-      "speakers": [
-        "Ben Dilladong"
-      ],
+      "speakers": [],
       "topics": [
         "brave",
         "dilladong"
@@ -7593,9 +7581,9 @@
     },
     {
       "key": "387527f207141978bf80acaaf78c52918c10cbda",
-      "title": "Episode 263 - Too Many Legs In This Feywild Part 2",
+      "title": "Too Many Legs In This Feywild Part 2 - C1: E263",
       "published_at": "2018-05-07T17:42:42+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873963",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/too-many-legs-in-this-feywild-part-2-c1-e263",
       "description": "The battle rages on with new foes joining the fray. Will our heroes be able to survive? Probably, they are level 16 and have lots of options so I am not too worried. But, any set back keeps them from rescuing young Thom Harper. The lad needs help and all of us need to band together to find him. Do you know where he is? Podcast art by @sweetfishdream ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873963.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fv193q2NpseEs6SQq7Re1YE8A1fUdZ8UOyouP_Q3aiBE/media.mp3",
@@ -7609,9 +7597,9 @@
     },
     {
       "key": "1c62ee5c9717a3b058bde3ce54c968c5a8fe8991",
-      "title": "Episode 262 - Too Many Legs In This Feywild",
+      "title": "Too Many Legs In This Feywild - C1: E262",
       "published_at": "2018-04-30T15:00:17+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873964",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/too-many-legs-in-this-feywild-c1-e262",
       "description": "Turns out those spiders actually do want to hurt us. We will show these spiders who is the boss. It is us. Podcast art by @DBR_Justin ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873964.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FpuLOfScxhoTaGS8Y26X8R8DkTgHNs-UJS7OuHeiaVYU/media.mp3",
@@ -7625,9 +7613,9 @@
     },
     {
       "key": "cc161f522abebb446a72f41d9c4138575e006b82",
-      "title": "Episode 261 - A Rotten Crew of Beautiful Misfits Part 2",
+      "title": "A Rotten Crew of Beautiful Misfits Part 2 - C1: E261",
       "published_at": "2018-04-23T20:11:48+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873965",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-rotten-crew-of-beautiful-misfits-part-2-c1-e261",
       "description": "These rowdy folks are continuing their quest to help out someone that is probably nice and good. Making friends with a god is a cool thing to do for an adventuring crew to do, especially if you are good and nice like this particular group. Podcast art by @Oni_chinchin ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873965.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FGhOkQPKRrD01seAr2mukUpyXCBCM0oojYoI5xioQUX4/media.mp3",
@@ -7646,9 +7634,9 @@
     },
     {
       "key": "013d95c2ed7f060dbe323b9e0c9e23e08dfabbc9",
-      "title": "Episode 260 - A Rotten Crew of Beautiful Misfits Part 1",
+      "title": "A Rotten Crew of Beautiful Misfits Part 1 - C1: E260",
       "published_at": "2018-04-16T23:17:45+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873966",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-rotten-crew-of-beautiful-misfits-part-1-c1-e260",
       "description": "Lahni was unable to join us for this session so we used arcane and secret magics to peer through the veil of time to the strange occurrences which happened three weeks ago. We find ourselves in a jail cell in a town located somewhere within the Feywild. We are joined not by heroes, but by something else. Creatures with ill intent in their eyes and cruelty on their tongues. Podcast art by @killurmonkey ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873966.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FcNNlJWXv8Di897oRsdWU6piQUUKnsVPX3C1ae2QS24s/media.mp3",
@@ -7665,9 +7653,9 @@
     },
     {
       "key": "e02c80df3dd325f5b16d4c94e2f2271eafe4b749",
-      "title": "Episode 259 - Welcome to the Feywild",
+      "title": "Welcome to the Feywild - C1: E259",
       "published_at": "2018-04-09T21:51:38+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873967",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-the-feywild-c1-e259",
       "description": "Looks like some sort of funny business is going on in the Feywild. We don't really want to go to the Fey Lands, especially without a guide...but we have to try to track down Thom Harper! Plus this dang, weird Orb! What is its deal? I kinda hate it. I am sure we won't die in the Feywild since we are strong and all, but what if we are only strong for our realm...oh god I hate this. Podcast art by @rayeliann ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873967.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FiLdHv9xCUqZWLKNm4DJbx-Uw1dcMnxrjLiSIfXE2x_Q/media.mp3",
@@ -7676,7 +7664,6 @@
       "itunes_duration": "58:54",
       "speakers": [],
       "topics": [
-        "welcome",
         "feywild"
       ]
     },
@@ -12574,136 +12561,136 @@
 - 2020-10-19 — Welcome to Venduria - C1: E379 — speakers: Bone Battling
 - 2020-10-12 — The Crimes of Catherine Beanlord - C1: E378 — speakers: Momma Mia
 - 2020-10-05 — 12 Angry Allies - C1: E377 — speakers: Angry Allies
-- 2020-09-28 — Episode 376 - Welcome to the Night Zone — speakers: Night Zone Chasing
-- 2020-09-21 — Episode 375 - The Sorrowful Man
-- 2020-09-14 — Episode 374 - The Mind Killer — speakers: Mind Flayers
-- 2020-09-07 — Episode 373 - Brain Brine Juice — speakers: Brain Brine
+- 2020-09-28 — Welcome to the Night Zone - C1: E376 — speakers: Night Zone
+- 2020-09-21 — The Sorrowful Man - C1: E375
+- 2020-09-14 — The Mind Killer - C1: E374 — speakers: Mind Flayers
+- 2020-09-07 — Brain Brine Juice - C1: E373 — speakers: Brain Brine Juice, Earth Smash
 - 2020-08-31 — Bonus Episode - GeeklyCon Digi 2020 live show: Annual Office Party
-- 2020-08-24 — Episode 372 - Welcome to the Elemental Plane of Earth — speakers: Elemental Plane, Earth Having, Water Gym, Elemental Pla
-- 2020-08-17 — Episode 371 - Bonesplash 42 Part 2
-- 2020-08-10 — Episode 370 - Bonesplash 42
-- 2020-08-03 — Episode 369 - Bone Brothers — speakers: Bone Brothers Sometimes
+- 2020-08-24 — Welcome to the Elemental Plane of Earth - C1: E372 — speakers: Elemental Plane, Water Gym, Elemental Pla
+- 2020-08-17 — Bonesplash 42 Part 2 - C1: E371
+- 2020-08-10 — Bonesplash 42 - C1: E370
+- 2020-08-03 — Bone Brothers - C1: E369 — speakers: Bone Brothers
 - 2020-07-27 — Bonus Episode - TFtFT: Shedding Misconceptions Episode 1
-- 2020-07-20 — Episode 368 - The Party Father
-- 2020-07-13 — Episode 367 - In The Mother's Shadow
-- 2020-07-06 — Episode 366 - Jilling the Bonehammer
-- 2020-06-29 — Episode 365 - Ticket to Ride
-- 2020-06-22 — Episode 364 - Toppling the Tyrannical Pyre Part 3
-- 2020-06-15 — Episode 363 - Toppling the Tyrannical Pyre Part 2
+- 2020-07-20 — The Party Father - C1: E368
+- 2020-07-13 — In The Mother's Shadow - C1: E367
+- 2020-07-06 — Jilling the Bonehammer - C1: E366 — speakers: Elemental Plane
+- 2020-06-29 — Ticket to Ride - C1: E365
+- 2020-06-22 — Toppling the Tyrannical Pyre Part 3 - C1: E364
+- 2020-06-15 — Toppling the Tyrannical Pyre Part 2 - C1: E363
 - 2020-06-08 — Community Corner - A discussion of our responsibility in light of the current protests.
-- 2020-06-01 — Episode 362 - Toppling the Tyrannical Pyre
-- 2020-05-25 — Episode 361 - RIP to a True Hero
-- 2020-05-18 — Episode 360 - Hamhand's Horrific Handiwork
+- 2020-06-01 — Toppling the Tyrannical Pyre - C1: E362
+- 2020-05-25 — RIP to a True Hero - C1: E361 — speakers: True Hero
+- 2020-05-18 — Hamhand's Horrific Handiwork - C1: E360
 - 2020-05-11 — Bonus Episode - Frank's Hostile Takeover Part 2 — speakers: Frank Based One Shot
 - 2020-05-04 — Bonus Episode - Frank's Hostile Takeover Part 1
-- 2020-04-27 — Episode 359 - Momma's Home
+- 2020-04-27 — Momma's Home - C1: E359
 - 2020-04-20 — Greetings, Adventurers! / Dear Internet Cross Over Bonus Episode Extravaganza — speakers: Dear Internet Cross Over, Dear Internet
-- 2020-04-13 — Episode 358 - Not So Secret Hideout
-- 2020-04-06 — Episode 357 - Digging Up That Dirt
-- 2020-03-30 — Episode 356 - Delving Up Into The Spike
-- 2020-03-23 — Episode 355 - Turning the Enemy — speakers: Enemy Having, Punishment Zelon
-- 2020-03-16 — Episode 354 - The Final Bonk
-- 2020-03-09 — Episode 353 - Croc Crunch
-- 2020-03-02 — Episode 352 - 480 Feet From Greatness
-- 2020-02-24 — Episode 351 - Spy Time — speakers: Spy Time Time
-- 2020-02-17 — Episode 350 - Failed Experiments
-- 2020-02-10 — Episode 349 - How to Kill a Dragon — speakers: Dragon Two
-- 2020-02-03 — Episode 348 - Dr. Varmus Gremp's Monster — speakers: Varmus Gremp
-- 2020-01-27 — Episode 347 - The Gremp
-- 2020-01-20 — Episode 346 - A Beholder's Bar
-- 2020-01-13 — Episode 345 - Swamp Sass
+- 2020-04-13 — Not So Secret Hideout - C1: E358
+- 2020-04-06 — Digging Up That Dirt - C1: E357
+- 2020-03-30 — Delving Up Into The Spike - C1: E356
+- 2020-03-23 — Turning the Enemy - C1: E355 — speakers: Punishment Zelon
+- 2020-03-16 — The Final Bonk - C1: E354
+- 2020-03-09 — Croc Crunch - C1: E353 — speakers: Croc Crunch
+- 2020-03-02 — 480 Feet From Greatness - C1: E352
+- 2020-02-24 — Spy Time - C1: E351 — speakers: Spy Time
+- 2020-02-17 — Failed Experiments - C1: E350 — speakers: Failed Experiments
+- 2020-02-10 — How to Kill a Dragon - C1: E349
+- 2020-02-03 — Dr. Varmus Gremp's Monster - C1: E348 — speakers: Varmus Gremp
+- 2020-01-27 — The Gremp - C1: E347
+- 2020-01-20 — A Beholder's Bar - C1: E346
+- 2020-01-13 — Swamp Sass - C1: E345
 - 2020-01-06 — Bonus Episode - Mr. Mailbag
-- 2019-12-30 — Episode 344 - Bonecarding Them All
-- 2019-12-23 — Episode 343 - Volcanic Mansion Alone
-- 2019-12-16 — Episode 342 - Sweeties Day — speakers: Sweeties Day Any
-- 2019-12-09 — Episode 341 - The Ballista Twins
-- 2019-12-02 — Episode 340 - The Mansion in the Mountain
-- 2019-11-25 — Episode 339 - Fire Fighters
-- 2019-11-18 — Episode 338 - Indoor Fire Pit
-- 2019-11-11 — Episode 337 - Brimstone and Melted Snow — speakers: Melted Snow
-- 2019-11-04 — Episode 336 - Skank Your Way Into A Volcano
-- 2019-10-28 — Episode 335 - Welcome to the City of Brass — speakers: Brass When
-- 2019-10-21 — Episode 334 - Welcome to the Elemental Plane of Fire — speakers: Elemental Plane, Fire Time
-- 2019-10-14 — Episode 333 - Oops! All Tobies
-- 2019-10-07 — Episode 332 - Welcome to Sigil Part 2 — speakers: Adira Harper
-- 2019-09-30 — Episode 331 - Welcome to Sigil — speakers: Sigil Let
-- 2019-09-23 — Episode 330 - Some Ends Are Beginnings
-- 2019-09-16 — Episode 329 - Welcome to the Temple of Uthgar — speakers: Uthgar Let
+- 2019-12-30 — Bonecarding Them All - C1: E344 — speakers: Bonecarding Them All
+- 2019-12-23 — Volcanic Mansion Alone - C1: E343 — speakers: Volcanic Mansion Alone
+- 2019-12-16 — Sweeties Day - C1: E342 — speakers: Sweeties Day
+- 2019-12-09 — The Ballista Twins - C1: E341
+- 2019-12-02 — The Mansion in the Mountain - C1: E340
+- 2019-11-25 — Fire Fighters - C1: E339
+- 2019-11-18 — Indoor Fire Pit - C1: E338 — speakers: Indoor Fire Pit
+- 2019-11-11 — Brimstone and Melted Snow - C1: E337
+- 2019-11-04 — Skank Your Way Into A Volcano - C1: E336
+- 2019-10-28 — Welcome to the City of Brass - C1: E335
+- 2019-10-21 — Welcome to the Elemental Plane of Fire - C1: E334 — speakers: Elemental Plane
+- 2019-10-14 — Oops! All Tobies - C1: E333
+- 2019-10-07 — Welcome to Sigil Part 2 - C1: E332 — speakers: Adira Harper
+- 2019-09-30 — Welcome to Sigil - C1: E331
+- 2019-09-23 — Some Ends Are Beginnings - C1: E330
+- 2019-09-16 — Welcome to the Temple of Uthgar - C1: E329
 - 2019-09-09 — DragonCon 2019 Live Show - A Jock Strap Jumble
-- 2019-09-02 — Episode 328 - A Victory in the Vault — speakers: quick thinking
-- 2019-08-26 — Episode 327 - Chromatic Chaos — speakers: Final Battle, Hell Bank
-- 2019-08-19 — Episode 326 - The Under-Bank — speakers: Bank Only
-- 2019-08-12 — Episode 325 - A Shattered Illusion
+- 2019-09-02 — A Victory in the Vault - C1: E328 — speakers: quick thinking
+- 2019-08-26 — Chromatic Chaos - C1: E327 — speakers: Chromatic Chaos, Final Battle, Hell Bank
+- 2019-08-19 — The Under-Bank - C1: E326
+- 2019-08-12 — A Shattered Illusion - C1: E325 — speakers: Shattered Illusion
 - 2019-08-05 — GeeklyCon 2019 Live Show Bonus Episode - Bad Brunch — speakers: Bad Brunch
 - 2019-07-29 — DnD Live Bonus Episode - Mad Momma
-- 2019-07-22 — Episode 324 - Everything Leads to Dragons in the End — speakers: Everything Leads, End Having
-- 2019-07-15 — Episode 323 - In the Bedroom
-- 2019-07-08 — Episode 322 - One Bad Bungalow — speakers: Bad Bungalow
-- 2019-07-01 — Episode 321 - The Mixer
-- 2019-06-24 — Episode 320 - Preparing to Get Talented
-- 2019-06-17 — Episode 319 - Love the Skin You're In
-- 2019-06-10 — Episode 318 - An Early End
-- 2019-06-03 — Episode 317 - The Vault
-- 2019-05-27 — Episode 316 - Robo Reconnaissance — speakers: Robo Reconnaissance Look
-- 2019-05-20 — Episode 315 - Hell Room
-- 2019-05-13 — Episode 314 - Welcome to Vacation Island
-- 2019-05-06 — Episode 313 - The Corporate Retreat
-- 2019-04-29 — Episode 312 - Banksona 2 — speakers: Bank Heroes
-- 2019-04-22 — Episode 311 - Banksona 1 — speakers: Banksona Dress
-- 2019-04-15 — Episode 310 - With Tooth and Tail
-- 2019-04-08 — Episode 309 - A Maze for You, Dear Drakoolus — speakers: Dear Drakoolus, Oseary Drakoolus
-- 2019-04-01 — Episode 308 - The Head of Accounting — speakers: Accounting Frank
-- 2019-03-25 — Episode 307 - Breaking the Bank
-- 2019-03-18 — Episode 306 - What Hell to Travel Next — speakers: What Hell
-- 2019-03-11 — Episode 305 - A Grand Battle Part 2
-- 2019-03-04 — Episode 304 - A Grand Battle — speakers: Queen Aludra
-- 2019-02-25 — Episode 303 - Something Mailbag this Way Comes — speakers: Something Mailbag, Way Comes Before
-- 2019-02-18 — Episode 302 - Never Have We Ever
-- 2019-02-11 — Episode 301 - Back to the Tower — speakers: Josail Longshadow
+- 2019-07-22 — Everything Leads to Dragons in the End - C1: E324 — speakers: Everything Leads
+- 2019-07-15 — In the Bedroom - C1: E323
+- 2019-07-08 — One Bad Bungalow - C1: E322 — speakers: One Bad Bungalow
+- 2019-07-01 — The Mixer - C1: E321
+- 2019-06-24 — Preparing to Get Talented - C1: E320
+- 2019-06-17 — Love the Skin You're In - C1: E319
+- 2019-06-10 — An Early End - C1: E318
+- 2019-06-03 — The Vault - C1: E317
+- 2019-05-27 — Robo Reconnaissance - C1: E316
+- 2019-05-20 — Hell Room - C1: E315 — speakers: Hell Room
+- 2019-05-13 — Welcome to Vacation Island - C1: E314
+- 2019-05-06 — The Corporate Retreat - C1: E313
+- 2019-04-29 — Banksona 2 - C1: E312 — speakers: Bank Heroes
+- 2019-04-22 — Banksona 1 - C1: E311
+- 2019-04-15 — With Tooth and Tail - C1: E310
+- 2019-04-08 — A Maze for You, Dear Drakoolus - C1: E309 — speakers: Dear Drakoolus, Oseary Drakoolus
+- 2019-04-01 — The Head of Accounting - C1: E308
+- 2019-03-25 — Breaking the Bank - C1: E307 — speakers: Iron Bank
+- 2019-03-18 — What Hell to Travel Next - C1: E306
+- 2019-03-11 — A Grand Battle Part 2 - C1: E305
+- 2019-03-04 — A Grand Battle - C1: E304 — speakers: Queen Aludra
+- 2019-02-25 — Something Mailbag this Way Comes - C1: E303 — speakers: Something Mailbag, Way Comes
+- 2019-02-18 — Never Have We Ever - C1: E302
+- 2019-02-11 — Back to the Tower - C1: E301 — speakers: Josail Longshadow
 - 2019-02-04 — Swords and Sobriety Episode 1: Tavern Troubles - C1: E300 — speakers: Tavern Troubles, Few Podcasts
-- 2019-01-28 — Episode 299.5 - Power Fully Restored — speakers: Josail Longshadow
-- 2019-01-21 — Episode 299 - A Crystalline Horror — speakers: Crystalline Horror
+- 2019-01-28 — Power Fully Restored - C1: E299.5 — speakers: Josail Longshadow
+- 2019-01-21 — A Crystalline Horror - C1: E299 — speakers: Crystalline Horror
 - 2019-01-14 — Podcast of Waterdeep Bonus Episode - The Dragon Ante — speakers: Dragon Heis
-- 2019-01-07 — Episode 298 - The Office Space
-- 2018-12-31 — Episode 297 - Masked Monsters — speakers: Masked Monsters Falling
-- 2018-12-25 — Episode 296 - The Bone Pit — speakers: Jimmy Skags
-- 2018-12-17 — Episode 295 - The Proverbial Pin in the Beans — speakers: Beans When
-- 2018-12-10 — Episode 294 - Much Ado About Beans — speakers: Much Ado About Beans
-- 2018-12-03 — Episode 293 - One More Quick Thing about Corn — speakers: One More Quick Thing, Corn Slowly
-- 2018-11-26 — Episode 292 - The Sausage Heist
-- 2018-11-19 — Episode 291 - First Days on the Job — speakers: First Days, Job Having
-- 2018-11-12 — Episode 290 - Getting to Work
-- 2018-11-05 — Episode 289 - First Impressions — speakers: First Impressions When
-- 2018-10-29 — Episode 288 - Welcome to Grull
-- 2018-10-22 — Episode 287 - Welcome to the Shadowfell — speakers: Shadowfell Entering
-- 2018-10-15 — Episode 286 - Preparing to Enter the Shadows
-- 2018-10-08 — Episode 285 - A History of Things Powerful and Evil — speakers: Eckart Dayhammer
-- 2018-10-01 — Episode 284 - Goodbye, My Son — speakers: Real Bad
-- 2018-09-24 — Episode 283 - Once More into the Bone Cage — speakers: Once More, Bone Cage When, Bone Cage
-- 2018-09-17 — Episode 282 - A Tavern at the End of Heaven — speakers: Heaven Finding Pelor
-- 2018-09-10 — Episode 281 - Where in the Realms is Pelor?!?
-- 2018-09-03 — Episode 280 - Dragon Siege — speakers: Queen Ashayara
-- 2018-08-27 — Episode 279 – A Complicated Heaven
-- 2018-08-20 — Episode 278 - Heaven Can Wait
-- 2018-08-13 — Episode 277 - Welcome to Elysium — speakers: Elysium Time
-- 2018-08-06 — Episode 276 - Becoming the Greatest in All the Lands
-- 2018-07-30 — Episode 275 - An Unquenchable Thirst (GeeklyCon 2018 Live Show)
-- 2018-07-23 — Episode 274 - Queen of the Feycourt
-- 2018-07-16 — Episode 273 - Marbled Madness
-- 2018-07-09 — Episode 272 - One Step Closer to the Gods
-- 2018-07-02 — Episode 271 - The Finality of Our Proving
-- 2018-06-25 — Episode 270 - The High Level Executive - Class Drow Supreme Fighting Force — speakers: Class Drow Supreme Fighting
-- 2018-06-18 — Episode 269 - The Writhing Mass Under the Lake
-- 2018-06-11 — Episode 268 - The Orcus Onslaught Part 2
-- 2018-06-04 — Episode 267 - The Orcus Onslaught Part 1
-- 2018-05-28 — Episode 266 - A Mailbag Episode!
-- 2018-05-21 — Episode 265 - Towards the Banks of Fate — speakers: Fate Getting
-- 2018-05-14 — Episode 264 - The Big and Brave Ben Dilladong — speakers: Ben Dilladong
-- 2018-05-07 — Episode 263 - Too Many Legs In This Feywild Part 2
-- 2018-04-30 — Episode 262 - Too Many Legs In This Feywild
-- 2018-04-23 — Episode 261 - A Rotten Crew of Beautiful Misfits Part 2 — speakers: Rotten Crew
-- 2018-04-16 — Episode 260 - A Rotten Crew of Beautiful Misfits Part 1
-- 2018-04-09 — Episode 259 - Welcome to the Feywild
+- 2019-01-07 — The Office Space - C1: E298
+- 2018-12-31 — Masked Monsters - C1: E297 — speakers: Masked Monsters
+- 2018-12-25 — The Bone Pit - C1: E296 — speakers: Jimmy Skags
+- 2018-12-17 — The Proverbial Pin in the Beans - C1: E295
+- 2018-12-10 — Much Ado About Beans - C1: E294 — speakers: Much Ado About Beans
+- 2018-12-03 — One More Quick Thing about Corn - C1: E293 — speakers: One More Quick Thing
+- 2018-11-26 — The Sausage Heist - C1: E292
+- 2018-11-19 — First Days on the Job - C1: E291 — speakers: First Days
+- 2018-11-12 — Getting to Work - C1: E290
+- 2018-11-05 — First Impressions - C1: E289 — speakers: First Impressions
+- 2018-10-29 — Welcome to Grull - C1: E288
+- 2018-10-22 — Welcome to the Shadowfell - C1: E287
+- 2018-10-15 — Preparing to Enter the Shadows - C1: E286
+- 2018-10-08 — A History of Things Powerful and Evil - C1: E285 — speakers: Eckart Dayhammer
+- 2018-10-01 — Goodbye, My Son - C1: E284 — speakers: Real Bad
+- 2018-09-24 — Once More into the Bone Cage - C1: E283 — speakers: Once More, Bone Cage
+- 2018-09-17 — A Tavern at the End of Heaven - C1: E282 — speakers: Finding Pelor
+- 2018-09-10 — Where in the Realms is Pelor?!? - C1: E281
+- 2018-09-03 — Dragon Siege - C1: E280 — speakers: Queen Ashayara
+- 2018-08-27 — A Complicated Heaven - C1: E279 — speakers: Complicated Heaven
+- 2018-08-20 — Heaven Can Wait - C1: E278
+- 2018-08-13 — Welcome to Elysium - C1: E277
+- 2018-08-06 — Becoming the Greatest in All the Lands - C1: E276
+- 2018-07-30 — An Unquenchable Thirst (GeeklyCon 2018 Live Show) - C1: E275
+- 2018-07-23 — Queen of the Feycourt - C1: E274
+- 2018-07-16 — Marbled Madness - C1: E273 — speakers: Marbled Madness
+- 2018-07-09 — One Step Closer to the Gods - C1: E272
+- 2018-07-02 — The Finality of Our Proving - C1: E271
+- 2018-06-25 — The High Level Executive - Class Drow Supreme Fighting Force - C1: E270 — speakers: Class Drow Supreme Fighting
+- 2018-06-18 — The Writhing Mass Under the Lake - C1: E269
+- 2018-06-11 — The Orcus Onslaught Part 2 - C1: E268
+- 2018-06-04 — The Orcus Onslaught Part 1 - C1: E267
+- 2018-05-28 — A Mailbag Episode! - C1: E266
+- 2018-05-21 — Towards the Banks of Fate - C1: E265
+- 2018-05-14 — The Big and Brave Ben Dilladong - C1: E264
+- 2018-05-07 — Too Many Legs In This Feywild Part 2 - C1: E263
+- 2018-04-30 — Too Many Legs In This Feywild - C1: E262
+- 2018-04-23 — A Rotten Crew of Beautiful Misfits Part 2 - C1: E261 — speakers: Rotten Crew
+- 2018-04-16 — A Rotten Crew of Beautiful Misfits Part 1 - C1: E260
+- 2018-04-09 — Welcome to the Feywild - C1: E259
 - 2018-04-02 — Episode 258 - A Princeling Problem
 - 2018-03-26 — Episode 257 - Gotta Go Fast — speakers: Gotta Go Fast After
 - 2018-03-19 — Episode 256 - Master Attackers
