@@ -2,8 +2,8 @@
 
 - slug: `dndark`
 - source: `https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40`
-- fetched_at: `2026-05-06T11:22:06+00:00`
-- checked_at: `2026-05-06T11:22:06+00:00`
+- fetched_at: `2026-05-06T15:04:31+00:00`
+- checked_at: `2026-05-06T15:04:31+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/dndark",
   "description": "A comedy/horror D&D Actual Play Podcast starring some of history's most iconic monsters",
   "image_url": "https://media.redcircle.com/images/2025/4/2/20/c89246be-6b46-429a-909e-1e4e1bd26ad0_846-8b2d-746b3b4b007c_received_702201047512802.jpg",
-  "fetched_at": "2026-05-06T11:22:06+00:00",
+  "fetched_at": "2026-05-06T15:04:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -24,6 +24,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "78f3b3d44b1f5769fbc26d98856156e465a7914f",
+      "title": "DnDark Presents: DnDark Souls Finale: ...Happily Ever After?",
+      "published_at": "2026-05-06T12:00:08+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The final battle commences! With the fate of Phantasia at stake, the team faces off against The Mistress of all Evil and The Nameless King, while the Great Flame hangs in the balance... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" Daniel Cruz - Pinocchio: \"The Real Boy\" Grayson Norman - Sir Mordred: \"The Knight\" \"Danger\" Dan Jerz - King Thomas Canty the First: \"The Lord of Embers\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios",
+      "image_url": "https://media.redcircle.com/images/2026/4/4/22/c7285a1b-be74-4a5f-91ba-a77336f124f0_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/2d733674-4f71-4ab5-a8a1-8b6a13fb85ab/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64091951",
+      "itunes_duration": "4005",
+      "speakers": [],
+      "topics": [
+        "dndark",
+        "presents",
+        "souls",
+        "finale"
+      ]
+    },
     {
       "key": "54596aad4a1ae12c89c33aaad12c48a64ceca0a5",
       "title": "Table Talk - Interview with Mike (Arcane Circle)",
@@ -2533,6 +2552,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — DnDark Presents: DnDark Souls Finale: ...Happily Ever After?
 - 2026-04-29 — Table Talk - Interview with Mike (Arcane Circle)
 - 2026-04-22 — DnDark Presents: DnDark Souls Part 10: Knight on Bald Mountain — speakers: Bald Mountain
 - 2026-04-08 — Table Talk - Interview with Olivia (Cozy Crypt) — speakers: Cozy Crypt
