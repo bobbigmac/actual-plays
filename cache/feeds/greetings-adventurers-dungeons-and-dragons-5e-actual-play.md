@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-05-05T19:53:29+00:00`
-- checked_at: `2026-05-05T19:53:29+00:00`
-- etag: `"djEuMi4wOjE3NzgwMDcxNDk5NTY="`
+- fetched_at: `2026-05-06T20:02:48+00:00`
+- checked_at: `2026-05-06T20:02:48+00:00`
+- etag: `"djEuMi4wOjE3NzgwOTY5MDIxMjU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-05-05T19:53:29+00:00",
+  "fetched_at": "2026-05-06T20:02:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -370,7 +370,7 @@
     },
     {
       "key": "d0b81d7d40e7ba51c203030e502fcdd5f9d918a4",
-      "title": "Campaign 2: Bonus New Years 2025 Outtakes!",
+      "title": "Bonus New Years 2025 Outtakes!",
       "published_at": "2025-12-29T11:00:00+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-bonus-new-years-2025-outtakes",
       "description": "Ring in the New Year with this special, outtakes-centric episode! We’ve gathered a collection of behind-the-scenes moments from the entire Season 2 arc—spanning Episode 0 all the way through Episode 165 (plus a few extra surprises). Like what you hear? Head over to https://www.patreon.com/dndpodcast , where subscribers unlock countless hours of exclusive content, including original adventures, full outtakes from the main show, behind-the-scenes “making of” videos, and much more you won’t find anywhere else. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Don’t forget to follow our editor David Stewart ! Want the world to see your fan art? Post it with #DrunksAndDoodles Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
@@ -381,7 +381,6 @@
       "itunes_duration": "2:14:42",
       "speakers": [],
       "topics": [
-        "campaign",
         "years",
         "outtake"
       ]
@@ -651,7 +650,7 @@
     },
     {
       "key": "b9e072cee67647d8ae54796dce7369320c8251e9",
-      "title": "Campaign 2: Bonus Episode - Great Kings and Venturers! Part 2",
+      "title": "Bonus Episode - Great Kings and Venturers! Part 2",
       "published_at": "2025-09-15T11:27:24+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-bonus-episode-great-kings-and-venturers-part-2",
       "description": "Welcome to the Chaotic Caves of Chaos. Where the magics are so out of sync with the natural weave of arcane energy that sometimes the wires get crossed and spells have unintended consequences. Like accidentally going full isekai. This is part 2 of \"Great Kings and Venturers\", an adventure DMed by Tim where the cast plays as themselves within the Chaotic Caves of Chaos. It may take place in the same world, maybe, but it is completely separate from either Campaign 1 or 2. So no spoilers or background info needed! The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Don’t forget to follow our editor David Stewart ! Want the world to see your fan art? Post it with #DrunksAndDoodles Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
@@ -662,14 +661,13 @@
       "itunes_duration": "1:17:28",
       "speakers": [],
       "topics": [
-        "campaign",
         "king",
         "venturer"
       ]
     },
     {
       "key": "065bf2ad037913773d69ec3fa1e461b5a865f440",
-      "title": "Campaign 2: Bonus Episode - Great Kings and Venturers! Part 1",
+      "title": "Bonus Episode - Great Kings and Venturers! Part 1",
       "published_at": "2025-09-08T12:50:32+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2",
       "description": "Welcome to the Chaotic Caves of Chaos. Where the magics are so out of sync with the natural weave of arcane energy that sometimes the wires get crossed and spells have unintended consequences. Like accidentally going full isekai. This is part 1 of \"Great Kings and Venturers\", an adventure DMed by Tim where the cast plays as themselves within the Chaotic Caves of Chaos. It may take place in the same world, maybe, but it is completely separate from either Campaign 1 or 2. So no spoilers or background info needed! The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Don’t forget to follow our editor David Stewart ! Want the world to see your fan art? Post it with #DrunksAndDoodles Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
@@ -680,7 +678,6 @@
       "itunes_duration": "1:19:50",
       "speakers": [],
       "topics": [
-        "campaign",
         "king",
         "venturer"
       ]
@@ -2417,7 +2414,7 @@
     },
     {
       "key": "2178e1a86c99766500fddb35c3974bae405c5801",
-      "title": "Campaign 2: Bonus Mailbag Episode NOV 2023",
+      "title": "Bonus Mailbag Episode NOV 2023",
       "published_at": "2023-11-20T12:54:05+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-bonus-mailbag-episode-nov-2023",
       "description": "With Michael still in Japan the we got together to chat and answer some of y'all's questions! The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Don’t forget to follow our editor David Stewart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
@@ -2428,13 +2425,12 @@
       "itunes_duration": "1:12:01",
       "speakers": [],
       "topics": [
-        "campaign",
         "mailbag"
       ]
     },
     {
       "key": "12787151fbfd92d7601bbb39e6b2ebde672741f1",
-      "title": "BONUS EPISODE: GAPCAST FIASCO 2023 - Part 2",
+      "title": "GAPCAST FIASCO 2023 - Part 2",
       "published_at": "2023-11-13T12:05:07+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/bonus-episode-gapcast-fiasco-2023-part-2",
       "description": "It has been way too long since we played Fiasco so we were super excited to get wild with this very fun story telling game. Fiasco is like a Coen Brothers movie in that things typically break bad and our characters face some truly horrible things. Also, a big part of Fiasco is setting up the game itself, which is really fun. We recorded this on a weekend night so things get pretty loose. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Don’t forget to follow our editor David Stewart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
@@ -4157,7 +4153,7 @@
     },
     {
       "key": "db39feae2fded5a785ff1eb5d3005e55f8d9922b",
-      "title": "Campaign 2: Episode 1 - Welcome to Rimeford",
+      "title": "Welcome to Rimeford - C2: E1",
       "published_at": "2022-01-24T13:00:54+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-1",
       "description": "Welcome to the very first episode of Campaign two! We have been waiting for this day for years and wow, it sure feels weird to be level 1 again. Hopefully we don't die. The siren call of fate pulls a group of stalwart individuals to the town called Rimeford. Surely this chance encounter will have long lasting ramifications on the realm. As this is a brand new campaign set within our original world you will not need to have listened to Campaign 1 . Sure, there will deeper implications and so forth but we want to be able to welcome as many folks as possible while featuring a fresh experience for long time listeners. Hope you enjoy! The adventure begins with Mike Bachmann , Jennifer Cheek , Nika Howard , Tim Lanning , and our Dungeon Master Michael DiMauro . Don’t forget to follow our editor David Stewart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
@@ -4166,12 +4162,8 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "983997142",
       "itunes_duration": "1:25:18",
-      "speakers": [
-        "Rimeford Welcome"
-      ],
+      "speakers": [],
       "topics": [
-        "campaign",
-        "welcome",
         "rimeford"
       ]
     },
@@ -4401,7 +4393,7 @@
     },
     {
       "key": "0a7d6216e4742c10004c7a42a020390aae5ecae5",
-      "title": "Episode 427 - A Farewell to Our Family and Friends (End of Campaign 1)",
+      "title": "A Farewell to Our Family and Friends (End of Campaign 1) - C1: E427",
       "published_at": "2021-10-18T18:19:34+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/episode-427",
       "description": "Over the course of the last fifteen years the lands of Drunkeros experienced great hardship and upheaval. The people of this land never gave up hope that adventurers would take up the call and become something greater - Heroes. The heroes of this land were not always correct in their decision making. They didn't always win. But, in the end, they never gave up fighting. Now, a powerful group of former colleagues, now friends and family, set their sights on what's to come and what it means to take up the burden of responsibility placed at their feet. They didn't ask for this power but they know that the good ones rarely do. The next adventurers may not involve crypts filled with fiendish horrors and treasure or tyrants needling to be toppled but whatever may come they will face it head on. Just not together. Thank you so, so, so much for joining us on this amazing adventure called making a podcast with a bunch of people you kinda knew!!! Getting to meet and interact with all of you has truly been a delight and a blessing we never thought would be possible. We cannot thank you all enough, but from the bottom of our irony poisoned hearts - Thank you. Do you want to share your own thoughts about the end of Greetings Adventurers first campaign? Well you can! We are doing a special listener episode that may feature you! Either email is at info@dndpodcast.com or call DAD-MILK-BIZ (323-645-5249‬) on your phone and leave a short message! The adventure ends with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/Azad_Injejikian ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
@@ -4420,7 +4412,7 @@
     },
     {
       "key": "c2f9f95b4df4f02fd6d448347885c73f7574842c",
-      "title": "Episode 426 - The Luck of the Draw",
+      "title": "The Luck of the Draw - C1: E426",
       "published_at": "2021-10-11T16:13:30+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/episode-426the-luck-of-the-draw",
       "description": "Our heroes make some tough post battle choices in this bittersweet penultimate episode of our first campaign. We really appreciate each and everyone one of you who have joined us on this journey. Do you want to share your own thoughts about the end of Greetings Adventurers first campaign? Well you can! We are doing a special listener episode that may feature you! Either email is at info@dndpodcast.com or call DAD-MILK-BIZ (323-645-5249‬) on your phone and leave a short message! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/sanderdoesart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
@@ -4454,7 +4446,7 @@
     },
     {
       "key": "83a1ddc95708ed2bf4b0ab835f03390a78eae843",
-      "title": "Episode 425 - The Final Battle: The End",
+      "title": "The Final Battle: The End - C1: E425",
       "published_at": "2021-09-27T16:39:10+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/episode-425-the-final-battle-the-end",
       "description": "Pushed to the brink of breaking with our allies running out of life and grit the Tower of Grey finally sees some fear in one of Trants 10 eyes! Trant made horrible choice being the Big Bad Evil Guy at the end of our campaign! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://www.instagram.com/Diane.aarts/ ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
@@ -4471,9 +4463,9 @@
     },
     {
       "key": "50ee34e4987e15e3d486702c97ea2791b5fb2a48",
-      "title": "Episode 424 - The Final Battle: 3rd Shift",
+      "title": "The Final Battle: 3rd Shift - C1: E424",
       "published_at": "2021-09-20T16:52:25+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738b2",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-final-battle-3rd-shift-c1-e424",
       "description": "Our heroes dig even deeper calling upon powers they didn’t even know they had as they continue their fight against Trant Thumble. Things are looking grim but the aid from powerful allies might give them the chance they need! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://www.instagram.com/spartart06/ ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738b2.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F6IsvOIekveMWVNebj9W1IgboA05ePQPqsTjJ2sp87VY/media.mp3",
@@ -4489,9 +4481,9 @@
     },
     {
       "key": "4ccc84a01d76a34080d3b096475f666c97f9e8a9",
-      "title": "Episode 423 - The Final Battle: 2 Trant 2 Furious",
+      "title": "The Final Battle: 2 Trant 2 Furious - C1: E423",
       "published_at": "2021-09-13T17:04:50+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738b3",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-final-battle-2-trant-2-furious-c1-e423",
       "description": "This dang Trant dude can't be beat! We beat him with our awesome damage then he freaking.... well... just listen and see. Also, I think Trant should be scared too because we have a huge amount of \"tricks\" in our \"bag\" to throw at him. Should be fine? The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://www.instagram.com/cclaray/ ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738b3.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FdsRdL2L2aq_HAxw0YEy-545l4g9ErjnSrdNYoCnzkUA/media.mp3",
@@ -4502,14 +4494,15 @@
       "topics": [
         "final",
         "battle",
-        "trant"
+        "trant",
+        "furious"
       ]
     },
     {
       "key": "e34bb8eb57b2eb6f70d76ed0f441d120b8aa21f7",
-      "title": "Episode 422 - The Final Battle Part 1",
+      "title": "The Final Battle Part 1 - C1: E422",
       "published_at": "2021-09-06T15:40:18+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738b4",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-final-battle-part-1-c1-e422",
       "description": "This is it. This is the final battle. Trant and his demon goons vs The Tower of Grey. We have never faced anything as powerful as Trant so we will need all the luck and grit that we can get. Regardless, it all ends here. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://www.instagram.com/emily_ee_draws/ ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738b4.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FT1k7BlhNtY4HwHzA4IIJO-Y8rHZxPMG2p_6mBeF22qs/media.mp3",
@@ -4524,16 +4517,18 @@
     },
     {
       "key": "84ae2bd38879dbf0ef2be2dd520f802c25808aa3",
-      "title": "Episode 421 - As the Feywild Burns",
+      "title": "As the Feywild Burns - C1: E421",
       "published_at": "2021-08-30T17:34:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738b5",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/as-the-feywild-burns-c1-e421",
       "description": "Your heroes just killed a god or a demon prince or a demigod or just a really powerful dude, anyway, that doesn’t matter because we have bigger Trant’s to fry! Turns out Trant’s super powerful realm ending army is…well super powerful and the Feywild is in trouble if we don’t hurry up and do something about it. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by @thedogleech! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738b5.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FfSBLggBplmMG-RLmZfjkNfrA2slXUNCFlJ6DOnqOxro/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57042233",
       "itunes_duration": "59:25",
-      "speakers": [],
+      "speakers": [
+        "Feywild Burns"
+      ],
       "topics": [
         "feywild",
         "burns"
@@ -4541,9 +4536,9 @@
     },
     {
       "key": "273f9db04f903be97456ff906eaf15cb3c809452",
-      "title": "Episode 420 - A Non-Euclidean Nightmare",
+      "title": "A Non-Euclidean Nightmare - C1: E420",
       "published_at": "2021-08-23T15:58:06+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738b6",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-non-euclidean-nightmare-c1-e420",
       "description": "Wow… 420 main episodes (and maybe a few early mailbags that we gave numbers to before we stopped that), can’t believe we made it this far. I also cannot believe that our heroes have entered into the throne room of Baphomet. Yikes! This room sucks. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738b6.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FrTXAzyU2G2V1cw5iQ-60cBQ-YqGuxjjfkcJQequHCIk/media.mp3",
@@ -4551,7 +4546,7 @@
       "enclosure_length": "69400450",
       "itunes_duration": "1:12:17",
       "speakers": [
-        "Euclidean Nightmare Wow"
+        "Euclidean Nightmare"
       ],
       "topics": [
         "nightmare"
@@ -4559,18 +4554,16 @@
     },
     {
       "key": "33c6360849926376add36bf56738c93953007609",
-      "title": "Episode 419 - The Center of Lyktion",
+      "title": "The Center of Lyktion - C1: E419",
       "published_at": "2021-08-16T13:56:14+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738b7",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-center-of-lyktion-c1-e419",
       "description": "Skud’s back so we venture deeper into Baphomet’s castle… what will await us at the end… probably Baphomet I would assume… but there has got to be some surprises coming our way… The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738b7.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FhbgjTl80MoiHXvBZJXuTxvxf8t0tRE3u2acbGe8mEV8/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69966367",
       "itunes_duration": "1:12:53",
-      "speakers": [
-        "Lyktion Skud"
-      ],
+      "speakers": [],
       "topics": [
         "center",
         "lyktion"
@@ -4578,28 +4571,26 @@
     },
     {
       "key": "b1db9c4f32d7d741663425415a13f8586ae9f130",
-      "title": "Episode 418 - Big Beefy Babies",
+      "title": "Big Beefy Babies - C1: E418",
       "published_at": "2021-08-09T16:59:05+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738b8",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/big-beefy-babies-c1-e418",
       "description": "Their red eyes glare at us through the gloom and darkness. Their breathing heavy with malice and rage. Our heroes are in their sights but surely they are up to the challenge. Hopefully... The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738b8.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FIETkpFE6ZxW5kGp6tyhfrQCpqMmE-FrxMMl6hQ06aCI/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64421302",
       "itunes_duration": "1:07:06",
-      "speakers": [
-        "Beefy Babies"
-      ],
+      "speakers": [],
       "topics": [
         "beefy",
-        "baby"
+        "babies"
       ]
     },
     {
       "key": "9b77dbb2f3e1bd6869212db636225dfbe4cffe59",
-      "title": "Episode 417 - Maze 2: Hypermaze",
+      "title": "Maze 2: Hypermaze - C1: E417",
       "published_at": "2021-08-02T15:25:43+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738b9",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/maze-2-hypermaze-c1-e417",
       "description": "Our heroes enter a realm they have been to before and certainly sent several folks to... but this time is much, much different. Can they survive and shifting halls of the Maze Realm? Also, what is the deal with these bones... odd... The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738b9.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F3-dPx0X_Y9pjOHFamvNjnfOoOygEO4T2Riy6uYJ_BAg/media.mp3",
@@ -4614,9 +4605,9 @@
     },
     {
       "key": "1645deb6393f9457bd9ce7fb4c25fcade3920767",
-      "title": "Episode 416 - The Tragic Fate of Tidtowne",
+      "title": "The Tragic Fate of Tidtowne - C1: E416",
       "published_at": "2021-07-26T15:30:59+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738ba",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-tragic-fate-of-tidtowne-c1-e416",
       "description": "Content warning for mention of suicide towards the end of the ep. With our crew solidifying their allies and potential enemies of their enemies they receive a letter from an unlikely source... Meanwhile old friends have made some...cosmetic upgrades to their entire bodies/ town. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738ba.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FE0VYqK4ImcvjGA1ELq_beGs--iCy3HJlV9VQSti1cOc/media.mp3",
@@ -4632,9 +4623,9 @@
     },
     {
       "key": "924b4739414b00644ec2bb6ed147349dc334a1a0",
-      "title": "Episode 415 - My Friend Melora",
+      "title": "My Friend Melora - C1: E415",
       "published_at": "2021-07-19T14:43:42+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738bb",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/my-friend-melora-c1-e415",
       "description": "In order to save like, so many lives, the gang has to deal with their biggest threat yet - bureaucracy. We also meet a \"new\" god which is fun. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/Rattenkaefig ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738bb.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fy4XbLTxgiMfoB0YQ2y0WP21jxAqFZ82dmqRlOZHLXBE/media.mp3",
@@ -4649,9 +4640,9 @@
     },
     {
       "key": "4e4927d3b19765c94566b15b45b3b30ab4fefe55",
-      "title": "Episode 414 - Your Bones Are Mine",
+      "title": "Your Bones Are Mine - C1: E414",
       "published_at": "2021-07-12T15:14:11+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738bc",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/your-bones-are-mine-c1-e414",
       "description": "Let's just say Skud cannot keep his little fingers out of his deck and well, that has some negative consequences. But, we cannot let anything get in our way of saving the lives of every god and I guess every person. Oh my that is a lot of pressure... The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738bc.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F1lbo8y7Mcb0an95eJlr7GBJCWKXqWQmk271ERJKSlq4/media.mp3",
@@ -4665,9 +4656,9 @@
     },
     {
       "key": "9033faadfa2f7917a81a373d2166e95f1f0b5822",
-      "title": "Episode 413 - Big Lahni",
+      "title": "Big Lahni - C1: E413",
       "published_at": "2021-07-05T16:29:12+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738bd",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/big-lahni-c1-e413",
       "description": "Whoops! Lahni got Big. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/DoodleKm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738bd.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FuTDORVb5R01NbZIpGkSgP0a26A7a7kPWNrm7plBWVsc/media.mp3",
@@ -4675,7 +4666,6 @@
       "enclosure_length": "70786403",
       "itunes_duration": "1:13:44",
       "speakers": [
-        "Big Lahni",
         "Skud Derringer",
         "Mike Bachmann",
         "Rowan Grey"
@@ -4686,9 +4676,9 @@
     },
     {
       "key": "075ba91c8a501515bf814eddd577ae26c88486eb",
-      "title": "Episode 412 – NASCAR",
+      "title": "NASCAR - C1: E412",
       "published_at": "2021-06-28T22:04:09+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738be",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/nascar-c1-e412",
       "description": "Not going to beat around the bush here - we do some bad choice making on this episode. But I'm sure it will be fine. Or really bad. Who knows... probably fine. Probably. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/lochearte ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738be.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FVI8PJ5Qb-HcogGnZV4lXP21ouKXEvpNRyJPcohG4VZo/media.mp3",
@@ -4702,9 +4692,9 @@
     },
     {
       "key": "3d897d80d1e92883b1a52650e51da941a942e3f7",
-      "title": "Episode 411 - A Wizard, A Clone, and A Simulacrum.",
+      "title": "A Wizard, A Clone, and A Simulacrum. - C1: E411",
       "published_at": "2021-06-21T16:37:49+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738bf",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-wizard-a-clone-and-a-simulacrum-c1-e411",
       "description": "A glowing Portal is about the most stressful thing in the D&D universe. It is the \"we need to talk\" or the unexpected knock at your door at 10:43. Whatever comes through, be it man or otherwise, we shall meet it head on! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by @DoodleKm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738bf.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Ff7w3oENMn1TfE6N1SbN_65iSnUzbLjRQLyqNr55z17M/media.mp3",
@@ -4720,18 +4710,16 @@
     },
     {
       "key": "237f20be4423cc3a0313c1bc743e880db80ddcb0",
-      "title": "Episode 410 - Mech Mommy",
+      "title": "Mech Mommy - C1: E410",
       "published_at": "2021-06-14T10:31:05+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738c0",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/mech-mommy-c1-e410",
       "description": "Large and scary robots are bad enough but like, when they look just like your mom...things get much more intense. I am sure our heroes can deal with whatever this Mechanized Mother throws their way! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by @DoodleKm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738c0.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F2YC7LeiLa4_7seJa2wPqADCc3YzEhMLlaMq4McpJCQg/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70560287",
       "itunes_duration": "1:13:30",
-      "speakers": [
-        "Mech Mommy Large"
-      ],
+      "speakers": [],
       "topics": [
         "mech",
         "mommy"
@@ -4776,16 +4764,18 @@
     },
     {
       "key": "1e0eedc75850be535df0a07127abf8538c140df5",
-      "title": "Episode 409 - Into Bigby’s Realm",
+      "title": "Into Bigby’s Realm - C1: E409",
       "published_at": "2021-05-24T14:34:27+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738c3",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/into-bigbys-realm-c1-e409",
       "description": "Having not died we now have to focus on our next steps. Sure, taking down a foe the size of a Pelor’s Hope city block was a big deal but now we are entering into our enemies territory. A famous wizard has certainly got a few tricks up their large sleeves... The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/iforgethisname ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738c3.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FuY8soJaXucwdfiRgl6n_RRvXwOWhXGOP70r_puejqGw/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65706945",
       "itunes_duration": "1:08:26",
-      "speakers": [],
+      "speakers": [
+        "Into Bigby"
+      ],
       "topics": [
         "bigby",
         "realm"
@@ -4793,9 +4783,9 @@
     },
     {
       "key": "a7587bebacc8cb56156a1bbe835021f99fe74aa4",
-      "title": "Episode 408 - The Tarrasque Part 2",
+      "title": "The Tarrasque Part 2 - C1: E408",
       "published_at": "2021-05-17T17:21:51+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738c4",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-tarrasque-part-2-c1-e408",
       "description": "This big boy is hungry and luckily for him Adventurers are on the menu! Luckily, that is totally fine for our delicious heroes because that just gets them closer to the squishy insides of that big Tarrasque guts. It is risky, but the town of Crossroads must be protected! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/doodlekm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738c4.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FkIVEpcFMkDpvNE8Qp1wBCWwjLfl4d2zWRPveNInzJyA/media.mp3",
@@ -4809,9 +4799,9 @@
     },
     {
       "key": "9dfc04cbc3f0d56ded47bf25e0282969c67fd6e9",
-      "title": "Episode 407 - The Tarrasque",
+      "title": "The Tarrasque - C1: E407",
       "published_at": "2021-05-10T19:05:36+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738c5",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-tarrasque-c1-e407",
       "description": "Facing down a mythical monster that you were not even sure existed is never fun. Doing so while looking over your shoulder worrying that your mom and dad could get hurt, well, that makes the whole thing worse. Let's hope we are prepared for our biggest challenge yet. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/doodlekm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738c5.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F7aLsEND6C7ZQDAMpB25JbTE9zSfuh2yvpAUxL5gwWbc/media.mp3",
@@ -4825,9 +4815,9 @@
     },
     {
       "key": "495a4d8fe2ee73c6e7e72ea256394f379bbe42de",
-      "title": "Episode 406 - Welcome to The Crossroads",
+      "title": "Welcome to The Crossroads - C1: E406",
       "published_at": "2021-05-03T17:47:44+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738c6",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-the-crossroads-c1-e406",
       "description": "Introducing your friends to your family can be really stressful! Especially when there is a looming kaiju like horror waiting for you. Will Rowan have the courage to face both her mom and dad while having an emotion!? The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/tiffkabooarts ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738c6.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FFss3LGczdK4zve_5T1WE9hc0UCel-5nCju_kOc4FcYI/media.mp3",
@@ -4836,15 +4826,14 @@
       "itunes_duration": "1:15:43",
       "speakers": [],
       "topics": [
-        "welcome",
-        "crossroad"
+        "crossroads"
       ]
     },
     {
       "key": "00efabc3bcc03e7ce3a4dd41d79b7e30aedeee40",
-      "title": "Episode 405 - Great Galanthis Snack Off",
+      "title": "Great Galanthis Snack Off - C1: E405",
       "published_at": "2021-04-26T16:20:22+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738c7",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/great-galanthis-snack-off-c1-e405",
       "description": "When dealing with a king of a nation with other worldly sensibilities you have to make a good impression and follow whatever laws or customs they have. In this case you need to prove you know how to make good snacks on 4/20. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/tiffkabooarts ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738c7.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FhWYpcF5wMg89_nrXYNj-FORpIpaMhDOnm0dowW8Q1yM/media.mp3",
@@ -4860,9 +4849,9 @@
     },
     {
       "key": "5a7da01b2eb7fb600ecb7042c76de2e785263730",
-      "title": "Episode 404 - Welcome to Galanthis",
+      "title": "Welcome to Galanthis - C1: E404",
       "published_at": "2021-04-19T16:28:08+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738c8",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-galanthis-c1-e404",
       "description": "The gang has to make sure no GD hidden villains are within their group so they have a quick truth sesh. Then they rush off to meet Rowan's cool as hell dad! Wow! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/Mrmisc4 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738c8.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FMFKnrUo-yj9RvHJaVSqD239cp1cjFCASg40PaxfNTzA/media.mp3",
@@ -4871,33 +4860,30 @@
       "itunes_duration": "1:09:10",
       "speakers": [],
       "topics": [
-        "welcome",
         "galanthis"
       ]
     },
     {
       "key": "3374521be256ac61054c1b52abd13fffc55b208f",
-      "title": "Episode 403 - Most Unchill, Dad",
+      "title": "Most Unchill, Dad - C1: E403",
       "published_at": "2021-04-12T15:18:53+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738c9",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/most-unchill-dad-c1-e403",
       "description": "Bachmann returns after his maternity leave so we get down and dirty with what Skud has been up to. Then we take a big breath and realize we are about to face our most powerful enemy to date. Sure, we do that all the time, technically, but this is just orders of magnitude huger than before. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/lochearte ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738c9.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FjY1yfPR1y8dv25qP2tl2yybvT276VbcWrr1mbcuhXOs/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63330429",
       "itunes_duration": "1:05:58",
-      "speakers": [
-        "Dad Bachmann"
-      ],
+      "speakers": [],
       "topics": [
         "unchill"
       ]
     },
     {
       "key": "40f4cdc5346cdbc5b1df9948e29fcb5f58a81622",
-      "title": "Episode 402 - King of the Chaos",
+      "title": "King of the Chaos - C1: E402",
       "published_at": "2021-04-05T15:15:21+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738ca",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/king-of-the-chaos-c1-e402",
       "description": "Finally, some freaking answers! Our heroes take a seat and get to the bottom of all the crap going on in their world directly from folks with first hand knowledge. No more conjecture. No more vague clues. Finally, we learn just how much danger we are in, and, unfortunately it is a whole lot. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/lochearte ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738ca.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FB9nVbVj6rzkMQBwn_cV0CrpL9Z3zffD7w8_o23QoDWw/media.mp3",
@@ -4912,27 +4898,25 @@
     },
     {
       "key": "57426c721d31c6da06e7a461ae0a7c805bcb7305",
-      "title": "Episode 401 - BIG Lahni",
+      "title": "BIG Lahni - C1: E401",
       "published_at": "2021-03-29T15:27:21+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738cb",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/big-lahni-c1-e401",
       "description": "After what we are calling \"A Bit of a Whoopsie\" the gang attempts to lick whatever wounds they received. A few are permanently changed and some not for the better. But being interplanar god fighting/ saving heroes is a risky gig time to time. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/_wrenfro ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738cb.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FYT2oTipZWWBSDwV9OVANRzc0VZbLpDJdYWY65MLQ6ao/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68334654",
       "itunes_duration": "1:11:11",
-      "speakers": [
-        "Big Lahni"
-      ],
+      "speakers": [],
       "topics": [
         "lahni"
       ]
     },
     {
       "key": "d4312858bd756642ddbe0597114695313626731b",
-      "title": "Episode 400 - Power Word Chill",
+      "title": "Power Word Chill - C1: E400",
       "published_at": "2021-03-22T15:38:41+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738cc",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/power-word-chill-c1-e400",
       "description": "Wow. 400 fricken episodes. Momma mia. Well, this one is a doozy and a half! Our heroes face off against a powerful new foe and come face to face with some not so new faces. Wow! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/yourdarlingson ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738cc.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FzpWmQN-tYKI95ctG64m2JNlU2HS0h6jugwjuCbGPzq0/media.mp3",
@@ -4948,9 +4932,9 @@
     },
     {
       "key": "fa87f3c8d068acc7226dd473231dadeeb922e10b",
-      "title": "Episode 399 - Two Steps Forward, Several Demons Attack Part 2",
+      "title": "Two Steps Forward, Several Demons Attack Part 2 - C1: E399",
       "published_at": "2021-03-15T15:43:40+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738cd",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/two-steps-forward-several-demons-attack-part-2-c1-e399",
       "description": "After a slight, giant explosion we continue our Demon Fight. Hopefully nothing too harsh happens to us because I have to assume that these are just like, guards? And then there will be some sort of Super Boss up ahead... The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/LadyVidalis ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738cd.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FrEBoCHK7oBjmlJVcrbik9zdXvZoiD61c6VJm-3LzylU/media.mp3",
@@ -4970,9 +4954,9 @@
     },
     {
       "key": "a7dcdcee99aeeffb2d6010b856f848faf30e6bd3",
-      "title": "Episode 398 - Two Steps Forward, Several Demons Attack",
+      "title": "Two Steps Forward, Several Demons Attack - C1: E398",
       "published_at": "2021-03-08T21:49:17+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738ce",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/two-steps-forward-several-demons-attack-c1-e398",
       "description": "I feel like everywhere here is dangerous and honestly most things want to fight us. Kinda a bummer that the Abyss doesn't have a more chill vibe. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738ce.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FPEAMcQVVkmMt4IcyUKjmLgL3SDN3mqVTlS4_SvEZ0DM/media.mp3",
@@ -4980,7 +4964,8 @@
       "enclosure_length": "76346096",
       "itunes_duration": "1:19:31",
       "speakers": [
-        "Steps Forward"
+        "Two Steps Forward",
+        "Several Demons Attack"
       ],
       "topics": [
         "steps",
@@ -4991,9 +4976,9 @@
     },
     {
       "key": "72b9a122fe2acb2ee37d3b9fedda57ae99586cc1",
-      "title": "Episode 397 - Fungal Fortress",
+      "title": "Fungal Fortress - C1: E397",
       "published_at": "2021-03-01T19:27:24+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738cf",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/fungal-fortress-c1-e397",
       "description": "With the previous hiccup cleared up the gang heads deeper into the Abyss. Will they find Aludra ad Jaela and whoever else is being held here? Will the forces of darkness continue to halt their progress?! I CERTAINLY DO NOT KNOW! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by http://twitter.com/bendrawslife ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738cf.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FGE4VbxkT-p891ga7OKTsd_2a5oyDsEVgf6YRHhoWFdY/media.mp3",
@@ -5008,9 +4993,9 @@
     },
     {
       "key": "8346bee66093b53c4d6ec0f65ad727941f04bc39",
-      "title": "Episode 396 – Fungal Fantasy Part 2",
+      "title": "Fungal Fantasy Part 2 - C1: E396",
       "published_at": "2021-02-22T17:36:27+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738d0",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/fungal-fantasy-part-2-c1-e396",
       "description": "These dang illusory nightmares are dang spooky and our heroes are getting beat up! But I know they can do it and, heck, maybe learn something along the way! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik “Lahni” Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by http://twitter.com/TeddyYudain ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738d0.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F52-w14weI8rhtw10f5n2zrKx-_tVeSrQe6jlCzV8qKo/media.mp3",
@@ -5025,9 +5010,9 @@
     },
     {
       "key": "37ca4e6a88a0f1e5d4063a9d08cd91f238250bd1",
-      "title": "Episode 395 - Fungal Fantasia",
+      "title": "Fungal Fantasia - C1: E395",
       "published_at": "2021-02-15T16:40:26+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738d1",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/fungal-fantasia-c1-e395",
       "description": "Something not that chill happens when Skud plays a prank on Toby. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by http://twitter.com/TeddyYudain ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738d1.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FuK-KjIUbQAHhjR6beadHKLlrdOhG2L_XnZEclfx0RHs/media.mp3",
@@ -5042,18 +5027,16 @@
     },
     {
       "key": "9ce9e72762304bb80d515f767e2b81778243ad24",
-      "title": "Episode 394 - Demon Ball",
+      "title": "Demon Ball - C1: E394",
       "published_at": "2021-02-08T19:15:48+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738d2",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/demon-ball-c1-e394",
       "description": "When you enter the dang Abyss you gotta have a plan and you gotta have an ally. Well, we don't really have either so we try to fix that. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by http://twitter.com/thedogleech ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738d2.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FzU1E42MEFyLyeJskdfdtwOIv1WJoSZUUm8XzfSPGHSY/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74016391",
       "itunes_duration": "1:17:06",
-      "speakers": [
-        "Demon Ball"
-      ],
+      "speakers": [],
       "topics": [
         "demon",
         "ball"
@@ -5061,9 +5044,9 @@
     },
     {
       "key": "376e636686f3e2ba3884814c16466485bbe4e277",
-      "title": "Episode 393 - Meteor Mayhem",
+      "title": "Meteor Mayhem - C1: E393",
       "published_at": "2021-02-01T15:31:47+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738d3",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/meteor-mayhem-c1-e393",
       "description": "These dang Gith raiders are trying to freaking kill us! Oh, momma, they have no idea what hell they have just released upon themselves. Like, they even said \"take no prisoners\"! To us! Big mistake, pal. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/the_dan_chech ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738d3.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F6KU76_qUggMt170krf5dSg4OmaDsnFjYw_fMMXaxV5M/media.mp3",
@@ -5078,9 +5061,9 @@
     },
     {
       "key": "07d774c3a668e2459e09ca50f593db6be06f5b8b",
-      "title": "Episode 392 - Buca di Breakfast",
+      "title": "Buca di Breakfast - C1: E392",
       "published_at": "2021-01-25T17:50:14+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738d4",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/buca-di-breakfast-c1-e392",
       "description": "We journey into the dang Astral Plane in order to journey into the dang Abyss. Wow, this is going to suck. What even is the Abyss? I feel like it will be wet for some reason? Squishy? Ah, here it goes! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/sanderdoesart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738d4.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FrYT_uMq-7PH16FEp00tqWf6bieax2kUP8Anq_lYMKSY/media.mp3",
@@ -5095,9 +5078,9 @@
     },
     {
       "key": "6ea925f24b3536edfb326759a4d7cdfa08c81521",
-      "title": "Episode 391 - One Spicy Porridge",
+      "title": "One Spicy Porridge - C1: E391",
       "published_at": "2021-01-18T16:45:15+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738d5",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/one-spicy-porridge-c1-e391",
       "description": "A slight interlude. A moment to take a breath. Our heroes savor the rich taste of home life before they head out into realms even they cannot fathom. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/LadyVidalis ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738d5.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FgXZYfr3y9ljjS5LdZuJT57GVYD9hjsq6qD3g4nYrcAg/media.mp3",
@@ -5114,9 +5097,9 @@
     },
     {
       "key": "ded331cd0c18562b7ec3d346c25eb9665cf7d857",
-      "title": "Episode 390 - Temptation's Hand",
+      "title": "Temptation's Hand - C1: E390",
       "published_at": "2021-01-11T15:18:37+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738d6",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/temptations-hand-c1-e390",
       "description": "We return to the Tower of Grey in order to find our next step to complete this god killing artifact. Unfortunately, bad news is waiting for us, as it tends to do, in place we look to for comfort and safety. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/ https://twitter.com/sanderdoesart ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738d6.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FvK0jnZ0BPij74KdgZ346assUckl8MaBshG7cVCFIspY/media.mp3",
@@ -5131,9 +5114,9 @@
     },
     {
       "key": "f1867f8cacd34593c265a34cb7ad41e16b4e57da",
-      "title": "Episode 389 - Here We Are Now",
+      "title": "Here We Are Now - C1: E389",
       "published_at": "2021-01-04T15:50:01+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738d7",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/here-we-are-now-c1-e389",
       "description": "After such a long journey we thought it would make sense to recap a bit of where we ended up and how we got there. Thanks to Michael and David for putting these clips together!!! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738d7.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FPnAqGrh_xekYcRoDI4n0tPnTzbuDc3ODONmZmcBcuyE/media.mp3",
@@ -5145,9 +5128,9 @@
     },
     {
       "key": "cadd8488e2dc9c88712b13ad1f50f8f9a445833e",
-      "title": "Episode 388 - Voyage Across the Astral Sea",
+      "title": "Voyage Across the Astral Sea - C1: E388",
       "published_at": "2020-12-28T19:12:06+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738d8",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/voyage-across-the-astral-sea-c1-e388",
       "description": "With the BTS secured our heroes must make their way back home! Sure, what is home anyways for adventurers such as ours, but surely they will be happy to sleep in a Non-White Flounder bed (even though the White Flounder's beds are amazing). The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738d8.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FnRtuDUPXVTNF9jUQhETVlHYVXIc6QWQCKYbMQVvljPk/media.mp3",
@@ -5156,24 +5139,21 @@
       "itunes_duration": "1:10:08",
       "speakers": [],
       "topics": [
-        "voyage",
         "astral"
       ]
     },
     {
       "key": "08aeda2027261b4d383843f21972ada8a91be661",
-      "title": "Episode 387 - The Elite Forge",
+      "title": "The Elite Forge - C1: E387",
       "published_at": "2020-12-21T15:47:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738d9",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-elite-forge-c1-e387",
       "description": "That rascal Tiamat is in our business again. Wish she would just like, buzz off. But we must get to the Elite Forge regardless of whichever god of chaos stand in our way! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/artsy22ajl ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738d9.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FbOW-sT_LfDb6ruofsY0mvUNHB66gANp3Iy6KYvQOll0/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72167758",
       "itunes_duration": "1:15:10",
-      "speakers": [
-        "Elite Forge"
-      ],
+      "speakers": [],
       "topics": [
         "elite",
         "forge"
@@ -5181,9 +5161,9 @@
     },
     {
       "key": "a2939d31c882382c35cdfaf74731e0054ae7b13b",
-      "title": "Episode 386 - The Final Bone Battle!? Part 2",
+      "title": "The Final Bone Battle!? Part 2 - C1: E386",
       "published_at": "2020-12-14T19:53:45+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738da",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-final-bone-battle-part-2-c1-e386",
       "description": "That snake Lucius freaking cheated and tried to murder Skud! That rat! That villain! I hate him, but also respect his drive. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/yourdarlingson ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738da.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Ftk7gdiWtQpy1h32j6d16SEo53VEkEmMWz3Cqcyl-4dM/media.mp3",
@@ -5199,9 +5179,9 @@
     },
     {
       "key": "9aa5638a869e95597f3546cc91dfbfe5bd527df6",
-      "title": "Episode 385 - The Final Bone Battle!?",
+      "title": "Episode 385 - The Final Bone Battle!? - C1: E385",
       "published_at": "2020-12-07T17:01:32+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738db",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/episode-385-the-final-bone-battle-c1-e385",
       "description": "This one is for all the bone marbles! Can our heroes defeat this elite squad of bone villains? They have been training their whole month for this day and they will not lose! May lose a few folks along the way but they should be able to be brought back. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/bridgitconnell ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738db.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FWm73qGHtvcNpFX0d4hYGzTXRG_PlZ4y3SS_J-iSwCrc/media.mp3",
@@ -5219,18 +5199,16 @@
     },
     {
       "key": "66f54d728fe65e05616ddc2d778fa2d1c2cbd456",
-      "title": "Episode 384 - The Curse of Exhaustion",
+      "title": "The Curse of Exhaustion - C1: E384",
       "published_at": "2020-11-30T16:01:07+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738dc",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-curse-of-exhaustion-c1-e384",
       "description": "What if a gift you were given from a \"friend\" was actually a dang curse!!! We explore this horrid notion on today's adventure. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/TeddyYudain ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738dc.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F4ewsam6Fi8qh7YULBcZqA6cmbbsDUBwk1dtaLvfz3gk/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75169123",
       "itunes_duration": "1:18:18",
-      "speakers": [
-        "Exhaustion What"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "exhaustion"
@@ -5238,9 +5216,9 @@
     },
     {
       "key": "6b70aacf4ba6789e7a9c1ae04d02870707a74915",
-      "title": "Episode 383 - Table Manners",
+      "title": "Table Manners - C1: E383",
       "published_at": "2020-11-23T20:59:33+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738dd",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/table-manners-c1-e383",
       "description": "Well, dang. Here we are. The dang CHAMPIONS! Well, the person who is allowed to challenge the champion, but still. What horrors will Lucious Incendous throw at us? Only one way to find out!!! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by @bridgitconnell ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738dd.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FYi9myYpcCPilSXpedqM--wj_MZEsoHUsMRI-VdhHns8/media.mp3",
@@ -5248,11 +5226,11 @@
       "enclosure_length": "61920235",
       "itunes_duration": "1:04:30",
       "speakers": [
-        "Table Manners Well"
+        "Table Manners"
       ],
       "topics": [
         "table",
-        "manner"
+        "manners"
       ]
     },
     {
@@ -5274,9 +5252,9 @@
     },
     {
       "key": "ed59c9f20cecf3c19b1fa4a50965c68cbacda586",
-      "title": "Episode 382 - F Word Gary",
+      "title": "F Word Gary - C1: E382",
       "published_at": "2020-11-09T19:56:04+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738df",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/f-word-gary-c1-e382",
       "description": "Bone Card Battle Time! That dang Gary is not ready for what we are about to throw at him and his dang bone creatures. We will fight and we will win! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/TeddyYudain ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738df.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FxKfLTXHeh0SupHwQNLciw_tmmGNXD5VPN53LY8Cj_Qk/media.mp3",
@@ -5291,9 +5269,9 @@
     },
     {
       "key": "5a2407a1ebbc3836793d50b03a5a0e8b268ea74f",
-      "title": "Episode 381 - Stepping Up to the Plate",
+      "title": "Stepping Up to the Plate - C1: E381",
       "published_at": "2020-11-02T18:08:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738e0",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/stepping-up-to-the-plate-c1-e381",
       "description": "While we do not sanction the destruction of Dodge's bone cards we are not going to pass up an opportunity when it presents itself. Sure, we feel bad for Dodge, but like, we need to win these bone card battles in order to save the multiverse. Here is the giveaway we mention for CastleStorm II minis! https://gleam.io/UmKjO/castlestorm-2-miniatures-giveaway The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/TeddyYudain ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738e0.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FGqecLsLnGWD8TFItePz15i-Axx6BVyyKyLPFvysmW9Y/media.mp3",
@@ -5301,8 +5279,7 @@
       "enclosure_length": "70754638",
       "itunes_duration": "1:13:42",
       "speakers": [
-        "Stepping Up",
-        "Plate While"
+        "Stepping Up"
       ],
       "topics": [
         "plate"
@@ -5310,9 +5287,9 @@
     },
     {
       "key": "041821ce012b2c156d541ad1355059d104bf1a2e",
-      "title": "Episode 380 - Sky Pirate Delight",
+      "title": "Sky Pirate Delight - C1: E380",
       "published_at": "2020-10-26T14:23:38+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738e1",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/sky-pirate-delight-c1-e380",
       "description": "Now we bone heroes need to talk to the right bone people to get a proper bone match. I swear, all these bone card battles are just a politics game I swear. Here is the giveaway we mention for CastleStorm II minis! https://gleam.io/UmKjO/castlestorm-2-miniatures-giveaway The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/LadyVidalis ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738e1.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F20WqJObGYCuPn7WIr5tLPVZ06JZf-Vol9t3xuuH9uHA/media.mp3",
@@ -5320,7 +5297,7 @@
       "enclosure_length": "72868257",
       "itunes_duration": "1:15:54",
       "speakers": [
-        "Sky Pirate Delight Now"
+        "Sky Pirate Delight"
       ],
       "topics": [
         "pirate",
@@ -5329,9 +5306,9 @@
     },
     {
       "key": "373b7e4307f7a10d6b84c45af7d880ecb56e4836",
-      "title": "Episode 379 - Welcome to Venduria",
+      "title": "Welcome to Venduria - C1: E379",
       "published_at": "2020-10-19T17:21:07+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738e2",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-venduria-c1-e379",
       "description": "Well we solved the plane of earth without even Bone Battling! Nice job, us. Although maybe it would have been nice to get some practice in...regardless now we have to move on to the Plane of Air for our toughest fight yet! The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/DoodleKm ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738e2.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FPzjP-ZUJZXTqz6LdFB21HhzQ6xryMqlcCSr2b-HZuu4/media.mp3",
@@ -5339,19 +5316,17 @@
       "enclosure_length": "65898788",
       "itunes_duration": "1:08:38",
       "speakers": [
-        "Venduria Well",
         "Bone Battling"
       ],
       "topics": [
-        "welcome",
         "venduria"
       ]
     },
     {
       "key": "e374ab9d197ee7cf835648e76b947efc7ec11cf4",
-      "title": "Episode 378 - The Crimes of Catherine Beanlord",
+      "title": "The Crimes of Catherine Beanlord - C1: E378",
       "published_at": "2020-10-12T21:19:08+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738e3",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-crimes-of-catherine-beanlord-c1-e378",
       "description": "Family. Momma Mia. The spiciest meatball of them all, some say. LIsten as we unpack a tale of familial woe that may hit close to home. But remember, found family is often times more important, which is beautiful. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/TeddyYudain ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738e3.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F_RT7uEG8fP07QahDn1nB2lIYONPbPyd7ZhEPRQmbIpk/media.mp3",
@@ -5369,9 +5344,9 @@
     },
     {
       "key": "6ebbb8e7a45ccd006eb959a00e6b12c3af8e9433",
-      "title": "Episode 377 - 12 Angry Allies",
+      "title": "12 Angry Allies - C1: E377",
       "published_at": "2020-10-05T14:54:57+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b57808000128738e4",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/12-angry-allies-c1-e377",
       "description": "When facing a monster of such horror and unknowable wrath you gotta bring in some dang back up! Hopefully the back up is like, helpful and not chaotic and prone to exploding. The adventure continues with Skud Derringer ( Mike Bachmann ), Rowan Grey ( Jennifer Cheek ), Lahnik \"Lahni\" Caplain ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor ( David Stewart )! Podcast art by https://twitter.com/TeddyYudain ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b57808000128738e4.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FT-hnMO3mtm84y1uBKTlCdEfJXuPtQcDFltxDI-RRPPo/media.mp3",
@@ -5379,7 +5354,7 @@
       "enclosure_length": "66419147",
       "itunes_duration": "1:09:11",
       "speakers": [
-        "Angry Allies When"
+        "Angry Allies"
       ],
       "topics": [
         "angry",
@@ -6911,9 +6886,9 @@
     },
     {
       "key": "43b1c8633a718356b33c5cad3e8545d89acb99e8",
-      "title": "Episode 300 - Swords and Sobriety Episode 1: Tavern Troubles",
+      "title": "Swords and Sobriety Episode 1: Tavern Troubles - C1: E300",
       "published_at": "2019-02-04T15:35:01+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09b578080001287393c",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/swords-and-sobriety-episode-1-tavern-troubles-c1-e300",
       "description": "Few Podcasts survive to make their 300th episode and we probably would have been one of them if not for you! We are not kidding - we would have quit a long time ago ha ha. You choosing to join us for this wild ride has meant so, so, so, so much to all of us! Now we ask you to join us on our next journey. Our next safer and more ad friendly arc. Our answer to \"wait, they just get drunk and play D&D...no thanks\". Our earnest desire to be respected by WotC. Please respectfully, minding the local sound ordinances, for Swords and Sobriety Episode 1. All kidding aside, we had so much fun recording this long episode. Maybe a little too much... Podcast art byPodcast art by @YourDarlingSon ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09b578080001287393c.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FrZgrebq1rG3KoOKdO1CP9eykhhKjTqDJkIzF9vMNy9s/media.mp3",
@@ -6921,13 +6896,14 @@
       "enclosure_length": "1284625790",
       "itunes_duration": "1:51:23",
       "speakers": [
-        "Tavern Troubles Few Podcasts"
+        "Tavern Troubles",
+        "Few Podcasts"
       ],
       "topics": [
         "swords",
         "sobriety",
         "tavern",
-        "trouble"
+        "troubles"
       ]
     },
     {
@@ -8715,18 +8691,16 @@
     },
     {
       "key": "235357ab006dea57eb00bf88cb759587ea085a4f",
-      "title": "Episode 202 – The City in the Sky",
+      "title": "The City in the Sky - C1: E202",
       "published_at": "2017-02-27T17:06:19+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739a1",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-city-in-the-sky-c1-e202",
       "description": "Turns out the whole town of Glaine, the Jewel of the East is in a lot of trouble. You see, a whole hecking city could fall on top of it if we goof this one up. Somehow we must defeat these folks before they take over all of Drunkeros! If anyone can do it, it … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739a1.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D44381/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59585930",
       "itunes_duration": "1:02:04",
-      "speakers": [
-        "Sky Turns"
-      ],
+      "speakers": [],
       "topics": [
         "city"
       ]
@@ -10135,11 +10109,11 @@
     },
     {
       "key": "d45c14b2c88a844a1db1bafc34ebd86079b5e6aa",
-      "title": "Episode 122 – Okay, Bye!",
+      "title": "Okay, Bye! - C2: E122",
       "published_at": "2015-05-04T19:29:13+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739f3",
-      "description": "Now that we are a part of the seedy resupply element entering Yeenoghu’s terrible town, the gang has to do their best to blend in. We look great. Our gnoll impressions are spot on. Nothing can go wrong. Probably. I mean, it is an evil town of evil people so even if things go correctly, … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739f3.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/okay-bye-c2-e122",
+      "description": "Now that we are a part of the seedy resupply element entering Yeenoghu’s terrible town, the gang has to do their best to blend in. We look great. Our gnoll impressions are spot on. Nothing can go wrong. Probably. I mean, it is an evil town of evil people so even if things go correctly, it will be more than a little painful I assume. Okay, bye! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ), Jaela ( Nika Howard ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editor Steph Kingston ( @stephokingston )! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778080870593-bea932d6-c680-40da-819e-4e9bbe2edcfd.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D30065/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57067311",
@@ -10289,18 +10263,16 @@
     },
     {
       "key": "918319bd58210836b3ec2546408d1d15ba621144",
-      "title": "Episode 113 – Welcome to the House of Death",
+      "title": "Welcome to the House of Death - C1: E113",
       "published_at": "2015-02-23T18:00:45+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739fc",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-the-house-of-death-c1-e113",
       "description": "Necromancy is the most metal of all magics or mancies in all the realm. Why did it take so long for us to hang out with a most choice Necromancer is a question for the ages… But we corrected our mistake by going and meeting an old pal of Zird’s. I have to assume that everything … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739fc.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D26416/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54940316",
       "itunes_duration": "57:13",
-      "speakers": [
-        "Death Necromancy"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "death"
@@ -10308,18 +10280,16 @@
     },
     {
       "key": "d9f3371e198ca0dd9308b980c78fa402121ec1db",
-      "title": "Episode 112 – The Road to Victory",
+      "title": "The Road to Victory - C1: E112",
       "published_at": "2015-02-16T16:56:02+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739fd",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-road-to-victory-c1-e112",
       "description": "Having bested those noodly demons, the gang preps themselves for the next big step – taking down Fennekin. It would be madness to whisk our way straight his flying sky fortress over the demon void that was Caer. The only way to take him down is with allies of both dragon and non-dragon type. We … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739fd.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D26081/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66676192",
       "itunes_duration": "1:09:27",
-      "speakers": [
-        "Victory Having"
-      ],
+      "speakers": [],
       "topics": [
         "road",
         "victory"
@@ -10327,9 +10297,9 @@
     },
     {
       "key": "3f91689f50b9c36ae056eab053092716822775fe",
-      "title": "Episode 111 – Evil Through the Roof",
+      "title": "Evil Through the Roof - C1: E111",
       "published_at": "2015-02-09T17:49:08+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739fe",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/evil-through-the-roof-c1-e111",
       "description": "This is a land of monsters and horrible demons. We should have known that we were never safe. Honestly, if you are asking me, those damned demons attacking us was more of a “when” then an “if.” Sometimes you have to appreciate the quiet times, you know? They are shattered so quickly and unexpectedly that … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739fe.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D25696/media.mp3",
@@ -10346,9 +10316,9 @@
     },
     {
       "key": "d5a75356cb01454e7fad275890f4e5d005cc87a4",
-      "title": "Episode 110 – The Hammer of Sundering",
+      "title": "The Hammer of Sundering - C1: E110",
       "published_at": "2015-02-02T18:53:14+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739ff",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-hammer-of-sundering-c1-e110",
       "description": "Well, it looks like your heroes have to make a tough choice. Maybe the knowledge found within the Demonomicon was actually a curse? Maybe it was better to be ignorant? Regardless they are now closer to their goal than ever before and that naturally is terrifying. Our heroes are used to dealing with tough decisions … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739ff.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D25489/media.mp3",
@@ -10363,9 +10333,9 @@
     },
     {
       "key": "acc7b70787339542a6d0d8b3c1fe593edd8bc5b3",
-      "title": "Episode 109 – Demons at Your Door",
+      "title": "Demons at Your Door - C1: E109",
       "published_at": "2015-01-26T15:58:47+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/demons-at-your-door-c1-e109",
       "description": "Having allowed Zird to Zird up the demon protection barrier outside the White Dome of Fairmire, your plucky group of adventurers is now forced into yet another dicey situation. A large group of demons can be seen rushing their way. Great. Wonderful. Demons will get what they have coming for them. Roll for initiative. The … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a00.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D25367/media.mp3",
@@ -10380,18 +10350,16 @@
     },
     {
       "key": "9e8b9ffc66bcd11c131d37bdcf360240c98046c8",
-      "title": "Episode 108 – Mystery of Fairmire",
+      "title": "Mystery of Fairmire - C1: E108",
       "published_at": "2015-01-19T23:10:55+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a01",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/mystery-of-fairmire-c1-e108",
       "description": "After the good-byes are exchanged there is nothing left but to continue on your journey. Yes, we had a nice break on that island, but we must go to Fairmire and meet with the only person who is able to help us with the Demonomicon. Not sure what we expected to find when we reached the … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a01.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D25261/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70312019",
       "itunes_duration": "1:13:14",
-      "speakers": [
-        "Fairmire After"
-      ],
+      "speakers": [],
       "topics": [
         "mystery",
         "fairmire"
@@ -10399,9 +10367,9 @@
     },
     {
       "key": "8f097e2aeb0b9383c7761f180cd1d2b4f7e4ae19",
-      "title": "Episode 107 – Why We Fight",
+      "title": "Why We Fight - C1: E107",
       "published_at": "2015-01-13T00:07:51+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a02",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/why-we-fight-c1-e107",
       "description": "After making the lives of some very special people just a little bit safer amidst all this chaos, the gang prepares to head towards Fairmire. I think all of the excitement with the residents of Drunkeros’ Madagascar let us forget for a moment the next step in our adventure. This feels like the first quiet … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a02.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D25147/media.mp3",
@@ -10409,13 +10377,15 @@
       "enclosure_length": "80706246",
       "itunes_duration": "1:24:04",
       "speakers": [],
-      "topics": []
+      "topics": [
+        "fight"
+      ]
     },
     {
       "key": "e78f6b3bb9fefb62cb92a10ad7db1c228860fabc",
-      "title": "Episode 106 – The Further Trials of Good People",
+      "title": "The Further Trials of Good People - C1: E106",
       "published_at": "2014-12-22T21:55:31+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a03",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-further-trials-of-good-people-c1-e106",
       "description": "Hi! Quick warning before you start this episode – since it had been a little bit over an hour and half since we started recording, our sobriety was in shambles. It was still a fun episode (from what I remember) but this shouldn’t be your first episode, or maybe even your eighth. Hope you like … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a03.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D25061/media.mp3",
@@ -10423,7 +10393,7 @@
       "enclosure_length": "70301570",
       "itunes_duration": "1:13:14",
       "speakers": [
-        "Good People Hi"
+        "Good People"
       ],
       "topics": [
         "trials",
@@ -10433,9 +10403,9 @@
     },
     {
       "key": "714aac91b6a90f5c5b3249e76eaea5e5d822e0aa",
-      "title": "Episode 105 – The Enkindling",
+      "title": "The Enkindling - C1: E105",
       "published_at": "2014-12-15T21:22:12+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a04",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-enkindling-c1-e105",
       "description": "After saving the inhabitants of Drunkeros’ Madagascar, we learned that the island held more secrets than we originally were preppared to handle. I mean, we already saved several of their lives against what appeared to be dinosaurs, right? What more should we be expected to do? But, we were in sore need of provisions, provisions … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a04.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D25003/media.mp3",
@@ -10449,9 +10419,9 @@
     },
     {
       "key": "a032ab8eff05fc07ab8d3b7a8be79e4cd4dd0ebe",
-      "title": "Episode 104 – Welcome to the Jungle – Part 2",
+      "title": "Welcome to the Jungle – Part 2 - C1: E104",
       "published_at": "2014-12-08T22:14:21+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a05",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-the-jungle-part-2-c1-e104",
       "description": "The viscous battle continues to rage all around us on this week’s episode of Drunks and Dragons. Who knew that these dinos would be so dangerous?!? Cat people are getting mauled left and right, and I swear I hear a loud pounding noise coming from the forrest. This cup of water is shaking, is all … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a05.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24918/media.mp3",
@@ -10465,9 +10435,9 @@
     },
     {
       "key": "6202d1745249a21fc2e3573f65cbf5f597988ef0",
-      "title": "Episode 103 – Welcome to the Jungle – Part 1",
+      "title": "Welcome to the Jungle – Part 1 - C1: E103",
       "published_at": "2014-12-02T00:43:33+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a06",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-the-jungle-part-1-c1-e103",
       "description": "Drunkeros’ Madagascar seemed like such a nice place with a normal sounding name, but we were wrong. Dead wrong. The horrors we faced on that island… I may never forget. Why, I still wake up with a shout in the middle of the night. Chad used to be able to comfort me but…I can’t even … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a06.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24896/media.mp3",
@@ -10481,9 +10451,9 @@
     },
     {
       "key": "6330803e9762cae77de540242af6d522151f81be",
-      "title": "Episode 102 – The Most Magical Motor Boat",
+      "title": "The Most Magical Motor Boat - C1: E102",
       "published_at": "2014-11-25T00:29:33+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a07",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-most-magical-motor-boat-c1-e102",
       "description": "Having reunited with “the gang,” The Gang has to really figure out what to do with this dang Demonomicon book. Heck, I don’t think there are demon libraries where we can just drop it off. A real pickle, this one. In the more immediate concerns column is that fact that our glorous, the [redacted], isn’t … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a07.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24855/media.mp3",
@@ -10499,9 +10469,9 @@
     },
     {
       "key": "5f08da0344eeb7769b34d11cf8d1fe6a8322b601",
-      "title": "Episode 101 – Home is Where Your Heads Are",
+      "title": "Home is Where Your Heads Are - C1: E101",
       "published_at": "2014-11-17T23:59:16+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a08",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/home-is-where-your-heads-are-c1-e101",
       "description": "We have to admit, it sure feels good to be back on the ship that we have had so many adventures on. Some of the blood stains from previous battles brought tears to our eyes as we remembered friends long gone. Going forward we will remember to cherish the simple times on this beautiful ship. … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a08.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24804/media.mp3",
@@ -10516,9 +10486,9 @@
     },
     {
       "key": "fa44caa4affaa9fad598bf4faf24e4ff8acbd55f",
-      "title": "Episode 100 – A Bittersweet Reunion",
+      "title": "A Bittersweet Reunion - C1: E100",
       "published_at": "2014-11-10T23:20:04+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a09",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-bittersweet-reunion-c1-e100",
       "description": "First, let us say thank you for allowing us to exist all the way to episode 100! Is is your support that keeps us going. On this momemtous episode of Drunks and Dragons things get … a little dicey. I know! It is such a surprise, but hey, sometimes dicey things happen to and around … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a09.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24722/media.mp3",
@@ -10526,7 +10496,7 @@
       "enclosure_length": "86887444",
       "itunes_duration": "1:30:30",
       "speakers": [
-        "Bittersweet Reunion First"
+        "Bittersweet Reunion"
       ],
       "topics": [
         "bittersweet",
@@ -10535,9 +10505,9 @@
     },
     {
       "key": "de06617e67de0e876954c9e02e1f9648f3708292",
-      "title": "Episode 99 – Horror on the Ocean Floor",
+      "title": "Horror on the Ocean Floor - C1: E99",
       "published_at": "2014-11-03T22:53:10+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a0a",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/horror-on-the-ocean-floor-c1-e99",
       "description": "With last week’s chilling revelation the gang tries to make sense of their current Thom/ Steve predicament. Who knows what horrors are going on in the mind of Thom Dragonborn. One can only guess, but one would never want to know first hand. Just when we thought things couldn’t get dicier we received a chilling … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a0a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24691/media.mp3",
@@ -10555,9 +10525,9 @@
     },
     {
       "key": "9d79003d85524c46d647d49bd93ccdceb9abcbac",
-      "title": "Episode 98 – Mail-Bag-O-Thon!",
+      "title": "Mail-Bag-O-Thon! C1: E98",
       "published_at": "2014-10-27T20:10:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a0b",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/mail-bag-o-thon-c1-e98",
       "description": "We take a moment out of our hectic adventure to answer questions from you, our wonderful listeners, on this week’s episode. Dive into the art and science that makes our brain tick and learn our thoughts on underwear. We certainly had fun recording this special episode and I am willing to wager, you will enjoy … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a0b.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24630/media.mp3",
@@ -10572,9 +10542,9 @@
     },
     {
       "key": "b8e955ca697ef2ffd9f89932ca270723dda676ec",
-      "title": "Episode 97 – The Mysteries of the Deep",
+      "title": "The Mysteries of the Deep - C1: E97",
       "published_at": "2014-10-20T20:43:14+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a0c",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-mysteries-of-the-deep-c1-e97",
       "description": "Somehow we have survived a few vital moments longer on Zird’s magical submarine, the Belefonte. Our ultimate prize, the Demonomicon should be somewhere on the bottom of the ocean floor neatly tucked into the dead corpse of Steve the Gnoll. Let’s hope that nothing goes awry – this being an odd numbered episode and all. … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a0c.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24583/media.mp3",
@@ -10583,48 +10553,45 @@
       "itunes_duration": "1:16:48",
       "speakers": [],
       "topics": [
-        "mysteries"
+        "mysteries",
+        "deep"
       ]
     },
     {
       "key": "b285038021341fa5816fc28248962cb968f55ca9",
-      "title": "Episode 96 – Into the Depths",
+      "title": "Into the Depths - C1: E96",
       "published_at": "2014-10-13T18:16:47+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a0d",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/into-the-depths-c1-e96",
       "description": "Now that everyone is on the same page, the gang prepares itself for a magical voyage beneath the waves. But wouldn’t you know it? Zird is not as prepared as we would have wanted for this dangerous trip. I know, I am just as surprised as you. What are friends for, right? I am sure … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a0d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24563/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63321234",
       "itunes_duration": "1:05:57",
-      "speakers": [
-        "Depths Now"
-      ],
+      "speakers": [],
       "topics": [
-        "depth"
+        "depths"
       ]
     },
     {
       "key": "75353dc24af641635d5dce49fef6147c97c50bb2",
-      "title": "Episode 95 – Buzz Off",
+      "title": "Buzz Off - C1: E95",
       "published_at": "2014-10-06T21:38:46+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a0e",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/buzz-off-c1-e95",
       "description": "While sometimes it feels like we fight within our party, you have to realize – things are very stressful right now. You see, most of the world that we know is dead and we feel somewhat responsible for it… So sometimes when someone asks us to get magic honey we get… skeptical… At the end … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a0e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24524/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68860865",
       "itunes_duration": "1:11:43",
-      "speakers": [
-        "Buzz Off While"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
       "key": "0ef5b36997a126a7409f8dcd52f5628d0db9d0b4",
-      "title": "Episode 94 – Words are Wind",
+      "title": "Words are Wind - C1: E94",
       "published_at": "2014-09-29T20:19:19+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a0f",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/words-are-wind-c1-e94",
       "description": "With the gang at an apparent crossroads and tensions running high, they have to make a choice – do they trust the partially insane wizard to conjure up a submarine and venture off in search of the Demonomicon? Or do they continue on to the Army of Bahamut and Harper’s sister? Sometimes I have no … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a0f.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24448/media.mp3",
@@ -10641,9 +10608,9 @@
     },
     {
       "key": "0fb71095dfa1700bc5258c0a918bd093792d8eb3",
-      "title": "Episode 93 – Croaked",
+      "title": "Croaked - C1: E93",
       "published_at": "2014-09-22T18:47:01+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a10",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/croaked-c1-e93",
       "description": "In this week’s spellbinding episode Zird gives the adventurers some advice on what to do. He also deals with Harper, wizard style. It was embarrassing. But, fortunately, the gang may be closer to recovering the Demonomicon. Which is cool and rad. Subscribe on iTunes Subscribe via RSS (feedburner) Direct Download Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a10.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24422/media.mp3",
@@ -10651,22 +10618,22 @@
       "enclosure_length": "62679249",
       "itunes_duration": "1:05:17",
       "speakers": [],
-      "topics": []
+      "topics": [
+        "croaked"
+      ]
     },
     {
       "key": "16694675e89e4157dbf7a094a3be4b5b9e9b914d",
-      "title": "Episode 92 – Vrock and Roll",
+      "title": "Vrock and Roll - C1: E92",
       "published_at": "2014-09-16T01:44:32+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a11",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/vrock-and-roll-c1-e92",
       "description": "Having successfully had an out-of-body experience, the gang readies itself for its largest quest to date – saving the world from a band pesky demons. Now that we have left the safety of Pelor’s Hope and seen first hand what happened to another not-so-lucky band of adventurers the reality of our situation is weighing heavily … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a11.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24323/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65206230",
       "itunes_duration": "1:07:55",
-      "speakers": [
-        "Roll Having"
-      ],
+      "speakers": [],
       "topics": [
         "vrock",
         "roll"
@@ -10674,9 +10641,9 @@
     },
     {
       "key": "75cfd52f00e4c15dcecbea1ee9faeaa0bba92939",
-      "title": "Episode 91 – Somewhere Beyond the Sea Part 2",
+      "title": "Somewhere Beyond the Sea Part 2 - C1: E91",
       "published_at": "2014-09-08T21:18:38+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a12",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/somewhere-beyond-the-sea-part-2-c1-e91",
       "description": "With the gang experiencing a pretty strong and realistic spiritual experience through Jaela’s past life, they continue on in their new strange bodies. Now we are really stretching our 5e bodies as we continue our quest to the sea and beyond. Funny thing, can’t help but feel like something bad will happen. Can’t shake and … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a12.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24302/media.mp3",
@@ -10688,9 +10655,9 @@
     },
     {
       "key": "8ca41ef79d7204ddc916eb29b262c4ad4cee8acc",
-      "title": "Episode 90 – Somewhere Beyond the Sea",
+      "title": "Somewhere Beyond the Sea - C1: E90",
       "published_at": "2014-09-01T23:30:17+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a13",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/somewhere-beyond-the-sea-c1-e90",
       "description": "Hey gang, let me level with ya, this is an amazing episode. It is different. It is a little strange. But, please listen with your entire family in order to bring them all together. The entire cast agreed that episode 90 & 91 were some of their favorites. We tried something a little different, so … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a13.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24235/media.mp3",
@@ -10702,18 +10669,16 @@
     },
     {
       "key": "b7f49e427271ef2af6d03286a84226a5df9bb3bb",
-      "title": "Episode 89 – Pelor’s only Hope",
+      "title": "Pelor’s only Hope - C1: E89",
       "published_at": "2014-08-25T21:47:15+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a14",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/pelors-only-hope-c1-e89",
       "description": "After thoroughly prepping our hearts and minds for the oncoming quests we set out to leave the comforts of Pelor’s Hope behind. There was just one, tiny problem standing in our way – a huge armor of demons. Luckily, we had the Sun Shields to help up escape from the city. Plus, the “friend” of … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a14.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24173/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70542315",
       "itunes_duration": "1:13:29",
-      "speakers": [
-        "Hope After"
-      ],
+      "speakers": [],
       "topics": [
         "pelor",
         "hope"
@@ -10721,27 +10686,25 @@
     },
     {
       "key": "23bfcf62737164991f0f3578c91a11ed961dd7fb",
-      "title": "Episode 88 – Under the Dome",
+      "title": "Under the Dome - C1: E88",
       "published_at": "2014-08-19T06:03:04+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a15",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/under-the-dome-c1-e88",
       "description": "When you bake a cake you don’t turn the oven on before you even know if you have all the ingredients, ya know? So, why would you decide to fight a hoard of demons before you know if you had the metaphorical eggs? I would wager that you would not. Luckily, Pelor’s Hope finest decide … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a15.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24127/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67053609",
       "itunes_duration": "1:09:51",
-      "speakers": [
-        "Dome When"
-      ],
+      "speakers": [],
       "topics": [
         "dome"
       ]
     },
     {
       "key": "6ee8263ad563739c29ccc8798b7a35df90993c1b",
-      "title": "Episode 87 – About Last Night…",
+      "title": "About Last Night… - C1: E87",
       "published_at": "2014-08-12T05:40:57+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a16",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/about-last-night-c1-e87",
       "description": "With the Council of Eight being really rude and the world being mostly destroyed and such, the gang decided they needed to let off some steam. Sure, they have pressing matters that could potentially save the whole planet but sometimes you gotta get out there and let loose. Hopefully this Zird fellow isn’t going too … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a16.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24098/media.mp3",
@@ -10755,9 +10718,9 @@
     },
     {
       "key": "95ef1555b917da02f2295fa929e0aa014f7fe7ac",
-      "title": "Episode 86 – The Council of Eight",
+      "title": "The Council of Eight - C1: E86",
       "published_at": "2014-08-05T01:42:07+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a17",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-council-of-eight-c1-e86",
       "description": "After a rough night our heroes are not quite ready for their council meeting in the morning. Pelor’s Hope is a lot different from any city we have been to this campaign so they must be on their best behavior when they meet their leaders. Plus, it is the only city that we know still exists, … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a17.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24066/media.mp3",
@@ -10771,9 +10734,9 @@
     },
     {
       "key": "1c1ee391216e323c3879a7739afd0604a8721728",
-      "title": "Episode 85 – Once again through the Wyrmhole Part 2",
+      "title": "Once again through the Wyrmhole Part 2 - C1: E85",
       "published_at": "2014-07-29T02:04:16+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a18",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/once-again-through-the-wyrmhole-part-2-c1-e85",
       "description": "As things go from dicey to chaotic the gang continues to fight off both a dragon and an elf’s bedtime. Will we do enough damage to make this foul beast flee from our impressive might? Or will we find out that this dragon is boring to fight and move on? Only time will tell, dear … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a18.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D24024/media.mp3",
@@ -10787,9 +10750,9 @@
     },
     {
       "key": "57f0881edb0b71d31d2c648b305917e6a5f07a00",
-      "title": "Episode 84 – Once again through the Wyrmhole",
+      "title": "Once again through the Wyrmhole - C1: E84",
       "published_at": "2014-07-22T02:30:24+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a19",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/once-again-through-the-wyrmhole-c1-e84",
       "description": "Oh boy, what a night! I always ask myself “how could things get worse?” and then BAM! we get sucked into the weird dragon-dream world. On top of that, our ANTIamat ward has broken. Worst. Night. Ever. The adventure continues with Titus Harper (Tim Lanning), Thom the Dragonborn (Mike Bachmann), Aludra (Jennifer Cheek), Jaela (Nika Howard) … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a19.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D23988/media.mp3",
@@ -10803,28 +10766,28 @@
     },
     {
       "key": "9bb75c10bde7147f430b0b1a8526407923bb58ec",
-      "title": "Episode 83 – Voices in the Night",
+      "title": "Voices in the Night - C1: E83",
       "published_at": "2014-07-15T04:58:14+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a1a",
-      "description": "In what could be described as “the world’s weirdest sleep-over” the gang gets to chat with a handful of folks in order to figure out their next steps. Some of these people were even in the room! Most were not… it was strange. Hopefully we make the correct choice and avoid accidentally ruining the world. … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a1a.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/voices-in-the-night-c1-e83",
+      "description": "In what could be described as “the world’s weirdest sleep-over” the gang gets to chat with a handful of folks in order to figure out their next steps. Some of these people were even in the room! Most were not… it was strange. Hopefully we make the correct choice and avoid accidentally ruining the world. Again. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ), Jaela ( Nika Howard ) and your Dungeon Master ( Michael DiMauro ). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778092386677-bdf33301-e177-4bbe-909e-f491bf97bb87.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D23951/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65490860",
       "itunes_duration": "1:08:13",
       "speakers": [],
       "topics": [
-        "voices",
+        "voice",
         "night"
       ]
     },
     {
       "key": "7f8af26b9c90971839206c7250bca6b64a49aac9",
-      "title": "Episode 82 – Pelor’s Hope",
+      "title": "Pelor’s Hope - C1: E82",
       "published_at": "2014-07-07T22:46:01+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a1b",
-      "description": "What is wrong with the world when we are its final and best hope for survival? Well, questions like that tend to hurt one’s head, so let’s just focus on the “how” of saving the world and avoid the “Oh God Why” for the time being. We are greeted with a brand new adventurer to … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a1b.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/pelors-hope",
+      "description": "What is wrong with the world when we are its final and best hope for survival? Well, questions like that tend to hurt one’s head, so let’s just focus on the “how” of saving the world and avoid the “Oh God Why” for the time being. We are greeted with a brand new adventurer to assist us in our quest! The wait is finally over, we are joined by Nika Howard who is playing Jaela the Deva Avenger. Things are going to get much more dicey, in a purple, halberd wielding, religious way! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ), Jaela ( Nika Howard ) and your Dungeon Master ( Michael DiMauro ). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778092314487-eabc339c-16cb-46c4-aa52-93a86819411f.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D23933/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69671706",
@@ -10842,8 +10805,8 @@
       "title": "Drunks and Dragons Special – The Live Show Q&A",
       "published_at": "2014-07-01T16:18:53+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a1c",
-      "description": "Hello beautiful people! This week we have for you the live Q&A we did right after we recorded episode 81. It was a fun time, and we wanted to share it with you. The audio is a little rough, and we did what we could to fix it, but we still wanted to apologize up … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a1c.jpg",
+      "description": "Hello beautiful people! This week we have for you the live Q&A we did right after we recorded episode 81. It was a fun time, and we wanted to share it with you. The audio is a little rough, and we did what we could to fix it, but we still wanted to apologize up front. Next week we will be back to our normal schedule of releasing every Monday, so strap in for the next chapter in the lives for our still un-named band of heroes! The adventure continues with Titus Harper ( Tim Lanning ), Jaela ( Nika Howard ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778092277331-86d72483-4b90-4ed0-a2d4-011c011ac50e.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D23915/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "24336509",
@@ -10859,11 +10822,11 @@
     },
     {
       "key": "1edf934a1e9d4fe7149a02578224a7eb0123aeaf",
-      "title": "Episode 81 – The Live Show",
+      "title": "The Live Show - C1: E81",
       "published_at": "2014-06-24T18:44:59+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a1d",
-      "description": "For some reason, you people wanted us to do a live show at GeeklyCon. Well, maybe it was more that you agreed to show up if we did one, and here it is. If you couldn’t make it to GeeklyCon, and you are wondering how much fun it was, just listen to Thrifty’s voice in … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a1d.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-live-show-c1-e81",
+      "description": "For some reason, you people wanted us to do a live show at GeeklyCon. Well, maybe it was more that you agreed to show up if we did one, and here it is. If you couldn’t make it to GeeklyCon, and you are wondering how much fun it was, just listen to Thrifty’s voice in the pre-intro. The sound quality is much better than we expected, but still pretty rough compared to a normal show. We hope you will forgive us. Also, there are quite a few visual jokes that aren’t going to come through (check out the photo gallery below). The good news is that we do have video as well, which we will post as soon as possible. So we hope you enjoy the singing and dancing (yes both these things happen). We certainly did! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778092137966-2f3e450f-f347-4a82-b203-a6629736e908.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D23581/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57801665",
@@ -10873,39 +10836,43 @@
     },
     {
       "key": "5bd385d19a2ffb5a6e53f7ad229460f0172d0e7f",
-      "title": "Episode 80 – No Turning Back",
+      "title": "No Turning Back - C1: E80",
       "published_at": "2014-06-02T20:01:22+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a1e",
-      "description": "I know you are brimming with anticipation after the ending to our last episode. That was our bad. Fortunately, this episode will give you the answers to you crave. I won’t spoil anything here, but I wonder what zany adventures Baludra the Bwarf will find herself in next week! You know we are having a … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a1e.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/no-turning-back-c1-e80",
+      "description": "I know you are brimming with anticipation after the ending to our last episode. That was our bad. Fortunately, this episode will give you the answers to you crave. I won’t spoil anything here, but I wonder what zany adventures Baludra the Bwarf will find herself in next week! You know we are having a live show, right? It is at JJC Fine Arts Theatre (1215 Houbolt Rd, Joliet, IL 60431 Building K) on Friday June 20 at 7pm! It is completely free so if you live anywhere near Chicago you will not want to miss this. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778092056366-7d1e5610-5994-48a7-87b8-1f94b5aaad14.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D23416/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74314814",
       "itunes_duration": "1:17:24",
       "speakers": [],
-      "topics": []
+      "topics": [
+        "turning"
+      ]
     },
     {
       "key": "2d2ac7b1f103e883b0e0aa9a19ec0ffcbd1de8b6",
-      "title": "Episode 79 – I am Sorry",
+      "title": "I am Sorry - C1: E79",
       "published_at": "2014-05-26T19:15:18+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a1f",
-      "description": "This is a shorter episode of Drunks and Dragons. I hope you don’t take that out against us since we tried to pack as much story into this shorter episode as the digital walls could stand. No, what this episode lacks in length it more than makes up for in emotion. So prepare your hearts … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a1f.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/i-am-sorry-c1-e79",
+      "description": "This is a shorter episode of Drunks and Dragons. I hope you don’t take that out against us since we tried to pack as much story into this shorter episode as the digital walls could stand. No, what this episode lacks in length it more than makes up for in emotion. So prepare your hearts and minds for a confrontation that has been 79 episodes in the making. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778092008943-e13b4701-51f0-4ed6-ae42-054b8e32fe12.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D23380/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43821766",
       "itunes_duration": "45:38",
       "speakers": [],
-      "topics": []
+      "topics": [
+        "sorry"
+      ]
     },
     {
       "key": "87282b39c9589ed5aa50ba480005674471c9a98e",
-      "title": "Episode 78 – The Long Road To Caer",
+      "title": "The Long Road To Caer",
       "published_at": "2014-05-19T20:00:11+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a20",
-      "description": "After a grueling battle against a many eyed beholder, the gang is simply happy to be breathing fresh air. After a big breaths and dividing up the loot they make their return voyage to Caer. But, as it often happens, our return trip was not as easy as one would hope… you see we were … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a20.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-long-road-to-caer",
+      "description": "After a grueling battle against a many eyed beholder, the gang is simply happy to be breathing fresh air. After a big breaths and dividing up the loot they make their return voyage to Caer. But, as it often happens, our return trip was not as easy as one would hope… you see we were slowed down at many stages and had to help innocent people. It was terrible. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778091942370-aa52d53a-3874-4f4d-89c8-4ee74d883edb.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D23320/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62687608",
@@ -10921,16 +10888,18 @@
     },
     {
       "key": "4ba731ec1d3e0b61f4ad28971a7cf54d79bf311c",
-      "title": "Episode 77 -The Temple of Ghostly Evil Part 6",
+      "title": "The Temple of Ghostly Evil Part 6 - C1: E77",
       "published_at": "2014-05-12T13:09:37+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a21",
-      "description": "Michael “Thrifty Nerd” DiMauro described it best – “the best part of the latest DnD episode is the first 20 minutes where nothing happens and Harper hears a mouse.” I think that sums it up. The adventure continues with Titus Harper (Tim Lanning), Thom the Dragonborn (Mike Bachmann), Aludra (Jennifer Cheek) and your Dungeon Master (Michael … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a21.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-temple-of-ghostly-evil-part-6-c1-e77",
+      "description": "Michael “Thrifty Nerd” DiMauro described it best – “the best part of the latest DnD episode is the first 20 minutes where nothing happens and Harper hears a mouse.” I think that sums it up. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778091671812-df8575a8-9574-4ce0-bffb-bba8e7cf4ecf.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D23256/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90076055",
       "itunes_duration": "1:33:49",
-      "speakers": [],
+      "speakers": [
+        "Michael Thrifty Nerd"
+      ],
       "topics": [
         "temple",
         "ghostly",
@@ -10939,11 +10908,11 @@
     },
     {
       "key": "793c7b44be023df760d5f4b12fa356596c1decbf",
-      "title": "Episode 76 -The Temple of Ghostly Evil Part 5",
+      "title": "The Temple of Ghostly Evil Part 5 - C1: E76",
       "published_at": "2014-05-06T01:37:33+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a22",
-      "description": "Our heroes delve deeper into this seemingly endless dungeon. Will they make it out alive, or will the poison gas finally claim its first victim? Will Thom ever get his sword back? How does Harper get so much definition in his abs? Tune in to find out! The adventure continues with Titus Harper (Tim Lanning), … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a22.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-temple-of-ghostly-evil-part-5-c1-e76",
+      "description": "Our heroes delve deeper into this seemingly endless dungeon. Will they make it out alive, or will the poison gas finally claim its first victim? Will Thom ever get his sword back? How does Harper get so much definition in his abs? Tune in to find out! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778091602628-bd82fd75-b83c-426d-a73c-dff8c0acfe23.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D23263/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66937417",
@@ -10957,11 +10926,11 @@
     },
     {
       "key": "2a7a638dc925fb704d51d52193b3247b046a1112",
-      "title": "Episode 75 -The Temple of Ghostly Evil Part 4",
+      "title": "The Temple of Ghostly Evil Part 4 - C1: E75",
       "published_at": "2014-04-28T23:15:55+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a23",
-      "description": "Ha ha ha ha ha ha ha ha ha ha that cursed ax, amirite? Michael sure is a tricky monster who must be destroyed. Fear not, lovers of blood drinker, there are ways to fix this curse. OR ARE THERE. Who can say? Our pain is your entertainment, however, so we will continue on our … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a23.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-temple-of-ghostly-evil-part-4-c1-e75",
+      "description": "Ha ha ha ha ha ha ha ha ha ha that cursed ax, amirite? Michael sure is a tricky monster who must be destroyed. Fear not, lovers of blood drinker, there are ways to fix this curse. OR ARE THERE. Who can say? Our pain is your entertainment, however, so we will continue on our path through this scary temple. Again, we move very slowly since we are afraid of being tricked and dying in every single room. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778091490601-a354b0eb-bf8b-4cdd-907f-98fec0fb259f.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D23216/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78796591",
@@ -10975,11 +10944,11 @@
     },
     {
       "key": "319cac0e83e200dc84d125a974ed95ed4d3368d6",
-      "title": "Episode 74 -The Temple of Ghostly Evil Part 3",
+      "title": "The Temple of Ghostly Evil Part 3 - C1: E74",
       "published_at": "2014-04-21T19:38:29+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a24",
-      "description": "For a group of zany adventurers we are extremely afraid of dungeons. It is a little embarrassing how slowly we go through this dang thing… but in our defense, you can get eaten by a monster at any MOMENT! DANGER IS AROUND EVERY CORNER. I think. Also, this dungeon is really weird. I know you … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a24.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-temple-of-ghostly-evil-part-3-c1-e74",
+      "description": "For a group of zany adventurers we are extremely afraid of dungeons. It is a little embarrassing how slowly we go through this dang thing… but in our defense, you can get eaten by a monster at any MOMENT! DANGER IS AROUND EVERY CORNER. I think. Also, this dungeon is really weird. I know you agreed, by downloading this podcast, that you would be taking advantage of the full 100% of you seat, but if I was a betting man, I would wager that you would need only the edge! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778091376993-5ac1a56d-f034-43f5-b178-99a2df4db0cc.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D23175/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55316480",
@@ -10993,11 +10962,11 @@
     },
     {
       "key": "cc7ad6bfa419cf4648fe81d7d90854d9d58a2753",
-      "title": "Episode 73 – The Temple of Ghostly Evil Part 2",
+      "title": "The Temple of Ghostly Evil Part 2 - C1: E73",
       "published_at": "2014-04-14T22:08:29+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a25",
-      "description": "Hello listeners and casual observers. I hope you are ready for more intense dungeon delving because that is what we have in store for you. I would be most ashamed for not mentioning that we recorded this episode LIVE AND IN PERSON for the first time! This will explain any reason the audio doesn’t match … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a25.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-temple-of-ghostly-evil-part-2-c1-e73",
+      "description": "Hello listeners and casual observers. I hope you are ready for more intense dungeon delving because that is what we have in store for you. I would be most ashamed for not mentioning that we recorded this episode LIVE AND IN PERSON for the first time! This will explain any reason the audio doesn’t match up to our normally rigid standards. It was a blast to finally look each other in the eye as we rolled to save our lives against the evil Michael DiMauro. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778091315573-dee8a96c-3df3-4cc9-8f3a-c197da9e58b5.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D23102/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70489652",
@@ -11011,11 +10980,11 @@
     },
     {
       "key": "26ffb1c79a19de36eba953172a06242eae9d59c5",
-      "title": "Episode 72 – The Temple of Ghostly Evil",
+      "title": "The Temple of Ghostly Evil - C1: E72",
       "published_at": "2014-04-01T21:38:33+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a26",
-      "description": "We all make poor decisions, gang. We all think to ourselves “Mark, I have time to inspect this spooky temple. I will live forever.” Well, Mark, you won’t. Listen this week as your wonderful adventurers learn how to make new friends and maybe a little something about the history of this great nation. Also, remember … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a26.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-temple-of-ghostly-evil-c1-e72",
+      "description": "We all make poor decisions, gang. We all think to ourselves “Mark, I have time to inspect this spooky temple. I will live forever.” Well, Mark, you won’t. Listen this week as your wonderful adventurers learn how to make new friends and maybe a little something about the history of this great nation. Also, remember not to point fingers in a time of crisis. Also, try to roll about a 6. Here is the gameplay LIVE! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778091252556-e371a01f-1c11-40a4-9df2-049a5402d433.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D23033/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98357080",
@@ -11029,35 +10998,33 @@
     },
     {
       "key": "256d7b0be89a2877f31bbe3e8f4e63676274248b",
-      "title": "Episode 71 – Lizards and Liars",
+      "title": "Lizards and Liars - C1: E71",
       "published_at": "2014-03-25T05:36:12+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a27",
-      "description": "The crew is in a very dangerous area of their world and yet they are surprised when bad things happen. “Here we are in a dark/ dank forrest that we know for sure is infested with evil lizard men. Let’s leave this child and mysterious boat lady alone with a handful of griffons!” Maybe this … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a27.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/lizards-and-liars-c1-e71",
+      "description": "The crew is in a very dangerous area of their world and yet they are surprised when bad things happen. “Here we are in a dark/ dank forrest that we know for sure is infested with evil lizard men. Let’s leave this child and mysterious boat lady alone with a handful of griffons!” Maybe this fight is just what they need to get over this “stealing of the Brazier of Worlds Drama.” I think so. Everything is going to A-OK. Best friends for ever I am sure. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778091184940-9b80cdc4-97dc-4618-931f-0230e9404c7e.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D22749/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62186475",
       "itunes_duration": "1:04:46",
       "speakers": [],
       "topics": [
-        "lizards",
-        "liar"
+        "lizard",
+        "liars"
       ]
     },
     {
       "key": "3edc71cc8dadefec9e7b50591ab9b4228e41cf03",
-      "title": "Episode 70 – On Unsure Ground",
+      "title": "On Unsure Ground - C1: E70",
       "published_at": "2014-03-17T23:05:04+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a28",
-      "description": "Having left the group in a bit of an awkward situation, Harper has to try and mend the fences he may have ruined. With the gang finally in possession of the three items that they have been seeking for months and months they must ask themselves “What is the next step?” We are at a … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a28.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/on-unsure-ground-c1-e70",
+      "description": "Having left the group in a bit of an awkward situation, Harper has to try and mend the fences he may have ruined. With the gang finally in possession of the three items that they have been seeking for months and months they must ask themselves “What is the next step?” We are at a crossroads of sorts. Do Thom and Aludra believe Harper? Do they just go and return the items to Fenniken? Who is to say? Keep on listening to Drunks and Dragons to find out! For another couple of days we will be hosting a contest to go along with our book club being released over on the Random Encounters feed. Head here to find out more! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778091119321-c25dc808-30b0-46da-a419-a7f6e9eea01d.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D22709/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68837877",
       "itunes_duration": "1:11:42",
-      "speakers": [
-        "Unsure Ground Having"
-      ],
+      "speakers": [],
       "topics": [
         "unsure",
         "ground"
@@ -11065,11 +11032,11 @@
     },
     {
       "key": "981b52661ee9b1bfa338d4b38284a33a75e28c87",
-      "title": "Episode 69: Over Hydrated Part 2",
+      "title": "Over Hydrated Part 2 - C1: E69",
       "published_at": "2014-03-11T17:57:11+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a29",
-      "description": "We continue with our battle against the dreaded and deadly Hydra. But the real battle is between our adventurers. Who can say what is going on beneath their cool exteriors? What drives our heroes from the core of their being? These answers could help save the lives of thousands. The adventure continues with Titus Harper … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a29.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/over-hydrated-part-2-c1-e69",
+      "description": "We continue with our battle against the dreaded and deadly Hydra. But the real battle is between our adventurers. Who can say what is going on beneath their cool exteriors? What drives our heroes from the core of their being? These answers could help save the lives of thousands. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778091065320-45dd6d9a-e1a0-4f68-8e09-b669f4554ecb.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D22664/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53149779",
@@ -11081,17 +11048,17 @@
     },
     {
       "key": "e6abc79d4923a4ef30a35f2960b80fd564aacef2",
-      "title": "Episode 68: Over Hydrated",
+      "title": "Over Hydrated - C1: E68",
       "published_at": "2014-03-03T22:15:34+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a2a",
-      "description": "Hello dear listeners! I don’t even have to say that things in this episode get dicey. After the cliffhanger of an ending last week there isn’t a universe where things don’t get dicey. Maybe the diceyness will leave you asking yourself more questions than you would prefer. That is okay. It is all apart of … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a2a.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/over-hydrated-c1-e68",
+      "description": "Hello dear listeners! I don’t even have to say that things in this episode get dicey. After the cliffhanger of an ending last week there isn’t a universe where things don’t get dicey. Maybe the diceyness will leave you asking yourself more questions than you would prefer. That is okay. It is all apart of the audio art that is Drunks and Dragons. Challenge yourself and really listen to our pain. You will be glad you did. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778091009951-b3b68fb3-a316-4343-926c-6ace6229dec1.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D22528/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65383026",
       "itunes_duration": "1:08:06",
       "speakers": [
-        "Over Hydrated Hello"
+        "Over Hydrated"
       ],
       "topics": [
         "hydrated"
@@ -11099,29 +11066,28 @@
     },
     {
       "key": "1d8cd01b3bcdbd874e2260efb8bb60ef7ae0188c",
-      "title": "Episode 67 – Stump Grinding",
+      "title": "Stump Grinding - C1: E67",
       "published_at": "2014-02-17T21:37:09+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a2b",
-      "description": "Saddle up and get ready to take a spin on your brand new griffon, it’s another episode of the Drunks and Dragons podcast! This week, Thom and Aludra have some serious questions about Harper’s motivations, along with each other’s parenting abilities. The adventure continues with Titus Harper (Tim Lanning), Thom the Dragonborn (Mike Bachmann), Aludra (Jennifer … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a2b.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/stump-grinding-c1-e67",
+      "description": "Saddle up and get ready to take a spin on your brand new griffon, it’s another episode of the Drunks and Dragons podcast! This week, Thom and Aludra have some serious questions about Harper’s motivations, along with each other’s parenting abilities. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778090895306-7c690bfb-d3bb-4f9e-8238-65c31a167dfa.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D22453/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66851317",
       "itunes_duration": "1:09:38",
-      "speakers": [
-        "Stump Grinding Saddle"
-      ],
+      "speakers": [],
       "topics": [
-        "stump"
+        "stump",
+        "grinding"
       ]
     },
     {
       "key": "577206e3d709a30d5e64b2797f3ad8fb392b2340",
-      "title": "Episode 66 – Paragon Paths and Emails",
+      "title": "Paragon Paths and Emails - C1: E66",
       "published_at": "2014-02-12T01:40:03+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a2c",
-      "description": "It has been awhile since we have slowed down and taken a moment to really look at where our characters are going. In this episode we discuss what we think the trajectory will be for the next several levels, including the imposingly important Paragon Paths. We also took a moment to go through some of … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a2c.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/paragon-paths-and-emails-c1-e66",
+      "description": "It has been awhile since we have slowed down and taken a moment to really look at where our characters are going. In this episode we discuss what we think the trajectory will be for the next several levels, including the imposingly important Paragon Paths. We also took a moment to go through some of your emails! It was a blast to read and then answer your amazing questions. Please continue to send them if you have any burning questions floating around in your head! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778090836898-7e7be66a-f512-42a1-a619-b50f03af5e67.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D22371/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90750641",
@@ -11137,11 +11103,11 @@
     },
     {
       "key": "7f7a35ee41326612b068efd59d6db85048915984",
-      "title": "Episode 65 – The Fall of House Vidalis",
+      "title": "The Fall of House Vidalis - C1: E65",
       "published_at": "2014-02-05T00:42:38+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a2d",
-      "description": "As our heroes come to grips with the chaos of slaughter around them they realize “Hey, how the heck to do get home?” They also have a few questions for Harper. Mostly, “Hey, how do you know who Finnekin is?” or “Hey, what the heck was that thing you used to stop the Brazier of … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a2d.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/episode-65-the-fall-of-house-vidalis-c1-e65",
+      "description": "As our heroes come to grips with the chaos of slaughter around them they realize “Hey, how the heck to do get home?” They also have a few questions for Harper. Mostly, “Hey, how do you know who Finnekin is?” or “Hey, what the heck was that thing you used to stop the Brazier of Worlds? Pretty convenient.” Hopefully, this won’t affect their relationship. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778090778700-3ae5d2cf-de1a-4f94-a6fb-eed7a132dd51.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D22351/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "568375836",
@@ -11155,33 +11121,15 @@
     },
     {
       "key": "3fe47973c37a86db0c0dd063bc50bc7b802bc480",
-      "title": "Episode 64 – Demon Hunting Season Part Two",
+      "title": "Demon Hunting Season Part Two - C1: E64",
       "published_at": "2014-01-28T01:37:25+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a2e",
-      "description": "We continue our vicious battle with the demons in this week’s episode of Drunks and Dragons. I think we all learn a little something about ourselves and, let’s be honest, demons. We also level up! Which is great. Stay tuned to find out just how dope our level 9 characters are. We also share a … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a2e.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/demon-hunting-season-part-two-c1-e64",
+      "description": "We continue our vicious battle with the demons in this week’s episode of Drunks and Dragons. I think we all learn a little something about ourselves and, let’s be honest, demons. We also level up! Which is great. Stay tuned to find out just how dope our level 9 characters are. We also share a handful of our favorite iTunes reviews. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778090703291-214074fb-9918-432d-a220-97bbf88fd471.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D22291/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49038733",
       "itunes_duration": "51:05",
-      "speakers": [],
-      "topics": [
-        "demon",
-        "hunting",
-        "season"
-      ]
-    },
-    {
-      "key": "20c1738ec9c0864a70ea57208bcdb4ba5fb2a467",
-      "title": "Episode 63 – Demon Hunting Season",
-      "published_at": "2014-01-21T00:40:46+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a2f",
-      "description": "With weird time travel bits flowing through our brains we were momentarily distracted from the fact that demons were trying to break into our world. Some realizations take time to settle in, but an army of demons lack a certain subtly that can be ignored. With our hearts focused on returning to our time, without … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a2f.jpg",
-      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1662/media.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "74548453",
-      "itunes_duration": "1:17:39",
       "speakers": [
         "Demon Hunting Season"
       ],
@@ -11192,60 +11140,78 @@
       ]
     },
     {
+      "key": "20c1738ec9c0864a70ea57208bcdb4ba5fb2a467",
+      "title": "Demon Hunting Season - C1: E63",
+      "published_at": "2014-01-21T00:40:46+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/demon-hunting-season-c1-e63",
+      "description": "With weird time travel bits flowing through our brains we were momentarily distracted from the fact that demons were trying to break into our world. Some realizations take time to settle in, but an army of demons lack a certain subtly that can be ignored. With our hearts focused on returning to our time, without destroying everything in the process, we race through the halls of House Vidalis in search of the possibly winged hell spawn. But, maybe searching for something so dark and powerful is not a great idea… Here is the book The Fall of the House of Vidalis ! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778090626138-a60e16ca-5631-4053-9db3-6640b04e19f5.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1662/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74548453",
+      "itunes_duration": "1:17:39",
+      "speakers": [],
+      "topics": [
+        "demon",
+        "hunting",
+        "season"
+      ]
+    },
+    {
       "key": "e43deb6aa24f13b0028fd222404039dae3b7a13f",
-      "title": "Episode 62 – To Know Thyself",
+      "title": "To Know Thyself - C1: E62",
       "published_at": "2014-01-13T21:51:04+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a30",
-      "description": "It is a terrible thing to have to face all that you are without the cool, calming balm that our memories tend to apply to all our shortcomings. Friends, family – please accept our newest entry into the Drunks and Dragons saga. Please also take a look into your own heart. Look into your mirror … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a30.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/to-know-thyself-c1-e62",
+      "description": "It is a terrible thing to have to face all that you are without the cool, calming balm that our memories tend to apply to all our shortcomings. Friends, family – please accept our newest entry into the Drunks and Dragons saga. Please also take a look into your own heart. Look into your mirror without any pretense. Our show is firstly a self-help podcast aimed to purge, however painfully, any imperfections that exist within your tortured soul. Bonana. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778090559264-1d27818d-51ba-44fd-8cb7-10203a356385.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1635/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68170396",
       "itunes_duration": "1:11:00",
       "speakers": [],
-      "topics": []
+      "topics": [
+        "thyself"
+      ]
     },
     {
       "key": "92dfc1e08caec77ec16be9becc200ceed6ac0df3",
-      "title": "Episode 61 – Tavern of WHOA",
+      "title": "Tavern of WHOA - C1: E61",
       "published_at": "2014-01-06T20:23:45+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a31",
-      "description": "We continue through the land of Vidalis as we try to piece together just what the hey is going on with all this mess. The gang formulates a plan that, oddly enough, involves Aludra drinking. Also, there is an unfortunate bit of sausage related humor. We apologize for that. Thank you for your kind emails, … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a31.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/tavern-of-whoa-c1-e61",
+      "description": "We continue through the land of Vidalis as we try to piece together just what the hey is going on with all this mess. The gang formulates a plan that, oddly enough, involves Aludra drinking. Also, there is an unfortunate bit of sausage related humor. We apologize for that. Thank you for your kind emails, letters and packages. All these things are so appreciated that I used another word for “thanks” in this sentence. As always, tell a pal about our show and leave an iTunes review if you get a chance. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778090490253-50128b1a-daed-45c9-85de-0e85b081e902.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1591/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62470269",
       "itunes_duration": "1:05:04",
       "speakers": [],
       "topics": [
-        "tavern",
         "whoa"
       ]
     },
     {
       "key": "50e3a3b6b1f891110ccf01327c8a0bc76eef5208",
-      "title": "Episode 60 – Hello, Mr. Vidalis",
+      "title": "Hello, Mr. Vidalis - C1: E60",
       "published_at": "2013-12-24T18:55:27+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a32",
-      "description": "With the crew mostly, and monstrously, confused about just what the heck is going on with their trip to House Vidalis they are some how bombarded with even more insanity. Just what is happening in this strange land? Is it bewitchment or something more sinister? Stay tuned on this podcast feed to find out! Like … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a32.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/hello-mr-vidalis-c1-e60",
+      "description": "With the crew mostly, and monstrously, confused about just what the heck is going on with their trip to House Vidalis they are some how bombarded with even more insanity. Just what is happening in this strange land? Is it bewitchment or something more sinister? Stay tuned on this podcast feed to find out! Like what we do? Well help us out by telling a friend or two. Maybe leave an iTunes review? These small things help our show out a ton. You are the best. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778090422882-8a080187-3ccc-40c4-bda8-ec1697bbb41a.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1572/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63603356",
       "itunes_duration": "1:06:15",
       "speakers": [],
       "topics": [
-        "hello",
         "vidalis"
       ]
     },
     {
       "key": "b75fe05eb38b6b00a409eb20bc52343c3f23f9c1",
-      "title": "Episode 59 – Weird Swamp",
+      "title": "Weird Swamp - C1: E59",
       "published_at": "2013-12-17T02:56:13+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a33",
-      "description": "I hope you are sitting down because I have some interesting news: weird things happen in this episode of Drunks and Dragons. I know, I know, you come here for your hard, gritty and dark fantasy where hard truths are learned by the players through punishing challenges. But, just for this episode take off your … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a33.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/weird-swamp-c1-e59",
+      "description": "I hope you are sitting down because I have some interesting news: weird things happen in this episode of Drunks and Dragons. I know, I know, you come here for your hard, gritty and dark fantasy where hard truths are learned by the players through punishing challenges. But, just for this episode take off your gloomy smock and replace it your child like wonder smoking jacket. I will not spoil anything for you, dear readers, but this episodes has one of the best cliffhangers to date for our silly little show. Be sure to let us kn0w you thoughts and feelings through textual comments below! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778090318785-125d135f-1c2f-4f35-acb3-4a69a200f691.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1537/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63473789",
@@ -11260,11 +11226,11 @@
     },
     {
       "key": "1abeec259391a39d8eb25c6d3361406b83cf6f15",
-      "title": "Episode 58 – The Most Magical Time of The Year",
+      "title": "The Most Magical Time of The Year - C1: E58",
       "published_at": "2013-12-11T06:47:09+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a34",
-      "description": "Having entered the Fey Realm with the help of a long lost friends, the adventurers are now firmly on their path to redeem Yulemanden. The hopping through time continues but I think we all learned a little bit about ourselves and the nature of evil. The thing we all needed was a slightly non-linear set … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a34.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-most-magical-time-of-the-year-c1-e58",
+      "description": "Having entered the Fey Realm with the help of a long lost friends, the adventurers are now firmly on their path to redeem Yulemanden. The hopping through time continues but I think we all learned a little bit about ourselves and the nature of evil. The thing we all needed was a slightly non-linear set of events to melt our ice hearts and to save an evil magic man who wanted to capture all the magic in all the realms. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778090263837-a1164920-a744-4948-a429-0c503caa59b9.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1510/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86051526",
@@ -11280,29 +11246,30 @@
     },
     {
       "key": "022efff2801f852186ff093dfbbc9819ba5ea205",
-      "title": "Episode 57 – A Magickless World",
+      "title": "A Magickless World - C1: E57",
       "published_at": "2013-12-06T01:49:39+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a35",
-      "description": "Truly is is horrible to think what our world would be without magick. A magickless world is almost too much to even think about. This is the peril the gang find themselves in after saving bucky from the Dog Park of Evening Shire. Something strange indeed is going on and they may not be able … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a35.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-magickless-world-c1-e57",
+      "description": "Truly is is horrible to think what our world would be without magick. A magickless world is almost too much to even think about. This is the peril the gang find themselves in after saving bucky from the Dog Park of Evening Shire. Something strange indeed is going on and they may not be able to solve the mystery on their own. Luckily an old friends stops by to lend a hand. Want to watch the happen live? Watch below! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778090121799-cd855675-aa73-4283-a04f-4895c5ade274.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1494/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67221211",
       "itunes_duration": "1:10:01",
       "speakers": [
-        "Magickless World Truly"
+        "Magickless World"
       ],
       "topics": [
+        "magickless",
         "world"
       ]
     },
     {
       "key": "9943bacbab56a35b0ffd46f3e4fac83e32476e8c",
-      "title": "Episode 56 – The Dog Park",
+      "title": "The Dog Park - C1: E56",
       "published_at": "2013-11-26T02:39:46+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a36",
-      "description": "We were told not to look at the dog park. We were told not to go into the dog park. We were told to not even think about the dog park. We did not follow those warnings. No, we plunged head first into this newest challenge to attempt to save the most important thing to … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a36.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-dog-park-c1-e56",
+      "description": "We were told not to look at the dog park. We were told not to go into the dog park. We were told to not even think about the dog park. We did not follow those warnings. No, we plunged head first into this newest challenge to attempt to save the most important thing to our small lives: Bucky. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778090049765-1b04a06a-6518-4c44-bd8e-0cf5317d9a16.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1388/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103705286",
@@ -11314,17 +11281,17 @@
     },
     {
       "key": "9864ac04a9074928e28adde901c35e7606f694c5",
-      "title": "Episode 55 – Welcome to Evening Shire",
+      "title": "Welcome to Evening Shire - C1: E55",
       "published_at": "2013-11-19T06:12:52+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a37",
-      "description": "There is something strange in this neighborhood. Unfortunately, the only heroes around to be called are the Drunks and Dragons. Listen as we try to unravel the spooky mysteries of this strange town while we try to rescue someone close to our hearts. Weirdly enough, the citizens of Evening Shire seem to think their town … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a37.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-evening-shire-c1-e55",
+      "description": "There is something strange in this neighborhood. Unfortunately, the only heroes around to be called are the Drunks and Dragons. Listen as we try to unravel the spooky mysteries of this strange town while we try to rescue someone close to our hearts. Weirdly enough, the citizens of Evening Shire seem to think their town is somewhat normal. Of course, this episode is heavilly influenced by the wonderful podcast, Welcome to Night Vale . We wanted to do something weird and different to honor one of the most creative shows in the podcast sphere. We hope you enjoy it! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778089943341-f0177119-1cfa-4153-a129-9a2762f2830b.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1285/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57176816",
       "itunes_duration": "59:33",
       "speakers": [
-        "Evening Shire There"
+        "Evening Shire"
       ],
       "topics": [
         "evening",
@@ -11333,18 +11300,17 @@
     },
     {
       "key": "0c400eb37556759536f47b35ece7caaaa26f3f73",
-      "title": "Episode 54 – Ice Cream for Bucky",
+      "title": "Ice Cream for Bucky - C1: E54",
       "published_at": "2013-11-11T21:45:36+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a38",
-      "description": "Having discovered the error of their snap judgement on Thom the Dragonborn, the crew decides to take a relaxing little time off in a small town. The whole gang shows up! Ros, Bucky and even Daisy enjoyed a little bit of R and R. Of course this will be one of the last moments of … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a38.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/ice-cream-for-bucky-c1-e54",
+      "description": "Having discovered the error of their snap judgement on Thom the Dragonborn, the crew decides to take a relaxing little time off in a small town. The whole gang shows up! Ros, Bucky and even Daisy enjoyed a little bit of R and R. Of course this will be one of the last moments of comforts that the gang has since they will be journeying to House Vadalis in the near future. You have to make memories while you can. Take you son out for ice cream. Give you donkey good oates. All those things make a healthy and well rounded life. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778089845613-29da3964-921b-4d4d-890a-87024cbd27ae.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1205/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59660747",
       "itunes_duration": "1:02:08",
       "speakers": [
-        "Ice Cream",
-        "Bucky Having"
+        "Ice Cream"
       ],
       "topics": [
         "cream",
@@ -11353,11 +11319,11 @@
     },
     {
       "key": "9cf0f196e8906d83467568a58034d556135e169d",
-      "title": "Episode 53 – Revenge of the Hobo",
+      "title": "Revenge of the Hobo - C1: E53",
       "published_at": "2013-11-08T07:36:28+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a39",
-      "description": "Hello wonderful denizens of the Astral Plain or Feywild! Please sit upon your chaos rock or your giant bewitched toadstool and conjure up another episode of Drunks and Dragons. This week we deal with certain poor decisions that may or may not have been made. Really, it is anyone’s guess as to how our acts … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a39.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/revenge-of-the-hobo-c1-e53",
+      "description": "Hello wonderful denizens of the Astral Plain or Feywild! Please sit upon your chaos rock or your giant bewitched toadstool and conjure up another episode of Drunks and Dragons. This week we deal with certain poor decisions that may or may not have been made. Really, it is anyone’s guess as to how our acts ripple across the planar fabric of time. Know this, you are judged not just on your actions alone, but of those that you travel with. Be careful out there. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778089781433-d0bd6166-9bd0-430e-86f3-f9b20ea6f361.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1195/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75035376",
@@ -11370,18 +11336,18 @@
     },
     {
       "key": "fc5678fefd0b11c8fead8cdb43b611c1d265f849",
-      "title": "Episode 52 – A Dark Future Present",
+      "title": "A Dark Future Present - C1: E52",
       "published_at": "2013-10-29T00:28:25+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a3a",
-      "description": "Hello Dear Wonderful Listeners! We sure do hope you enjoyed that special trip down memory lane. For you newer listeners, it was a very important milestone. One that we were not sure we would ever reach… but anyways, adventure is now once again afoot! The gang meets back up outside Caer and discuss Thom’s new … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a3a.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-dark-future-present-c1-e52",
+      "description": "Hello Dear Wonderful Listeners! We sure do hope you enjoyed that special trip down memory lane. For you newer listeners, it was a very important milestone. One that we were not sure we would ever reach… but anyways, adventure is now once again afoot! The gang meets back up outside Caer and discuss Thom’s new toy. We also discuss Thom’s somewhat heightened sense of bloodlust. He always had a bit of bloodlust, but now it just seems unmanageable. Little nervous tbqh. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778089725265-3a9a56c1-825f-476e-b62b-2c628cd2aebb.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1163/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57335640",
       "itunes_duration": "59:43",
       "speakers": [
-        "Dark Future Present Hello",
-        "Dear Wonderful Listeners"
+        "Dark Future Present",
+        "Hello Dear Wonderful Listeners"
       ],
       "topics": [
         "dark",
@@ -11391,11 +11357,11 @@
     },
     {
       "key": "e831e515ce85b7fbeb48423d63584d5ac04a4a33",
-      "title": "Episode 51 – A Trip Down Memory Lane",
+      "title": "A Trip Down Memory Lane - C1: E51",
       "published_at": "2013-10-21T19:32:48+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a3b",
-      "description": "This episode is a little different. We wanted to take a moment and run through some of our favorite moments from the past 50 episodes. So, there is no battle, heck we aren’t even in character, it is just us chatting about how much fun we have had on this show. We are still accepting … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a3b.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-trip-down-memory-lane-c1-e51",
+      "description": "This episode is a little different. We wanted to take a moment and run through some of our favorite moments from the past 50 episodes. So, there is no battle, heck we aren’t even in character, it is just us chatting about how much fun we have had on this show. We are still accepting you, the listener, favorite moments so please send us an email! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778089641397-b563ab4f-f9c9-4cff-9391-49dbdca86b22.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1133/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79188636",
@@ -11411,11 +11377,11 @@
     },
     {
       "key": "ac21fb4d0f1ee8f03a412c36756c3dc90c7b9d2d",
-      "title": "Episode 50 – The Greatest Love Story Ever Told",
+      "title": "The Greatest Love Story Ever Told - C1: E50",
       "published_at": "2013-10-14T20:41:59+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a3c",
-      "description": "Adam Bash (@bashkick) and Sarah Tompkins (@herladytompkins) are back for the thrilling conclusion to Thom the Dragonborn’s attempt to be united with the one object in the world that has any meaning to him. The adventure continues with Titus Harper (Tim Lanning), Thom the Dragonborn (Mike Bachmann), Aludra (Jennifer Cheek) and your Dungeon Master (Michael DiMauro). … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a3c.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-greatest-love-story-ever-told-c1-e50",
+      "description": "Adam Bash ( @bashkick ) and Sarah Tompkins ( @herladytompkins ) are back for the thrilling conclusion to Thom the Dragonborn’s attempt to be united with the one object in the world that has any meaning to him. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778089487333-6c2b4447-4a33-4e77-8530-23edea7e0241.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1087/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66407026",
@@ -11432,11 +11398,11 @@
     },
     {
       "key": "3cfc5f7c20433730dac552a0e6c86f04bffac0fa",
-      "title": "Episode 49 – The Great Heist",
+      "title": "The Great Heist - C1: E49",
       "published_at": "2013-10-07T11:00:20+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a3d",
-      "description": "Tim and Jennifer are off enjoying a schnitzel and can’t be with us this week, but we are lucky enough to be joined by the lovely Adam Bash (@bashkick) and Sarah Tompkins (@herladytompkins) as Thom the Dragonborn attempts to take on the greatest heist of his (and anyone else’s) lifetime. Will Thom finally be reunited with … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a3d.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-great-heist-c1-e49",
+      "description": "Tim and Jennifer are off enjoying a schnitzel and can’t be with us this week, but we are lucky enough to be joined by the lovely Adam Bash ( @bashkick ) and Sarah Tompkins ( @herladytompkins ) as Thom the Dragonborn attempts to take on the greatest heist of his (and anyone else’s) lifetime. Will Thom finally be reunited with his one true love? You will have to listen to find out! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778089384171-127776e9-3ff7-4102-8c40-37889565fdae.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1071/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68127764",
@@ -11449,18 +11415,16 @@
     },
     {
       "key": "785a21668c99805f7d0457c0c186792019359bf1",
-      "title": "Episode 48 – Soul Stealer",
+      "title": "Soul Stealer - C1: E48",
       "published_at": "2013-09-30T18:58:19+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a3e",
-      "description": "With heavy hearts the group seeks revenge, with the added help of Clinker, on this unholy monster. This monster that took one of our own. Nothing is as damned in this world as the focus of the group’s rage. I pity this foul monster’s remaining moments on this world. The adventure continues with Titus Harper … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a3e.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/soul-stealer-c1-e48",
+      "description": "With heavy hearts the group seeks revenge, with the added help of Clinker, on this unholy monster. This monster that took one of our own. Nothing is as damned in this world as the focus of the group’s rage. I pity this foul monster’s remaining moments on this world. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778089305096-d6c52ecd-a75c-4ef6-b2ce-1d5529ea6281.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1049/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65601201",
       "itunes_duration": "1:08:20",
-      "speakers": [
-        "Soul Stealer"
-      ],
+      "speakers": [],
       "topics": [
         "soul",
         "stealer"
@@ -11468,17 +11432,17 @@
     },
     {
       "key": "3a110f7989bbaa547678e4bcac98013793884a70",
-      "title": "Episode 47 – A Flying House",
+      "title": "A Flying House - C1: E47",
       "published_at": "2013-09-23T19:00:24+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a3f",
-      "description": "Hello and welcome to a very special episode of Drunks and Dragons. You see, this week we learn a bit more about one of our members while making a new friend along the way. Yes, after dealing with that nasty Troll, the gang is now ready to venture to the Crypt of Sinu the Red. … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a3f.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-flying-house-c1-e47",
+      "description": "Hello and welcome to a very special episode of Drunks and Dragons. You see, this week we learn a bit more about one of our members while making a new friend along the way. Yes, after dealing with that nasty Troll, the gang is now ready to venture to the Crypt of Sinu the Red. Please enjoy! When you are ready, you can click this link to see the shield . The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778089159383-12a1953f-6983-4f18-80c9-b34660a62dd5.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D1047/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61494334",
       "itunes_duration": "1:04:03",
       "speakers": [
-        "Flying House Hello"
+        "Flying House"
       ],
       "topics": [
         "flying",
@@ -11487,11 +11451,11 @@
     },
     {
       "key": "5e28873c47d4fa7fdd0dbcf3e52ec70a83079e4f",
-      "title": "Episode 46 – Troll Toll Part 2",
+      "title": "Troll Toll Part 2 - C1: E46",
       "published_at": "2013-09-16T11:39:48+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a40",
-      "description": "Our dire battle against a savagely strong forrest troll continues as a young boy cowers roughly 88 feet away. We followed this boy as he was sent to be sacrificed to protect his small town against this “forrest spirit” but it looks like the forrest spirit will need the saving. The adventure continues with Titus … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a40.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/troll-toll-part-2-c1-e46",
+      "description": "Our dire battle against a savagely strong forrest troll continues as a young boy cowers roughly 88 feet away. We followed this boy as he was sent to be sacrificed to protect his small town against this “forrest spirit” but it looks like the forrest spirit will need the saving. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778089092615-b28e658c-be83-4a04-b8ef-3a909007545d.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D620/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54383595",
@@ -11506,18 +11470,16 @@
     },
     {
       "key": "32e834e9c9a4b06e8b87f7a8482aa33a2578f611",
-      "title": "Episode 45 – Troll Toll",
+      "title": "Troll Toll - C1: E45",
       "published_at": "2013-09-09T23:08:59+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873a41",
-      "description": "The heroes know when they have to risk their lives for the common man. It is a basic part about being a hero. If a town is haunted by a sea witch, then you better prepare yourself for a salty battle. Just the same, if a town is harrased by a 100 foot tall forrest … Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873a41.jpg",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/troll-toll-c1-e45",
+      "description": "The heroes know when they have to risk their lives for the common man. It is a basic part about being a hero. If a town is haunted by a sea witch, then you better prepare yourself for a salty battle. Just the same, if a town is harrased by a 100 foot tall forrest spirit, who is actually a normal sized forrest troll, then you know that you will have to have some words with this forrest spirit. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778088995232-2a595f06-be94-4ab7-b2a4-c6da0747601b.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fdndpodcast.com%2F%3Fp%3D614/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56160339",
       "itunes_duration": "58:30",
-      "speakers": [
-        "Troll Toll"
-      ],
+      "speakers": [],
       "topics": [
         "troll",
         "toll"
@@ -11525,7 +11487,7 @@
     },
     {
       "key": "e8303ee1564a0ebc867c1849992ec6d52aa655ac",
-      "title": "The Sins of the Fathers - Campaign 1: Episode 44",
+      "title": "The Sins of the Fathers - C1: E44",
       "published_at": "2013-09-02T19:33:44+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/the-sins-of-the-fathers",
       "description": "We aren’t saying that all backwoods settlements in our campaign world are filled with crazy people. We aren’t saying that. But, something about this particular backwoods village seems a little…off? I guess the gang has to deal out some old school justice if anything is fishy is going on. But what are the odds of that, right? The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -11538,13 +11500,12 @@
         "crazy people"
       ],
       "topics": [
-        "fathers",
-        "campaign"
+        "fathers"
       ]
     },
     {
       "key": "ef9118777e7ab171611b69ac7c2d1b0882ae135a",
-      "title": "The Raging Storm - Campaign 1: Episode 43",
+      "title": "The Raging Storm - C1: E43",
       "published_at": "2013-08-26T13:00:39+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/the-raging-storm",
       "description": "A bruised and battered group of adventurers sheath their weapons. They know that they almost died and the only thing that saved them was the help of their friends. Unity is what keeps this group together. Once again the gang is back together and ready to face the great next step in their grand adventure! The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -11555,13 +11516,12 @@
       "itunes_duration": "1:08:24",
       "speakers": [],
       "topics": [
-        "storm",
-        "campaign"
+        "storm"
       ]
     },
     {
       "key": "6560fc70d707e36819b85a84ddf4a29de4060a71",
-      "title": "Mordenkrad Time - Campaign 1: Episode 42",
+      "title": "Mordenkrad Time - C1: E42",
       "published_at": "2013-08-19T14:38:28+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/mordenkrad-time",
       "description": "Well, we found Ros but we also found a group of fearsome thugs. One of which was wielding a giant Mordenkrad that really threatened Harper’s good looks. Who knows, maybe we can talk our way out of this battle? A hero can dream, right? The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -11573,13 +11533,12 @@
       "speakers": [],
       "topics": [
         "mordenkrad",
-        "time",
-        "campaign"
+        "time"
       ]
     },
     {
       "key": "b6d5317f8daaec4a8b56d6a07b380a23ec168da6",
-      "title": "Salty Sea Wench - Campaign 1: Episode 41",
+      "title": "Salty Sea Wench - C1: E41",
       "published_at": "2013-08-13T00:01:39+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/salty-sea-wench",
       "description": "After our strange dream and battle with the red dragon, we adventurers we ready to pursue another artifact. Already having The Whip of Binding, we set off to gather the Brazier of Worlds and the Orb of Endless Power. Except that there was a small issue that prevented us from our journey. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -11591,13 +11550,12 @@
       "speakers": [],
       "topics": [
         "salty",
-        "wench",
-        "campaign"
+        "wench"
       ]
     },
     {
       "key": "1ceac115075b923fb37680bd8948522b18f4d36e",
-      "title": "Requiem with the Dragon Hunter - Campaign 1: Episode 40",
+      "title": "Requiem with the Dragon Hunter - C1: E40",
       "published_at": "2013-08-05T13:20:39+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/requiem-with-the-dragon-hunter",
       "description": "We are whisked away once again to our weird dragon world. Who knows what this strange dream world is and what our purpose is within it. We will fight our way through this trial like we always do. Knowing that another battle is just around the corner, whether that corner be dream or otherwise. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
@@ -11610,13 +11568,12 @@
       "topics": [
         "requiem",
         "dragon",
-        "hunter",
-        "campaign"
+        "hunter"
       ]
     },
     {
       "key": "a7aba5f747dd9a0deb789a563af0f15b6d4607fa",
-      "title": "Settling up with the Darkblades - Campaign 1: Episode 39",
+      "title": "Settling up with the Darkblades - C1: E39",
       "published_at": "2013-07-29T21:24:16+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/settling-up-with-the-darkblades",
       "description": "Hell hath no fury like a dragonborn scorn. Our adventurers decide to seek out the Darkblades who have double-crossed them in our latest episode. Stay turned after the end music to hear an impromptu discussion of DnD Next. You also get the hear the normal nonsense that goes on between episodes. Hosted on Acast. See acast.com/privacy for more information.",
@@ -11627,13 +11584,12 @@
       "itunes_duration": "1:01:20",
       "speakers": [],
       "topics": [
-        "darkblades",
-        "campaign"
+        "darkblades"
       ]
     },
     {
       "key": "bad154a7f8815ee22c3e7ba53aecf8ca872a3142",
-      "title": "Smash and Grab - Campaign 1: Episode 38",
+      "title": "Smash and Grab - C1: E38",
       "published_at": "2013-07-22T11:28:40+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/smash-and-grab",
       "description": "With the aide of our new…business partner we set out to find out where Ham Hands stashed his winnings. Will things go smoothly as Ham Hands turns himself in? Or will the gang have to convince him with fire and sword? I think you already know the answer… The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes It will look like this. Hosted on Acast. See acast.com/privacy for more information.",
@@ -11645,13 +11601,12 @@
       "speakers": [],
       "topics": [
         "smash",
-        "grab",
-        "campaign"
+        "grab"
       ]
     },
     {
       "key": "eabb35010992862c053ec0910044321d067f41f7",
-      "title": "Mastwick Chronicles - Campaign 1: Episode 37",
+      "title": "Mastwick Chronicles - C1: E37",
       "published_at": "2013-07-15T15:36:55+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/mastwick-chronicles",
       "description": "Hello wonderful listeners, we welcome you back to the auditory version of the beautiful Mastwick. Yes, it is a fine little city. But, you are not here for pleasure, no this is a business trip. Perhaps you will meet a few new associates along the way. You know, Networking. The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -11660,18 +11615,15 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73699578",
       "itunes_duration": "1:16:46",
-      "speakers": [
-        "Mastwick Chronicles Campaign"
-      ],
+      "speakers": [],
       "topics": [
         "mastwick",
-        "chronicles",
-        "campaign"
+        "chronicles"
       ]
     },
     {
       "key": "813119956e8118e79579da0b9f1406261f43d288",
-      "title": "No Rest for the Wicked - Campaign 1: Episode 36",
+      "title": "No Rest for the Wicked - C1: E36",
       "published_at": "2013-07-08T15:14:06+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/no-rest-for-the-wicked",
       "description": "Hello and welcome back to another excited episode of Drunks and Dragons. This sure has been a dragon filled bit of episodes hasn’t it? It really fits within our theme. There shouldn’t be a dragon or dragon-folk on the water so everything should be A-ok. Maybe we will start fighting several groups of drunks since that is the next logical conclusion. I don’t think there are any podcasts in our fantasy world… The adventure continues with Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
@@ -11685,13 +11637,12 @@
       ],
       "topics": [
         "rest",
-        "wicked",
-        "campaign"
+        "wicked"
       ]
     },
     {
       "key": "d046348b78a89e4fc42d0b1a547519c4f95f15b2",
-      "title": "A Flight of Futility - Campaign 1: Episode 35",
+      "title": "A Flight of Futility - C1: E35",
       "published_at": "2013-07-01T16:14:08+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-flight-of-futility",
       "description": "Hello wonderful listeners. Boy are we in a pickle… without getting too deep into the whole situation, we may have angered an elder dragon. Who is to say. Anyways, we are a hearty and strong bunch so everything should be A-ok. Thrifty wouldn’t kill us, right? Especially not Bucky… The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -11703,13 +11654,12 @@
       "speakers": [],
       "topics": [
         "flight",
-        "futility",
-        "campaign"
+        "futility"
       ]
     },
     {
       "key": "2a958bb12fdd4a17247d6d976bbdc4c29a609836",
-      "title": "Teamwork, the Deadliest Weapon - Campaign 1: Episode 34",
+      "title": "Teamwork, the Deadliest Weapon - C1: E34",
       "published_at": "2013-06-24T13:18:05+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/teamwork-the-deadliest-weapon",
       "description": "Hello friends and family, thank you for visiting our magical headquaters located conveniently in an underwater valcono. This week things get – dicey – to put it midly. A bitter battler rages and the survival of the Drunks and Dragons it filed into the “doubtful” drawer. The only way to fight off this viscous monster is to work as a team. iTunes is a great place to leave a review for the show. Really, it is probably the best place. You see, other podcasts try to steal your mp3s and if you don’t have enough reviews they can just walk right in and take them! So thank you! Also, if you want to hang out with the cast members of this show and you play the Dungeons and Dragons MMO, Neverwinter, we have just started a guild on Dragon Shard! So hop online and let’s get stabby! The adventure continues with Lord Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
@@ -11724,13 +11674,12 @@
       "topics": [
         "teamwork",
         "deadliest",
-        "weapon",
-        "campaign"
+        "weapon"
       ]
     },
     {
       "key": "a86cc4d0bd81181ef5e7c914591442aa42676d42",
-      "title": "What Rhymes with Crag Mon? - Campaign 1: Episode 33",
+      "title": "What Rhymes with Crag Mon? - C1: E33",
       "published_at": "2013-06-17T01:23:39+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/what-rhymes-with-crag-mon",
       "description": "Hello adventurers! I hope you are wearing your hott pink parachute because we are falling into another magical episode of Drunks and Dragons. On this episode the gang learns a little more about this Harper character. What is his deal anyway? Also, Bucky leads us to the mystical temple. As always, thank you for your wonderful reviews on iTunes. It makes us work 3x harder to make a better show for you. We are sending our thank you rays right back at you so that you will have 1) better luck with ladies/ dudes 2) better grades 3) that promotion that you deserve, yeah get back Carl, this is my promotion! Also, if you want to hang out with the cast members of this show and you play the Dungeons and Dragons MMO, Neverwinter, we have just started a guild on Dragon Shard! So hop online and let’s get stabby! The adventure continues with Lord Titus Harper ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Hosted on Acast. See acast.com/privacy for more information.",
@@ -11743,13 +11692,12 @@
         "Crag Mon"
       ],
       "topics": [
-        "crag",
-        "campaign"
+        "crag"
       ]
     },
     {
       "key": "6af109285fb80fc46b3c78d5d0b11842568c1593",
-      "title": "I HATE GNOLLS - Campaign 1: Episode 32",
+      "title": "I HATE GNOLLS - C1: E32",
       "published_at": "2013-06-09T20:22:58+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/i-hate-gnolls",
       "description": "A seemingly defeated group of adventurers must face powerful enemies with their hopes slowly draining. Thom and Aludra, alone on the Lost Isle, must search for clues about the lost adventurer Captain Blindy. Without the aid of Junpei, who left the group to join a famous group of Githyanki space pirates, or Tum, who left the group for the grave. They must fight an uphill battle. If only one of their new simple boat mans would be more helpful… All of your wonderful support these past few weeks has meant a whole lot to all of us at DnDpodcast headquarters After the dust settles from the recent changes we have some amazing things in store for y’all! Also, if you want to hang out with the cast members of this show and you play the Dungeons and Dragons MMO, Neverwinter, we have just started a guild on Dragon Shard! So hop online and let’s get stabby! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
@@ -11760,13 +11708,12 @@
       "itunes_duration": "1:10:42",
       "speakers": [],
       "topics": [
-        "gnolls",
-        "campaign"
+        "gnolls"
       ]
     },
     {
       "key": "6fbef25d54f82106302585a778e74bffbcb63559",
-      "title": "Fond Farewells - Campaign 1: Episode 31",
+      "title": "Fond Farewells - C1: E31",
       "published_at": "2013-06-03T10:00:54+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/fond-farewells",
       "description": "Hello, dear Drunks (and Dragons?). Have you recovered from last week’s very dramatic episode? Are you ready for another intense and surprising adventure with our ragtag crew? You’re not? Better slug some grog and gird your loins, because we’re getting dicey up in here. This week’s episode centers around fond farewells and quests both old and new. So put in your headphones! We’re going to the Lost Isle. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -11778,13 +11725,12 @@
       "speakers": [],
       "topics": [
         "fond",
-        "farewells",
-        "campaign"
+        "farewells"
       ]
     },
     {
       "key": "857cbc0bf38dfb2dd136b87146707411362f18ce",
-      "title": "A Sly Flourish - Campaign 1: Episode 30",
+      "title": "A Sly Flourish - C1: E30",
       "published_at": "2013-05-25T20:20:29+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-sly-flourish",
       "description": "Hello brave adventurers and welcome to a very special episode of Drunks and Dragons. We say that most of our episodes are special but this time we mean it. The gang finally gets some clues to the location of the Lost Isle but must acquire a magical compass hidden in a dangerous cave. Will everyone make it out of the cave in one piece? Found out now in this week’s of Drunks and Dragons. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -11795,13 +11741,12 @@
       "itunes_duration": "1:26:07",
       "speakers": [],
       "topics": [
-        "flourish",
-        "campaign"
+        "flourish"
       ]
     },
     {
       "key": "65be26c3b47ab561043567f1627d949dfcf31db0",
-      "title": "A Disproportionate Response - Campaign 1: Episode 29",
+      "title": "A Disproportionate Response - C1: E29",
       "published_at": "2013-05-20T03:14:44+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-disproportionate-response",
       "description": "This is an… interesting episode full of a bit of experimintation. Mostly we tried to really dig into the question of “What if?” and learned to live with the consequences. Join us as we explore the pirate island of Bowbreaker Bay searching for clues for the Lost Isle. Maybe we make a friend or two. Maybe we murder an NPC or two. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
@@ -11815,13 +11760,12 @@
       ],
       "topics": [
         "disproportionate",
-        "response",
-        "campaign"
+        "response"
       ]
     },
     {
       "key": "de35041a4272bd014b0a661d619e3774c7fbc9c6",
-      "title": "Spooky, Crazy Mystery Hour - Campaign 1: Episode 28",
+      "title": "Spooky, Crazy Mystery Hour - C1: E28",
       "published_at": "2013-05-13T15:08:53+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/spooky-crazy-mystery-hour",
       "description": "I know you will love this week’s episode of Drunks and Dragons because we make fools of ourselves. You see, without spoiling what happens, the gang is put into a bit of a pickle that they need to try and figure out. The issue is that the gang is full of lunatics who like to use their weapons instead of their minds. Listen as we attempt to solve a mystery that befalls a small island on our voyage to Mastwick. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -11837,13 +11781,12 @@
         "spooky",
         "crazy",
         "mystery",
-        "hour",
-        "campaign"
+        "hour"
       ]
     },
     {
       "key": "e27d8d81f31d0a8b3df2e1a65114a9244e48bee1",
-      "title": "Painful Memories - Campaign 1: Episode 27",
+      "title": "Painful Memories - C1: E27",
       "published_at": "2013-05-06T03:28:38+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/painful-memories",
       "description": "Thank you as always for joining us for another thrilling adventure with the Drunks and Dragons gang. This week we learn even more about one character’s past with some… unfortunate revelations. Perhaps some memories are best left buried behind that weird contraption in your head that could explode at any minute (or reanimate you as a zombie when you die.) Also, this week has some disturbingly helpful new avenues for potential Drunks and Dragons fan-fiction, so you are welcome! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -11857,13 +11800,12 @@
       ],
       "topics": [
         "painful",
-        "memories",
-        "campaign"
+        "memories"
       ]
     },
     {
       "key": "31761c52b2cf445b21a86a0d55509da3c471b5ea",
-      "title": "A Test of Friendship - Campaign 1: Episode 26",
+      "title": "A Test of Friendship - C1: E26",
       "published_at": "2013-04-29T02:53:27+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-test-of-friendship",
       "description": "I know we say this every week, but honestly, things get dicey on this episode of Drunks and Dragons. With Junpei going a little crazy and Thom being influenced by some mysterious force the gang’s trust is tested to its limits. Add in a visit from a group of Darkblades and things got really interesting. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -11875,13 +11817,12 @@
       "speakers": [],
       "topics": [
         "test",
-        "friendship",
-        "campaign"
+        "friendship"
       ]
     },
     {
       "key": "01ef2b13a93455cec2e3871bae8c6502ca1c18f4",
-      "title": "Acid Trip - Campaign 1: Episode 25",
+      "title": "Acid Trip - C1: E25",
       "published_at": "2013-04-22T09:00:28+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/acid-trip",
       "description": "Our heroes were left in quite the pickle last week eh? Who knows what is going on in the mysterious armory of Trant Thumble and if the gang will make it out alive… Fortunately, some powerful magic items were left just lying around so the odds should be in their favor. We would love if you could take a moment out of your busy day to leave us a review on iTunes. It is the best way to help us out and you have a chance to get a mention on the show! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
@@ -11895,13 +11836,12 @@
       ],
       "topics": [
         "acid",
-        "trip",
-        "campaign"
+        "trip"
       ]
     },
     {
       "key": "253b0a0d39838729c2482d013f04911cd3ce6029",
-      "title": "Maps and Mystery - Campaign 1: Episode 24",
+      "title": "Maps and Mystery - C1: E24",
       "published_at": "2013-04-15T09:00:38+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/maps-and-mystery",
       "description": "As our little world is growing, I know all you fine people can’t wait to see which directions the heroes take. Any week could hold completely different adventures because we the players chose to go left instead of right. This is the magic of Dungeons and Dragons and one of the main reasons why this show is so much fun to make. This week’s episode is a truly special one and we hope you enjoy it. Things get pretty interesting to say the least. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -11912,13 +11852,12 @@
       "itunes_duration": "1:32:54",
       "speakers": [],
       "topics": [
-        "mystery",
-        "campaign"
+        "mystery"
       ]
     },
     {
       "key": "f25349d5e0b54d26f0211b6613c3e3e585253fb1",
-      "title": "The Beasts in the Streets - Campaign 1: Episode 23",
+      "title": "The Beasts in the Streets - C1: E23",
       "published_at": "2013-04-08T13:11:46+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/the-beasts-in-the-streets",
       "description": "Since we had such a nice time on last week’s episode of Drunks and Dragons the gang was feeling pretty good. Our heads were in much less danger of being exploded. We met Fennekin the famed cleric. And we even had some direction for our lives! This week things don’t go as well and without spoiling anything I think we can all agree that Tum’s family is the worst. Have you had a chance to check out our kickstarer? No??? Well head on over to and check it out! We are now in our stretch goal to record several episodes in the Firefly RPG universe, which sounds golram amazing. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
@@ -11930,13 +11869,12 @@
       "speakers": [],
       "topics": [
         "beasts",
-        "streets",
-        "campaign"
+        "streets"
       ]
     },
     {
       "key": "f4fa0d88de588bcedf8a7824c37889b5b7b4896d",
-      "title": "A Hysterical Dragonborn - Campaign 1: Episode 22",
+      "title": "A Hysterical Dragonborn - C1: E22",
       "published_at": "2013-04-01T09:00:01+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-hysterical-dragonborn",
       "description": "Welcome to another action packed episode of Drunks and Dragons! When we last left our heroes there was a strange ticking noise coming from Thom’s head… What could this mean for our group? Found out who lives and who dies in “A Hysterical Dragonborn.” The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Hosted on Acast. See acast.com/privacy for more information.",
@@ -11950,13 +11888,12 @@
       ],
       "topics": [
         "hysterical",
-        "dragonborn",
-        "campaign"
+        "dragonborn"
       ]
     },
     {
       "key": "c9e670befb86f5eba949e6f4cd98b2d8a7bf1ccb",
-      "title": "Family Dinner - Campaign 1: Episode 21",
+      "title": "Family Dinner - C1: E21",
       "published_at": "2013-03-25T09:00:25+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/family-dinner",
       "description": "Our stalwart companions continue their battle against the giant croco-monster fresh from the swamps of Ichtaka. If they can defeat their foe, they have a special treat awaiting them: dinner with Papa Trant and the rest of Tum’s siblings. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -11970,13 +11907,12 @@
       ],
       "topics": [
         "family",
-        "dinner",
-        "campaign"
+        "dinner"
       ]
     },
     {
       "key": "d9fc9f6862dfa86f5ba29ba7ae80dce4c2f8bce5",
-      "title": "Gladiator Games - Campaign 1: Episode 20",
+      "title": "Gladiator Games - C1: E20",
       "published_at": "2013-03-18T09:00:34+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/gladiator-games",
       "description": "After being captured by Thumble soldiers the gang has to overcome a few obstacles to win their freedom. Tum’s father, Trant Thumble, has some sort of coleseum with scary creatures that host fights for the entertainment of the people. Tum was pitted against the brand new Tum – a horrific minotaur. Hopefully he will get through the help of his friends everything will work out A-OK. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: Getting a little help from your friends… Killing the cool gator. Hosted on Acast. See acast.com/privacy for more information.",
@@ -11990,13 +11926,12 @@
       ],
       "topics": [
         "gladiator",
-        "games",
-        "campaign"
+        "games"
       ]
     },
     {
       "key": "395ab6a21772eaa27be1d910df7baeaaa5ff271a",
-      "title": "Sibling Rivalry - Campaign 1: Episode 19",
+      "title": "Sibling Rivalry - C1: E19",
       "published_at": "2013-03-12T17:29:21+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/sibling-rivalry",
       "description": "This week your adventurers are faced with a brand new set of un-friendly faces. When a potential new friend crosses their path, things turn ugly really fast. The inhabitants of this crazy world really hate our heroes. It is almost like everything revolves around them while catastrophe follows in their wake. We are also announcing our Drunks and Dragons Kickstarter ! The short version is we have been having some audio issues resulting mostly from our recording gear. For the most part we have been able to hide the majority from your ears but we wanted to level up our equipment! Plus, this is one of the best ways to reward our loyal listeners with some DnD branded swag! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: Oh no… I sense trouble A beautiful group of people. I hope they are not related to Tum. Aludra moves in for the defense Oh no. Several people are down. Oh no, we are all knocked out. Hosted on Acast. See acast.com/privacy for more information.",
@@ -12008,13 +11943,12 @@
       "speakers": [],
       "topics": [
         "sibling",
-        "rivalry",
-        "campaign"
+        "rivalry"
       ]
     },
     {
       "key": "78d73e13c4937394c6eea42c55abdecbf05a490c",
-      "title": "Canine Justice - Campaign 1: Episode 18",
+      "title": "Canine Justice - C1: E18",
       "published_at": "2013-03-04T10:52:57+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/canine-justice",
       "description": "We may have gotten ourselves into a pickle after ransacking Zantac’s emporium. Our personal flavor of justice seems to have angered the elderly shop keeper. Someone had to put a stop to this horrible dog murderer and if that means acquiring some magical items in the process then that is just the universe rewarding our good deed. Hopefully we are not also rewarded with a free trip to jail. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12028,13 +11962,12 @@
       ],
       "topics": [
         "canine",
-        "justice",
-        "campaign"
+        "justice"
       ]
     },
     {
       "key": "f741fb53488564bf569578adc6aed859bde22f13",
-      "title": "Welcome to Caer! - Campaign 1: Episode 17",
+      "title": "Welcome to Caer! - C1: E17",
       "published_at": "2013-02-25T10:00:28+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-caer",
       "description": "Having bested a legendary Kraken has earned the crew a break from the grind of “almost dying constantly.” Unfortunately, things start going to h-e-double dagger almost immediately. But I am sure Caer will be a safe place fo the gang to avoid getting into any misfortune. As long as no one makes any terrible decisions everything will go swell! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12045,13 +11978,12 @@
       "itunes_duration": "1:52:28",
       "speakers": [],
       "topics": [
-        "caer",
-        "campaign"
+        "caer"
       ]
     },
     {
       "key": "b5b185eda0ca6a0dc55cf3aa3cebf65021813142",
-      "title": "A Legend from the Depths - Campaign 1: Episode 16",
+      "title": "A Legend from the Depths - C1: E16",
       "published_at": "2013-02-18T10:00:22+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-legend-from-the-depths",
       "description": "After a daring battle with a band of evil pirates, your adventurers are now looking forward to a little fun in the sun. Having “liberated” Hookbeard’s boat and freeing his captives getting to Caer is now only a few days passage. That is if they don’t run into the legendary sea monster that haunts these water. I am sure he won’t show up though. We are still running a contest for a free copy of Heroes of the Elemental Chaos . Just head on over to this post and leave your iTunes review in the comment section. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: Hosted on Acast. See acast.com/privacy for more information.",
@@ -12063,13 +11995,12 @@
       "speakers": [],
       "topics": [
         "legend",
-        "depths",
-        "campaign"
+        "depths"
       ]
     },
     {
       "key": "7e2cc0e62586c25ba6e34cd66d2089b22e52204d",
-      "title": "A Pirate’s Life for Me - Campaign 1: Episode 15",
+      "title": "A Pirate’s Life for Me - C1: E15",
       "published_at": "2013-02-12T04:05:57+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-pirates-life-for-me",
       "description": "Your heroes are one step closer to finding the answers they seek in the city of Caer. First they have to gain passage with the infamous pirate Hookbeard. Will the gang have to jeopardize their already shaky morals to reach Caer? Find out in this weeks Drunks and Dragons! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Contest! The lovely folks at Wizards of the Coast have provided us with a copy of Heroes of the Elemental Chaos to give away! Just write a review on iTunes and paste it into the comments thread on this post to enter. Must be in the US (sorry!). Pro-tip, copy the review before you submit it, they tend to disappear in the iTunes system for about a day. Screens from this week’s adventure to assist with your theater of the mind: Hosted on Acast. See acast.com/privacy for more information.",
@@ -12081,13 +12012,12 @@
       "speakers": [],
       "topics": [
         "pirate",
-        "life",
-        "campaign"
+        "life"
       ]
     },
     {
       "key": "c91d15887d764a04a09018a3cbd43223befecbe1",
-      "title": "Dreams of Dragons - Campaign 1: Episode 14",
+      "title": "Dreams of Dragons - C1: E14",
       "published_at": "2013-02-04T10:00:53+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/dreams-of-dragons",
       "description": "Imagine, if you can, waking up in a desert and fighting to survive the night. This is the situation our adventurers found themselves in. We have mentioned our “dream sequence” episode in the past and we glad to finally release it! We are joined by a new friend and get to fight a terrifying new foe. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Aelor played by special guest Owen DiMauro. Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: Hosted on Acast. See acast.com/privacy for more information.",
@@ -12099,13 +12029,12 @@
       "speakers": [],
       "topics": [
         "dream",
-        "dragons",
-        "campaign"
+        "dragons"
       ]
     },
     {
       "key": "be7e47ee37d723b926488c7c804edffd4b1bd660",
-      "title": "A Dwarf, Dragonborn and a Githyanki Walk into a Bar… - Campaign 1: Episode 13",
+      "title": "A Dwarf, Dragonborn and a Githyanki Walk into a Bar… - C1: E13",
       "published_at": "2013-01-28T10:00:53+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-dwarf-dragonborn-and-a-githyanki-walk-into-a-bar",
       "description": "Oh boy, this week on Drunks and Dragons things sure do get dicey. While searching for answers the gang must try to work together while not destroying the town of Mastwick. Are they prepared to find out the truths that await them? Or will their pasts stop their adventure in its tracks… The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12118,13 +12047,12 @@
       "topics": [
         "dwarf",
         "githyanki",
-        "walk",
-        "campaign"
+        "walk"
       ]
     },
     {
       "key": "f152153c46b00e11f1be6b31686015077f0ad191",
-      "title": "Not Quite Through the Woods - Campaign 1: Episode 12",
+      "title": "Not Quite Through the Woods - C1: E12",
       "published_at": "2013-01-21T10:00:51+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/not-quite-through-the-woods",
       "description": "To make up for the lack of a battle in last week’s Drunks and Dragons we fight for a really long time this episode. Like always, we go back and forth between dying and exploding the enemies with reckless abandon. Close your eyes and let the sounds of battle wash over you. Be sure to listen to the end since some pretty crazy cliff hangers occur. The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12137,13 +12065,12 @@
         "Not Quite Through"
       ],
       "topics": [
-        "woods",
-        "campaign"
+        "woods"
       ]
     },
     {
       "key": "f07d539104fa0b5d03f4f03c5b4a782e04361ed1",
-      "title": "An Intense Headache - Campaign 1: Episode 11",
+      "title": "An Intense Headache - C1: E11",
       "published_at": "2013-01-13T22:55:23+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/an-intense-headache",
       "description": "Maybe a few poor decisions were made this week. Who is to say? Do we have any regrets? Sure we do. Would we like to go back in time? Yes, most definitely. Your adventurers may be a little worse for wear but are bound together in a race to save their lives. (please forgive some continuing audio issues – Thrifty’s mic is dying. We are working to fix this issue, and it should be better next week!) The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12155,13 +12082,12 @@
       "speakers": [],
       "topics": [
         "intense",
-        "headache",
-        "campaign"
+        "headache"
       ]
     },
     {
       "key": "3ba5d962a1c4ecf3db55870deac25b62de65fc6e",
-      "title": "The Long Hallway - Campaign 1: Episode 10",
+      "title": "The Long Hallway - C1: E10",
       "published_at": "2013-01-07T04:29:03+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/the-long-hallway",
       "description": "We are back from the holiday and here to bring you DnD! The gang finds themselves in a bit of a trap and death is only a hallway away. Will the hallway devour our heros like an angry squirrel? What is on the other side of the door? Tune in and all of these answers will be yours! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: This is the Death Hallway of Death Another robot?? Is this a really bad guy? He looks cool as hell! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12173,13 +12099,12 @@
       "speakers": [],
       "topics": [
         "long",
-        "hallway",
-        "campaign"
+        "hallway"
       ]
     },
     {
       "key": "a076d0fc2d5aba341c967c2fb4b2fb395e5b49a5",
-      "title": "Thokas Takes a Header - Campaign 1: Episode 9",
+      "title": "Thokas Takes a Header - C1: E9",
       "published_at": "2012-12-30T22:29:07+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/thokas-takes-a-header",
       "description": "This week’s episode is short because of the holiday, but hey, at least we have an episode! The audio quality is also pretty terrible, but we have a fix for that going forward, so sorry about that! Hope you still enjoy this lovely episode! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12193,13 +12118,12 @@
       ],
       "topics": [
         "thokas",
-        "header",
-        "campaign"
+        "header"
       ]
     },
     {
       "key": "bd1dfc15529b6c845045c7a2bfcba25e48832725",
-      "title": "Robot No Feel Love? - Campaign 1: Episode 8",
+      "title": "Robot No Feel Love? - C1: E8",
       "published_at": "2012-12-23T20:33:56+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/robot-no-feel-love",
       "description": "A quick note: We had some audio issues this week, and we apologize for the lack of quality. We have a plan moving forward that should dramatically increase our audio quality. This week on Drunks and Dragons: Our heroes come face-to-face with one of the dwellers of Shadowspar, and battle quickly ensues. Will the gang survives? Will they agree on what an arcana check does? Will one of the group cause another member of the group to get hammered to death? Only time will tell! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: Thokas and his Robo friends! We are nervous that Junpei will kill us all We are almost done with the robo murder! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12213,13 +12137,12 @@
       ],
       "topics": [
         "robot",
-        "love",
-        "campaign"
+        "love"
       ]
     },
     {
       "key": "e9448fd524b860fcd0f499468a38ab3bff11e575",
-      "title": "The Next Level - Campaign 1: Episode 7",
+      "title": "The Next Level - C1: E7",
       "published_at": "2012-12-17T02:05:08+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/the-next-level",
       "description": "The whole gang has gone through a lot of changes this week. Everyone has leveled up, and has all sorts of new powers and abilities to show off. Aludra takes it one step further by shifting to the Warden class so that she can take over the defender duties for the group. The group flexes their new muscles by rolling on Shadowspar Keep and revisiting the trial of the zombie hulks. There are some new surprises as well. Find out what happens by listening to this week’s episode of Drunks and Dragons! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: Battle time! Double flanking this zombie. Even more baby zombies. Bachmann is so ready and excited about being attacked by so many enemies Hosted on Acast. See acast.com/privacy for more information.",
@@ -12230,13 +12153,12 @@
       "itunes_duration": "2:23:31",
       "speakers": [],
       "topics": [
-        "level",
-        "campaign"
+        "level"
       ]
     },
     {
       "key": "80317a3934b6484c451ad129661d0b3510238e91",
-      "title": "The Return of the Eight Legged Freaks - Campaign 1: Episode 6",
+      "title": "The Return of the Eight Legged Freaks - C1: E6",
       "published_at": "2012-12-10T03:28:50+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/the-return-of-the-eight-legged-freaks",
       "description": "Hello stalwart heroes! After a small hiatus the gang was rip-roaring ready to make things “dicey” this session. Prepare to fall deeper into the pit that is our fantasy world. Lives are changed and allegiances are set in stone. This is an episode to remember. Are you prepared for the revelations that await you? The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your Dungeon Master ( Michael DiMauro ). Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Subscribe on iTunes Screens from this week’s adventure to assist with your theater of the mind: We finally have a map of the region we are adventurin’ around. We are reacting to some magic world building by our lovely DM. This is how you battle against evil giant spiders. Spoiler – someone almost dies. Hosted on Acast. See acast.com/privacy for more information.",
@@ -12251,13 +12173,12 @@
       "topics": [
         "return",
         "legged",
-        "freaks",
-        "campaign"
+        "freaks"
       ]
     },
     {
       "key": "075830afe41011b02a46d603b7484ff5f6368bc4",
-      "title": "A Brief Respite - Campaign 1: Episode 5",
+      "title": "A Brief Respite - C1: E5",
       "published_at": "2012-12-04T00:24:35+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/a-brief-respite",
       "description": "Hello Adventurers! This week we took a hiatus from our harrowing adventure through the lands of fantasy and giant evil turkeys to look back at what we have accomplished thus far. As our little story gets more and more complicated, these breaks will help new listeners as well as old get caught up with the various story threads. So prepare your standard adventurer’s rations and gather around the fire! Since we are new and just getting our new shaky podcast legs we need your help with as much feedback as possible. One great way to spread all your positive feedback is on iTunes! Please do not leave the bad ones there since it hurts for a long, long time. Thanks for listening! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ), Aludra ( Jennifer Cheek ) and your DM ( Michael DiMauro ). Hosted on Acast. See acast.com/privacy for more information.",
@@ -12271,13 +12192,12 @@
         "Hello Adventurers"
       ],
       "topics": [
-        "respite",
-        "campaign"
+        "respite"
       ]
     },
     {
       "key": "0696ba238e54b2ade2582af8bc0e87fe0acbb69f",
-      "title": "Two Problems, One Dreadwing - Campaign 1: Episode 4",
+      "title": "Two Problems, One Dreadwing - C1: E4",
       "published_at": "2012-11-27T03:23:40+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/two-problems-one-dreadwing",
       "description": "Greetings Adventurers! Join us for a very special holiday (American Thanksgiving) edition of the Drunks and Dragons podcast. I don’t want to spoil the adventure, so go ahead and listen in! The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), an absent Junpei Iori ( Steven Strom ) and Aludra ( Jennifer Cheek ). With DM Michael DiMauro. Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Screens from our recording: As we are ready for battle, we laugh. Look at the gang getting ready to fight! We won and are happy more battle Turkey time! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12294,13 +12214,12 @@
       ],
       "topics": [
         "problems",
-        "dreadwing",
-        "campaign"
+        "dreadwing"
       ]
     },
     {
       "key": "c672622efd93009f4c0052a60e1ec291a642e837",
-      "title": "Eight Legged Freaks - Campaign 1: Episode 3",
+      "title": "Eight Legged Freaks - C1: E3",
       "published_at": "2012-11-20T00:13:47+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/eight-legged-freaks",
       "description": "Greetings Adventurers! Join us as the crew makes their way through a deep dark forest. What sort of nasty creatures will they run into? The adventure continues with Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ) and Aludra ( Jennifer Cheek ). With DM Michael DiMauro. Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12315,13 +12234,12 @@
       ],
       "topics": [
         "legged",
-        "freaks",
-        "campaign"
+        "freaks"
       ]
     },
     {
       "key": "be5698ea0adc6209320042d4afe3cff3d985eaf4",
-      "title": "Slab Number Five - Campaign 1: Episode 2",
+      "title": "Slab Number Five - C1: E2",
       "published_at": "2012-11-13T05:11:01+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/slab-number-five",
       "description": "Greetings Adventurers! Join us on our second adventure as Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ) and Aludra ( Jennifer Cheek ) continue to work their way out of their current sticky situation invented by DM Michael DiMauro. Drunkards and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12336,13 +12254,12 @@
       ],
       "topics": [
         "slab",
-        "number",
-        "campaign"
+        "number"
       ]
     },
     {
       "key": "17ebab1aac2bbd87a437f94b19a8c5b17e3bb93e",
-      "title": "So it Begins! - Campaign 1: Episode 1",
+      "title": "So it Begins! - C1: E1",
       "published_at": "2012-11-13T04:49:47+00:00",
       "link": "https://shows.acast.com/greetings-adventurers/episodes/so-it-begins",
       "description": "Greetings Adventurers! Join us on our very first adventure as Tum Darkblade ( Tim Lanning ), Thom the Dragonborn ( Mike Bachmann ), Junpei Iori ( Steven Strom ) and Aludra ( Jennifer Cheek ) find themselves in a very strange situation cooked up by DM Michael \"ThriftyNerd\" DiMauro . With only their wits, the newly formed group must work together to escape certain death and dismemberment in this spooky Halloween themed adventure. Drunks and Dragons is a weekly podcast using the Dungeons and Dragons 4th Edition ruleset. Please let us know what you think! You can follow the show on Twitter and Instagram . UPDATE – Dear future listeners! Thanks for finding this episode, what is the future like? Flying cars?! Anyways, it is amazing to see how far we have come from recording this episode. Here are some helpful links to help you get into the world of Drunks and Dragons! Somewhat official map by – HwaetWeGaerdena Group picture! by – (the amazing) Azad Injejikian A Wiki of helpful info – Maintained by a lot of folks, but a big thanks to Steph Kingston and Mr. Red. Be careful of spoilers… Patreon – Our Patreon with exclusive content. Probably won’t matter for you for many episodes but, who knows?! Hosted on Acast. See acast.com/privacy for more information.",
@@ -12356,7 +12273,7 @@
         "Tim Lanning"
       ],
       "topics": [
-        "campaign"
+        "begins"
       ]
     }
   ]
@@ -12384,7 +12301,7 @@
 - 2026-01-19 — Campaign 2: Episode 170 - Barbara Nana — speakers: Barbara Nana Basement
 - 2026-01-12 — Campaign 2: Episode 169 - Good Ol' Guard Love — speakers: Good Ol
 - 2026-01-07 — Campaign 2: Episode 168 - Tug Rope and Grease
-- 2025-12-29 — Campaign 2: Bonus New Years 2025 Outtakes!
+- 2025-12-29 — Bonus New Years 2025 Outtakes!
 - 2025-12-22 — Campaign 2: Episode 167 - Lean-to Learn-too
 - 2025-12-15 — Campaign 2: Episode 166 -Screech Echo, Heroically Handsome — speakers: Screech Echo, Wife Woahs
 - 2025-12-08 — Campaign 2: Episode 165 - Scatter Rescue — speakers: Scatter Rescue Screech
@@ -12399,8 +12316,8 @@
 - 2025-10-07 — Campaign 2: Episode 156 - Sins of the Mothers
 - 2025-09-29 — Campaign 2: Episode 155 - Death of a Talented Artist
 - 2025-09-22 — Campaign 2: Episode 154 - Burn, Baby, Burn! — speakers: Mime Mums
-- 2025-09-15 — Campaign 2: Bonus Episode - Great Kings and Venturers! Part 2
-- 2025-09-08 — Campaign 2: Bonus Episode - Great Kings and Venturers! Part 1
+- 2025-09-15 — Bonus Episode - Great Kings and Venturers! Part 2
+- 2025-09-08 — Bonus Episode - Great Kings and Venturers! Part 1
 - 2025-09-01 — Campaign 2: Super Quiztastic Bonus Episode
 - 2025-08-25 — Campaign 2: Bonus Mailbag Super Show — speakers: fun questions, chat abou
 - 2025-08-18 — Campaign 2: Episode 153 - Mime Mums — speakers: Mime Mums Like
@@ -12494,8 +12411,8 @@
 - 2023-12-11 — Campaign 2: Episode 80 - Doug's Ex
 - 2023-12-04 — Campaign 2: Episode 79 - Despite All My Rage I Am Still Just A Spider In A Cage — speakers: spiders ou
 - 2023-11-27 — BONUS EPISODE: GAPCast D&D Movie Discussion — speakers: Movie Discussion When
-- 2023-11-20 — Campaign 2: Bonus Mailbag Episode NOV 2023
-- 2023-11-13 — BONUS EPISODE: GAPCAST FIASCO 2023 - Part 2
+- 2023-11-20 — Bonus Mailbag Episode NOV 2023
+- 2023-11-13 — GAPCAST FIASCO 2023 - Part 2
 - 2023-11-06 — BONUS EPISODE: GAPCAST FIASCO 2023 - Part 1
 - 2023-10-30 — Campaign 2: Episode 78 - Total Blackout — speakers: Total Blackout Starting
 - 2023-10-23 — Campaign 2: Episode 77 - They Are Coming
@@ -12588,7 +12505,7 @@
 - 2022-02-12 — Campaign 2: Episode 4 - Horrible and Familiar — speakers: Familiar One
 - 2022-02-06 — Campaign 2: Episode 3 - Mourning — speakers: Mourning After
 - 2022-01-31 — Campaign 2: Episode 2 - A Misread Situation
-- 2022-01-24 — Campaign 2: Episode 1 - Welcome to Rimeford — speakers: Rimeford Welcome
+- 2022-01-24 — Welcome to Rimeford - C2: E1
 - 2022-01-17 — Campaign 2: Episode 0 - The Dragon — speakers: Second Campaign
 - 2022-01-10 — Leviathan Episode 10 - The Vat
 - 2022-01-03 — Leviathan Episode 9 - A Cure
@@ -12602,61 +12519,61 @@
 - 2021-11-08 — Leviathan Episode 1 - Into the Depths
 - 2021-11-01 — The Listenersode!
 - 2021-10-25 — End of Campaign 1 - Cast Retrospective — speakers: Cast Retrospective After
-- 2021-10-18 — Episode 427 - A Farewell to Our Family and Friends (End of Campaign 1)
-- 2021-10-11 — Episode 426 - The Luck of the Draw
+- 2021-10-18 — A Farewell to Our Family and Friends (End of Campaign 1) - C1: E427
+- 2021-10-11 — The Luck of the Draw - C1: E426
 - 2021-10-04 — BONUS EPISODE - TFTFT: Rudolph Episode 1
-- 2021-09-27 — Episode 425 - The Final Battle: The End
-- 2021-09-20 — Episode 424 - The Final Battle: 3rd Shift
-- 2021-09-13 — Episode 423 - The Final Battle: 2 Trant 2 Furious
-- 2021-09-06 — Episode 422 - The Final Battle Part 1
-- 2021-08-30 — Episode 421 - As the Feywild Burns
-- 2021-08-23 — Episode 420 - A Non-Euclidean Nightmare — speakers: Euclidean Nightmare Wow
-- 2021-08-16 — Episode 419 - The Center of Lyktion — speakers: Lyktion Skud
-- 2021-08-09 — Episode 418 - Big Beefy Babies — speakers: Beefy Babies
-- 2021-08-02 — Episode 417 - Maze 2: Hypermaze
-- 2021-07-26 — Episode 416 - The Tragic Fate of Tidtowne
-- 2021-07-19 — Episode 415 - My Friend Melora
-- 2021-07-12 — Episode 414 - Your Bones Are Mine
-- 2021-07-05 — Episode 413 - Big Lahni — speakers: Big Lahni, Skud Derringer, Mike Bachmann, Rowan Grey
-- 2021-06-28 — Episode 412 – NASCAR
-- 2021-06-21 — Episode 411 - A Wizard, A Clone, and A Simulacrum.
-- 2021-06-14 — Episode 410 - Mech Mommy — speakers: Mech Mommy Large
+- 2021-09-27 — The Final Battle: The End - C1: E425
+- 2021-09-20 — The Final Battle: 3rd Shift - C1: E424
+- 2021-09-13 — The Final Battle: 2 Trant 2 Furious - C1: E423
+- 2021-09-06 — The Final Battle Part 1 - C1: E422
+- 2021-08-30 — As the Feywild Burns - C1: E421 — speakers: Feywild Burns
+- 2021-08-23 — A Non-Euclidean Nightmare - C1: E420 — speakers: Euclidean Nightmare
+- 2021-08-16 — The Center of Lyktion - C1: E419
+- 2021-08-09 — Big Beefy Babies - C1: E418
+- 2021-08-02 — Maze 2: Hypermaze - C1: E417
+- 2021-07-26 — The Tragic Fate of Tidtowne - C1: E416
+- 2021-07-19 — My Friend Melora - C1: E415
+- 2021-07-12 — Your Bones Are Mine - C1: E414
+- 2021-07-05 — Big Lahni - C1: E413 — speakers: Skud Derringer, Mike Bachmann, Rowan Grey
+- 2021-06-28 — NASCAR - C1: E412
+- 2021-06-21 — A Wizard, A Clone, and A Simulacrum. - C1: E411
+- 2021-06-14 — Mech Mommy - C1: E410
 - 2021-06-07 — Bonus Episode - Questions and Answers
 - 2021-05-31 — Bonus Episode - The Village Of Eternal Blight — speakers: Eternal Blight
-- 2021-05-24 — Episode 409 - Into Bigby’s Realm
-- 2021-05-17 — Episode 408 - The Tarrasque Part 2
-- 2021-05-10 — Episode 407 - The Tarrasque
-- 2021-05-03 — Episode 406 - Welcome to The Crossroads
-- 2021-04-26 — Episode 405 - Great Galanthis Snack Off
-- 2021-04-19 — Episode 404 - Welcome to Galanthis
-- 2021-04-12 — Episode 403 - Most Unchill, Dad — speakers: Dad Bachmann
-- 2021-04-05 — Episode 402 - King of the Chaos
-- 2021-03-29 — Episode 401 - BIG Lahni — speakers: Big Lahni
-- 2021-03-22 — Episode 400 - Power Word Chill
-- 2021-03-15 — Episode 399 - Two Steps Forward, Several Demons Attack Part 2 — speakers: Two Steps Forward, Demon Fight
-- 2021-03-08 — Episode 398 - Two Steps Forward, Several Demons Attack — speakers: Steps Forward
-- 2021-03-01 — Episode 397 - Fungal Fortress
-- 2021-02-22 — Episode 396 – Fungal Fantasy Part 2
-- 2021-02-15 — Episode 395 - Fungal Fantasia
-- 2021-02-08 — Episode 394 - Demon Ball — speakers: Demon Ball
-- 2021-02-01 — Episode 393 - Meteor Mayhem
-- 2021-01-25 — Episode 392 - Buca di Breakfast
-- 2021-01-18 — Episode 391 - One Spicy Porridge — speakers: One Spicy Porridge
-- 2021-01-11 — Episode 390 - Temptation's Hand
-- 2021-01-04 — Episode 389 - Here We Are Now
-- 2020-12-28 — Episode 388 - Voyage Across the Astral Sea
-- 2020-12-21 — Episode 387 - The Elite Forge — speakers: Elite Forge
-- 2020-12-14 — Episode 386 - The Final Bone Battle!? Part 2
-- 2020-12-07 — Episode 385 - The Final Bone Battle!? — speakers: Bone Battle
-- 2020-11-30 — Episode 384 - The Curse of Exhaustion — speakers: Exhaustion What
-- 2020-11-23 — Episode 383 - Table Manners — speakers: Table Manners Well
+- 2021-05-24 — Into Bigby’s Realm - C1: E409 — speakers: Into Bigby
+- 2021-05-17 — The Tarrasque Part 2 - C1: E408
+- 2021-05-10 — The Tarrasque - C1: E407
+- 2021-05-03 — Welcome to The Crossroads - C1: E406
+- 2021-04-26 — Great Galanthis Snack Off - C1: E405
+- 2021-04-19 — Welcome to Galanthis - C1: E404
+- 2021-04-12 — Most Unchill, Dad - C1: E403
+- 2021-04-05 — King of the Chaos - C1: E402
+- 2021-03-29 — BIG Lahni - C1: E401
+- 2021-03-22 — Power Word Chill - C1: E400
+- 2021-03-15 — Two Steps Forward, Several Demons Attack Part 2 - C1: E399 — speakers: Two Steps Forward, Demon Fight
+- 2021-03-08 — Two Steps Forward, Several Demons Attack - C1: E398 — speakers: Two Steps Forward, Several Demons Attack
+- 2021-03-01 — Fungal Fortress - C1: E397
+- 2021-02-22 — Fungal Fantasy Part 2 - C1: E396
+- 2021-02-15 — Fungal Fantasia - C1: E395
+- 2021-02-08 — Demon Ball - C1: E394
+- 2021-02-01 — Meteor Mayhem - C1: E393
+- 2021-01-25 — Buca di Breakfast - C1: E392
+- 2021-01-18 — One Spicy Porridge - C1: E391 — speakers: One Spicy Porridge
+- 2021-01-11 — Temptation's Hand - C1: E390
+- 2021-01-04 — Here We Are Now - C1: E389
+- 2020-12-28 — Voyage Across the Astral Sea - C1: E388
+- 2020-12-21 — The Elite Forge - C1: E387
+- 2020-12-14 — The Final Bone Battle!? Part 2 - C1: E386
+- 2020-12-07 — Episode 385 - The Final Bone Battle!? - C1: E385 — speakers: Bone Battle
+- 2020-11-30 — The Curse of Exhaustion - C1: E384
+- 2020-11-23 — Table Manners - C1: E383 — speakers: Table Manners
 - 2020-11-16 — Bonus Episode - Your Mails, Our Bags
-- 2020-11-09 — Episode 382 - F Word Gary
-- 2020-11-02 — Episode 381 - Stepping Up to the Plate — speakers: Stepping Up, Plate While
-- 2020-10-26 — Episode 380 - Sky Pirate Delight — speakers: Sky Pirate Delight Now
-- 2020-10-19 — Episode 379 - Welcome to Venduria — speakers: Venduria Well, Bone Battling
-- 2020-10-12 — Episode 378 - The Crimes of Catherine Beanlord — speakers: Momma Mia
-- 2020-10-05 — Episode 377 - 12 Angry Allies — speakers: Angry Allies When
+- 2020-11-09 — F Word Gary - C1: E382
+- 2020-11-02 — Stepping Up to the Plate - C1: E381 — speakers: Stepping Up
+- 2020-10-26 — Sky Pirate Delight - C1: E380 — speakers: Sky Pirate Delight
+- 2020-10-19 — Welcome to Venduria - C1: E379 — speakers: Bone Battling
+- 2020-10-12 — The Crimes of Catherine Beanlord - C1: E378 — speakers: Momma Mia
+- 2020-10-05 — 12 Angry Allies - C1: E377 — speakers: Angry Allies
 - 2020-09-28 — Episode 376 - Welcome to the Night Zone — speakers: Night Zone Chasing
 - 2020-09-21 — Episode 375 - The Sorrowful Man
 - 2020-09-14 — Episode 374 - The Mind Killer — speakers: Mind Flayers
@@ -12743,7 +12660,7 @@
 - 2019-02-25 — Episode 303 - Something Mailbag this Way Comes — speakers: Something Mailbag, Way Comes Before
 - 2019-02-18 — Episode 302 - Never Have We Ever
 - 2019-02-11 — Episode 301 - Back to the Tower — speakers: Josail Longshadow
-- 2019-02-04 — Episode 300 - Swords and Sobriety Episode 1: Tavern Troubles — speakers: Tavern Troubles Few Podcasts
+- 2019-02-04 — Swords and Sobriety Episode 1: Tavern Troubles - C1: E300 — speakers: Tavern Troubles, Few Podcasts
 - 2019-01-28 — Episode 299.5 - Power Fully Restored — speakers: Josail Longshadow
 - 2019-01-21 — Episode 299 - A Crystalline Horror — speakers: Crystalline Horror
 - 2019-01-14 — Podcast of Waterdeep Bonus Episode - The Dragon Ante — speakers: Dragon Heis
@@ -12844,7 +12761,7 @@
 - 2017-03-20 — Episode 205 – Locked Up
 - 2017-03-13 — Episode 204 – Time to Save the World. Again.
 - 2017-03-06 — Episode 203 – A Night in the Gnome Quarter — speakers: Gnome Quarter Heading
-- 2017-02-27 — Episode 202 – The City in the Sky — speakers: Sky Turns
+- 2017-02-27 — The City in the Sky - C1: E202
 - 2017-02-20 — Episode 201- The Reconstructed Hero — speakers: Jett Razor
 - 2017-02-13 — Episode 200 - Battle of the White Spire
 - 2017-02-06 — Episode 199 – Betrayal in the White Spire
@@ -12926,7 +12843,7 @@
 - 2015-05-25 — Episode 125 – The Clothes Makes the Bucky
 - 2015-05-18 — Episode 124 – For Little Bucky
 - 2015-05-11 — Episode 123 – A Bigger, Burninger, Bar Brawl — speakers: Bar Brawl When
-- 2015-05-04 — Episode 122 – Okay, Bye!
+- 2015-05-04 — Okay, Bye! - C2: E122
 - 2015-04-27 — Episode 121 – A Polymorph Puzzle
 - 2015-04-20 — Episode 120 – BAR BRAWL!
 - 2015-04-13 — Episode 119 – The Moving City
@@ -12935,117 +12852,117 @@
 - 2015-03-23 — Episode 116 – Adventures in Boat Sitting Part 2
 - 2015-03-16 — Episode 115 – Adventures in Boat Sitting — speakers: Riekert Svenson
 - 2015-03-02 — Episode 114 – These Foul Rooms of Horror
-- 2015-02-23 — Episode 113 – Welcome to the House of Death — speakers: Death Necromancy
-- 2015-02-16 — Episode 112 – The Road to Victory — speakers: Victory Having
-- 2015-02-09 — Episode 111 – Evil Through the Roof — speakers: Evil Through
-- 2015-02-02 — Episode 110 – The Hammer of Sundering
-- 2015-01-26 — Episode 109 – Demons at Your Door
-- 2015-01-19 — Episode 108 – Mystery of Fairmire — speakers: Fairmire After
-- 2015-01-13 — Episode 107 – Why We Fight
-- 2014-12-22 — Episode 106 – The Further Trials of Good People — speakers: Good People Hi
-- 2014-12-15 — Episode 105 – The Enkindling
-- 2014-12-08 — Episode 104 – Welcome to the Jungle – Part 2
-- 2014-12-02 — Episode 103 – Welcome to the Jungle – Part 1
-- 2014-11-25 — Episode 102 – The Most Magical Motor Boat
-- 2014-11-17 — Episode 101 – Home is Where Your Heads Are
-- 2014-11-10 — Episode 100 – A Bittersweet Reunion — speakers: Bittersweet Reunion First
-- 2014-11-03 — Episode 99 – Horror on the Ocean Floor — speakers: Thom Steve
-- 2014-10-27 — Episode 98 – Mail-Bag-O-Thon!
-- 2014-10-20 — Episode 97 – The Mysteries of the Deep
-- 2014-10-13 — Episode 96 – Into the Depths — speakers: Depths Now
-- 2014-10-06 — Episode 95 – Buzz Off — speakers: Buzz Off While
-- 2014-09-29 — Episode 94 – Words are Wind — speakers: running high
-- 2014-09-22 — Episode 93 – Croaked
-- 2014-09-16 — Episode 92 – Vrock and Roll — speakers: Roll Having
-- 2014-09-08 — Episode 91 – Somewhere Beyond the Sea Part 2
-- 2014-09-01 — Episode 90 – Somewhere Beyond the Sea
-- 2014-08-25 — Episode 89 – Pelor’s only Hope — speakers: Hope After
-- 2014-08-19 — Episode 88 – Under the Dome — speakers: Dome When
-- 2014-08-12 — Episode 87 – About Last Night…
-- 2014-08-05 — Episode 86 – The Council of Eight
-- 2014-07-29 — Episode 85 – Once again through the Wyrmhole Part 2
-- 2014-07-22 — Episode 84 – Once again through the Wyrmhole
-- 2014-07-15 — Episode 83 – Voices in the Night
-- 2014-07-07 — Episode 82 – Pelor’s Hope — speakers: questions like
+- 2015-02-23 — Welcome to the House of Death - C1: E113
+- 2015-02-16 — The Road to Victory - C1: E112
+- 2015-02-09 — Evil Through the Roof - C1: E111 — speakers: Evil Through
+- 2015-02-02 — The Hammer of Sundering - C1: E110
+- 2015-01-26 — Demons at Your Door - C1: E109
+- 2015-01-19 — Mystery of Fairmire - C1: E108
+- 2015-01-13 — Why We Fight - C1: E107
+- 2014-12-22 — The Further Trials of Good People - C1: E106 — speakers: Good People
+- 2014-12-15 — The Enkindling - C1: E105
+- 2014-12-08 — Welcome to the Jungle – Part 2 - C1: E104
+- 2014-12-02 — Welcome to the Jungle – Part 1 - C1: E103
+- 2014-11-25 — The Most Magical Motor Boat - C1: E102
+- 2014-11-17 — Home is Where Your Heads Are - C1: E101
+- 2014-11-10 — A Bittersweet Reunion - C1: E100 — speakers: Bittersweet Reunion
+- 2014-11-03 — Horror on the Ocean Floor - C1: E99 — speakers: Thom Steve
+- 2014-10-27 — Mail-Bag-O-Thon! C1: E98
+- 2014-10-20 — The Mysteries of the Deep - C1: E97
+- 2014-10-13 — Into the Depths - C1: E96
+- 2014-10-06 — Buzz Off - C1: E95
+- 2014-09-29 — Words are Wind - C1: E94 — speakers: running high
+- 2014-09-22 — Croaked - C1: E93
+- 2014-09-16 — Vrock and Roll - C1: E92
+- 2014-09-08 — Somewhere Beyond the Sea Part 2 - C1: E91
+- 2014-09-01 — Somewhere Beyond the Sea - C1: E90
+- 2014-08-25 — Pelor’s only Hope - C1: E89
+- 2014-08-19 — Under the Dome - C1: E88
+- 2014-08-12 — About Last Night… - C1: E87
+- 2014-08-05 — The Council of Eight - C1: E86
+- 2014-07-29 — Once again through the Wyrmhole Part 2 - C1: E85
+- 2014-07-22 — Once again through the Wyrmhole - C1: E84
+- 2014-07-15 — Voices in the Night - C1: E83
+- 2014-07-07 — Pelor’s Hope - C1: E82 — speakers: questions like
 - 2014-07-01 — Drunks and Dragons Special – The Live Show Q&A — speakers: Dragons Special
-- 2014-06-24 — Episode 81 – The Live Show
-- 2014-06-02 — Episode 80 – No Turning Back
-- 2014-05-26 — Episode 79 – I am Sorry
-- 2014-05-19 — Episode 78 – The Long Road To Caer — speakers: Caer After
-- 2014-05-12 — Episode 77 -The Temple of Ghostly Evil Part 6
-- 2014-05-06 — Episode 76 -The Temple of Ghostly Evil Part 5
-- 2014-04-28 — Episode 75 -The Temple of Ghostly Evil Part 4
-- 2014-04-21 — Episode 74 -The Temple of Ghostly Evil Part 3
-- 2014-04-14 — Episode 73 – The Temple of Ghostly Evil Part 2
-- 2014-04-01 — Episode 72 – The Temple of Ghostly Evil
-- 2014-03-25 — Episode 71 – Lizards and Liars
-- 2014-03-17 — Episode 70 – On Unsure Ground — speakers: Unsure Ground Having
-- 2014-03-11 — Episode 69: Over Hydrated Part 2
-- 2014-03-03 — Episode 68: Over Hydrated — speakers: Over Hydrated Hello
-- 2014-02-17 — Episode 67 – Stump Grinding — speakers: Stump Grinding Saddle
-- 2014-02-12 — Episode 66 – Paragon Paths and Emails — speakers: Paragon Paths
-- 2014-02-05 — Episode 65 – The Fall of House Vidalis
-- 2014-01-28 — Episode 64 – Demon Hunting Season Part Two
-- 2014-01-21 — Episode 63 – Demon Hunting Season — speakers: Demon Hunting Season
-- 2014-01-13 — Episode 62 – To Know Thyself
-- 2014-01-06 — Episode 61 – Tavern of WHOA
-- 2013-12-24 — Episode 60 – Hello, Mr. Vidalis
-- 2013-12-17 — Episode 59 – Weird Swamp — speakers: Weird Swamp
-- 2013-12-11 — Episode 58 – The Most Magical Time of The Year — speakers: Fey Realm
-- 2013-12-06 — Episode 57 – A Magickless World — speakers: Magickless World Truly
-- 2013-11-26 — Episode 56 – The Dog Park
-- 2013-11-19 — Episode 55 – Welcome to Evening Shire — speakers: Evening Shire There
-- 2013-11-11 — Episode 54 – Ice Cream for Bucky — speakers: Ice Cream, Bucky Having
-- 2013-11-08 — Episode 53 – Revenge of the Hobo
-- 2013-10-29 — Episode 52 – A Dark Future Present — speakers: Dark Future Present Hello, Dear Wonderful Listeners
-- 2013-10-21 — Episode 51 – A Trip Down Memory Lane — speakers: Trip Down Memory Lane
-- 2013-10-14 — Episode 50 – The Greatest Love Story Ever Told — speakers: Adam Bash, Sarah Tompkins
-- 2013-10-07 — Episode 49 – The Great Heist
-- 2013-09-30 — Episode 48 – Soul Stealer — speakers: Soul Stealer
-- 2013-09-23 — Episode 47 – A Flying House — speakers: Flying House Hello
-- 2013-09-16 — Episode 46 – Troll Toll Part 2 — speakers: Troll Toll
-- 2013-09-09 — Episode 45 – Troll Toll — speakers: Troll Toll
-- 2013-09-02 — The Sins of the Fathers - Campaign 1: Episode 44 — speakers: crazy people
-- 2013-08-26 — The Raging Storm - Campaign 1: Episode 43
-- 2013-08-19 — Mordenkrad Time - Campaign 1: Episode 42
-- 2013-08-13 — Salty Sea Wench - Campaign 1: Episode 41
-- 2013-08-05 — Requiem with the Dragon Hunter - Campaign 1: Episode 40
-- 2013-07-29 — Settling up with the Darkblades - Campaign 1: Episode 39
-- 2013-07-22 — Smash and Grab - Campaign 1: Episode 38
-- 2013-07-15 — Mastwick Chronicles - Campaign 1: Episode 37 — speakers: Mastwick Chronicles Campaign
-- 2013-07-08 — No Rest for the Wicked - Campaign 1: Episode 36 — speakers: No Rest
-- 2013-07-01 — A Flight of Futility - Campaign 1: Episode 35
-- 2013-06-24 — Teamwork, the Deadliest Weapon - Campaign 1: Episode 34 — speakers: Deadliest Weapon
-- 2013-06-17 — What Rhymes with Crag Mon? - Campaign 1: Episode 33 — speakers: Crag Mon
-- 2013-06-09 — I HATE GNOLLS - Campaign 1: Episode 32
-- 2013-06-03 — Fond Farewells - Campaign 1: Episode 31
-- 2013-05-25 — A Sly Flourish - Campaign 1: Episode 30
-- 2013-05-20 — A Disproportionate Response - Campaign 1: Episode 29 — speakers: Disproportionate Response
-- 2013-05-13 — Spooky, Crazy Mystery Hour - Campaign 1: Episode 28 — speakers: Crazy Mystery Hour
-- 2013-05-06 — Painful Memories - Campaign 1: Episode 27 — speakers: Dragons gang
-- 2013-04-29 — A Test of Friendship - Campaign 1: Episode 26
-- 2013-04-22 — Acid Trip - Campaign 1: Episode 25 — speakers: Acid Trip
-- 2013-04-15 — Maps and Mystery - Campaign 1: Episode 24
-- 2013-04-08 — The Beasts in the Streets - Campaign 1: Episode 23
-- 2013-04-01 — A Hysterical Dragonborn - Campaign 1: Episode 22 — speakers: Hysterical Dragonborn
-- 2013-03-25 — Family Dinner - Campaign 1: Episode 21 — speakers: Family Dinner
-- 2013-03-18 — Gladiator Games - Campaign 1: Episode 20 — speakers: Gladiator Games
-- 2013-03-12 — Sibling Rivalry - Campaign 1: Episode 19
-- 2013-03-04 — Canine Justice - Campaign 1: Episode 18 — speakers: Canine Justice
-- 2013-02-25 — Welcome to Caer! - Campaign 1: Episode 17
-- 2013-02-18 — A Legend from the Depths - Campaign 1: Episode 16
-- 2013-02-12 — A Pirate’s Life for Me - Campaign 1: Episode 15
-- 2013-02-04 — Dreams of Dragons - Campaign 1: Episode 14
-- 2013-01-28 — A Dwarf, Dragonborn and a Githyanki Walk into a Bar… - Campaign 1: Episode 13
-- 2013-01-21 — Not Quite Through the Woods - Campaign 1: Episode 12 — speakers: Not Quite Through
-- 2013-01-13 — An Intense Headache - Campaign 1: Episode 11
-- 2013-01-07 — The Long Hallway - Campaign 1: Episode 10
-- 2012-12-30 — Thokas Takes a Header - Campaign 1: Episode 9 — speakers: Thokas Takes
-- 2012-12-23 — Robot No Feel Love? - Campaign 1: Episode 8 — speakers: Robot No Feel Love
-- 2012-12-17 — The Next Level - Campaign 1: Episode 7
-- 2012-12-10 — The Return of the Eight Legged Freaks - Campaign 1: Episode 6 — speakers: Eight Legged Freaks
-- 2012-12-04 — A Brief Respite - Campaign 1: Episode 5 — speakers: Brief Respite, Hello Adventurers
-- 2012-11-27 — Two Problems, One Dreadwing - Campaign 1: Episode 4 — speakers: Two Problems, One Dreadwing, Greetings Adventurers, American Thanksgiving
-- 2012-11-20 — Eight Legged Freaks - Campaign 1: Episode 3 — speakers: Eight Legged Freaks, Greetings Adventurers
-- 2012-11-13 — Slab Number Five - Campaign 1: Episode 2 — speakers: Tum Darkblade, Tim Lanning
-- 2012-11-13 — So it Begins! - Campaign 1: Episode 1 — speakers: Tum Darkblade, Tim Lanning
+- 2014-06-24 — The Live Show - C1: E81
+- 2014-06-02 — No Turning Back - C1: E80
+- 2014-05-26 — I am Sorry - C1: E79
+- 2014-05-19 — The Long Road To Caer — speakers: Caer After
+- 2014-05-12 — The Temple of Ghostly Evil Part 6 - C1: E77 — speakers: Michael Thrifty Nerd
+- 2014-05-06 — The Temple of Ghostly Evil Part 5 - C1: E76
+- 2014-04-28 — The Temple of Ghostly Evil Part 4 - C1: E75
+- 2014-04-21 — The Temple of Ghostly Evil Part 3 - C1: E74
+- 2014-04-14 — The Temple of Ghostly Evil Part 2 - C1: E73
+- 2014-04-01 — The Temple of Ghostly Evil - C1: E72
+- 2014-03-25 — Lizards and Liars - C1: E71
+- 2014-03-17 — On Unsure Ground - C1: E70
+- 2014-03-11 — Over Hydrated Part 2 - C1: E69
+- 2014-03-03 — Over Hydrated - C1: E68 — speakers: Over Hydrated
+- 2014-02-17 — Stump Grinding - C1: E67
+- 2014-02-12 — Paragon Paths and Emails - C1: E66 — speakers: Paragon Paths
+- 2014-02-05 — The Fall of House Vidalis - C1: E65
+- 2014-01-28 — Demon Hunting Season Part Two - C1: E64 — speakers: Demon Hunting Season
+- 2014-01-21 — Demon Hunting Season - C1: E63
+- 2014-01-13 — To Know Thyself - C1: E62
+- 2014-01-06 — Tavern of WHOA - C1: E61
+- 2013-12-24 — Hello, Mr. Vidalis - C1: E60
+- 2013-12-17 — Weird Swamp - C1: E59 — speakers: Weird Swamp
+- 2013-12-11 — The Most Magical Time of The Year - C1: E58 — speakers: Fey Realm
+- 2013-12-06 — A Magickless World - C1: E57 — speakers: Magickless World
+- 2013-11-26 — The Dog Park - C1: E56
+- 2013-11-19 — Welcome to Evening Shire - C1: E55 — speakers: Evening Shire
+- 2013-11-11 — Ice Cream for Bucky - C1: E54 — speakers: Ice Cream
+- 2013-11-08 — Revenge of the Hobo - C1: E53
+- 2013-10-29 — A Dark Future Present - C1: E52 — speakers: Dark Future Present, Hello Dear Wonderful Listeners
+- 2013-10-21 — A Trip Down Memory Lane - C1: E51 — speakers: Trip Down Memory Lane
+- 2013-10-14 — The Greatest Love Story Ever Told - C1: E50 — speakers: Adam Bash, Sarah Tompkins
+- 2013-10-07 — The Great Heist - C1: E49
+- 2013-09-30 — Soul Stealer - C1: E48
+- 2013-09-23 — A Flying House - C1: E47 — speakers: Flying House
+- 2013-09-16 — Troll Toll Part 2 - C1: E46 — speakers: Troll Toll
+- 2013-09-09 — Troll Toll - C1: E45
+- 2013-09-02 — The Sins of the Fathers - C1: E44 — speakers: crazy people
+- 2013-08-26 — The Raging Storm - C1: E43
+- 2013-08-19 — Mordenkrad Time - C1: E42
+- 2013-08-13 — Salty Sea Wench - C1: E41
+- 2013-08-05 — Requiem with the Dragon Hunter - C1: E40
+- 2013-07-29 — Settling up with the Darkblades - C1: E39
+- 2013-07-22 — Smash and Grab - C1: E38
+- 2013-07-15 — Mastwick Chronicles - C1: E37
+- 2013-07-08 — No Rest for the Wicked - C1: E36 — speakers: No Rest
+- 2013-07-01 — A Flight of Futility - C1: E35
+- 2013-06-24 — Teamwork, the Deadliest Weapon - C1: E34 — speakers: Deadliest Weapon
+- 2013-06-17 — What Rhymes with Crag Mon? - C1: E33 — speakers: Crag Mon
+- 2013-06-09 — I HATE GNOLLS - C1: E32
+- 2013-06-03 — Fond Farewells - C1: E31
+- 2013-05-25 — A Sly Flourish - C1: E30
+- 2013-05-20 — A Disproportionate Response - C1: E29 — speakers: Disproportionate Response
+- 2013-05-13 — Spooky, Crazy Mystery Hour - C1: E28 — speakers: Crazy Mystery Hour
+- 2013-05-06 — Painful Memories - C1: E27 — speakers: Dragons gang
+- 2013-04-29 — A Test of Friendship - C1: E26
+- 2013-04-22 — Acid Trip - C1: E25 — speakers: Acid Trip
+- 2013-04-15 — Maps and Mystery - C1: E24
+- 2013-04-08 — The Beasts in the Streets - C1: E23
+- 2013-04-01 — A Hysterical Dragonborn - C1: E22 — speakers: Hysterical Dragonborn
+- 2013-03-25 — Family Dinner - C1: E21 — speakers: Family Dinner
+- 2013-03-18 — Gladiator Games - C1: E20 — speakers: Gladiator Games
+- 2013-03-12 — Sibling Rivalry - C1: E19
+- 2013-03-04 — Canine Justice - C1: E18 — speakers: Canine Justice
+- 2013-02-25 — Welcome to Caer! - C1: E17
+- 2013-02-18 — A Legend from the Depths - C1: E16
+- 2013-02-12 — A Pirate’s Life for Me - C1: E15
+- 2013-02-04 — Dreams of Dragons - C1: E14
+- 2013-01-28 — A Dwarf, Dragonborn and a Githyanki Walk into a Bar… - C1: E13
+- 2013-01-21 — Not Quite Through the Woods - C1: E12 — speakers: Not Quite Through
+- 2013-01-13 — An Intense Headache - C1: E11
+- 2013-01-07 — The Long Hallway - C1: E10
+- 2012-12-30 — Thokas Takes a Header - C1: E9 — speakers: Thokas Takes
+- 2012-12-23 — Robot No Feel Love? - C1: E8 — speakers: Robot No Feel Love
+- 2012-12-17 — The Next Level - C1: E7
+- 2012-12-10 — The Return of the Eight Legged Freaks - C1: E6 — speakers: Eight Legged Freaks
+- 2012-12-04 — A Brief Respite - C1: E5 — speakers: Brief Respite, Hello Adventurers
+- 2012-11-27 — Two Problems, One Dreadwing - C1: E4 — speakers: Two Problems, One Dreadwing, Greetings Adventurers, American Thanksgiving
+- 2012-11-20 — Eight Legged Freaks - C1: E3 — speakers: Eight Legged Freaks, Greetings Adventurers
+- 2012-11-13 — Slab Number Five - C1: E2 — speakers: Tum Darkblade, Tim Lanning
+- 2012-11-13 — So it Begins! - C1: E1 — speakers: Tum Darkblade, Tim Lanning
