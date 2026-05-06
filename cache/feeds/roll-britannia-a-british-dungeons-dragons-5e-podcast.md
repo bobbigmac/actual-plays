@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-05-05T22:15:08+00:00`
-- checked_at: `2026-05-05T22:15:08+00:00`
-- etag: `"djEuMi4wOjE3NzgwMTY3OTM5NDU="`
+- fetched_at: `2026-05-06T11:22:06+00:00`
+- checked_at: `2026-05-06T11:22:06+00:00`
+- etag: `"djEuMi4wOjE3NzgwNTA4Mzk4MTg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-05-05T22:15:08+00:00",
+  "fetched_at": "2026-05-06T11:22:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "62d07099fb6d187278458975bc03cadf20b78a58",
+      "title": "Ep. 004: Age of Astra - Middle Aged Children | #DND",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the cracks widen as the agents push further into a world that feels carefully constructed. Conversations circle, truths bend, and the Dice seem to land just shy of certainty, as if something is quietly steering events from the edges. In this DnD chapter, every step forward feels watched… and possibly expected. Who benefits from keeping the truth buried? How deep does the deception really go? And when the mask finally slips, what’s left underneath? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1777447784921-de78a106-c16a-44fa-a463-60fa198e85cc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69f1b3b88647f8587e3ad133/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "140550948",
+      "itunes_duration": "58:31",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "child"
+      ]
+    },
     {
       "key": "82e22e95591a9abdd55712311a45f16ce3e89f1d",
       "title": "Ep. 003: Age of Astra - Hammers, Clubs, The Occasional Dagger! | #DND",
@@ -7723,6 +7740,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — Ep. 004: Age of Astra - Middle Aged Children | #DND
 - 2026-04-29 — Ep. 003: Age of Astra - Hammers, Clubs, The Occasional Dagger! | #DND
 - 2026-04-22 — Ep. 002: Age of Astra - We're here from Astra | #DND
 - 2026-04-15 — Ep. 001: Age of Astra - Where is that Bloody Hat?! | #DND — speakers: Bloody Hat

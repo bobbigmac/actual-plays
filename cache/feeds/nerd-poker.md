@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-04-29T04:05:20+00:00`
-- checked_at: `2026-04-29T04:05:20+00:00`
-- etag: `"ceba138c61c67f0dd8c6433532ec566d"`
-- last_modified: `Wed, 29 Apr 2026 00:59:38 GMT`
+- fetched_at: `2026-05-06T11:22:06+00:00`
+- checked_at: `2026-05-06T11:22:06+00:00`
+- etag: `"0159dd5a4c03a7b71f0ec6678646e3ea"`
+- last_modified: `Wed, 06 May 2026 08:03:36 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-04-29T04:05:20+00:00",
+  "fetched_at": "2026-05-06T11:22:06+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "285806c3076337c61f2ea230477409daf7022ec0",
+      "title": "The Fog Campaign - Episode 69",
+      "published_at": "2026-05-06T08:02:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-69",
+      "description": "We're down to our last two fish people, and one of them might be dinner. Also EPISODE 69 LOLOLOL (nice) For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more be sure to head to nerdpokerpod.com",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-069-20260413-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127461248",
+      "itunes_duration": "53:07",
+      "speakers": [
+        "Brian Posehn"
+      ],
+      "topics": [
+        "campaign"
+      ]
+    },
     {
       "key": "e7a6bdb1f8f854c788320115817e36880b01db7f",
       "title": "The Fog Campaign - Episode 68",
@@ -8849,6 +8867,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — The Fog Campaign - Episode 69 — speakers: Brian Posehn
 - 2026-04-29 — The Fog Campaign - Episode 68 — speakers: Brian Posehn
 - 2026-04-23 — The Fog Campaign - Episode 67 — speakers: Brian Posehn
 - 2026-04-14 — The Fog Campaign - Episode 66 — speakers: Brian Posehn
