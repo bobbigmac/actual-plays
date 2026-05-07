@@ -3,9 +3,11 @@
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
 - fetched_at: `2026-05-01T08:26:07+00:00`
-- checked_at: `2026-05-05T10:56:12+00:00`
+- checked_at: `2026-05-07T15:06:40+00:00`
 - last_modified: `Fri, 01 May 2026 05:38:59 GMT`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: `HTTP 503` — Service Unavailable
 
 <!-- FEED_JSON -->
 ```json
@@ -10945,7 +10947,17 @@
         "party"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-05-07T15:06:40+00:00",
+    "status": "error",
+    "checked_at": "2026-05-07T15:06:40+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 503,
+      "message": "Service Unavailable"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

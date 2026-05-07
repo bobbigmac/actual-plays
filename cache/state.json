@@ -137,189 +137,193 @@
       "last_modified": "Thu, 19 Feb 2026 18:57:03 GMT"
     },
     "acquisitions-incorporated": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152907
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166401
     },
     "abraxas-precipice-the-expanse-roleplaying-game-actual-play": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152907,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166401,
       "etag": "\"4897032ceb742832ccad5ea8b88d2d53\""
     },
     "advantage-a-5e-dungeons-dragons-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152908,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166402,
       "consecutive_failures": 0
     },
     "aint-slayed-nobody-call-of-cthulhu-actual-play": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152907,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166401,
       "etag": "\"djEuMi4wOjE3Nzc5NzcwMzkzNzY=\""
     },
     "analog-science-fiction-fact": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152908,
-      "etag": "\"00801133284fb777c91b2ebfaf58d000-gzip\"",
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166401,
+      "etag": "\"00801133284fb777c91b2ebfaf58d000\"",
       "last_modified": "Thu, 16 Apr 2026 23:06:23 GMT"
     },
     "awful-neutral-a-dungeons-and-dragons-debacle": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152908,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166401,
       "etag": "\"05375ca20cd4ea0b5817fe133e3e4aff\""
     },
     "ballad-of-the-seven-dice-a-pathfinder-call-of-cthulhu-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152908,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166402,
       "etag": "\"76253a7b4f42010badb68c07ec82c717\""
     },
     "bardic-mystery-tour-a-musical-dungeons-dragons-actualplay": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152908,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166402,
       "etag": "\"7cb2ac87dce2e6426c39022045df3ff7\""
     },
     "black-dice-society": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152908,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166402,
       "etag": "W/\"4a2aa-y8uVafaZl+92onLbVCqzsTY3D5Y\""
     },
     "blood-of-the-void": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152908,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166402,
       "etag": "W/\"f0ae3a0f2e225fda806fe2a9a1575640\"",
       "last_modified": "Tue, 02 Dec 2025 22:32:05 GMT"
     },
     "bombarded-a-musical-dungeons-dragons-adventure": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152908,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166402,
       "etag": "\"2d8a93ebfb0dc004869bb40ed6be3cb2\""
     },
     "critical-role": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152909,
-      "etag": "\"c79dc18268d89d116b84ee1c9b2ec173\"",
-      "last_modified": "Thu, 30 Apr 2026 12:00:20 GMT"
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166402,
+      "etag": "\"6d313c916e2b6061985343d585ead440\"",
+      "last_modified": "Thu, 07 May 2026 12:00:21 GMT"
     },
     "cosmic-crit-a-starfinder-actual-play-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152909,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166402,
       "last_modified": "Mon, 04 May 2026 04:05:00 GMT",
       "consecutive_failures": 0
     },
     "curse-of-strahd-twice-bitten": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152909,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166403,
       "etag": "W/\"e91bf-BcWR1T0+HSOV2gZMaqzqyHRdSnI\""
     },
     "curse-of-strahdanya-a-legends-of-avantris-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152909,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166403,
       "etag": "\"41739a368c43334409dd1ab32db1ffab\""
     },
     "d-d-villains-of-visentria-a-grim-horror-themed-campaign": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152909,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166403,
       "etag": "W/\"c6fa-mAEoO/1lyt1K9yE7WXdaBc2M2r0\""
     },
     "d20-dames": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152910,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166403,
       "etag": "\"504aca73587c1f685c29563b62d93d17\"",
       "last_modified": "Mon, 15 Dec 2025 06:28:56 GMT"
     },
     "die-alone-a-solo-rpg-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152909,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166403,
       "etag": "W/\"a0666166cda16af65353325869a05039\""
     },
     "diefall": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152910,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166404,
       "consecutive_failures": 0
     },
     "dimension-20": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152910,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166404,
       "etag": "\"d5595f2f83834d32e8fc04988b0483a7\"",
       "last_modified": "Mon, 16 Mar 2026 12:05:19 GMT"
     },
     "dungeons-and-daddies": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152910,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166404,
       "etag": "\"djEuMi4wOjE3Nzc5OTY4MzkzMzA=\""
     },
     "worlds-beyond-number": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152910,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166404,
       "etag": "\"52ad4e7defa8b4d10436990426da5e8c\"",
       "last_modified": "Tue, 28 Apr 2026 09:00:18 GMT"
     },
     "dndark": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152910
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166404
     },
     "dodoborne-a-daggerheart-actual-play-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152910,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166406,
       "etag": "W/\"8ff97bce6850bb612b2a3c3062431a8a\"",
       "last_modified": "Thu, 07 May 2026 10:40:26 GMT"
     },
     "dragons-greed-gaming-presents-blade-runner-the-roleplaying-game": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152912,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166406,
       "etag": "\"c63c1b84e68c49bd553117a449b52571\"",
       "last_modified": "Mon, 16 Mar 2026 12:56:55 GMT"
     },
     "dork-tales": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152911,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166406,
       "etag": "\"c38ce1b336b7d579c12820090007f753\""
     },
     "dragons-greed-gaming-presents-mork-borg": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152912,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166406,
       "etag": "\"d294356cc513f6c6fa973ac401655100\"",
       "last_modified": "Mon, 16 Mar 2026 12:49:02 GMT"
     },
     "dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152912,
-      "last_modified": "Wed, 06 May 2026 07:00:06 GMT"
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166407,
+      "last_modified": "Wed, 06 May 2026 07:00:06 GMT",
+      "consecutive_failures": 1,
+      "last_error_at": "2026-05-07T15:06:40+00:00",
+      "last_error_status": 503,
+      "last_error_message": "Service Unavailable"
     },
     "flail-to-the-face-a-compatible-with-m-rk-borg-actual-play-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152912,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166407,
       "etag": "W/\"65b0b-/na9I3JgCA9DRBhgrRFzu3kzYeo\""
     },
     "fables-of-refuge": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152912,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166407,
       "etag": "W/\"61fe3-DAU9Y69YvcC4F0EiMXKEEewur4s\"",
       "consecutive_failures": 0
     },
     "force-majeure-a-star-wars-actual-play-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152912,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166407,
       "etag": "\"f1e4dd929d011cf3595eac38154cfc9b\"",
       "last_modified": "Wed, 06 May 2026 16:15:13 GMT"
     },
     "friends-at-the-table": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152913,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166407,
       "etag": "\"ac56c50bb97b16191329c8bb1c3a12a9\"",
       "last_modified": "Tue, 21 Apr 2026 06:45:04 GMT"
     },
     "girls-guts-glory-the-broad-cast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152912,
-      "last_modified": "Thu, 07 May 2026 11:21:52 GMT"
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166407,
+      "last_modified": "Thu, 07 May 2026 15:00:21 GMT"
     },
     "godfall-dnd": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152912,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166407,
       "etag": "W/\"46c4-YsIhAUyhhBG9kszYnSU/NrEI9fE\""
     },
     "godsfall": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152912
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166408
     },
     "guildgates-goblins-a-dungeons-dragons-podcast": {
       "last_checked_at": "2026-02-20T10:00:00+00:00",
@@ -334,160 +338,163 @@
       "disabled_reason": "3 consecutive failures"
     },
     "green-box-gaming": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152913,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166408,
       "etag": "\"c78d419f1f443777c0fd8a74913d1a8c\"",
       "last_modified": "Tue, 05 May 2026 13:00:34 GMT"
     },
     "greetings-adventurers-dungeons-and-dragons-5e-actual-play": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152913,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166408,
       "etag": "\"djEuMi4wOjE3NzgxMjE3MzA4NjM=\""
     },
     "happy-jacks-rpg-one-shots": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152914,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166409,
       "etag": "\"0111ec04b855b4ef8d8f92336729ed00\"",
       "last_modified": "Wed, 06 May 2026 20:06:50 GMT",
       "consecutive_failures": 0
     },
     "hero-squad": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152913,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166408,
       "etag": "\"b9d8a43d7b16981b25899e156c5fcb19\""
     },
     "heroes-of-the-vale": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152913,
-      "last_modified": "Thu, 07 May 2026 11:21:53 GMT"
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166408,
+      "last_modified": "Thu, 07 May 2026 15:06:48 GMT"
     },
     "high-rollers-dnd": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152913,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166408,
       "last_modified": "Thu, 07 May 2026 07:07:57 GMT"
     },
     "how-we-roll-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152914,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166408,
       "etag": "\"bc0f1570d904a49688aa54f5297fd0e1\"",
       "last_modified": "Fri, 24 Apr 2026 15:04:25 GMT"
     },
     "how-friends-roll-a-dungeons-and-dragons-5th-edition-actual-play-dnd-5e-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152914,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166409,
       "etag": "\"d765ba6513325531959767c6fe05b93a\"",
       "last_modified": "Thu, 11 Dec 2025 02:12:00 GMT"
     },
     "lamplight-radio-play": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152917,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166409,
       "etag": "\"dae5fecbf2745352c65edbebadc303f0\"",
       "last_modified": "Mon, 17 Nov 2025 19:01:24 GMT",
       "consecutive_failures": 0
     },
     "lawful-stupid-a-dnd-5e-actual-play-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152914,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166409,
       "etag": "W/\"2eb03c-nnHDJjkIeZ6aXXpjZkzb6eoCw/I\""
     },
     "mythic-thunderlute-a-d-d-podcast-musical": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152914,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166409,
       "last_modified": "Sat, 06 Dec 2025 17:09:19 GMT"
     },
     "legendlark": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152915,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166409,
       "etag": "W/\"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ\"",
       "consecutive_failures": 0,
       "last_modified": "Thu, 07 May 2026 01:05:58 GMT"
     },
     "nerd-poker": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152915,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166410,
       "etag": "\"0159dd5a4c03a7b71f0ec6678646e3ea\"",
       "last_modified": "Wed, 06 May 2026 08:03:36 GMT"
     },
     "not-another-d-d-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152915,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166409,
       "last_modified": "Fri, 01 May 2026 05:38:59 GMT",
-      "consecutive_failures": 0
+      "consecutive_failures": 1,
+      "last_error_at": "2026-05-07T15:06:40+00:00",
+      "last_error_status": 503,
+      "last_error_message": "Service Unavailable"
     },
     "one-shot": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152916,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166410,
       "last_modified": "Mon, 04 May 2026 04:03:00 GMT"
     },
     "one-shots-a-live-play-mini-series-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152916,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166410,
       "etag": "\"9814d02e38a135d6b7589f746046c864\"",
       "last_modified": "Mon, 02 Mar 2026 20:53:47 GMT"
     },
     "one-shot-onslaught-a-d-d-5e-actual-play-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152916,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166410,
       "last_modified": "Fri, 01 May 2026 12:13:40 GMT"
     },
     "order-of-shana-the-women-running-dungeon-crawl-classics-rpg": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152916,
-      "etag": "W/\"a2da-UHcBpfbVb/Z0nxI/cMfgO9MIjLg\""
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166410,
+      "etag": "W/\"a2da-xbxs3htQ0v/qh/ac64InOPsArNs\""
     },
     "oxventure-a-dungeons-dragons-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152917,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166410,
       "last_modified": "Thu, 16 Apr 2026 22:42:22 GMT",
       "consecutive_failures": 0
     },
     "archives-fandible-actual-play-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152917,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166410,
       "etag": "\"f02510dd0de63260c8a56e4a9d2cae20\"",
       "consecutive_failures": 0
     },
     "realms-of-peril-glory-an-actual-play-anthology": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152917,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166410,
       "last_modified": "Mon, 04 May 2026 04:01:00 GMT"
     },
     "realmsmith-presents-into-the-mist-live-dnd-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152917,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166410,
       "etag": "W/\"1f64a-5Dkv3GEKozg6upl/1J5gw2JGDnI\""
     },
     "rime-of-the-frostmaiden-a-d-d5e-actual-play-adventure": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152918,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166411,
       "etag": "\"6cc173bef1bec6c59e3ab5b995bd6043\"",
       "last_modified": "Mon, 16 Mar 2026 12:36:34 GMT",
       "consecutive_failures": 0
     },
     "role-radio-a-5e-actual-play-dungeons-dragons-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152917
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166410
     },
     "roll-britannia-a-british-dungeons-dragons-5e-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152917,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166411,
       "etag": "\"djEuMi4wOjE3NzgwNTA4Mzk4MTg=\""
     },
     "roll-the-hard-20-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152918,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166411,
       "etag": "W/\"c8ef90bded0683be8153451bb96a8349\"",
       "consecutive_failures": 0
     },
     "rotating-heroes": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152918,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166411,
       "etag": "W/\"9f729a350ff50ce58fbf1973434942f0\"",
       "last_modified": "Fri, 01 May 2026 09:00:00 GMT"
     },
     "session-zero": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152918,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166411,
       "last_modified": "Mon, 01 Jul 2024 21:16:57 GMT"
     },
     "star-trek-the-section-31-files-by-eric-l-busby": {
@@ -503,174 +510,178 @@
       "disabled_reason": "3 consecutive failures"
     },
     "sitcomd-d": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152918,
-      "last_modified": "Wed, 22 Oct 2025 00:21:03 GMT"
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166411,
+      "last_modified": "Wed, 22 Oct 2025 00:21:03 GMT",
+      "consecutive_failures": 1,
+      "last_error_at": "2026-05-07T15:06:40+00:00",
+      "last_error_status": 503,
+      "last_error_message": "Service Unavailable"
     },
     "star-trek-europa-star-trek-adventures-actual-play": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152918,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166411,
       "etag": "\"8fddf08242aaa66a781bad691de27bae\""
     },
     "stars-are-right-call-of-cthulhu-ttrpg-actual-play-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152918,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166411,
       "etag": "\"b87c018725515ce978bb331d96e3ec1b\""
     },
     "strange-encounter-a-pirate-borg-actual-play": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152918,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166411,
       "etag": "\"djEuMi4wOjE3Nzc1MDg0MjE2Mzg=\""
     },
     "storybreakers": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152918,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166411,
       "last_modified": "Wed, 26 Jun 2024 21:02:13 GMT"
     },
     "tabletop-tiddies": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152918,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "etag": "\"d9fbbb82835ff38299976007d0139ae7\"",
       "last_modified": "Mon, 27 Apr 2026 03:09:53 GMT"
     },
     "tales-from-the-stinky-dragon": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152918,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166411,
       "last_modified": "Wed, 06 May 2026 22:27:46 GMT"
     },
     "taking-initiative": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152919,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "etag": "\"0ad5bb6791aa7f499fd65c1c96ad546b\"",
       "last_modified": "Mon, 15 Dec 2025 06:30:36 GMT"
     },
     "the-adventure-zone": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152919,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166411,
       "etag": "\"05fb409854a61b0aef3b8c0a05148323\"",
       "last_modified": "Mon, 04 May 2026 19:49:15 GMT"
     },
     "adventure-is-nigh": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152919,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "etag": "W/\"18a71-8/b/irXjNB3XUw8I0JmsdV/CTg8\""
     },
     "the-adventures-of-philip-marlowe": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152919,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "etag": "\"185c37e7e158b1bc1f0c187267cbda9a\"",
       "last_modified": "Mon, 16 Mar 2026 12:44:31 GMT"
     },
     "the-city-that-never-dies": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152919,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "etag": "\"925b8edf1c8a5ff3bd93aa801410c09f\"",
       "last_modified": "Tue, 26 Dec 2023 11:00:14 GMT"
     },
     "the-damage-guild-a-d-d-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152919,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "last_modified": "Mon, 27 Apr 2026 04:01:00 GMT",
       "consecutive_failures": 0
     },
     "the-damage-guild-a-pathfinder-2e-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152919,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "last_modified": "Mon, 27 Apr 2026 04:01:00 GMT",
       "consecutive_failures": 0
     },
     "the-dice-girls": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152919,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "etag": "\"c52843a911fc50effb486767fa04c5c6\""
     },
     "the-gilded-troll": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152919,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "etag": "W/\"49394-WmQg+ati+Tc8Zvfyupt40zfsdxI\""
     },
     "the-glass-cannon-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152919,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "last_modified": "Thu, 07 May 2026 04:00:00 GMT"
     },
     "the-heresies-of-radulf-burntwine": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152919,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "last_modified": "Thu, 16 Apr 2026 20:26:13 GMT"
     },
     "the-iron-realm-mega-dungeon-crawl-dark-fantasy-solo-rpg-gaming-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152920,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "last_modified": "Fri, 1 May 2026 17:42:33 GMT"
     },
     "the-lovecraft-tapes-actual-play-call-of-cthulhu-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152919,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "etag": "\"6483899e15d7c8b500f854ff049dd718\""
     },
     "the-magpies-a-blades-in-the-dark-actual-play": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152919,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "etag": "\"29cb0c0cd1c6e7275952cf89d252408d\"",
       "last_modified": "Mon, 07 Feb 2022 11:00:14 GMT"
     },
     "the-misadventurers-a-d-d-folklore-mystery-tour": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152920,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "consecutive_failures": 0
     },
     "mystery-quest": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152920,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "last_modified": "Wed, 06 May 2026 21:35:36 GMT"
     },
     "natural-six": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152920,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166412,
       "etag": "\"djEuMi4wOjE3NzgwMDc2Mzk0MzQ=\""
     },
     "the-apocalypse-players": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152920,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166413,
       "etag": "\"698386375994590ddd04569d33aa3fa1\""
     },
     "the-otherplace-an-actual-play-rpg-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152920,
-      "etag": "W/\"5b75f-Qh4lYDCk1xi6T5SJbfAkvt8HRtw\""
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166413,
+      "etag": "W/\"5b75f-Lg7MaySjWR+ThMPGLKd2uPgz1BQ\""
     },
     "the-rpgeeks": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152920,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166413,
       "etag": "\"394adaa6a7e99cbb80bc3579c2f4befa\""
     },
     "the-tabletop-tales": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152920,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166413,
       "etag": "\"90d00e3132260ff7c59c7c73e43c3723\"",
       "last_modified": "Thu, 23 Apr 2026 01:09:25 GMT"
     },
     "the-unexpectables": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152920,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166413,
       "etag": "\"1054e87584bdb31e9ee737012f13dc6d\"",
       "last_modified": "Fri, 01 May 2026 21:52:37 GMT"
     },
     "the-vintage-rpg-podcast": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152920,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166414,
       "etag": "\"3b5fd3527eff8d66c6d080735e66c084\"",
       "last_modified": "Mon, 27 Apr 2026 04:07:22 GMT"
     },
     "time-for-chaos-a-call-of-cthulhu-masks-of-nyarlathotep-campaign": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152921,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166413,
       "etag": "\"djEuMi4wOjE3Nzc2NjU2NDY1MTE=\""
     },
     "tomes-tentacles-call-of-cthulhu-actual-play": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152921,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166414,
       "etag": "\"9768bbd24a59f0aa598cc843f5c59e83\"",
       "last_modified": "Mon, 15 Dec 2025 06:31:32 GMT"
     },
@@ -689,22 +700,22 @@
       "disabled_reason": "3 consecutive failures"
     },
     "we-fix-space-junk": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152921,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166414,
       "last_modified": "Mon, 04 May 2026 06:07:18 GMT"
     },
     "who-lives-who-dice": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152921,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166414,
       "etag": "\"38cf2556dc0e6bb49281209eb5974297\"",
       "last_modified": "Sun, 03 May 2026 08:52:08 GMT"
     },
     "viva-la-dirt-league-d-d": {
-      "last_checked_at": "2026-05-07T11:21:46+00:00",
-      "last_checked_unix": 1778152921,
+      "last_checked_at": "2026-05-07T15:06:40+00:00",
+      "last_checked_unix": 1778166414,
       "last_modified": "Thu, 05 Feb 2026 18:33:12 GMT",
       "etag": "W/\"b031b-bnztaMqwRZQaPnPdvgFKhGNYiFQ\""
     }
   },
-  "updated_at": "2026-05-07T11:21:46+00:00"
+  "updated_at": "2026-05-07T15:06:40+00:00"
 }

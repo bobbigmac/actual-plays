@@ -3,9 +3,11 @@
 - slug: `dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast`
 - source: `https://rss.art19.com/dumbgeons-and-dragons`
 - fetched_at: `2026-05-06T11:22:06+00:00`
-- checked_at: `2026-05-06T11:22:06+00:00`
+- checked_at: `2026-05-07T15:06:40+00:00`
 - last_modified: `Wed, 06 May 2026 07:00:06 GMT`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: `HTTP 503` — Service Unavailable
 
 <!-- FEED_JSON -->
 ```json
@@ -6845,7 +6847,17 @@
         "ship"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-05-07T15:06:40+00:00",
+    "status": "error",
+    "checked_at": "2026-05-07T15:06:40+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 503,
+      "message": "Service Unavailable"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
