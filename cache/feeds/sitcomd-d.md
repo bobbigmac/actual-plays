@@ -3,11 +3,9 @@
 - slug: `sitcomd-d`
 - source: `https://rss.art19.com/sitcom-dnd`
 - fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-05-07T15:06:40+00:00`
+- checked_at: `2026-05-07T17:11:02+00:00`
 - last_modified: `Wed, 22 Oct 2025 00:21:03 GMT`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: `HTTP 503` — Service Unavailable
 
 <!-- FEED_JSON -->
 ```json
@@ -3207,17 +3205,7 @@
       ],
       "topics": []
     }
-  ],
-  "fetch": {
-    "error_since": "2026-05-07T15:06:40+00:00",
-    "status": "error",
-    "checked_at": "2026-05-07T15:06:40+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": 503,
-      "message": "Service Unavailable"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
