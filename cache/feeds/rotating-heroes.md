@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-05-05T14:27:13+00:00`
-- checked_at: `2026-05-05T14:27:13+00:00`
-- etag: `W/"9f729a350ff50ce58fbf1973434942f0"`
-- last_modified: `Fri, 01 May 2026 09:00:00 GMT`
+- fetched_at: `2026-05-07T19:56:31+00:00`
+- checked_at: `2026-05-07T19:56:31+00:00`
+- etag: `W/"542bf6aad9a2164b811e3d7d6449f92a"`
+- last_modified: `Thu, 07 May 2026 17:17:46 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-05-05T14:27:13+00:00",
+  "fetched_at": "2026-05-07T19:56:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,7 +27,7 @@
   "episodes": [
     {
       "key": "ea926894da8b4c976f06f2d1ff49be9ec3a91d8c",
-      "title": "Axis Arc 2 Ep 4 - The Search for 8R-1AN PART 1",
+      "title": "Axis Arc 2 Ep 4: The Search for 8R-1AN PART 1",
       "published_at": "2026-05-01T09:00:00+00:00",
       "link": "https://audioboom.com/posts/8890697",
       "description": "Our crew is scattered as a vengeful Brian 2 is on the prowl and out for blood. Faced with no other choice Sprocket heads into the bowels of the Silver Hawk to put an end to the rouge droid. --- Support the brand new Force of Extinction Backerkit Here! GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
@@ -44,7 +44,7 @@
     },
     {
       "key": "0ae62631e3d56dfb2aee461dd98b6dea7b783a71",
-      "title": "Axis Arc 2 Ep 3 - Through the Looking Glass PART 2",
+      "title": "Axis Arc 2 Ep 3: Through the Looking Glass PART 2",
       "published_at": "2026-04-24T09:00:00+00:00",
       "link": "https://audioboom.com/posts/8890695",
       "description": "Our crew are in a tough spot as they come face to face with themselves! --- Support the brand new Force of Extinction Backerkit Here! GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
@@ -62,7 +62,7 @@
     },
     {
       "key": "e23e651121aa943f7957e8a06c36f90375e2d271",
-      "title": "Axis Arc 2 Ep 3 - Through the Looking Glass PART 1",
+      "title": "Axis Arc 2 Ep 3: Through the Looking Glass PART 1",
       "published_at": "2026-04-17T09:00:00+00:00",
       "link": "https://audioboom.com/posts/8890694",
       "description": "Our crew are in a tough spot as they come face to face with themselves! --- Support the brand new Force of Extinction Backerkit Here! GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
@@ -2599,9 +2599,9 @@
 
 ## Episodes (newest first)
 
-- 2026-05-01 — Axis Arc 2 Ep 4 - The Search for 8R-1AN PART 1
-- 2026-04-24 — Axis Arc 2 Ep 3 - Through the Looking Glass PART 2
-- 2026-04-17 — Axis Arc 2 Ep 3 - Through the Looking Glass PART 1
+- 2026-05-01 — Axis Arc 2 Ep 4: The Search for 8R-1AN PART 1
+- 2026-04-24 — Axis Arc 2 Ep 3: Through the Looking Glass PART 2
+- 2026-04-17 — Axis Arc 2 Ep 3: Through the Looking Glass PART 1
 - 2026-04-10 — Axis Arc 2 Ep 2: The Hangover PART 2 — speakers: Axis Arc
 - 2026-04-03 — Axis Arc 2 Ep 2: The Hangover PART 1 — speakers: Axis Arc
 - 2026-03-27 — Axis Arc 2 Ep 1: Echos of Yesterday PART 2
