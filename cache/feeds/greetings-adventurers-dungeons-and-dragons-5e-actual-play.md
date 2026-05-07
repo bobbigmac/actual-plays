@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-05-06T22:10:21+00:00`
-- checked_at: `2026-05-06T22:10:21+00:00`
-- etag: `"djEuMi4wOjE3NzgxMDE2NTcxNTQ="`
+- fetched_at: `2026-05-07T04:08:32+00:00`
+- checked_at: `2026-05-07T04:08:32+00:00`
+- etag: `"djEuMi4wOjE3NzgxMjE3MzA4NjM="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-05-06T22:10:21+00:00",
+  "fetched_at": "2026-05-07T04:08:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -7669,9 +7669,9 @@
     },
     {
       "key": "8b69184a8a82f89498b1d04f4a68111d288ea39b",
-      "title": "Episode 258 - A Princeling Problem",
+      "title": "A Princeling Problem - C1: E258",
       "published_at": "2018-04-02T17:17:58+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873968",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-princeling-problem-c1-e258",
       "description": "Having narrowly escaped the extreme Pyre Problem due to Lahni's incredible speed, our heroes must decide what to do with their new orb. Orb is strange but also, orb is good. What does the orb want us to know? Is it an orb or is it The Orb? Who knows... Oh look, Queen of Pelor's Hope Ashayara Dayne is sending us a message I'll just take a big sip of bean juice out of my \"Nothing Else Can Go Wrong Mug\" and chat! Podcast art by @killurmonkey ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873968.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FvXaSi4XsUuXJopk7wH1SJAszKEHvPJYuTDErAnsW45c/media.mp3",
@@ -7686,9 +7686,9 @@
     },
     {
       "key": "dc60c596693a0034e2606fa0bf9f1e283acd9f09",
-      "title": "Episode 257 - Gotta Go Fast",
+      "title": "Gotta Go Fast - C1: E257",
       "published_at": "2018-03-26T15:10:22+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873969",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/gotta-go-fast-c1-e257",
       "description": "After meeting our new and good friend, Skud, and defeating his undead master it is time to really dig into what makes this fella tick. Really get into what it means to be Skud. What is that rumbling noise coming from far away? I assume we will have to time chat and that the huge sound coming our way is not a big deal. This seems fair. Podcast art by @Floyd_jpg ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873969.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fw1Du4_oirTcbOLyuTlncme4WVFvXTkP2zlSvcsrYDq4/media.mp3",
@@ -7696,15 +7696,17 @@
       "enclosure_length": "60879098",
       "itunes_duration": "1:03:25",
       "speakers": [
-        "Gotta Go Fast After"
+        "Gotta Go Fast"
       ],
-      "topics": []
+      "topics": [
+        "fast"
+      ]
     },
     {
       "key": "4ab1c151d173072b7697b6490f986a13785bdb60",
-      "title": "Episode 256 - Master Attackers",
+      "title": "Master Attackers - C1: E256",
       "published_at": "2018-03-19T15:05:43+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287396a",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/master-attackers-c1-e256",
       "description": "Well this Skud fella is a little odd, what with the undead everywhere...but he seems nice enough. Hopefully we can continue on our quest without any more interruptions. I feel like I had said this before, but I am sure nothing bad will happen. Especially if we open this door that seems to be barred shut. Oh here it goes... Podcast art by @SuperShinyPanda ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287396a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fe7i8oL0WZNy3VCcZAoua6wU_5b3eKJyDoeOpvua77e0/media.mp3",
@@ -7719,9 +7721,9 @@
     },
     {
       "key": "9742a452d39a32eeb561912bc1b88f6142d0b330",
-      "title": "Episode 255 - To the South, We Go",
+      "title": "To the South, We Go - C1: E255",
       "published_at": "2018-03-12T17:41:17+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287396b",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/to-the-south-we-go-c1-e255",
       "description": "Fortunately, that pesky robot was just a test. A fiendish way to make sure the Tower of Grey is operating at peak efficiency. Now, however, we must travel south to discover new lands and powerful new enemies. As always, I am sure everything will go swell. Podcast art by @Coalbee84 ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287396b.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FWmsiXrzKh-pRTN4rakUqKXaM21hi3q5WEz4YubWaHAU/media.mp3",
@@ -7735,9 +7737,9 @@
     },
     {
       "key": "7a08b638fe4e2d142c35d5fcaf997e67384a3933",
-      "title": "Episode 254 - Tower Crashers",
+      "title": "Tower Crashers - C1: E254",
       "published_at": "2018-03-05T18:38:33+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287396c",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/tower-crashers-c1-e254",
       "description": "Today was supposed to be a nice and relaxing day. Maybe drink some tea and practice a spell or three while Rowan does whatever it is she does all day. But, sure, incredibly scary banks and odd clients and rude robots are a fine way to spend a Monday I guess. At least this Lahnik \"Lahni\" Caplain seems capable. Podcast art by @dekren ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287396c.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FfsAAyMmbhV9GFVZE-7T-KgmB2P5ZeDv_daenEBRPMFg/media.mp3",
@@ -7745,7 +7747,7 @@
       "enclosure_length": "58411049",
       "itunes_duration": "1:00:50",
       "speakers": [
-        "Tower Crashers Today"
+        "Tower Crashers"
       ],
       "topics": [
         "tower",
@@ -7754,9 +7756,9 @@
     },
     {
       "key": "a2678a3acc55de0a469c1114b4757e3042dca103",
-      "title": "Episode 253 - Tower of Grey (Start of Arc 3)",
+      "title": "Tower of Grey (Start of Arc 3) - C1: E253",
       "published_at": "2018-02-26T20:38:11+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287396d",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/tower-of-grey-start-of-arc-3-c1-e253",
       "description": "It has been seven years since the Lich, Sinu the Red, was defeated. The lands of Drunkeros have more or less been at peace. Sure, no one has done anything about Pyre, the ancient red dragon who controls Mastwick. And occasionally a goblin tribe will harass trading caravans or some poor mercenaries may find themselves turning to the other side of the law. But, the scars of the past are being healed. Deephome is prospering under Queens Aludra and Jaela's rule. Pelor's Hope has opened trade to the far corners of the realm under Queen Ashayara Dayne's stern, but loving care. The monkey village is still really happy that Bonanas Foster is gone. Podcast art by @killurmonkey ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287396d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FVK99--y7732AHDQNXmzh8ln_HfyywxKriCxUbGsBJuM/media.mp3",
@@ -7772,16 +7774,18 @@
     },
     {
       "key": "42b1fbb17047aa166606be21c408aa640da05281",
-      "title": "Episode 252 - A History of Heroes Part 2",
+      "title": "A History of Heroes Part 2 - C1: E252",
       "published_at": "2018-02-19T18:41:48+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287396e",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-history-of-heroes-part-2-c1-e252",
       "description": "Thom Harper continues his book report with the help of some of his friends. Unfortunately, Jaela got the flu and couldn't help as much as she wanted. The flu sucks that way. This is an anime-ass-recap episode! We haven't done one of these in forever so we wanted to take a stroll down memory lane as well as refresh our memories. Of course, since this is us, we had to come up with an in world justification for the recap which hope you will enjoy. Podcast art by @emily_aultman ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287396e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F7bU0QcFhcqdFXJwWNLjemw4pnbGCRzCxhheOIuXb5GU/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "652308152",
       "itunes_duration": "56:34",
-      "speakers": [],
+      "speakers": [
+        "Thom Harper"
+      ],
       "topics": [
         "history",
         "heroes"
@@ -7789,9 +7793,9 @@
     },
     {
       "key": "9b76ed0cba26479762e88b0ebdc93d4862d6d37f",
-      "title": "Episode 251 - A History of Heroes Part 1",
+      "title": "A History of Heroes Part 1 - C1: E251",
       "published_at": "2018-02-12T16:02:57+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287396f",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-history-of-heroes-part-1-c1-e251",
       "description": "With no great conflicts to attend to our heroes take a breather and reflect on their time adventuring. The hijinks they have gotten into. The dragons/ dragon affiliated foes that they have fought. All of the hairs that have been tuscled. Truly, it has been a journey and a half. This is an anime-ass-recap episode! We haven't done one of these in forever so we wanted to take a stroll down memory lane as well as refresh our memories. Of course, since this is us, we had to come up with an in world justification for the recap which hope you will enjoy. Podcast art by pizzatoast ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287396f.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FwyZwKM8L93ud8hjSmGR6is_MEVlcYJkU8JFNfgW0HgY/media.mp3",
@@ -7806,9 +7810,9 @@
     },
     {
       "key": "2484b305d69fda6a9c6d2bc40985538029107f69",
-      "title": "Episode 250 - The Return of the Raw Fury Games Part 2",
+      "title": "The Return of the Raw Fury Games Part 2 - C1: E250",
       "published_at": "2018-02-05T15:55:16+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873970",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-return-of-the-raw-fury-games-part-2-c1-e250",
       "description": "The race is afoot! Team White Spire is going through some tough times but they have managed to keep with the pack and avoid being eliminated/ killed. But, if we are being honest, isn't losing to a bunch of jerks worse than death? Armed with Rudolph's powerful songs, and Rollen's overland travel buff, surely our heroes will take first place! Podcast art by @theZachNoll ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873970.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FscyGHtXUFxLPeV0_SY_1N4iPr5eviB2P9VoD3ubGA4s/media.mp3",
@@ -7826,9 +7830,9 @@
     },
     {
       "key": "177f4cec2a0a31605fe4e00b3dc181511165e5ab",
-      "title": "Episode 249 - The Return of the Raw Fury Games",
+      "title": "The Return of the Raw Fury Games - C1: E249",
       "published_at": "2018-01-29T19:18:38+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873971",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-return-of-the-raw-fury-games-c1-e249",
       "description": "With the lands returning to a somewhat normal state of things the Raw Fury Games are once again being hosted in Drunkeros. Deepholme has the esteemed honor of leading the festivities with their newly married Queen heading the event. The delegation from the White Spire has set their eyes on winning this year so they collected the greatest competitors from across the realms to join their team. The Race is on! Podcast art by @Underthesaddle5 ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873971.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FBfil6r9qNypQZtNM-1fuOroJ5frqhYwaYZS1Qutaoxo/media.mp3",
@@ -7844,9 +7848,9 @@
     },
     {
       "key": "36987157b5e4139c6a197b78eb4a159cd8a52edd",
-      "title": "Episode 248 - Hashtag Bride Tribe Part 2",
+      "title": "Hashtag Bride Tribe Part - C1: E248",
       "published_at": "2018-01-22T16:32:03+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873972",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/hashtag-bride-tribe-part-c1-e248",
       "description": "We continue to party and take several trips down memory lane. We are also introduced to the hottest, newest Drunkeros sport. But really, we are all here to celebrate the union of Aludra Wyrmsbane and Jaela, the two greatest gals in this fantastical world. Their wedding gives me hope. It gives me joy. And most importantly, if gives me an excuse to drink a few too many drinks and dance the night away in Deephome. One party is BMed (Bachelorette Master) by Toby and the other is BMed by Steve. As the parties are happening at the same time we will be going back and forth between each party. Please enjoy responsibly. (The episodes were recorded with all of Jaela's party and then all of Aludra's and David spliced them together. We were...much, much drunker in the Aludra party bits since it was an hour or so later.) Podcast art by @theZachNoll ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873972.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FhqMQhq6A2GXWIzlsb6afbMb3KVpFO4RW0oqteQBwjTs/media.mp3",
@@ -7862,9 +7866,9 @@
     },
     {
       "key": "d3109ac9ffb172664582302cc2babbbebdb24019",
-      "title": "Episode 247 - Hashtag Bride Tribe Part 1",
+      "title": "Hashtag Bride Tribe Part 1 - C1: E247",
       "published_at": "2018-01-15T18:30:54+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873973",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/hashtag-bride-tribe-part-1-c1-e247",
       "description": "Jaela and Aludra are getting married! Bride Tribe Bachelorette Party Time Baby! Podcast art by @SuperShinyPanda ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873973.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FwjXdF64Q08gtZ3gK9okUDCJI5_4fzVWBt3aNPwqS_V0/media.mp3",
@@ -7882,9 +7886,9 @@
     },
     {
       "key": "b21a2851cf7cfc370e2d852848f9fac9f57e8dd6",
-      "title": "Episode 246 - Dance of Undeath Part 2",
+      "title": "Dance of Undeath Part 2 - C1: E246",
       "published_at": "2018-01-08T20:25:29+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873974",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/dance-of-undeath-part-2-c1-e246",
       "description": "Quiet. So quiet. After that undead terror, Sinu the Red, uttered but a word Steve fell to the ground using his last ounce of strength to ensure that he did not fall onto his baby which he brought into battle with a beast so strong it is on the cover of both the Dungeon Masters Guide as well as Tomb of Annihilation. Sound escapes him as he is no longer able to hear his two allies scream in unison once they realize what has just happened. Steve is used to death, unfortunately. Why should he be spared its cold grasp just because he has repeatedly cheated the gods of death? A hero deserves more. A hero deserves vengeance. Podcast art by @devinbillyart ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873974.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FN-V5xGmnsInXhjw0MIfjRKv_0jyWm3t3zKFUN5x1GPw/media.mp3",
@@ -7899,9 +7903,9 @@
     },
     {
       "key": "475764634daa991918f533f31ea313921b357509",
-      "title": "Episode 245 - Dance of Undeath",
+      "title": "Dance of Undeath - C1: E245",
       "published_at": "2018-01-01T20:45:18+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873975",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/dance-of-undeath-c1-e245",
       "description": "With the Lich finally revealing itself our brave heroes now have the chance to put this evil to rest, murder style! Something makes me think that Liches are really powerful...maybe maintaining an illusion of a whole town for several days including towns people with personalities. Wait...what did we eat? What about that rad new cocktail everyone is talking about...my god. Podcast art by @YourDarlingSon ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873975.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FBbP6YRH-xstVrtS03v87Z_zi4TEBVLmYuKNNQJJ0kBg/media.mp3",
@@ -7916,45 +7920,44 @@
     },
     {
       "key": "6a9df83a6074500dc05b43fa5064bd85d5c373cf",
-      "title": "Episode 244 - Welcome to Tarry Hallow",
+      "title": "Welcome to Tarry Hallow - C1: E244",
       "published_at": "2017-12-25T15:32:41+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873976",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-tarry-hallow-c1-e244",
       "description": "Finally, some clues we can use to get closer to the truth of this accursed town! Seriously, why do these simple folk have to be so guilty? I am not saying we are the world's greatest detectives but you have to admit that everyone seems a little...off, right? A place like this is liable to turn a good person into a paranoid wreck. The truth feels like it is just a clue or two away. If we could just catch a small break I am sure everything will come to light. Hopefully Teddy is still ok... Podcast art by @IForgetHisName ! Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778117574846-39f63f4d-655d-4b72-8caa-0631b081e5de.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fs36jiOJsHiX9WwjtHVyAeSt7zS9GQsbE7GCERcuEzb0/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62994390",
       "itunes_duration": "1:05:37",
-      "speakers": [
-        "Tarry Hallow Finally"
-      ],
+      "speakers": [],
       "topics": [
-        "welcome",
         "tarry",
         "hallow"
       ]
     },
     {
       "key": "b223cc51bcf12e106cf008b89d2a93a37f43dcc9",
-      "title": "Episode 243 - Where Bones Lie",
+      "title": "Where Bones Lie - C1: E243",
       "published_at": "2017-12-18T15:49:07+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873977",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/where-bones-lie-c1-e243",
       "description": "The mystery of this town gets a little deeper but definitely not clearer. It is hard to help but think that everyone in this town is hiding something from us. Surely, they can't all be guilty...regardless of how suspicious each person appears our goals are to look past it and find Teddy. He is important to finding the Lich and finally easing the undead blight upon this land. Is the Mayor in on it? Is the head of the town guard? What about Teddy's family...Everyone is a suspect. Everyone. Podcast art by @YourDarlingSon ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873977.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FmwmT536gVDhLl8i9SKfv-x1c19GMOIcvb2z2FfDpDno/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70867487",
       "itunes_duration": "1:13:49",
-      "speakers": [],
+      "speakers": [
+        "Where Bones Lie"
+      ],
       "topics": [
         "bone"
       ]
     },
     {
       "key": "02c3dae4c26f73baca78ff84ea07821d9f769d35",
-      "title": "Episode 242 - Where Is That Boy!",
+      "title": "Where Is That Boy! - C1: E242",
       "published_at": "2017-12-11T16:53:52+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873978",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/where-is-that-boy-c1-e242",
       "description": "Putting on a magical robe doesn't always transport you to a magical realm of oddities, but when it does, buddy you got yourself an adventure. With time running out, will our heroes be able to find the missing boy? Is the missing boy in the Astral Plane? Will Toby get his bean? Listen to find out! Podcast art by @thedogleech ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873978.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FpvP0s35mGVrAg6kXZZyfYL3wZDHdAEyW4r617_mJVTA/media.mp3",
@@ -7966,9 +7969,9 @@
     },
     {
       "key": "991ef6459e7037c3c025684b7c9ad5764eb2f11a",
-      "title": "Episode 241 - The Actual Diary of Sinu the Red, Seriously This Time",
+      "title": "The Actual Diary of Sinu the Red, Seriously This Time - C1: E241",
       "published_at": "2017-12-04T18:37:57+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873979",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-actual-diary-of-sinu-the-red-seriously-this-time-c1-e241",
       "description": "Finding the diary of a crazed wizard is a tough thing. Do you read it? Do you read it extra carefully because the wizard may have put strange arcane spells within the dusty pages? You have to read it, of course. There is just too much potential knowledge that you just have to ignore the danger and barrel forward. Libraries and Books are the true dangers of our world, not those pesky dragons or dank dungeons. Podcast art by @YourDarlingSon ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873979.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FRDtlSJs-fikNhED8V7KLbIMrSC-jMR9UQATn8WohJ6I/media.mp3",
@@ -7984,60 +7987,60 @@
     },
     {
       "key": "e27c4b2b1175f776a46ea81121c5499cf658138f",
-      "title": "Episode 240 - The Battle for the Books",
+      "title": "The Battle for the Books - C1: E240",
       "published_at": "2017-11-27T16:33:19+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287397a",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-battle-for-the-books-c1-e240",
       "description": "Actually we just fight a monster but maybe fighting a monster is the real Diary of Sinu the Red and I have never made a mistake? If you think about it? Podcast art by @Rattenkaefig ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287397a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FeAprJzoM4tKhRvaW5Ip40-md4EaOaHvOfaRRZDc38K4/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "620271758",
       "itunes_duration": "53:45",
-      "speakers": [
-        "Books Actually"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
-        "book"
+        "books"
       ]
     },
     {
       "key": "5fe10174dae9010dda33afeca9b37cc5a3b41ce9",
-      "title": "Episode 239 - Into the Crypt Yet Again",
+      "title": "Into the Crypt Yet Again - C1: E239",
       "published_at": "2017-11-20T17:09:14+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287397b",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/into-the-crypt-yet-again-c1-e239",
       "description": "The Crypt of Sinu the Red is one of the top 10 places you just don't go in this world. It may be empty, but various nasties have called that area home over the years so you never really knows what could be in there. Plus, we already know that Denton's boss went in and hasn't come out yet, which is probably bad. But, we will go in anyways. We must save this town! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287397b.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F_XUvSQ17jKUNtsmE8R8RFSlmMSFMNpzDR1_Ilk3vtyg/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62160143",
       "itunes_duration": "1:04:45",
-      "speakers": [],
+      "speakers": [
+        "Crypt Yet Again"
+      ],
       "topics": [
         "crypt"
       ]
     },
     {
       "key": "9a568026c499f271ff77f1292be33a713e648b16",
-      "title": "Episode 238 - For the Kids",
+      "title": "For the Kids - C1: E238",
       "published_at": "2017-11-13T16:25:32+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287397c",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/for-the-kids-c1-e238",
       "description": "Having defeated the army of the dead, the gang starts to learn more about this strange, unfortunate town. As things often go, the plight of the town is summed up by one scared girl asking to find her brother. We are heroes. We are the light in the darkness. We will find this child. Probably. Hopefully it doesn't take to long since the zombies will probably come back the next night. Being a hero sucks. Podcast art by @YourDarlingSon ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287397c.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FWEKFPkhv2v8asL8jXtfBUKgDH3ZrJE8ng6yEZmOHJkg/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63057920",
       "itunes_duration": "1:05:41",
-      "speakers": [
-        "Kids Having"
-      ],
-      "topics": []
+      "speakers": [],
+      "topics": [
+        "kids"
+      ]
     },
     {
       "key": "0bb0cb5737941fc74edbfb34c9154f0f973345f1",
-      "title": "Episode 237 - Defend These Walls, Ye Living Basterds",
+      "title": "Defend These Walls, Ye Living Basterds - C1: E237",
       "published_at": "2017-11-06T17:09:16+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287397d",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/defend-these-walls-ye-living-basterds-c1-e237",
       "description": "The horizon quakes with the sound of buzzing flies and the ground hums with impending doom. The Lich must know we are coming for the undead army sent to stop us is as fearsome as it is massive. Fear not! Your adventurers are hearty. They are swarthy. They are...good at magic and shooting arrows! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287397d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FM6vJS42kareMsvxKhjyPQSwNHugWVVxQh95nsIBnfQg/media.mp3",
@@ -8048,14 +8051,14 @@
       "topics": [
         "walls",
         "living",
-        "basterd"
+        "basterds"
       ]
     },
     {
       "key": "44813f7c5b30da262b258d44f9259ba0d1bc9a6b",
-      "title": "Episode 236 - Journey to the Land of the Undead",
+      "title": "Journey to the Land of the Undead - C1: E236",
       "published_at": "2017-10-30T15:13:34+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287397e",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/journey-to-the-land-of-the-undead-c1-e236",
       "description": "After leaving Aludra, the gang prepares for their journey to face this nasty Lich. Traveling means one thing for our stalwart adventurers - Downtime Activities! Listen as we have one training montage after another of getting pumped and ready to fight some skeletons. Sidebar - undead are the coolest creatures to fight in D&D right? Podcast art by @red_fathom ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287397e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F2AucDmRmTXPKNNW5GJV3LbZC0s-QF_pkQhUFapK5Sic/media.mp3",
@@ -8071,27 +8074,26 @@
     },
     {
       "key": "dcff7baf967620f82d3d1c2e01484fd75a48e5f3",
-      "title": "Episode 235 - Queendom Come",
+      "title": "Queendom Come - C1: E235",
       "published_at": "2017-10-23T20:22:08+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287397f",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/queendom-come-c1-e235",
       "description": "I hate goodbyes but I love tricking out airships so this very special episode causes me a lot of emotions. It is finally time for Aludra to hang that warhammer up and focus on ruling her people. With her semi-retirement (no one believes she will be gone forever) the last of the five sordid adventurers who stumbled their way out of Shadowspar Keep has given up on the adventuring life. Aludra was the lucky one to be still alive, that is for sure, but ruling a divided Dwarven people will not be heavenly bliss. She will be missed but definitely not forgotten. Podcast art by @YourDarlingSon ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287397f.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FBz-cBPZhJO2caTlY0WNo8n6nr0iOvcSBaGc2zkxQ8sc/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67976045",
       "itunes_duration": "1:10:48",
-      "speakers": [
-        "Queendom Come"
-      ],
+      "speakers": [],
       "topics": [
-        "queendom"
+        "queendom",
+        "come"
       ]
     },
     {
       "key": "046de164abe5248d4e6778eed015a61c8b06f12a",
-      "title": "Episode 234 - A Vampire Friend",
+      "title": "A Vampire Friend - C1: E234",
       "published_at": "2017-10-16T15:25:48+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873980",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-vampire-friend-c1-e234",
       "description": "We find ourselves in a reconstructed Pelor's Hope. About four years ago or so. More of our friends were still alive but the wounds from the deaths of others were much fresher. Who do we turn to when it appears like we have no allies that we can trust? Would you make a deal with a monster to protect your people? Lord Titus Harper wants to find out. Podcast art by Floyd_jpg ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873980.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F-iTB9XLS9WA-m9L8Zwly0qI5U7y0gCiP6wpE1yZUpiE/media.mp3",
@@ -8106,9 +8108,9 @@
     },
     {
       "key": "c8649bd8d5cfcebd00733a159afa9527d02a831a",
-      "title": "Episode 233 - A Very Special Mail Bag Episode",
+      "title": "A Very Special Mail Bag Episode - C1: E233",
       "published_at": "2017-10-10T11:58:37+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873981",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-very-special-mail-bag-episode-c1-e233",
       "description": "With another arc in the bag our team realized that the bag mentioned earlier in this sentence was actually a mail bag! So, being smart and kind we opened it and realized that it was you, the smarter and kinder fans, who sent in the mails which gave said previously mentioned bag its name! Podcast art by BrotherToastyCakes on the forums! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873981.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FIy9l5HGoLkGSA3YCmPCg27LeHQf1Hozxy_hLohEYV3A/media.mp3",
@@ -8117,7 +8119,6 @@
       "itunes_duration": "1:24:01",
       "speakers": [],
       "topics": [
-        "special",
         "mail"
       ]
     },
@@ -8146,9 +8147,9 @@
     },
     {
       "key": "1366b3306d8768fb1c57eccfc0b7efe0e0ec9f6c",
-      "title": "Episode 232 - A Slight Gravitational Problem",
+      "title": "A Slight Gravitational Problem - C1: E232",
       "published_at": "2017-09-25T17:03:05+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873983",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-slight-gravitational-problem-c1-e232",
       "description": "Well, we did it. Sometimes success is the difference between you or your foe getting off their signature move. Some days you get the drop. Other days, heck, your enemies must have eaten their fiber bars because they move like a dancer on speed. Now that we got the drop on Jett we have to deal with a slight...gravitational problem. Podcast art by @Floyd_jpg ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873983.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FTjF-ce6xi0ZOu49AMOsjUjcBEqKiHXQghx0kAm_tw5w/media.mp3",
@@ -8156,7 +8157,7 @@
       "enclosure_length": "64338964",
       "itunes_duration": "1:07:01",
       "speakers": [
-        "Slight Gravitational Problem Well"
+        "Slight Gravitational Problem"
       ],
       "topics": [
         "slight",
@@ -8166,9 +8167,9 @@
     },
     {
       "key": "84bdc0519a38bb44fc74cd7e40a8beaa72c060b5",
-      "title": "Episode 231- Jett Razor",
+      "title": "Jett Razor - C1: E231",
       "published_at": "2017-09-18T16:21:45+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873984",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/jett-razor-c1-e231",
       "description": "The time has finally come to face the traitorous Jett Razor. I hate that guy so much. Luckily, we looked some pretty powerful items to assist us in this fight. Hopefully Jett doesn't have similarly powerful items...wait...this is his city. Oh man he is totally going to have like a rocket launcher or something. Well, wish us luck! Podcast art by @IForgetHisName ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873984.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FIoM6ACbHUPQ4nMRc-kO9IIl4K5UkLlS9da2B0ISFRTI/media.mp3",
@@ -8185,9 +8186,9 @@
     },
     {
       "key": "fa544e1bd3ac3ca5e00606f617512a0b908a493d",
-      "title": "Episode 230 - Shrine Time",
+      "title": "Shrine Time - C1: E230",
       "published_at": "2017-09-11T19:28:18+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873985",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/shrine-time-c1-e230",
       "description": "Time to split the party to see how the gang handles challenges by themselves. Each member of our team, plus Tug and Elenor, must pull their weight and not goof up or else all of Glaine, the Jewel of the East, could die! Plus, surely Jett knows his former friends are probably up to something weird, which gives him plenty of time to prepare for us. This all seems like a bad idea... Podcast art by @Rattenkaefig ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873985.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FhjX5dBvbEX2RmXBHQd4GHljIsTn6mBkMrXZV-I4L_4Q/media.mp3",
@@ -8195,7 +8196,7 @@
       "enclosure_length": "767569470",
       "itunes_duration": "1:06:37",
       "speakers": [
-        "Shrine Time Time"
+        "Shrine Time"
       ],
       "topics": [
         "shrine",
@@ -8204,16 +8205,18 @@
     },
     {
       "key": "99204f77b05d30d110cd9060707056dbc180122e",
-      "title": "Episode 229 - A Power Reborn",
+      "title": "A Power Reborn - C1: E229",
       "published_at": "2017-09-04T18:32:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873986",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-power-reborn-c1-e229",
       "description": "Our heroes are well on their way to saving everyone in both a stylish and brave way. Their fame will surely be spread far and wide across the lands. Surely, that won't have any downsides, right? Well at least they get some fun loot from the Armory in Nareev which will make any future complications less complicated. Podcast art by @YourDarlingSon ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873986.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F1N9Mnf809oAOh2_ql9GzCP4IDT7lOkKBwpaci0-sWzo/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "633433542",
       "itunes_duration": "54:55",
-      "speakers": [],
+      "speakers": [
+        "Power Reborn"
+      ],
       "topics": [
         "power",
         "reborn"
@@ -8221,9 +8224,9 @@
     },
     {
       "key": "529e27399b02828b7d976212b9bc301071423964",
-      "title": "Episode 228 - Traps and Treasures",
+      "title": "Traps and Treasures - C1: E228",
       "published_at": "2017-08-28T15:54:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873987",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/traps-and-treasures-c1-e228",
       "description": "With Nareev steadily falling to the warm and inviting location we like to call 'The Ground\" the gang has to frantically solve their current gravity issues. The lives of tens of thousands of innocent people and thousands of more-or-less innocent goo people rest in the hands of our heroes. Podcast art by @YourDarlingSon ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873987.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fo15Hwt8YGVgAFiNZHb503aEGqlaA1lrOOROW7yl5Jrg/media.mp3",
@@ -8238,11 +8241,11 @@
     },
     {
       "key": "d1467325eb36d8c5253b90a1d8a83f1f02b039fc",
-      "title": "Episode 227 - We All Fall Down",
+      "title": "We All Fall Down - C1: E227",
       "published_at": "2017-08-21T19:27:52+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873988",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/we-all-fall-down-c1-e227",
       "description": "Oops. Looks like we really need to grab those items that our good friend whats her name mentioned. The whole \"Bringing back Solani\" thing made us more or less not trust all of her ideas. That is on us. But we have to move fast if we want to save Glaine, the Jewel of the East! Hopefully there aren't many hindrances between us and that book and hat! Podcast art by @Dekren ! Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778118377940-84db6dbb-ca09-4543-bee0-72a55ab2c289.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FWFS4XA8UIOvkEKjUJYKYBGbU-FMvQtTgQB5dIUW08Oc/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75752174",
@@ -8252,9 +8255,9 @@
     },
     {
       "key": "d7e49c1fc8b4be0c264355e94acd8937da317c9f",
-      "title": "Episode 226 - The Temple of Solani",
+      "title": "The Temple of Solani - C1: E226",
       "published_at": "2017-08-14T15:07:43+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873989",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-temple-of-solani-c1-e226",
       "description": "With the mighty fused-together Voltrox defeated, your dudes head into the Temple of Solani to save Glaine, the Jewel of the East. I hope moving all of Nareev is easy. That would be real great. Like, maybe the Orb of Whatever is just super easy to figure out. I can't imagine anything bad will happen if we just kinda try to wing it. Podcast art by @ibplunderin ! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873989.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F886vWPTxPaU3YiQu08uc9QxBgJ4OtTZH_QQXquuMtDU/media.mp3",
@@ -8269,9 +8272,9 @@
     },
     {
       "key": "aac3a20784f20fae4c3b2a50bd2d4bb640d2ba3d",
-      "title": "Episode 225 - Defenders of Nareev",
+      "title": "Defenders of Nareev - C1: E225",
       "published_at": "2017-08-07T16:15:47+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287398a",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/defenders-of-nareev-c1-e225",
       "description": "The Temple of Salanae stands in front of our brave heroes. A thought scratches at the back of each of their minds - are we ready to face the defenders of this sacred place? What terrible defenders block our way? Luckily, past these doors the means to move Nareev will finally be in their hands. This whole goopy mess can put behind them and the traitor Jett Razor can be punished. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287398a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FwABDVnXt1zbQ0Y12Tuj2VkK9GLux0hPjU9kJst8XGEs/media.mp3",
@@ -8280,15 +8283,15 @@
       "itunes_duration": "1:06:33",
       "speakers": [],
       "topics": [
-        "defenders",
+        "defender",
         "nareev"
       ]
     },
     {
       "key": "f4f379e1e78a3ae71ab25ed361cd26c4789f1671",
-      "title": "Episode 224 - Welcome to Hell (GeeklyCon 2017 Liveshow)",
+      "title": "Welcome to Hell (GeeklyCon 2017 Liveshow) - C1: E224",
       "published_at": "2017-07-31T14:42:41+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287398b",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-hell-geeklycon-2017-liveshow-c1-e224",
       "description": "This episode was recorded live in front of an audience at GeeklyCon 2017! We were all dolled up in our outfits and oh did we have just the best time! It was a little sweaty but the surprises kept on rolling so we didn't mind the heat anyways. Oh yeah, it was hot because we went to HELL!!! How are we going to get out of this one?!? Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287398b.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fnc5ay3P14e6O-KQ0OJCbNPZ1frZjPZ-Wq6RaAyoRzXM/media.mp3",
@@ -8304,25 +8307,26 @@
     },
     {
       "key": "de74226886c0e661e2a89134e4f0ad553f628e28",
-      "title": "Episode 223 - The Fighting Falcons",
+      "title": "The Fighting Falcons - C1: E223",
       "published_at": "2017-07-24T21:12:27+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287398c",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-fighting-falcons-c1-e223",
       "description": "In order to save our good bud Yazdir from the Nareevians, our brave heroes must face a huge and powerful enemy. An enemy with big ol' spikes! Luckily, the gang has a few tricks up their sleeves and this prickly foe is about to enter pain city USA. Podcast art by @Coalbee84 ! Music: \"Epic\" by Bensound.com\" Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778118201154-0657f2bc-5d2a-498b-9e71-51711bf5f864.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FMlhPWc9OUM1-sSz33EQ9iUOpxzmvzLfd4HzA6_LImZA/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72527203",
       "itunes_duration": "1:15:33",
       "speakers": [],
       "topics": [
-        "falcon"
+        "fighting",
+        "falcons"
       ]
     },
     {
       "key": "2995bb6af63756f061f4d70917db089f58a6648b",
-      "title": "Episode 222 - Plan C.5",
+      "title": "Plan C.5 - C1: E222",
       "published_at": "2017-07-17T13:23:28+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287398d",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/plan-c5-c1-e222",
       "description": "With the planning phase behind us, it is now time to get down to business. But, we have some time to kill so we attempt to give the entire town depression. A heroes work is never done. Podcast art by Shiny Vulpix Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287398d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FOHcYEGCkS6m4UaXpbffCuYlYm6ibcPGMwka2mTy9LI0/media.mp3",
@@ -8336,9 +8340,9 @@
     },
     {
       "key": "721a2803923ca6ef1716bc52b1f9f4370c30069d",
-      "title": "Episode 221 - A Quest to Save the Great Leader Part 2",
+      "title": "A Quest to Save the Great Leader Part 2 - C1: E221",
       "published_at": "2017-07-10T21:40:19+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287398e",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-quest-to-save-the-great-leader-part-2-c1-e221",
       "description": "Y'all ever get that felling like you are in a cheesy action film? Maybe it is the man with the eye patch. Or maybe it is the blaring guitars in the distance but I will tell you what, this whole \"Save Cheryl she has been kidnapped\" thing sounds familiar. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287398e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fddd2hIM8HeMV5XXhS-rSJnXVh4NjkvtXgKHvkqyiUG8/media.mp3",
@@ -8354,9 +8358,9 @@
     },
     {
       "key": "77254e4f14d9c001b5a2f536deaa8e9666b1c6a5",
-      "title": "Episode 220 - A Quest to Save the Great Leader Part 1",
+      "title": "A Quest to Save the Great Leader Part 1 - C1: E220",
       "published_at": "2017-07-03T19:13:17+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287398f",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-quest-to-save-the-great-leader-part-1-c1-e220",
       "description": "Our rowdy monster crew gets let in on a secret tip that someone very important to them has been snatched. Podcast art by @Rattenkaefig Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287398f.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FRBZjZdPWTtSeZvBV9rxqwPr5kgf6ZtpzXKBBQW6eXq4/media.mp3",
@@ -8372,16 +8376,18 @@
     },
     {
       "key": "ccbe0ef2cb1963e0c1f47be2f1cb3a6822747191",
-      "title": "Episode 219 - My Friend, the Dragon",
+      "title": "My Friend, the Dragon - C1: E219",
       "published_at": "2017-06-26T15:05:26+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873990",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/my-friend-the-dragon-c1-e219",
       "description": "When you meet a new friend you just have to establish a baseline level of trust. Trust is so important these days, what with the dreaded Nareevians taking the shape of potential new friends but they are actually trying to siphon off the magical energies from a nice Elven city and overthrow a city that is often times described as a \"Jewel of the East.\" And, yes, this baseline trust can be the wholesale murder of your enemies, but be sure to keep it within reason. The adventure continues with Steve Melloncamp ( Mike Bachmann ), Aludra Wyrmsbane ( Jennifer Cheek ), Jaela ( Nika Howard ), Toby Treacletart ( Tim Lanning ) and your Dungeon Master ( Michael DiMauro ). Don’t forget to follow our editors Steph Kingston ( @stephokingston ) and David Stewart ( @spudcam )! Podcast art by @IForgetHisName ! Want the world to see your fan art? Tweet it with #DrunksAndDoodles or head on over to the forum . Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873990.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FVaArs87aHqFdItOZ93GJbjPxuZrVtlvg0DHO0J_2kOs/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66356453",
       "itunes_duration": "1:09:07",
-      "speakers": [],
+      "speakers": [
+        "My Friend"
+      ],
       "topics": [
         "friend",
         "dragon"
@@ -8389,9 +8395,9 @@
     },
     {
       "key": "402933b85aeaf7c2be535fff9b177dcdaed8fbf8",
-      "title": "Episode 218 - A Poorly Named Movement",
+      "title": "A Poorly Named Movement - C1: E218",
       "published_at": "2017-06-19T14:11:29+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873991",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-poorly-named-movement-c1-e218",
       "description": "A mysterious stranger meets up with our daring adventurers as they are trying to figure out this strange airship. Will this be a friend? Will this be a foe? Podcast art by @bridgitconnell! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873991.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FmHlOdKoVSZR3ZEyFc267yshLrp3WRl6X8ECydqjkCXE/media.mp3",
@@ -8405,29 +8411,27 @@
     },
     {
       "key": "1a2a46fcaf8d79d592d36be5b12a82196ff8867a",
-      "title": "Episode 217 - The Secrets of the Captain's Quarters",
+      "title": "The Secrets of the Captain's Quarters - C1: E217",
       "published_at": "2017-06-12T13:25:14+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873992",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-secrets-of-the-captains-quarters-c1-e217",
       "description": "All great plans must answer a single question that is often overlooked - how the hell are you going to extract yourself from your current pickle that you have created for yourself? And this is where we find our heroes in today's adventure. Podcast art by @bridgitconnell! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873992.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2Fj11aLKuYiOItPWhtBjCQN1yj8P43Ka-tC-lM6mh7Hnc/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64708858",
       "itunes_duration": "1:07:24",
-      "speakers": [
-        "Quarters All"
-      ],
+      "speakers": [],
       "topics": [
         "secrets",
         "captain",
-        "quarter"
+        "quarters"
       ]
     },
     {
       "key": "81ae1933e8eb4730429289aafd24695e71c8bd92",
-      "title": "Episode 216 – We are Guards",
+      "title": "We are Guards - C1: E216",
       "published_at": "2017-06-05T15:32:12+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873993",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/we-are-guards-c1-e216",
       "description": "With our perfect disguises on we are ready to head into The White Spire with an all expenses paid trip to Nareev. Things are certainly getting tense, what with out goal just a few short feet away. Danger is breathing down our necks. Trust comes slowly since anyone could be a Nareevian agent. But with … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873993.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/https%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D46291/media.mp3",
@@ -8436,14 +8440,14 @@
       "itunes_duration": "1:06:08",
       "speakers": [],
       "topics": [
-        "guard"
+        "guards"
       ]
     },
     {
       "key": "8f71bfc729a8b8626bb90a821b8b5892addf33b3",
-      "title": "Episode 215 – In the Peaceful Land of the Enemy",
+      "title": "In the Peaceful Land of the Enemy - C1: E215",
       "published_at": "2017-05-29T15:15:01+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873994",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/in-the-peaceful-land-of-the-enemy-c1-e215",
       "description": "Glaine, the Jewel of the East, sure is nice for being a town taken over by goo-folks. While people seem to be generally bummed about the whole thing, the magical floating city almost makes the sky more beautiful. Street meat still tastes as good. The alleys still smelly. Sure is odd finding all this normal … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873994.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/https%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D45954/media.mp3",
@@ -8451,8 +8455,7 @@
       "enclosure_length": "61412831",
       "itunes_duration": "1:03:58",
       "speakers": [
-        "Peaceful Land",
-        "Enemy Glaine"
+        "Peaceful Land"
       ],
       "topics": [
         "peaceful",
@@ -8462,43 +8465,43 @@
     },
     {
       "key": "a2048e8def57156da98be313d4b9a6bd2a234a7c",
-      "title": "Episode 214 – A Fighting Chance",
+      "title": "A Fighting Chance - C1: E214",
       "published_at": "2017-05-22T14:17:14+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873995",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-fighting-chance-c1-e214",
       "description": "The wonderful denizens of Tidtowne offered their aid to our desperate heroes who sorely needed a helping hand. Now victory over the forces of Nareev seems somewhat possible as opposed to a 100% suicide mission. The floating magical city is still a mystery, but one victory at a time. The fighting force of Tidtowne should … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873995.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/https%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D45881/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57642002",
       "itunes_duration": "1:00:02",
-      "speakers": [],
+      "speakers": [
+        "Fighting Chance"
+      ],
       "topics": [
         "chance"
       ]
     },
     {
       "key": "338509e67339a67ae3c94d37567a7c28bd48b3fb",
-      "title": "Episode 213 – Hey There, Cheryl",
+      "title": "Hey There, Cheryl - C1: E213",
       "published_at": "2017-05-15T17:23:24+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873996",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/hey-there-cheryl-c1-e213",
       "description": "Facing off against dragons, an army of of shapeshifting cross-planar aliens or an entire colony of Slaad’s pale in comparison to what Steve must face today. Let’s hope that he inherited more of Thom’s resolve than we previously thought, because he will surely need it. How do you prepare yourself for when your one true … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873996.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/https%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D45828/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61158713",
       "itunes_duration": "1:03:42",
-      "speakers": [
-        "Cheryl Facing"
-      ],
+      "speakers": [],
       "topics": [
         "cheryl"
       ]
     },
     {
       "key": "8bd3069104f0414fbf702fc716737b8f8c9ffada",
-      "title": "Episode 212 – Welcome to Tidtowne",
+      "title": "Welcome to Tidtowne - C1: E212",
       "published_at": "2017-05-08T16:30:56+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873997",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-tidtowne-c1-e212",
       "description": "With things moving very rapidly both in and around Glaine, the Jewel of the East, the gang has some tough decisions to make. As always, I s’pose. Adventurers are used to tough decisions. It is their daily bread. After some initial set backs they learn that a mysterious town of…well, not sure how else to … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873997.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/https%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D45761/media.mp3",
@@ -8514,9 +8517,9 @@
     },
     {
       "key": "32d281195ea69cb06795706f4068c0316fbee3d7",
-      "title": "Episode 211 – The Quest to Save Tidtowne, Part 3",
+      "title": "The Quest to Save Tidtowne, Part 3 - C1: E211",
       "published_at": "2017-05-01T20:10:48+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873998",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-quest-to-save-tidtowne-part-3-c1-e211",
       "description": "We conclude our monstrous adventure as the small band of heroes finish up their side-quest, and mostly collect a lot of bones. Marvel as undead are turned for the first time in the history of our podcast, and many, many pits are fallen into. There may even be a bit of a surprise as the end. The adventure continues with … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873998.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/https%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D45700/media.mp3",
@@ -8534,9 +8537,9 @@
     },
     {
       "key": "289c2ce8f54c8730af581dcba35a403368681f3a",
-      "title": "Episode 210 – The Quest to Save Tidtowne, Part 2",
+      "title": "The Quest to Save Tidtowne, Part 2 - C1: E210",
       "published_at": "2017-04-24T18:53:32+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c5780800012873999",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-quest-to-save-tidtowne-part-2-c1-e210",
       "description": "Our small band of monsters continue the side-quest this week. They delve deeper into this unusual crypt that you, the listener, has maybe encountered before? Let’s hope the team doesn’t get too distracted by all the beautiful bones because they still need to save the noble leader of Tidtowne. The adventure continues with Tug (Mike Bachmann), Baz (Jennifer Cheek), … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c5780800012873999.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/https%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D45633/media.mp3",
@@ -8554,9 +8557,9 @@
     },
     {
       "key": "00810bd9d2117eb0b7991ac06454515e4ebe7597",
-      "title": "Episode 209 – The Quest to Save Tidtowne",
+      "title": "The Quest to Save Tidtowne - C1: E209",
       "published_at": "2017-04-17T18:42:06+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287399a",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-quest-to-save-tidtowne-c1-e209",
       "description": "With Timothy missing in action, we have taken on a bit of a side quest this week. We follow a brutish force of monsters as they go on a dangerous quest to save the noble leader of Tidtowne. At first it might not seem like this has a whole lot to do with our main … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287399a.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/https%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D45564/media.mp3",
@@ -8572,27 +8575,26 @@
     },
     {
       "key": "1750ca726b79004cdca176694fac831ef61d5059",
-      "title": "Episode 208 – Clever Girl",
+      "title": "Clever Girl - C1: E208",
       "published_at": "2017-04-10T15:50:04+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287399b",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/clever-girl-c1-e208",
       "description": "Typically, your local library doesn’t like it if you make noise. They hate it if make most of the room explode – even if you are trying to thwart an assassination attempt. But some times these things happen, and there is no way the Nareevians were going to just sit back and wait for our gang of … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287399b.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/https%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D45445/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62722298",
       "itunes_duration": "1:05:20",
-      "speakers": [
-        "Clever Girl Typically"
-      ],
+      "speakers": [],
       "topics": [
+        "clever",
         "girl"
       ]
     },
     {
       "key": "4f0bafc9e0b13c69ffa64939a713a6badcfdf9f0",
-      "title": "Episode 207 – Tea Time",
+      "title": "Tea Time - C1: E207",
       "published_at": "2017-04-03T17:00:16+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287399c",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/tea-time-c1-e207",
       "description": "Please support your local libraries and artisanal grocery stores for they one day may save your very life. For instance, the gang has to find some long lost knowledge and talk to a cup but they are missing ingredients for both. So, they head off to the store and the library. Boom! Easy as that … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287399c.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/https%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D45341/media.mp3",
@@ -8600,7 +8602,7 @@
       "enclosure_length": "74233728",
       "itunes_duration": "1:17:19",
       "speakers": [
-        "Tea Time Please"
+        "Tea Time"
       ],
       "topics": [
         "time"
@@ -8608,9 +8610,9 @@
     },
     {
       "key": "919cec37c1dfcbf804c36da02e85d19542ec9061",
-      "title": "Episode 206 – Regicide & Other Crimes",
+      "title": "Regicide & Other Crimes - C1: E206",
       "published_at": "2017-03-27T17:14:20+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287399d",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/regicide-other-crimes-c1-e206",
       "description": "That Queen Ashayara Dayne really has it out for our heroes. Wonder why? It all seems a little unfair if you ask me. The Courtroom is a different type of battlefield, one that the brave adventurers are not quite used to. Hopefully, nothing too…permanent happens to them. Heck, even being exiled would be terrible, not … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287399d.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D45238/media.mp3",
@@ -8618,7 +8620,7 @@
       "enclosure_length": "64713873",
       "itunes_duration": "1:07:24",
       "speakers": [
-        "Ashayara Dayne"
+        "Other Crimes"
       ],
       "topics": [
         "regicide",
@@ -8627,9 +8629,9 @@
     },
     {
       "key": "c66ea570a7a83f4de40345eb88c235f1b0d923ce",
-      "title": "Episode 205 – Locked Up",
+      "title": "Locked Up - C1: E205",
       "published_at": "2017-03-20T15:39:27+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287399e",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/locked-up-c1-e205",
       "description": "I guess it sorta makes sense the Queen Ashayara Dayne would be mad at us, what with the death of her beloved husband. Sure, it wasn’t our fault but I guess she doesn’t know that. And honestly, this couldn’t have come at a worse time since we came to Pelor’s Hope first on our worldwide … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287399e.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D44845/media.mp3",
@@ -8637,13 +8639,15 @@
       "enclosure_length": "46795962",
       "itunes_duration": "48:44",
       "speakers": [],
-      "topics": []
+      "topics": [
+        "locked"
+      ]
     },
     {
       "key": "bbd55528d3a5eb2a4db3da1d7a974cb91cb9a530",
-      "title": "Episode 204 – Time to Save the World. Again.",
+      "title": "Time to Save the World. Again. - C1: E",
       "published_at": "2017-03-13T15:42:05+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c578080001287399f",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/time-to-save-the-world-again-c1-e",
       "description": "With our weary bones mended and our collective experience enriched the gang is off to save the world yet again. But how! They have no shortage of enemies, but allies, that is another story. Pals, acquaintances, non-murderous rivals – sure, but actual allies…not so many. There are so many options of lukewarm compatriots to choose … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c578080001287399f.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D44651/media.mp3",
@@ -8658,9 +8662,9 @@
     },
     {
       "key": "3d78df9b59132af6a940a9ec8669cf2375c83776",
-      "title": "Episode 203 – A Night in the Gnome Quarter",
+      "title": "A Night in the Gnome Quarter - C1: E203",
       "published_at": "2017-03-06T17:32:10+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739a0",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-night-in-the-gnome-quarter-c1-e203",
       "description": "Heading directly into Nareev seems like some sort of suicide mission, so the gang shows a small bit of restraint and collects their thoughts and energy in Toby’s family home. Turns out, things are mostly fine in Glaine, the Jewel of the East, which is a bit of a shocker after the big tussle just … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739a0.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D44578/media.mp3",
@@ -8668,7 +8672,7 @@
       "enclosure_length": "55255874",
       "itunes_duration": "57:33",
       "speakers": [
-        "Gnome Quarter Heading"
+        "Gnome Quarter"
       ],
       "topics": [
         "night",
@@ -8694,9 +8698,9 @@
     },
     {
       "key": "bac6c01af3427f39fc72b0773ed85f673ecde1e2",
-      "title": "Episode 201- The Reconstructed Hero",
+      "title": "The Reconstructed Hero - C1: E201",
       "published_at": "2017-02-20T17:38:48+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739a2",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-reconstructed-hero-c1-e201",
       "description": "Wow. Just wow. After the horrible betrayal by the traitor Jett Razor the gang is hopeful that the return of Steve the Gnoll will turn their luck around. Wait, do we still call him Steve the Gnoll? That head certainly doesn’t look…Gnoll-ish…He seems powerful and full of goodness so that is a plus. Just the … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739a2.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D44180/media.mp3",
@@ -8713,9 +8717,9 @@
     },
     {
       "key": "df20f60648a826a1a1e23277bebbac6a4f17f5be",
-      "title": "Episode 200 - Battle of the White Spire",
+      "title": "Battle of the White Spire - C1: E200",
       "published_at": "2017-02-13T20:22:05+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739a3",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/battle-of-the-white-spire-c1-e200",
       "description": "After a huge and shocking betrayal, the adventurers seek some good ol’ fashioned revenge. With the White Spire (and more specifically Toby’s house) falling around them as they battle with the Jett and his Nareevian allies the stakes have never been higher. To be betrayed by someone you learned to grudgingly trust…who you helped. Who … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739a3.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D43963/media.mp3",
@@ -8731,16 +8735,18 @@
     },
     {
       "key": "78384a650dd99689a7d7599aec23174fa2b0c600",
-      "title": "Episode 199 – Betrayal in the White Spire",
+      "title": "Betrayal in the White Spire - C1: E199",
       "published_at": "2017-02-06T20:31:43+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739a4",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/betrayal-in-the-white-spire-c1-e199",
       "description": "As we enter the White Spire of Glaine, the Jewel of the East, tensions are running high. What will we find inside? Will we be able to prove our worth? Is my room and all my cool stuff ok? With these thoughts bouncing around in our head we must prepare ourselves for any conflict as … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739a4.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D43894/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68669857",
       "itunes_duration": "1:11:32",
-      "speakers": [],
+      "speakers": [
+        "White Spire"
+      ],
       "topics": [
         "betrayal",
         "white",
@@ -8749,18 +8755,16 @@
     },
     {
       "key": "9c596fb16067606d8c8c232b5514c7213c5f5bb9",
-      "title": "Episode 198 – Welcome to Glaine, the Jewel of the East",
+      "title": "Welcome to Glaine, the Jewel of the East - C1: E198",
       "published_at": "2017-01-31T03:35:15+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739a5",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-glaine-the-jewel-of-the-east-c1-e198",
       "description": "Now that Toby’s magical device has the reagents needed to locate this arcane anomaly the gang heads into Glaine, the Jewel of the East. They have no idea what they are looking for exactly, but often times magical monstrosities of this type are not the best at being subtle. I am sure something will pop … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739a5.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D43766/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64198112",
       "itunes_duration": "1:06:52",
-      "speakers": [
-        "East Now"
-      ],
+      "speakers": [],
       "topics": [
         "glaine",
         "jewel",
@@ -8769,9 +8773,9 @@
     },
     {
       "key": "aa397d9a3bb732f685835110c780c78c871d9072",
-      "title": "Episode 197 – Into the Sewers",
+      "title": "Into the Sewers - C1: E197",
       "published_at": "2017-01-23T18:13:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739a6",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/into-the-sewers-c1-e197",
       "description": "With Jett’s mysterious disappearance, the gang decides to march on and attempt to find the source of this magical disturbance. Much like a a doctor attempting to prevent a major health issue down the road, it is imperative that our heroes find this magical anomaly before it turns into a full on magical apocalypse. Their … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739a6.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D43637/media.mp3",
@@ -8780,14 +8784,14 @@
       "itunes_duration": "1:20:53",
       "speakers": [],
       "topics": [
-        "sewer"
+        "sewers"
       ]
     },
     {
       "key": "0cc9965c639401dd5b9093829f3a77ca36a9fe48",
-      "title": "Episode 196 – Never Meet Your Heroes",
+      "title": "Never Meet Your Heroes - C1: E196",
       "published_at": "2017-01-17T04:49:02+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739a7",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/never-meet-your-heroes-c1-e196",
       "description": "The gang follows the witches advice and make their way to Glaine, the Jewel of the East. They are told to meet a certain young Gnome at a tavern outside the city. Perhaps heading into the city is a little dangerous for this small and pure Gnome so meeting the adventuring group that he, and … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739a7.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D43558/media.mp3",
@@ -8796,7 +8800,7 @@
       "itunes_duration": "1:20:11",
       "speakers": [],
       "topics": [
-        "hero"
+        "heroes"
       ]
     },
     {
@@ -8837,18 +8841,16 @@
     },
     {
       "key": "8c768903a7c74c6c9f0e89d8061cb5a64516871a",
-      "title": "Episode 195 – Meanwhile, In Glaine, the Jewel of the East",
+      "title": "Meanwhile, In Glaine, the Jewel of the East - C1: E195",
       "published_at": "2016-12-19T16:42:29+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739aa",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/meanwhile-in-glaine-the-jewel-of-the-east-c1-e195",
       "description": "Something is a brewin’ in Glaine, the Jewel of the East and our good pal Lex is on the case. Listen to this special episode involving the strange witch from Evening Shire as she meets a new potential ally in these dark times. There will be danger! Intrigue! Lies! At least two small pets! This … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739aa.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D43244/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55564329",
       "itunes_duration": "57:52",
-      "speakers": [
-        "East Something"
-      ],
+      "speakers": [],
       "topics": [
         "glaine",
         "jewel",
@@ -8857,9 +8859,9 @@
     },
     {
       "key": "51b90174d079f12cfbaca19f056f80efaf8a0e3b",
-      "title": "Episode 194 – Bucky, the Best Boy",
+      "title": "Bucky, the Best Boy - C1: E194",
       "published_at": "2016-12-12T16:38:45+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739ab",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/bucky-the-best-boy-c1-e194",
       "description": "Maybe that fight was just the distraction we needed since…well these emotions are almost too much to deal with right now. Who do you fight when you enemies are gone and only your friends are around? I am sure that any pain that comes out of these hastily shouted words will lead to a stronger … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739ab.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D43166/media.mp3",
@@ -8867,7 +8869,7 @@
       "enclosure_length": "49662744",
       "itunes_duration": "51:43",
       "speakers": [
-        "Best Boy Maybe"
+        "Best Boy"
       ],
       "topics": [
         "bucky"
@@ -8875,27 +8877,25 @@
     },
     {
       "key": "ac9a4496d93817c34f7b76d05797875ddea21e39",
-      "title": "Episode 193 – Outside the Tower",
+      "title": "Outside the Tower - C1: E193",
       "published_at": "2016-12-06T03:28:25+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739ac",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/outside-the-tower-c1-e193",
       "description": "After the…extreme…events of the last non-mailbag episode, the gang has to face what they just saw and learn to live with the grief. Well, they would, if there wasn’t a dang commotion going on outside Longcryer’s tower. Seriously, who makes a ruckus when you are in mourning? Hopefully our best friends / adopted Githyanki son … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739ac.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D42443/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54960794",
       "itunes_duration": "57:15",
-      "speakers": [
-        "Tower After"
-      ],
+      "speakers": [],
       "topics": [
         "tower"
       ]
     },
     {
       "key": "7c9789c422f6b931adf51f9463a56d6801d5ad13",
-      "title": "Episode 192 – Mailbageddon",
+      "title": "Mailbageddon - C1: E192",
       "published_at": "2016-11-21T22:20:43+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739ad",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/mailbageddon-c1-e192",
       "description": "It has been about 40 episodes since we had a Mail Bag episode so we figured now would be the best time to gather around the e-fire and answer some of your burning questions. We also touch a bit on the events of the previous episodes in order to gain a small semblance of closure. … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739ad.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D42077/media.mp3",
@@ -8911,9 +8911,9 @@
     },
     {
       "key": "9c62ed3487d7ba4d4fefdc63628abbbaa279f40b",
-      "title": "Episode 191 – Mixed Messages",
+      "title": "Mixed Messages - C1: E191",
       "published_at": "2016-11-14T18:27:44+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739ae",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/mixed-messages-c1-e191",
       "description": "Now that Askur is out of the way no one stands before us and our goal of eliminating Longcryer. So much of what we have done has lead us to this moment, even if it was just a side quest. While it is possible that Longcryer has some sort of information about who is trying to destabilize … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739ae.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D41865/media.mp3",
@@ -8922,14 +8922,14 @@
       "itunes_duration": "1:10:29",
       "speakers": [],
       "topics": [
-        "message"
+        "messages"
       ]
     },
     {
       "key": "8e5de0a3c81996c647c228b1e029d02b1486a8f2",
-      "title": "Episode 190 – Losing Control",
+      "title": "Losing Control - C1: E190",
       "published_at": "2016-11-07T16:56:46+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739af",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/losing-control-c1-e190",
       "description": "Harper seems real angry at this staff wielding dwarf. Also, why does this dude have this “I can kick you butt all over Drunkeros with one hand tied behind my back” grin on his face? It is obvious that he is powerful in the magical arts, but against all of us? Ha! I will enjoy … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739af.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D41691/media.mp3",
@@ -8937,7 +8937,7 @@
       "enclosure_length": "69784554",
       "itunes_duration": "1:12:41",
       "speakers": [
-        "Losing Control Harper"
+        "Losing Control"
       ],
       "topics": [
         "control"
@@ -8945,9 +8945,9 @@
     },
     {
       "key": "01af6ddfa44c33c6fb5d1c9442d916b3645a632c",
-      "title": "Episode 189 – A Ghostly Voice",
+      "title": "A Ghostly Voice - C1: E189",
       "published_at": "2016-10-31T18:08:49+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739b0",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-ghostly-voice-c1-e189",
       "description": "Well…that was weird… Harper is back but he is acting a little strange. Did he always, you know, speak in a garbled disembodied female voice and then have no recollection of it? Maybe he got into Jett”s bag of “Candy! Not a Drug, Mate” that we all know contains almost no candy. We are all … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739b0.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D41541/media.mp3",
@@ -8962,9 +8962,9 @@
     },
     {
       "key": "754f611e5064ff9b287aa49664e881574057fa22",
-      "title": "Episode 188 – A Dark Past Part 2",
+      "title": "A Dark Past Part 2 - C1: E188",
       "published_at": "2016-10-24T16:22:16+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739b1",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-dark-past-part-2-c1-e188",
       "description": "Things are going fairly terribly for ol’ Titus and Camille but at least there is a seed of hope that escape is possible. Sure, we all know that a happy ending is unlikely, but surely a bitter-sweet one is more than possible, right? There situation is grim, though…so, who knows how they are going to … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739b1.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D41492/media.mp3",
@@ -8979,9 +8979,9 @@
     },
     {
       "key": "d6802ef0a7a832f678df77606447a49010a021ab",
-      "title": "Episode 187 – A Dark Past",
+      "title": "A Dark Past - C1: E187",
       "published_at": "2016-10-17T17:37:47+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739b2",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-dark-past-c1-e187",
       "description": "Ok, I guess we should have guessed that Harper would have some sort of … something after entering Longcryer’s tower. If we were the betting type “grabbing head and passing out” should have been a fairly safe bet. What horrors are going through his mind right now? What internal battles fought long ago are being … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739b2.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D41411/media.mp3",
@@ -8996,9 +8996,9 @@
     },
     {
       "key": "ed3b028f27263fc5c39060c49250e151d97f1fff",
-      "title": "Episode 186 – New Models",
+      "title": "New Models - C1: E186",
       "published_at": "2016-10-10T18:37:33+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739b3",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/new-models-c1-e186",
       "description": "Three newer “Harper” models huh? If one wasn’t bad enough now there are three more ab-having sorcerers to deal with? Just great. Who knows what Longcryer has done to these people so we must be on our guard. Maybe they are not as bad as they look. They look like they want to hurt us … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739b3.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D41359/media.mp3",
@@ -9006,26 +9006,24 @@
       "enclosure_length": "56299520",
       "itunes_duration": "58:38",
       "speakers": [
-        "New Models Three"
+        "New Models"
       ],
       "topics": [
-        "model"
+        "models"
       ]
     },
     {
       "key": "106681d691e8e6a31cf242f1f8d16abea5fceda7",
-      "title": "Episode 185 – Protege Problems",
+      "title": "Protege Problems - C1: E185",
       "published_at": "2016-10-03T15:25:39+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739b4",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/protege-problems-c1-e185",
       "description": "Wow, we sure did dispense justice on those Orcs. Violence isn’t always the way things should go, but in order to protect people sometimes you have to fight. If I were one to bet, violence is the only option for the way this Longcryer situation will go down. Just have to get past those sneaky … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739b4.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D41259/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70781387",
       "itunes_duration": "1:13:44",
-      "speakers": [
-        "Protege Problems Wow"
-      ],
+      "speakers": [],
       "topics": [
         "protege",
         "problems"
@@ -9033,9 +9031,9 @@
     },
     {
       "key": "d4e6a9c0a201df8709c6eb788c6c7d82e327ae66",
-      "title": "Episode 184 – Orc, Orc and Orc",
+      "title": "Orc, Orc and Orc - C1: E184",
       "published_at": "2016-09-26T15:15:01+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739b5",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/orc-orc-and-orc-c1-e184",
       "description": "While your brave adventurers are a little on edge, you must admit that the death of a small boy is cause for alarm! Sure, it is possible that we are overreacting. And, well, maybe it is more than a little self-centered to think that every death that happens when we are around is due to … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739b5.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D41220/media.mp3",
@@ -9047,9 +9045,9 @@
     },
     {
       "key": "936f68a848373eea551f1b44d22988cce5c15c23",
-      "title": "Episode 183 – Welcome to Brexleyshire",
+      "title": "Welcome to Brexleyshire - C1: E183",
       "published_at": "2016-09-19T14:31:25+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739b6",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-brexleyshire-c1-e183",
       "description": "Brexleyshire was supposed to be a quick pit stop but something seems strange in this simple town. While we cannot delay we also cannot forget that there is a murderer in our midst. No telling if it has anything to do with the attacked caravan or even Glaine, the Jewel of the East. Something sure … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739b6.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D41155/media.mp3",
@@ -9063,16 +9061,19 @@
     },
     {
       "key": "c7fa31ca934b281e1ac72f0b5efa1af352763cc2",
-      "title": "Episode 182 – Another Lake, Another Caravan",
+      "title": "Another Lake, Another Caravan - C1: E182",
       "published_at": "2016-09-12T17:11:47+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739b7",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/another-lake-another-caravan-c1-e182",
       "description": "I love the feeling that you get when you start a new adventure! As adventurers moving on to the next big quest is pretty much our job. Saving the world one evil cult or murderous monster at a time. But, it is always important to use these transition times to reflect and to grow closer … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739b7.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D41111/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62701400",
       "itunes_duration": "1:05:18",
-      "speakers": [],
+      "speakers": [
+        "Another Lake",
+        "Another Caravan"
+      ],
       "topics": [
         "lake",
         "caravan"
@@ -9080,9 +9081,9 @@
     },
     {
       "key": "dc4967ac688e8891afec1c3227f3f1614af2e8eb",
-      "title": "Episode 181 – The War of Wyrmsbane Keep Part 6",
+      "title": "The War of Wyrmsbane Keep Part 6 - C1: E181",
       "published_at": "2016-09-05T16:41:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739b8",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-war-of-wyrmsbane-keep-part-6-c1-e181",
       "description": "With the Oakback forces extremely defeated it is time to figure out what this Deephome place is going to look like going forward. There are some tough choices to be made, that is for sure. Plus, tensions, naturally are running really high. Wars can do that. Unfortunately, even once this tricky problem is solved there … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739b8.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D41050/media.mp3",
@@ -9096,9 +9097,9 @@
     },
     {
       "key": "d29a503c4891bee0eec05c7ac33feaf24854a2db",
-      "title": "Episode 180 – The War of Wyrmsbane Keep Part 5",
+      "title": "Episode 180 – The War of Wyrmsbane Keep Part 5 - C1: E180",
       "published_at": "2016-08-29T14:08:07+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739b9",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/episode-180-the-war-of-wyrmsbane-keep-part-5-c1-e180",
       "description": "Tensions are running pretty high between the new Queen Wyrmsbane and the rebel Oakback forces. These Oakbacks…they are the worst. They think they can make demands of Aludra when they are 1) the reason things are so terrible 2) are utterly defeated on the army front. Some folks are just turds and cannot see the … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739b9.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D40917/media.mp3",
@@ -9114,9 +9115,9 @@
     },
     {
       "key": "059ee8e055ba28ac656d42252e522adc1eda2e9a",
-      "title": "Episode 179 – The War of Wyrmsbane Keep Part 4",
+      "title": "The War of Wyrmsbane Keep Part 4 - C1: E179",
       "published_at": "2016-08-22T17:45:23+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739ba",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-war-of-wyrmsbane-keep-part-4-c1-e179",
       "description": "Unfortunately, we already used the title “The Wrongest We Ever Got It” since I think this is technically the wronger we have ever got it. We made a quick and daring decision and it…well…I don’t want to spoil it. Things go from bad to worse as we fight this tank thing and that is all … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739ba.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D40816/media.mp3",
@@ -9130,9 +9131,9 @@
     },
     {
       "key": "a6b5ccbc69aae3a20b56f03cb5d90331d41018ae",
-      "title": "Episode 178 – The War of Wyrmsbane Keep Part 3",
+      "title": "The War of Wyrmsbane Keep Part 3 - C1: E178",
       "published_at": "2016-08-15T15:13:36+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739bb",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-war-of-wyrmsbane-keep-part-3-c1-e178",
       "description": "The victory over the Oakback troops is short lived since, well, there is still that tank thing causing mayhem. With our heroes already in pain this dreadnaught will be a tough foe indeed. Will overconfidence be the downfall of all that they have strived to achieve? Will they all just die? Probably not, but listen … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739bb.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D40689/media.mp3",
@@ -9146,9 +9147,9 @@
     },
     {
       "key": "cb373ae8148908af8101ee6b85beee1adef4cd4b",
-      "title": "Episode 177 – The War of Wyrmsbane Keep Part 2",
+      "title": "The War of Wyrmsbane Keep Part 2 - C1: E177",
       "published_at": "2016-08-08T21:50:26+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739bc",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-war-of-wyrmsbane-keep-part-2-c1-e177",
       "description": "The battle rages on as our stalwart heroes take on a host of Dwarven and Elemental warriors! While they are doing amazing damage is it enough to best these hearty foes!?! Most likely, but who knows… Honestly, these enemies are punks and I pity them for having to fight. Fools. The adventure continues with Titus … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739bc.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D40640/media.mp3",
@@ -9162,9 +9163,9 @@
     },
     {
       "key": "aa83fcb001ceae2bb7abb043cc132b87e1f68dc6",
-      "title": "Episode 176 – The War of Wyrmsbane Keep Part 1",
+      "title": "The War of Wyrmsbane Keep Part 1 - C1: E176",
       "published_at": "2016-08-01T17:29:12+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739bd",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-war-of-wyrmsbane-keep-part-1-c1-e176",
       "description": "Bam! Teleported into the middle of a battle. Arrows and magic fly by our heads and kill our new best friends. Their is a loud noise coming from a huge mechanical…thing. Elemental creatures slam the fortifications of Wyrmsbane keep. This sucks so bad. Why did we come back here? Right, gotta save the Buckster. And … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739bd.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D40605/media.mp3",
@@ -9178,9 +9179,9 @@
     },
     {
       "key": "7eddad03b317184602b927cc37348414683546ae",
-      "title": "Episode 175 – Two Steps Forward",
+      "title": "Two Steps Forward - C1: E175",
       "published_at": "2016-07-25T20:04:21+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739be",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/two-steps-forward-c1-e175",
       "description": "News of a friend in danger reaches our heroes and makes them feel like big idiots. This totally ruins their plan of “making everyone love us” that they so lovingly crafted. Turns out that this world is still full of many dangers. Dangers that exist not just in a city of elves but also a … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739be.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D40544/media.mp3",
@@ -9188,18 +9189,18 @@
       "enclosure_length": "63735013",
       "itunes_duration": "1:06:23",
       "speakers": [
-        "Two Steps Forward News"
+        "Two Steps Forward"
       ],
       "topics": [
-        "step",
+        "steps",
         "forward"
       ]
     },
     {
       "key": "d18aec3aa11b261c0d1115a101adeec17de3ea66",
-      "title": "Episode 174 – The Wrongest We Ever Got It",
+      "title": "The Wrongest We Ever Got It - C1: E174",
       "published_at": "2016-07-19T03:49:37+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739bf",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-wrongest-we-ever-got-it-c1-e174",
       "description": "The gang makes a snap decision that…may be a horrible idea. In fact, the extent to how wrong they got it takes the entire episode to sink in. No matter, as adventurers sometimes you must make snap judgments or various decisions that have lasted effects on many peoples lives. That being said [redacted], we are … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739bf.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D40485/media.mp3",
@@ -9207,13 +9208,15 @@
       "enclosure_length": "58782615",
       "itunes_duration": "1:01:14",
       "speakers": [],
-      "topics": []
+      "topics": [
+        "wrongest"
+      ]
     },
     {
       "key": "be24ffbd745c4916406fb758d80e8bfd53c07810",
-      "title": "Episode 173 – A Guttural Reaction",
+      "title": "A Guttural Reaction - C1: E173",
       "published_at": "2016-07-11T18:52:04+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739c0",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-guttural-reaction-c1-e173",
       "description": "While trying to figure out just what the deal is with this worm…village we are attacked by some rude bat things. The mushroom folks just kinda hid, which was rude, but we, as your brave heroes, rose to the occasion and defended the defenseless. Kipper will never die, this is our promise. The adventure continues … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739c0.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D39718/media.mp3",
@@ -9228,9 +9231,9 @@
     },
     {
       "key": "5d807d99186faf6898e50dca565be04b14703fa6",
-      "title": "Episode 172 – Into the Worm Hole",
+      "title": "Into the Worm Hole - C1: E172",
       "published_at": "2016-07-04T20:02:15+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739c1",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/into-the-worm-hole-c1-e172",
       "description": "Oh no! Your adventurers are falling and they can’t get up! Will the gang get eaten by this huge worm creature? Most likely! Will everyone die? Probably, yeah. Basically this worm is taking up a huge amount of their brain horse power. And the teeth are a nightmare to boot. Hopefully you understand that the … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739c1.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D39225/media.mp3",
@@ -9238,7 +9241,7 @@
       "enclosure_length": "52180114",
       "itunes_duration": "54:21",
       "speakers": [
-        "Worm Hole Oh"
+        "Worm Hole"
       ],
       "topics": [
         "worm",
@@ -9247,9 +9250,9 @@
     },
     {
       "key": "09c835e7034a1ac6493479616ad577a7563071a0",
-      "title": "Episode 171 – Trials of the Underdark *Now with Video*",
+      "title": "Trials of the Underdark *Now with Video* - C1: E171",
       "published_at": "2016-06-29T04:30:51+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739c2",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/trials-of-the-underdark-now-with-video-c1-e171",
       "description": "This adventure was recorded live in front of a studio audience. We had a blast doing our show and actually seeing folks react. It was weird. A good weird. Anyways, our adventurers meet an old friend and split the party while trying to continue to survive in the Underdark. The adventure continues with Titus Harper … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739c2.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D39125/media.mp3",
@@ -9258,16 +9261,16 @@
       "itunes_duration": "45:34",
       "speakers": [],
       "topics": [
-        "trials",
+        "trial",
         "underdark",
         "video"
       ]
     },
     {
       "key": "50517b5bc2b61641a7004224086d358115f8ac85",
-      "title": "Episode 170 – The Murderer",
+      "title": "The Murderer - C1: E170",
       "published_at": "2016-06-06T19:00:03+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739c3",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-murderer-c1-e170",
       "description": "Looks like this murderer got himself captured by a drider. What a fool! We have him right were we want him, encased in spider webs. Hopefully capturing this murderer will help clear Jaela’s name and then we can all return to Deephome as heroes. That is the plan anyways… The adventure continues with Titus Harper … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739c3.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D38897/media.mp3",
@@ -9281,9 +9284,9 @@
     },
     {
       "key": "3ff9f20799e9be810760917e23cbedfe6fcf6549",
-      "title": "Episode 169 – The Unknown Horrors of the Underdark",
+      "title": "The Unknown Horrors of the Underdark - C1: E169",
       "published_at": "2016-05-31T01:41:13+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739c4",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-unknown-horrors-of-the-underdark-c1-e169",
       "description": "The Underdark is really bad and, if we are being honest, it sucks. Sure, we met one nice pal, but there is a chance this nice pal is bad? Well not bad, that is just the stress of the Underdark talking, but he is definitely intense. Anyways, more things try to kill us but the … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739c4.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D38795/media.mp3",
@@ -9298,9 +9301,9 @@
     },
     {
       "key": "794f3252c51bd50fa530fd035ec7f1f60c7a6fcd",
-      "title": "Episode 168 – Fish, Foe or Friend",
+      "title": "Fish, Foe or Friend - C1: E168",
       "published_at": "2016-05-23T19:01:21+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739c5",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/fish-foe-or-friend-c1-e168",
       "description": "Hot on the trail of Murder Person, the gang meets a new…thing in the Underdark. They probably shouldn’t trust this…thing, but they probably will. Sometimes you gotta listen to whatever new information you have. It is part of being a good detective. Will these brave heroes survive long enough to regret their decision? The adventure … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739c5.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D38613/media.mp3",
@@ -9317,9 +9320,9 @@
     },
     {
       "key": "9fdd172f6a2c6fdc370ce153f19cadcbd5fcca09",
-      "title": "Episode 167 – A Fungal Fright",
+      "title": "A Fungal Fright - C1: E167",
       "published_at": "2016-05-16T18:09:22+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739c6",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-fungal-fright-c1-e167",
       "description": "Going into the Underdark is usually a bad idea, but you have to make bad and poor choices for your friends sometimes. That is what friendship is all about. While I do feel like 90% of our actions are driven by “my pal needs help, so I guess I will almost get murdered every couple … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739c6.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D38506/media.mp3",
@@ -9327,7 +9330,7 @@
       "enclosure_length": "69186455",
       "itunes_duration": "1:12:04",
       "speakers": [
-        "Fungal Fright Going"
+        "Fungal Fright"
       ],
       "topics": [
         "fungal",
@@ -9336,9 +9339,9 @@
     },
     {
       "key": "40f19e135df526ddbab156a0c0d1d08933a95285",
-      "title": "Episode 166 – On the Trail of a Magical Murderer",
+      "title": "On the Trail of a Magical Murderer - C1: E166",
       "published_at": "2016-05-09T17:46:46+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739c7",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/on-the-trail-of-a-magical-murderer-c1-e166",
       "description": "Turns out this bloody murderer is causing much havoc in Deephome. Lying about Jaela. Killing folks in a magical way. Terrible time to visit now that I think about it. No matter, we have work to do and we will catch this monster and bring them to justice. It is the only way to save … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739c7.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D38329/media.mp3",
@@ -9354,9 +9357,9 @@
     },
     {
       "key": "c91e4c60b8782e95e5baed0fd8d5d872fddcce57",
-      "title": "Episode 165 – Bird-er Mystery",
+      "title": "Bird-er Mystery - C1: E165",
       "published_at": "2016-05-02T18:45:25+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739c8",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/bird-er-mystery-c1-e165",
       "description": "Well, crap. This whole trip has been one thing after another but this whole Balder being murdered bit takes the cake! Honestly, what are we going to do? We are trapped underground with thousands of angry dwarves with the only exits heavily guarded. Plus, they think Jaela did it! We brought Jaela into their city … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739c8.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D37892/media.mp3",
@@ -9371,9 +9374,9 @@
     },
     {
       "key": "e921e557738c997fc5f50cf93140e87b40049c0b",
-      "title": "Episode 164 – Baldergate",
+      "title": "Baldergate - C1: E164",
       "published_at": "2016-04-18T19:46:31+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739c9",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/baldergate-c1-e164",
       "description": "Bringing Jaela to Deephome was a risk but it most likely will not blow up in our faces. You have to take risks for people sometimes and double that if your saved the world together. Plus, Aludra deserves to see Jaela one last time. Sure, it will make things more complicated, but sometimes you have … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739c9.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D37416/media.mp3",
@@ -9381,7 +9384,7 @@
       "enclosure_length": "56849136",
       "itunes_duration": "59:13",
       "speakers": [
-        "Baldergate Bringing Jaela"
+        "Bringing Jaela"
       ],
       "topics": [
         "baldergate"
@@ -9389,9 +9392,9 @@
     },
     {
       "key": "5480ea5ee1c43ab55269c40f219ca1de320a5b69",
-      "title": "Episode 163 – Welcome to Deephome",
+      "title": "Welcome to Deephome - C1: E163",
       "published_at": "2016-04-11T15:38:10+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739ca",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-deephome-c1-e163",
       "description": "The gang is finally reaching their destination of Deephome, but are they truly ready to face the sins of their past. It is widely known that Jaela is extremely not invited to Aludra’s wedding which is currently the biggest pickle that needs to be overcome. Maybe Jaela and the rest are not ready to face … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739ca.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D37109/media.mp3",
@@ -9399,13 +9402,15 @@
       "enclosure_length": "69071098",
       "itunes_duration": "1:11:57",
       "speakers": [],
-      "topics": []
+      "topics": [
+        "deephome"
+      ]
     },
     {
       "key": "1e45fa0b3f4f524ef98aa36ea1fc700b65289843",
-      "title": "Episode 162 – The Dangerous Life of a Musician",
+      "title": "The Dangerous Life of a Musician - C1: E162",
       "published_at": "2016-04-04T19:44:13+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739cb",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-dangerous-life-of-a-musician-c1-e162",
       "description": "Our main man Jett Razor is up to his neck in debt so things get dicey. Let’s just say we are in a bar and … a certain amount of brawling ensues. Which is nice. Our old bones have been craving a bar based tussle for many years. Feels great getting back into the swing … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739cb.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D36940/media.mp3",
@@ -9422,9 +9427,9 @@
     },
     {
       "key": "b2c05f2c79cd8ee88d2fe6772f5c8c346fc3caed",
-      "title": "Episode 161 – Welcome to Calsten",
+      "title": "Welcome to Calsten - C1: E161",
       "published_at": "2016-03-28T18:49:16+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739cc",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/welcome-to-calsten-c1-e161",
       "description": "The gang sorted out their stowaway issue so they headed full speed ahead to Calsten to pick up Bucky’s favorite bard – the famous Jett Razor. Things are not perfect and sunny in the port city what with the rumors of an incurable disease floating about. Mostly whispers and gossip surround this mysterious sickness some are calling … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739cc.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D36714/media.mp3",
@@ -9432,7 +9437,9 @@
       "enclosure_length": "67062804",
       "itunes_duration": "1:09:51",
       "speakers": [],
-      "topics": []
+      "topics": [
+        "calsten"
+      ]
     },
     {
       "key": "673712d961454433316dcfeb34d9b9ef6ac6829f",
@@ -9474,9 +9481,9 @@
     },
     {
       "key": "4c4e9f3f31cd6455d23283fb0609fcf19cb06540",
-      "title": "Episode 158 – A Deep One Rises",
+      "title": "A Deep One Rises - C1: E158",
       "published_at": "2016-03-07T18:26:36+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739cf",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-deep-one-rises-c1-e158",
       "description": "Dang. Our friggin beautiful ship is all broke and stranded. Broke like our spirits after we lost a dear crew member. Unfortunately we cannot take a breath or even begin to repair the ship for there appears to be some strange beast rising from the ocean. It looks somewhat like a large “fry kid” but … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739cf.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D36389/media.mp3",
@@ -9484,7 +9491,7 @@
       "enclosure_length": "55696404",
       "itunes_duration": "58:01",
       "speakers": [
-        "Deep One Rises Dang"
+        "Deep One Rises"
       ],
       "topics": [
         "deep"
@@ -9492,9 +9499,9 @@
     },
     {
       "key": "18e044afd6cf8a82dcf9c414ca1f7d6a06e375b8",
-      "title": "Episode 157 – Storm’s A-Brewin’",
+      "title": "Storm’s A-Brewin’ - C1: E157",
       "published_at": "2016-02-29T19:00:57+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739d0",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/storms-a-brewin-c1-e157",
       "description": "In this episode we learn a few hard truths about Aludra’s betrothed and are left feeling…somehow worse. Turns out he situation is complicated. Who would have guessed? Meanwhile, in Pelor’s Hope, Jaela, Harper and Bearcharger prepare to make their way to Deephome. Somehow something bad happens to them and well…I will not spoil it here…but … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739d0.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D36282/media.mp3",
@@ -9509,9 +9516,9 @@
     },
     {
       "key": "047118cc7ebb7d1e5308fd317fcfbebc71f6e29d",
-      "title": "Episode 156 – Life Goes On (Start of Arc 2)",
+      "title": "Life Goes On (Start of Arc 2) - C1: E156",
       "published_at": "2016-02-22T16:11:43+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739d1",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/life-goes-on-start-of-arc-2-c1-e156",
       "description": "Well, the quest has been completed and the world is now a much safer place. Unfortunately, the challenges that our heroes face do not stop on doorstep of that accursed, egg shaped fortress. Life goes on and life has a tendency to offer the greatest challenges for most mortals. Challenges that a sword or a … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739d1.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D36053/media.mp3",
@@ -9526,9 +9533,9 @@
     },
     {
       "key": "ff28cfe0283ba88683b00594082b774953349ee4",
-      "title": "Episode 155 – Mailbagathon!",
+      "title": "Mailbagathon! - C1: E155",
       "published_at": "2016-02-15T20:00:37+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739d2",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/mailbagathon-c1-e155",
       "description": "We are now delivering to you a beautiful baby mailbagathon! As we transition from our first 154 episodes it felt like it made sense to take a collective breath and to touch base with the listeners questions. So grab yourself a cool glass of water and prepare to hear our answers to many various questions. … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739d2.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D35868/media.mp3",
@@ -9542,9 +9549,9 @@
     },
     {
       "key": "3b820094c0952d0025cb3abbeb32216179e41de1",
-      "title": "Episode 154 – The Battle Above the Abyss Part 4",
+      "title": "The Battle Above the Abyss Part 4 - C1: E154",
       "published_at": "2016-02-01T14:49:23+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739d3",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-battle-above-the-abyss-part-4-c1-e154",
       "description": "We have put it off as long as we could but there is not turning back from fate, I guess. All of the other avenues we explored didn’t pan out so it looks like there is no other choice but to swing this hammer to save the world. We four adventurers knew this day was … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739d3.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D35443/media.mp3",
@@ -9559,9 +9566,9 @@
     },
     {
       "key": "9e87600e873162a1eff68b881a6d28a1af8ae63b",
-      "title": "Episode 153 – The Battle Above the Abyss Part 3",
+      "title": "The Battle Above the Abyss Part 3 - C1: E153",
       "published_at": "2016-01-25T17:36:23+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739d4",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-battle-above-the-abyss-part-3-c1-e153",
       "description": "This hulking horror seems familiar… but how can this be possible? Sure, we know that this fortress would have a few nightmares stored up its sleeve, but this?! No matter. This is just one more obstacle to overcome on our quest to save the world. Naturally, we will not go easy on this monstrosity. Tum … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739d4.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D35282/media.mp3",
@@ -9576,9 +9583,9 @@
     },
     {
       "key": "3497c9cb19bd49d7be1686f4ae1d6eeeef31f23f",
-      "title": "Episode 152 – The Battle Above the Abyss Part 2",
+      "title": "The Battle Above the Abyss Part 2 - C1: E152",
       "published_at": "2016-01-13T16:59:14+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739d5",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-battle-above-the-abyss-part-2-c1-e152",
       "description": "Having cracked the a hole in Fenniken’s Floating Fortress, your adventurers take a deep breath and prepare themselves for the further trials that are surely awaiting them. Resting amidst the cries of the dying screams of unicorns, it is here that the reality of their situation hits them. All that they have done has lead … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739d5.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D34992/media.mp3",
@@ -9595,18 +9602,16 @@
     },
     {
       "key": "a9313ca0e90cc5002ba1fd8a05b36a5a7e26a96b",
-      "title": "Episode 151 – The Battle Above the Abyss",
+      "title": "The Battle Above the Abyss - C1: E151",
       "published_at": "2016-01-07T15:06:40+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739d6",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-battle-above-the-abyss-c1-e151",
       "description": "After an impressive and rousing speech the army seems as ready as it will ever be for what lies before them. Hundreds of demons blot the sky. A huge menacing Balor directs the demons as they charge ahead. The heroes, atop their flying griffons, wonder just how they came to be in this situation. How … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739d6.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D34894/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85219787",
       "itunes_duration": "1:28:46",
-      "speakers": [
-        "Abyss After"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
         "abyss"
@@ -9614,9 +9619,9 @@
     },
     {
       "key": "c34db33ac85be0ecbfdd594fa7c0ef399325b100",
-      "title": "Episode 150 – The Edge of the Abyss",
+      "title": "The Edge of the Abyss - C1: E150",
       "published_at": "2015-12-21T20:23:18+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739d7",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-edge-of-the-abyss-c1-e150",
       "description": "Now that it definitely seems like there is no turning back, I guess we have to attack the fortress that lies within the abyss that used to be Caer. I don’t think I saw any dancing clubs to distract ourselves or any side quests to go chase. Which is a shame, since that thing looks … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739d7.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D34717/media.mp3",
@@ -9631,9 +9636,9 @@
     },
     {
       "key": "e549fe34537c314047839d301db4dacabfb1bbef",
-      "title": "Episode 149 – Battle Plans",
+      "title": "Battle Plans - C1: E149",
       "published_at": "2015-12-14T20:29:13+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739d8",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/battle-plans-c1-e149",
       "description": "Well it is finally time. Time to take the fight directly to Fenniken and his weird fortress. We may not be ready, but we must strike while the iron is hot. While we have the backing of a metal as heck devil army. We will stop this demon apocalypse or die trying. One of us … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739d8.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D34524/media.mp3",
@@ -9641,18 +9646,18 @@
       "enclosure_length": "56605466",
       "itunes_duration": "58:58",
       "speakers": [
-        "Battle Plans Well"
+        "Battle Plans"
       ],
       "topics": [
         "battle",
-        "plan"
+        "plans"
       ]
     },
     {
       "key": "458560b9fba385ba08568bacc4ac653da5228df0",
-      "title": "Episode 148 – The Devils You Know…",
+      "title": "The Devils You Know… - C1: E148",
       "published_at": "2015-12-07T19:09:09+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739d9",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-devils-you-know-c1-e148",
       "description": "Having finally, for real this time, dealt with the remaining bits of the Army of Bahamut the gang sets their sights on the next phase of their plan. With only a little more than two dozen days left before Aludra and Thom’s head explode speed is of the essence. Th only issue is that these … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739d9.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D34329/media.mp3",
@@ -9661,14 +9666,14 @@
       "itunes_duration": "56:44",
       "speakers": [],
       "topics": [
-        "devils"
+        "devil"
       ]
     },
     {
       "key": "ccdcc9003a4421d9871badf88752023e7f579225",
-      "title": "Episode 147 – Battle of Bahamut",
+      "title": "Battle of Bahamut - C1: E147",
       "published_at": "2015-11-30T18:59:54+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739da",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/battle-of-bahamut-c1-e147",
       "description": "Having wrapped up the battle with the leader of the army of Bahamut your brave adventurers, who are filled with much satisfaction of an encounter well struck, moves on to meet with our Elven friends. They seem nice and … wait… what is that sound? Oh crap. Bahamutians seem to be gathering to attack in force. … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739da.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D34141/media.mp3",
@@ -9683,9 +9688,9 @@
     },
     {
       "key": "ddbdc3e01dcdbff59ecf6ac9ed7decf820de3c6d",
-      "title": "Episode 146 – An Illuminating Encounter Part 2",
+      "title": "An Illuminating Encounter Part 2 - C1: E146",
       "published_at": "2015-11-23T19:56:26+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739db",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/an-illuminating-encounter-part-2-c1-e146",
       "description": "Lanterns are usually something that are to be ignored. So simple yet so essential to our everyday life. Luckily, they are extremely fun to smash, especially when you have permission. Gruemar the Silver should have had a better plan against the genius minds attacking his camp. Ha, he looked so stupid. Wait, what is that sound? … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739db.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D34086/media.mp3",
@@ -9700,9 +9705,9 @@
     },
     {
       "key": "7e07456795646b0d859b4c5a98cca6c0ac695fd1",
-      "title": "Episode 145 – An Illuminating Encounter",
+      "title": "An Illuminating Encounter - C1: E145",
       "published_at": "2015-11-16T16:57:45+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739dc",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/an-illuminating-encounter-c1-e145",
       "description": "Here we are – just a few feet from the from the battle we have been preparing for the last three days. Sure, there may be shiny knights and battle standards of Bahamut, but if you ask me, these are pretenders the great Wyrmking’s ideals. Which is just as fine for us. Means we won’t … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739dc.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D33981/media.mp3",
@@ -9717,9 +9722,9 @@
     },
     {
       "key": "fc49f5d6af8366f5dc20a57633cee0ea9860c482",
-      "title": "Episode 144 – The Army of Bahamut",
+      "title": "The Army of Bahamut - C1: E144",
       "published_at": "2015-11-09T21:00:06+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739dd",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-army-of-bahamut-c1-e144",
       "description": "The gang finally reaches the “Army of Bahamut”. Quotes added because rumor has it that these Bahamut-heads are bad people who do not do nice things in the name of their dragon lord. When the devils said they were bad it was tough to believe them since, well, they are devils. But Erathis (!) also … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739dd.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D33866/media.mp3",
@@ -9734,9 +9739,9 @@
     },
     {
       "key": "4b7cbe164488a011e3fed78a0be8f7319cd62938",
-      "title": "Episode 143 – Attempting to Move Forward",
+      "title": "Attempting to Move Forward - C1: E143",
       "published_at": "2015-11-02T18:31:58+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739de",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/attempting-to-move-forward-c1-e143",
       "description": "After receiving such a shock to our collective systems, we had no choice but to attempt to find our next move. Sure, working with devils is probably bad, but this Bahamut crew also seems not so great. Maybe in this situation we are following “the enemy and my enemy is friend” but with the added … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739de.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D33644/media.mp3",
@@ -9744,24 +9749,24 @@
       "enclosure_length": "72917995",
       "itunes_duration": "1:15:57",
       "speakers": [
-        "Move Forward After"
+        "Move Forward"
       ],
-      "topics": []
+      "topics": [
+        "forward"
+      ]
     },
     {
       "key": "6190325e42117af7fc60e02801f32beea13e0fc3",
-      "title": "Episode 142 – The Painful Choices of the Living",
+      "title": "The Painful Choices of the Living - C1: E142",
       "published_at": "2015-10-26T20:46:09+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739df",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-painful-choices-of-the-living-c1-e142",
       "description": "After a somewhat stressful end to our last session, the gang does what it does best – focusing all of their (remaining) efforts to solve the problem at hand. Sure, things seemed awfully grim, but there has to be some arcane magics or divine assistance that we could harness. What is Geodude up to? That guy … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739df.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D33448/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58867461",
       "itunes_duration": "1:01:19",
-      "speakers": [
-        "Living After"
-      ],
+      "speakers": [],
       "topics": [
         "painful",
         "choices",
@@ -9770,9 +9775,9 @@
     },
     {
       "key": "b2fe6a9bed77c6f83a7cd51efe9c01577f260650",
-      "title": "Episode 141 – Bursting with Joy",
+      "title": "Bursting with Joy - C1: E141",
       "published_at": "2015-10-19T19:33:20+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739e0",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/bursting-with-joy-c1-e141",
       "description": "Maybe family reunions are not supposed to go this way. Maybe, just maybe, there shouldn’t be this strange ringing in your ears and your heart shouldn’t feel like it is in some sort of old, rickety elevator. I am sure we can trust Adira Harper, even though she is surrounded by actual devils. And yes, … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739e0.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D33310/media.mp3",
@@ -9784,9 +9789,9 @@
     },
     {
       "key": "dfdb3e5f3d4d27dd7935cf9882016e874d31bdaa",
-      "title": "Episode 140 – The Woman Who is Wearing a Spider-like Dress",
+      "title": "Episode 140 – The Woman Who is Wearing a Spider-like Dress - C1: E140",
       "published_at": "2015-10-12T15:08:41+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739e1",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/episode-140-the-woman-who-is-wearing-a-spider-like-dress-c1",
       "description": "After working up a real sweat after that whole Slaad business the gang heads back to Mastwick, not trusting the “return this quest to me” NPC, to make sure Pyre was happy. Since we already have a few terrible dragons who are not so happy with us it seemed like the most wise. I guess … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739e1.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D33180/media.mp3",
@@ -9802,9 +9807,9 @@
     },
     {
       "key": "8708b47be0fc1c2e280b80cf96a89c557c0998d2",
-      "title": "Episode 139 – The Crystal Getters",
+      "title": "The Crystal Getters - C1: E139",
       "published_at": "2015-10-06T00:12:15+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739e2",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-crystal-getters-c1-e139",
       "description": "Having bested the Slaadi force with… mostly impressive battle tactics the gang got to the task at hand – harvesting those crystals! For most of the encounter Thom was continuing to lock lips with his new Slaad friend in some sort of long con. Without spoiling too much, Harper and Jaela did work with the … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739e2.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D33065/media.mp3",
@@ -9819,18 +9824,16 @@
     },
     {
       "key": "54e9cdc18a21f350576257bfd156c6263537f6a2",
-      "title": "Episode 138 – Slaad Graab",
+      "title": "Slaad Graab - C1: E138",
       "published_at": "2015-09-28T22:02:46+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739e3",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/slaad-graab-c1-e138",
       "description": "Having been slightly derailed on their quest to join the Army of Bahamut, the gang decides to actually listen to the giant, menacing dragon and tracks down some Slaadi. Things get real weird real fast and our heroes have to take a moment to wonder “are we doing the right thing?” They have been told … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739e3.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D32814/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81380414",
       "itunes_duration": "1:24:46",
-      "speakers": [
-        "Slaad Graab"
-      ],
+      "speakers": [],
       "topics": [
         "slaad",
         "graab"
@@ -9838,9 +9841,9 @@
     },
     {
       "key": "1e89ad871c4f924c41575c94ee848426db574bc6",
-      "title": "Episode 137 – That’s a Bingo!",
+      "title": "That’s a Bingo! - C1: E137",
       "published_at": "2015-09-15T15:46:32+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739e4",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/thats-a-bingo-c1-e137",
       "description": "When preparing to leave a town or settlement for an extended period of time it is important to be mentally and physically prepared. Sure, grabbing ropes and food and such is good, but what about your mental state? When was the last time you had a good time at a club? These are the questions … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739e4.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D32520/media.mp3",
@@ -9854,9 +9857,9 @@
     },
     {
       "key": "df42426b5fa4d0e0fa787ae57985033cd4ee7976",
-      "title": "Episode 136 – To Tempt Fate",
+      "title": "To Tempt Fate - C1: E136",
       "published_at": "2015-09-07T23:28:04+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739e5",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/to-tempt-fate-c1-e136",
       "description": "This episode is a little weird because, well, we have to really struggle with the potential chaos our actions may or may not cause. Normally, we just kinda run with it and favor short term “plans” that most likely will not bite us in the bum down the road. Not so this week as we … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739e5.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D32457/media.mp3",
@@ -9870,9 +9873,9 @@
     },
     {
       "key": "eef57f1f90101f0d37107e15aa825de2e38023fe",
-      "title": "Episode 135 – It is Getting Hot in Here",
+      "title": "It is Getting Hot in Here - C1: E135",
       "published_at": "2015-08-31T15:03:30+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739e6",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/it-is-getting-hot-in-here-c1-e135",
       "description": "When you make a new dragon based friend it is so important to know their likes and dislikes. What makes them prickly? What makes them sad? If you do not arm yourself with this basic information then you will most likely get eaten up. Or burned. Or both. Well, your brave adventurers are smart and … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739e6.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D32341/media.mp3",
@@ -9880,23 +9883,26 @@
       "enclosure_length": "52409991",
       "itunes_duration": "54:35",
       "speakers": [
-        "Getting Hot",
-        "Here When"
+        "Getting Hot"
       ],
-      "topics": []
+      "topics": [
+        "getting"
+      ]
     },
     {
       "key": "d0b9f6259b5d672eb6fbb90053471eeb4b3828c8",
-      "title": "Episode 134 – A Slight Dragon Based Dilemma",
+      "title": "A Slight Dragon Based Dilemma - C1: E134",
       "published_at": "2015-08-25T21:53:29+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739e7",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-slight-dragon-based-dilemma-c1-e134",
       "description": "Mastwick sure is different than I remember it… were there always so few Teiflings? I swear I would have remembered a big ol’ red dragon ruling the place… but maybe not?Well now that we are here, I guess we need to try and well, not be here. Issue is, I guess big ol’ red dragons … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739e7.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D32249/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59286256",
       "itunes_duration": "1:01:45",
-      "speakers": [],
+      "speakers": [
+        "Slight Dragon Based Dilemma"
+      ],
       "topics": [
         "slight",
         "dragon",
@@ -9906,27 +9912,25 @@
     },
     {
       "key": "938828bee4e596e0bf7d396b050c0705c26fd165",
-      "title": "Episode 133 – Making it to Mastwick",
+      "title": "Making it to Mastwick - C1: E133",
       "published_at": "2015-08-17T19:06:53+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739e8",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/making-it-to-mastwick-c1-e133",
       "description": "Things are bad all around, it seems, but we will not let that stop us. No we will not. While the world is crumbling around us, we adventurers are called to meet higher expectations. As we enter a familiar place we know that it is our duty to leave it better than we found it. … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739e8.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D32130/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63204205",
       "itunes_duration": "1:05:50",
-      "speakers": [
-        "Mastwick Things"
-      ],
+      "speakers": [],
       "topics": [
         "mastwick"
       ]
     },
     {
       "key": "db48df4d39d1d748c26c63c7007ec5c24a7e0a7e",
-      "title": "Episode 132 – Mailbag Spectacular!",
+      "title": "Mailbag Spectacular! - C1: E132",
       "published_at": "2015-08-12T20:21:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739e9",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/mailbag-spectacular-c1-e132",
       "description": "Since we were down a DM, the most important person at a gaming table, we decided to take all of your wonderful questions and put them to the cast for in depth discussion and review. It was a fun way to get inside the heads of the PCs and find out all of their opinions. … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739e9.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D31945/media.mp3",
@@ -9943,9 +9947,9 @@
     },
     {
       "key": "f7c6e818f898a42bb53fcfe96a1853d1a0843fa5",
-      "title": "Episode 131 – The Heart of Evil",
+      "title": "The Heart of Evil - C1: E131",
       "published_at": "2015-08-03T14:44:24+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739ea",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-heart-of-evil-c1-e131",
       "description": "How can one person know the heart of another? How can we look into the still waters of a calm lake and know for certain the the image looking back is blameless? We cannot. Regardless of what a “monster manual” or “D&D Wiki” says we all know that within each soul is the seed of … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739ea.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D31776/media.mp3",
@@ -9960,9 +9964,9 @@
     },
     {
       "key": "eb027f3cbec232f6c72ae6e9746b93ce3baa43bb",
-      "title": "Episode 130 – A Brother’s Fury",
+      "title": "A Brother’s Fury - C1: E130",
       "published_at": "2015-07-27T18:06:47+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739eb",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-brothers-fury-c1-e130",
       "description": "Michael is a bad person who does bad things to good people which leads to them crying in a darkened bathroom. The adventure continues with Titus Harper (Tim Lanning), Thom the Dragonborn (Mike Bachmann), Aludra (Jennifer Cheek), Jaela (Nika Howard) and your Dungeon Master (Michael DiMauro). Don’t forget to follow our editor Steph Kingston (@stephokingston)! Subscribe … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739eb.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D31694/media.mp3",
@@ -9977,9 +9981,9 @@
     },
     {
       "key": "302a504899df22b8218c370abb9c140f03adabf5",
-      "title": "Episode 129 – Would You Like Some Wine?",
+      "title": "Would You Like Some Wine? - C1: E129",
       "published_at": "2015-07-13T14:22:46+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739ec",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/would-you-like-some-wine-c1-e129",
       "description": "Stop me if you have heard this before – you are just flying to meet up with you simple boat men crew when a mystyious stranger just kinda shows up and acts all friendly. Even going as far to offer you wine and snacks from a nice table in the middle of the road. Pretty … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739ec.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D31445/media.mp3",
@@ -9993,9 +9997,9 @@
     },
     {
       "key": "eefa1d1217bee3ac2dd5d51215300700dae7909b",
-      "title": "Episode 128 – A Lakeside Encounter",
+      "title": "A Lakeside Encounter - C1: E128",
       "published_at": "2015-07-06T18:14:29+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739ed",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-lakeside-encounter-c1-e128",
       "description": "I am always looking for an excuse to make a new friend. Sometimes I will go to the local tavern and just start talking/ arm wrestling folks if I am feeling frisky. Sometimes fate sends you back to your favorite lake and you get to meet a brand new friend. But, what if your new … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739ed.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D31270/media.mp3",
@@ -10012,9 +10016,9 @@
     },
     {
       "key": "3bbd1f6a45f67dc3c63bc965747b32f1c8027bd0",
-      "title": "Episode 127 – The Conversion Cast",
+      "title": "The Conversion Cast - C1: E127",
       "published_at": "2015-06-30T04:08:30+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739ee",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-conversion-cast-c1-e127",
       "description": "Hello! This episode is a little weird. Instead of getting back in to our hard RP selves we take a step back and discuss what the gang will look like in our new 5e bodies. There are changes. There is hair where there used to be no hair. But with a little awkwardness and accidentally … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739ee.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D31127/media.mp3",
@@ -10029,9 +10033,9 @@
     },
     {
       "key": "94b08c40bf4d35d21896fecc3a64cc1d2d25aede",
-      "title": "Episode 126 – Live Show 2015",
+      "title": "Live Show 2015 - C1: E126",
       "published_at": "2015-06-22T18:41:45+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739ef",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/live-show-2015-c1-e126",
       "description": "We were so very lucky to have the amazing opportunity to record this episode live in front of a studio audience. Now, we put on a visual show so that the audience had something to look at while they got their normal auditory DnDcast experience. This means that you should probably watch the video if … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739ef.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D31021/media.mp3",
@@ -10043,9 +10047,9 @@
     },
     {
       "key": "9660437d5b347a228e8bd8fde1865a5f667fb506",
-      "title": "Episode 125 – The Clothes Makes the Bucky",
+      "title": "The Clothes Makes the Bucky - C1: E125",
       "published_at": "2015-05-25T21:02:39+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739f0",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-clothes-makes-the-bucky-c1-e125",
       "description": "All people need to watch out for their influences. Sometimes they can overpower who you really are and make you do terrible things. Maybe they will even turn you into a monster or maybe even a terrifying spider hell creature. That is why you need to watch out and protect your own heart. Who hasn’t … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739f0.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D30458/media.mp3",
@@ -10060,9 +10064,9 @@
     },
     {
       "key": "e932730b31245fa059587ccfee8327758b53448a",
-      "title": "Episode 124 – For Little Bucky",
+      "title": "For Little Bucky - C1: E124",
       "published_at": "2015-05-18T21:16:59+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739f1",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/for-little-bucky-c1-e124",
       "description": "It feels like it has been a long and tough road, but here we are inside the tower of Yeenoghu where our brave little buckster is holed up. It will take great strength and courage to rescue our little githyanki boy, but by the power of Erathis, I know we can do it! We all … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739f1.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D30322/media.mp3",
@@ -10077,9 +10081,9 @@
     },
     {
       "key": "820577f84570a8cba72917628254808abec35969",
-      "title": "Episode 123 – A Bigger, Burninger, Bar Brawl",
+      "title": "A Bigger, Burninger, Bar Brawl - C1: E123",
       "published_at": "2015-05-11T21:46:58+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739f2",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-bigger-burninger-bar-brawl-c1-e123",
       "description": "When your boy gets punched in the face there is nothing else for you to do other than to Break Bad and and protect him. And sometimes you need to send a message that punching strangers is not ok. Not at all ok. If they give you one black eye then you burn down their … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739f2.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D30199/media.mp3",
@@ -10087,7 +10091,7 @@
       "enclosure_length": "63360940",
       "itunes_duration": "1:06:00",
       "speakers": [
-        "Bar Brawl When"
+        "Bar Brawl"
       ],
       "topics": [
         "burninger",
@@ -10110,9 +10114,9 @@
     },
     {
       "key": "a202585483ea3a7c6afbfde7f1f792a071f6510d",
-      "title": "Episode 121 – A Polymorph Puzzle",
+      "title": "A Polymorph Puzzle - C1: E121",
       "published_at": "2015-04-27T21:46:25+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739f4",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/a-polymorph-puzzle-c1-e121",
       "description": "With the very real threat of actually infiltrating this Gnoll Death City looming ahead, the party must noodle this whole “How do we sneak into an evil city of evil monsters??” It seems impossible, but little Bucky must be saved. Luckily, the gang has Zird, the master wizard and plan maker. Nothing should go wrong … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739f4.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D29849/media.mp3",
@@ -10127,9 +10131,9 @@
     },
     {
       "key": "d7be646c8414d7e0d63282a7283b0a423b6502b6",
-      "title": "Episode 120 – BAR BRAWL!",
+      "title": "BAR BRAWL! - C1: E120",
       "published_at": "2015-04-20T15:55:42+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739f5",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/bar-brawl-c1-e120",
       "description": "Maybe we made poor decisions sleeping in this old drafty tavern. Welp. That choice was made. There is nothing to be done about it. Now we have to put on our adult pants and deal with the consequences. Maybe fighting a horde of demons is a bad way to start your day. Who is to … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739f5.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D29634/media.mp3",
@@ -10143,9 +10147,9 @@
     },
     {
       "key": "a2ea641276059c6d3eb6991858ad3bfe106515f8",
-      "title": "Episode 119 – The Moving City",
+      "title": "The Moving City - C1: E119",
       "published_at": "2015-04-13T15:23:04+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739f6",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-moving-city-c1-e119",
       "description": "Having found this terrible gnoll god city, the gang realizes that they have to scoot on ahead and save a smaller non-gnoll god city from being destroyed. I still am deeply bothered by Yeenoghu’s city. It is terrible. I don’t want to go into it. I am sorry, little Bucky, but you are in a … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739f6.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D29356/media.mp3",
@@ -10160,9 +10164,9 @@
     },
     {
       "key": "1316ae69061bf86aeeed0cc843a71110aea0cd22",
-      "title": "Episode 118 – Finding the Worst City Ever",
+      "title": "Finding the Worst City Ever - C1: E118",
       "published_at": "2015-04-07T14:43:38+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739f7",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/finding-the-worst-city-ever-c1-e118",
       "description": "Ok! We are ready to do this whole “save the world” thing. Just one quick stop. Just a tiny little short pause on the world saving bit. JUST a slight detour to save Bucky. Heck, this place has gone bad in a big way, so you just have to make time to help out your friends/ … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739f7.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D29067/media.mp3",
@@ -10170,7 +10174,7 @@
       "enclosure_length": "70098442",
       "itunes_duration": "1:13:01",
       "speakers": [
-        "Worst City Ever Ok"
+        "Worst City Ever"
       ],
       "topics": [
         "worst",
@@ -10179,9 +10183,9 @@
     },
     {
       "key": "3bcdecd3a8eb1e1cebbb40436b2e4b9a0ed1046b",
-      "title": "Episode 117 – The Breakfast Club",
+      "title": "The Breakfast Club - C1: E117",
       "published_at": "2015-03-30T18:00:08+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739f8",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/the-breakfast-club-c1-e117",
       "description": "Whoaaaaa! Are we back here inside our bodies?! What another strange event to befall this ragtag group of would be heroes. And is that the dapper Thom the Dragonborn awake and walking around and such?? Phew, glad there weren’t any lasting issues from the poison or whatever. I guess we will figure our how to … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739f8.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D28694/media.mp3",
@@ -10196,9 +10200,9 @@
     },
     {
       "key": "832412cbb20f3ec2abef71a2acbeae881990be7a",
-      "title": "Episode 116 – Adventures in Boat Sitting Part 2",
+      "title": "Adventures in Boat Sitting Part 2 - C1: E116",
       "published_at": "2015-03-23T15:26:36+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739f9",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/adventures-in-boat-sitting-part-2-c1-e116",
       "description": "Having survived the initial wave of demons and baddies the back in time crew come face to face with a being of amazing power. I won’t spoil the surprise here – but you better bring an extra pair of pants or whatever to work! Alright, that was too much hype. Sorry. You should bring extra … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739f9.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D28307/media.mp3",
@@ -10213,9 +10217,9 @@
     },
     {
       "key": "882369b06f105c6eeed94da5c1574ae053c41eb8",
-      "title": "Episode 115 – Adventures in Boat Sitting",
+      "title": "Adventures in Boat Sitting - C1: E115",
       "published_at": "2015-03-16T18:47:00+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739fa",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/adventures-in-boat-sitting-c1-e115",
       "description": "Having bested those strange rooms that Riekert Svenson set up the gang prepares themselves for a nice night. They have earned a nice feather bed and maybe a fine meal. But, can they really trust this zany necromancer? These situations these people get into are just so bonkers. I am sure everything will work out. The … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739fa.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D27731/media.mp3",
@@ -10226,15 +10230,16 @@
         "Riekert Svenson"
       ],
       "topics": [
-        "adventures",
-        "boat"
+        "adventure",
+        "boat",
+        "sitting"
       ]
     },
     {
       "key": "2c09cf6cd2a60a8ae5020f561aa99024f12865d3",
-      "title": "Episode 114 – These Foul Rooms of Horror",
+      "title": "These Foul Rooms of Horror - C1: E114",
       "published_at": "2015-03-02T15:53:52+00:00",
-      "link": "https://shows.acast.com/greetings-adventurers/episodes/6148f09c57808000128739fb",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/these-foul-rooms-of-horror-c1-e114",
       "description": "Why do all these strange things happen to us? We just want to have a nice night with friends, maybe save the world. Nothing big. Nothing special. But no! We have to go deal with this zany necromancer. Why does he have so many weird rooms? This is zany. The adventure continues with Titus Harper … Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/6148f09c57808000128739fb.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/http%3A%2F%2Fgeeklyinc.com%2F%3Fp%3D26707/media.mp3",
@@ -12691,154 +12696,154 @@
 - 2018-04-23 — A Rotten Crew of Beautiful Misfits Part 2 - C1: E261 — speakers: Rotten Crew
 - 2018-04-16 — A Rotten Crew of Beautiful Misfits Part 1 - C1: E260
 - 2018-04-09 — Welcome to the Feywild - C1: E259
-- 2018-04-02 — Episode 258 - A Princeling Problem
-- 2018-03-26 — Episode 257 - Gotta Go Fast — speakers: Gotta Go Fast After
-- 2018-03-19 — Episode 256 - Master Attackers
-- 2018-03-12 — Episode 255 - To the South, We Go
-- 2018-03-05 — Episode 254 - Tower Crashers — speakers: Tower Crashers Today
-- 2018-02-26 — Episode 253 - Tower of Grey (Start of Arc 3)
-- 2018-02-19 — Episode 252 - A History of Heroes Part 2
-- 2018-02-12 — Episode 251 - A History of Heroes Part 1
-- 2018-02-05 — Episode 250 - The Return of the Raw Fury Games Part 2 — speakers: Team White Spire
-- 2018-01-29 — Episode 249 - The Return of the Raw Fury Games
-- 2018-01-22 — Episode 248 - Hashtag Bride Tribe Part 2
-- 2018-01-15 — Episode 247 - Hashtag Bride Tribe Part 1 — speakers: Bride Tribe Bachelorette
-- 2018-01-08 — Episode 246 - Dance of Undeath Part 2
-- 2018-01-01 — Episode 245 - Dance of Undeath
-- 2017-12-25 — Episode 244 - Welcome to Tarry Hallow — speakers: Tarry Hallow Finally
-- 2017-12-18 — Episode 243 - Where Bones Lie
-- 2017-12-11 — Episode 242 - Where Is That Boy!
-- 2017-12-04 — Episode 241 - The Actual Diary of Sinu the Red, Seriously This Time
-- 2017-11-27 — Episode 240 - The Battle for the Books — speakers: Books Actually
-- 2017-11-20 — Episode 239 - Into the Crypt Yet Again
-- 2017-11-13 — Episode 238 - For the Kids — speakers: Kids Having
-- 2017-11-06 — Episode 237 - Defend These Walls, Ye Living Basterds
-- 2017-10-30 — Episode 236 - Journey to the Land of the Undead
-- 2017-10-23 — Episode 235 - Queendom Come — speakers: Queendom Come
-- 2017-10-16 — Episode 234 - A Vampire Friend
-- 2017-10-10 — Episode 233 - A Very Special Mail Bag Episode
+- 2018-04-02 — A Princeling Problem - C1: E258
+- 2018-03-26 — Gotta Go Fast - C1: E257 — speakers: Gotta Go Fast
+- 2018-03-19 — Master Attackers - C1: E256
+- 2018-03-12 — To the South, We Go - C1: E255
+- 2018-03-05 — Tower Crashers - C1: E254 — speakers: Tower Crashers
+- 2018-02-26 — Tower of Grey (Start of Arc 3) - C1: E253
+- 2018-02-19 — A History of Heroes Part 2 - C1: E252 — speakers: Thom Harper
+- 2018-02-12 — A History of Heroes Part 1 - C1: E251
+- 2018-02-05 — The Return of the Raw Fury Games Part 2 - C1: E250 — speakers: Team White Spire
+- 2018-01-29 — The Return of the Raw Fury Games - C1: E249
+- 2018-01-22 — Hashtag Bride Tribe Part - C1: E248
+- 2018-01-15 — Hashtag Bride Tribe Part 1 - C1: E247 — speakers: Bride Tribe Bachelorette
+- 2018-01-08 — Dance of Undeath Part 2 - C1: E246
+- 2018-01-01 — Dance of Undeath - C1: E245
+- 2017-12-25 — Welcome to Tarry Hallow - C1: E244
+- 2017-12-18 — Where Bones Lie - C1: E243 — speakers: Where Bones Lie
+- 2017-12-11 — Where Is That Boy! - C1: E242
+- 2017-12-04 — The Actual Diary of Sinu the Red, Seriously This Time - C1: E241
+- 2017-11-27 — The Battle for the Books - C1: E240
+- 2017-11-20 — Into the Crypt Yet Again - C1: E239 — speakers: Crypt Yet Again
+- 2017-11-13 — For the Kids - C1: E238
+- 2017-11-06 — Defend These Walls, Ye Living Basterds - C1: E237
+- 2017-10-30 — Journey to the Land of the Undead - C1: E236
+- 2017-10-23 — Queendom Come - C1: E235
+- 2017-10-16 — A Vampire Friend - C1: E234
+- 2017-10-10 — A Very Special Mail Bag Episode - C1: E233
 - 2017-10-02 — Podcast of Annihilation Bonus Episode - The Curious Cure of the Black Orchid — speakers: Black Orchid What
-- 2017-09-25 — Episode 232 - A Slight Gravitational Problem — speakers: Slight Gravitational Problem Well
-- 2017-09-18 — Episode 231- Jett Razor — speakers: Jett Razor
-- 2017-09-11 — Episode 230 - Shrine Time — speakers: Shrine Time Time
-- 2017-09-04 — Episode 229 - A Power Reborn
-- 2017-08-28 — Episode 228 - Traps and Treasures
-- 2017-08-21 — Episode 227 - We All Fall Down
-- 2017-08-14 — Episode 226 - The Temple of Solani
-- 2017-08-07 — Episode 225 - Defenders of Nareev
-- 2017-07-31 — Episode 224 - Welcome to Hell (GeeklyCon 2017 Liveshow)
-- 2017-07-24 — Episode 223 - The Fighting Falcons
-- 2017-07-17 — Episode 222 - Plan C.5
-- 2017-07-10 — Episode 221 - A Quest to Save the Great Leader Part 2
-- 2017-07-03 — Episode 220 - A Quest to Save the Great Leader Part 1
-- 2017-06-26 — Episode 219 - My Friend, the Dragon
-- 2017-06-19 — Episode 218 - A Poorly Named Movement
-- 2017-06-12 — Episode 217 - The Secrets of the Captain's Quarters — speakers: Quarters All
-- 2017-06-05 — Episode 216 – We are Guards
-- 2017-05-29 — Episode 215 – In the Peaceful Land of the Enemy — speakers: Peaceful Land, Enemy Glaine
-- 2017-05-22 — Episode 214 – A Fighting Chance
-- 2017-05-15 — Episode 213 – Hey There, Cheryl — speakers: Cheryl Facing
-- 2017-05-08 — Episode 212 – Welcome to Tidtowne — speakers: around Glaine
-- 2017-05-01 — Episode 211 – The Quest to Save Tidtowne, Part 3 — speakers: Save Tidtowne
-- 2017-04-24 — Episode 210 – The Quest to Save Tidtowne, Part 2 — speakers: Save Tidtowne
-- 2017-04-17 — Episode 209 – The Quest to Save Tidtowne
-- 2017-04-10 — Episode 208 – Clever Girl — speakers: Clever Girl Typically
-- 2017-04-03 — Episode 207 – Tea Time — speakers: Tea Time Please
-- 2017-03-27 — Episode 206 – Regicide & Other Crimes — speakers: Ashayara Dayne
-- 2017-03-20 — Episode 205 – Locked Up
-- 2017-03-13 — Episode 204 – Time to Save the World. Again.
-- 2017-03-06 — Episode 203 – A Night in the Gnome Quarter — speakers: Gnome Quarter Heading
+- 2017-09-25 — A Slight Gravitational Problem - C1: E232 — speakers: Slight Gravitational Problem
+- 2017-09-18 — Jett Razor - C1: E231 — speakers: Jett Razor
+- 2017-09-11 — Shrine Time - C1: E230 — speakers: Shrine Time
+- 2017-09-04 — A Power Reborn - C1: E229 — speakers: Power Reborn
+- 2017-08-28 — Traps and Treasures - C1: E228
+- 2017-08-21 — We All Fall Down - C1: E227
+- 2017-08-14 — The Temple of Solani - C1: E226
+- 2017-08-07 — Defenders of Nareev - C1: E225
+- 2017-07-31 — Welcome to Hell (GeeklyCon 2017 Liveshow) - C1: E224
+- 2017-07-24 — The Fighting Falcons - C1: E223
+- 2017-07-17 — Plan C.5 - C1: E222
+- 2017-07-10 — A Quest to Save the Great Leader Part 2 - C1: E221
+- 2017-07-03 — A Quest to Save the Great Leader Part 1 - C1: E220
+- 2017-06-26 — My Friend, the Dragon - C1: E219 — speakers: My Friend
+- 2017-06-19 — A Poorly Named Movement - C1: E218
+- 2017-06-12 — The Secrets of the Captain's Quarters - C1: E217
+- 2017-06-05 — We are Guards - C1: E216
+- 2017-05-29 — In the Peaceful Land of the Enemy - C1: E215 — speakers: Peaceful Land
+- 2017-05-22 — A Fighting Chance - C1: E214 — speakers: Fighting Chance
+- 2017-05-15 — Hey There, Cheryl - C1: E213
+- 2017-05-08 — Welcome to Tidtowne - C1: E212 — speakers: around Glaine
+- 2017-05-01 — The Quest to Save Tidtowne, Part 3 - C1: E211 — speakers: Save Tidtowne
+- 2017-04-24 — The Quest to Save Tidtowne, Part 2 - C1: E210 — speakers: Save Tidtowne
+- 2017-04-17 — The Quest to Save Tidtowne - C1: E209
+- 2017-04-10 — Clever Girl - C1: E208
+- 2017-04-03 — Tea Time - C1: E207 — speakers: Tea Time
+- 2017-03-27 — Regicide & Other Crimes - C1: E206 — speakers: Other Crimes
+- 2017-03-20 — Locked Up - C1: E205
+- 2017-03-13 — Time to Save the World. Again. - C1: E
+- 2017-03-06 — A Night in the Gnome Quarter - C1: E203 — speakers: Gnome Quarter
 - 2017-02-27 — The City in the Sky - C1: E202
-- 2017-02-20 — Episode 201- The Reconstructed Hero — speakers: Jett Razor
-- 2017-02-13 — Episode 200 - Battle of the White Spire
-- 2017-02-06 — Episode 199 – Betrayal in the White Spire
-- 2017-01-31 — Episode 198 – Welcome to Glaine, the Jewel of the East — speakers: East Now
-- 2017-01-23 — Episode 197 – Into the Sewers
-- 2017-01-17 — Episode 196 – Never Meet Your Heroes
+- 2017-02-20 — The Reconstructed Hero - C1: E201 — speakers: Jett Razor
+- 2017-02-13 — Battle of the White Spire - C1: E200
+- 2017-02-06 — Betrayal in the White Spire - C1: E199 — speakers: White Spire
+- 2017-01-31 — Welcome to Glaine, the Jewel of the East - C1: E198
+- 2017-01-23 — Into the Sewers - C1: E197
+- 2017-01-17 — Never Meet Your Heroes - C1: E196
 - 2017-01-09 — Bonus Episode: The Raw Fury Games – Part 2 — speakers: Raw Fury Games
 - 2017-01-02 — Bonus Episode: The Raw Fury Games – Part 1
-- 2016-12-19 — Episode 195 – Meanwhile, In Glaine, the Jewel of the East — speakers: East Something
-- 2016-12-12 — Episode 194 – Bucky, the Best Boy — speakers: Best Boy Maybe
-- 2016-12-06 — Episode 193 – Outside the Tower — speakers: Tower After
-- 2016-11-21 — Episode 192 – Mailbageddon — speakers: Mail Bag
-- 2016-11-14 — Episode 191 – Mixed Messages
-- 2016-11-07 — Episode 190 – Losing Control — speakers: Losing Control Harper
-- 2016-10-31 — Episode 189 – A Ghostly Voice
-- 2016-10-24 — Episode 188 – A Dark Past Part 2
-- 2016-10-17 — Episode 187 – A Dark Past
-- 2016-10-10 — Episode 186 – New Models — speakers: New Models Three
-- 2016-10-03 — Episode 185 – Protege Problems — speakers: Protege Problems Wow
-- 2016-09-26 — Episode 184 – Orc, Orc and Orc
-- 2016-09-19 — Episode 183 – Welcome to Brexleyshire
-- 2016-09-12 — Episode 182 – Another Lake, Another Caravan
-- 2016-09-05 — Episode 181 – The War of Wyrmsbane Keep Part 6
-- 2016-08-29 — Episode 180 – The War of Wyrmsbane Keep Part 5 — speakers: Queen Wyrmsbane
-- 2016-08-22 — Episode 179 – The War of Wyrmsbane Keep Part 4
-- 2016-08-15 — Episode 178 – The War of Wyrmsbane Keep Part 3
-- 2016-08-08 — Episode 177 – The War of Wyrmsbane Keep Part 2
-- 2016-08-01 — Episode 176 – The War of Wyrmsbane Keep Part 1
-- 2016-07-25 — Episode 175 – Two Steps Forward — speakers: Two Steps Forward News
-- 2016-07-19 — Episode 174 – The Wrongest We Ever Got It
-- 2016-07-11 — Episode 173 – A Guttural Reaction
-- 2016-07-04 — Episode 172 – Into the Worm Hole — speakers: Worm Hole Oh
-- 2016-06-29 — Episode 171 – Trials of the Underdark *Now with Video*
-- 2016-06-06 — Episode 170 – The Murderer
-- 2016-05-31 — Episode 169 – The Unknown Horrors of the Underdark
-- 2016-05-23 — Episode 168 – Fish, Foe or Friend — speakers: Murder Person
-- 2016-05-16 — Episode 167 – A Fungal Fright — speakers: Fungal Fright Going
-- 2016-05-09 — Episode 166 – On the Trail of a Magical Murderer
-- 2016-05-02 — Episode 165 – Bird-er Mystery
-- 2016-04-18 — Episode 164 – Baldergate — speakers: Baldergate Bringing Jaela
-- 2016-04-11 — Episode 163 – Welcome to Deephome
-- 2016-04-04 — Episode 162 – The Dangerous Life of a Musician — speakers: Jett Razor
-- 2016-03-28 — Episode 161 – Welcome to Calsten
+- 2016-12-19 — Meanwhile, In Glaine, the Jewel of the East - C1: E195
+- 2016-12-12 — Bucky, the Best Boy - C1: E194 — speakers: Best Boy
+- 2016-12-06 — Outside the Tower - C1: E193
+- 2016-11-21 — Mailbageddon - C1: E192 — speakers: Mail Bag
+- 2016-11-14 — Mixed Messages - C1: E191
+- 2016-11-07 — Losing Control - C1: E190 — speakers: Losing Control
+- 2016-10-31 — A Ghostly Voice - C1: E189
+- 2016-10-24 — A Dark Past Part 2 - C1: E188
+- 2016-10-17 — A Dark Past - C1: E187
+- 2016-10-10 — New Models - C1: E186 — speakers: New Models
+- 2016-10-03 — Protege Problems - C1: E185
+- 2016-09-26 — Orc, Orc and Orc - C1: E184
+- 2016-09-19 — Welcome to Brexleyshire - C1: E183
+- 2016-09-12 — Another Lake, Another Caravan - C1: E182 — speakers: Another Lake, Another Caravan
+- 2016-09-05 — The War of Wyrmsbane Keep Part 6 - C1: E181
+- 2016-08-29 — Episode 180 – The War of Wyrmsbane Keep Part 5 - C1: E180 — speakers: Queen Wyrmsbane
+- 2016-08-22 — The War of Wyrmsbane Keep Part 4 - C1: E179
+- 2016-08-15 — The War of Wyrmsbane Keep Part 3 - C1: E178
+- 2016-08-08 — The War of Wyrmsbane Keep Part 2 - C1: E177
+- 2016-08-01 — The War of Wyrmsbane Keep Part 1 - C1: E176
+- 2016-07-25 — Two Steps Forward - C1: E175 — speakers: Two Steps Forward
+- 2016-07-19 — The Wrongest We Ever Got It - C1: E174
+- 2016-07-11 — A Guttural Reaction - C1: E173
+- 2016-07-04 — Into the Worm Hole - C1: E172 — speakers: Worm Hole
+- 2016-06-29 — Trials of the Underdark *Now with Video* - C1: E171
+- 2016-06-06 — The Murderer - C1: E170
+- 2016-05-31 — The Unknown Horrors of the Underdark - C1: E169
+- 2016-05-23 — Fish, Foe or Friend - C1: E168 — speakers: Murder Person
+- 2016-05-16 — A Fungal Fright - C1: E167 — speakers: Fungal Fright
+- 2016-05-09 — On the Trail of a Magical Murderer - C1: E166
+- 2016-05-02 — Bird-er Mystery - C1: E165
+- 2016-04-18 — Baldergate - C1: E164 — speakers: Bringing Jaela
+- 2016-04-11 — Welcome to Deephome - C1: E163
+- 2016-04-04 — The Dangerous Life of a Musician - C1: E162 — speakers: Jett Razor
+- 2016-03-28 — Welcome to Calsten - C1: E161
 - 2016-03-21 — Monkier Business — speakers: Monkier Business
 - 2016-03-14 — Episode 159 – Monkey Business — speakers: Monkey Business Things
-- 2016-03-07 — Episode 158 – A Deep One Rises — speakers: Deep One Rises Dang
-- 2016-02-29 — Episode 157 – Storm’s A-Brewin’
-- 2016-02-22 — Episode 156 – Life Goes On (Start of Arc 2)
-- 2016-02-15 — Episode 155 – Mailbagathon!
-- 2016-02-01 — Episode 154 – The Battle Above the Abyss Part 4
-- 2016-01-25 — Episode 153 – The Battle Above the Abyss Part 3
-- 2016-01-13 — Episode 152 – The Battle Above the Abyss Part 2 — speakers: Floating Fortress
-- 2016-01-07 — Episode 151 – The Battle Above the Abyss — speakers: Abyss After
-- 2015-12-21 — Episode 150 – The Edge of the Abyss
-- 2015-12-14 — Episode 149 – Battle Plans — speakers: Battle Plans Well
-- 2015-12-07 — Episode 148 – The Devils You Know…
-- 2015-11-30 — Episode 147 – Battle of Bahamut
-- 2015-11-23 — Episode 146 – An Illuminating Encounter Part 2
-- 2015-11-16 — Episode 145 – An Illuminating Encounter
-- 2015-11-09 — Episode 144 – The Army of Bahamut
-- 2015-11-02 — Episode 143 – Attempting to Move Forward — speakers: Move Forward After
-- 2015-10-26 — Episode 142 – The Painful Choices of the Living — speakers: Living After
-- 2015-10-19 — Episode 141 – Bursting with Joy
-- 2015-10-12 — Episode 140 – The Woman Who is Wearing a Spider-like Dress
-- 2015-10-06 — Episode 139 – The Crystal Getters
-- 2015-09-28 — Episode 138 – Slaad Graab — speakers: Slaad Graab
-- 2015-09-15 — Episode 137 – That’s a Bingo!
-- 2015-09-07 — Episode 136 – To Tempt Fate
-- 2015-08-31 — Episode 135 – It is Getting Hot in Here — speakers: Getting Hot, Here When
-- 2015-08-25 — Episode 134 – A Slight Dragon Based Dilemma
-- 2015-08-17 — Episode 133 – Making it to Mastwick — speakers: Mastwick Things
-- 2015-08-12 — Episode 132 – Mailbag Spectacular! — speakers: Mailbag Spectacular
-- 2015-08-03 — Episode 131 – The Heart of Evil
-- 2015-07-27 — Episode 130 – A Brother’s Fury
-- 2015-07-13 — Episode 129 – Would You Like Some Wine?
-- 2015-07-06 — Episode 128 – A Lakeside Encounter — speakers: Lakeside Encounter
-- 2015-06-30 — Episode 127 – The Conversion Cast
-- 2015-06-22 — Episode 126 – Live Show 2015
-- 2015-05-25 — Episode 125 – The Clothes Makes the Bucky
-- 2015-05-18 — Episode 124 – For Little Bucky
-- 2015-05-11 — Episode 123 – A Bigger, Burninger, Bar Brawl — speakers: Bar Brawl When
+- 2016-03-07 — A Deep One Rises - C1: E158 — speakers: Deep One Rises
+- 2016-02-29 — Storm’s A-Brewin’ - C1: E157
+- 2016-02-22 — Life Goes On (Start of Arc 2) - C1: E156
+- 2016-02-15 — Mailbagathon! - C1: E155
+- 2016-02-01 — The Battle Above the Abyss Part 4 - C1: E154
+- 2016-01-25 — The Battle Above the Abyss Part 3 - C1: E153
+- 2016-01-13 — The Battle Above the Abyss Part 2 - C1: E152 — speakers: Floating Fortress
+- 2016-01-07 — The Battle Above the Abyss - C1: E151
+- 2015-12-21 — The Edge of the Abyss - C1: E150
+- 2015-12-14 — Battle Plans - C1: E149 — speakers: Battle Plans
+- 2015-12-07 — The Devils You Know… - C1: E148
+- 2015-11-30 — Battle of Bahamut - C1: E147
+- 2015-11-23 — An Illuminating Encounter Part 2 - C1: E146
+- 2015-11-16 — An Illuminating Encounter - C1: E145
+- 2015-11-09 — The Army of Bahamut - C1: E144
+- 2015-11-02 — Attempting to Move Forward - C1: E143 — speakers: Move Forward
+- 2015-10-26 — The Painful Choices of the Living - C1: E142
+- 2015-10-19 — Bursting with Joy - C1: E141
+- 2015-10-12 — Episode 140 – The Woman Who is Wearing a Spider-like Dress - C1: E140
+- 2015-10-06 — The Crystal Getters - C1: E139
+- 2015-09-28 — Slaad Graab - C1: E138
+- 2015-09-15 — That’s a Bingo! - C1: E137
+- 2015-09-07 — To Tempt Fate - C1: E136
+- 2015-08-31 — It is Getting Hot in Here - C1: E135 — speakers: Getting Hot
+- 2015-08-25 — A Slight Dragon Based Dilemma - C1: E134 — speakers: Slight Dragon Based Dilemma
+- 2015-08-17 — Making it to Mastwick - C1: E133
+- 2015-08-12 — Mailbag Spectacular! - C1: E132 — speakers: Mailbag Spectacular
+- 2015-08-03 — The Heart of Evil - C1: E131
+- 2015-07-27 — A Brother’s Fury - C1: E130
+- 2015-07-13 — Would You Like Some Wine? - C1: E129
+- 2015-07-06 — A Lakeside Encounter - C1: E128 — speakers: Lakeside Encounter
+- 2015-06-30 — The Conversion Cast - C1: E127
+- 2015-06-22 — Live Show 2015 - C1: E126
+- 2015-05-25 — The Clothes Makes the Bucky - C1: E125
+- 2015-05-18 — For Little Bucky - C1: E124
+- 2015-05-11 — A Bigger, Burninger, Bar Brawl - C1: E123 — speakers: Bar Brawl
 - 2015-05-04 — Okay, Bye! - C2: E122
-- 2015-04-27 — Episode 121 – A Polymorph Puzzle
-- 2015-04-20 — Episode 120 – BAR BRAWL!
-- 2015-04-13 — Episode 119 – The Moving City
-- 2015-04-07 — Episode 118 – Finding the Worst City Ever — speakers: Worst City Ever Ok
-- 2015-03-30 — Episode 117 – The Breakfast Club
-- 2015-03-23 — Episode 116 – Adventures in Boat Sitting Part 2
-- 2015-03-16 — Episode 115 – Adventures in Boat Sitting — speakers: Riekert Svenson
-- 2015-03-02 — Episode 114 – These Foul Rooms of Horror
+- 2015-04-27 — A Polymorph Puzzle - C1: E121
+- 2015-04-20 — BAR BRAWL! - C1: E120
+- 2015-04-13 — The Moving City - C1: E119
+- 2015-04-07 — Finding the Worst City Ever - C1: E118 — speakers: Worst City Ever
+- 2015-03-30 — The Breakfast Club - C1: E117
+- 2015-03-23 — Adventures in Boat Sitting Part 2 - C1: E116
+- 2015-03-16 — Adventures in Boat Sitting - C1: E115 — speakers: Riekert Svenson
+- 2015-03-02 — These Foul Rooms of Horror - C1: E114
 - 2015-02-23 — Welcome to the House of Death - C1: E113
 - 2015-02-16 — The Road to Victory - C1: E112
 - 2015-02-09 — Evil Through the Roof - C1: E111 — speakers: Evil Through
