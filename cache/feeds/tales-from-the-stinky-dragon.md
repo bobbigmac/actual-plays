@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-05-08T03:55:56+00:00`
-- checked_at: `2026-05-08T03:55:56+00:00`
-- last_modified: `Thu, 07 May 2026 22:41:27 GMT`
+- fetched_at: `2026-05-08T08:00:23+00:00`
+- checked_at: `2026-05-08T08:00:23+00:00`
+- last_modified: `Fri, 08 May 2026 04:50:08 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-08T03:55:56+00:00",
+  "fetched_at": "2026-05-08T08:00:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -4056,12 +4056,12 @@
       "title": "C01 - Ep. 08.5 - Infinight Interns - Between the Tales",
       "published_at": "2021-06-29T07:00:00+00:00",
       "link": "https://www.patreon.com/posts/infinight-tales-105334325",
-      "description": "Gus and the players talk about the story so far, the decisions and backstory for their characters, and what they chose leveling up. That's right, the Infight Interns are Level 3! Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER3406708117.mp3?updated=1731648984",
+      "description": "Gus and the players talk about the story so far, the decisions and backstory for their characters, and what they chose leveling up. That's right, the Infight Interns are Level 3! Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/be3c4a0c-d852-11eb-81a1-8b6876cef5ce/image/bbfc36dbb787724f7a254dd051405d26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER3406708117.mp3?updated=1778215491",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3912",
+      "itunes_duration": "3910",
       "speakers": [
         "Infinight Interns Between"
       ],
@@ -4077,11 +4077,11 @@
       "published_at": "2021-06-22T07:00:00+00:00",
       "link": "https://www.patreon.com/posts/infinight-ep-8-3-105334244",
       "description": "The Interns are close to unraveling the mystery behind the Crypt-Curse. Stuck in a jail cell with a zombie and closing in on Sheriff Guv and Mother Abby, what outcome awaits the party? Find out in the finale to the Infinight Interns Arc! Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER5476198879.mp3?updated=1731646714",
+      "image_url": "https://megaphone.imgix.net/podcasts/7a54bce2-d2f4-11eb-ba34-6bad4104e618/image/bbfc36dbb787724f7a254dd051405d26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER5476198879.mp3?updated=1778215107",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4257",
+      "itunes_duration": "4262",
       "speakers": [],
       "topics": [
         "infinight",
@@ -4095,11 +4095,11 @@
       "published_at": "2021-06-15T07:00:00+00:00",
       "link": "https://www.patreon.com/posts/infinight-ep-7-2-105334178",
       "description": "The Interns are caught in the middle of small town law: Sheriff Guv has arrested the beloved Mother Abby and the townspeople want her saved! Mudd gets a haircut and a show, Kyborg jumps rooftops, and its time for a prison break. What could go wrong? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER6907344328.mp3?updated=1731432335",
+      "image_url": "https://megaphone.imgix.net/podcasts/57b3b012-cd4f-11eb-be01-5b15fcb7b45f/image/bbfc36dbb787724f7a254dd051405d26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER6907344328.mp3?updated=1778214817",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3897",
+      "itunes_duration": "3891",
       "speakers": [],
       "topics": [
         "infinight",
@@ -4112,12 +4112,12 @@
       "title": "C01 - Ep. 06 - Infinight Interns - Pyous Pass Pt. 1",
       "published_at": "2021-06-08T07:00:00+00:00",
       "link": "https://www.patreon.com/posts/infinight-ep-6-1-105334104",
-      "description": "The Interns are sent on their first actual mission! Tasked with exploring the dustbowl town of Pyous Pass, they meet several of the locals: Pyes, a race of humanoid mantis' that are dealing with a mysterious curse. Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER9294185096.mp3?updated=1738396123",
+      "description": "The Interns are sent on their first actual mission! Tasked with exploring the dustbowl town of Pyous Pass, they meet several of the locals: Pyes, a race of humanoid mantis' that are dealing with a mysterious curse. Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e2d889c6-c7cb-11eb-930b-0be547590f0b/image/bbfc36dbb787724f7a254dd051405d26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER9294185096.mp3?updated=1778214635",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3794",
+      "itunes_duration": "3785",
       "speakers": [],
       "topics": [
         "infinight",
@@ -4130,12 +4130,12 @@
       "title": "C01 - Ep. 05 - Infinight Interns - Taverns, Tomes & Training",
       "published_at": "2021-06-01T07:00:00+00:00",
       "link": "https://www.patreon.com/posts/infinight-ep-5-105334015",
-      "description": "The Interns are tasked with some R&R, leading half of them to the local tavern and half of them to the local school library. It's always fine when you split the party, right? Meanwhile, Dr. Ahem has been working on some actual training to make up for his mishaps....but will the interns live up to his expectations? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER5097385697.mp3?updated=1738396024",
+      "description": "The Interns are tasked with some R&R, leading half of them to the local tavern and half of them to the local school library. It's always fine when you split the party, right? Meanwhile, Dr. Ahem has been working on some actual training to make up for his mishaps....but will the interns live up to his expectations? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ae18c3ba-c283-11eb-8956-1b63994c9e39/image/bbfc36dbb787724f7a254dd051405d26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER5097385697.mp3?updated=1778214639",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6053",
+      "itunes_duration": "6050",
       "speakers": [],
       "topics": [
         "infinight",
@@ -4150,12 +4150,12 @@
       "title": "C01 - Ep. 04 - Infinight Interns - The Search for Dr. Ahem Pt. 3",
       "published_at": "2021-05-25T07:00:00+00:00",
       "link": "https://www.patreon.com/posts/infinight-ep-4-3-105333954",
-      "description": "The interns have entered a curious chamber with two unknown captives, multiple mysterious mechanisms, and an illusive enemy in the shadows. Perhaps the infamous Paralyte? Will they rescue the hostages before it’s too late? Or will they become captives themselves in this looming laboratory? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER3577746712.mp3?updated=1738394779",
+      "description": "The interns have entered a curious chamber with two unknown captives, multiple mysterious mechanisms, and an illusive enemy in the shadows. Perhaps the infamous Paralyte? Will they rescue the hostages before it’s too late? Or will they become captives themselves in this looming laboratory? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f5780aec-bccd-11eb-a05b-bb095454eaa0/image/bbfc36dbb787724f7a254dd051405d26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER3577746712.mp3?updated=1778214157",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2348",
+      "itunes_duration": "2355",
       "speakers": [
         "Ahem Pt"
       ],
