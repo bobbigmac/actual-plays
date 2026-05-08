@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-05-08T10:50:21+00:00`
-- checked_at: `2026-05-08T10:50:21+00:00`
-- last_modified: `Fri, 08 May 2026 10:49:54 GMT`
+- fetched_at: `2026-05-08T14:19:00+00:00`
+- checked_at: `2026-05-08T14:19:00+00:00`
+- last_modified: `Fri, 08 May 2026 11:45:12 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-08T10:50:21+00:00",
+  "fetched_at": "2026-05-08T14:19:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -3749,7 +3749,7 @@
       "link": "https://www.patreon.com/posts/deja-urbloom-105335623",
       "description": "The cast and crew recap the Deja Ürbloom arc, discuss leveling up to level 4, and answer some behind the scenes and story questions from the audience! Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/ce1703da-35dc-11ec-b6fa-4708e0749f99/image/0b1b8a7b665a84e4cedfc6c30a4081f9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER7892731134.mp3?updated=1733726877",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER7892731134.mp3?updated=1778237932",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3382",
@@ -3766,7 +3766,7 @@
       "link": "https://www.patreon.com/posts/deja-urbloom-ep-105335530",
       "description": "The Interns find themselves staring down the barrel of a bow—a string quartet of bows that is. The fate of Ürbloom comes down to this sonorous skirmish between the adventurers and Slique the Infinight! Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/d1b2d748-305b-11ec-a06e-57152cb545e9/image/0b1b8a7b665a84e4cedfc6c30a4081f9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8149398525.mp3?updated=1733726522",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8149398525.mp3?updated=1778238192",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4732",
@@ -3785,10 +3785,10 @@
       "link": "https://www.patreon.com/posts/deja-urbloom-ep-105335480",
       "description": "The Interns travel back in time and make their way into the Glocken Tower. Can they stop Slique from performing his symphony or will this be their own swan song? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/34fae824-2ad3-11ec-9e28-0fa42ee09e19/image/0b1b8a7b665a84e4cedfc6c30a4081f9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER4878187367.mp3?updated=1733726430",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER4878187367.mp3?updated=1778238099",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3990",
+      "itunes_duration": "3991",
       "speakers": [
         "Eleventh Hour",
         "Glocken Tower"
@@ -3807,7 +3807,7 @@
       "link": "https://www.patreon.com/posts/deja-urbloom-ep-105335413",
       "description": "The Interns attempt a heist at the Loggen Mill in search of tools and supplies for the recapitulator, but they must first encounter their greatest enemy…the door. Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/44fbdbb2-2564-11ec-aedc-57d8ed67496c/image/0b1b8a7b665a84e4cedfc6c30a4081f9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER4202172565.mp3?updated=1733726442",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER4202172565.mp3?updated=1778238085",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4837",
@@ -3827,7 +3827,7 @@
       "link": "https://www.patreon.com/posts/deja-urbloom-ep-105335330",
       "description": "The Interns rendezvous with a hungry Hugh, but they seem to be caught between a T-Wreck and a hard place. Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/62be51cc-1fb3-11ec-9992-9f0fbf7847fa/image/0b1b8a7b665a84e4cedfc6c30a4081f9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER9275610356.mp3?updated=1733726402",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER9275610356.mp3?updated=1778238051",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4725",
@@ -3845,7 +3845,7 @@
       "link": "https://www.patreon.com/posts/deja-urbloom-ep-105335275",
       "description": "The Interns are in hot pursuit of Nater and the Baby-T, but are barrely holding on as they rapidly approach! Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/165a5ddc-1a6b-11ec-8f6f-d30e200bef9f/image/0b1b8a7b665a84e4cedfc6c30a4081f9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER9740858519.mp3?updated=1733726338",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER9740858519.mp3?updated=1778237877",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4343",
@@ -3863,10 +3863,10 @@
       "link": "https://www.patreon.com/posts/deja-urbloom-ep-105335222",
       "description": "The Interns press on toward their prehistoric prey, but capturing the Baby-T may take the performance of a lifetime. Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/f505f4e6-14d6-11ec-8ec4-bb92ac1a20b9/image/0b1b8a7b665a84e4cedfc6c30a4081f9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER5113381572.mp3?updated=1733726257",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER5113381572.mp3?updated=1778237934",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3809",
+      "itunes_duration": "3808",
       "speakers": [
         "Hasta La Vista"
       ],
