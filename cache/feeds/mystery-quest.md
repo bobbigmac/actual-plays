@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-05-08T14:19:00+00:00`
-- checked_at: `2026-05-08T14:19:00+00:00`
-- last_modified: `Fri, 08 May 2026 13:51:40 GMT`
+- fetched_at: `2026-05-08T16:46:34+00:00`
+- checked_at: `2026-05-08T16:46:34+00:00`
+- last_modified: `Fri, 08 May 2026 16:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-08T14:19:00+00:00",
+  "fetched_at": "2026-05-08T16:46:34+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,25 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "6059109b228227e94f77cd40dffd85f044d04d29",
+      "title": "Call of Cthulhu: DeadFellas #3",
+      "published_at": "2026-05-08T16:00:00+00:00",
+      "link": null,
+      "description": "Welcome back to Call of Cthulhu and the scenario, 'DeadFellas'. Sally P makes an offer Mikey can't refuse. Guns are drawn. Who will be left standing... Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! The DeadFellas scenario by Christian Grundel: https://www.drivethrurpg.com/en/product/512356/deadfellas Check out Call of Cthulhu from Chaosium: https://www.chaosium.com/call-of-cthulhu-rpg/ Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: @AngoryTom Joseph: ⁠ @apocplayers ⁠ Danann: @apocplayers Lydia: https://twitch.tv/squidgame Ravs: @Ravs_ Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR6224223897.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3147",
+      "speakers": [
+        "Tom Bates"
+      ],
+      "topics": [
+        "cthulhu",
+        "deadfellas"
+      ]
+    },
     {
       "key": "84d476c5c558dfd538058f1d119258aac9c974fb",
       "title": "Call of Cthulhu: DeadFellas #2",
@@ -2865,6 +2884,44 @@
       ]
     },
     {
+      "key": "f59f5404ce8f71329b5db089bf3fce96db416506",
+      "title": "Call of Cthulhu: The Disintegrator #3",
+      "published_at": "2023-09-09T17:00:00+00:00",
+      "link": null,
+      "description": "Our investigators find themselves at breakfast awaiting the demonstration of the mysterious weapon known as The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2230576272.mp3?updated=1707495872",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4517",
+      "speakers": [
+        "Tom Bates"
+      ],
+      "topics": [
+        "cthulhu",
+        "disintegrator"
+      ]
+    },
+    {
+      "key": "1eca22755a0101b7dd1965525d648220ad5556b4",
+      "title": "Call of Cthulhu: The Disintegrator #2",
+      "published_at": "2023-09-09T17:00:00+00:00",
+      "link": null,
+      "description": "The investigators have made their way to The White Point Hotel where they are going to witness a demonstration of a mysterious new weapon that can supposedly destroy all matter. They must now work out whether the weapon is an elaborate hoax or if it is indeed the super weapon that has been promised. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR3581887226.mp3?updated=1707495579",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4387",
+      "speakers": [
+        "Tom Bates"
+      ],
+      "topics": [
+        "cthulhu",
+        "disintegrator"
+      ]
+    },
+    {
       "key": "5af1955d46892f46225b91f7465ec627c5ecc018",
       "title": "Call of Cthulhu: The Disintegrator #1",
       "published_at": "2023-09-09T17:00:00+00:00",
@@ -2877,25 +2934,6 @@
       "itunes_duration": "4347",
       "speakers": [
         "Mystery Quest",
-        "Tom Bates"
-      ],
-      "topics": [
-        "cthulhu",
-        "disintegrator"
-      ]
-    },
-    {
-      "key": "f59f5404ce8f71329b5db089bf3fce96db416506",
-      "title": "Call of Cthulhu: The Disintegrator #3",
-      "published_at": "2023-09-09T17:00:00+00:00",
-      "link": null,
-      "description": "Our investigators find themselves at breakfast awaiting the demonstration of the mysterious weapon known as The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2230576272.mp3?updated=1707495872",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4517",
-      "speakers": [
         "Tom Bates"
       ],
       "topics": [
@@ -2923,25 +2961,6 @@
         "goblin",
         "grinder"
       ]
-    },
-    {
-      "key": "1eca22755a0101b7dd1965525d648220ad5556b4",
-      "title": "Call of Cthulhu: The Disintegrator #2",
-      "published_at": "2023-09-09T17:00:00+00:00",
-      "link": null,
-      "description": "The investigators have made their way to The White Point Hotel where they are going to witness a demonstration of a mysterious new weapon that can supposedly destroy all matter. They must now work out whether the weapon is an elaborate hoax or if it is indeed the super weapon that has been promised. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR3581887226.mp3?updated=1707495579",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4387",
-      "speakers": [
-        "Tom Bates"
-      ],
-      "topics": [
-        "cthulhu",
-        "disintegrator"
-      ]
     }
   ]
 }
@@ -2950,6 +2969,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-08 — Call of Cthulhu: DeadFellas #3 — speakers: Tom Bates
 - 2026-05-01 — Call of Cthulhu: DeadFellas #2 — speakers: Tom Bates
 - 2026-04-24 — Call of Cthulhu: DeadFellas #1 — speakers: Tom Bates
 - 2026-04-17 — Blade Runner RPG: Electric Dreams #7 — speakers: Blade Runner Rpg, Tom Bates
@@ -3089,7 +3109,7 @@
 - 2023-09-30 — MÖRK BORG: The Goblin Grinder #4 — speakers: Tom Bates
 - 2023-09-23 — MÖRK BORG: The Goblin Grinder #3 — speakers: Tom Bates
 - 2023-09-16 — MÖRK BORG: The Goblin Grinder #2 — speakers: Tom Bates
-- 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Mystery Quest, Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #3 — speakers: Tom Bates
-- 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #2 — speakers: Tom Bates
+- 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Mystery Quest, Tom Bates
+- 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates
