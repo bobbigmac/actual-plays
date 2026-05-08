@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-05-08T14:19:00+00:00`
-- checked_at: `2026-05-08T14:19:00+00:00`
-- last_modified: `Fri, 08 May 2026 11:45:12 GMT`
+- fetched_at: `2026-05-08T19:47:23+00:00`
+- checked_at: `2026-05-08T19:47:23+00:00`
+- last_modified: `Fri, 08 May 2026 19:30:43 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-08T14:19:00+00:00",
+  "fetched_at": "2026-05-08T19:47:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -3417,7 +3417,7 @@
       "link": "https://www.patreon.com/posts/wight-winter-105343900",
       "description": "The cast AND crew recap the adventure so far through the Wight Winter Arc, level up, and answer questions from the audience! Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/6da81592-8dd5-11ec-8e4c-1fb8928b3ada/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8383498654.mp3?updated=1733727162",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8383498654.mp3?updated=1778266266",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4287",
@@ -3438,7 +3438,7 @@
       "link": "https://www.patreon.com/posts/wight-winter-ep-105343849",
       "description": "The interns have a lot to handle - Kyborg squares off with a mighty hunter, Bart tries to calm a heated fight, & GumGum & Mudd attempt a water search and rescue. All this and more in the final episode of the Wight Winter arc! Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/106fa66c-8851-11ec-a50e-df96efe31142/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER1057815126.mp3?updated=1733727145",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER1057815126.mp3?updated=1778266064",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4487",
@@ -3457,7 +3457,7 @@
       "link": "https://www.patreon.com/posts/wight-winter-ep-105343771",
       "description": "It seems the interns have been granted divine insight on how to end a century of war. Now all that stands between them is a horde of undead polar bears, an army of hulking Valrossians, and a Planar Wraith out for revenge Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/a628a602-82f9-11ec-b8fe-2ff3fcd1b3a1/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER6172259364.mp3?updated=1733727062",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER6172259364.mp3?updated=1778265903",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3595",
@@ -3479,10 +3479,10 @@
       "link": "https://www.patreon.com/posts/wight-winter-ep-105343717",
       "description": "The interns have caught up to V-King Nyve Gørn, but someone else has more devious plans for his royal highness! Between a quick sidebar with a deity, a royal conspiracy, and an Ishbjorn invasion, when will the party finally get some shuteye!? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/ffdea4ac-7d69-11ec-8294-6bf697fe9c85/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER4684873831.mp3?updated=1733727079",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER4684873831.mp3?updated=1778266069",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4435",
+      "itunes_duration": "4436",
       "speakers": [
         "Wight Winter",
         "King Nyve"
@@ -3500,7 +3500,7 @@
       "link": "https://www.patreon.com/posts/wight-winter-ep-105343660",
       "description": "The Interns have finally made it to the big time- A party/dinner with the great V-King. But when called to perform with lacking spell slots and a looming warden, can they even start the peace talks with the king? and more importantly, WTF IS PRESTIDIGITATION?! Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/19ab2b06-7588-11ec-a0e7-b39c548f2e46/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER2580663475.mp3?updated=1733727055",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER2580663475.mp3?updated=1778265813",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4635",
@@ -3536,7 +3536,7 @@
       "link": "https://www.patreon.com/posts/wight-winter-ep-105343444",
       "description": "After playing their way through an array of arcade games to win back their missing items, it seems a more frightening fate awaits our interns’ friendly fauna, as Gumbo and Hannibal face off with the infamous Snøbeist! Who will stand up to the massive monstrosity and win access to an audience with the venerable V-King Gørn? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/6402dc28-6ce4-11ec-afdd-e7cef29a3dd0/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER2097608348.mp3?updated=1733727009",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER2097608348.mp3?updated=1778265766",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4603",
@@ -3558,10 +3558,10 @@
       "link": "https://www.patreon.com/posts/wight-winter-ep-105343388",
       "description": "Time is running out for our fugitive interns! Can they save a suffering Slique, uncover their missing equipment, and beat all the high scores at the Hundrefest arcade? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/995e014a-674e-11ec-892d-cf35ad63ebec/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER2141927293.mp3?updated=1733726918",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER2141927293.mp3?updated=1778265839",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4258",
+      "itunes_duration": "4248",
       "speakers": [
         "Wight Winter",
         "Prison Breaks",
@@ -3582,7 +3582,7 @@
       "link": "https://www.patreon.com/posts/wight-winter-ep-105343341",
       "description": "Caught smack in the middle of the Valrossian kingdom they are trying to talk down, the interns are stuck in a jell cell while the invasion clock is ticking! Only one solution lies ahead: PRISON BREAK! Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/cae918fc-61eb-11ec-ac8f-43296f17268e/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER9737151077.mp3?updated=1733726971",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER9737151077.mp3?updated=1778265964",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5684",
@@ -3604,10 +3604,10 @@
       "link": "https://www.patreon.com/posts/wight-winter-ep-105343290",
       "description": "The interns are introduced to Spectril, and it’s time for this surreptitious Infinight to spill his secrets and reveal a shadowed past and perhaps more. Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/c844b754-5c65-11ec-9de1-4b2a8e4c0c79/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER2082062129.mp3?updated=1733726830",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER2082062129.mp3?updated=1778265718",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4003",
+      "itunes_duration": "4002",
       "speakers": [
         "Wight Winter"
       ],
@@ -3625,7 +3625,7 @@
       "link": "https://www.patreon.com/posts/wight-winter-ep-105343194",
       "description": "Welcome to the Ethereal Plane, interns! Murky memories and murderous intent are here to welcome the party to this mystical realm of mist. Will they escape or be trapped forever in this dim dimension? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/edd6d492-56e9-11ec-8434-2b5da2e0a9e5/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8808910733.mp3?updated=1733726833",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8808910733.mp3?updated=1778265645",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4771",
@@ -3646,7 +3646,7 @@
       "link": "https://www.patreon.com/posts/wight-winter-ep-105343120",
       "description": "The interns wake up to violent Valrossians and spooky spirits. Naturally, Gum Gum whistles for help, Kyborg fights his foes naked, and Mudd reaches for the moon. Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/ad1753ea-516d-11ec-b9f2-1794cebecaac/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER7812298331.mp3?updated=1733726746",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER7812298331.mp3?updated=1778265629",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4065",
@@ -3669,7 +3669,7 @@
       "link": "https://www.patreon.com/posts/wight-winter-ep-105343049",
       "description": "Thanks to their new friend, Archie, the interns finally see a glimmer of hope on this wintry horizon. They are heading for civilization! But what arctic uncertainties and misty mysteries wait for them in the town of Brumafume? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/2932eea0-4bdb-11ec-bc5a-27d9582d6489/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER7142542810.mp3?updated=1733726772",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER7142542810.mp3?updated=1778265761",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4972",
@@ -3690,7 +3690,7 @@
       "link": "https://www.patreon.com/posts/wight-winter-ep-105342977",
       "description": "Our adventurer's have a run-in with a series of mist monsters and a mysterious man with a magical amulet trapped in a column of ice. Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/6a2fcd4a-465b-11ec-8e6f-5368b15c3b5f/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER2498846085.mp3?updated=1733726679",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER2498846085.mp3?updated=1778265474",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4134",
@@ -3710,7 +3710,7 @@
       "link": "https://www.patreon.com/posts/wight-winter-ep-105335784",
       "description": "Our adventurers find an unconscious Slique slumped in the slushy snow, and come upon a mysterious mountain echoing spine-chilling screams. What waits inside for our intrepid interns? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5d872bec-40d9-11ec-8088-73678b2314db/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8801767821.mp3?updated=1733726847",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8801767821.mp3?updated=1778265326",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4923",
@@ -3731,7 +3731,7 @@
       "link": "https://www.patreon.com/posts/wight-winter-ep-105335691",
       "description": "It’s been three weeks since the Interns left Ürbloom through a portal and arrived not in Boulderay, but in a frigid hell. What have they been doing all this time? Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/31915636-3b5a-11ec-bbeb-dffb0120e06b/image/331b5d6cf58071f5c750d994125c3bec.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8970490848.mp3?updated=1733726746",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8970490848.mp3?updated=1778266192",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4191",
