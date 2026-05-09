@@ -2,9 +2,9 @@
 
 - slug: `ballad-of-the-seven-dice-a-pathfinder-call-of-cthulhu-podcast`
 - source: `https://balladofthesevendice.podbean.com/feed.xml`
-- fetched_at: `2026-03-29T21:49:02+00:00`
-- checked_at: `2026-03-29T21:49:02+00:00`
-- etag: `"76253a7b4f42010badb68c07ec82c717"`
+- fetched_at: `2026-05-09T16:10:55+00:00`
+- checked_at: `2026-05-09T16:10:55+00:00`
+- etag: `"797a366981b70aad95fb007b5e493173"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://balladofthesevendice.podbean.com",
   "description": "Our new campaign Escaping Carcosa follows two stories; one a Pathfinder2e tale that follows a group trapped inside a video game called Carcosa Online. The other group is a team of investigators playing Call of Cthulhu trying to free everyone trapped. Will they find freedom or will their world become another until Hastur’s control?",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/2696764/BOT7DPodcast_Resized_8cwkcf.jpg",
-  "fetched_at": "2026-03-29T21:49:02+00:00",
+  "fetched_at": "2026-05-09T16:10:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,25 @@
     "ttrpg/call-of-cthulhu"
   ],
   "episodes": [
+    {
+      "key": "e18ab04bcfda7948e491d68856108cc3271644d5",
+      "title": "Escaping Carcosa Online - Day 3 E13 // A Weary Respite",
+      "published_at": "2026-05-09T15:16:52+00:00",
+      "link": "https://balladofthesevendice.podbean.com/e/escaping-carcosa-online-day-3-e13-a-weary-respite/",
+      "description": "Welcome to the Ballad of the Seven Dice. The party can finally take a moment to sit down and enjoy the fact that they are alive. Wait, what about Lune? Check out our YouTube Want to join in on the conversation? Join Our Discord Show Notes Sin and Sinners, Experiment 4, Astral Projection, Creepy Doll, Dark Secret - Dark Fantasy Studio Filip Melvan - Fable Under The Table - 05 Tavern At The End Of Road Cellar - Monument Studios Cursed Forest, Quiet Tavern, Medieval City Indoors, Urban Park at Night, Daytime Forest, Fantasy Medieval City, - Michaël Ghelfi",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/kd8kzspn6vs8vrh5/Escaping_Carcosa_Online_-_Season_3_Episode_13awvl5.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54417866",
+      "itunes_duration": "3401",
+      "speakers": [],
+      "topics": [
+        "carcosa",
+        "online",
+        "weary",
+        "respite"
+      ]
+    },
     {
       "key": "d625eb35f84dbd22fbdd62d131256688e784c6ef",
       "title": "Escaping Carcosa Offline - Day 3 E11 // Get Them Digits",
@@ -4637,6 +4656,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-09 — Escaping Carcosa Online - Day 3 E13 // A Weary Respite
 - 2026-03-29 — Escaping Carcosa Offline - Day 3 E11 // Get Them Digits — speakers: Carcosa Offline Day
 - 2026-03-28 — Escaping Carcosa Online - Day 3 E12 // The Crawling Chaos
 - 2026-03-01 — Escaping Carcosa Online - Day 3 E11 // The Dwarf Lord's Trials
