@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-05-09T19:35:53+00:00`
-- checked_at: `2026-05-09T19:35:53+00:00`
-- last_modified: `Sat, 09 May 2026 19:34:24 GMT`
+- fetched_at: `2026-05-09T22:04:01+00:00`
+- checked_at: `2026-05-09T22:04:01+00:00`
+- last_modified: `Sat, 09 May 2026 20:46:39 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-09T19:35:53+00:00",
+  "fetched_at": "2026-05-09T22:04:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -929,12 +929,12 @@
       "title": "C03 - Ep. 03 - Mission Through Middrus - Liar, Liar, Fort’s on Fire",
       "published_at": "2024-10-30T07:00:00+00:00",
       "link": null,
-      "description": "Brutaliteam are left to deal with daemongrel hounds and a firey camp during the Pass Out Parade. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Go to http://mistymountaingaming.com and use code STINKY to get 10% off your order. Go to http://shopify.com/dragon to sign up for a $1-per-month trial period. Go to http://HeroForge.com and use code STINKY to get 5% off all orders of physical miniatures. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Brutaliteam are left to deal with daemongrel hounds and a fiery camp during the Pass Out Parade. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/b932b09e-9291-11ef-956b-a78f8651f410/image/391d67353528e0b0d2c32df5be3940d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS5149817242.mp3?updated=1731432623",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS5149817242.mp3?updated=1778357879",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5015",
+      "itunes_duration": "5013",
       "speakers": [
         "daemongrel hounds"
       ],
@@ -975,9 +975,9 @@
       "title": "C03 - Ep. 02 - Mission Through Middrus - Passing Out",
       "published_at": "2024-10-16T07:00:00+00:00",
       "link": null,
-      "description": "Brutaliteam spends time together on their last night in Boot Camp before presenting at the Passing Out Parade. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Go to http://theherosjournal.co and use code STINKY30 for 30% off your order. Go to http://shopify.com/dragon to sign up for a $1-per-month trial period. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Brutaliteam spends time together on their last night in Boot Camp before presenting at the Passing Out Parade. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/2b266728-7c39-11ef-a5d4-bfb9f46db52b/image/066be419d0b7c0865a263ded0e6dd4f7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS1705211763.mp3?updated=1731432413",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS1705211763.mp3?updated=1778357234",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4861",
@@ -998,7 +998,7 @@
       "link": null,
       "description": "Welcome to a new campaign, recruits! In this newest tale from the Stinky Dragon, our party of adventurers are caught in a war between deities and demons in the world of Middrus. But before they brave the front line, our heroes—Dug, Gunther, Nattie, and Tolv—will have to survive boot camp. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our Patreon-exclusive discord, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon . Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/2abf8a12-7c39-11ef-a5d4-ffa0f5a49ebb/image/391d67353528e0b0d2c32df5be3940d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS5614339242.mp3?updated=1731432339",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS5614339242.mp3?updated=1778356160",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4486",
