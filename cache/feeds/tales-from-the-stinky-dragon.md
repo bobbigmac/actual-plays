@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-05-10T19:36:02+00:00`
-- checked_at: `2026-05-10T19:36:02+00:00`
-- last_modified: `Sun, 10 May 2026 19:28:04 GMT`
+- fetched_at: `2026-05-10T22:07:00+00:00`
+- checked_at: `2026-05-10T22:07:00+00:00`
+- last_modified: `Sun, 10 May 2026 21:58:07 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-10T19:36:02+00:00",
+  "fetched_at": "2026-05-10T22:07:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -452,9 +452,9 @@
       "title": "C03 - Ep. 24 - Brig of Endridge Bay - Nonymo Money Nonymo Problems",
       "published_at": "2025-08-20T07:00:00+00:00",
       "link": null,
-      "description": "B-Team struggles as they are stuck between a Volcanaconda rock and an Ironklad hard place. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new Gunther merch at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "B-Team struggles as they are stuck between a Volcanaconda rock and an Ironklad hard place. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new Gunther merch at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/ff9d0244-61be-11f0-bbdc-db340a9c1f5e/image/57beecb46ccd95b039302a480108b1ce.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS7822511067.mp3?updated=1755239108",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS7822511067.mp3?updated=1778450578",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6125",
@@ -475,12 +475,12 @@
       "title": "C03 - Ep. 23 - Brig of Endridge Bay - Ancient Mistics",
       "published_at": "2025-08-06T07:00:00+00:00",
       "link": null,
-      "description": "B-Team explores the caverns of Nonymo. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new Gunther merch at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "B-Team explores the caverns of Nonymo. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new Gunther merch at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/ff6abbd6-61be-11f0-bbdc-4f97348025cd/image/57beecb46ccd95b039302a480108b1ce.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS4470018759.mp3?updated=1753946217",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS4470018759.mp3?updated=1778449374",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4831",
+      "itunes_duration": "4827",
       "speakers": [
         "Endridge Bay",
         "Ancient Mistics"
@@ -497,12 +497,12 @@
       "title": "C03 - Ep. 22 - Brig of Endridge Bay - The Great Mistery",
       "published_at": "2025-07-23T07:00:00+00:00",
       "link": null,
-      "description": "B-Team’s and Ironklad’s battle into the depths of a vortex of swirling sea lead to unexpected exploration. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new Infinight Legends Collection and limited edition Anniversary collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "B-Team’s and Ironklad’s battle into the depths of a vortex of swirling sea lead to unexpected exploration. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new Infinight Legends Collection and limited edition Anniversary collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/ff2fee70-61be-11f0-bbdc-5bb5f5473012/image/57beecb46ccd95b039302a480108b1ce.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS9336879124.mp3?updated=1753946237",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS9336879124.mp3?updated=1778448331",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5260",
+      "itunes_duration": "5261",
       "speakers": [],
       "topics": [
         "brig",
@@ -516,12 +516,12 @@
       "title": "C03 - Ep. 21 - Brig of Endridge Bay - Slip of the Ship",
       "published_at": "2025-07-09T07:00:00+00:00",
       "link": null,
-      "description": "Brutaliteam sets sail to find the mysterious island of Nonymo! Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new Infinight Legends Collection and limited edition Anniversary collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Brutaliteam sets sail to find the mysterious island of Nonymo! Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new Infinight Legends Collection and limited edition Anniversary collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/006350f6-5829-11f0-a9de-43a47724024a/image/57beecb46ccd95b039302a480108b1ce.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS4685297517.mp3?updated=1752422667",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS4685297517.mp3?updated=1778447551",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6632",
+      "itunes_duration": "6630",
       "speakers": [
         "Endridge Bay",
         "Ship Brutaliteam"
@@ -538,9 +538,9 @@
       "title": "C03 - Ep. 20 - Brig of Endridge Bay - Tween the Devil and Deep Blue Sea",
       "published_at": "2025-06-25T07:00:00+00:00",
       "link": null,
-      "description": "B-Team discusses Tolv's latest revelations, a mysterious stranger arrives, and a confrontation with a crew of gnolls ensues. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new Infinight Legends Collection and limited edition Anniversary collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "B-Team discusses Tolv's latest revelations, a mysterious stranger arrives, and a confrontation with a crew of gnolls ensues. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new Infinight Legends Collection and limited edition Anniversary collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/c9ffc914-7f79-11ef-a297-8fd684df23cf/image/57beecb46ccd95b039302a480108b1ce.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS4556115754.mp3?updated=1752422570",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS4556115754.mp3?updated=1778443041",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5915",
@@ -563,10 +563,10 @@
       "link": null,
       "description": "B-Team explores Tolv’s past, including his mentor’s home. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new Infinight Legends Collection and limited edition Anniversary collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/c9c543a2-7f79-11ef-a297-fbf77e761a87/image/57beecb46ccd95b039302a480108b1ce.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS4604976187.mp3?updated=1749245733",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS4604976187.mp3?updated=1778443227",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5293",
+      "itunes_duration": "5290",
       "speakers": [
         "Endridge Bay"
       ],
