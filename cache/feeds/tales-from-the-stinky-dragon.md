@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-05-10T08:23:03+00:00`
-- checked_at: `2026-05-10T08:23:03+00:00`
-- last_modified: `Sun, 10 May 2026 05:26:43 GMT`
+- fetched_at: `2026-05-10T19:36:02+00:00`
+- checked_at: `2026-05-10T19:36:02+00:00`
+- last_modified: `Sun, 10 May 2026 19:28:04 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-10T08:23:03+00:00",
+  "fetched_at": "2026-05-10T19:36:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -561,7 +561,7 @@
       "title": "C03 - Ep. 19 - Brig of Endridge Bay - Bjorn and Raised",
       "published_at": "2025-06-11T07:00:00+00:00",
       "link": null,
-      "description": "B-Team explores Tolv’s past, including his mentor’s home. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new Infinight Legends Collection and limited edition Anniversary collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "B-Team explores Tolv’s past, including his mentor’s home. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new Infinight Legends Collection and limited edition Anniversary collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/c9c543a2-7f79-11ef-a297-fbf77e761a87/image/57beecb46ccd95b039302a480108b1ce.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS4604976187.mp3?updated=1749245733",
       "enclosure_type": "audio/mpeg",
@@ -581,9 +581,9 @@
       "title": "C03 - Ep. 18 - Brig of Endridge Bay - Pvt. Conversation with The Privateer",
       "published_at": "2025-05-28T07:00:00+00:00",
       "link": null,
-      "description": "Brutaliteam overhears Oondarian plans and attempts a jail break. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new \"Council of Barbarians\" Tee and Infinight Legends Collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Brutaliteam overhears Oondarian plans and attempts a jail break. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new \"Council of Barbarians\" Tee and Infinight Legends Collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/c98b488c-7f79-11ef-a297-ef2cd87b497f/image/57beecb46ccd95b039302a480108b1ce.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS9687827818.mp3?updated=1747942265",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS9687827818.mp3?updated=1778441021",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5077",
@@ -600,12 +600,12 @@
       "title": "C03 - Ep. 17 - Brig of Endridge Bay - Docked and Loaded",
       "published_at": "2025-05-14T07:00:00+00:00",
       "link": null,
-      "description": "B-Team navigates through the Cove of Lost Hulls and discovers secrets of the sea. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new \"Council of Barbarians\" Tee and Infinight Legends Collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "B-Team navigates through the Cove of Lost Hulls and discovers secrets of the sea. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new \"Council of Barbarians\" Tee and Infinight Legends Collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/c95214fe-7f79-11ef-a297-6f8b90d1e9e9/image/57beecb46ccd95b039302a480108b1ce.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS4529794778.mp3?updated=1746732670",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS4529794778.mp3?updated=1778439986",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5343",
+      "itunes_duration": "5340",
       "speakers": [
         "Endridge Bay",
         "Lost Hulls"
@@ -622,9 +622,9 @@
       "title": "C03 - Ep. 16 - Brig of Endridge Bay - Lost Souls & Lost Hulls",
       "published_at": "2025-04-30T07:00:00+00:00",
       "link": null,
-      "description": "Brutaliteam attempt to find their way through the Cursed Catacombs in search of inexplicable imposters. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new \"Council of Barbarians\" Tee and the NEW Infinight Legends Collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Brutaliteam attempt to find their way through the Cursed Catacombs in search of inexplicable imposters. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new \"Council of Barbarians\" Tee and the NEW Infinight Legends Collection at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/c915a622-7f79-11ef-a297-2b5c00678f3a/image/57beecb46ccd95b039302a480108b1ce.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS3756919464.mp3?updated=1745606125",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS3756919464.mp3?updated=1778438963",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5519",
