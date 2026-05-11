@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-05-07T04:08:32+00:00`
-- checked_at: `2026-05-07T04:08:32+00:00`
-- etag: `"djEuMi4wOjE3NzgxMjE3MzA4NjM="`
+- fetched_at: `2026-05-11T15:40:55+00:00`
+- checked_at: `2026-05-11T15:40:55+00:00`
+- etag: `"djEuMi4wOjE3Nzg1MTE2Mzk2MzM="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-05-07T04:08:32+00:00",
+  "fetched_at": "2026-05-11T15:40:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "5644e6bee02ebe697b14dd8158df54d79b42a0ca",
+      "title": "Campaign 2: Episode 183 - Wedding Propaganda",
+      "published_at": "2026-05-11T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-183-wedding-propaganda",
+      "description": "Now that we have successfully infiltrated the Von Esper wedding, it's time to gather information. Most of that information should revolve around whether or not they hate Selene, or if they think she is dead, or if they hate that she may be alive. That sort of thing. However, there are bound to be some other big wigs around here just dying to spill some secrets. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by Zack Meyman AKA Zoomtoonz ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1778502404940-bfd66943-65e8-40b3-ae13-e13c41d7ede4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a01cc086304701dd825d5c5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90414439",
+      "itunes_duration": "1:02:46",
+      "speakers": [
+        "Von Esper"
+      ],
+      "topics": [
+        "campaign",
+        "wedding",
+        "propaganda"
+      ]
+    },
     {
       "key": "00240d6ca899e8808d4a7a4cd1ee61854eeef1d8",
       "title": "Campaign 2: Bonus Episode - Great Kings and Venturers! Part 4",
@@ -12275,6 +12295,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — Campaign 2: Episode 183 - Wedding Propaganda — speakers: Von Esper
 - 2026-05-04 — Campaign 2: Bonus Episode - Great Kings and Venturers! Part 4
 - 2026-04-27 — Campaign 2: Bonus Episode - Great Kings and Venturers! Part 3
 - 2026-04-20 — Campaign 2: Episode 182 - Big Bad Bread Wars — speakers: Big Bad Bread Wars
