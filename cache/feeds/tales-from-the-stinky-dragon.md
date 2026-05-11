@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-05-11T04:39:18+00:00`
-- checked_at: `2026-05-11T04:39:18+00:00`
-- last_modified: `Mon, 11 May 2026 04:33:20 GMT`
+- fetched_at: `2026-05-11T10:01:25+00:00`
+- checked_at: `2026-05-11T10:01:25+00:00`
+- last_modified: `Mon, 11 May 2026 09:31:41 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-11T04:39:18+00:00",
+  "fetched_at": "2026-05-11T10:01:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -176,12 +176,12 @@
       "title": "C03 - Ep. 36 - From On Hyra - No Guard Feelings",
       "published_at": "2026-02-04T08:00:00+00:00",
       "link": null,
-      "description": "Brutaleam does what they do best - causing chaos during a prison guard brawl. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new merch at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Brutaleam does what they do best - causing chaos during a prison guard brawl. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new merch at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/4b415016-dadb-11f0-a213-8791f7ec991c/image/5940ff546dcc4bc87ae401ee16a3e0a2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS1135073132.mp3?updated=1769660374",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS1135073132.mp3?updated=1778479918",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5806",
+      "itunes_duration": "5804",
       "speakers": [
         "No Guard Feelings Brutaleam"
       ],
@@ -196,9 +196,9 @@
       "title": "C03 - Ep. 35 - From On Hyra - Plunges, Plans, and Passing Gas",
       "published_at": "2026-01-21T00:00:00+00:00",
       "link": null,
-      "description": "Brutaliteam starts their break in to Skyblue Falls Prison. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new merch at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Brutaliteam starts their break in to Skyblue Falls Prison. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new merch at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/4b094f7c-dadb-11f0-a213-eb7a032eb588/image/5940ff546dcc4bc87ae401ee16a3e0a2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS7687014602.mp3?updated=1768800069",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS7687014602.mp3?updated=1778478347",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5564",
@@ -217,9 +217,9 @@
       "title": "C03 - Ep. 34 - From On Hyra - Return of the Bling",
       "published_at": "2026-01-07T08:00:00+00:00",
       "link": null,
-      "description": "Brutaliteam revels in the remnants of a failed ritual and decided what to do with the Fire Opal of Fireballs. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new merch at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Brutaliteam revels in the remnants of a failed ritual and decided what to do with the Fire Opal of Fireballs. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new merch at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/ede742f8-dad6-11f0-b66c-173424b24eef/image/5940ff546dcc4bc87ae401ee16a3e0a2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS5905778246.mp3?updated=1765943982",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS5905778246.mp3?updated=1778477046",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5260",
@@ -235,9 +235,9 @@
       "title": "C03 - Ep. 33 - From On Hyra - Seventh Inning Dretch",
       "published_at": "2025-12-24T08:00:00+00:00",
       "link": null,
-      "description": "Brutaliteam explores the rest of the Sora's Stump mines and stumbles onto a nefarious plot of peril. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out the Deck of Dungeon's Here ! Check out our new merch at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Brutaliteam explores the rest of the Sora's Stump mines and stumbles onto a nefarious plot of peril. Support us directly on Patreon https://stinkydragonpod.com - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out the Deck of Dungeon's Here ! Check out our new merch at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/0179e6ea-61bf-11f0-bbdc-4f6ab1d08866/image/5940ff546dcc4bc87ae401ee16a3e0a2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS7355565143.mp3?updated=1765316213",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS7355565143.mp3?updated=1778475408",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5277",
