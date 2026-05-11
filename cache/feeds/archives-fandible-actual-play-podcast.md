@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-04-21T03:47:35+00:00`
-- checked_at: `2026-04-26T07:55:49+00:00`
-- etag: `"f02510dd0de63260c8a56e4a9d2cae20"`
+- fetched_at: `2026-05-11T20:06:16+00:00`
+- checked_at: `2026-05-11T20:06:16+00:00`
+- etag: `"e21744d4c4f3c333c6285aa60eed4c30"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-04-21T03:47:35+00:00",
+  "fetched_at": "2026-05-11T20:06:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "fc15f756ddda09914514cf2d6e0ee6784bbba9fd",
+      "title": "Dungeons & Dragons: Trevons Heist part 3",
+      "published_at": "2026-05-05T15:28:23+00:00",
+      "link": "https://fandible.com/dungeons-dragons-trevons-heist-part-3/",
+      "description": "The heroes infiltrate the wizards tower and encounter danger and opportunity…. and a lot of floating hands. The post Dungeons & Dragons: Trevons Heist part 3 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/456_DND_TheTrevonHeist/Fan_803_DnD_TheTrevonHeistpart3.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46955987",
+      "itunes_duration": "56:48",
+      "speakers": [
+        "Trevons Heist"
+      ],
+      "topics": [
+        "dungeon",
+        "dragons",
+        "trevon"
+      ]
+    },
     {
       "key": "ad7ef5867fc7456149f7dcf9d650af13e1f48d93",
       "title": "Dungeons & Dragons: Trevons Heist part 1",
@@ -11356,22 +11376,6 @@
         "brotherhood",
         "babylon"
       ]
-    },
-    {
-      "key": "c3d1e02834951edc82751ec003a522c213a07b0b",
-      "title": "Shadowrun: Prime Ep 7 part 2 of 2",
-      "published_at": "2016-06-10T16:21:54+00:00",
-      "link": "https://fandible.com/shadowrun-ep-9-greed-charity-2-2/",
-      "description": "Disoriented from being out of the loop for 3 years, the Shadowrunners take some time to catch up on recent Sixth World history. The post Shadowrun: Prime Ep 7 part 2 of 2 appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/183_SR_GreedAndCharity/Fan_300_SR_GreedAndCharity2of2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "55709828",
-      "itunes_duration": "1:54:53",
-      "speakers": [],
-      "topics": [
-        "prime"
-      ]
     }
   ]
 }
@@ -11380,6 +11384,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-05 — Dungeons & Dragons: Trevons Heist part 3 — speakers: Trevons Heist
 - 2026-04-14 — Dungeons & Dragons: Trevons Heist part 1 — speakers: Trevons Heist
 - 2026-03-30 — It Came From Beyond the Grave: Blackthorn Hill part 2 — speakers: Blackthorn Hill, Great Evil
 - 2026-03-16 — It Came From Beyond the Grave: Blackthorn Hill part 1
@@ -11979,4 +11984,3 @@
 - 2016-07-01 — The Strange Ep 9: Epic Raid 1 of 2 — speakers: Epic Raid, Con Artists, Guild Masters
 - 2016-06-24 — Lasers & Feelings: Holodreck — speakers: Holodreck Stuck
 - 2016-06-17 — The End of the World: The Brotherhood of Babylon
-- 2016-06-10 — Shadowrun: Prime Ep 7 part 2 of 2
