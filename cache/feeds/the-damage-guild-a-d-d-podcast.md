@@ -2,9 +2,9 @@
 
 - slug: `the-damage-guild-a-d-d-podcast`
 - source: `https://thedamageguild.com/feed/podcast/`
-- fetched_at: `2026-04-27T04:02:23+00:00`
-- checked_at: `2026-04-27T04:02:23+00:00`
-- last_modified: `Mon, 27 Apr 2026 04:01:00 GMT`
+- fetched_at: `2026-05-11T04:39:18+00:00`
+- checked_at: `2026-05-11T04:39:18+00:00`
+- last_modified: `Mon, 11 May 2026 04:01:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedamageguild.com",
   "description": "Do you like jokes, adventure, killing things, and friendship? Of course you do! The Damage Guild is an actual-play Dungeons & Dragons 5E (5th Edition) podcast with a focus on collaborative storytelling, character-driven narrative, and improv comedy shenanigans, delivered in a family-friendly style and set in a homebrew world. Join us for new episodes every other Monday, so you can kiss those weekend blues goodbye and get pumped to slay the dragon of your everyday life!",
   "image_url": "https://thedamageguild.com/wp-content/uploads/dgp_party_logo.png",
-  "fetched_at": "2026-04-27T04:02:23+00:00",
+  "fetched_at": "2026-05-11T04:39:18+00:00",
   "owners": [
     "Sean Abrams",
     "Thayne Bohman",

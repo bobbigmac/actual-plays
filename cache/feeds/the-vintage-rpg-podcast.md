@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-05-09T22:04:01+00:00`
-- checked_at: `2026-05-09T22:04:01+00:00`
-- etag: `"8e90f95a3912611f5ebb0dd641fb78d7"`
-- last_modified: `Sat, 09 May 2026 20:17:22 GMT`
+- fetched_at: `2026-05-11T04:39:18+00:00`
+- checked_at: `2026-05-11T04:39:18+00:00`
+- etag: `"89a71920cfe5eb2d21e97f2a5462bde7"`
+- last_modified: `Mon, 11 May 2026 04:09:40 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-05-09T22:04:01+00:00",
+  "fetched_at": "2026-05-11T04:39:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "bb4c2de849d1b35577e68a60a31b630875fbcc3f",
+      "title": "Monster Dinosaur",
+      "published_at": "2026-05-11T04:00:00+00:00",
+      "link": "https://www.vintagerpg.com/2026/05/monster-dinosaur/",
+      "description": "Oh wait, this is supposed to be a podcast about roleplaying games? This week on the Vintage RPG Podcast, we're talking local news, Daniel Cohen books, new phones and more, pretty much everything but RPGs. Sometimes that happens! * * * Instagram? Old news. Join the Vintage RPG Newsletter ! That's where all the cool kids are now! Stu's book, Monsters, Aliens, and Holes in the Ground is for sale now! Buy it ! Patreon? Discord? Cool RPG things to buy? All the Vintage RPG links you need are right here in one place ! Like, Rate, Subscribe and Review the Vintage RPG Podcast! Edited by the one and only R. Alex Murray . Send questions, comments or corrections to info@vintagerpg.com . Available on iTunes , Google Podcasts , iHeartRadio , Spotify , YouTube and your favorite podcast clients. The Vintage RPG illustration is by Shafer Brown . Follow him on Twitter . Tune in next week for the next episode. Until then, may the dice always roll in your favor!",
+      "image_url": "https://static.libsyn.com/p/assets/1/7/9/7/1797b12240282893d959afa2a1bf1c87/Vintage_Podcast_Icon-20260509-fwzwsa1xef.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/thevintagerpgpodcast/VRPG_-_Rambling_.mp3?dest-id=747998",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61037301",
+      "itunes_duration": "30:03",
+      "speakers": [
+        "Monster Dinosaur Oh"
+      ],
+      "topics": [
+        "monster",
+        "dinosaur"
+      ]
+    },
     {
       "key": "ce4047459f92bd8e6c9e116b99aeb7009e4328c4",
       "title": "Sea and Land",
@@ -6581,6 +6600,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — Monster Dinosaur — speakers: Monster Dinosaur Oh
 - 2026-04-27 — Sea and Land — speakers: Monster Manual
 - 2026-04-20 — Night of the Ninja (and More!)
 - 2026-04-06 — TSR Art Books — speakers: Art Books Art
