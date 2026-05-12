@@ -2,10 +2,10 @@
 
 - slug: `worlds-beyond-number`
 - source: `https://feeds.simplecast.com/IAPnSSRO`
-- fetched_at: `2026-05-12T09:13:31+00:00`
-- checked_at: `2026-05-12T09:13:31+00:00`
-- etag: `"ca6fafb1b59e90c957e3ae5f7d066161"`
-- last_modified: `Tue, 12 May 2026 09:00:14 GMT`
+- fetched_at: `2026-05-12T17:25:36+00:00`
+- checked_at: `2026-05-12T17:25:36+00:00`
+- etag: `"ad076dcc372c197102088c73491ec1d7"`
+- last_modified: `Tue, 12 May 2026 16:58:34 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://worlds-beyond-number.simplecast.com",
   "description": "An epic, improvised storytelling podcast where Brennan Lee Mulligan, Erika Ishii, Aabria Iyengar, and Lou Wilson hang out together, play games, build worlds, and make stories.",
   "image_url": "https://image.simplecastcdn.com/images/c89bbbb6-e942-4583-ad73-4877d9c0b2f6/dfae107c-3b1e-4c37-acf7-a48a1ff6e445/3000x3000/wbn-album-logo-art-2024-3000x3000.jpg?aid=rss_feed",
-  "fetched_at": "2026-05-12T09:13:31+00:00",
+  "fetched_at": "2026-05-12T17:25:36+00:00",
   "owners": [
     "Brennan Lee Mulligan",
     "Aabria Iyengar",
@@ -37,7 +37,7 @@
       "published_at": "2026-05-12T09:00:00+00:00",
       "link": "https://worlds-beyond-number.simplecast.com/episodes/solari-episode-5-pirouette-QyjtZbB7",
       "description": "A gift delivered at terminal velocity. Sender unknown, but the intent is clear. A deadly dance unfolds before us. One step, two step, boom! Content Warning : This episode contains depictions of violence and drug use. We are: Brennan Lee Mulligan Erika Ishii Aabria Iyengar Lou Wilson Solari was produced by Worlds Beyond Number Edit and Sound Design by Jino Jang-Hansen at Big Giant Head Score by Will Savino https://wsavino.com/ Director of Operations: Melanie Bowman Social Media Manager: Shannon H Lorekeeper and Transcriptionist: Jack Morgan E.F. Lavandowska Recording Engineer: Rainie Toll Character Art by Nikolas Draper-Ivey www.instagram.com/nikolasdraperivey/ Cover Art by Lu Tomkiewicz www.instagram.com/_fromlu/ This campaign uses the Stillfleet TTRPG system, created by Wythe Marschall and developed by Stillfleet Studio https://stillfleet.com/collections/stillfleet You can find transcripts of all our episodes on our Patreon. Just navigate to the post for the episode and the transcript will be attached.",
-      "image_url": null,
+      "image_url": "https://image.simplecastcdn.com/images/52465498-1509-439a-8bae-5a0586d07e7b/ceaa36b2-8cb9-4eae-9da1-667d39bb50de/3000x3000/solari_album_art.jpg?aid=rss_feed",
       "enclosure_url": "https://cdn.simplecast.com/media/audio/transcoded/3271e9ed-72a9-42fd-a976-32864451ba9e/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/audio/group/79c3b428-b5ac-43ce-8512-695fd2565ed4/group-item/cc1f538a-0821-4ee4-8026-c2822814b1a0/128_default_tc.mp3?aid=rss_feed&feed=IAPnSSRO",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101837301",

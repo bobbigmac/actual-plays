@@ -3,10 +3,12 @@
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
 - fetched_at: `2026-05-08T10:50:21+00:00`
-- checked_at: `2026-05-08T10:50:21+00:00`
+- checked_at: `2026-05-12T17:25:36+00:00`
 - etag: `W/"bbf48b8cef17e19ca08ae793a6df4bc0"`
 - last_modified: `Fri, 08 May 2026 09:00:00 GMT`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: The read operation timed out
 
 <!-- FEED_JSON -->
 ```json
@@ -2609,7 +2611,17 @@
         "heroes"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-05-12T17:25:36+00:00",
+    "status": "error",
+    "checked_at": "2026-05-12T17:25:36+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "The read operation timed out"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
