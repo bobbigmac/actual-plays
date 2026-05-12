@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-05-06T11:22:06+00:00`
-- checked_at: `2026-05-06T11:22:06+00:00`
-- etag: `"0159dd5a4c03a7b71f0ec6678646e3ea"`
-- last_modified: `Wed, 06 May 2026 08:03:36 GMT`
+- fetched_at: `2026-05-12T22:37:32+00:00`
+- checked_at: `2026-05-12T22:37:32+00:00`
+- etag: `"c5155e3ad6813dd1d5517f78fb0e08e9"`
+- last_modified: `Tue, 12 May 2026 20:36:44 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-05-06T11:22:06+00:00",
+  "fetched_at": "2026-05-12T22:37:32+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "71eac9074c58636fc373a388507fae1c5ccb621b",
+      "title": "The Fog Campaign - Episode 70",
+      "published_at": "2026-05-12T20:34:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-70",
+      "description": "The Ding Dong Danglers, if we can call them that, continue to smack the lich around while the leviathan gobbles up the fishfolk. Also, oh Episode 70. Remember 69? And Episode 71 is so far away, by which we mean only one finger is in use right now. For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more be sure to head to nerdpokerpod.com",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-070-20260501-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119181248",
+      "itunes_duration": "49:40",
+      "speakers": [
+        "Ding Dong Danglers",
+        "Brian Posehn"
+      ],
+      "topics": [
+        "campaign"
+      ]
+    },
     {
       "key": "285806c3076337c61f2ea230477409daf7022ec0",
       "title": "The Fog Campaign - Episode 69",
@@ -8867,6 +8886,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-12 — The Fog Campaign - Episode 70 — speakers: Ding Dong Danglers, Brian Posehn
 - 2026-05-06 — The Fog Campaign - Episode 69 — speakers: Brian Posehn
 - 2026-04-29 — The Fog Campaign - Episode 68 — speakers: Brian Posehn
 - 2026-04-23 — The Fog Campaign - Episode 67 — speakers: Brian Posehn
