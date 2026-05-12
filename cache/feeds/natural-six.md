@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-05-12T11:28:10+00:00`
-- checked_at: `2026-05-12T11:28:10+00:00`
-- etag: `"djEuMi4wOjE3Nzg1ODIwOTQ0Nzg="`
+- fetched_at: `2026-05-12T20:11:30+00:00`
+- checked_at: `2026-05-12T20:11:30+00:00`
+- etag: `"djEuMi4wOjE3Nzg2MTI0Mzk1MDc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-05-12T11:28:10+00:00",
+  "fetched_at": "2026-05-12T20:11:30+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "215e89c69bf7ec540219cc3a4e880cf6975d62a1",
+      "title": "Ep. 54 Song of the Treespeaker",
+      "published_at": "2026-05-12T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-54-song-of-the-treespeaker",
+      "description": "Things can surface whether you’re ready for them or not, a past drifting up, a present holding steady, or a future that leaves you with more questions than answers. Reflections don’t always clarify so much as they reveal, and not everyone is ready to accept what waits beneath the surface. Impatience has a way of being louder than wisdom, but magic has little interest in being shouted into submission. The water may wish to keep its counsel, and the forest has never been impressed by volume. There are other ways to be heard, to speak, and to share. Melody can thread itself through bark and memory, giving the forest reason to answer, as roots remember what you’ve abandoned and what you carry with you still. A reminder that you don’t need to be loud to be powerful enough to change the shape of the world. And when the final note fades, the path ahead shifts once more, because the forest isn’t finished yet, and neither are they. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/69f915fb68235ca3bc1be4b9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "362718475",
+      "itunes_duration": "3:08:49",
+      "speakers": [
+        "Treespeaker Things",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "song",
+        "treespeaker"
+      ]
+    },
     {
       "key": "11a3eeda4a021adf29d8dd0ec97f5c09189347c3",
       "title": "Action Surge Episode 53",
@@ -2792,6 +2817,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-12 — Ep. 54 Song of the Treespeaker — speakers: Treespeaker Things, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-05-05 — Action Surge Episode 53 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-04-28 — Ep. 53 Boorish Rebuke — speakers: Boorish Rebuke Some, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-04-21 — Action Surge Episode 52 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
