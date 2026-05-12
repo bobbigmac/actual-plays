@@ -2,10 +2,10 @@
 
 - slug: `how-we-roll-podcast`
 - source: `https://feeds.simplecast.com/9uMQFeML`
-- fetched_at: `2026-04-24T16:13:43+00:00`
-- checked_at: `2026-04-24T16:13:43+00:00`
-- etag: `"bc0f1570d904a49688aa54f5297fd0e1"`
-- last_modified: `Fri, 24 Apr 2026 15:04:25 GMT`
+- fetched_at: `2026-05-12T15:11:36+00:00`
+- checked_at: `2026-05-12T15:11:36+00:00`
+- etag: `"29006e9c436e4447e1d7c43dc8e71d89"`
+- last_modified: `Tue, 12 May 2026 14:26:46 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://howwerollpodcast.com/",
   "description": "Professionally produced, UK and Ireland based RPG Podcast, playing Call of Cthulhu 7e, D&d and currently AlienRPG",
   "image_url": "https://image.simplecastcdn.com/images/77737ff1-1444-446d-8d2e-2b8c8abe73ea/534fa82f-b4c6-4fe3-8ef2-98a9a1e9ec3f/3000x3000/hwr-logo.jpg?aid=rss_feed",
-  "fetched_at": "2026-04-24T16:13:43+00:00",
+  "fetched_at": "2026-05-12T15:11:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "f7764bf0b24456ab8d1f5b5e1dbb9a59f5971761",
+      "title": "007-Cthulhu Dark - Goodcliffe - Broken Pieces",
+      "published_at": "2026-05-12T14:26:31+00:00",
+      "link": "http://howwerollpodcast.com/",
+      "description": "Join us for How We Roll's first decent into the horror of Cthulhu Dark. With guest keeper Mr Spike at the helm we have a treat in store for you. With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com You can find us: On Bluesky @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast You can find us all on bluesky!",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/4091cf96-7268-4229-96e3-849ac82dd8c8/4c1043e2-857c-4f43-9dd8-07efd88404f1/episodes/audio/group/4d657c40-31e4-47d2-a133-0cdea1de4bbc/group-item/78e03972-9512-4bad-a38f-ca0f811bf8ae/128_default_tc.mp3?aid=rss_feed&feed=9uMQFeML",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66762933",
+      "itunes_duration": "01:09:31",
+      "speakers": [],
+      "topics": [
+        "cthulhu",
+        "dark",
+        "goodcliffe",
+        "piece"
+      ]
+    },
     {
       "key": "a744b7fc3c2359be3f3e8d6a380eec8ccc555f77",
       "title": "146 - Two Headed Serpent - Snake Island - Too Many Potential Titles to Choose",
@@ -10722,6 +10741,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-12 — 007-Cthulhu Dark - Goodcliffe - Broken Pieces
 - 2026-04-24 — 146 - Two Headed Serpent - Snake Island - Too Many Potential Titles to Choose — speakers: Syrinscape Kevin MaCleod
 - 2026-04-10 — 006-Cthulhu Dark - Goodcliffe - Shared Dreams
 - 2026-04-02 — 005-Cthulhu Dark - Goodcliffe - Darkness Creeps
