@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-05-06T11:22:06+00:00`
-- checked_at: `2026-05-06T11:22:06+00:00`
-- etag: `"djEuMi4wOjE3NzgwNTA4Mzk4MTg="`
+- fetched_at: `2026-05-13T09:20:54+00:00`
+- checked_at: `2026-05-13T09:20:54+00:00`
+- etag: `"djEuMi4wOjE3Nzg2NTU4NDE1Njk="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-05-06T11:22:06+00:00",
+  "fetched_at": "2026-05-13T09:20:54+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "6166abae952fff4c399a001d94f9160ae4fc93e8",
+      "title": "Ep. 005: Age of Astra - Bad Monster, Bad Monster | #DND",
+      "published_at": "2026-05-13T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the tension tightens as the agents move closer to something that no longer wants to stay hidden. Small details begin to matter, silences grow heavier, and the Dice seem to nudge events toward a turning point that can’t be avoided. In this DnD chapter, the truth isn’t just dangerous… it feels protected. What happens when the wrong question finally gets answered? Who is still holding the real power here? And when everything comes into the light, what won’t survive it? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1778016433162-04d88999-5bd7-4a13-a8fc-659b77959bd3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69fa611e1353c87e11ee4481/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127370734",
+      "itunes_duration": "53:02",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "monster"
+      ]
+    },
     {
       "key": "62d07099fb6d187278458975bc03cadf20b78a58",
       "title": "Ep. 004: Age of Astra - Middle Aged Children | #DND",
@@ -7740,6 +7757,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — Ep. 005: Age of Astra - Bad Monster, Bad Monster | #DND
 - 2026-05-06 — Ep. 004: Age of Astra - Middle Aged Children | #DND
 - 2026-04-29 — Ep. 003: Age of Astra - Hammers, Clubs, The Occasional Dagger! | #DND
 - 2026-04-22 — Ep. 002: Age of Astra - We're here from Astra | #DND
