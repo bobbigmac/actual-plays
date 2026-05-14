@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-05-04T19:57:19+00:00`
-- checked_at: `2026-05-04T19:57:19+00:00`
-- etag: `"05fb409854a61b0aef3b8c0a05148323"`
-- last_modified: `Mon, 04 May 2026 19:49:15 GMT`
+- fetched_at: `2026-05-14T11:22:07+00:00`
+- checked_at: `2026-05-14T11:22:07+00:00`
+- etag: `"14df540ec1b29c62b60ffde52701a836"`
+- last_modified: `Thu, 14 May 2026 11:00:18 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-05-04T19:57:19+00:00",
+  "fetched_at": "2026-05-14T11:22:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "3262af7134f8e8e6130eea709e31b8f971647d25",
+      "title": "The Adventure Zone Royale: Episode 24",
+      "published_at": "2026-05-14T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-royale-episode-24-R4nA7o7k",
+      "description": "The Trial of Necromancy, Part III The trial continues and the competitors must decide who to trust and who to dispatch. But with the numbers of survivors dwindles, the number of zombies increases, forcing some of the wizards to quite literally confront their past actions. Royale Theme: “Wizard Disco” by Louie Zong: https://louiezong.bandcamp.com/album/wizard-disco Original Music by Griffin McElroy Additional Music in this Episode: \"VIII\", \"Skin Writhes Anxious\", and \"Chewing Devil Grass\" by ROZKOL: https://rozkol.bandcamp.com/; \"Fireball\" and \"Night Sky\" by Jar of Flies: https://jaroffliesofficial.bandcamp.com/; \"Foresight\" by Serat: https://blear-moon.com; \"PULL\" by Nctrnm: https://soundcloud.com/nctrnm; \"Grande Vista\" by Jason Shaw: https://audionautix.com/; \"The Fae\" by Mark Lingard: https://freemusicarchive.org/music/mark-lingard/; “If You Can't be the Sun, Be the Sun” by Schemawound http://schemawound.com/; and Taffy Machine\" by Kate Kody: https://freemusicarchive.org/music/kate-kody/. Marsha P. Johnson Institute: https://marshap.org/ Thanks to everyone who participated in this year's MaxFunDrive! Still want to get in on the action? Follow this link to support this show (and get in on our limited-time keychain sale to benefit the Center for Constitutional Rights): https://maximumfun.org/jointaz",
+      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/d92d24a2-517a-4af8-b4b5-c4326bb74f9d/3000x3000/tazroyalecoverresizedforsite.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/e0660e8c-30c5-4285-863e-df133161ddff/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=e0660e8c-30c5-4285-863e-df133161ddff&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71468180",
+      "itunes_duration": "01:09:32",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "royale"
+      ]
+    },
     {
       "key": "61d2b0b56d054da0e24b323099ba4a04a7b14f91",
       "title": "The Adventure Zone Royale: Episode 23",
@@ -7956,6 +7974,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — The Adventure Zone Royale: Episode 24
 - 2026-04-30 — The Adventure Zone Royale: Episode 23
 - 2026-04-23 — The Adventure Zone Versus A Midsummer Night’s Dream: Live in Columbus! — speakers: Midsummer Night
 - 2026-04-20 — MaxFunDrive 2026: Cousinverse BoCo Teaser!

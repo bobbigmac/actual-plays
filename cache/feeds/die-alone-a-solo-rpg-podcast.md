@@ -2,9 +2,9 @@
 
 - slug: `die-alone-a-solo-rpg-podcast`
 - source: `https://deeplydappergames.com/alone?format=rss`
-- fetched_at: `2026-05-13T22:39:56+00:00`
-- checked_at: `2026-05-13T22:39:56+00:00`
-- etag: `W/"3aa8a593b4845d9b4a55cc5f9dbc3567"`
+- fetched_at: `2026-05-14T11:22:07+00:00`
+- checked_at: `2026-05-14T11:22:07+00:00`
+- etag: `W/"89a0ce309ecb1cf0cda1ce6fec7f06e7"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://deeplydappergames.com/alone/",
   "description": "DIE ALONE: a podcast about solo Roleplaying Games (And occasionally solo board games)",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5616ce59e4b091a9359f66ea/1618183970653-75K3XSURN0RUEPG3QHG0/Cover+Large+Square.jpg?format=1500w",
-  "fetched_at": "2026-05-13T22:39:56+00:00",
+  "fetched_at": "2026-05-14T11:22:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
