@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-05-04T04:12:37+00:00`
-- checked_at: `2026-05-08T19:47:23+00:00`
-- last_modified: `Mon, 04 May 2026 04:05:00 GMT`
+- fetched_at: `2026-05-14T04:15:14+00:00`
+- checked_at: `2026-05-14T04:15:14+00:00`
+- last_modified: `Thu, 14 May 2026 00:17:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-05-04T04:12:37+00:00",
+  "fetched_at": "2026-05-14T04:15:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "12c08fc7b6be18abb78ed73dd4778adc4a983737",
+      "title": "Guilt of the Grave World | 013: Solo Leveling to Two",
+      "published_at": "2026-05-11T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-013-solo-leveling-to-two/",
+      "description": "This week the crew of the Nova Rush begging the trek back to Starship Citadel Theodrane with a renewed interest in the ancient Eoxian space rock. Will their new found powers they gain at level two allow them to stick together as a crew and continue their mission for Clan Ulrikka? Find out as we continue into part two of the amazing adventure “Guilt of the Grave World”",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3810/guilt-of-the-grave-world-013-solo-leveling-to-two.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89112509",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Starship Citadel Theodrane"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "solo",
+        "leveling"
+      ]
+    },
     {
       "key": "ad5fd76189e2e38f93f49368d157e3904a05be8c",
       "title": "Guilt of the Grave World | 012: Star Crit: Starship Academy",
@@ -8822,6 +8844,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — Guilt of the Grave World | 013: Solo Leveling to Two — speakers: Starship Citadel Theodrane
 - 2026-05-04 — Guilt of the Grave World | 012: Star Crit: Starship Academy — speakers: Station Alpha
 - 2026-04-27 — Guilt of the Grave World | 011: Get Glitch or Die Tryin’ — speakers: Station Alpha
 - 2026-04-20 — Guilt of the Grave World | 010: Orb Your Enthusiasm — speakers: Station Alpha

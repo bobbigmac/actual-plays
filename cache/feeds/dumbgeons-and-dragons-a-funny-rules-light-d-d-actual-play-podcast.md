@@ -2,9 +2,9 @@
 
 - slug: `dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast`
 - source: `https://rss.art19.com/dumbgeons-and-dragons`
-- fetched_at: `2026-05-13T22:39:56+00:00`
-- checked_at: `2026-05-13T22:39:56+00:00`
-- last_modified: `Wed, 13 May 2026 22:20:57 GMT`
+- fetched_at: `2026-05-14T04:15:14+00:00`
+- checked_at: `2026-05-14T04:15:14+00:00`
+- last_modified: `Wed, 13 May 2026 23:30:01 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.dumbdragons.com/",
   "description": "Dumbgeons & Dragons is a funny, rules-light Dungeons & Dragons actual play podcast where friends tell epic stories full of heart, chaos, and ridiculous choices. Whether you’re new to D&D, just learning the ropes, or a longtime fan who loves a lighthearted adventure, you’ll feel right at home at our table. Campaign 2 (Seasons 3 & 4) begins in the gritty city of Vintersmouth—a place of secrets, schemes, and spontaneous street magic. This season is the perfect place to jump in, with a fresh cast of characters and a mystery that pulls them deep into a city on the edge. Start with Episode 301: Let’s Begin Again! Featuring fast-paced storytelling, character-driven arcs, improv comedy, and zero gatekeeping, Dumbgeons & Dragons is your cozy-but-chaotic fantasy fix. New episodes every Wednesday. Support the show and get bonus episodes at patreon.com/dumbdragoncast More info, recaps, and character bios at dumbdragons.com",
   "image_url": "https://content.production.cdn.art19.com/images/f3/8f/9a/30/f38f9a30-68d2-46ca-87f1-4261dbe574e5/dc447b9659ef194b4fefd29c9bde8d0344f5519fb86dfca67d4122b062044b0c6c10ebfc0dca39f8ec2ecc2b5d2894d6ae621c12620cea9f553a42508c664e65.jpeg",
-  "fetched_at": "2026-05-13T22:39:56+00:00",
+  "fetched_at": "2026-05-14T04:15:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "98a4c4c0ab9abfa97911d2839f69224083edc0a5",
+      "title": "Runic Inspection (Campaign 2 – S4E57)",
+      "published_at": "2026-05-13T23:30:00+00:00",
+      "link": "https://art19.com/shows/dumbgeons-and-dragons/episodes/7573062a-488a-4578-aad1-7d534f45a617",
+      "description": "In this week's episode... Finding the Hall Monitor in the basement of a school leads the team to some interesting questions about the history of Vintersmouth and it's tie to the Weeping Archives. 🎲 Dumbgeons & Dragons is a beginner-friendly, rules-light actual play podcast where Canadian friends create inclusive D&D adventures full of improv comedy, supportive storytelling, and zero gatekeeping. ✨ Campaign 2 - Perfect for New Listeners: Fresh characters, new world, cozy table vibes that feel like playing with friends who actually want you there. - - - - - - - - - - 🎭 CAST & CREW Players: Amy More, Carla Maxted, Tom Laird and Kyle Claset DM: Russ More Dialogue Editing & Sound Design: Russ More Music & Sound Effects: Epidemic Sound, BOOM Library, Sound Ideas Cover Art: Matt Garbutt (@artmonkeymg on Instagram) - - - - - - - - - - 💖 SUPPORT THE SHOW 🔥 Join 300+ Patrons for bonus episodes, early access, and exclusive content! → Patreon.com/dumbdragoncast (7-day free trial + merch after 3 months!) → Gift a loved one a Patreon membership: patreon.com/dumbdragoncast/gift 🛍️ Merch Store: dumbdragons.dashery.com 📱 All Our Links: linktr.ee/dumbdragons - - - - - - - - - - 📈 FOR ADVERTISERS & PARTNERS Advertise: fableandfolly.com/advertise See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/3d/47/ce/7c/3d47ce7c-418c-4252-8361-bcd047df95b8/41c0f3a85a1d1580f247d86389a8ee8cdac6feacee41df710a90d5a4959d7bc15d00bdec089415a5c525c6137382aaacfd3fcddf1ad038e531c9a6e485d072c9.jpeg",
+      "enclosure_url": "https://swap.fm/track/WgbGgxzM3MFRwjmX5fnx/op3.dev/e/pscrb.fm/rss/p/rss.art19.com/episodes/7573062a-488a-4578-aad1-7d534f45a617.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33356068",
+      "itunes_duration": "00:34:44",
+      "speakers": [
+        "Runic Inspection",
+        "Hall Monitor"
+      ],
+      "topics": [
+        "runic",
+        "inspection",
+        "campaign"
+      ]
+    },
     {
       "key": "f12140a9039167d7200dd1a606b10dc825a13286",
       "title": "The Hall Monitor (Campaign 2 – S4E56)",
@@ -6852,6 +6873,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — Runic Inspection (Campaign 2 – S4E57) — speakers: Runic Inspection, Hall Monitor
 - 2026-04-15 — The Hall Monitor (Campaign 2 – S4E56) — speakers: Cogsworth Quackleton
 - 2026-04-01 — A Biddle Bit of Trouble (Campaign 2 – S4E55)
 - 2026-03-26 — The Specials at Cave (Campaign 2 – S4E54)
