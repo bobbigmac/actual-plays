@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-05-08T10:50:21+00:00`
-- checked_at: `2026-05-12T20:11:30+00:00`
-- etag: `W/"bbf48b8cef17e19ca08ae793a6df4bc0"`
-- last_modified: `Fri, 08 May 2026 09:00:00 GMT`
+- fetched_at: `2026-05-14T20:04:10+00:00`
+- checked_at: `2026-05-14T20:04:10+00:00`
+- etag: `W/"cea3e9ff06f4568ae8b3d8b3620b6f57"`
+- last_modified: `Thu, 14 May 2026 18:17:16 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-05-08T10:50:21+00:00",
+  "fetched_at": "2026-05-14T20:04:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -49,7 +49,7 @@
       "link": "https://audioboom.com/posts/8890697",
       "description": "Our crew is scattered as a vengeful Brian 2 is on the prowl and out for blood. Faced with no other choice Sprocket heads into the bowels of the Silver Hawk to put an end to the rouge droid. --- Support the brand new Force of Extinction Backerkit Here! GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43576245.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8890697.mp3?modified=1776328306&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8890697.mp3?modified=1778174574&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2680",
@@ -66,7 +66,7 @@
       "link": "https://audioboom.com/posts/8890695",
       "description": "Our crew are in a tough spot as they come face to face with themselves! --- Support the brand new Force of Extinction Backerkit Here! GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43576245.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8890695.mp3?modified=1776328242&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8890695.mp3?modified=1778174518&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2820",
@@ -84,7 +84,7 @@
       "link": "https://audioboom.com/posts/8890694",
       "description": "Our crew are in a tough spot as they come face to face with themselves! --- Support the brand new Force of Extinction Backerkit Here! GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43576245.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8890694.mp3?modified=1776328457&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8890694.mp3?modified=1778174487&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3677",
@@ -102,7 +102,7 @@
       "link": "https://audioboom.com/posts/8885613",
       "description": "Our crew awake in their beds after a questionable night’s sleep, everything and everyone seem to be normal, maybe they just partied a little too hard last night? --- Support the brand new Force of Extinction Backerkit Here! GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43576245.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8885613.mp3?modified=1775811373&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8885613.mp3?modified=1775811794&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3262",
@@ -121,7 +121,7 @@
       "link": "https://audioboom.com/posts/8882258",
       "description": "Our crew awake in their beds after a questionable night’s sleep, everything and everyone seem to be normal, maybe they just partied a little too hard last night? --- If you're enjoying the show and would like to support the show consider checking out The Rotating Heroes Patreon ! You can get instant access to the entire back catalogue of shows, catch up with two new arcs as well as bonus shows, live streams and more! If you want even more actual play goodness in your life consider checking out 12 Sided Studios' newest production Oaths and Empires . A brand new TTRPG actual play featuring Luke Dale and Tom McKay and set in a Witcher-esk inspired world, as our two rookie players navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43576245.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8882258.mp3?modified=1775144249&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8882258.mp3?modified=1775811856&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2978",
@@ -140,7 +140,7 @@
       "link": "https://audioboom.com/posts/8879581",
       "description": "Axis is abuzz with the news of a major incident aboard a Turlett cruise liner, meanwhile the crew of Silver Hawke can’t help but feel like something is just… off. --- If you're enjoying the show and would like to support the show consider checking out The Rotating Heroes Patreon ! You can get instant access to the entire back catalogue of shows, catch up with two new arcs as well as bonus shows, live streams and more! If you want even more actual play goodness in your life consider checking out 12 Sided Studios' newest production Oaths and Empires . A brand new TTRPG actual play featuring Luke Dale and Tom McKay and set in a Witcher-esk inspired world, as our two rookie players navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43576245.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8879581.mp3?modified=1775144403&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8879581.mp3?modified=1775811852&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2883",
@@ -158,7 +158,7 @@
       "link": "https://audioboom.com/posts/8876186",
       "description": "Axis is abuzz with the news of a major incident aboard a Turlett cruise liner, meanwhile the crew of Silver Hawke can’t help but feel like something is just… off. --- If you're enjoying the show and would like to support the show consider checking out The Rotating Heroes Patreon ! You can get instant access to the entire back catalogue of shows, catch up with two new arcs as well as bonus shows, live streams and more! If you want even more actual play goodness in your life consider checking out 12 Sided Studios' newest production Oaths and Empires . A brand new TTRPG actual play featuring Luke Dale and Tom McKay and set in a Witcher-esk inspired world, as our two rookie players navigate their very first game. Rotating Heroes is a 12 Sided Studios Production.",
       "image_url": "https://audioboom.com/i/43576245.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8876186.mp3?modified=1774602437&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8876186.mp3?modified=1775811826&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2903",
