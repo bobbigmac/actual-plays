@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-05-13T15:15:48+00:00`
-- checked_at: `2026-05-13T15:15:48+00:00`
-- last_modified: `Wed, 13 May 2026 11:52:36 GMT`
+- fetched_at: `2026-05-15T14:38:32+00:00`
+- checked_at: `2026-05-15T14:38:32+00:00`
+- last_modified: `Fri, 15 May 2026 14:34:27 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/8e75fc9d6dbbc2142cca11c14acfdea1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-13T15:15:48+00:00",
+  "fetched_at": "2026-05-15T14:38:32+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -37,7 +37,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/OSPN8404534745.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4421",
+      "itunes_duration": "4571",
       "speakers": [
         "Night Market",
         "James D'Amato"
