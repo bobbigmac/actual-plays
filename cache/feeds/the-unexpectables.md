@@ -2,10 +2,10 @@
 
 - slug: `the-unexpectables`
 - source: `https://feeds.libsyn.com/105383/rss`
-- fetched_at: `2026-05-07T22:18:31+00:00`
-- checked_at: `2026-05-07T22:18:31+00:00`
-- etag: `"9002c4204b239d4b5ee73350d05de6af"`
-- last_modified: `Thu, 07 May 2026 20:19:21 GMT`
+- fetched_at: `2026-05-15T17:02:14+00:00`
+- checked_at: `2026-05-15T17:02:14+00:00`
+- etag: `"b87d7e014db31423ab0918699ed71baf"`
+- last_modified: `Fri, 15 May 2026 17:00:26 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://101club.libsyn.com/website",
   "description": "Follow the travels and tribulations of Task the Kobold Ranger, Greckles the Kenku Rogue, Panic the Tiefling Bard, and Borky the Orc Barbarian, as they traverse the dangerous and mysterious lands of Alivast, and the Capital City that hosts a bungle of characters, magic and villains.",
   "image_url": "https://static.libsyn.com/p/assets/6/9/c/7/69c7492dcb405690/sweet_dragon_logo.png",
-  "fetched_at": "2026-05-07T22:18:31+00:00",
+  "fetched_at": "2026-05-15T17:02:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,46 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "117ff0c35db4160ca48329e6fd1b6a2394d4303f",
+      "title": "Forklift Certified - Fool's Gelt Episode 5",
+      "published_at": "2026-05-15T16:54:00+00:00",
+      "link": "https://101club.libsyn.com/forklift-certified-fools-gelt-episode-5",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_5_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "178422924",
+      "itunes_duration": "03:32:21",
+      "speakers": [
+        "Forklift Certified"
+      ],
+      "topics": [
+        "forklift",
+        "certified",
+        "fool",
+        "gelt"
+      ]
+    },
+    {
+      "key": "a646ecf6cdc3bc25105cabe53ee96aa7128dc48f",
+      "title": "Catch Up and Mustard - The Unexpectables II Episode 150",
+      "published_at": "2026-05-15T16:54:00+00:00",
+      "link": "https://101club.libsyn.com/catch-up-and-mustard-the-unexpectables-ii-episode-150",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_150_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "126198590",
+      "itunes_duration": "02:30:10",
+      "speakers": [
+        "Catch Up"
+      ],
+      "topics": [
+        "mustard",
+        "unexpectables"
+      ]
+    },
     {
       "key": "16f2c9dc992f4eaa8a193ae767ef83668ae9e205",
       "title": "That's How you get Ants - The Unexpectables II Episode 149",
@@ -11105,6 +11145,8 @@
 
 ## Episodes (newest first)
 
+- 2026-05-15 — Forklift Certified - Fool's Gelt Episode 5 — speakers: Forklift Certified
+- 2026-05-15 — Catch Up and Mustard - The Unexpectables II Episode 150 — speakers: Catch Up
 - 2026-05-07 — That's How you get Ants - The Unexpectables II Episode 149
 - 2026-05-07 — New Car Smell - Fool's Gelt Episode 4 — speakers: New Car Smell
 - 2026-05-01 — For Whom the Bellum Tolls - The Unexpectables II Episode 148 — speakers: Bellum Tolls

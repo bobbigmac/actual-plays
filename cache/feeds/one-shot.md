@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-05-15T14:38:32+00:00`
-- checked_at: `2026-05-15T14:38:32+00:00`
-- last_modified: `Fri, 15 May 2026 14:34:27 GMT`
+- fetched_at: `2026-05-15T17:02:14+00:00`
+- checked_at: `2026-05-15T17:02:14+00:00`
+- last_modified: `Fri, 15 May 2026 16:54:19 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/8e75fc9d6dbbc2142cca11c14acfdea1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-15T14:38:32+00:00",
+  "fetched_at": "2026-05-15T17:02:14+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -34,7 +34,7 @@
       "link": null,
       "description": "EPISODE SUMMARY Our princesses shop around the Night Market and attempt to find all that they require, and hopefully get the chorus to stop singing so the night can end. SHOW NOTES Perils & Princesses One Shot News & Updates One Shot Patreon One Shot TWITCH Ultimate RPG Villain Backstory Guide Follow the cast here! Dillin Apelyan Candace McAfee Amelia Som Jackie Kashian James D’Amato ----------------------------------------------------- Know Your Rights Toolkits Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Solfege, Elision Crosseyed Reel, Delbony Big Band Twelve Days of Christmas, Ryan Saranich Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/OSPN8404534745.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN8404534745.mp3?updated=1778861514",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4571",
