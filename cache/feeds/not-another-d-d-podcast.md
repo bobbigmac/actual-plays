@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-05-08T03:55:56+00:00`
-- checked_at: `2026-05-08T03:55:56+00:00`
-- last_modified: `Fri, 08 May 2026 00:30:12 GMT`
+- fetched_at: `2026-05-15T04:30:41+00:00`
+- checked_at: `2026-05-15T04:30:41+00:00`
+- last_modified: `Fri, 15 May 2026 00:30:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-05-08T03:55:56+00:00",
+  "fetched_at": "2026-05-15T04:30:41+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,30 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "21995e0596dd3459bedec1b0976772afcfd36188",
+      "title": "Gangs of Neo Galaderon - Ep. 6: Hothead Pursuit",
+      "published_at": "2026-05-15T00:30:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/97bc829e-4b93-4844-86a4-900f94cf7ff5",
+      "description": "The Kill Screens race to escape Zone 5 with Hammer N' Circuits in hot pursuit! Slug tries to grapple a wrecking ball, Aux does some off-roading, and Atom gets another notch on his belt. Support us at Patreon.com/Naddpod to get access to the after-show and a bunch of other Naddpod content! Music / Sound Effects Include: \"Neo Galaderon\" by Emily Axford. \"Atom\" by Emily Axford. \"Cyberskitch\" by Emily Axford. \"Slug\" by Emily Axford. \"A Fate Refused\" by Emily Axford. \"Buzzer's Cutters\" by Emily Axford. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/00/e2/39/64/00e23964-afdb-43e5-9a5b-d393bd52597a/d7691f3c8e53c24bdefa90a8c0a7d8cea4f8db591db078161a9df90cfb225b12b05a49c0c6ad9c4c8333a10969cbc734dfc800d2c07dd301140e11b38854803b.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/97bc829e-4b93-4844-86a4-900f94cf7ff5.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69786644",
+      "itunes_duration": "01:12:41",
+      "speakers": [
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "gang",
+        "galaderon",
+        "hothead",
+        "pursuit"
+      ]
+    },
     {
       "key": "e2c0dec5ee59c77ff3312c61a0b8fc326e28d770",
       "title": "Gangs of Neo Galaderon - Ep. 5: Hammer N' Circuits",
@@ -10976,6 +11000,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-15 — Gangs of Neo Galaderon - Ep. 6: Hothead Pursuit — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-05-08 — Gangs of Neo Galaderon - Ep. 5: Hammer N' Circuits — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-05-01 — D&D Court: Questionable Rests, Dubious Daggers and The Rise of Clunky — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-04-23 — Gangs of Neo Galaderon - Ep. 4: Murdercycle — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner

@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-05-13T15:15:48+00:00`
-- checked_at: `2026-05-13T15:15:48+00:00`
-- last_modified: `Wed, 13 May 2026 12:36:54 GMT`
+- fetched_at: `2026-05-15T04:30:41+00:00`
+- checked_at: `2026-05-15T04:30:41+00:00`
+- last_modified: `Fri, 15 May 2026 03:20:49 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-13T15:15:48+00:00",
+  "fetched_at": "2026-05-15T04:30:41+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -2870,7 +2870,7 @@
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER7689011207.mp3?updated=1736412886",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4793",
+      "itunes_duration": "4788",
       "speakers": [
         "Own Flesh",
         "Mudd Mudd"
@@ -2892,7 +2892,7 @@
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER9115815565.mp3?updated=1736412796",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4902",
+      "itunes_duration": "4901",
       "speakers": [
         "Armageddon Arc"
       ],
@@ -2930,7 +2930,7 @@
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER9479794576.mp3?updated=1736412196",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4350",
+      "itunes_duration": "4727",
       "speakers": [
         "Kyborg Infiltrating Quadron"
       ],
@@ -3121,7 +3121,7 @@
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER6930914140.mp3?updated=1736411436",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5263",
+      "itunes_duration": "5250",
       "speakers": [],
       "topics": [
         "armageddon",
