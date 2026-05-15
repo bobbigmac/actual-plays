@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-05-15T17:02:14+00:00`
-- checked_at: `2026-05-15T17:02:14+00:00`
-- last_modified: `Fri, 15 May 2026 17:00:49 GMT`
+- fetched_at: `2026-05-15T19:56:12+00:00`
+- checked_at: `2026-05-15T19:56:12+00:00`
+- last_modified: `Fri, 15 May 2026 19:37:30 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-15T17:02:14+00:00",
+  "fetched_at": "2026-05-15T19:56:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -2165,7 +2165,7 @@
       "published_at": "2023-05-24T07:00:00+00:00",
       "link": "https://www.patreon.com/posts/arrested-in-city-105370376",
       "description": "The party catches up with Hamlord and discover another twist in this murder mystery! Join the Party and help make this show possible by joining us at stinkydragonpod.com ! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris DemaraisWriter/Editor/Composer: Micah RisingerProducer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/d7e9efa8-f8ef-11ed-b59f-d79ee4f33213/image/f39707b42675e4c2806cb24734b43a55.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/d7e9efa8-f8ef-11ed-b59f-d79ee4f33213/image/2daf68e135eb87d265799cdb3b4899e0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER5586781269.mp3?updated=1777487239",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -2221,7 +2221,7 @@
       "published_at": "2023-05-03T07:00:00+00:00",
       "link": "https://www.patreon.com/posts/arrested-in-city-105370186",
       "description": "Roll the clocks back! Let’s find out how the party got themselves arrested in Attro City! Join the Party and help make this show possible by joining us at stinkydragonpod.com ! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/238c78bc-e848-11ed-aad3-bb4f6e830d2f/image/f8389e00498cfcb4f43953af300c8b01.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/238c78bc-e848-11ed-aad3-bb4f6e830d2f/image/88c755e87de46fda2d4645f206b32ffc.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER1940104440.mp3?updated=1777482042",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -2243,7 +2243,7 @@
       "published_at": "2023-04-26T07:00:00+00:00",
       "link": "https://www.patreon.com/posts/arrested-in-city-105370136",
       "description": "In this newest tale from the Stinky Dragon, a new party of adventurers try and figure out how they have landed in the Attro City prison. Join the Party and help make this show possible by joining us at stinkydragonpod.com ! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Cast: Gustavo Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/05a769a0-e2c7-11ed-acc5-e35a74afb220/image/c59fd5667b04b50e79a4c0d78a910885.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/05a769a0-e2c7-11ed-acc5-e35a74afb220/image/a5c77f2448675f301c050b6333a14c15.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER6147470592.mp3?updated=1777480372",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
