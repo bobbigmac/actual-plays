@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-05-08T03:55:56+00:00`
-- checked_at: `2026-05-08T03:55:56+00:00`
-- etag: `"607b1dd51c5cbf4f7d9c43f8483aa979"`
-- last_modified: `Fri, 08 May 2026 03:09:05 GMT`
+- fetched_at: `2026-05-16T04:05:18+00:00`
+- checked_at: `2026-05-16T04:05:18+00:00`
+- etag: `"0112479d180161a1b19517565adbf235"`
+- last_modified: `Sat, 16 May 2026 02:57:35 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-05-08T03:55:56+00:00",
+  "fetched_at": "2026-05-16T04:05:18+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "1c2a655be742ef7bf57f1a7a23184319876e66c7",
+      "title": "Perpetua 41: Escape the Rumbling Castle! 01",
+      "published_at": "2026-05-16T02:50:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-41-escape-the-rumbling-castle-01",
+      "description": "In the depths of the Castle Eschatonica, the true beckonings called to the travelers of the Dragon Path. Led across the ether under divine shadow and holy light, to things that aren't, but which might yet be: New more peaceful lives. Freedom from obligation and duty. Different, more adventurous histories. A key to a door which itself beckons. The power to protect those they care for. Power for power's sake alone. With these behind them, the two groups re-emerge into the halls of the Castle. In the western wing, three figures push forward into the passageways of this transcendent fortress—Uncle Nicky, criminal turned chef; the terrapine Jonathan, inventor and—now—airship captain; and Antistrophe Landrace, the Ruinbringer, though he may not know it yet. Meanwhile, to the east, an octet walks Eschatonica's twisting paths: Famed adventurer, and Jonathan's sister, Maebela; Veile Lyndelle, destined devotee of the Ennead; Elena Millefiori, Tesserae chanter and eager traveler; the youthful and curious Waylon of Spillaway Peaks; Renegade Hexcloak Caiomhe Wake; and finally, Brontë Adelvys, dissipated sixth scion of the First Line, along with his attendants, Efta and Zolfta Above them, watching with all nine eyes, is Gnova, once the God of Distant Color and Light, now the steward of this Castle. But they are not the only celestial being interested in Eschatonica. They saw Lucena's sunlight streamed across the ether towards their home. They watched as Caliginia's long shadow fell, finally, even here. Indeed, they dread how these gods now shake the diorama-like stability of Eschatonica, and how in doing so, they unknowingly have sent up a flare… Because she is coming, now. Indeed. She is almost here. This Week on Perpetua: Escape the Rumbling Castle! 01 Perpetua Guide [In Progress v.06] NPCs & Monsters [PNMS] Thanks to TheUnforgivenIII for pushing me to include a little more info in the NPCs & Monsters section! Still not giving it all away, because my goal isn't to take away all the mystery! But you should check TU3's strategy guide (in progress) for more combat focused tips! Windborne Hawk Traits: Agile, Lightweight, Droning Type: Hunter Construct Level: 10 Rank: Soldier Stats: DEX 10, INS 8, MIG 6, WLP 8 Attacks: Flechette Burst Special Abilities: Occult Dampener, Annoying Buzz, Flying Elemental Affinities: IMM: Poison | RES: Wind, Dark, Earth | VUL: Bolt, Ice, Light In-Game Description: A beautiful bird automaton that floats through the power of a dark wind. Despite being level 10 soldiers, these are one of the most dangerous enemies in the Castle Eschatonica. They are custom made to crush your casters (which according to DoomTreeAnne's lore document really lines up with their anti-Oracle purpose in Armidirge). Their Flechette Burst can tear through your party (especially characters without martial armor!!) and their Occult Dampener turn them into spell-devouring TANKS. Starter Tip: Take. These. Down. Quick. Once their Dampener is up, they're that much harder to deal with. Windborne Turret Traits: Automatic, Threat-Finding, Defensive, Deployed Type: Hunter Construct Level: 10 Rank: Soldier Stats: DEX 8, INS 10, MIG 8, WLP 6 Attacks: Repeating Fire Special Abilities: None Elemental Affinities: IMM: Poison | RES: Wind, Dark, Earth | VUL: Bolt, Light In-Game Description: A hovering, bronze-clad weapon that scans for (and eliminates) targets Extremely straightforward enemies. They float in place (but AREN'T Flying enemies) and take a really strong shot at you every other turn (and it doesn't seem like they do much in the way of supporting the rest of their side). Exploit that to keep their total attack Starter Tip: Focus them down, one at a time. Windborne Flower Traits: Automatic, Defensive, Deployed Type: Support Construct Level: 10 Rank: Soldier Stats: DEX 8, INS 8, MIG 8, WLP 8 Attacks: Shadow Cast Special Abilities: Barrier of Wind, Flying Elemental Affinities: IMM: Poison | RES: Wind, Dark, Earth | VUL: Bolt, Fire, Light In-Game Description: Like a bronze flower, this device unfurls its petals and emits a shielding over its allies. These are the de facto \"clerics\" of these Windborne automata. Their Barrier of Wind is super annoying (though it should be recognizable if you're doing a support Elene build!). Starter Tip: While they don't do a lot of damage, their Shadow Cast ability can leave your party dazed, so be careful! Eaja, Windborne Hawkmaster Traits: Fierce, Quick, Determined, Principled Type: Sentinel Humanoid Rank: Champion (3) Stats: DEX ??, INS ??, MIG ??, WLP ?? Attacks: Unknown Special Abilities: Unknown Elemental Affinities: Unknown In-Game Description: A scout from the Windborne Church, one of the two major factions of Armidirge. Thankfully, you don't need to fight Eaja along with her automatons when you first bump into her, though if you're quick you can tackle her as an optional boss fight (which is really hard). Starter Tip: Leave her for later! Trust me. Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), Janine Hawkins ( @bleatingheart ), Sylvi Bullet ( @sylvibullet ), Keith J Carberry ( @keithjcarberry ) and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_41_Escape_the_Rumbling_Castle_01.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105500344",
+      "itunes_duration": "01:44:35",
+      "speakers": [
+        "Rumbling Castle",
+        "Castle Eschatonica",
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "rumbling",
+        "castle"
+      ]
+    },
     {
       "key": "b438cae38c17e6caa79d937779f239da25c2794d",
       "title": "Perpetua 40: The Castle Eschatonica 08",
@@ -11456,6 +11478,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-16 — Perpetua 41: Escape the Rumbling Castle! 01 — speakers: Rumbling Castle, Castle Eschatonica, Austin Walker
 - 2026-04-21 — Perpetua 40: The Castle Eschatonica 08 — speakers: Austin Walker
 - 2026-04-07 — Perpetua 39: The Castle Eschatonica 07 — speakers: Austin Walker
 - 2026-03-31 — Perpetua 38: The Castle Eschatonica 06 — speakers: Austin Walker
