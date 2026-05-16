@@ -3,9 +3,11 @@
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
 - fetched_at: `2026-05-14T04:15:14+00:00`
-- checked_at: `2026-05-14T04:15:14+00:00`
+- checked_at: `2026-05-16T16:12:33+00:00`
 - last_modified: `Thu, 14 May 2026 00:17:00 GMT`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: The read operation timed out
 
 <!-- FEED_JSON -->
 ```json
@@ -8837,7 +8839,17 @@
         "podcast"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-05-16T16:12:33+00:00",
+    "status": "error",
+    "checked_at": "2026-05-16T16:12:33+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "The read operation timed out"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
