@@ -2,9 +2,9 @@
 
 - slug: `we-fix-space-junk`
 - source: `https://feeds.megaphone.fm/wefixspacejunk`
-- fetched_at: `2026-05-09T19:35:53+00:00`
-- checked_at: `2026-05-09T19:35:53+00:00`
-- last_modified: `Sat, 09 May 2026 16:17:30 GMT`
+- fetched_at: `2026-05-18T10:42:45+00:00`
+- checked_at: `2026-05-18T10:42:45+00:00`
+- last_modified: `Mon, 18 May 2026 06:06:11 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://battlebird.productions",
   "description": "'We Fix Space Junk' follows seasoned smuggler Kilner and reluctant fugitive Samantha as they travel the galaxy, dodging bullets and meeting strange and wonderful beings as they carry out odd jobs on the fringes of the law. A female-led sci-fi comedy sitcom set in the far future, in a high-tech, dystopian world, We Fix Space Junk draws on the sci-fi of the past, following in the footsteps of Harry Harrison and of Douglas Adams' Hitchhiker's Guide to the Galaxy. Equal parts love-letter to sci-fi and satire of the present-day, Space Junk is lovingly produced by Beth Crane and Hedley Knights of Battle Bird Productions. To support the show visit patreon.com/BattleBirdProd or visit Battlebird.productions",
   "image_url": "https://megaphone.imgix.net/podcasts/8c376dd8-0f0d-11ec-8651-57ea866800e0/image/8d5a72f1090250cbefae2050b1329e32fb962b991327db690dac1bffa8d2ba047cdd30974dd1f9bdc451659cd75d302dfd61aded64e62bb1377d9d88df6be606.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-09T19:35:53+00:00",
+  "fetched_at": "2026-05-18T10:42:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "fiction/audiobook"
   ],
   "episodes": [
+    {
+      "key": "c69bc0dd8f6035dc0927e32f23ff511ea905cdc1",
+      "title": "S04 E05 - Trains, Drones and AI-Mobiles",
+      "published_at": "2026-05-18T06:00:00+00:00",
+      "link": null,
+      "description": "In which Kilner and Samantha are tasked with delivering a small nuclear reactor. Looking for ad-free episodes? Check out our ⁠Patreon feed!⁠ For a full transcript of the episode and content warnings click here or visit ⁠ battlebird.productions ⁠ and click transcripts! Written by Beth Crane and produced by Hedley Knights for Battle Bird Productions. All artwork and graphics by Beth Crane, all music by Hedley Knights. CAST Beth Crane Rebecca Evans Jack Carmichael Laurence Owen Graham Rowat Naomi Clarke Pip Gladwin Katrina Allen Russ More Vicki Baron LOOKING FOR WAYS TO SUPPORT WE FIX SPACE JUNK? You can join our Patreon or send us a one-off donation on Ko-Fi or PayPal! If you’re looking for something we’ve advertised, visit our affiliate partner page! We’ve also got a wide range of merch available on our TeePublic, Spreadshirt and Etsy pages! FIND US ON SOCIAL MEDIA INSTAGRAM: ⁠instagram.com/battlebirdproductions⁠ FACEBOOK: ⁠facebook.com/WeFixSpaceJunk⁠ // ⁠facebook.com/BattleBirdProd⁠ TUMBLR: ⁠wefixspacejunk.tumblr.com⁠ TIKTOK: ⁠tiktok.com/@wefixspacejunk⁠ WEBSITE: battlebird.productions Heard an ad you think shouldn't be here? Get in touch! Learn more about your ad choices. Visit ⁠megaphone.fm/adchoices⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7631dbc4-0dbc-11f1-8340-8f06f08e9d2c/image/4dd866ca2e99350ddc63b884a7b37f62.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO4004944738.mp3?updated=1778343149",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1071",
+      "speakers": [],
+      "topics": [
+        "trains",
+        "drones",
+        "mobiles"
+      ]
+    },
     {
       "key": "50bf1843d7db763318fdb8dad578270eaa6554f4",
       "title": "S04 E04 - Return to Neutral Industries",
@@ -1480,6 +1498,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — S04 E05 - Trains, Drones and AI-Mobiles
 - 2026-05-04 — S04 E04 - Return to Neutral Industries
 - 2026-04-25 — Introducing... Death by Dying
 - 2026-04-20 — S04 E03 - Word Wrangling
