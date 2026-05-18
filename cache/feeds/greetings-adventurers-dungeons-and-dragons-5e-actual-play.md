@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-05-11T15:40:55+00:00`
-- checked_at: `2026-05-11T15:40:55+00:00`
-- etag: `"djEuMi4wOjE3Nzg1MTE2Mzk2MzM="`
+- fetched_at: `2026-05-18T15:57:53+00:00`
+- checked_at: `2026-05-18T15:57:53+00:00`
+- etag: `"djEuMi4wOjE3NzkxMTY0MzkzOTc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-05-11T15:40:55+00:00",
+  "fetched_at": "2026-05-18T15:57:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "215033c2abb3e96d74fc6b48988b716b5c383036",
+      "title": "Campaign 2: Episode 184 - Put the Dump Before the Body",
+      "published_at": "2026-05-18T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-184-put-the-dump-before-the-body",
+      "description": "Our heroes convince a deep-state agent that they are going to get physical, and then we throw him into a hole. He will never be the same again, nor will Grumbles or Gurgles or whatever his name is. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by Zack Meyman AKA Zoomtoonz ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1779104714746-7add6044-046a-49cb-859c-c90de864da18.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a0afc9afd0523152a086e43/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95381316",
+      "itunes_duration": "1:06:13",
+      "speakers": [
+        "Dump Before"
+      ],
+      "topics": [
+        "campaign",
+        "dump",
+        "body"
+      ]
+    },
     {
       "key": "5644e6bee02ebe697b14dd8158df54d79b42a0ca",
       "title": "Campaign 2: Episode 183 - Wedding Propaganda",
@@ -12295,6 +12315,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — Campaign 2: Episode 184 - Put the Dump Before the Body — speakers: Dump Before
 - 2026-05-11 — Campaign 2: Episode 183 - Wedding Propaganda — speakers: Von Esper
 - 2026-05-04 — Campaign 2: Bonus Episode - Great Kings and Venturers! Part 4
 - 2026-04-27 — Campaign 2: Bonus Episode - Great Kings and Venturers! Part 3

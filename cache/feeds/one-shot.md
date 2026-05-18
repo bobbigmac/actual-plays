@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-05-15T22:13:08+00:00`
-- checked_at: `2026-05-15T22:13:08+00:00`
-- last_modified: `Fri, 15 May 2026 20:03:12 GMT`
+- fetched_at: `2026-05-18T15:57:53+00:00`
+- checked_at: `2026-05-18T15:57:53+00:00`
+- last_modified: `Mon, 18 May 2026 15:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/8e75fc9d6dbbc2142cca11c14acfdea1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-15T22:13:08+00:00",
+  "fetched_at": "2026-05-18T15:57:53+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,31 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "8b84646734a25922e830d29a39fac1f85d5a0daa",
+      "title": "FEED DROP || This Should Be A Game! Apollo 13 (1995) feat. Dillin",
+      "published_at": "2026-05-18T15:00:00+00:00",
+      "link": null,
+      "description": "Check out this new show from Jess Levine and satah, where they build games inspired by different media, across different segments with different guest designers! Talking with Dillin Apelyan (Host of One Shot , superdillin on Bluesky) about why Apollo 13 (1995) should be a game. Pre-order All's Fair, a two person erotic RPG about wanting to fuck each other so bad you save the world about it (inspired by Mickey 17 + the fight against censorship of sexuality), at hornywizards.com ! Games referenced: To Honour And Obey , It's Been A Long Time Coming , It's Been A Long Long Time Logo by Cris Viana . Theme song by Nicky Flowers . Check out the show on Bluesky , Patreon , and Discord . Follow satah on Bluesky & find their work at gaygothvibes.online . Follow Jess on Bluesky & find her work at jessfrom.online . Late pledge for Galactic & Going Rogue on Kickstarter . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/62e22c14-5064-11f1-abe3-97e7d7aa6934/image/d80fdaf095425d12f8cbe6739484c96b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN8102070284.mp3?updated=1778858836",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5238",
+      "speakers": [
+        "Dillin Check",
+        "Jess Levine",
+        "James D'Amato"
+      ],
+      "topics": [
+        "feed",
+        "drop",
+        "game",
+        "apollo",
+        "feat",
+        "dillin"
+      ]
+    },
     {
       "key": "c100a4aacefbe33471203f7fb0f7eb6883bb6ff9",
       "title": "650. Perils and Princesses, Episode 2",
@@ -13269,6 +13294,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — FEED DROP || This Should Be A Game! Apollo 13 (1995) feat. Dillin — speakers: Dillin Check, Jess Levine, James D'Amato
 - 2026-05-13 — 650. Perils and Princesses, Episode 2 — speakers: Night Market, James D'Amato
 - 2026-05-04 — 649. Perils and Princesses, Episode 1 — speakers: James D'Amato
 - 2026-04-28 — 648. Realis, Episode 3 — speakers: James D'Amato

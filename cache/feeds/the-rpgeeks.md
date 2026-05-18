@@ -2,9 +2,9 @@
 
 - slug: `the-rpgeeks`
 - source: `https://feed.podbean.com/rpgeeksdnd/feed.xml`
-- fetched_at: `2026-03-04T13:33:12+00:00`
-- checked_at: `2026-03-04T13:33:12+00:00`
-- etag: `"394adaa6a7e99cbb80bc3579c2f4befa"`
+- fetched_at: `2026-05-18T15:57:53+00:00`
+- checked_at: `2026-05-18T15:57:53+00:00`
+- etag: `"e05e7cb03748a7466fa6d234e8bc9294"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://rpgeeksdnd.podbean.com",
   "description": "Nerdy actual play with epic stories and fascinating facts. Tales of danger, drama, nonsense and joy - plus lore-drops on our favourite topics! UK-based TTRPG show, live on Wednesdays from 7pm.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/11909286/Circular_Profile_-_RPGeeks_Text_and_Planet_with_Extra_Space_atri7q.jpg",
-  "fetched_at": "2026-03-04T13:33:12+00:00",
+  "fetched_at": "2026-05-18T15:57:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "f73fb7bc17fd4d106dd9adb1a12bbeabc9064643",
+      "title": "Blade Runner 2037 | Chapter 01: Electric Dreams",
+      "published_at": "2026-05-18T12:00:00+00:00",
+      "link": "https://rpgeeksdnd.podbean.com/e/blade-runner-2037-chapter-01-electric-dreams/",
+      "description": "A routine case spirals into a hunt for truth—where every memory lies, and even dreams can kill. Welcome to Blade Runner 2037. A neon noir wonderland that will take your breath away, one way or another. An evocative world of conflicts and contrasts that dares to ask the hard questions and investigate the power of empathy, the poison of fear, and the burden of being human during inhumane times. Time to live. Or time to die. Credits Game Runner Fiona Howat: https://bsky.app/profile/fkth.bsky.social Cast Emily Bates: https://bsky.app/profile/emzywb.bsky.social Shamini Bundell: https://bsky.app/profile/shamini.bsky.social Lowri Ann Davies: https://bsky.app/profile/lowrianndavies.bsky.social Folarin Akinmade: h ttps://bsky.app/profile/akingmade.bsky.social Tilly Steele: https://www.instagram.com/tillstee/ Scenario/System The official BLADE RUNNER RPG by Free League Publishing propels you into the streets of Los Angeles as Blade Runners with unique specialties, personalities – and memories. The game pushes the boundaries of investigative gameplay in tabletop RPGs, giving you a range of tools to solve an array of cases far beyond retiring Replicants. Beyond the core casework, the RPG showcases the key themes of Blade Runner – sci-fi action, corporate intrigue, existential character drama, and moral conflict. It challenges you to question your friends, empathize with your enemies, and explore the poisons and perseverance of hope and humanity during inhumane times. The rules of the game are based on the acclaimed Year Zero Engine, used in award-winning games such as the ALIEN RPG, Tales From the Loop and Forbidden Lands, but further developed and uniquely tailored for BLADE RUNNER. Huge thanks to our geeks and patrons: Andrew Rosenberg | Andy Hartley | Bayneeon | Bookwyrm | Caitlin Kriv | Chaotic Brain Person | Dan Andersen | David Valentine | Debbie - harobed96 | Edain | Ellie Wilson | Gamer Badger | Holly Scott Laukkonen | Kana Wilson | Keegan Amrine | Laura Chiarello | LycanEsth | Martin S | Matt T | Mother of Ferrets | Nathan Decker | Neil | Nicholas Munro Turner | Scarlett Rose | Simon Harper | Snap Grapple Pop | Tina Øyna | Valery North | Year | Patrons can catch our session 0(s) over on https://patreon.com/rpgeeksdnd! The RPGeeks is a nerdy TTRPG show with epic stories and fascinating facts! Find out more via our linktree: https://linktr.ee/rpgeeksdnd",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/z2uyj4m8hgjyyb29/LIVE_Blade_Runner_2037_Chapter_01_Electric_Dreams82nbh.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "149327834",
+      "itunes_duration": "9332",
+      "speakers": [
+        "Blade Runner"
+      ],
+      "topics": [
+        "blade",
+        "runner",
+        "chapter",
+        "electric",
+        "dream"
+      ]
+    },
     {
       "key": "50eaffb070d3d0e236ab669b98303e935c687fb1",
       "title": "Teeth: Blood Cotillion Part 2",
@@ -2036,26 +2058,6 @@
         "dragons",
         "science"
       ]
-    },
-    {
-      "key": "2940ae4ad3678ecf55524905b66fea4ff2e73d39",
-      "title": "Episode 20: The Boat Solution | Dungeons & Dragons & Science",
-      "published_at": "2022-03-30T18:14:07+00:00",
-      "link": "https://rpgeeksdnd.podbean.com/e/episode-20-the-boat-solution-dungeons-and-dragons-and-science/",
-      "description": "With a missing Shamini, this episode begins with the DnDebrief - looking into just how the #dnd5e spell calm emotions could work. Then we jump into the game - and oh boy, it's time for some PLOT. Dungeons & Dragons & Science is a DnD actual-play show. Watch as four professional science communicators mix real science with role-play sci-fi adventures! The RPGeeks go live every Wednesday at 7pm UK time. Tune in for adventuring and our DnDebrief show where we explore some of the real science that inspired the story. Wednesday 7pm UK: http://twitch.tv/drsimonclark You can watch previous episodes on our YouTube channel or listen to the show in podcast format. Don't forget to also follow us on Twitter, TikTok and Instagram for bonus bite-sized chunks of science every week! @RPGeeksDnD",
-      "image_url": null,
-      "enclosure_url": "https://mcdn.podbean.com/mf/web/dyf38q/Episode_20_final_cut9gvxn.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "160731941",
-      "itunes_duration": "10044",
-      "speakers": [],
-      "topics": [
-        "boat",
-        "solution",
-        "dungeons",
-        "dragons",
-        "science"
-      ]
     }
   ]
 }
@@ -2064,6 +2066,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — Blade Runner 2037 | Chapter 01: Electric Dreams — speakers: Blade Runner
 - 2026-03-04 — Teeth: Blood Cotillion Part 2
 - 2026-03-03 — Teeth: Blood Cotillion Part 1
 - 2025-12-16 — Inevitable: Unburied | Chapter 4. The Doom — speakers: Edward Spence
@@ -2163,4 +2166,3 @@
 - 2022-05-18 — Episode 23: Drinksy tellsy dosy bad thing | Dungeons & Dragons & Science — speakers: tellsy dosy
 - 2022-04-06 — Episode 22: Into the Internet | Dungeons & Dragons & Science
 - 2022-04-03 — Episode 21: Landsdown Port | Dungeons & Dragons & Science
-- 2022-03-30 — Episode 20: The Boat Solution | Dungeons & Dragons & Science

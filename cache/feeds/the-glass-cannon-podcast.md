@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-05-18T04:44:51+00:00`
-- checked_at: `2026-05-18T04:44:51+00:00`
-- last_modified: `Mon, 18 May 2026 04:00:00 GMT`
+- fetched_at: `2026-05-18T15:57:53+00:00`
+- checked_at: `2026-05-18T15:57:53+00:00`
+- last_modified: `Mon, 18 May 2026 15:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-18T04:44:51+00:00",
+  "fetched_at": "2026-05-18T15:57:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "7e724bd492659b44ab7a7ed7709710a7bc17285d",
+      "title": "GCN News Minute May 18, 2026",
+      "published_at": "2026-05-18T15:00:00+00:00",
+      "link": null,
+      "description": "Fresh off the road, Troy drops some tasty tidbits about the many, many events happening at Gen Con, which are going on sale. Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7486f9c8-509f-11f1-b1a4-9be4c9565b88/image/9ef0a0596145f05100196c1adc2e8b75.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8122426008.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "316",
+      "speakers": [
+        "Gen Con"
+      ],
+      "topics": [
+        "news",
+        "minute"
+      ]
+    },
     {
       "key": "7b8c4785866a50b039d87c9f95b43d6153ae530d",
       "title": "I Take Pride in My Hideous Face | Blood of the Wild S1 E22 | Pathfinder 2E Quest for the Frozen Flame",
@@ -242,27 +261,6 @@
       ]
     },
     {
-      "key": "21d9c8e6d39f5afeb36816fdc726f1be36b52e0c",
-      "title": "Star Wars Age of Rebellion Part 1",
-      "published_at": "2026-05-05T04:00:00+00:00",
-      "link": null,
-      "description": "The cast rejoin the fight against the Empire and meet a new, hairy friend as our Star Wars adventure from New Game, Who Dis? continues! GM'd by Matthew Capodicasa and featuring Joe O'Brien, Troy Lavallee, Skid Maher, and Rob Kerkovich. This episode originally premiered in 2023 as part of Glass Cannon Labs. Watch the video here: https://youtu.be/ZA99HHCgU8g Cast: Rob Kerkovich, Troy Lavallee, Skid Maher, Joe O'Brien, and Matthew Capodicasa Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/9f8e5dc8-4802-11f1-98f3-87a9f85c1ed1/image/3aebc19dd9384111c46ceaf7b9041396.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8816638750.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7068",
-      "speakers": [
-        "Star Wars Age",
-        "Star Wars"
-      ],
-      "topics": [
-        "star",
-        "wars",
-        "rebellion"
-      ]
-    },
-    {
       "key": "4690cdf7944ec960495c4a08525d8ce70645aa8c",
       "title": "The Fury of King Lot, Part 2 | Pendragon: Under an Iron Sky | Chaosium",
       "published_at": "2026-05-05T04:00:00+00:00",
@@ -282,6 +280,27 @@
         "pendragon",
         "iron",
         "chaosium"
+      ]
+    },
+    {
+      "key": "21d9c8e6d39f5afeb36816fdc726f1be36b52e0c",
+      "title": "Star Wars Age of Rebellion Part 1",
+      "published_at": "2026-05-05T04:00:00+00:00",
+      "link": null,
+      "description": "The cast rejoin the fight against the Empire and meet a new, hairy friend as our Star Wars adventure from New Game, Who Dis? continues! GM'd by Matthew Capodicasa and featuring Joe O'Brien, Troy Lavallee, Skid Maher, and Rob Kerkovich. This episode originally premiered in 2023 as part of Glass Cannon Labs. Watch the video here: https://youtu.be/ZA99HHCgU8g Cast: Rob Kerkovich, Troy Lavallee, Skid Maher, Joe O'Brien, and Matthew Capodicasa Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9f8e5dc8-4802-11f1-98f3-87a9f85c1ed1/image/3aebc19dd9384111c46ceaf7b9041396.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8816638750.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7068",
+      "speakers": [
+        "Star Wars Age",
+        "Star Wars"
+      ],
+      "topics": [
+        "star",
+        "wars",
+        "rebellion"
       ]
     },
     {
@@ -18767,6 +18786,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — GCN News Minute May 18, 2026 — speakers: Gen Con
 - 2026-05-18 — I Take Pride in My Hideous Face | Blood of the Wild S1 E22 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-05-15 — Turn Undead | The Glass Cannon Podcast Shadowdark E26 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-05-14 — Up Around the Bend | Call of Cthulhu Live! | Portland 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
@@ -18777,8 +18797,8 @@
 - 2026-05-08 — Foul Rag and Bone Shop | The Glass Cannon Podcast Shadowdark E25 | Shadowdark RPG — speakers: Bone Shop, Shadowdark Rpg, Myre Castle
 - 2026-05-07 — Losing Nemo | Call of Cthulhu Live! | Los Angeles Night Two 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
 - 2026-05-06 — Star Wars Age of Rebellion Part 2 — speakers: Star Wars Age
-- 2026-05-05 — Star Wars Age of Rebellion Part 1 — speakers: Star Wars Age, Star Wars
 - 2026-05-05 — The Fury of King Lot, Part 2 | Pendragon: Under an Iron Sky | Chaosium — speakers: King Aurther
+- 2026-05-05 — Star Wars Age of Rebellion Part 1 — speakers: Star Wars Age, Star Wars
 - 2026-05-04 — GCN News Minute May 4, 2026
 - 2026-05-04 — I'll Remember This, Blessed One | Blood of the Wild S1 E20 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-05-01 — Horizon 271 | Call of Cthulhu Live! | Los Angeles Night One 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
