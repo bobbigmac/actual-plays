@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-05-15T22:13:08+00:00`
-- checked_at: `2026-05-15T22:13:08+00:00`
-- last_modified: `Fri, 15 May 2026 21:22:08 GMT`
+- fetched_at: `2026-05-18T04:44:51+00:00`
+- checked_at: `2026-05-18T04:44:51+00:00`
+- last_modified: `Mon, 18 May 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-15T22:13:08+00:00",
+  "fetched_at": "2026-05-18T04:44:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "7b8c4785866a50b039d87c9f95b43d6153ae530d",
+      "title": "I Take Pride in My Hideous Face | Blood of the Wild S1 E22 | Pathfinder 2E Quest for the Frozen Flame",
+      "published_at": "2026-05-18T04:00:00+00:00",
+      "link": null,
+      "description": "The scouts battle saboteurs and find out what's inside that wagon. Access every available episode of Blood of the Wild along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1a966092-489e-11f1-af94-c7c1de698d84/image/f6a9c4938e7166216c2b3c61e94dabb3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9465136766.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4579",
+      "speakers": [
+        "Frozen Flame"
+      ],
+      "topics": [
+        "pride",
+        "face",
+        "blood",
+        "wild",
+        "pathfinder",
+        "quest",
+        "frozen",
+        "flame"
+      ]
+    },
     {
       "key": "66713b1729948889e22f32271f092c2e85833f68",
       "title": "Turn Undead | The Glass Cannon Podcast Shadowdark E26 | Shadowdark RPG",
@@ -8439,25 +8464,6 @@
       ]
     },
     {
-      "key": "81062e2b72e948432300ca17639ad0e16b2b071d",
-      "title": "Cannon Fodder 11/22/23",
-      "published_at": "2023-11-22T05:00:00+00:00",
-      "link": "https://youtu.be/UzUp2YaTMvg",
-      "description": "Happy Thanksgiving, Naish! The guys discuss what they are thankful for and then get right back to business! An awesome Black Friday Sale on GCN Merch, the premiere of Faster, Purple Worm, Kill! Kill!, and of course a thorough breakdown of Campaign 2 Episode 10! In We Are Stupid...it's creature awareness, blindness, attacks of opportunity, and some spell updates from the Pathfinder Remaster. Watch the video here: https://youtu.be/UzUp2YaTMvg For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD8612751933.mp3?updated=1714157055",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3257",
-      "speakers": [
-        "Cannon Fodder"
-      ],
-      "topics": [
-        "cannon",
-        "fodder"
-      ]
-    },
-    {
       "key": "f39920cf669d9a89ff5720a04eaaa0345a8186fe",
       "title": "Strange Aeons Episode 85 – Another Mun Bites the Dust",
       "published_at": "2023-11-22T05:00:00+00:00",
@@ -8476,6 +8482,25 @@
         "aeons",
         "bites",
         "dust"
+      ]
+    },
+    {
+      "key": "81062e2b72e948432300ca17639ad0e16b2b071d",
+      "title": "Cannon Fodder 11/22/23",
+      "published_at": "2023-11-22T05:00:00+00:00",
+      "link": "https://youtu.be/UzUp2YaTMvg",
+      "description": "Happy Thanksgiving, Naish! The guys discuss what they are thankful for and then get right back to business! An awesome Black Friday Sale on GCN Merch, the premiere of Faster, Purple Worm, Kill! Kill!, and of course a thorough breakdown of Campaign 2 Episode 10! In We Are Stupid...it's creature awareness, blindness, attacks of opportunity, and some spell updates from the Pathfinder Remaster. Watch the video here: https://youtu.be/UzUp2YaTMvg For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD8612751933.mp3?updated=1714157055",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3257",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
       ]
     },
     {
@@ -8816,25 +8841,6 @@
       ]
     },
     {
-      "key": "64abfc66c33a5f55e06a40457353d76fe0e6293c",
-      "title": "Cannon Fodder 9/27/23",
-      "published_at": "2023-09-27T04:00:00+00:00",
-      "link": "https://youtu.be/J_wQO8ovUaI",
-      "description": "The guys share some big news about their plans for New York Comic Con before giving a juicy update on the new GCN Subscription Service. In We Are Stupid, they focus in on how the Aid reaction works and discuss options for tables to make it more or less difficult at early levels. In Listener Mail, a potential new GM is looking for how to get started! Watch the video here: https://youtu.be/J_wQO8ovUaI For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7013464845.mp3?updated=1713896515",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "2978",
-      "speakers": [
-        "Cannon Fodder"
-      ],
-      "topics": [
-        "cannon",
-        "fodder"
-      ]
-    },
-    {
       "key": "762c24a373d0a7feef5bfdb92f2c811cb4914613",
       "title": "Strange Aeons Episode 83 – Hollow the Leader",
       "published_at": "2023-09-27T04:00:00+00:00",
@@ -8853,6 +8859,25 @@
         "strange",
         "aeons",
         "leader"
+      ]
+    },
+    {
+      "key": "64abfc66c33a5f55e06a40457353d76fe0e6293c",
+      "title": "Cannon Fodder 9/27/23",
+      "published_at": "2023-09-27T04:00:00+00:00",
+      "link": "https://youtu.be/J_wQO8ovUaI",
+      "description": "The guys share some big news about their plans for New York Comic Con before giving a juicy update on the new GCN Subscription Service. In We Are Stupid, they focus in on how the Aid reaction works and discuss options for tables to make it more or less difficult at early levels. In Listener Mail, a potential new GM is looking for how to get started! Watch the video here: https://youtu.be/J_wQO8ovUaI For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7013464845.mp3?updated=1713896515",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2978",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
       ]
     },
     {
@@ -9982,6 +10007,23 @@
       ]
     },
     {
+      "key": "4630a56055a60700f9745d5c5d85c1f82f42f990",
+      "title": "Friends of the Pod – Pathfinder 2E",
+      "published_at": "2023-02-01T05:01:00+00:00",
+      "link": "https://blubrry.com/the_glass_cannon/93530579/friends-of-the-pod-pathfinder-2e/",
+      "description": "With all of the shake ups in the tabletop industry as of late, we went live last week with the Pathfinder Society Scenario Inheritor's Rite to show fans new and old how much fun Pathfinder 2E is and how simple it is to jump right in and play! ﻿ For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at patreon.com/glasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD3829405594.mp3?updated=1692726580",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "16789",
+      "speakers": [],
+      "topics": [
+        "friend",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "04282c6d13692676a896fbfbd0393d2791e43683",
       "title": "Cannon Fodder 2/1/23",
       "published_at": "2023-02-01T05:01:00+00:00",
@@ -9998,23 +10040,6 @@
       "topics": [
         "cannon",
         "fodder"
-      ]
-    },
-    {
-      "key": "4630a56055a60700f9745d5c5d85c1f82f42f990",
-      "title": "Friends of the Pod – Pathfinder 2E",
-      "published_at": "2023-02-01T05:01:00+00:00",
-      "link": "https://blubrry.com/the_glass_cannon/93530579/friends-of-the-pod-pathfinder-2e/",
-      "description": "With all of the shake ups in the tabletop industry as of late, we went live last week with the Pathfinder Society Scenario Inheritor's Rite to show fans new and old how much fun Pathfinder 2E is and how simple it is to jump right in and play! ﻿ For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at patreon.com/glasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD3829405594.mp3?updated=1692726580",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "16789",
-      "speakers": [],
-      "topics": [
-        "friend",
-        "pathfinder"
       ]
     },
     {
@@ -18742,6 +18767,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — I Take Pride in My Hideous Face | Blood of the Wild S1 E22 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-05-15 — Turn Undead | The Glass Cannon Podcast Shadowdark E26 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-05-14 — Up Around the Bend | Call of Cthulhu Live! | Portland 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
 - 2026-05-12 — The Farmer's Boy | Pendragon: Under an Iron Sky | Chaosium
@@ -19122,8 +19148,8 @@
 - 2023-12-06 — Cannon Fodder 12/6/23 — speakers: Cannon Fodder
 - 2023-12-01 — Shoots and Ladder | The Glass Cannon Podcast Gatewalkers E11 | Pathfinder 2E
 - 2023-11-29 — Cannon Fodder 11/29/23 — speakers: Cannon Fodder
-- 2023-11-22 — Cannon Fodder 11/22/23 — speakers: Cannon Fodder
 - 2023-11-22 — Strange Aeons Episode 85 – Another Mun Bites the Dust — speakers: Another Mun Bites
+- 2023-11-22 — Cannon Fodder 11/22/23 — speakers: Cannon Fodder
 - 2023-11-17 — Dancers in the Dark | The Glass Cannon Podcast Gatewalkers E10 | Pathfinder 2E
 - 2023-11-15 — Cannon Fodder 11/15/23 — speakers: Cannon Fodder
 - 2023-11-10 — Bachman-Turner Overshirt | The Glass Cannon Podcast Gatewalkers E9 | Pathfinder 2E — speakers: Turner Overshirt
@@ -19140,8 +19166,8 @@
 - 2023-10-06 — Shadows and Dogs | The Glass Cannon Podcast Gatewalkers E4 | Pathfinder 2E
 - 2023-10-04 — Cannon Fodder 10/4/23 — speakers: Cannon Fodder
 - 2023-09-29 — Ooh Baby Baby, It's the Wilewood | The Glass Cannon Podcast Gatewalkers E3 | Pathfinder 2E — speakers: Ooh Baby Baby
-- 2023-09-27 — Cannon Fodder 9/27/23 — speakers: Cannon Fodder
 - 2023-09-27 — Strange Aeons Episode 83 – Hollow the Leader — speakers: Leader Weapons, Paradise Rock Club
+- 2023-09-27 — Cannon Fodder 9/27/23 — speakers: Cannon Fodder
 - 2023-09-22 — Ladies' Night | The Glass Cannon Podcast Gatewalkers E2 | Pathfinder 2E
 - 2023-09-20 — Cannon Fodder 9/20/23 — speakers: Cannon Fodder
 - 2023-09-15 — Where's the Tavern? | The Glass Cannon Podcast Gatewalkers E1 | Pathfinder 2E
@@ -19199,8 +19225,8 @@
 - 2023-02-14 — Strange Aeons Episode 62 – The Ghast and the Curious
 - 2023-02-08 — Cannon Fodder 2/8/23 — speakers: Cannon Fodder
 - 2023-02-07 — Strange Aeons Episode 61 – A Mid-forest Night's Dream — speakers: Verduran Forest
-- 2023-02-01 — Cannon Fodder 2/1/23 — speakers: Cannon Fodder
 - 2023-02-01 — Friends of the Pod – Pathfinder 2E
+- 2023-02-01 — Cannon Fodder 2/1/23 — speakers: Cannon Fodder
 - 2023-01-31 — Strange Aeons Episode 60 – That's My Juice Now
 - 2023-01-25 — Cannon Fodder 1/25/23 — speakers: Cannon Fodder
 - 2023-01-24 — Strange Aeons Episode 59 – Tricorne Flakes — speakers: Tricorne Flakes Just

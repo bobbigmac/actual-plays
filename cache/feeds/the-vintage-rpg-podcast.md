@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-05-16T19:35:56+00:00`
-- checked_at: `2026-05-16T19:35:56+00:00`
-- etag: `"6cc9a7441e04ca00f8d4f002d870a6cd"`
-- last_modified: `Sat, 16 May 2026 17:53:55 GMT`
+- fetched_at: `2026-05-18T04:44:51+00:00`
+- checked_at: `2026-05-18T04:44:51+00:00`
+- etag: `"eeac29e33eb19a6a79c194790ba95ebf"`
+- last_modified: `Mon, 18 May 2026 04:10:02 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-05-16T19:35:56+00:00",
+  "fetched_at": "2026-05-18T04:44:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "3ed946026d38ba097567e6e29c2dfb2a2532c260",
+      "title": "Abattoir Hymnal",
+      "published_at": "2026-05-18T04:00:00+00:00",
+      "link": "https://www.vintagerpg.com/2026/05/abattoir-hymnal/",
+      "description": "Yes, meat sorcery! This week on the Vintage RPG Podcast, we're theoretically talking to Tiger Wizard about Abattoir Hymnal , his collaboration with Donn Stroud for Demon Month. In practice, we wind up talking about a lot of other stuff too! * * * Back Abattoir Hymnal on Backerkit now! Instagram? Old news. Join the Vintage RPG Newsletter ! That's where all the cool kids are now! Stu's book, Monsters, Aliens, and Holes in the Ground is for sale now! Buy it ! Patreon? Discord? Cool RPG things to buy? All the Vintage RPG links you need are right here in one place ! Like, Rate, Subscribe and Review the Vintage RPG Podcast! Edited by the one and only R. Alex Murray . Send questions, comments or corrections to info@vintagerpg.com . Available on iTunes , Google Podcasts , iHeartRadio , Spotify , YouTube and your favorite podcast clients. The Vintage RPG illustration is by Shafer Brown . Follow him on Twitter . Tune in next week for the next episode. Until then, may the dice always roll in your favor!",
+      "image_url": "https://static.libsyn.com/p/assets/1/a/a/f/1aafd14365ea73ac16c3140a3186d450/Vintage_Podcast_Icon-20260516-0o4sqg4rul.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/thevintagerpgpodcast/VRPG_-_Abbatoir_Hymnal_.mp3?dest-id=747998",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70892779",
+      "itunes_duration": "35:11",
+      "speakers": [
+        "Tiger Wizard"
+      ],
+      "topics": [
+        "abattoir",
+        "hymnal"
+      ]
+    },
     {
       "key": "bb4c2de849d1b35577e68a60a31b630875fbcc3f",
       "title": "Monster Dinosaur",
@@ -6600,6 +6619,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — Abattoir Hymnal — speakers: Tiger Wizard
 - 2026-05-11 — Monster Dinosaur — speakers: Monster Dinosaur Oh
 - 2026-04-27 — Sea and Land — speakers: Monster Manual
 - 2026-04-20 — Night of the Ninja (and More!)
