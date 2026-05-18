@@ -2,10 +2,10 @@
 
 - slug: `worlds-beyond-number`
 - source: `https://feeds.simplecast.com/IAPnSSRO`
-- fetched_at: `2026-05-15T17:02:14+00:00`
-- checked_at: `2026-05-15T17:02:14+00:00`
-- etag: `"a14b94a41444cfc94f460d63e4f3ee82"`
-- last_modified: `Fri, 15 May 2026 16:38:36 GMT`
+- fetched_at: `2026-05-18T22:15:29+00:00`
+- checked_at: `2026-05-18T22:15:29+00:00`
+- etag: `"efb632a59624cc3c23dc0424df953686"`
+- last_modified: `Mon, 18 May 2026 21:32:24 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://worlds-beyond-number.simplecast.com",
   "description": "An epic, improvised storytelling podcast where Brennan Lee Mulligan, Erika Ishii, Aabria Iyengar, and Lou Wilson hang out together, play games, build worlds, and make stories.",
   "image_url": "https://image.simplecastcdn.com/images/c89bbbb6-e942-4583-ad73-4877d9c0b2f6/dfae107c-3b1e-4c37-acf7-a48a1ff6e445/3000x3000/wbn-album-logo-art-2024-3000x3000.jpg?aid=rss_feed",
-  "fetched_at": "2026-05-15T17:02:14+00:00",
+  "fetched_at": "2026-05-18T22:15:29+00:00",
   "owners": [
     "Brennan Lee Mulligan",
     "Aabria Iyengar",
@@ -31,6 +31,30 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "489e233a4097c82d78a0aaa96e5cf14a90650557",
+      "title": "Soundtrack out now for the Wizard the Witch and the Wild One!",
+      "published_at": "2026-05-18T21:32:13+00:00",
+      "link": "https://worlds-beyond-number.simplecast.com/episodes/soundtrack-out-now-for-the-wizard-the-witch-and-the-wild-one-J_F_3W_C",
+      "description": "Heads up! Worlds Beyond Number has officially partnered with Skybound to launch our very first graphic novel! THE WIZARD, THE WITCH, AND THE WILD ONE BOOK ONE is coming to Kickstarter on June 16th. In addition to that, the massive 157 track OST for WWWO is out NOW, so there's plenty of Umora available for you while you wait. Get the OST here: https://taylormooremusic.bandcamp.com/album/worlds-beyond-number-the-wizard-the-witch-and-the-wild-one-book-one-original-soundtrack Sign up for Kickstarter updates here: http://worldsbeyondnumberkickstarter.com/",
+      "image_url": null,
+      "enclosure_url": "https://cdn.simplecast.com/media/audio/transcoded/3271e9ed-72a9-42fd-a976-32864451ba9e/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/audio/group/7a36aa3c-8296-445d-ac6e-de7ab26e0357/group-item/c286e514-ae56-4641-9c7b-dd021ce34c82/128_default_tc.mp3?aid=rss_feed&feed=IAPnSSRO",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "841079",
+      "itunes_duration": "00:00:52",
+      "speakers": [
+        "Worlds Beyond Number",
+        "Brennan Lee Mulligan",
+        "Aabria Iyengar",
+        "Erika Ishii",
+        "Lou Wilson"
+      ],
+      "topics": [
+        "wizard",
+        "witch",
+        "wild"
+      ]
+    },
     {
       "key": "728f60243a3727f28ffb56ebc3d83278221562b1",
       "title": "Solari: Episode 5 - Pirouette",
@@ -1974,6 +1998,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — Soundtrack out now for the Wizard the Witch and the Wild One! — speakers: Worlds Beyond Number, Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-05-12 — Solari: Episode 5 - Pirouette — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-04-28 — Solari: Episode 4 - Port of Call — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-04-14 — Solari: Episode 3 - Parley — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
