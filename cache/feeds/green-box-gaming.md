@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-05-19T10:09:33+00:00`
-- checked_at: `2026-05-19T10:09:33+00:00`
-- etag: `"67902d191ca62779839eeb43d9c7e591"`
-- last_modified: `Tue, 19 May 2026 07:27:22 GMT`
+- fetched_at: `2026-05-19T15:52:41+00:00`
+- checked_at: `2026-05-19T15:52:41+00:00`
+- etag: `"e5e8bd11b8cc0bb64890de2e1f43e93c"`
+- last_modified: `Tue, 19 May 2026 13:00:27 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-05-19T10:09:33+00:00",
+  "fetched_at": "2026-05-19T15:52:41+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "e4928f554b61e8d7b5e92692bd77258fd6e7021c",
+      "title": "Ep2 | Delta Green: Last Things Last - Cabin in the Woods",
+      "published_at": "2026-05-19T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/2794905",
+      "description": "Agents Ori and Iris are on the trail, and surely this clean up will be straightforward... right? ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/2794905/green-box-gaming/2026_05_05_06_12_35_fc98368d-c484-4eee-b3f9-e7a4f4ba38d8.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91974007",
+      "itunes_duration": "5748",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "thing",
+        "cabin",
+        "wood"
+      ]
+    },
     {
       "key": "51fd53db4485a00b37efd1257b36643f3818155e",
       "title": "Ep1 | Delta Green: Last Things Last - Clean Up Crew",
@@ -3949,6 +3969,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-19 — Ep2 | Delta Green: Last Things Last - Cabin in the Woods
 - 2026-05-12 — Ep1 | Delta Green: Last Things Last - Clean Up Crew
 - 2026-05-05 — Ep5 | Thousand Year Old Vampire w/ Brad - Ahead of His Time
 - 2026-04-28 — Ep4 | Thousand Year Old Vampire w/ Brad - Rat King
