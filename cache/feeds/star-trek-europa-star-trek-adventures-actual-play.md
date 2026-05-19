@@ -2,9 +2,9 @@
 
 - slug: `star-trek-europa-star-trek-adventures-actual-play`
 - source: `https://feed.podbean.com/startrekeuropa/feed.xml`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"8fddf08242aaa66a781bad691de27bae"`
+- fetched_at: `2026-05-19T20:05:51+00:00`
+- checked_at: `2026-05-19T20:05:51+00:00`
+- etag: `"957bc84a6a9970db52e8f8cb6fb2faf9"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://startrekeuropa.podbean.com",
   "description": "The Dominion war is over, Starfleet is slowly rebuilding after the devastation, and the Federation is looking to return to the ways of exploration and peaceful contact. Europa is a brand new, state of the art, Luna class starship with a new Prototype Positronic and Bioneural computer system and an advanced AI. She carries with her, high hopes, and even higher expectations. Starfleet has assigned the best, and the brightest to Europa, and all eyes will be on her as she heads into the Expanse.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/10653603/AppleLogo.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-05-19T20:05:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -36,9 +36,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148942127",
       "itunes_duration": "9304",
-      "speakers": [
-        "Denni Tolbus"
-      ],
+      "speakers": [],
       "topics": [
         "lion"
       ]
@@ -71,7 +69,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "174845648",
       "itunes_duration": "10927",
-      "speakers": [],
+      "speakers": [
+        "Captains Log"
+      ],
       "topics": [
         "time",
         "kill"
@@ -105,7 +105,7 @@
       "enclosure_length": "94962348",
       "itunes_duration": "3956",
       "speakers": [
-        "DaiMon Lupek"
+        "Captains Log"
       ],
       "topics": [
         "wind",
@@ -124,7 +124,7 @@
       "enclosure_length": "145344308",
       "itunes_duration": "9079",
       "speakers": [
-        "Gerald Moss"
+        "Captains Log"
       ],
       "topics": [
         "lion",
@@ -142,7 +142,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "156102751",
       "itunes_duration": "9755",
-      "speakers": [],
+      "speakers": [
+        "Star Trek Europa"
+      ],
       "topics": [
         "prise"
       ]
@@ -225,9 +227,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "152910010",
       "itunes_duration": "9554",
-      "speakers": [
-        "Romulan Prison"
-      ],
+      "speakers": [],
       "topics": [
         "darker",
         "days"
@@ -245,8 +245,7 @@
       "enclosure_length": "194740956",
       "itunes_duration": "12170",
       "speakers": [
-        "Cmdr Harris",
-        "Lts Tong"
+        "Cmdr Harris"
       ],
       "topics": [
         "darker",
@@ -264,10 +263,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "165340521",
       "itunes_duration": "10332",
-      "speakers": [
-        "Lt Tong",
-        "Lt Sliva"
-      ],
+      "speakers": [],
       "topics": [
         "darker",
         "days"
@@ -303,8 +299,9 @@
       "enclosure_length": "253481665",
       "itunes_duration": "15838",
       "speakers": [
-        "Tara Les",
-        "Asilli Ven"
+        "Sacrifice Now",
+        "Become Tomorrow",
+        "Emil Prime"
       ],
       "topics": [
         "sacrifice",
@@ -487,9 +484,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "205962046",
       "itunes_duration": "12871",
-      "speakers": [
-        "Dr Foxwell"
-      ],
+      "speakers": [],
       "topics": [
         "light"
       ]
@@ -783,7 +778,7 @@
       "enclosure_length": "163132369",
       "itunes_duration": "10191",
       "speakers": [
-        "Narendra Station"
+        "Narendra Statio"
       ],
       "topics": [
         "heavy",
@@ -802,7 +797,7 @@
       "enclosure_length": "165915261",
       "itunes_duration": "10365",
       "speakers": [
-        "Narendra Station"
+        "Narendra Statio"
       ],
       "topics": [
         "house"
@@ -910,7 +905,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "154169900",
       "itunes_duration": "9631",
-      "speakers": [],
+      "speakers": [
+        "Nolist Sector"
+      ],
       "topics": [
         "fault",
         "star"
@@ -944,7 +941,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116599937",
       "itunes_duration": "7283",
-      "speakers": [],
+      "speakers": [
+        "Star Trek",
+        "Narendra Station"
+      ],
       "topics": [
         "expanse",
         "star",
@@ -963,9 +963,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "172137774",
       "itunes_duration": "10753",
-      "speakers": [
-        "Kasidy Yates-Sisko"
-      ],
+      "speakers": [],
       "topics": [
         "bajor",
         "peace",
@@ -987,9 +985,7 @@
       "enclosure_length": "157000531",
       "itunes_duration": "9808",
       "speakers": [
-        "Aurani Ambrose",
-        "Benjamin Sisko",
-        "Kasidy Yates-Sisko"
+        "Aurani Ambrose"
       ],
       "topics": [
         "bajor",
@@ -1012,7 +1008,7 @@
       "enclosure_length": "134852855",
       "itunes_duration": "8442",
       "speakers": [
-        "Shakaar Edon"
+        "Star Trek"
       ],
       "topics": [
         "bajor",
@@ -1030,22 +1026,22 @@
 
 ## Episodes (newest first)
 
-- 2023-07-10 — An Old Lion — speakers: Denni Tolbus
+- 2023-07-10 — An Old Lion
 - 2023-07-03 — A Time to Kill - Part 2
-- 2023-06-26 — A Time to Kill - Part 1
+- 2023-06-26 — A Time to Kill - Part 1 — speakers: Captains Log
 - 2023-06-20 — Battle of Qo’nos
-- 2023-04-23 — Winds at the Gate - S3E2 — speakers: DaiMon Lupek
-- 2023-04-10 — To whom do lions cast their gentle looks -S3E01 — speakers: Gerald Moss
-- 2023-02-06 — El Prise
+- 2023-04-23 — Winds at the Gate - S3E2 — speakers: Captains Log
+- 2023-04-10 — To whom do lions cast their gentle looks -S3E01 — speakers: Captains Log
+- 2023-02-06 — El Prise — speakers: Star Trek Europa
 - 2023-01-30 — Zwishenschack — speakers: Romulan Warbirds
 - 2022-12-26 — Gambit
 - 2022-12-21 — A Dangerous Game
 - 2022-12-05 — Light in Shadow
-- 2022-11-28 — Darker Days Ahead | Part 3 — speakers: Romulan Prison
-- 2022-11-21 — Darker Days Ahead | Part 2 — speakers: Cmdr Harris, Lts Tong
-- 2022-11-14 — Darker Days Ahead | Part 1 — speakers: Lt Tong, Lt Sliva
+- 2022-11-28 — Darker Days Ahead | Part 3
+- 2022-11-21 — Darker Days Ahead | Part 2 — speakers: Cmdr Harris
+- 2022-11-14 — Darker Days Ahead | Part 1
 - 2022-11-07 — Shindig — speakers: Shindig Koba
-- 2022-10-31 — Sacrifice Now to Become Tomorrow — speakers: Tara Les, Asilli Ven
+- 2022-10-31 — Sacrifice Now to Become Tomorrow — speakers: Sacrifice Now, Become Tomorrow, Emil Prime
 - 2022-10-24 — Thine Own Self - Part 3 | Star Trek: Europa - S2E13
 - 2022-08-21 — Thine Own Self - Part 2 | Star Trek: Europa - S2E12
 - 2022-07-20 — Thine Own Self - Part 1 | Star Trek: Europa - S2E11
@@ -1055,7 +1051,7 @@
 - 2022-07-01 — The Maelstrom
 - 2022-05-16 — The People — speakers: Space Whales
 - 2022-05-09 — The Valley
-- 2022-04-27 — The Light Ahead — speakers: Dr Foxwell
+- 2022-04-27 — The Light Ahead
 - 2022-04-26 — Careful, not wise
 - 2022-01-27 — When the Stars Shine Brightest — speakers: Shine Brightest, Narendra Station
 - 2022-01-09 — Shadows of Memory
@@ -1072,16 +1068,16 @@
 - 2021-12-07 — A Fair Fight — speakers: Fair Fight Europa
 - 2021-12-07 — Rock & A Hard Place
 - 2021-06-25 — Q&A With the Crew (SPOILERS)
-- 2021-06-21 — Heavy is the Crown — speakers: Narendra Station
-- 2021-06-14 — A House Divided — speakers: Narendra Station
+- 2021-06-21 — Heavy is the Crown — speakers: Narendra Statio
+- 2021-06-14 — A House Divided — speakers: Narendra Statio
 - 2021-06-05 — Toward the Setting Sun Part 4 — speakers: Hallrioon System
 - 2021-06-05 — Toward the Setting Sun - Part 3 — speakers: Setting Sun, Hallrioon System
 - 2021-06-05 — Toward the Setting Sun - Part 2 — speakers: Setting Sun, Hallrioon System
 - 2021-06-05 — A message about the "Towards the Setting Sun"episodes — speakers: Setting Sun
 - 2021-04-10 — We Stand Ready
-- 2021-04-05 — The Faults in Our Stars
+- 2021-04-05 — The Faults in Our Stars — speakers: Nolist Sector
 - 2021-03-03 — Where the Wild Things Are
-- 2021-01-10 — Welcome to the Expanse | Star Trek: Europa - S1E4
-- 2021-01-10 — Bajor at Peace | Star Trek: Europa | Prelude - Part 3 — speakers: Kasidy Yates-Sisko
-- 2021-01-10 — Bajor at Peace | Star Trek: Europa | Prelude - Part 2 — speakers: Aurani Ambrose, Benjamin Sisko, Kasidy Yates-Sisko
-- 2021-01-10 — Bajor at Peace | Star Trek: Europa | Prelude - part 1 — speakers: Shakaar Edon
+- 2021-01-10 — Welcome to the Expanse | Star Trek: Europa - S1E4 — speakers: Star Trek, Narendra Station
+- 2021-01-10 — Bajor at Peace | Star Trek: Europa | Prelude - Part 3
+- 2021-01-10 — Bajor at Peace | Star Trek: Europa | Prelude - Part 2 — speakers: Aurani Ambrose
+- 2021-01-10 — Bajor at Peace | Star Trek: Europa | Prelude - part 1 — speakers: Star Trek

@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-05-12T20:11:30+00:00`
-- checked_at: `2026-05-12T20:11:30+00:00`
-- etag: `"djEuMi4wOjE3Nzg2MTI0Mzk1MDc="`
+- fetched_at: `2026-05-19T20:05:51+00:00`
+- checked_at: `2026-05-19T20:05:51+00:00`
+- etag: `"djEuMi4wOjE3NzkyMTcyMzkzOTI="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-05-12T20:11:30+00:00",
+  "fetched_at": "2026-05-19T20:05:51+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "e73dfd4182397d6bef7a4766a70b4c368c4302fa",
+      "title": "Action Surge Episode 54",
+      "published_at": "2026-05-19T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-54",
+      "description": "Big Brent energy. Well, he's done it again. He may forget the basic rules sometimes , but by god can he make us cry. Learn the origin's of Kel's flute, the thinking behind the visions everyone had (and didn't have), and the power of speaking to characters beyond the mortal realm. Also shout-out to Alex for his commitment to the bit during the episode, but the tux had to come off, it's hot in that room. -- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/69ff8d5e668fe6d31fa958d4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100484415",
+      "itunes_duration": "52:19",
+      "speakers": [
+        "Big Brent",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "215e89c69bf7ec540219cc3a4e880cf6975d62a1",
       "title": "Ep. 54 Song of the Treespeaker",
@@ -2817,6 +2842,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-19 — Action Surge Episode 54 — speakers: Big Brent, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-05-12 — Ep. 54 Song of the Treespeaker — speakers: Treespeaker Things, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-05-05 — Action Surge Episode 53 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-04-28 — Ep. 53 Boorish Rebuke — speakers: Boorish Rebuke Some, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle

@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-05-19T10:09:33+00:00`
-- checked_at: `2026-05-19T10:09:33+00:00`
-- etag: `"djEuMi4wOjE3NzkxNzY4ODc5ODU="`
+- fetched_at: `2026-05-19T20:05:51+00:00`
+- checked_at: `2026-05-19T20:05:51+00:00`
+- etag: `"djEuMi4wOjE3NzkyMDY0Mzk0NDU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-05-19T10:09:33+00:00",
+  "fetched_at": "2026-05-19T20:05:51+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -32,6 +32,28 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "8e0f7e852e9d80e619d40dd2bd8a8b42ced0dda4",
+      "title": "S4 Ep. 8 - The Rentalist",
+      "published_at": "2026-05-19T16:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "how to clean car floor stain what is car floor made of how to replicate car floor substance earth materials This episode contains Profanity, Violence, and Sexual Content. Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1779170838216-29d81f57-bc01-4ef7-ae7a-1adde7ac86a7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/6a0c15b7f37ac16f7cec1eff/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105363137",
+      "itunes_duration": "1:12:42",
+      "speakers": [
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "rentalist"
+      ]
+    },
     {
       "key": "b6c804028024d9f6a4ee72f62e00320f5f518322",
       "title": "S4 Ep. 7 - Vent Horizon",
@@ -4673,6 +4695,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-19 — S4 Ep. 8 - The Rentalist — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-05-05 — S4 Ep. 7 - Vent Horizon — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-04-21 — S4 Ep. 6 - Finding Doory — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-04-07 — S4 Ep. 5 - Hope Bloats — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
