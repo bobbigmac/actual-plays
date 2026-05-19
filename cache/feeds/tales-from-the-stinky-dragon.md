@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-05-18T10:42:45+00:00`
-- checked_at: `2026-05-18T10:42:45+00:00`
-- last_modified: `Mon, 18 May 2026 05:32:59 GMT`
+- fetched_at: `2026-05-19T04:36:12+00:00`
+- checked_at: `2026-05-19T04:36:12+00:00`
+- last_modified: `Mon, 18 May 2026 22:52:32 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-18T10:42:45+00:00",
+  "fetched_at": "2026-05-19T04:36:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -2361,7 +2361,7 @@
       "published_at": "2023-03-15T07:00:00+00:00",
       "link": "https://www.patreon.com/posts/between-tales-105368040",
       "description": "The cast and crew talk through their thoughts and feelings on the Infinight Campaign,answer questions from YOU the audience, and talk a little about what is coming next! Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
+      "image_url": "https://megaphone.imgix.net/podcasts/c46da7ae-c1f8-11ed-91a5-675326d208d4/image/bbfc36dbb787724f7a254dd051405d26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER8802520691.mp3?updated=1736415025",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -2382,7 +2382,7 @@
       "published_at": "2023-03-08T08:00:00+00:00",
       "link": "https://www.patreon.com/posts/tales-from-86-2-105367969",
       "description": "It’s all come down to this - the Infinights take on the big bad behind all their misfortunes. This battle will echo throughout generations with their livelihood, the world of Faeza, and magic itself hanging in the balance in part 2 of the exciting conclusion to the Infinight Saga. Tune in to the end of the episode to find out what’s next! Shout Out to our Voice Actors for this episode: Dia - BK (@BlackKrystel) Entropa - Armando Torres (@MandoDoesStuff) Slique - Benjamin Ernst (@RT_Ben) Paralyte - Hannah McCarthy (@HiHelloHannah) Spectril - Christian Young (@xchinYoung) Sorto - Jack Pattillo (@jack.pattillo) Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
+      "image_url": "https://megaphone.imgix.net/podcasts/93e7bd74-bc65-11ed-a911-1304526c904d/image/bbfc36dbb787724f7a254dd051405d26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER5338735932.mp3?updated=1736414882",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -2398,7 +2398,7 @@
       "published_at": "2023-03-01T08:00:00+00:00",
       "link": "https://www.patreon.com/posts/tales-from-85-1-105367897",
       "description": "It’s all come down to this - the Infinights take on the big bad behind all their misfortunes. This battle will echo throughout generations with their livelihood, the world of Faeza, and magic itself hanging in the balance in part 1 of the exciting conclusion to the Infinight Saga Shout Out to our Voice Actors for this episode: Dia - BK (@BlackKrystel) Entropa - Armando Torres (@MandoDoesStuff) Join the Party and help make this show possible by joining us on Patreon.com/StinkyDragon! Get BTS content, access to our discord, live streams and more! And of course, our immensely stinky gratitude 🐉💨 Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
+      "image_url": "https://megaphone.imgix.net/podcasts/02a94246-b6f3-11ed-8ce4-77d9a71d1034/image/bbfc36dbb787724f7a254dd051405d26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/ROOSTER6845375787.mp3?updated=1736414819",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
