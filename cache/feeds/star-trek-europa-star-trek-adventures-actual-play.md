@@ -3,11 +3,12 @@
 - slug: `star-trek-europa-star-trek-adventures-actual-play`
 - source: `https://feed.podbean.com/startrekeuropa/feed.xml`
 - fetched_at: `2026-05-19T20:05:51+00:00`
-- checked_at: `2026-05-20T04:39:36+00:00`
+- checked_at: `2026-05-20T15:59:15+00:00`
 - etag: `"957bc84a6a9970db52e8f8cb6fb2faf9"`
 - max_episodes_per_feed: `1000`
-- status: `error`
+- status: `disabled`
 - last_error: `HTTP 404` — Not Found
+- disabled_reason: 3 consecutive failures
 
 <!-- FEED_JSON -->
 ```json
@@ -1024,13 +1025,16 @@
   ],
   "fetch": {
     "error_since": "2026-05-20T04:39:36+00:00",
-    "status": "error",
-    "checked_at": "2026-05-20T04:39:36+00:00",
-    "consecutive_failures": 1,
+    "status": "disabled",
+    "checked_at": "2026-05-20T15:59:15+00:00",
+    "consecutive_failures": 3,
     "error": {
       "status": 404,
       "message": "Not Found"
-    }
+    },
+    "disabled": true,
+    "disabled_at": "2026-05-20T15:59:15+00:00",
+    "disabled_reason": "3 consecutive failures"
   }
 }
 ```

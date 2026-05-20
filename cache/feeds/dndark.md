@@ -2,8 +2,8 @@
 
 - slug: `dndark`
 - source: `https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40`
-- fetched_at: `2026-05-20T09:55:08+00:00`
-- checked_at: `2026-05-20T09:55:08+00:00`
+- fetched_at: `2026-05-20T15:59:15+00:00`
+- checked_at: `2026-05-20T15:59:15+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/dndark",
   "description": "A comedy/horror D&D Actual Play Podcast starring some of history's most iconic monsters",
   "image_url": "https://media.redcircle.com/images/2025/4/2/20/c89246be-6b46-429a-909e-1e4e1bd26ad0_846-8b2d-746b3b4b007c_received_702201047512802.jpg",
-  "fetched_at": "2026-05-20T09:55:08+00:00",
+  "fetched_at": "2026-05-20T15:59:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -24,6 +24,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "de2a6d3194a7b779d55c07563bd853e8fa38810e",
+      "title": "Table Talk - Interview with 5 GMs in a Trenchcoat",
+      "published_at": "2026-05-20T12:00:51+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The Thirtieth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Jesse, Tanlynn, and Kim from the Actual Play podcast 5 GMs in a Trenchcoat. The interview discusses the various systems and stories explored on 5 GMs as well as general comfort media and why everything can be summed up as being Star Wars. Check out 5 GMs: Website: https://www.5gmsinatrenchcoat.com/ Linktree: https://linktr.ee/5gmsinatrenchcoat Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
+      "image_url": "https://media.redcircle.com/images/2026/4/14/8/2921adda-f7a9-443c-bca1-df5bff575442_dndark_interview_thimbnail.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/7a45a793-ffdb-4899-9441-347dc14d9c97/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39832764",
+      "itunes_duration": "2489",
+      "speakers": [],
+      "topics": [
+        "table",
+        "talk",
+        "trenchcoat"
+      ]
+    },
     {
       "key": "78f3b3d44b1f5769fbc26d98856156e465a7914f",
       "title": "DnDark Presents: DnDark Souls Finale: ...Happily Ever After?",
@@ -2552,6 +2570,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — Table Talk - Interview with 5 GMs in a Trenchcoat
 - 2026-05-06 — DnDark Presents: DnDark Souls Finale: ...Happily Ever After?
 - 2026-04-29 — Table Talk - Interview with Mike (Arcane Circle)
 - 2026-04-22 — DnDark Presents: DnDark Souls Part 10: Knight on Bald Mountain — speakers: Bald Mountain

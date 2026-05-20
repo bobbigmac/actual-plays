@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-05-08T16:46:34+00:00`
-- checked_at: `2026-05-08T16:46:34+00:00`
-- etag: `"e4921bf4f5b767375a87d032eb1f45b0"`
+- fetched_at: `2026-05-20T15:59:15+00:00`
+- checked_at: `2026-05-20T15:59:15+00:00`
+- etag: `"2559ad06eef42741d6de9bfce5889213"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/5111002/Dork_Tales_d20_20238mnn1.png",
-  "fetched_at": "2026-05-08T16:46:34+00:00",
+  "fetched_at": "2026-05-20T15:59:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "b02b1007493e5a590479ac6ac7c57c2949bcf198",
+      "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 5: A Most Awkward River Cruise",
+      "published_at": "2026-05-20T14:55:56+00:00",
+      "link": "https://dorktales.podbean.com/e/mage-the-ascension-the-victorian-age-book-3-chapter-5-a-most-awkward-river-cruise/",
+      "description": "Welcome to book three of Mage the Victorian Age! In this episode, Samuel Blackwood meets Darcie. Thank you to Bookwyrm Games for sponsoring Dork Tales this month! Use code DORKTALES to save 15% at https://www.bookwyrmgames.com! Orders over $100 also enjoy free shipping! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage *** Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Evelyn Taylor *** Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktalescha... Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! *** Music credits: Music From Dark Fantasy Studio Hidden in the Dark These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vision of the Ancients Veil Entropy Veil Lighthearted These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! https://www.tabletopaudio.com",
+      "image_url": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog5111002/Mage_Book_3Podcast_Logoabm7t.png",
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/zi4qrnifbtbe67nf/MVA3x5complete.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "129651836",
+      "itunes_duration": "8100",
+      "speakers": [
+        "Samuel Blackwood"
+      ],
+      "topics": [
+        "ascension",
+        "book",
+        "chapter",
+        "awkward",
+        "river",
+        "cruise"
+      ]
+    },
     {
       "key": "804c0d97df2364a01173972ebae73989b68e8bad",
       "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 4: A Swift Arrival",
@@ -7723,6 +7746,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — Mage the Ascension the Victorian Age | Book 3, Chapter 5: A Most Awkward River Cruise — speakers: Samuel Blackwood
 - 2026-05-08 — Mage the Ascension the Victorian Age | Book 3, Chapter 4: A Swift Arrival
 - 2026-05-04 — How to Run Vecna: Eve of Ruin — speakers: Run Vecna, Ruin Vecna
 - 2026-05-01 — Mage the Ascension the Victorian Age | Book 3, Chapter 3: Blood on the Deck — speakers: Victorian Age, Deck Welcome

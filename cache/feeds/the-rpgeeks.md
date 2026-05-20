@@ -2,9 +2,9 @@
 
 - slug: `the-rpgeeks`
 - source: `https://feed.podbean.com/rpgeeksdnd/feed.xml`
-- fetched_at: `2026-05-19T15:52:41+00:00`
-- checked_at: `2026-05-19T15:52:41+00:00`
-- etag: `"cc7bd5ad4ec04880bde8f3ac39ef9fc2"`
+- fetched_at: `2026-05-20T15:59:15+00:00`
+- checked_at: `2026-05-20T15:59:15+00:00`
+- etag: `"03e7b28244106f84b5a4323cdbda79c7"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://rpgeeksdnd.podbean.com",
   "description": "Nerdy actual play with epic stories and fascinating facts. Tales of danger, drama, nonsense and joy - plus lore-drops on our favourite topics! UK-based TTRPG show, live on Wednesdays from 7pm.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/11909286/Circular_Profile_-_RPGeeks_Text_and_Planet_with_Extra_Space_atri7q.jpg",
-  "fetched_at": "2026-05-19T15:52:41+00:00",
+  "fetched_at": "2026-05-20T15:59:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "30b247a6b866e054bfb5786d191943f192746968",
+      "title": "Blade Runner 2037 | Chapter 03: The Lost Daughter",
+      "published_at": "2026-05-20T12:00:00+00:00",
+      "link": "https://rpgeeksdnd.podbean.com/e/blade-runner-2037-chapter-03-the-lost-daughter/",
+      "description": "Divisions deepen within the team as the clues pile up and point the Rep Detect Unit in a direction no-one really wants to look. Welcome to Blade Runner 2037; a neon noir wonderland that will take your breath away, one way or another. Credits Game Runner Fiona Howat: https://bsky.app/profile/fkth.bsky.social Cast Emily Bates: https://bsky.app/profile/emzywb.bsky.social Shamini Bundell: https://bsky.app/profile/shamini.bsky.social Lowri Ann Davies: https://bsky.app/profile/lowrianndavies.bsky.social Folarin Akinmade: h ttps://bsky.app/profile/akingmade.bsky.social Tilly Steele: https://www.instagram.com/tillstee/ Scenario/System The official BLADE RUNNER RPG by Free League Publishing propels you into the streets of Los Angeles as Blade Runners with unique specialties, personalities – and memories. The game pushes the boundaries of investigative gameplay in tabletop RPGs, giving you a range of tools to solve an array of cases far beyond retiring Replicants. Beyond the core casework, the RPG showcases the key themes of Blade Runner – sci-fi action, corporate intrigue, existential character drama, and moral conflict. It challenges you to question your friends, empathize with your enemies, and explore the poisons and perseverance of hope and humanity during inhumane times. The rules of the game are based on the acclaimed Year Zero Engine, used in award-winning games such as the ALIEN RPG, Tales From the Loop and Forbidden Lands, but further developed and uniquely tailored for BLADE RUNNER. Huge thanks to our geeks and patrons: Andrew Rosenberg | Andy Hartley | Bayneeon | Bookwyrm | Caitlin Kriv | Chaotic Brain Person | Dan Andersen | David Valentine | Debbie - harobed96 | Edain | Ellie Wilson | Gamer Badger | Holly Scott Laukkonen | Kana Wilson | Keegan Amrine | Laura Chiarello | LycanEsth | Martin S | Matt T | Mother of Ferrets | Nathan Decker | Neil | Nicholas Munro Turner | Scarlett Rose | Simon Harper | Snap Grapple Pop | Tina Øyna | Valery North | Year | Patrons can catch our session 0(s) over on https://patreon.com/rpgeeksdnd! The RPGeeks is a nerdy TTRPG show with epic stories and fascinating facts! Find out more via our linktree: https://linktr.ee/rpgeeksdnd",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/rmzajb647gtkz7hm/LIVE_Blade_Runner_2037_Chapter_03_The_Lost_Daughter7y5kt.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "147686513",
+      "itunes_duration": "9229",
+      "speakers": [
+        "Blade Runner"
+      ],
+      "topics": [
+        "blade",
+        "runner",
+        "chapter",
+        "lost",
+        "daughter"
+      ]
+    },
     {
       "key": "c90c1ddd3f6d727f63c748c0c422ab0657a98dd7",
       "title": "Blade Runner 2037 | Chapter 02: Burning Bright",
@@ -2039,25 +2061,6 @@
         "dragons",
         "science"
       ]
-    },
-    {
-      "key": "7e3c6f6acd9b2cab1c6daed74bbc603a1417cbfb",
-      "title": "Episode 22: Into the Internet | Dungeons & Dragons & Science",
-      "published_at": "2022-04-06T09:28:34+00:00",
-      "link": "https://rpgeeksdnd.podbean.com/e/episode-22-into-the-internet-dungeons-and-dragons-and-science/",
-      "description": "Infinity ventures into a dangerous digital realm to try and understand what happened to the satellites, plus the real science behind DnD's 'radiant damage'. Dungeons & Dragons & Science is a DnD actual-play show. Watch as four professional science communicators mix real science with role-play sci-fi adventures! The RPGeeks go live every Wednesday at 7pm UK time. Tune in for adventuring and our DnDebrief show where we explore some of the real science that inspired the story. Wednesday 7pm UK: http://twitch.tv/drsimonclark You can watch previous episodes on our YouTube channel or listen to the show in podcast format. Don't forget to also follow us on Twitter, TikTok and Instagram for bonus bite-sized chunks of science every week! @RPGeeksDnD",
-      "image_url": null,
-      "enclosure_url": "https://mcdn.podbean.com/mf/web/k4cxkf/Episode_22_final_cut6qxes.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "145061647",
-      "itunes_duration": "9064",
-      "speakers": [],
-      "topics": [
-        "internet",
-        "dungeons",
-        "dragons",
-        "science"
-      ]
     }
   ]
 }
@@ -2066,6 +2069,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — Blade Runner 2037 | Chapter 03: The Lost Daughter — speakers: Blade Runner
 - 2026-05-19 — Blade Runner 2037 | Chapter 02: Burning Bright — speakers: Blade Runner
 - 2026-05-18 — Blade Runner 2037 | Chapter 01: Electric Dreams — speakers: Blade Runner
 - 2026-03-04 — Teeth: Blood Cotillion Part 2
@@ -2165,4 +2169,3 @@
 - 2022-06-12 — Episode 25: The Scav Market | Dungeons & Dragons & Science
 - 2022-05-21 — Episode 24: The Horn | Dungeons & Dragons & Science
 - 2022-05-18 — Episode 23: Drinksy tellsy dosy bad thing | Dungeons & Dragons & Science — speakers: tellsy dosy
-- 2022-04-06 — Episode 22: Into the Internet | Dungeons & Dragons & Science
