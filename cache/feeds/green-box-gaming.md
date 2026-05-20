@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-05-19T20:05:51+00:00`
-- checked_at: `2026-05-19T20:05:51+00:00`
-- etag: `"371672f7b9e879f1ac1689b8f70a426e"`
-- last_modified: `Tue, 19 May 2026 19:10:47 GMT`
+- fetched_at: `2026-05-20T20:31:33+00:00`
+- checked_at: `2026-05-20T20:31:33+00:00`
+- etag: `"ee73aed5aff060e4c10ddef096087bbf"`
+- last_modified: `Wed, 20 May 2026 19:39:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-05-19T20:05:51+00:00",
+  "fetched_at": "2026-05-20T20:31:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -33,9 +33,9 @@
       "link": "https://rss.com/podcasts/green-box-gaming/2794905",
       "description": "Agents Ori and Iris are on the trail, and surely this clean up will be straightforward... right? ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
       "image_url": null,
-      "enclosure_url": "https://content.rss.com/episodes/164361/2794905/green-box-gaming/2026_05_05_06_12_35_fc98368d-c484-4eee-b3f9-e7a4f4ba38d8.mp3",
+      "enclosure_url": "https://content.rss.com/episodes/164361/2794905/green-box-gaming/2026_05_20_19_38_53_42c3fc5b-1710-4536-9fe5-0d80b0092280.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "91974007",
+      "enclosure_length": "91973589",
       "itunes_duration": "5748",
       "speakers": [],
       "topics": [
@@ -53,7 +53,7 @@
       "link": "https://rss.com/podcasts/green-box-gaming/2794890",
       "description": "Join us as Gian and Brad experience the DG operation that is the start of many an agent's spiral of insanity and death, Last Things Last! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
       "image_url": null,
-      "enclosure_url": "https://content.rss.com/episodes/164361/2794890/green-box-gaming/2026_05_05_06_02_54_feae78b8-6b9f-4e22-a781-c92b54a79be7.mp3",
+      "enclosure_url": "https://content.rss.com/episodes/164361/2794890/green-box-gaming/2026_05_20_19_32_41_efd090a3-50e8-4ef1-8dd6-2f7ec3ff47c6.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84327026",
       "itunes_duration": "5270",
