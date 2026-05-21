@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-05-12T22:37:32+00:00`
-- checked_at: `2026-05-12T22:37:32+00:00`
-- etag: `"c5155e3ad6813dd1d5517f78fb0e08e9"`
-- last_modified: `Tue, 12 May 2026 20:36:44 GMT`
+- fetched_at: `2026-05-21T04:47:50+00:00`
+- checked_at: `2026-05-21T04:47:50+00:00`
+- etag: `"ff06ef8b8472a31f906869205f9e9b66"`
+- last_modified: `Thu, 21 May 2026 00:03:37 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-05-12T22:37:32+00:00",
+  "fetched_at": "2026-05-21T04:47:50+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "1259a33efe1a8588fd66639fc1fdb0a351f8dda0",
+      "title": "The Fog Campaign - Episode 71",
+      "published_at": "2026-05-21T00:01:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-71",
+      "description": "The lich queen is starting to get her bony pelvis handed to her, and at long last, \"the two fingers\" are finally in use at good old Episode 71. For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more be sure to head to nerdpokerpod.com",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-071-20260518-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "146622848",
+      "itunes_duration": "01:01:06",
+      "speakers": [
+        "Brian Posehn"
+      ],
+      "topics": [
+        "campaign"
+      ]
+    },
     {
       "key": "71eac9074c58636fc373a388507fae1c5ccb621b",
       "title": "The Fog Campaign - Episode 70",
@@ -8886,6 +8904,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — The Fog Campaign - Episode 71 — speakers: Brian Posehn
 - 2026-05-12 — The Fog Campaign - Episode 70 — speakers: Ding Dong Danglers, Brian Posehn
 - 2026-05-06 — The Fog Campaign - Episode 69 — speakers: Brian Posehn
 - 2026-04-29 — The Fog Campaign - Episode 68 — speakers: Brian Posehn
