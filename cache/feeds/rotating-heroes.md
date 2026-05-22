@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-05-15T09:25:18+00:00`
-- checked_at: `2026-05-15T09:25:18+00:00`
-- etag: `W/"0b0c877f5f1a93f307ef4cabee5454e6"`
-- last_modified: `Fri, 15 May 2026 09:00:00 GMT`
+- fetched_at: `2026-05-22T09:51:09+00:00`
+- checked_at: `2026-05-22T09:51:09+00:00`
+- etag: `W/"e49b6021b73452acfbd468dca9f3fa30"`
+- last_modified: `Fri, 22 May 2026 09:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,31 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-05-15T09:25:18+00:00",
+  "fetched_at": "2026-05-22T09:51:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "fee7e05a091c34fc8fcccfdb9aa560449ac002ab",
+      "title": "Axis Arc 2 Ep 5: The First Captain’s Booty PART 2",
+      "published_at": "2026-05-22T09:00:00+00:00",
+      "link": "https://audioboom.com/posts/8900695",
+      "description": "Lost in the wilderness our crew are ungraciously handed a treasure map with a riddle attached as they attempt to retrieve Brian’s torso. All that stands in their way is a dense jungle and the most peculiar creatures they’ve ever seen. --- Welcome to the Evopocalypse... Rotatoes/Travellers, have you been looking for a brand new TTRPG that's built for roleplay, epic moments and that you can learn AND start playing in less that 30 minutes? Then enter: Force of Extinction . Play a survivor in a world out to kill you - from mutated fauna and microscopic parasites, to behemoths that tower above the very landscape itself, danger lurks around every corner. How far do you think you'll get with only 3 Hit Points? But don't worry, your fellow players can bring you back! Just remember to grab that finger as you're running screaming out the door... Dreamt up by the sickos that are Jasper William Cartwright, Edward Spence and Chad Pytel, you can SIGN UP NOW to be first to join the launch on 1st June, reserve your spot now to get a custom D20! Support the brand new Force of Extinction Backerkit here and fight the extinction! You will lose, but it'll be FUN! --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! Rotating Heroes is a 12 Sided Studios Production",
+      "image_url": "https://audioboom.com/i/43576245.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8900695.mp3?modified=1778592581&sid=5167570&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2787",
+      "speakers": [],
+      "topics": [
+        "axis",
+        "captain",
+        "booty"
+      ]
+    },
     {
       "key": "7643b22450000c86892f51c58a76143fa68d8e8f",
       "title": "Axis Arc 2 Ep 5: The First Captain’s Booty PART 1",
@@ -2634,6 +2652,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-22 — Axis Arc 2 Ep 5: The First Captain’s Booty PART 2
 - 2026-05-15 — Axis Arc 2 Ep 5: The First Captain’s Booty PART 1
 - 2026-05-08 — Axis Arc 2 Ep 4: The Search for 8R-1AN PART 2
 - 2026-05-01 — Axis Arc 2 Ep 4: The Search for 8R-1AN PART 1
