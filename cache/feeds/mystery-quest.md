@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-05-22T15:26:08+00:00`
-- checked_at: `2026-05-22T15:26:08+00:00`
-- last_modified: `Fri, 22 May 2026 13:05:15 GMT`
+- fetched_at: `2026-05-22T20:13:42+00:00`
+- checked_at: `2026-05-22T20:13:42+00:00`
+- last_modified: `Fri, 22 May 2026 16:09:51 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-22T15:26:08+00:00",
+  "fetched_at": "2026-05-22T20:13:42+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,27 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "3a50d94b237e70fbe86cc2218421233c2ad6f432",
+      "title": "Star Borg: Tango Squad #2",
+      "published_at": "2026-05-22T16:00:00+00:00",
+      "link": null,
+      "description": "Infiltrating the Crimson Crystal Casino has been plain sailing so far. With Tango squad suited up in disguises they ride the freight elevator through the spine of the complex in an attempt to access the high security vault at the base of the tower, but first they'll need to get clearance... Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Check out STAR BORG by JP Coovert here: https://jpcoovert.com/products/star-borg and watch his great TTRPG content over on his YouTube channel: @JPCoovert Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: https://www.youtube.com/angorytom Harry: https://www.twitch.tv/hrry Ben: https://www.youtube.com/@GamesNight Duncan: https://www.youtube.com/@duncan Lewis: @yogscast Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey The amazing Star Wars music is created by Luis Humanoide: https://luishumanoide.bandcamp.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR6615806373.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3935",
+      "speakers": [
+        "Tom Bates"
+      ],
+      "topics": [
+        "star",
+        "borg",
+        "tango",
+        "squad"
+      ]
+    },
     {
       "key": "1aca4780f5c03348bed7e78ac9f5cd76f985a4d1",
       "title": "Star Borg: Tango Squad #1",
@@ -2992,6 +3013,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-22 — Star Borg: Tango Squad #2 — speakers: Tom Bates
 - 2026-05-15 — Star Borg: Tango Squad #1 — speakers: Star Borg, Tango Squad, Tom Bates
 - 2026-05-08 — Call of Cthulhu: DeadFellas #3 — speakers: Tom Bates
 - 2026-05-01 — Call of Cthulhu: DeadFellas #2 — speakers: Tom Bates

@@ -2,9 +2,9 @@
 
 - slug: `realms-of-peril-glory-an-actual-play-anthology`
 - source: `https://feeds.megaphone.fm/FAFO5417156687`
-- fetched_at: `2026-05-22T15:26:08+00:00`
-- checked_at: `2026-05-22T15:26:08+00:00`
-- last_modified: `Fri, 22 May 2026 15:19:56 GMT`
+- fetched_at: `2026-05-22T20:13:42+00:00`
+- checked_at: `2026-05-22T20:13:42+00:00`
+- last_modified: `Fri, 22 May 2026 15:51:46 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.realmspod.com",
   "description": "Legendary Stories, Awe-inspiring Sound & Endless Adventure await in the Realms of Peril & Glory! Get ready for the actual play adventure of a lifetime! Explore the mechanically magical vistas of Vael, the paranormal mysteries of Liminal London, and the cyberpunk chaos of CY_BORG. With breathtaking sound design and enchanting original music, you’ll be immersed into unforgettable campaigns and heart-pounding one-shots. Ignite your imagination and discover the Realms of Peril & Glory today.",
   "image_url": "https://megaphone.imgix.net/podcasts/cf44508e-0b0f-11ec-8617-0328e1238bf9/image/eaa7bfb57a3a4843e7e98ba3af5b0c46.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-22T15:26:08+00:00",
+  "fetched_at": "2026-05-22T20:13:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
