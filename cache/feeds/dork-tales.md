@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-05-20T15:59:15+00:00`
-- checked_at: `2026-05-20T15:59:15+00:00`
-- etag: `"2559ad06eef42741d6de9bfce5889213"`
+- fetched_at: `2026-05-22T15:26:08+00:00`
+- checked_at: `2026-05-22T15:26:08+00:00`
+- etag: `"99b59a1ddd2335e8c65ae0adb95de8f2"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/5111002/Dork_Tales_d20_20238mnn1.png",
-  "fetched_at": "2026-05-20T15:59:15+00:00",
+  "fetched_at": "2026-05-22T15:26:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "9a82e09f52bd8fe7a09a79d8f909d5b7a66e6ec2",
+      "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 6: In The Shadow of Pharaohs",
+      "published_at": "2026-05-22T13:56:00+00:00",
+      "link": "https://dorktales.podbean.com/e/mage-the-ascension-the-victorian-age-book-3-chapter-6-in-the-shadow-of-pharaohs/",
+      "description": "Welcome to book three of Mage the Victorian Age! In this episode, a new member of the team is born... er, made. Thank you to Bookwyrm Games for sponsoring Dork Tales this month! Use code DORKTALES to save 15% at https://www.bookwyrmgames.com! Orders over $100 also enjoy free shipping! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage *** Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Evelyn Taylor *** Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktalescha... Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! *** Music credits: Tracks from Joel Steudler Heartwarming Magic Adventure Licensed under a Humble Bundle Collection Music From Dark Fantasy Studio Hidden in the Dark These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vision of the Ancients Veil Nightfall Market in the Desert Outdoor Marketplace Bazaar These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! https://www.tabletopaudio.com",
+      "image_url": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog5111002/Mage_Book_3Podcast_Logoabm7t.png",
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/6m7hsn2edfyvabkg/MVA3x6complete.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "146338173",
+      "itunes_duration": "9143",
+      "speakers": [
+        "Victorian Age",
+        "Pharaohs Welcome"
+      ],
+      "topics": [
+        "ascension",
+        "book",
+        "chapter",
+        "shadow",
+        "pharaohs"
+      ]
+    },
     {
       "key": "b02b1007493e5a590479ac6ac7c57c2949bcf198",
       "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 5: A Most Awkward River Cruise",
@@ -7746,6 +7769,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-22 — Mage the Ascension the Victorian Age | Book 3, Chapter 6: In The Shadow of Pharaohs — speakers: Victorian Age, Pharaohs Welcome
 - 2026-05-20 — Mage the Ascension the Victorian Age | Book 3, Chapter 5: A Most Awkward River Cruise — speakers: Samuel Blackwood
 - 2026-05-08 — Mage the Ascension the Victorian Age | Book 3, Chapter 4: A Swift Arrival
 - 2026-05-04 — How to Run Vecna: Eve of Ruin — speakers: Run Vecna, Ruin Vecna
