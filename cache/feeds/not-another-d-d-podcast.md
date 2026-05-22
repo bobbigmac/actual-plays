@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-05-15T04:30:41+00:00`
-- checked_at: `2026-05-15T04:30:41+00:00`
-- last_modified: `Fri, 15 May 2026 00:30:00 GMT`
+- fetched_at: `2026-05-22T04:38:39+00:00`
+- checked_at: `2026-05-22T04:38:39+00:00`
+- last_modified: `Fri, 22 May 2026 00:22:03 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-05-15T04:30:41+00:00",
+  "fetched_at": "2026-05-22T04:38:39+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,31 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "92b058fa6add6157ac50f79902724ac145582815",
+      "title": "D&D Court: Dramatic Dice Trays, Enrazzment, and The Family Fun Mix",
+      "published_at": "2026-05-21T04:00:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/0cc2cdde-29d1-44b5-be67-9566eb4752ec",
+      "description": "Dungeon Court is back in session! Join Justices Murphy, Tanner and Axford, along with Bailiff Jake, as they pass judgement on your trials at the table! CREDITS: Sound Mixing and Editing by Trevor Lyon Dungeon Court Theme Song by Sam Weiller See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/64/3c/b2/05/643cb205-81a5-4f77-adeb-3ed3e5f8f760/83064690adbfa6f43b00a4470131148c71850873a149b926ba75a7a94fdc5e61d5ae59478eb2925f60cdfc9f57153c07984593ae09b8b9aaccb785d59245f1d5.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/0cc2cdde-29d1-44b5-be67-9566eb4752ec.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64111177",
+      "itunes_duration": "01:06:46",
+      "speakers": [
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "court",
+        "dice",
+        "trays",
+        "enrazzment",
+        "family"
+      ]
+    },
     {
       "key": "21995e0596dd3459bedec1b0976772afcfd36188",
       "title": "Gangs of Neo Galaderon - Ep. 6: Hothead Pursuit",
@@ -11000,6 +11025,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — D&D Court: Dramatic Dice Trays, Enrazzment, and The Family Fun Mix — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-05-15 — Gangs of Neo Galaderon - Ep. 6: Hothead Pursuit — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-05-08 — Gangs of Neo Galaderon - Ep. 5: Hammer N' Circuits — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-05-01 — D&D Court: Questionable Rests, Dubious Daggers and The Rise of Clunky — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
