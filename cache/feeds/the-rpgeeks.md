@@ -2,9 +2,9 @@
 
 - slug: `the-rpgeeks`
 - source: `https://feed.podbean.com/rpgeeksdnd/feed.xml`
-- fetched_at: `2026-05-23T14:04:45+00:00`
-- checked_at: `2026-05-23T14:04:45+00:00`
-- etag: `"e0966030273332d0be7efb52ff9bd8c8"`
+- fetched_at: `2026-05-24T14:03:22+00:00`
+- checked_at: `2026-05-24T14:03:22+00:00`
+- etag: `"78b0279886c96b3b795e02a34f5a1796"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://rpgeeksdnd.podbean.com",
   "description": "Nerdy actual play with epic stories and fascinating facts. Tales of danger, drama, nonsense and joy - plus lore-drops on our favourite topics! UK-based TTRPG show, live on Wednesdays from 7pm.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/11909286/Circular_Profile_-_RPGeeks_Text_and_Planet_with_Extra_Space_atri7q.jpg",
-  "fetched_at": "2026-05-23T14:04:45+00:00",
+  "fetched_at": "2026-05-24T14:03:22+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "aad22f784e9391274b26d79337f05ef9454890e8",
+      "title": "Blade Runner 2037 | Chapter 07: Tears in the Rain",
+      "published_at": "2026-05-24T12:00:00+00:00",
+      "link": "https://rpgeeksdnd.podbean.com/e/blade-runner-2037-chapter-07-tears-in-the-rain/",
+      "description": "The prophets are on a killing spree, Wallace Corp is coming for them and there's no one left to trust. Is this the end of the road? Welcome to the finale of Blade Runner 2037; a neon noir wonderland that will take your breath away, one way or another. Credits Game Runner Fiona Howat: https://bsky.app/profile/fkth.bsky.social Cast Emily Bates: https://bsky.app/profile/emzywb.bsky.social Shamini Bundell: https://bsky.app/profile/shamini.bsky.social Lowri Ann Davies: https://bsky.app/profile/lowrianndavies.bsky.social Folarin Akinmade: h ttps://bsky.app/profile/akingmade.bsky.social Tilly Steele: https://www.instagram.com/tillstee/ Scenario/System The official BLADE RUNNER RPG by Free League Publishing propels you into the streets of Los Angeles as Blade Runners with unique specialties, personalities – and memories. The game pushes the boundaries of investigative gameplay in tabletop RPGs, giving you a range of tools to solve an array of cases far beyond retiring Replicants. Beyond the core casework, the RPG showcases the key themes of Blade Runner – sci-fi action, corporate intrigue, existential character drama, and moral conflict. It challenges you to question your friends, empathize with your enemies, and explore the poisons and perseverance of hope and humanity during inhumane times. The rules of the game are based on the acclaimed Year Zero Engine, used in award-winning games such as the ALIEN RPG, Tales From the Loop and Forbidden Lands, but further developed and uniquely tailored for BLADE RUNNER. Huge thanks to our geeks and patrons: Andrew Rosenberg | Andy Hartley | Bayneeon | Bookwyrm | Caitlin Kriv | Chaotic Brain Person | Dan Andersen | David Valentine | Debbie - harobed96 | Edain | Ellie Wilson | Gamer Badger | Holly Scott Laukkonen | Kana Wilson | Keegan Amrine | Laura Chiarello | LycanEsth | Martin S | Matt T | Mother of Ferrets | Nathan Decker | Neil | Nicholas Munro Turner | Scarlett Rose | Simon Harper | Snap Grapple Pop | Tina Øyna | Valery North | Year | Patrons can catch our session 0(s) over on https://patreon.com/rpgeeksdnd! The RPGeeks is a nerdy TTRPG show with epic stories and fascinating facts! Find out more via our linktree: https://linktr.ee/rpgeeksdnd",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/cja2928w4kjdzsxz/LIVE_Blade_Runner_2037_Chapter_07_Tears_in_the_Rainal4gq.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "186364456",
+      "itunes_duration": "11647",
+      "speakers": [
+        "Blade Runner"
+      ],
+      "topics": [
+        "blade",
+        "runner",
+        "chapter",
+        "tear",
+        "rain"
+      ]
+    },
     {
       "key": "3a3992e473270e2dd1f8befbef3f01eada2b0fa9",
       "title": "Blade Runner 2037 | Chapter 06: Questionable Things",
@@ -2044,25 +2066,6 @@
         "dragons",
         "science"
       ]
-    },
-    {
-      "key": "4de399468e3b6998a4160f4c7cf257ce0751b105",
-      "title": "Episode 26: The Cage | Dungeons & Dragons & Science",
-      "published_at": "2022-06-27T09:52:00+00:00",
-      "link": "https://rpgeeksdnd.podbean.com/e/episode-26-the-cage-dungeons-dragons-science/",
-      "description": "The party check out of their room and head to the \"the job\". In the DnDebrief, Simon gets very passionate about the science of dragons! Dungeons & Dragons & Science is a DnD actual-play show. Watch as four professional science communicators mix real science with role-play sci-fi adventures! The RPGeeks go live every Wednesday at 7pm UK time. Tune in for adventuring and our DnDebrief show where we explore some of the real science that inspired the story. Wednesday 7pm UK: http://twitch.tv/drsimonclark You can watch previous episodes on our YouTube channel or listen to the show in podcast format. Don't forget to also follow us on Twitter, TikTok and Instagram for bonus bite-sized chunks of science every week! @RPGeeksDnD",
-      "image_url": null,
-      "enclosure_url": "https://mcdn.podbean.com/mf/web/sjtpdb/Episode_26_final_cutapjwh.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "189189961",
-      "itunes_duration": "7881",
-      "speakers": [],
-      "topics": [
-        "cage",
-        "dungeons",
-        "dragons",
-        "science"
-      ]
     }
   ]
 }
@@ -2071,6 +2074,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-24 — Blade Runner 2037 | Chapter 07: Tears in the Rain — speakers: Blade Runner
 - 2026-05-23 — Blade Runner 2037 | Chapter 06: Questionable Things — speakers: Blade Runner
 - 2026-05-22 — Blade Runner 2037 | Chapter 05: The Real McCoy — speakers: Blade Runner
 - 2026-05-21 — Blade Runner 2037 | Chapter 04: Fiery Angels — speakers: Blade Runner
@@ -2170,4 +2174,3 @@
 - 2022-09-19 — Episode 29: Return to Gunka | Dungeons & Dragons & Science — speakers: Science After
 - 2022-08-05 — Episode 28: The Plaza | Dungeons & Dragons & Science
 - 2022-08-05 — Episode 27: The Festival | Dungeons & Dragons & Science
-- 2022-06-27 — Episode 26: The Cage | Dungeons & Dragons & Science
