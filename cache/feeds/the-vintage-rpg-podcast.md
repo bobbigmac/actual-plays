@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-05-24T04:41:54+00:00`
-- checked_at: `2026-05-24T04:41:54+00:00`
-- etag: `"e1f0ee7228a94b5e5360fff3328a04e2"`
-- last_modified: `Sun, 24 May 2026 01:01:40 GMT`
+- fetched_at: `2026-05-25T04:55:05+00:00`
+- checked_at: `2026-05-25T04:55:05+00:00`
+- etag: `"0e1bff6265b37736ac1a5f9c64b783fb"`
+- last_modified: `Mon, 25 May 2026 04:11:27 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-05-24T04:41:54+00:00",
+  "fetched_at": "2026-05-25T04:55:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "e009b94f21a6edeb1195746671e271159319f44a",
+      "title": "The Black Spire Pact",
+      "published_at": "2026-05-25T04:00:00+00:00",
+      "link": "https://www.vintagerpg.com/2026/05/the-black-spire-pact/",
+      "description": "Two legendary artists, one head-to-head infernal adventure. This week on the Vintage RPG Podcast, two of the most metal artists around, Arik Roper and Skinner, chat about The Black Spire Pact . That's a player-versus-player gamebook by Max Moon and Janaka Stucky, with Arik illustrating the wizard book and Skinner handling the demon lord. We also talk about art, fantasy, games, life, hallucinogens and more in a lengthy, rambling chat. Buckle up! * * * Back The Black Spire Pact on Backerkit now! Worth mentioning: original art for this project is for sale as part of the crowdfunding campaign. The works are priced to move, and all the dough goes to Arik and Skinner! Instagram? Old news. Join the Vintage RPG Newsletter ! That's where all the cool kids are now! Stu's book, Monsters, Aliens, and Holes in the Ground is for sale now! Buy it ! Patreon? Discord? Cool RPG things to buy? All the Vintage RPG links you need are right here in one place ! Like, Rate, Subscribe and Review the Vintage RPG Podcast! Edited by the one and only R. Alex Murray . Send questions, comments or corrections to info@vintagerpg.com . Available on iTunes , Google Podcasts , iHeartRadio , Spotify , YouTube and your favorite podcast clients. The Vintage RPG illustration is by Shafer Brown . Follow him on Twitter . Tune in next week for the next episode. Until then, may the dice always roll in your favor!",
+      "image_url": "https://static.libsyn.com/p/assets/8/4/4/6/8446264570cd1069d959afa2a1bf1c87/Vintage_Podcast_Icon-20260524-nwuu3vs32j.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/thevintagerpgpodcast/VRPG_-_Black_Spire_Pact_.mp3?dest-id=747998",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124108180",
+      "itunes_duration": "01:02:54",
+      "speakers": [],
+      "topics": [
+        "black",
+        "spire",
+        "pact"
+      ]
+    },
     {
       "key": "3ed946026d38ba097567e6e29c2dfb2a2532c260",
       "title": "Abattoir Hymnal",
@@ -6619,6 +6637,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-25 — The Black Spire Pact
 - 2026-05-18 — Abattoir Hymnal — speakers: Tiger Wizard
 - 2026-05-11 — Monster Dinosaur — speakers: Monster Dinosaur Oh
 - 2026-04-27 — Sea and Land — speakers: Monster Manual
