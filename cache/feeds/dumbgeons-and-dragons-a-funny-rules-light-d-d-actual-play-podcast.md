@@ -2,9 +2,9 @@
 
 - slug: `dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast`
 - source: `https://rss.art19.com/dumbgeons-and-dragons`
-- fetched_at: `2026-05-20T09:55:08+00:00`
-- checked_at: `2026-05-20T09:55:08+00:00`
-- last_modified: `Wed, 20 May 2026 07:00:02 GMT`
+- fetched_at: `2026-05-25T20:01:05+00:00`
+- checked_at: `2026-05-25T20:01:05+00:00`
+- last_modified: `Mon, 25 May 2026 19:26:43 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.dumbdragons.com/",
   "description": "Dumbgeons & Dragons is a funny, rules-light Dungeons & Dragons actual play podcast where friends tell epic stories full of heart, chaos, and ridiculous choices. Whether you’re new to D&D, just learning the ropes, or a longtime fan who loves a lighthearted adventure, you’ll feel right at home at our table. Campaign 2 (Seasons 3 & 4) begins in the gritty city of Vintersmouth—a place of secrets, schemes, and spontaneous street magic. This season is the perfect place to jump in, with a fresh cast of characters and a mystery that pulls them deep into a city on the edge. Start with Episode 301: Let’s Begin Again! Featuring fast-paced storytelling, character-driven arcs, improv comedy, and zero gatekeeping, Dumbgeons & Dragons is your cozy-but-chaotic fantasy fix. New episodes every Wednesday. Support the show and get bonus episodes at patreon.com/dumbdragoncast More info, recaps, and character bios at dumbdragons.com",
   "image_url": "https://content.production.cdn.art19.com/images/f3/8f/9a/30/f38f9a30-68d2-46ca-87f1-4261dbe574e5/dc447b9659ef194b4fefd29c9bde8d0344f5519fb86dfca67d4122b062044b0c6c10ebfc0dca39f8ec2ecc2b5d2894d6ae621c12620cea9f553a42508c664e65.jpeg",
-  "fetched_at": "2026-05-20T09:55:08+00:00",
+  "fetched_at": "2026-05-25T20:01:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -1732,7 +1732,7 @@
     },
     {
       "key": "b0bbf2b6e8b5da851a40c793e73383fb73602b3c",
-      "title": "Goblin Benihana (Campaign 2 - S3E19)",
+      "title": "Goblin Benihana (Campaign 2 - S3E17)",
       "published_at": "2024-05-02T22:46:51+00:00",
       "link": "https://art19.com/shows/dumbgeons-and-dragons/episodes/cd42c291-6ef6-4bd5-a70b-be2ce8f150cb",
       "description": "Putting the plan into action everyone squeezes their way through the hole to save Alydin and Tally as Bizard plays a a key distraction role. - - - - - - - - - - CAST & CREW Players: Amy More, Carla Maxted , Tom Laird and Kyle Claset Guest: Joe Fisher ( Midnight Burger ) DM: Russ More Dialogue Editing: Carla Maxted Sound Design: Russ More Music & Sound Effects: Epidemic Sound , slip.stream , BOOM Library , Sound Ideas Cover Art: Matt Garbutt ( @artmonkeymg on Instagram ) - - - - - - - - - - Go Listen to Midnight Burger! Click this link here ----> https://www.weopenatsix.com/ - - - - - - - - - - Enjoying Dumbgeons & Dragons? Consider becoming a Patron of Dumb Dragons Productions for as little as $5 a month with a 7-day free trial and now MERCH after 3-months of patronage! ( https://www.patreon.com/dumbdragoncast ) Buy our merch! ( https://www.teepublic.com/stores/dumbgeons-dragons-podcast-store ) Follow our socials and more! - https://linktr.ee/dumbdragons - - - - - - - - - - Advertise on Dumbgeons & Dragons: adlarge.com/adlargepodcastnetwork Find and support our sponsors at: fableandfolly.com/partners See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
@@ -6959,7 +6959,7 @@
 - 2024-05-22 — A Cozy Morning in Vintersmouth (Campaign 2 - S3E20)
 - 2024-05-15 — A Pirate Mid‑"Day‑Ger" (Campaign 2 - S3E19)
 - 2024-05-08 — When You’re Here, You’re Old (Campaign 2 - S3E18)
-- 2024-05-02 — Goblin Benihana (Campaign 2 - S3E19) — speakers: Goblin Benihana
+- 2024-05-02 — Goblin Benihana (Campaign 2 - S3E17) — speakers: Goblin Benihana
 - 2024-04-24 — The Mating Rituals of Goblins (feat. Joe Fisher from Midnight Burger) (Campaign 2 - S3E16) — speakers: Joe Fisher
 - 2024-04-17 — A Pop‑Up Memorial (feat. Joe Fisher from Midnight Burger) (Campaign 2 - S3E15) — speakers: Joe Fisher
 - 2024-04-10 — Practic‑ling in Slengston (Campaign 2 - S3E14)

@@ -2,9 +2,9 @@
 
 - slug: `the-apocalypse-players`
 - source: `https://www.apocalypseplayers.com/feed.xml`
-- fetched_at: `2026-05-18T20:04:25+00:00`
-- checked_at: `2026-05-18T20:04:25+00:00`
-- etag: `"443bb10bb36cb26b6cea266c29deaf8d"`
+- fetched_at: `2026-05-25T20:01:05+00:00`
+- checked_at: `2026-05-25T20:01:05+00:00`
+- etag: `"78e855f283ff7c16721a94e7be5d45ec"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.apocalypseplayers.com",
   "description": "A Call of Cthulhu actual play podcast. Dice-driven cosmic horrors supplied by Dominic Allen, Joseph Chance, Danann McAleer and guests. --- The Apocalypse Players is an actual play (or live play) TTRPG podcast focused on horror tabletop roleplaying games. Think Dimension 20 or Critical Role, but fewer dragons, more eldritch horrors, and more British actors taking their roleplaying very seriously (most of the time). We primarily play the Chaosium RPG Call of Cthulhu, but have also been known to dabble with other systems, most of which can be found on our Patreon: www.patreon.com/apocalypseplayers We now have a free Discord server where you can come and worship at the altar of the Apocalypse, play Call of Cthulhu online, and meet like-minded cultists who will be only to eager to welcome you into the fold. New sacrifices oops we mean players are always welcome. Join here: discord.com/invite/kRQ62t6SjH",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/12449352/Logo_3200_yy4cvy.jpg",
-  "fetched_at": "2026-05-18T20:04:25+00:00",
+  "fetched_at": "2026-05-25T20:01:05+00:00",
   "owners": [
     "Dominic Allen",
     "Joseph Chance",
@@ -29,6 +29,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "2b3c3d3c301960eb55a6d289e3ec6a9b64df4520",
+      "title": "The Company of the Light (Vaesen) 03: ‘Twas Brillig…’",
+      "published_at": "2026-05-25T20:00:00+00:00",
+      "link": "https://www.apocalypseplayers.com/e/the-company-of-the-light-vaesen-03-twas-brillig%e2%80%a6/",
+      "description": "…‘and a Wet and Gribbly Bibbling Was a’Babbling.’ In which our intrepid heroes go shopping (and genuinely pay money for old rope), brave the horrors of the vicarage, and try to remain stoic in the face of the most frightful of horrors: a housekeeper, an outhouse, a breeze, and soft furnishings. The Company of the Light uses the Vaesen roleplaying system, by Free League Publishing and based an original concept by Johan Egerkrans. The mystery at the heart of the scenario is taken from Mythic Britain and Ireland by Graeme Davis. The name of that scenario (which may contain a mild spoiler) can be found below the music section of these notes. You can hear a short prologue to The Company of the Light on our Patreon: https://www.patreon.com/posts/blomqvist-01-ho-153999494 Cast: Lieutenant William Fellwood — Joseph Chance Bab Chase — Dominic Allen Siobhan Strong — Danann McAleer Bridge Ebden — Lucy Farrett Narrator — Dan Wheeler CW: This podcast contains mature themes, strong language and cosmic horror. (MILD SPOILERS FOLLOW): The mystery at the heart of this story is premised upon the disappearance and death of a young woman. However, with the exception of one moment (which I will flag when it arrives), this is not dwelt on in any great detail, and please note for avoidance of doubt this is NOT sexual violence or self-harm. Human discretion is advised. The Apocalypse Players is an actual play (or live play) TTRPG podcast focused on horror tabletop roleplaying games. Think Dimension 20 or Critical Role, but fewer dragons, more eldritch horrors, and more British actors taking their roleplaying very seriously (most of the time). We primarily play the Chaosium RPG Call of Cthulhu, but have also been known to dabble with other systems, most of which can be found on our Patreon: www.patreon.com/apocalypseplayers We now have a free Discord server where you can come and worship at the altar of the Apocalypse, play Call of Cthulhu online, and meet like-minded cultists who will be only too eager to welcome you into the fold. New sacrifices - oops - we mean players are always welcome. Join here: discord.com/invite/kRQ62t6SjH For more information and to get in touch, visit www.apocalypseplayers.com Music and SFX From Epidemic Sound: Daniella Ljungsberg - Against the Tide; Long Term and Ashes; Still in Blues; Flute; Soar Christoffer Moe Ditlevsen - Missing Memories; Partners in Crime; Desert Hideout David Edward – Angelica; Space Elf; Threads Horna Spelman – Vasterut; Svantes Polska; Koslapp British Grenadiers - John Abbot Bytt-Lasses Brudmarsch - Traditional End of a Dream - Hanna Lindgren Farewell to Ennerdale Water - Moorland Songs Frozen Fields - Medité Great Bend Reel - Roy Edwin Williams In the Storm - Amber Glow Lily of the Woods - Sandra Marteleur Meme - Nevin Pillow Magic - Valante Polska Fran Knaggalve - Traditional Red as a Rose - Rune Dale Reflection No. 2 for Solo Violin - Hanna Ekstrom Sayings and Blessings - David Celeste From Artlist: Amulets - I Blackbard – Cyancerto; Skogsdrommar Brianna Tam - Circularity G-Yerro - Dark Hollows James Forest - El Faro; Morning Walks; One Evening in May pt 1; Queen of Art Michael Vignola - From the Sea; Under Water Rotem Moav - Blood on the Snow; Homebound Journey Manos Mars - Swiss Michael John Wookey - Wanderlust Motifs - Rural Folklore Accordion Musical Mandalas - Memories of a Fairground Skies Speak - I Think He Saw Us Yehezkel Raz - Enceladus Public Domain / Creative Commons / Wikicommons: \"Teller of the Tales\" Kevin MacLeod ( incompetech.com ) https://incompetech.com/music/royalty-free/music.html Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/ The Wind that Shakes the Barley – YouTube user ‘peakfiddler’ Collegium Vocale: O przedobry Boże nasz Tom Dillon - On Raglan Road - The Dawning of The Day - Sonny Don't Go Away (The Volunteer Pub, Sidmouth) The Tudor Consort: Thomas Tallis - Videte Miraculum The Tudor Consort: Thomas Tallis - Loquebantur variis linguis The Tudor Consort: Thomas Tallis - Lamentations I Tallis - If ye love me Tallis - Spem in alium John Dowland - Shall I sue U.S. Army Band: Ralph Vaughan Williams, Fantasia on a Theme by Thomas Tallis Ralph Vaughan Williams - English Folk Song Suite Makemi: Scarborough Fair Endersslay: Star of the county down Danny Boy tin whistle by JGrandgagnage The Girl I Left Behind Me From Pond 5 ‘Krummi Svaf I Klettagja’ – M Ragnarsdottir ‘Undir Blaum Solarsali’ – M Ragnarsdottir ‘Modir Min I Kvi Kvi’ – M Ragnarsdottir ‘Bjort Mey Og Hrein’ – M Ragnarsdottir ‘Travelling for a Living’ – Henry Parker ‘Sylvie’ – Henry Parker ‘British Grenadiers’ ‘Fenian Song’ – Sonic Art Other tracks include ‘As I Roved Out’; ‘Proud Celt’; ‘Scarborough Fair’; ‘John Barleycorn’; ‘Matty Groves’; ‘Morris Dance’; ‘Maypole Dance’; ‘Celtic Fiddle’ Music by Dan Wheeler includes The Old Sow ( trad ) Sweat Boxer — ( trad , with thanks to Davy Goodchild and The Harrow Inn) Haste to the Wedding ( trad ) From xeno-canto XC975203 - European Herring Gull - Larus argentatus argenteus by David M XC384264 - European Robin - Erithacus rubecula XC590432 - Eurasian Skylark - Alauda arvensis XC554798 - Soundscape XC138375 - European Robin - Erithacus rubecula XC397660 - Carrion Crow - Corvus corone XC495630 - Great Tit - Parus major newtoni XC947630 - Carrion Crow - Corvus corone corone.wav XC1054294 - Carrion Crow - Corvus corone corone.wav XC817610 - Great Green Bush-cricket - Tettigonia viridissima.wav [SCENARIO TITLE BELOW] I have chosen not to include the name of the mystery at the heart of this scenario in the spoken introduction, as I consider it to be a potential spoiler for the story. But for completists and searchability I include it here: It is called Old Meg .",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/qd7jy2f3tjzpudrm/Vaesen_ep_3_FINAL_with_changes6saff.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65507412",
+      "itunes_duration": "4094",
+      "speakers": [
+        "Gribbly Bibbling",
+        "Dominic Allen",
+        "Joseph Chance",
+        "Danann McAleer",
+        "Dan Wheeler"
+      ],
+      "topics": [
+        "company",
+        "light",
+        "vaesen",
+        "twas",
+        "brillig"
+      ]
+    },
     {
       "key": "5216f9c5207bdbea92527e9ac4752e65bbcb40de",
       "title": "The Company of the Light (Vaesen) 02: ‘Pendle Mint Cake’",
@@ -6157,6 +6183,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-25 — The Company of the Light (Vaesen) 03: ‘Twas Brillig…’ — speakers: Gribbly Bibbling, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
 - 2026-05-18 — The Company of the Light (Vaesen) 02: ‘Pendle Mint Cake’ — speakers: Pendle Mint Cake, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
 - 2026-05-11 — The Company of the Light (Vaesen) 01: ‘Heartsholm Light’ — speakers: Heartsholm Light, South West England, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
 - 2026-05-05 — As The Waters Cover The Sea FINALE: Back to Back to Back to the Future — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
