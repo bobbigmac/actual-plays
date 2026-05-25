@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-05-18T20:04:25+00:00`
-- checked_at: `2026-05-18T20:04:25+00:00`
-- etag: `"djEuMi4wOjE3NzkxMzM1MjkxODU="`
+- fetched_at: `2026-05-25T15:30:43+00:00`
+- checked_at: `2026-05-25T15:30:43+00:00`
+- etag: `"djEuMi4wOjE3Nzk3MjEyMzkzNTA="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-05-18T20:04:25+00:00",
+  "fetched_at": "2026-05-25T15:30:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "3a9421b55aa4a547278370cf409968502323c638",
+      "title": "Campaign 2: Episode 185 - Nika Loves Cargo Shorts",
+      "published_at": "2026-05-25T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-185-nika-loves-cargo-shorts",
+      "description": "Screech has to go on another date, and fate of the realm is in his hands. Whichever ex-wife this is she is the one who works in the Slab and that will be a huge boon if Screech can like, trick her again? For \"freedom fighter\" type stuff. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by Zack Meyman AKA Zoomtoonz ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1779706220982-7787cd87-0bd0-4cb5-a916-a71825b65008.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a142af2cb11d38a8b4c2745/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94603828",
+      "itunes_duration": "1:05:41",
+      "speakers": [
+        "Nika Loves Cargo Shorts"
+      ],
+      "topics": [
+        "campaign",
+        "nika",
+        "cargo",
+        "short"
+      ]
+    },
     {
       "key": "215033c2abb3e96d74fc6b48988b716b5c383036",
       "title": "Campaign 2: Episode 184 - Put the Dump Before the Body",
@@ -12315,6 +12336,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-25 — Campaign 2: Episode 185 - Nika Loves Cargo Shorts — speakers: Nika Loves Cargo Shorts
 - 2026-05-18 — Campaign 2: Episode 184 - Put the Dump Before the Body — speakers: Dump Before
 - 2026-05-11 — Campaign 2: Episode 183 - Wedding Propaganda — speakers: Von Esper
 - 2026-05-04 — Campaign 2: Bonus Episode - Great Kings and Venturers! Part 4
