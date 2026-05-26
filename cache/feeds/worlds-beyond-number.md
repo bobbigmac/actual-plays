@@ -2,10 +2,10 @@
 
 - slug: `worlds-beyond-number`
 - source: `https://feeds.simplecast.com/IAPnSSRO`
-- fetched_at: `2026-05-18T22:15:29+00:00`
-- checked_at: `2026-05-18T22:15:29+00:00`
-- etag: `"efb632a59624cc3c23dc0424df953686"`
-- last_modified: `Mon, 18 May 2026 21:32:24 GMT`
+- fetched_at: `2026-05-26T10:30:15+00:00`
+- checked_at: `2026-05-26T10:30:15+00:00`
+- etag: `"a38c2c63e6c97896f4a228df431188f8"`
+- last_modified: `Tue, 26 May 2026 09:00:14 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://worlds-beyond-number.simplecast.com",
   "description": "An epic, improvised storytelling podcast where Brennan Lee Mulligan, Erika Ishii, Aabria Iyengar, and Lou Wilson hang out together, play games, build worlds, and make stories.",
   "image_url": "https://image.simplecastcdn.com/images/c89bbbb6-e942-4583-ad73-4877d9c0b2f6/dfae107c-3b1e-4c37-acf7-a48a1ff6e445/3000x3000/wbn-album-logo-art-2024-3000x3000.jpg?aid=rss_feed",
-  "fetched_at": "2026-05-18T22:15:29+00:00",
+  "fetched_at": "2026-05-26T10:30:15+00:00",
   "owners": [
     "Brennan Lee Mulligan",
     "Aabria Iyengar",
@@ -31,6 +31,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ae8ac4342214a41304f7e4cd9318452289cbce06",
+      "title": "Solari: Episode 6 - Pinned Down",
+      "published_at": "2026-05-26T09:00:00+00:00",
+      "link": "https://worlds-beyond-number.simplecast.com/episodes/solari-episode-6-pinned-down-srj92gRB",
+      "description": "They watch, they wait, they wager. They hear you've made some friends. They see you through their scope. They know you play pretend. Keep your head down. Content Warning : This episode contains depictions of violence. We are: Brennan Lee Mulligan Erika Ishii Aabria Iyengar Lou Wilson Solari was produced by Worlds Beyond Number Edit and Sound Design by Jino Jang-Hansen at Big Giant Head Score by Will Savino https://wsavino.com/ Director of Operations: Melanie Bowman Social Media Manager: Shannon H Lorekeeper and Transcriptionist: Jack Morgan E.F. Lavandowska Recording Engineer: Rainie Toll Character Art by Nikolas Draper-Ivey www.instagram.com/nikolasdraperivey/ Cover Art by Lu Tomkiewicz www.instagram.com/_fromlu/ This campaign uses the Stillfleet TTRPG system, created by Wythe Marschall and developed by Stillfleet Studio https://stillfleet.com/collections/stillfleet You can find transcripts of all our episodes on our Patreon. Just navigate to the post for the episode and the transcript will be attached.",
+      "image_url": "https://image.simplecastcdn.com/images/52465498-1509-439a-8bae-5a0586d07e7b/9f05cc74-c547-4aae-9e46-40caf6a3ca2d/3000x3000/solari_album_art.jpg?aid=rss_feed",
+      "enclosure_url": "https://cdn.simplecast.com/media/audio/transcoded/3271e9ed-72a9-42fd-a976-32864451ba9e/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/audio/group/68b6dca8-5634-4bc4-bc5f-7df4dfa1e315/group-item/c5653c1c-9a84-48d7-a28c-e8429a2bbe51/128_default_tc.mp3?aid=rss_feed&feed=IAPnSSRO",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70795965",
+      "itunes_duration": "01:07:46",
+      "speakers": [
+        "Brennan Lee Mulligan",
+        "Aabria Iyengar",
+        "Erika Ishii",
+        "Lou Wilson"
+      ],
+      "topics": [
+        "solari"
+      ]
+    },
     {
       "key": "489e233a4097c82d78a0aaa96e5cf14a90650557",
       "title": "Soundtrack out now for the Wizard the Witch and the Wild One!",
@@ -1998,6 +2019,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-26 — Solari: Episode 6 - Pinned Down — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-05-18 — Soundtrack out now for the Wizard the Witch and the Wild One! — speakers: Worlds Beyond Number, Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-05-12 — Solari: Episode 5 - Pirouette — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-04-28 — Solari: Episode 4 - Port of Call — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson

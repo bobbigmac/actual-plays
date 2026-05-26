@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-05-26T04:36:58+00:00`
-- checked_at: `2026-05-26T04:36:58+00:00`
-- etag: `W/"37219e001c80fb568517fc1ed7e87c87"`
-- last_modified: `Tue, 26 May 2026 03:49:15 GMT`
+- fetched_at: `2026-05-26T10:30:15+00:00`
+- checked_at: `2026-05-26T10:30:15+00:00`
+- etag: `W/"5c2624205dc98db5fb7cd3c02b025f9e"`
+- last_modified: `Tue, 26 May 2026 07:01:43 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://dodoborne.transistor.fm/",
   "description": "DodoBorne is a comedy actual play podcast where five friends dive into Daggerheart, the new tabletop roleplaying game from Darrington Press. Join Kapi, Crank, and Pistachio as they navigate a rich world of mystery, magic, and malfeasance! Humor, heart, and nonsense guaranteed. Some assembly required.",
   "image_url": "https://img.transistorcdn.com/BSVuYZCsKpTMwWe3TwBDDSylQZRg2pPh9xswN9Msu70/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZWU5/MDZiZDQ5NTI2NTU5/NDIwNjNhZTYxYjI1/YWI5Yy5wbmc.jpg",
-  "fetched_at": "2026-05-26T04:36:58+00:00",
+  "fetched_at": "2026-05-26T10:30:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,26 @@
     "ttrpg/daggerheart"
   ],
   "episodes": [
+    {
+      "key": "5edb23aec1571b627c0ceb6c128389c74bd90665",
+      "title": "Polaris University 1.6: Revelations",
+      "published_at": "2026-05-26T07:00:00+00:00",
+      "link": "https://share.transistor.fm/s/8c32c2da",
+      "description": "The plots converge! Our students are creeping ever closer to the answers they seek and are soon about to discover who is behind all of this. After detaining the mysterious individual in broad daylight, the trio must figure out where to go from here and how to solve the final mystery. Will they be victorious, or will they wind up as cute little Gamatochis just like their dear professor? Find out! Hickory builds the team. Rainy keeps the peace. Vivi faces the past. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla meaches Racheylovesyou MajorFrostbyte Arun Gupta Space Lesbian birdnado World of Gariva Valerie Mariana Dom sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin Johnny Rocha Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez yeehawboi67",
+      "image_url": "https://img.transistorcdn.com/I4p7HbMGDvuxFhhY3caN1F5eH-MlSjQik7sgUMEipgg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84NDgx/MTM1NWUwM2U5YmEz/NmEwYWU1MTUwMGMy/MWNkYy5wbmc.jpg",
+      "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/8c32c2da/2feef434.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69424544",
+      "itunes_duration": "2890",
+      "speakers": [
+        "Polaris University"
+      ],
+      "topics": [
+        "polaris",
+        "university",
+        "revelation"
+      ]
+    },
     {
       "key": "beecc61b1482c3e1f238e241dd9232575666594f",
       "title": "Polaris University 1.5: Frescos",
@@ -857,6 +877,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-26 — Polaris University 1.6: Revelations — speakers: Polaris University
 - 2026-05-19 — Polaris University 1.5: Frescos — speakers: Lysander Bellor
 - 2026-05-12 — Polaris University 1.4: Threads — speakers: Polaris University
 - 2026-05-05 — Polaris University 1.3: Secrets — speakers: Polaris University, Secrets Whew
