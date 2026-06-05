@@ -1,2 +1,2 @@
-spacy>=3.7,<3.9
+spacy==3.8.13
 feedparser>=6.0,<7
