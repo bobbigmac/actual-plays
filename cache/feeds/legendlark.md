@@ -2,13 +2,11 @@
 
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
-- fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-05T20:15:54+00:00`
+- fetched_at: `2026-06-05T22:37:01+00:00`
+- checked_at: `2026-06-05T22:37:01+00:00`
 - etag: `W/"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ"`
-- last_modified: `Thu, 04 Jun 2026 22:43:39 GMT`
+- last_modified: `Fri, 05 Jun 2026 18:17:28 GMT`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: `HTTP 403` — Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -20,7 +18,7 @@
   "link": "http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss",
   "description": "..🚂🚃🚋🚃🚃🚋🚋🚋🚃...... A train pulls into the station. A circus raises its tents. Welcome, one and all, to NEVERNOWHERE— a place where your memories are currency, every dream is reality, and crime really does pay. LegendLark is a narrative comedy TTRPG podcast. Updates every 2nd Thursday! www.legendlark.com",
   "image_url": "https://megaphone.imgix.net/podcasts/38353ab8-2938-11f1-b716-1b70c557bb65/image/5002d6217f82605e3208708900cb0514.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-05T15:29:28+00:00",
+  "fetched_at": "2026-06-05T22:37:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -28,6 +26,23 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "f30a92c8e2abb05e9be0b8c0f601500bda22e623",
+      "title": "NEVERNOWHERE 22. Bingo!",
+      "published_at": "2026-06-05T18:17:00+00:00",
+      "link": null,
+      "description": "Friedrich and Valerian face the world... ALONE. TOGETHER. They meet with a clone, a cartographer, and... a new friend? 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7806dfd0-6050-11f1-9a76-dbaefa9b5199/image/bb818648ace38c400caabe688378ee29.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR6741916504.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3654",
+      "speakers": [],
+      "topics": [
+        "nevernowhere",
+        "bingo"
+      ]
+    },
     {
       "key": "858e10f9de02ffb9a5a29c40377bb1ce3949cf40",
       "title": "NEVERNOWHERE 21. 'We're Gonna Die'",
@@ -4083,23 +4098,14 @@
         "dragon"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-06-05T20:15:54+00:00",
-    "status": "error",
-    "checked_at": "2026-06-05T20:15:54+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": 403,
-      "message": "Forbidden"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
 
 ## Episodes (newest first)
 
+- 2026-06-05 — NEVERNOWHERE 22. Bingo!
 - 2026-05-22 — NEVERNOWHERE 21. 'We're Gonna Die' — speakers: Gonna Die, Oak Hollow Job
 - 2026-05-07 — NEVERNOWHERE 20. Adorably Escaping the Itty Bitty City — speakers: Adorably Escaping, Itty Bitty City Everything
 - 2026-04-23 — Guardians Reborn 2 TEASER

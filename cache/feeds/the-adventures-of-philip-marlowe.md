@@ -3,12 +3,10 @@
 - slug: `the-adventures-of-philip-marlowe`
 - source: `https://www.spreaker.com/show/5656706/episodes/feed`
 - fetched_at: `2026-03-16T13:56:32+00:00`
-- checked_at: `2026-06-05T20:15:54+00:00`
+- checked_at: `2026-06-05T22:37:01+00:00`
 - etag: `"185c37e7e158b1bc1f0c187267cbda9a"`
 - last_modified: `Mon, 16 Mar 2026 12:44:31 GMT`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: `HTTP 403` — Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -2279,17 +2277,7 @@
         "gift"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-06-05T20:15:54+00:00",
-    "status": "error",
-    "checked_at": "2026-06-05T20:15:54+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": 403,
-      "message": "Forbidden"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->

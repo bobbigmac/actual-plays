@@ -3,11 +3,9 @@
 - slug: `ballad-of-the-seven-dice-a-pathfinder-call-of-cthulhu-podcast`
 - source: `https://balladofthesevendice.podbean.com/feed.xml`
 - fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-05T20:15:54+00:00`
+- checked_at: `2026-06-05T22:37:01+00:00`
 - etag: `"265de144146f744d4d6dd1fb9a7c1ff6"`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: `HTTP 403` — Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -4669,17 +4667,7 @@
         "chosen"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-06-05T20:15:54+00:00",
-    "status": "error",
-    "checked_at": "2026-06-05T20:15:54+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": 403,
-      "message": "Forbidden"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->

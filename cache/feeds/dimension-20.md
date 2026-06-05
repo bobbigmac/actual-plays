@@ -3,12 +3,10 @@
 - slug: `dimension-20`
 - source: `https://feeds.megaphone.fm/dimension20`
 - fetched_at: `2026-03-16T13:56:32+00:00`
-- checked_at: `2026-06-05T20:15:54+00:00`
+- checked_at: `2026-06-05T22:37:01+00:00`
 - etag: `"d5595f2f83834d32e8fc04988b0483a7"`
 - last_modified: `Mon, 16 Mar 2026 12:05:19 GMT`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: `HTTP 403` — Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -843,17 +841,7 @@
         "beginning"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-06-05T20:15:54+00:00",
-    "status": "error",
-    "checked_at": "2026-06-05T20:15:54+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": 403,
-      "message": "Forbidden"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
