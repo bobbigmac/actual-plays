@@ -3,10 +3,12 @@
 - slug: `dragons-greed-gaming-presents-mork-borg`
 - source: `https://www.spreaker.com/show/5839076/episodes/feed`
 - fetched_at: `2026-03-16T13:56:32+00:00`
-- checked_at: `2026-03-16T13:56:32+00:00`
+- checked_at: `2026-06-05T20:15:54+00:00`
 - etag: `"d294356cc513f6c6fa973ac401655100"`
 - last_modified: `Mon, 16 Mar 2026 12:49:02 GMT`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: `HTTP 403` — Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -300,7 +302,17 @@
         "borg"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-06-05T20:15:54+00:00",
+    "status": "error",
+    "checked_at": "2026-06-05T20:15:54+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 403,
+      "message": "Forbidden"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

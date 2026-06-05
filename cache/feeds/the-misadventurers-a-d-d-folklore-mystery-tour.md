@@ -3,8 +3,10 @@
 - slug: `the-misadventurers-a-d-d-folklore-mystery-tour`
 - source: `https://feeds.soundcloud.com/users/soundcloud:users:407156172/sounds.rss`
 - fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T20:15:54+00:00`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: `HTTP 403` — Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -43,7 +45,17 @@
         "dmst"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-06-05T20:15:54+00:00",
+    "status": "error",
+    "checked_at": "2026-06-05T20:15:54+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 403,
+      "message": "Forbidden"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

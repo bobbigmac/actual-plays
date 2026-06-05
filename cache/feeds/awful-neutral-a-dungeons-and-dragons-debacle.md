@@ -3,9 +3,11 @@
 - slug: `awful-neutral-a-dungeons-and-dragons-debacle`
 - source: `https://AwfulNeutral.podbean.com/feed.xml`
 - fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
+- checked_at: `2026-06-05T20:15:54+00:00`
 - etag: `"05375ca20cd4ea0b5817fe133e3e4aff"`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: `HTTP 403` — Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -4144,7 +4146,17 @@
         "introductions"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-06-05T20:15:54+00:00",
+    "status": "error",
+    "checked_at": "2026-06-05T20:15:54+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 403,
+      "message": "Forbidden"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
