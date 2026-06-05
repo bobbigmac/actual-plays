@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-05-19T20:05:51+00:00`
-- checked_at: `2026-05-19T20:05:51+00:00`
-- etag: `"djEuMi4wOjE3NzkyMDY0Mzk0NDU="`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"djEuMi4wOjE3ODA1NDMxMjA3ODU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-05-19T20:05:51+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -32,6 +32,36 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "ce7df0c10108de50967658d0857873d8f82e8525",
+      "title": "S4 Ep. 9 - Stepmothership - From the Makers of Anthony Burch’s World Championship Russian Roulette",
+      "published_at": "2026-06-02T16:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "blue christian X man catholic or Protestant This episode contains Profanity, Violence, and Sexual Content. As Freddie mentions in the outro, Hey There My Lyla has been added to Now Dads What I Call Music , free for download on Patreon. Also HAPPY PRIDE! 🥰 We're proud to celebrate our community and help defend and expand protections for queer people. For the second year in a row we have the Pride Dice and Pride Zine available on our store. The dice and the physical copy of the zine are only available for the month of June! Did you miss the 2025 issue of the Pride Zine? No worries! We're offering a bundle of both the 2025 and 2026 Pride Zines that lets you enjoy two years worth of queer love in the form of fan art. All of the net proceeds from sales of our Pride collection will be donated to Lambda Legal to support the fight for LGBTQ+ people's civil rights. And once again: bookmedaddy.com Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1780378539475-efe6fe7a-a19d-4155-a0c9-abebe0f1a83d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/6a1e7214c1105f0d1137644f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "161008368",
+      "itunes_duration": "1:51:20",
+      "speakers": [
+        "Anthony Burch",
+        "Russian Roulette",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "stepmothership",
+        "makers",
+        "anthony",
+        "burch",
+        "world",
+        "championship",
+        "russian",
+        "roulette"
+      ]
+    },
     {
       "key": "8e0f7e852e9d80e619d40dd2bd8a8b42ced0dda4",
       "title": "S4 Ep. 8 - The Rentalist",
@@ -4695,6 +4725,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-02 — S4 Ep. 9 - Stepmothership - From the Makers of Anthony Burch’s World Championship Russian Roulette — speakers: Anthony Burch, Russian Roulette, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-05-19 — S4 Ep. 8 - The Rentalist — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-05-05 — S4 Ep. 7 - Vent Horizon — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-04-21 — S4 Ep. 6 - Finding Doory — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos

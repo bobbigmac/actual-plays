@@ -2,9 +2,9 @@
 
 - slug: `ballad-of-the-seven-dice-a-pathfinder-call-of-cthulhu-podcast`
 - source: `https://balladofthesevendice.podbean.com/feed.xml`
-- fetched_at: `2026-05-09T16:10:55+00:00`
-- checked_at: `2026-05-09T16:10:55+00:00`
-- etag: `"797a366981b70aad95fb007b5e493173"`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"265de144146f744d4d6dd1fb9a7c1ff6"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://balladofthesevendice.podbean.com",
   "description": "Our new campaign Escaping Carcosa follows two stories; one a Pathfinder2e tale that follows a group trapped inside a video game called Carcosa Online. The other group is a team of investigators playing Call of Cthulhu trying to free everyone trapped. Will they find freedom or will their world become another until Hastur’s control?",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/2696764/BOT7DPodcast_Resized_8cwkcf.jpg",
-  "fetched_at": "2026-05-09T16:10:55+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,24 @@
     "ttrpg/call-of-cthulhu"
   ],
   "episodes": [
+    {
+      "key": "54a13d743cb00baaed865f0064e23a751a353c05",
+      "title": "Escaping Carcosa Online - Day 3 E14 // The Banker",
+      "published_at": "2026-05-27T13:14:29+00:00",
+      "link": "https://balladofthesevendice.podbean.com/e/escaping-carcosa-online-day-3-e14-the-banker/",
+      "description": "Welcome to the Ballad of the Seven Dice. Everyone is getting a chance to relax and enjoy the town. Lune needs a bit of that extra diamond dust. I'm sure a little bit of crime wouldn't be the worst thing, right? Check out our YouTube Want to join in on the conversation? Join Our Discord Show Notes Sin and Sinners, Experiment 4, Astral Projection, Creepy Doll, Dark Secret - Dark Fantasy Studio Filip Melvan - Fable Under The Table - 05 Tavern At The End Of Road Cellar - Monument Studios Cursed Forest, Quiet Tavern, Medieval City Indoors, Urban Park at Night, Daytime Forest, Fantasy Medieval City, - Michaël Ghelfi",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/8uz4kn8gfwe5v3m2/Escaping_Carcosa_Online_S3_E14avsow.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59802852",
+      "itunes_duration": "3737",
+      "speakers": [],
+      "topics": [
+        "carcosa",
+        "online",
+        "banker"
+      ]
+    },
     {
       "key": "e18ab04bcfda7948e491d68856108cc3271644d5",
       "title": "Escaping Carcosa Online - Day 3 E13 // A Weary Respite",
@@ -4656,6 +4674,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-27 — Escaping Carcosa Online - Day 3 E14 // The Banker
 - 2026-05-09 — Escaping Carcosa Online - Day 3 E13 // A Weary Respite
 - 2026-03-29 — Escaping Carcosa Offline - Day 3 E11 // Get Them Digits — speakers: Carcosa Offline Day
 - 2026-03-28 — Escaping Carcosa Online - Day 3 E12 // The Crawling Chaos

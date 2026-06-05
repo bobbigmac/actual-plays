@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-05-25T04:55:05+00:00`
-- checked_at: `2026-05-25T04:55:05+00:00`
-- etag: `"0e1bff6265b37736ac1a5f9c64b783fb"`
-- last_modified: `Mon, 25 May 2026 04:11:27 GMT`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"7437312dbbb7c687e172563785625752"`
+- last_modified: `Mon, 01 Jun 2026 04:10:44 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-05-25T04:55:05+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "c1e0de996da2598155839fc3ea98d7cf378f137f",
+      "title": "Vacation",
+      "published_at": "2026-06-01T04:00:00+00:00",
+      "link": "https://www.vintagerpg.com/2026/06/well-be-back/",
+      "description": "We'll be back. But not before a nice, long vacation. After just shy of 363 episodes in eight years, the Vintage RPG Podcast is going to take a hiatus. For lots of reasons, many of which we explain in this episode (along with some general kvetching about the state of the contemporary internet; that article about ad calls on news sites can be found here , hat tip to Robert McNees). But honestly, mostly, a vacation sounds nice . We'll be back in a couple months. We're even planning on sending a couple virtual postcards. Until then, sign up for the for the Vintage RPG Newsletter , still going out ever Friday afternoon. Join the Vintage RPG Discord to while away the days until our return. Join the Vintage RPG Patreon (West Marches game starting again soon!). Keep up with Hambone specifically on his own newsletter (newsletters are the cool new thing!) * * * Edited by the one and only R. Alex Murray . The Vintage RPG illustration is by Shafer Brown . * * * May the dice always roll in your favor!",
+      "image_url": "https://static.libsyn.com/p/assets/6/0/9/c/609c1fd2730d812016c3140a3186d450/Vintage_Podcast_Icon-20260531-t51biqfs6n.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/thevintagerpgpodcast/VRPG_-_Vacation__.mp3?dest-id=747998",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57977004",
+      "itunes_duration": "28:27",
+      "speakers": [],
+      "topics": [
+        "vacation"
+      ]
+    },
     {
       "key": "e009b94f21a6edeb1195746671e271159319f44a",
       "title": "The Black Spire Pact",
@@ -6637,6 +6653,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-01 — Vacation
 - 2026-05-25 — The Black Spire Pact
 - 2026-05-18 — Abattoir Hymnal — speakers: Tiger Wizard
 - 2026-05-11 — Monster Dinosaur — speakers: Monster Dinosaur Oh

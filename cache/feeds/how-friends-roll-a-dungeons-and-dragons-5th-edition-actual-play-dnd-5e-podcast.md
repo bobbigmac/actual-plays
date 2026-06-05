@@ -2,10 +2,10 @@
 
 - slug: `how-friends-roll-a-dungeons-and-dragons-5th-edition-actual-play-dnd-5e-podcast`
 - source: `https://howfriendsroll.libsyn.com/rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"d765ba6513325531959767c6fe05b93a"`
-- last_modified: `Thu, 11 Dec 2025 02:12:00 GMT`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"f19a3f34fadda80e3a082f83f70d8681"`
+- last_modified: `Fri, 29 May 2026 15:00:26 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://howfriendsroll.libsyn.com/podcast",
   "description": "A beginner friendly Dungeons and Dragons 5th edition actual play podcast, featuring a series of micro campaigns and a rotating cast of characters.",
   "image_url": "https://static.libsyn.com/p/assets/c/1/7/6/c176615ef76f44c4/HFR_3000x3000_master.png",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -58,7 +58,7 @@
       "speakers": [
         "Dungeon Master Sully",
         "How Friends Roll",
-        "Extra Life"
+        "Extra Lif"
       ],
       "topics": []
     },
@@ -140,7 +140,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80847407",
       "itunes_duration": "56:02",
-      "speakers": [],
+      "speakers": [
+        "Hunky Sailors Donate"
+      ],
       "topics": [
         "roll",
         "hunky",
@@ -342,7 +344,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69341827",
       "itunes_duration": "48:02",
-      "speakers": [],
+      "speakers": [
+        "Impulse Control"
+      ],
       "topics": [
         "impulse",
         "control"
@@ -415,7 +419,7 @@
       "enclosure_length": "81007478",
       "itunes_duration": "56:08",
       "speakers": [
-        "Wunch Maventhor"
+        "Wunch Maventho"
       ],
       "topics": [
         "master",
@@ -948,12 +952,12 @@
 ## Episodes (newest first)
 
 - 2020-01-29 — DPN Promo: "Fun, But Why?" Season 2
-- 2018-12-05 — Bonus: "Fun, But Why?" — speakers: Dungeon Master Sully, How Friends Roll, Extra Life
+- 2018-12-05 — Bonus: "Fun, But Why?" — speakers: Dungeon Master Sully, How Friends Roll, Extra Lif
 - 2018-11-27 — Switch Series - ft. The Misadventurers
 - 2018-11-20 — 4.18 - Death Comes for Us All
 - 2018-11-13 — 4.17 - A Flare for the Dramatic
 - 2018-11-13 — 4.16 - Improvisational Piracy
-- 2018-10-30 — 4.15 - Roll for Hunky Sailors
+- 2018-10-30 — 4.15 - Roll for Hunky Sailors — speakers: Hunky Sailors Donate
 - 2018-10-23 — 4.14 - Planning Through the Tears
 - 2018-10-16 — 4.13 - Smoke in the Night
 - 2018-10-09 — 4.12 - Channel Your Key
@@ -965,11 +969,11 @@
 - 2018-09-04 — 4.X - Cast Interview
 - 2018-08-28 — 4.7 - We're All Murderers Here
 - 2018-08-21 — 4.6 - Secrecy and Spite
-- 2018-08-14 — 4.5 - Impulse Control (pt. 2)
+- 2018-08-14 — 4.5 - Impulse Control (pt. 2) — speakers: Impulse Control
 - 2018-08-07 — 4.4 - Impulse Control (pt. 1) — speakers: Dargon Firehand
 - 2018-07-31 — 4.3 - Dreadfully Moist (pt. 2)
 - 2018-07-24 — 4.2 - Dreadfully Moist (pt. 1) — speakers: Vivien Aust
-- 2018-07-17 — 4.1 - The Master of Fear — speakers: Wunch Maventhor
+- 2018-07-17 — 4.1 - The Master of Fear — speakers: Wunch Maventho
 - 2018-07-14 — Patreon Announcement — speakers: Patreon Announcement How Friends
 - 2018-07-10 — 4.0 - The Shadows
 - 2017-12-13 — Announcement - 12/13/17 — speakers: How Friends Roll

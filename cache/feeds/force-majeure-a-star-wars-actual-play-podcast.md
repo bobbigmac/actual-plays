@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-05-18T04:44:51+00:00`
-- checked_at: `2026-05-18T04:44:51+00:00`
-- etag: `"ac5210bf1c9d64a18a81bebfacc18c4a"`
-- last_modified: `Mon, 18 May 2026 04:37:23 GMT`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"d47d42e21b882a98390ba34a2d9f2e44"`
+- last_modified: `Mon, 01 Jun 2026 07:57:44 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! Twitter / Facebook / Instagram: @forcemajeurepod Website: www.forcemajurepod.com",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-05-18T04:44:51+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "91ab15d520eb1dcde5f9eba69ce92ec78ac266a0",
+      "title": "A Shot At Redemption E09 - Jiggety Jig",
+      "published_at": "2026-06-01T04:30:00+00:00",
+      "link": "https://forcemajeurepod.libsyn.com/a-shot-at-redemption-e09-jiggety-jig",
+      "description": "It's a long road back to Redemption. Time to learn a little more about the ones you're walking it with... Cast! Adam Beltaine is your GM, and can be found on Bluesky as @maddambeltaine.bsky.social Lou plays Tryk C Rangavoon, and can be found on Bluesky at @magpiehound.bsky.social Mikey plays Jax Vorn, and can be found on Bluesky at @weaselpunk.bsky.social Tom plays Kip Kazian and can be found on Bluesky at @tcpatrick.bsky.social as well as GMing the wonderful Dice Company podcast Geoff plays Kalro Vatts, and sensibly has no social media presence Follow us on social media! All our links can now be found here: linktr.ee/albertthellama Support Albert the Llama Enterprises! If you like what we do and have some spare money, we have both a Patreon and a Ko-Fi account. We are extremely grateful for your support. https://www.patreon.com/forcemajeurepod ko-fi.com/forcemajeurepod Intro and Supplemental Music: Composed by Sly Fox Audio - check out more of her stuff on soundcloud.com/slyfoxaudio Additional Music: \"Desert Planet(Music only Patreon exclusive)\" \"Frontier Town (Music only Patreon exclusive)\" both by Tabletop Audio \"Pre-Apocalypse\" \"Apocalypse Blues\" both by Alexander Nakarada (creatorchords.com) Some additional SFX from BBC Sounds Archive, Pixabay.com and Zapsplat.com All used with gratitude under the Creative Commons licence",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/forcemajeurepod/Redemption_E09.mp3?dest-id=604132",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54706595",
+      "itunes_duration": "44:10",
+      "speakers": [],
+      "topics": [
+        "shot",
+        "redemption",
+        "jiggety"
+      ]
+    },
     {
       "key": "6db119f3744c19e909733caa970a7a9152ca31ac",
       "title": "A Shot At Redemption E08 - The Hatchery",
@@ -4433,6 +4451,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-01 — A Shot At Redemption E09 - Jiggety Jig
 - 2026-05-18 — A Shot At Redemption E08 - The Hatchery
 - 2026-05-04 — A Shot At Redemption E07 - Wait and See
 - 2026-04-20 — A Shot At Redemption E06 - The Cure? — speakers: Will Jax

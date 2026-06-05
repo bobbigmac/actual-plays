@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-05-20T20:31:33+00:00`
-- checked_at: `2026-05-20T20:31:33+00:00`
-- etag: `"ee73aed5aff060e4c10ddef096087bbf"`
-- last_modified: `Wed, 20 May 2026 19:39:00 GMT`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"ff08d82043f23f418d4d87f4b01641d6"`
+- last_modified: `Tue, 02 Jun 2026 18:03:10 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-05-20T20:31:33+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,59 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "475eae5694b524e6c59da42a4a2c3036040f6b45",
+      "title": "Ep14 | Delta Green: Puppet Shows and Shadow Plays - Higher Powers",
+      "published_at": "2026-06-02T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/2859453",
+      "description": "Still reeling from their last encounter, the team receives more unexpected visitors... ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/2859453/green-box-gaming/2026_05_26_17_29_00_5a0d1f4e-de9e-404e-ab03-463a7557edb6.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71885634",
+      "itunes_duration": "4492",
+      "speakers": [
+        "Delta Green",
+        "Puppet Shows",
+        "Shadow Plays",
+        "Higher Powers Still"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "puppet",
+        "shows",
+        "shadow",
+        "plays",
+        "powers"
+      ]
+    },
+    {
+      "key": "89790a0b45c429b79673a318a95a4488a35e8a97",
+      "title": "Ep13 | Delta Green: Puppet Shows and Shadow Plays - House Call",
+      "published_at": "2026-05-26T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/2838354",
+      "description": "The team returns to town to plan their next moves and receive a rude awakening. ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/2838354/green-box-gaming/2026_05_19_19_10_42_3aefab14-d211-4212-b671-315379662b58.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69241207",
+      "itunes_duration": "4327",
+      "speakers": [
+        "Delta Green",
+        "Puppet Shows",
+        "Shadow Plays"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "puppet",
+        "shows",
+        "shadow",
+        "plays",
+        "house"
+      ]
+    },
     {
       "key": "e4928f554b61e8d7b5e92692bd77258fd6e7021c",
       "title": "Ep2 | Delta Green: Last Things Last - Cabin in the Woods",
@@ -3969,6 +4022,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-02 — Ep14 | Delta Green: Puppet Shows and Shadow Plays - Higher Powers — speakers: Delta Green, Puppet Shows, Shadow Plays, Higher Powers Still
+- 2026-05-26 — Ep13 | Delta Green: Puppet Shows and Shadow Plays - House Call — speakers: Delta Green, Puppet Shows, Shadow Plays
 - 2026-05-19 — Ep2 | Delta Green: Last Things Last - Cabin in the Woods
 - 2026-05-12 — Ep1 | Delta Green: Last Things Last - Clean Up Crew
 - 2026-05-05 — Ep5 | Thousand Year Old Vampire w/ Brad - Ahead of His Time

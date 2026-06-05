@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-05-25T22:18:47+00:00`
-- checked_at: `2026-05-25T22:18:47+00:00`
-- etag: `"djEuMi4wOjE3Nzk3NDQ4NzY5MjU="`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"djEuMi4wOjE3ODA2MDQ5NzI1MzU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-05-25T22:18:47+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,78 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "0eb195e5d89e41c541a35ff13268feaafe618add",
+      "title": "Journey to the Witchspire | Natural Six x Witchspire",
+      "published_at": "2026-06-04T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/journey-to-the-witchspire-natural-six-x-witchspire",
+      "description": "Waking with no memory of how they got there, or where they are meant to be, our adventurers find themselves thrown together and guided by mysterious forces towards the Witchspire in search of answers. But this adventure is more than just friends, familiars and froblins. Strange powers are stirring, danger waits in the dark, and the path ahead may reveal far more than they are ready to know. Maybe it’s time to take to the skies? Join Natural Six for a bespoke D&D 5.5 one-shot adventure as we explore the lore, world, enemies, mysteries and more of Witchspire, the upcoming game from Envar Studios, through the eyes of five brand new characters! #Ad To learn more about Witchspire and to keep up to date with ‪@EnvarStudio‬, visit: https://playwitchspire.com/ Wishlist now on Stream: https://shorturl.at/JNUNs -- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a20c2b63ab59ca4e2dc37fc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "294257057",
+      "itunes_duration": "5:06:31",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "journey",
+        "witchspire",
+        "natural"
+      ]
+    },
+    {
+      "key": "9dffc2ce1a9080e03cf2fd7d52fef24d7368f4c3",
+      "title": "Action Surge Episode 55",
+      "published_at": "2026-06-02T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-55",
+      "description": "-- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a135b9e9feea1b67efd09ac/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "472489590",
+      "itunes_duration": "41:00",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
+    {
+      "key": "d06d62e6b8b62c75d80e12c18dcf8c2902d58c6f",
+      "title": "Ep. 55 The Forest Grows",
+      "published_at": "2026-05-26T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-55-the-forest-grows",
+      "description": "As the forest continues to shift and breathe, not every path leads forward. As old wounds are brought back into the light, some memories still burn, and some remind you that even in ruin not everything might be lost to the flames. While the forest lingers on what was, not everyone has the patience to indulge it. When there are answers waiting beyond the trees, frustration is never far behind, but anger has a way of demanding the shortest path, and not every lesson worth learning arrives quickly. Sometimes the hardest thing to understand is not why someone carries their rage, but how they survived it long enough to set it down. The forest might promise more than ghosts, but just when it seems the trees may finally have said their piece, the path turns once more, and what waits ahead is ready to be remembered. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a14acf183dd9b6e11588102/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "418179816",
+      "itunes_duration": "2:54:12",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "forest"
+      ]
+    },
     {
       "key": "e73dfd4182397d6bef7a4766a70b4c368c4302fa",
       "title": "Action Surge Episode 54",
@@ -2842,6 +2914,9 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — Journey to the Witchspire | Natural Six x Witchspire — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2026-06-02 — Action Surge Episode 55 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2026-05-26 — Ep. 55 The Forest Grows — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-05-19 — Action Surge Episode 54 — speakers: Big Brent, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-05-12 — Ep. 54 Song of the Treespeaker — speakers: Treespeaker Things, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-05-05 — Action Surge Episode 53 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle

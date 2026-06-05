@@ -2,8 +2,8 @@
 
 - slug: `dndark`
 - source: `https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40`
-- fetched_at: `2026-05-26T10:30:15+00:00`
-- checked_at: `2026-05-26T10:30:15+00:00`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/dndark",
   "description": "A comedy/horror D&D Actual Play Podcast starring some of history's most iconic monsters",
   "image_url": "https://media.redcircle.com/images/2025/4/2/20/c89246be-6b46-429a-909e-1e4e1bd26ad0_846-8b2d-746b3b4b007c_received_702201047512802.jpg",
-  "fetched_at": "2026-05-26T10:30:15+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -24,6 +24,23 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "8498839cc9637612b54c36e30263f6cf672fd748",
+      "title": "Table Talk - Interview with Dan (DnD404)",
+      "published_at": "2026-06-03T12:00:46+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The Thirty-first episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Dan from the Actual Play podcast DnD404. The interview discusses TTRPG philosophy and general advice on how to be more effective players and GMs. Check out DnD404: Website: https://dnd404.com/ Instagram: https://www.instagram.com/dndpod404/ TikTok: https://www.tiktok.com/@dndpod Discord: https://discord.com/invite/KkQBjTPnDz Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
+      "image_url": "https://media.redcircle.com/images/2026/5/19/8/4bd35cab-8019-4b5b-a686-891cb681f63a_dndark_interview_thimbnail.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/d252b1e1-3ff8-488c-8454-cee886a8bbe5/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50245381",
+      "itunes_duration": "3140",
+      "speakers": [],
+      "topics": [
+        "table",
+        "talk"
+      ]
+    },
     {
       "key": "de2a6d3194a7b779d55c07563bd853e8fa38810e",
       "title": "Table Talk - Interview with 5 GMs in a Trenchcoat",
@@ -43,28 +60,9 @@
       ]
     },
     {
-      "key": "78f3b3d44b1f5769fbc26d98856156e465a7914f",
-      "title": "DnDark Presents: DnDark Souls Finale: ...Happily Ever After?",
-      "published_at": "2026-05-06T12:00:08+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "The final battle commences! With the fate of Phantasia at stake, the team faces off against The Mistress of all Evil and The Nameless King, while the Great Flame hangs in the balance... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" Daniel Cruz - Pinocchio: \"The Real Boy\" Grayson Norman - Sir Mordred: \"The Knight\" \"Danger\" Dan Jerz - King Thomas Canty the First: \"The Lord of Embers\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
-      "image_url": "https://media.redcircle.com/images/2026/4/4/22/c7285a1b-be74-4a5f-91ba-a77336f124f0_dndark_presents_dndarksouls_square.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/2d733674-4f71-4ab5-a8a1-8b6a13fb85ab/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "64091951",
-      "itunes_duration": "4005",
-      "speakers": [],
-      "topics": [
-        "dndark",
-        "presents",
-        "souls",
-        "finale"
-      ]
-    },
-    {
       "key": "54596aad4a1ae12c89c33aaad12c48a64ceca0a5",
       "title": "Table Talk - Interview with Mike (Arcane Circle)",
-      "published_at": "2026-04-29T12:00:54+00:00",
+      "published_at": "2026-05-09T12:00:54+00:00",
       "link": "https://www.dndarkpodcast.com/",
       "description": "The Twenty-ninth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Mike, the founder and CEO of the All-in-one TTRPG Platform, Arcane Circe. The interview discusses what Arcane Circle offers, what obstacles he needed to overcome when creating the platform, and some general GM philosophy. Check out Mike's work: Linktree: https://linktr.ee/ArcaneCirclegames Arcane Circle Website: https://www.arcanecircle.games/ Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
       "image_url": "https://media.redcircle.com/images/2026/4/10/4/daad98f8-c7a2-45c3-9ac1-0f7633ca8310_dndark_interview_thimbnail.jpg",
@@ -82,32 +80,9 @@
       ]
     },
     {
-      "key": "451427587f706a65fbfb09860287b3e2ef83ce70",
-      "title": "DnDark Presents: DnDark Souls Part 10: Knight on Bald Mountain",
-      "published_at": "2026-04-22T12:00:37+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "The team prepares for the final battle, learning more about the nature of The Great Flame and the mysterious \"Benefactor\" working with The Vile Ones... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" Daniel Cruz - Pinocchio: \"The Real Boy\" Grayson Norman - Sir Mordred: \"The Knight\" \"Danger\" Dan Jerz - \"The Pauper\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
-      "image_url": "https://media.redcircle.com/images/2026/4/2/4/509112b7-70f3-4835-9701-b061e913ab49_dndark_presents_dndarksouls_square.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/40053e0d-5900-4bfe-8d53-b7b15cbccc0c/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "57738553",
-      "itunes_duration": "3608",
-      "speakers": [
-        "Bald Mountain"
-      ],
-      "topics": [
-        "dndark",
-        "presents",
-        "souls",
-        "knight",
-        "bald",
-        "mountain"
-      ]
-    },
-    {
       "key": "268da878deff562e64559fbd5f9068b037d86094",
       "title": "Table Talk - Interview with Olivia (Cozy Crypt)",
-      "published_at": "2026-04-08T12:00:14+00:00",
+      "published_at": "2026-05-08T12:00:14+00:00",
       "link": "https://www.dndarkpodcast.com/",
       "description": "The Twenty-eighth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Olivia, the GM of the Appalachian DnD5e Actual Play Podcast, Cozy Crypt. The interview discusses Appalachian folklore and the thought process behind approaching a show rooted in American folklore Check out Olivia's work: Linktr.ee: https://linktr.ee/cozycryptdnd Instagram: https://www.instagram.com/cozycryptdnd TikTok: https://www.tiktok.com/@cozycryptdnd Discord: https://discord.gg/6pECUSY5xq Spotify: https://open.spotify.com/show/1VbSU8Fc8Tx2lnaziAsp44?si=4071a8c9b8ba4fa9 Apple Podcast: https://podcasts.apple.com/us/podcast/cozy-crypt/id1820833815 YouTube Podcast: https://youtube.com/playlist?list=PLPMma-6bXL8-wrykFO8RiNHbJIdzbq9eh&si=oSBSPfsR5sRnkUEo RSS Feed: https://rss.com/podcasts/cozy-crypt/ PocketCasts: https://pca.st/mbpkm8cu Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
       "image_url": "https://media.redcircle.com/images/2026/3/26/5/bb4b7fce-8a3c-4440-abd1-d6708c9753c5_dndark_interview_thimbnail.jpg",
@@ -127,28 +102,9 @@
       ]
     },
     {
-      "key": "e1a92666ce1e0c15359f800bb3e420921e898aca",
-      "title": "DnDark Presents: DnDark Souls Part 9: Once Upon a Dream",
-      "published_at": "2026-04-01T12:00:43+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "Contains: Gore In the team's race to confront The Mistress of all Evil, they are surprised to instead be confronted by Princess Aurora, overtaken by the sorceress' dark magic, and with emotionally distraught revelations about The Prince's past... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" Daniel Cruz - Pinocchio: \"The Real Boy\" Grayson Norman - Sir Mordred: \"The Knight\" \"Danger\" Dan Jerz - \"The Pauper\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
-      "image_url": "https://media.redcircle.com/images/2026/3/20/4/ebbbba34-bb11-4681-863f-618a81ce41f3_dndark_presents_dndarksouls_square.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/cddc8150-ae10-4946-8086-d60a442c9804/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "58843219",
-      "itunes_duration": "3677",
-      "speakers": [],
-      "topics": [
-        "dndark",
-        "presents",
-        "souls",
-        "dream"
-      ]
-    },
-    {
       "key": "472c1e18865c97c0016ca5683331fe6808ec5d7f",
       "title": "Table Talk - Interview with Jason Cordova",
-      "published_at": "2026-03-25T12:00:25+00:00",
+      "published_at": "2026-05-07T12:00:25+00:00",
       "link": "https://www.dndarkpodcast.com/",
       "description": "The Twenty-seventh episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Jason Cordova, an ENnie Award winning game designer, podcaster, head of The Gauntlet TTRPG Netword, and creator of Brindlewood Bay, The Between, and Public Access. The interview discusses practical and actionable advice for game design, and the lessons that can be learned from reading and playing more obscure TTRPGs Check out Jason's work: Preorder The Between Hardcover Book: https://the-between.backerkit.com/hosted_preorders Back Public Access on Kickstarter: https://www.kickstarter.com/projects/gauntlet/public-access-analog-horror-mystery-ttrpg The Gauntlet Website: https://www.gauntlet-rpg.com/ The Gauntlet Discord Server: https://discord.gg/ScVrPDgfeg Jason's BlueSky: https://bsky.app/profile/jasoncordova.bsky.social Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
       "image_url": "https://media.redcircle.com/images/2026/2/11/12/890a7426-ea7c-45ca-94d5-5f08a5b82d32_dndark_interview_thimbnail.jpg",
@@ -167,8 +123,69 @@
       ]
     },
     {
+      "key": "78f3b3d44b1f5769fbc26d98856156e465a7914f",
+      "title": "D&Dark Presents: DnDark Souls Finale: ...Happily Ever After?",
+      "published_at": "2026-05-06T12:00:08+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The final battle commences! With the fate of Phantasia at stake, the team faces off against The Mistress of all Evil and The Nameless King, while the Great Flame hangs in the balance... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" Daniel Cruz - Pinocchio: \"The Real Boy\" Grayson Norman - Sir Mordred: \"The Knight\" \"Danger\" Dan Jerz - King Thomas Canty the First: \"The Lord of Embers\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
+      "image_url": "https://media.redcircle.com/images/2026/4/4/22/c7285a1b-be74-4a5f-91ba-a77336f124f0_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/2d733674-4f71-4ab5-a8a1-8b6a13fb85ab/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64091951",
+      "itunes_duration": "4005",
+      "speakers": [],
+      "topics": [
+        "presents",
+        "dndark",
+        "souls",
+        "finale"
+      ]
+    },
+    {
+      "key": "451427587f706a65fbfb09860287b3e2ef83ce70",
+      "title": "D&Dark Presents: DnDark Souls Part 10: Knight on Bald Mountain",
+      "published_at": "2026-04-22T12:00:37+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The team prepares for the final battle, learning more about the nature of The Great Flame and the mysterious \"Benefactor\" working with The Vile Ones... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" Daniel Cruz - Pinocchio: \"The Real Boy\" Grayson Norman - Sir Mordred: \"The Knight\" \"Danger\" Dan Jerz - \"The Pauper\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
+      "image_url": "https://media.redcircle.com/images/2026/4/2/4/509112b7-70f3-4835-9701-b061e913ab49_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/40053e0d-5900-4bfe-8d53-b7b15cbccc0c/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57738553",
+      "itunes_duration": "3608",
+      "speakers": [
+        "Bald Mountain"
+      ],
+      "topics": [
+        "presents",
+        "dndark",
+        "souls",
+        "knight",
+        "bald",
+        "mountain"
+      ]
+    },
+    {
+      "key": "e1a92666ce1e0c15359f800bb3e420921e898aca",
+      "title": "D&Dark Presents: DnDark Souls Part 9: Once Upon a Dream",
+      "published_at": "2026-04-01T12:00:43+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "Contains: Gore In the team's race to confront The Mistress of all Evil, they are surprised to instead be confronted by Princess Aurora, overtaken by the sorceress' dark magic, and with emotionally distraught revelations about The Prince's past... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" Daniel Cruz - Pinocchio: \"The Real Boy\" Grayson Norman - Sir Mordred: \"The Knight\" \"Danger\" Dan Jerz - \"The Pauper\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
+      "image_url": "https://media.redcircle.com/images/2026/3/20/4/ebbbba34-bb11-4681-863f-618a81ce41f3_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/cddc8150-ae10-4946-8086-d60a442c9804/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58843219",
+      "itunes_duration": "3677",
+      "speakers": [],
+      "topics": [
+        "presents",
+        "dndark",
+        "souls",
+        "dream"
+      ]
+    },
+    {
       "key": "b4ad5819074880a06c52adbb2af820044169ed4d",
-      "title": "DnDark Presents: DnDark Souls Part 8: A Knight's Tale",
+      "title": "D&Dark Presents: DnDark Souls Part 8: A Knight's Tale",
       "published_at": "2026-03-11T12:00:40+00:00",
       "link": "https://www.dndarkpodcast.com/",
       "description": "Contains: Gore, Elements of Body Horror As the team recovers from the fallout of their skirmish with The Mother of Wickedness, they brace themselves for the final assault against the Mistress of All Evil, while The Knight recovers more memories about his past and his connection to The First Kingdom. Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Daniel Cruz - Pinocchio: \"The Real Boy\" Grayson Norman - Sir Mordred: \"The Knight\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
@@ -179,17 +196,159 @@
       "itunes_duration": "4811",
       "speakers": [],
       "topics": [
-        "dndark",
         "presents",
+        "dndark",
         "souls",
         "knight",
         "tale"
       ]
     },
     {
+      "key": "25a469be390a74945464825fcce6e11348bcfbdc",
+      "title": "D&Dark Presents: DnDark Souls Part 7: Sister Act",
+      "published_at": "2026-02-25T13:00:38+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "Contains: Gore, Mild Depiction of Parental Abuse The team faces off against the The Mother of Wickedness, but in order to get through to her, they must first face down against the gruesome transformations of her daughters, who have been twisted into Abyss Walkers. Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - Pinocchio: \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Music: Disco by BlackTrendMusic courtesy of Free Music Archives Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
+      "image_url": "https://media.redcircle.com/images/2026/2/11/12/cb2ce5fe-104a-49c2-8047-54f7c20f46e1_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/a64ee301-525c-4d8d-8871-85d9e7f4695f/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68424515",
+      "itunes_duration": "4276",
+      "speakers": [],
+      "topics": [
+        "presents",
+        "dndark",
+        "souls",
+        "sister"
+      ]
+    },
+    {
+      "key": "d741effbb4a0027236be1ab3b6a773e61095f214",
+      "title": "D&Dark Presents: DnDark Souls Part 6: Cat and Mouse Game",
+      "published_at": "2026-02-04T13:00:44+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "Contains: Mild Gore, Elements of Body Horror In an effort to get in close to The Mother of Wickedness, the team agree to a trial to earn an audience with her: finding and retrieving her cat...and surviving to tell the tale. Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - Pinocchio: \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
+      "image_url": "https://media.redcircle.com/images/2026/1/29/5/9bc54352-c0b0-4d4a-845a-daaf1f65ceae_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/7f635891-3fd9-4c26-b649-740c8d1e20d6/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48004284",
+      "itunes_duration": "3000",
+      "speakers": [
+        "Mouse Game",
+        "Mild Gore"
+      ],
+      "topics": [
+        "presents",
+        "dndark",
+        "souls",
+        "mouse",
+        "game"
+      ]
+    },
+    {
+      "key": "febbac3bbf73ec8480cda8ce9f8708884e22fa36",
+      "title": "D&Dark Presents: DnDark Souls Part 5: Bibidi Bobbidi Boutique",
+      "published_at": "2026-01-14T13:00:43+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "Recovering from their fight with the Queen of Vanity, the team returns to the Shrine of the Great Flame where they grow stronger and purchase upgrades while The Real Boy has an emotional reunion with his father, the Craftsman. Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - Pinocchio: \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
+      "image_url": "https://media.redcircle.com/images/2026/1/11/20/6f00277f-1ca4-4b5d-a63a-6328b79f0346_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/6223e6d8-6bf6-458f-aa25-062d01c5b7b2/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50232424",
+      "itunes_duration": "3139",
+      "speakers": [],
+      "topics": [
+        "presents",
+        "dndark",
+        "souls",
+        "bibidi",
+        "bobbidi",
+        "boutique"
+      ]
+    },
+    {
+      "key": "5c6cb8e0c21900193975803d90c54bf4bb6d574a",
+      "title": "D&Dark Presents: DnDark Souls Ep. 4: Fairest of them All",
+      "published_at": "2025-12-31T13:00:12+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "Contains: Gore The team faces their toughest foe yet. The first of the Vile ones, The Queen of Vanity... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
+      "image_url": "https://media.redcircle.com/images/2025/12/24/5/ba00ea7e-aec2-45de-9cb5-92dd4ff1251f_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/a3ec05c3-e697-4849-90a4-e2b7d4ee3bbe/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60489142",
+      "itunes_duration": "3780",
+      "speakers": [],
+      "topics": [
+        "presents",
+        "dndark",
+        "souls",
+        "fairest"
+      ]
+    },
+    {
+      "key": "632024dcd6af41fb290adaad713574fd9cd9f619",
+      "title": "D&Dark Presents: DnDark Souls Ep. 3: Heart to Heart",
+      "published_at": "2025-12-10T13:00:40+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The team infiltrate Ebony Castle and maneuver their way towards The Queen of Vanity, along the way confronting the castle's defenses, the Queen's prisoners, and the resurfacing of memories that challenge what the party thought they knew about themselves... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
+      "image_url": "https://media.redcircle.com/images/2025/12/7/3/b1c319b6-159b-4815-9846-3364560281cb_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/f7a17055-1d82-4d7a-99ed-01af83797a3e/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67004290",
+      "itunes_duration": "4187",
+      "speakers": [
+        "Ebony Castle"
+      ],
+      "topics": [
+        "presents",
+        "dndark",
+        "souls",
+        "heart"
+      ]
+    },
+    {
+      "key": "e0396e36a67028352446da44eebd76b9e3075e74",
+      "title": "D&Dark Presents: DnDark Souls Part 2: Into the Woods",
+      "published_at": "2025-11-12T13:00:43+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "After recovering from their encounter with Peter Gundyr, the team continues their trek onward towards Ebony Castle to face off against The Queen of Vanity. However, before they can take on the first of the Vile Ones, they must navigate their way through The Deadwood Forest and face the castle's defenses and the resurfacing of their own murky memories... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
+      "image_url": "https://media.redcircle.com/images/2025/11/3/9/db20d245-276e-49a6-9ee0-e7de18b43f72_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/b3397dd6-fd7a-4876-9ca6-0f35c3fc6a69/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86080365",
+      "itunes_duration": "5380",
+      "speakers": [
+        "Peter Gundyr"
+      ],
+      "topics": [
+        "presents",
+        "dndark",
+        "souls",
+        "wood"
+      ]
+    },
+    {
+      "key": "16f2a88a8bc56301e27560be8fc26613fe4bb160",
+      "title": "D&Dark Presents: DnDark Souls Part 1: And They All Lived...",
+      "published_at": "2025-10-29T12:00:08+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "Contains: Gore, Elements of Body Horror The Kingdom of Phantasia is under siege in an endless war against The Vile Ones, and The Great Flame that sustains the land is at risk. After countless years of fighting, and after several of the most promising foot soldiers have either fallen or been turned, five Ashen Ones are raised from the dead to continue the fight in a last desperate effort to prevent darkness from subsuming the land. The last hope for Phantasia rests on the shoulders of five warriors of...questionable effectiveness...and dubious morality... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
+      "image_url": "https://media.redcircle.com/images/2025/10/22/7/91022dc0-af5f-40fb-94b4-b61e4d64e7f7_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/871bb339-58db-498b-b362-e6164a2d4168/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "87343438",
+      "itunes_duration": "5458",
+      "speakers": [],
+      "topics": [
+        "presents",
+        "dndark",
+        "souls"
+      ]
+    },
+    {
       "key": "03a012c47901ee89276410bf4fbe851f213ffdcd",
       "title": "Table Talk - Interview with Mayanna Berrin",
-      "published_at": "2026-03-04T13:00:50+00:00",
+      "published_at": "2025-10-28T14:00:50+00:00",
       "link": "https://www.dndarkpodcast.com/",
       "description": "The Twenty-sixth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Mayanna Berrin, an actor, writer, and AP performer who has been involved in projects like the video game Dispatch, the official Vampire the Masquerade Actual Play, Story Quest, and Dungeons & Cabins. The interview discusses the different ways that TTRPGs can make you a better performer and the importance of open communication both at and away from the table. Check out Mayanna's work: Info about Dungeons and Cabins: https://www.dungeonsandcabins.com Mayanna's Instagram: https://www.instagram.com/mayannaberrin/?hl=en Mayanna's BlueSky: https://bsky.app/profile/mayannaberrin.bsky.social Mayanna's Twitter: https://x.com/Bemayanna Watch the Story Quest Actual Play Show: https://www.youtube.com/@StoryQuestShow Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
       "image_url": "https://media.redcircle.com/images/2026/1/16/6/629c0fe0-5173-4b92-8f2e-eea67d9b8b4e_dndark_interview_thimbnail.jpg",
@@ -208,28 +367,9 @@
       ]
     },
     {
-      "key": "25a469be390a74945464825fcce6e11348bcfbdc",
-      "title": "DnDark Presents: DnDark Souls Part 7: Sister Act",
-      "published_at": "2026-02-25T13:00:38+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "Contains: Gore, Mild Depiction of Parental Abuse The team faces off against the The Mother of Wickedness, but in order to get through to her, they must first face down against the gruesome transformations of her daughters, who have been twisted into Abyss Walkers. Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - Pinocchio: \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Music: Disco by BlackTrendMusic courtesy of Free Music Archives Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
-      "image_url": "https://media.redcircle.com/images/2026/2/11/12/cb2ce5fe-104a-49c2-8047-54f7c20f46e1_dndark_presents_dndarksouls_square.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/a64ee301-525c-4d8d-8871-85d9e7f4695f/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "68424515",
-      "itunes_duration": "4276",
-      "speakers": [],
-      "topics": [
-        "dndark",
-        "presents",
-        "souls",
-        "sister"
-      ]
-    },
-    {
       "key": "983cc5a7743b77f57b847889724b2d2607c951b1",
       "title": "Table Talk - Interview with Eliam Weinstock (DicePotDM)",
-      "published_at": "2026-02-11T13:00:12+00:00",
+      "published_at": "2025-10-28T13:00:12+00:00",
       "link": "https://www.dndarkpodcast.com/",
       "description": "The Twenty-fifth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Eliam Weinstock, a photographer, player, and DM for Dungeons & Cabins. The interview discusses how to get involved in events like D&C, and the importance of finding and knowing your identity as a GM. Check out Eliam's work: Info about Dungeons and Cabins: https://www.dungeonsandcabins.com Eliam's Photography Instagram: https://www.instagram.com/ecweinstock_photos Eliam's TTRPG Instagram: https://www.instagram.com/dicepot_dm Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
       "image_url": "https://media.redcircle.com/images/2026/1/16/6/616f524f-a585-4ab7-8948-4e007a602ffd_dndark_interview_thimbnail.jpg",
@@ -249,32 +389,9 @@
       ]
     },
     {
-      "key": "d741effbb4a0027236be1ab3b6a773e61095f214",
-      "title": "DnDark Presents: DnDark Souls Part 6: Cat and Mouse Game",
-      "published_at": "2026-02-04T13:00:44+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "Contains: Mild Gore, Elements of Body Horror In an effort to get in close to The Mother of Wickedness, the team agree to a trial to earn an audience with her: finding and retrieving her cat...and surviving to tell the tale. Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - Pinocchio: \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
-      "image_url": "https://media.redcircle.com/images/2026/1/29/5/9bc54352-c0b0-4d4a-845a-daaf1f65ceae_dndark_presents_dndarksouls_square.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/7f635891-3fd9-4c26-b649-740c8d1e20d6/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "48004284",
-      "itunes_duration": "3000",
-      "speakers": [
-        "Mouse Game",
-        "Mild Gore"
-      ],
-      "topics": [
-        "dndark",
-        "presents",
-        "souls",
-        "mouse",
-        "game"
-      ]
-    },
-    {
       "key": "c975e171c269fb5eae42cffb2333357b8e40de8e",
       "title": "Table Talk - Interview with Zach Macias (GamesWithZach)",
-      "published_at": "2026-01-28T13:00:45+00:00",
+      "published_at": "2025-10-28T12:00:45+00:00",
       "link": "https://www.dndarkpodcast.com/",
       "description": "The Twenty-fourth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Zach Macias, an actor, educator, professional GM for hire, and DM for Dungeons & Cabins. The interview discusses the experience GMing a larger event like Dungeons and Cabins, what kinds of things to keep in mind when making GMing your profession, and what lessons you can learn from GMing younger and newer players. Check out Zach's work: Info about Dungeons and Cabins: https://www.dungeonsandcabins.com Zach's GM for Hire website: https://www.gameswithzach.com/ Zach's Start Playing Games Profile: https://startplaying.games/gm/zach Follow Zach on Instagram: https://www.instagram.com/maciasnumber5/ Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
       "image_url": "https://media.redcircle.com/images/2025/12/23/7/fe09e03f-a2bb-495f-8e55-0a250f9b34f0_dndark_interview_thimbnail.jpg",
@@ -294,30 +411,9 @@
       ]
     },
     {
-      "key": "febbac3bbf73ec8480cda8ce9f8708884e22fa36",
-      "title": "DnDark Presents: DnDark Souls Part 5: Bibidi Bobbidi Boutique",
-      "published_at": "2026-01-14T13:00:43+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "Recovering from their fight with the Queen of Vanity, the team returns to the Shrine of the Great Flame where they grow stronger and purchase upgrades while The Real Boy has an emotional reunion with his father, the Craftsman. Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - Pinocchio: \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
-      "image_url": "https://media.redcircle.com/images/2026/1/11/20/6f00277f-1ca4-4b5d-a63a-6328b79f0346_dndark_presents_dndarksouls_square.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/6223e6d8-6bf6-458f-aa25-062d01c5b7b2/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "50232424",
-      "itunes_duration": "3139",
-      "speakers": [],
-      "topics": [
-        "dndark",
-        "presents",
-        "souls",
-        "bibidi",
-        "bobbidi",
-        "boutique"
-      ]
-    },
-    {
       "key": "be01429a97521510a34b3248d4559c18f966f4c9",
       "title": "Table Talk - Interview with Sammy Glicker (Dungeons and Cabins)",
-      "published_at": "2026-01-07T13:00:50+00:00",
+      "published_at": "2025-10-27T12:00:50+00:00",
       "link": "https://www.dndarkpodcast.com/",
       "description": "The Twenty-third episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Sammy Glicker, a writer, improvisor, GM, and creator of the TTRPG sleepaway camp: Dungeons & Cabins. The interview discusses the Dungeons and Cabins event, what goes into forming a creative venture like D&C, and the kinds of things that make for a GM valuable in an event setting. Check out Sammy's work: Info about Dungeons and Cabins: https://www.dungeonsandcabins.com Dungeons and Cabins Instagram: https://www.instagram.com/dungeonsandcabins/ Sammy's Instagram: https://www.instagram.com/glickity/ Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
       "image_url": "https://media.redcircle.com/images/2025/12/9/23/fed4d264-f741-4923-b3c5-59716951f281_dndark_interview_thimbnail.jpg",
@@ -338,28 +434,9 @@
       ]
     },
     {
-      "key": "5c6cb8e0c21900193975803d90c54bf4bb6d574a",
-      "title": "DnDark Presents: DnDark Souls Ep. 4: Fairest of them All",
-      "published_at": "2025-12-31T13:00:12+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "Contains: Gore The team faces their toughest foe yet. The first of the Vile ones, The Queen of Vanity... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
-      "image_url": "https://media.redcircle.com/images/2025/12/24/5/ba00ea7e-aec2-45de-9cb5-92dd4ff1251f_dndark_presents_dndarksouls_square.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/a3ec05c3-e697-4849-90a4-e2b7d4ee3bbe/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "60489142",
-      "itunes_duration": "3780",
-      "speakers": [],
-      "topics": [
-        "dndark",
-        "presents",
-        "souls",
-        "fairest"
-      ]
-    },
-    {
       "key": "c04ea0285c5508681346d81b4636980642b717c5",
       "title": "Table Talk - Interview with James Haeck",
-      "published_at": "2025-12-17T13:00:50+00:00",
+      "published_at": "2025-10-26T12:00:50+00:00",
       "link": "https://www.dndarkpodcast.com/",
       "description": "The Twenty-second episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with James Haeck: former lead writer for DnDBeyond; co-creator of works like Waterdeep: Dragon Heist, Baldur's Gate: Descent into Avernus, Explorer's Guide to Wildemount, and Critical Role: Tal'Dori Campaign Setting Reborn; co-host of the Eldritch Lorecast podcast; and GM/Lead writer for Dungeons & Cabins. The interview discusses the 2025 Dungeons and Cabins event, James' wisdom on the subject of writing and designing, and methods for staying creatively inspired and avoiding burnout. Check out James's work: Info about Dungeons and Cabins: https://www.dungeonsandcabins.com Listen to the Eldritch Lorecast: Spotify: https://open.spotify.com/show/5EW3iItCF2WuyP02dCRrym Apple Podcasts: https://podcasts.apple.com/us/podcast/the-eldritch-lorecast/id1589018435 Youtube: https://www.youtube.com/playlist?list=PLxVGbnfPrq-RE5iupBuAurpoCawstbNPK Watch live on Twitch: https://www.twitch.tv/ghostfire_official Follow James on Social Media: Bluesky: https://bsky.app/profile/jamesjhaeck.bsky.social Twitter: https://x.com/jamesjhaeck Instagram: https://instagram.com/joeyhaeck Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
       "image_url": "https://media.redcircle.com/images/2025/11/20/8/e9f10d6a-f5be-4bb0-9f8e-9bdaa60c4832_dndark_interview_thimbnail.jpg",
@@ -378,30 +455,9 @@
       ]
     },
     {
-      "key": "632024dcd6af41fb290adaad713574fd9cd9f619",
-      "title": "DnDark Presents: DnDark Souls Ep. 3: Heart to Heart",
-      "published_at": "2025-12-10T13:00:40+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "The team infiltrate Ebony Castle and maneuver their way towards The Queen of Vanity, along the way confronting the castle's defenses, the Queen's prisoners, and the resurfacing of memories that challenge what the party thought they knew about themselves... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
-      "image_url": "https://media.redcircle.com/images/2025/12/7/3/b1c319b6-159b-4815-9846-3364560281cb_dndark_presents_dndarksouls_square.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/f7a17055-1d82-4d7a-99ed-01af83797a3e/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "67004290",
-      "itunes_duration": "4187",
-      "speakers": [
-        "Ebony Castle"
-      ],
-      "topics": [
-        "dndark",
-        "presents",
-        "souls",
-        "heart"
-      ]
-    },
-    {
       "key": "311ce94376562c34065c1cc42b119d0f3ba75144",
       "title": "Table Talk - Interview with Michael (Epic Tales & Critical Fails)",
-      "published_at": "2025-12-03T13:00:22+00:00",
+      "published_at": "2025-10-25T12:00:22+00:00",
       "link": "https://www.dndarkpodcast.com/",
       "description": "The Tweny-first episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Michael, the GM and host of the Pathfinder 2e Remaster Actual Play podcast, Epic Tales & Critical Fails. The interview discusses some of the nuances of Pathfinder and in the importance of finding hobbies like podcasting to keep close friend groups together. Check out Michael's work: Listen Epic Tales & Critical Fails: Spotify https://shorturl.at/d5Jf7 Amazon: https://shorturl.at/SHwLT Apple https://shorturl.at/flLPz Youtube: https://shorturl.at/T3Dat Follow Epic Tales & Critical Fails on social media: Bluesky: https://bsky.app/profile/etalesandcritfails.bsky.social Instagram: https://www.instagram.com/epictalesandcriticalfails Facebook: https://www.facebook.com/profile.php?id=61565449044244 Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
       "image_url": "https://media.redcircle.com/images/2025/11/10/12/fc1b15af-bbeb-4796-a0c6-6d8f191a8d7b_dndark_interview_thimbnail.jpg",
@@ -423,7 +479,7 @@
     {
       "key": "91ad564d669cc0afa2e31344c410fb2aaccbb470",
       "title": "Table Talk - Interview with Shannon Strucci (Oddity Roadshow)",
-      "published_at": "2025-11-19T13:00:32+00:00",
+      "published_at": "2025-10-24T12:00:32+00:00",
       "link": "https://www.dndarkpodcast.com/",
       "description": "The Twentieth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Shannon Strucci, a Player, Writer, film enthusiast and cast member of the Do You Validate Network's most recent Actual Play podcast, Oddity Roadshow. The interview discusses some of the thought process behind playing more morally dubious characters and some of the differences between stand-up comedy and improv. Check out Shannon's work: Do You Validate Network's Website: https://www.doyouvalidate.com/do-you-validate-network Oddity Roadshow's Website: https://www.oddityroadshow.com/ About Avarice Hotel: https://www.rascal.news/avarice-hotel-a-brand-new-video-ap-series-from-do-you-validate/ Shannon's YouTube Channel: https://www.youtube.com/c/struccimovies Shannon's BlueSky: https://bsky.app/profile/strucci.bsky.social Info about the Blanksword JRPG: https://blanksword.carrd.co/ Rude Tales of Magic's Website: https://www.rudetalesofmagic.com/ Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
       "image_url": "https://media.redcircle.com/images/2025/10/28/0/12f1a524-20ad-4726-9085-2518ce07b465_dndark_interview_thimbnail.jpg",
@@ -442,30 +498,9 @@
       ]
     },
     {
-      "key": "e0396e36a67028352446da44eebd76b9e3075e74",
-      "title": "DnDark Presents: DnDark Souls Part 2: Into the Woods",
-      "published_at": "2025-11-12T13:00:43+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "After recovering from their encounter with Peter Gundyr, the team continues their trek onward towards Ebony Castle to face off against The Queen of Vanity. However, before they can take on the first of the Vile Ones, they must navigate their way through The Deadwood Forest and face the castle's defenses and the resurfacing of their own murky memories... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
-      "image_url": "https://media.redcircle.com/images/2025/11/3/9/db20d245-276e-49a6-9ee0-e7de18b43f72_dndark_presents_dndarksouls_square.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/b3397dd6-fd7a-4876-9ca6-0f35c3fc6a69/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "86080365",
-      "itunes_duration": "5380",
-      "speakers": [
-        "Peter Gundyr"
-      ],
-      "topics": [
-        "dndark",
-        "presents",
-        "souls",
-        "wood"
-      ]
-    },
-    {
       "key": "7e17f64915e948e9e9ed9df09805354fdd5b2db6",
       "title": "Table Talk - Interview with Jonathon Greenall (StarshineScribbles)",
-      "published_at": "2025-11-05T13:00:38+00:00",
+      "published_at": "2025-10-23T12:00:38+00:00",
       "link": "https://www.dndarkpodcast.com/",
       "description": "The Nineteenth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Jonathon Greenall AKA StarshineScribbles, a Player, GM, Writer, TTRPG designer, and cast member of the CRIT Award winning series TheQueerXP. The interview discusses the creative process and how to more successfully and consistently finish projects. Check out Jonathon's work: Jonathon's Website: https://starshinescribbles.com/ Jonathon's Games: https://starshinescribbles.itch.io/ Jonathon's BlueSky: https://bsky.app/profile/starshinescribbles.bsky.social The Library of Words Project: https://libraryofwords.com/ The TTRPG Resources Masterpost: https://starshinescribbles.com/ttrpg-resources-masterpost/ Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
       "image_url": "https://media.redcircle.com/images/2025/10/19/20/1e7a8ab5-df41-4c6b-9e26-72fe571d1b7f_dndark_interview_thimbnail.jpg",
@@ -480,24 +515,6 @@
         "jonathon",
         "greenall",
         "starshinescribbles"
-      ]
-    },
-    {
-      "key": "16f2a88a8bc56301e27560be8fc26613fe4bb160",
-      "title": "DnDark Presents: DnDark Souls Part 1: And They All Lived...",
-      "published_at": "2025-10-29T12:00:08+00:00",
-      "link": "https://www.dndarkpodcast.com/",
-      "description": "Contains: Gore, Elements of Body Horror The Kingdom of Phantasia is under siege in an endless war against The Vile Ones, and The Great Flame that sustains the land is at risk. After countless years of fighting, and after several of the most promising foot soldiers have either fallen or been turned, five Ashen Ones are raised from the dead to continue the fight in a last desperate effort to prevent darkness from subsuming the land. The last hope for Phantasia rests on the shoulders of five warriors of...questionable effectiveness...and dubious morality... Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
-      "image_url": "https://media.redcircle.com/images/2025/10/22/7/91022dc0-af5f-40fb-94b4-b61e4d64e7f7_dndark_presents_dndarksouls_square.jpg",
-      "enclosure_url": "https://audio4.redcircle.com/episodes/871bb339-58db-498b-b362-e6164a2d4168/stream.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "87343438",
-      "itunes_duration": "5458",
-      "speakers": [],
-      "topics": [
-        "dndark",
-        "presents",
-        "souls"
       ]
     },
     {
@@ -601,7 +618,7 @@
     },
     {
       "key": "f5afccee30d80197f941fa97c4ff776f226ae0dd",
-      "title": "DnDark Presents: DnDetectives Part 2",
+      "title": "D&Dark Presents: DnDetectives Part 2",
       "published_at": "2025-08-20T12:00:28+00:00",
       "link": "https://www.dndarkpodcast.com/",
       "description": "The mystery is underway and more bodies continue to pile up! Can the sleuths solve the case before they run out of suspects to interrogate? Cast: Aaron Kaufhold - GM Jordan Nelson - Colton Bumbo Daniel Cruz - Detective Guillermo Gizmo \"Danger\" Dan Jerz - Molly Marbles Grayson Norman - Deklan Raymond, PI Ben Magnet - Officer Cooper Copperson the 6th Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Kim Nahuel Additional Music sourced from FreeMusicArchives: Stanley by Mr. Smith - https://freemusicarchive.org/music/mr-smith/kerplunk/stanley/ Bin Der Boss by LoboLoco - https://freemusicarchive.org/music/Lobo_Loco/free-for-you-cc-by/bin-der-boss-hiphop-id-2331/ Delete by Joint C Beat Laboratory - https://freemusicarchive.org/music/jcbl/tales-from-underground-vol1/delete/ Bad Trip by Joint C Beat Laboratory - https://freemusicarchive.org/music/jcbl/tales-from-underground-vol1/bad-trip/ Viper by Joint C Beat Laboratory - https://freemusicarchive.org/music/jcbl/tales-from-underground-vol3/viper/ Ra by Joint C Beat Laboratory - https://freemusicarchive.org/music/jcbl/tales-from-underground-vol2/ra/ Pholcidae by A Cooper - https://freemusicarchive.org/music/a-cooper/ac3/pholcidae/ Isolated by A Cooper - https://freemusicarchive.org/music/a-cooper/the-anthony-cooper-abm/isolated/ Phobia by A Cooper - https://freemusicarchive.org/music/a-cooper/ac3/phobia/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
@@ -610,16 +627,17 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107099533",
       "itunes_duration": "6693",
-      "speakers": [],
+      "speakers": [
+        "Dark Presents"
+      ],
       "topics": [
-        "dndark",
         "presents",
         "dndetectives"
       ]
     },
     {
       "key": "a85ac0de9fcc478d6241504b91c02768106c44cf",
-      "title": "DnDark Presents: DnDetectives Part 1",
+      "title": "D&Dark Presents: DnDetectives Part 1",
       "published_at": "2025-08-13T12:00:57+00:00",
       "link": "https://www.dndarkpodcast.com/",
       "description": "There's been a murder at the Disco Mansion! In this Comedy/Mystery one-shot loosely Based on the Kids on Bikes TTRPG, an eclectic group of 5 mystery solvers are brought together at a homecoming party celebrating the return of Dean Halloran, son of the well known local drug lord \"Disco\" Dierdre Halloran. But the party is cut short by the sudden murder of \"Disco\" Dierdre. The game is afoot and the sleuths have sprung into action! Cast: Aaron Kaufhold - GM Jordan Nelson - Colton Bumbo Daniel Cruz - Detective Guillermo Gizmo \"Danger\" Dan Jerz - Molly Marbles Grayson Norman - Deklan Raymond, PI Ben Magnet - Officer Cooper Copperson the 6th Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Kim Nahuel Additional Music sourced from FreeMusicArchives: Stanley by Mr. Smith - https://freemusicarchive.org/music/mr-smith/kerplunk/stanley/ Bin Der Boss by LoboLoco - https://freemusicarchive.org/music/Lobo_Loco/free-for-you-cc-by/bin-der-boss-hiphop-id-2331/ Delete by Joint C Beat Laboratory - https://freemusicarchive.org/music/jcbl/tales-from-underground-vol1/delete/ Bad Trip by Joint C Beat Laboratory - https://freemusicarchive.org/music/jcbl/tales-from-underground-vol1/bad-trip/ Viper by Joint C Beat Laboratory - https://freemusicarchive.org/music/jcbl/tales-from-underground-vol3/viper/ Ra by Joint C Beat Laboratory - https://freemusicarchive.org/music/jcbl/tales-from-underground-vol2/ra/ Pholcidae by A Cooper - https://freemusicarchive.org/music/a-cooper/ac3/pholcidae/ Isolated by A Cooper - https://freemusicarchive.org/music/a-cooper/the-anthony-cooper-abm/isolated/ Phobia by A Cooper - https://freemusicarchive.org/music/a-cooper/ac3/phobia/ Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
@@ -629,10 +647,10 @@
       "enclosure_length": "60627905",
       "itunes_duration": "3789",
       "speakers": [
+        "Dark Presents",
         "Disco Mansion"
       ],
       "topics": [
-        "dndark",
         "presents",
         "dndetectives"
       ]
@@ -2570,36 +2588,37 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — Table Talk - Interview with Dan (DnD404)
 - 2026-05-20 — Table Talk - Interview with 5 GMs in a Trenchcoat
-- 2026-05-06 — DnDark Presents: DnDark Souls Finale: ...Happily Ever After?
-- 2026-04-29 — Table Talk - Interview with Mike (Arcane Circle)
-- 2026-04-22 — DnDark Presents: DnDark Souls Part 10: Knight on Bald Mountain — speakers: Bald Mountain
-- 2026-04-08 — Table Talk - Interview with Olivia (Cozy Crypt) — speakers: Cozy Crypt
-- 2026-04-01 — DnDark Presents: DnDark Souls Part 9: Once Upon a Dream
-- 2026-03-25 — Table Talk - Interview with Jason Cordova — speakers: Jason Cordova
-- 2026-03-11 — DnDark Presents: DnDark Souls Part 8: A Knight's Tale
-- 2026-03-04 — Table Talk - Interview with Mayanna Berrin — speakers: Mayanna Berrin
-- 2026-02-25 — DnDark Presents: DnDark Souls Part 7: Sister Act
-- 2026-02-11 — Table Talk - Interview with Eliam Weinstock (DicePotDM) — speakers: Eliam Weinstock
-- 2026-02-04 — DnDark Presents: DnDark Souls Part 6: Cat and Mouse Game — speakers: Mouse Game, Mild Gore
-- 2026-01-28 — Table Talk - Interview with Zach Macias (GamesWithZach) — speakers: Zach Macias
-- 2026-01-14 — DnDark Presents: DnDark Souls Part 5: Bibidi Bobbidi Boutique
-- 2026-01-07 — Table Talk - Interview with Sammy Glicker (Dungeons and Cabins) — speakers: Sammy Glicker
-- 2025-12-31 — DnDark Presents: DnDark Souls Ep. 4: Fairest of them All
-- 2025-12-17 — Table Talk - Interview with James Haeck — speakers: James Haeck
-- 2025-12-10 — DnDark Presents: DnDark Souls Ep. 3: Heart to Heart — speakers: Ebony Castle
-- 2025-12-03 — Table Talk - Interview with Michael (Epic Tales & Critical Fails)
-- 2025-11-19 — Table Talk - Interview with Shannon Strucci (Oddity Roadshow)
-- 2025-11-12 — DnDark Presents: DnDark Souls Part 2: Into the Woods — speakers: Peter Gundyr
-- 2025-11-05 — Table Talk - Interview with Jonathon Greenall (StarshineScribbles)
-- 2025-10-29 — DnDark Presents: DnDark Souls Part 1: And They All Lived...
+- 2026-05-09 — Table Talk - Interview with Mike (Arcane Circle)
+- 2026-05-08 — Table Talk - Interview with Olivia (Cozy Crypt) — speakers: Cozy Crypt
+- 2026-05-07 — Table Talk - Interview with Jason Cordova — speakers: Jason Cordova
+- 2026-05-06 — D&Dark Presents: DnDark Souls Finale: ...Happily Ever After?
+- 2026-04-22 — D&Dark Presents: DnDark Souls Part 10: Knight on Bald Mountain — speakers: Bald Mountain
+- 2026-04-01 — D&Dark Presents: DnDark Souls Part 9: Once Upon a Dream
+- 2026-03-11 — D&Dark Presents: DnDark Souls Part 8: A Knight's Tale
+- 2026-02-25 — D&Dark Presents: DnDark Souls Part 7: Sister Act
+- 2026-02-04 — D&Dark Presents: DnDark Souls Part 6: Cat and Mouse Game — speakers: Mouse Game, Mild Gore
+- 2026-01-14 — D&Dark Presents: DnDark Souls Part 5: Bibidi Bobbidi Boutique
+- 2025-12-31 — D&Dark Presents: DnDark Souls Ep. 4: Fairest of them All
+- 2025-12-10 — D&Dark Presents: DnDark Souls Ep. 3: Heart to Heart — speakers: Ebony Castle
+- 2025-11-12 — D&Dark Presents: DnDark Souls Part 2: Into the Woods — speakers: Peter Gundyr
+- 2025-10-29 — D&Dark Presents: DnDark Souls Part 1: And They All Lived...
+- 2025-10-28 — Table Talk - Interview with Mayanna Berrin — speakers: Mayanna Berrin
+- 2025-10-28 — Table Talk - Interview with Eliam Weinstock (DicePotDM) — speakers: Eliam Weinstock
+- 2025-10-28 — Table Talk - Interview with Zach Macias (GamesWithZach) — speakers: Zach Macias
+- 2025-10-27 — Table Talk - Interview with Sammy Glicker (Dungeons and Cabins) — speakers: Sammy Glicker
+- 2025-10-26 — Table Talk - Interview with James Haeck — speakers: James Haeck
+- 2025-10-25 — Table Talk - Interview with Michael (Epic Tales & Critical Fails)
+- 2025-10-24 — Table Talk - Interview with Shannon Strucci (Oddity Roadshow)
+- 2025-10-23 — Table Talk - Interview with Jonathon Greenall (StarshineScribbles)
 - 2025-10-22 — Table Talk - Interview with Izzy (LadyLike)
 - 2025-10-08 — Table Talk - Interview with Ty (Side Character Quest)
 - 2025-09-24 — Table Talk - Interview with Julia Labusch — speakers: Julia Labusch
 - 2025-09-10 — Table Talk - Interview with Jellyfishlines — speakers: Targeted Censorship
 - 2025-08-27 — Table Talk - Interview with Danny (The Thorne Files)
-- 2025-08-20 — DnDark Presents: DnDetectives Part 2
-- 2025-08-13 — DnDark Presents: DnDetectives Part 1 — speakers: Disco Mansion
+- 2025-08-20 — D&Dark Presents: DnDetectives Part 2 — speakers: Dark Presents
+- 2025-08-13 — D&Dark Presents: DnDetectives Part 1 — speakers: Dark Presents, Disco Mansion
 - 2025-08-06 — Table Talk - Interview with Chriss (Professional Questers)
 - 2025-07-23 — Table Talk - Interview with Enzo (WorldsOfEnzo)
 - 2025-07-09 — Table Talk - Interview with Liv (Momento Talis)

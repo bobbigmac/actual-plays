@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-05-22T20:13:42+00:00`
-- checked_at: `2026-05-22T20:13:42+00:00`
-- last_modified: `Fri, 22 May 2026 16:09:51 GMT`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- last_modified: `Fri, 05 Jun 2026 12:58:48 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-22T20:13:42+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,30 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "2e652996b3ddba28bf55f00ec41eb6619a4f9db9",
+      "title": "Star Borg: Tango Squad #3",
+      "published_at": "2026-05-29T16:00:00+00:00",
+      "link": null,
+      "description": "Chaos is erupting across the Crimson Crystal Casino as imperial security forces scramble to wrestle control and hunt down the saboteurs. With the promotion of one petty criminal to public enemy number 1 it won't be long until Tango Squad's trail of destruction catches up with them... Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/joinCommunity Discord: https://discord.gg/z2NW53APFaMerch: https://mystery-quest-shop.fourthwall.com/en-gbpMembers and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire!Check out STAR BORG by JP Coovert here: https://jpcoovert.com/products/star-borgand watch his great TTRPG content over on his YouTube channel: @JPCoovert Podcast: https://www.pickaxe.uk/mystery-questPatreon link: https://www.patreon.com/MysteryQuestFollow the Cast:Tom: https://www.youtube.com/angorytomHarry: https://www.twitch.tv/hrryBen: https://www.youtube.com/@GamesNightDuncan: https://www.youtube.com/@duncanLewis: @yogscast Editing & Sound Design: Oscar HendersonThumbnail Art: Jack BaileyThe amazing Star Wars music is created by Luis Humanoide: https://luishumanoide.bandcamp.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR7763519001.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5084",
+      "speakers": [
+        "Star Borg",
+        "Tango Squad",
+        "Crimson Crystal Casino",
+        "Tom Bates"
+      ],
+      "topics": [
+        "star",
+        "borg",
+        "tango",
+        "squad"
+      ]
+    },
     {
       "key": "3a50d94b237e70fbe86cc2218421233c2ad6f432",
       "title": "Star Borg: Tango Squad #2",
@@ -2928,6 +2952,45 @@
       ]
     },
     {
+      "key": "5af1955d46892f46225b91f7465ec627c5ecc018",
+      "title": "Call of Cthulhu: The Disintegrator #1",
+      "published_at": "2023-09-09T17:00:00+00:00",
+      "link": null,
+      "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests. Today we are plunging into the murky depths of Call of Cthulhu on an adventure called The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2871946006.mp3?updated=1707495263",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4347",
+      "speakers": [
+        "Mystery Quest",
+        "Tom Bates"
+      ],
+      "topics": [
+        "cthulhu",
+        "disintegrator"
+      ]
+    },
+    {
+      "key": "1eca22755a0101b7dd1965525d648220ad5556b4",
+      "title": "Call of Cthulhu: The Disintegrator #2",
+      "published_at": "2023-09-09T17:00:00+00:00",
+      "link": null,
+      "description": "The investigators have made their way to The White Point Hotel where they are going to witness a demonstration of a mysterious new weapon that can supposedly destroy all matter. They must now work out whether the weapon is an elaborate hoax or if it is indeed the super weapon that has been promised. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR3581887226.mp3?updated=1707495579",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4387",
+      "speakers": [
+        "Tom Bates"
+      ],
+      "topics": [
+        "cthulhu",
+        "disintegrator"
+      ]
+    },
+    {
       "key": "cd447fcdfcfeec04fe6283bb0510fbe54ec1f480",
       "title": "MÖRK BORG: The Goblin Grinder #1",
       "published_at": "2023-09-09T17:00:00+00:00",
@@ -2966,45 +3029,6 @@
         "cthulhu",
         "disintegrator"
       ]
-    },
-    {
-      "key": "5af1955d46892f46225b91f7465ec627c5ecc018",
-      "title": "Call of Cthulhu: The Disintegrator #1",
-      "published_at": "2023-09-09T17:00:00+00:00",
-      "link": null,
-      "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests. Today we are plunging into the murky depths of Call of Cthulhu on an adventure called The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2871946006.mp3?updated=1707495263",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4347",
-      "speakers": [
-        "Mystery Quest",
-        "Tom Bates"
-      ],
-      "topics": [
-        "cthulhu",
-        "disintegrator"
-      ]
-    },
-    {
-      "key": "1eca22755a0101b7dd1965525d648220ad5556b4",
-      "title": "Call of Cthulhu: The Disintegrator #2",
-      "published_at": "2023-09-09T17:00:00+00:00",
-      "link": null,
-      "description": "The investigators have made their way to The White Point Hotel where they are going to witness a demonstration of a mysterious new weapon that can supposedly destroy all matter. They must now work out whether the weapon is an elaborate hoax or if it is indeed the super weapon that has been promised. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR3581887226.mp3?updated=1707495579",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4387",
-      "speakers": [
-        "Tom Bates"
-      ],
-      "topics": [
-        "cthulhu",
-        "disintegrator"
-      ]
     }
   ]
 }
@@ -3013,6 +3037,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-29 — Star Borg: Tango Squad #3 — speakers: Star Borg, Tango Squad, Crimson Crystal Casino, Tom Bates
 - 2026-05-22 — Star Borg: Tango Squad #2 — speakers: Tom Bates
 - 2026-05-15 — Star Borg: Tango Squad #1 — speakers: Star Borg, Tango Squad, Tom Bates
 - 2026-05-08 — Call of Cthulhu: DeadFellas #3 — speakers: Tom Bates
@@ -3155,7 +3180,7 @@
 - 2023-09-30 — MÖRK BORG: The Goblin Grinder #4 — speakers: Tom Bates
 - 2023-09-23 — MÖRK BORG: The Goblin Grinder #3 — speakers: Tom Bates
 - 2023-09-16 — MÖRK BORG: The Goblin Grinder #2 — speakers: Tom Bates
-- 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates
-- 2023-09-09 — Call of Cthulhu: The Disintegrator #3 — speakers: Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Mystery Quest, Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #2 — speakers: Tom Bates
+- 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates
+- 2023-09-09 — Call of Cthulhu: The Disintegrator #3 — speakers: Tom Bates

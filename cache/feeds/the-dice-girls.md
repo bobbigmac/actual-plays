@@ -2,9 +2,9 @@
 
 - slug: `the-dice-girls`
 - source: `https://thedicegirls.podbean.com/feed.xml`
-- fetched_at: `2026-04-14T03:44:53+00:00`
-- checked_at: `2026-04-14T03:44:53+00:00`
-- etag: `"c52843a911fc50effb486767fa04c5c6"`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"3768e4ef575c42293c679e4a1e32332e"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedicegirls.podbean.com",
   "description": "Join DM Becca, Ash, and Alexa as they are off on their latest D&D adventure!",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/3612512/Dragons_Logo90p3b.jpg",
-  "fetched_at": "2026-04-14T03:44:53+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,22 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "230d8a3dcf6b499efd90090c38150bedc8acc011",
+      "title": "26. To get to the Other Side",
+      "published_at": "2026-05-30T19:21:35+00:00",
+      "link": "https://thedicegirls.podbean.com/e/26-to-get-to-the-other-side/",
+      "description": "Our adventurers cross into the Hollow Hills. Elana does a bit of backtracking. Kaida feels unprepared. Marv...wait, who's Marv?",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/7cxhgjqicdyb9m8n/Episode_26_Final8k1du.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67441210",
+      "itunes_duration": "2810",
+      "speakers": [],
+      "topics": [
+        "other"
+      ]
+    },
     {
       "key": "a58cd3edd542860dd510dee728d643e7e8c576c3",
       "title": "25. The Battle's Aftermath",
@@ -3252,6 +3268,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-30 — 26. To get to the Other Side
 - 2026-04-13 — 25. The Battle's Aftermath
 - 2026-04-01 — 24. Battling the Storm, Literally (Part 2)
 - 2026-03-17 — 23. Battling the Storm (Literally), Pt. 1

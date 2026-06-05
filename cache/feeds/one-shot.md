@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-05-24T22:13:26+00:00`
-- checked_at: `2026-05-24T22:13:26+00:00`
-- last_modified: `Sun, 24 May 2026 19:48:54 GMT`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- last_modified: `Tue, 26 May 2026 19:54:46 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/8e75fc9d6dbbc2142cca11c14acfdea1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-24T22:13:26+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "06ef557e4d0f5e2629597cdaf4b0a8388e275db6",
+      "title": "651. Anamnesis",
+      "published_at": "2026-05-26T19:00:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY Dillin plays Anamnesis, a game about recovering lost memories, to explore the past of Eloise, from the Realis One Shot. SHOW NOTES Anamnesis One Shot News & Updates One Shot Patreon One Shot TWITCH Ultimate RPG Villain Backstory Guide Follow the cast here! Dillin Apelyan ----------------------------------------------------- Support WotC staff as they try to unionize! Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Collapse Into Obscurity, Dr Delight Tempest, Falls Hunter, Falls Runner, Falls Mysterious Grove, Cast Of Characters The Diary, CJ0 Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN8832828250.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2493",
+      "speakers": [
+        "James D'Amato"
+      ],
+      "topics": [
+        "anamnesis"
+      ]
+    },
     {
       "key": "8b84646734a25922e830d29a39fac1f85d5a0daa",
       "title": "FEED DROP || This Should Be A Game! Apollo 13 (1995) feat. Dillin",
@@ -13294,6 +13312,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-26 — 651. Anamnesis — speakers: James D'Amato
 - 2026-05-18 — FEED DROP || This Should Be A Game! Apollo 13 (1995) feat. Dillin — speakers: Dillin Check, Jess Levine, James D'Amato
 - 2026-05-13 — 650. Perils and Princesses, Episode 2 — speakers: Night Market, James D'Amato
 - 2026-05-04 — 649. Perils and Princesses, Episode 1 — speakers: James D'Amato

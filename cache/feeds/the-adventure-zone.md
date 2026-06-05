@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-05-16T04:05:18+00:00`
-- checked_at: `2026-05-16T04:05:18+00:00`
-- etag: `"77f6caaaddfc1696336443bbe767ee98"`
-- last_modified: `Fri, 15 May 2026 23:54:09 GMT`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"778c582d4ed40843dfa23e4cf73a4cc0"`
+- last_modified: `Thu, 28 May 2026 11:00:16 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-05-16T04:05:18+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "e0a94c21496312a586a1f170f392ea2d00e5149c",
+      "title": "The Adventure Zone Royale: Episode 25",
+      "published_at": "2026-05-28T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-royale-episode-25-6_i5yPaQ",
+      "description": "The Trial of Necromancy, Part IV With dawn and victory in sight, the competitors decide their best bet is to work together. But despite their efforts at diplomacy, more fall to the zombie hoards, dragged down by those they have wronged. Royale Theme: “Wizard Disco” by Louie Zong: https://louiezong.bandcamp.com/album/wizard-disco Original Music by Griffin McElroy Additional Music in this Episode: \"Chewing Devil Grass\", \"Palaver\", and \"Skin Writhes Anxious\" by ROZKOL: https://rozkol.bandcamp.com/; “If You Can't be the Sun, Be the Sun” by Schemawound http://schemawound.com/; \"Circus Minute\" by Orion Williams: https://toolofgod.com/; \"Ancient Winds\" by Kevin MacLeod: https://incompetech.com/; and \"Simple Song\" by Jar of Flies: https://jaroffliesofficial.bandcamp.com/. Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
+      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/03343c23-3b38-4565-b1df-332bb01dc622/3000x3000/tazroyalecoverresizedforsite.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/140a5f70-b671-4054-9119-08fffe35789d/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=140a5f70-b671-4054-9119-08fffe35789d&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65973965",
+      "itunes_duration": "01:03:49",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "royale"
+      ]
+    },
     {
       "key": "3262af7134f8e8e6130eea709e31b8f971647d25",
       "title": "The Adventure Zone Royale: Episode 24",
@@ -7974,6 +7992,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-28 — The Adventure Zone Royale: Episode 25
 - 2026-05-14 — The Adventure Zone Royale: Episode 24
 - 2026-04-30 — The Adventure Zone Royale: Episode 23
 - 2026-04-23 — The Adventure Zone Versus A Midsummer Night’s Dream: Live in Columbus! — speakers: Midsummer Night

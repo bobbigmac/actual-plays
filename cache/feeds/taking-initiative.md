@@ -2,10 +2,10 @@
 
 - slug: `taking-initiative`
 - source: `https://takinginitiativepodcast.libsyn.com/rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"0ad5bb6791aa7f499fd65c1c96ad546b"`
-- last_modified: `Mon, 15 Dec 2025 06:30:36 GMT`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"1ce876dc9f9e5fc4693bdbf1f04ead0b"`
+- last_modified: `Fri, 29 May 2026 14:51:13 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://takinginitiativepodcast.libsyn.com/rss",
   "description": "An actual-play podcast with an audio drama feel.",
   "image_url": "https://static.libsyn.com/p/assets/b/3/4/f/b34fddd1083cf4df40be95ea3302a6a1/TI_S3_Album_20221211_01_jp.png",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,16 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39362559",
       "itunes_duration": "41:01",
-      "speakers": [
-        "Magic Escape Room",
-        "Kevin MacLeod Free",
-        "Kevin MacLeod",
-        "Alexander Nakarada",
-        "Frank Schroeter Free",
-        "Alexander Nakarada Free",
-        "pathfinder Licensed",
-        "Jon Buckmaster"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -63,16 +54,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46208312",
       "itunes_duration": "48:08",
-      "speakers": [
-        "Alexander Nakarada Free",
-        "Attribution License",
-        "Kevin MacLeod",
-        "Alexander Nakarada",
-        "Jon Buckmaster",
-        "Max Hadson",
-        "Caio Santos",
-        "Josh Perault"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -89,16 +71,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31259166",
       "itunes_duration": "32:34",
-      "speakers": [
-        "Alexander Nakarada",
-        "Frank Schroeter Free",
-        "Kevin MacLeod Free",
-        "Alexander Nakarada Free",
-        "pathfinder Licensed",
-        "Jon Buckmaster",
-        "Max Hadson TI",
-        "Caio Santos"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -115,16 +88,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43807554",
       "itunes_duration": "45:38",
-      "speakers": [
-        "Alexander Nakarada Free",
-        "Dark Hollows",
-        "Kevin MacLeod",
-        "Attribution License",
-        "Jon Buckmaster",
-        "Max Hadson TI",
-        "Caio Santos",
-        "Josh Perault"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -141,15 +105,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30264423",
       "itunes_duration": "31:32",
-      "speakers": [
-        "Alexander Nakarada Free",
-        "pathfinder Licensed",
-        "Jon Buckmaster",
-        "Max Hadson TI",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -166,16 +122,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61113990",
       "itunes_duration": "01:03:40",
-      "speakers": [
-        "Frank Schroeter Free",
-        "Alexander Nakarada Free",
-        "Kevin MacLeod Free",
-        "Alexander Nakarada",
-        "Justin Allan Arnold Free",
-        "Jon Buckmaster",
-        "Max Hadson TI",
-        "Caio Santos"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -192,16 +139,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49919372",
       "itunes_duration": "52:00",
-      "speakers": [
-        "Alexander Nakarada Free",
-        "pathfinder Licensed",
-        "Alexander Nakarada",
-        "Steven OBrien Free",
-        "Justin Allan Arnold Free",
-        "Kevin MacLeod Free",
-        "Jon Buckmaster",
-        "Max Hadson TI"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -218,16 +156,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69182692",
       "itunes_duration": "01:12:04",
-      "speakers": [
-        "Alexander Nakarada Free",
-        "pathfinder Licensed",
-        "Alexander Nakarada",
-        "Kevin MacLeod Free",
-        "Justin Allan Arnold Free",
-        "Kevin MacLeod",
-        "Jon Buckmaster",
-        "Max Hadson TI"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -245,14 +174,8 @@
       "enclosure_length": "47939081",
       "itunes_duration": "49:57",
       "speakers": [
-        "Kevin MacLeod Free",
-        "Alexander Nakarada Free",
-        "pathfinder Licensed",
-        "Alexander Nakarada",
-        "Jon Buckmaster",
-        "Max Hadson TI",
-        "Caio Santos",
-        "Josh Perault"
+        "Content Warning",
+        "Skull Fairies"
       ],
       "topics": [
         "sword",
@@ -270,15 +193,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47054261",
       "itunes_duration": "49:01",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Alexander Nakarada Free",
-        "Frank Schroeter Free",
-        "Kevin MacLeod Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -296,12 +211,7 @@
       "enclosure_length": "52626493",
       "itunes_duration": "54:50",
       "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "Alexander Nakarada Free"
+        "Floating Lakes"
       ],
       "topics": [
         "sword",
@@ -319,15 +229,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42037079",
       "itunes_duration": "43:48",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Justin Allan Arnold Free",
-        "Kevin MacLeod Free",
-        "Alexander Nakarada Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -345,13 +247,7 @@
       "enclosure_length": "36509569",
       "itunes_duration": "38:02",
       "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Alexander Nakarada Free",
-        "pathfinder Licensed",
-        "Justin Allan Arnold Free"
+        "First World"
       ],
       "topics": [
         "sword",
@@ -369,15 +265,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47470131",
       "itunes_duration": "49:27",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Alexander Nakarada Free",
-        "wayfarer Licensed",
-        "Justin Allan Arnold Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -394,16 +282,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51423189",
       "itunes_duration": "53:34",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "Alexander Nakarada Free",
-        "Justin Allan Arnold Free",
-        "Steven OBrien Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -420,15 +299,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44503457",
       "itunes_duration": "46:22",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Alexander Nakarada Free",
-        "pathfinder Licensed",
-        "Kevin MacLeod Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -445,16 +316,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35494764",
       "itunes_duration": "36:59",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Alexander Nakarada Free",
-        "Frank Schroeter Free",
-        "Steven OBrien Free",
-        "Rafael Krux Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -471,14 +333,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44104723",
       "itunes_duration": "45:57",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Justin Allan Arnold Free",
-        "Alexander Nakarada Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -495,16 +350,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44462497",
       "itunes_duration": "46:19",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "Justin Allan Arnold Free",
-        "Steven OBrien Free",
-        "arcadia Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -522,9 +368,7 @@
       "enclosure_length": "38471052",
       "itunes_duration": "40:05",
       "speakers": [
-        "Adventurers Website",
-        "Jon Buckmaster",
-        "Neil Martin"
+        "Distinguished Adventurers"
       ],
       "topics": [
         "distinguished",
@@ -544,8 +388,8 @@
       "enclosure_length": "33765667",
       "itunes_duration": "35:11",
       "speakers": [
-        "Jon Buckmaster",
-        "Neil Martin"
+        "Sanspants Radio",
+        "El Doncetto Man"
       ],
       "topics": [
         "sanspant",
@@ -566,16 +410,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34539728",
       "itunes_duration": "35:59",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Frank Schroeter Free",
-        "Alexander Nakarada Free",
-        "Kevin MacLeod Free",
-        "Justin Allan Arnold Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -592,15 +427,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49503920",
       "itunes_duration": "51:34",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Alexander Nakarada Free",
-        "Kevin MacLeod Free",
-        "Frank Schroeter Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -617,15 +444,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46373406",
       "itunes_duration": "48:19",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Alexander Nakarada Free",
-        "Kevin MacLeod Free",
-        "Justin Allan Arnold Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -642,15 +461,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35575012",
       "itunes_duration": "37:04",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "Justin Allan Arnold Free",
-        "Alexander Nakarada Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -667,14 +478,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35853373",
       "itunes_duration": "37:21",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "Justin Allan Arnold Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -691,16 +495,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36470699",
       "itunes_duration": "38:00",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Steven OBrien Free",
-        "Frank Schroeter Free",
-        "Kevin MacLeod Free",
-        "Justin Allan Arnold Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -717,14 +512,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47272854",
       "itunes_duration": "49:15",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "Alexander Nakarada Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -742,13 +530,7 @@
       "enclosure_length": "39930147",
       "itunes_duration": "41:36",
       "speakers": [
-        "Lemon Hunt",
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Alexander Nakarada Free",
-        "Kevin MacLeod Free"
+        "Lemon Hunt"
       ],
       "topics": [
         "sword",
@@ -766,14 +548,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57858506",
       "itunes_duration": "01:00:17",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "Alexander Nakarada Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -790,16 +565,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45085256",
       "itunes_duration": "46:58",
-      "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Alexander Nakarada Free",
-        "Kevin MacLeod Free",
-        "Frank Schroeter Free",
-        "Steven OBrien Free"
-      ],
+      "speakers": [],
       "topics": [
         "sword",
         "sidhe"
@@ -817,13 +583,7 @@
       "enclosure_length": "63794363",
       "itunes_duration": "01:06:28",
       "speakers": [
-        "Slim Jim",
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Alexander Nakarada Free",
-        "Kevin MacLeod Free"
+        "Slim Jim"
       ],
       "topics": [
         "sword",
@@ -842,14 +602,7 @@
       "enclosure_length": "64220681",
       "itunes_duration": "01:06:54",
       "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Alexander Nakarada Free",
-        "Rafael Krux Free",
-        "Kevin MacLeod Free",
-        "Steven OBrien Free"
+        "Taking Initiative"
       ],
       "topics": [
         "sword",
@@ -905,16 +658,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76504083",
       "itunes_duration": "01:19:42",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "Marty Gots",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "blood",
@@ -932,16 +676,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68979564",
       "itunes_duration": "01:11:52",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "Ominous Intro",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "blood"
@@ -958,16 +693,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30185011",
       "itunes_duration": "31:27",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "blood"
@@ -984,16 +710,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37817363",
       "itunes_duration": "39:24",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "Angel Waltz",
-        "Alexander Nakarada",
-        "starry License",
-        "UA Beast",
-        "Anne Gregersen"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "blood"
@@ -1010,16 +727,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30576639",
       "itunes_duration": "31:52",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "clean-soul License",
-        "Acid Trumpet",
-        "Frogs Legs Rag",
-        "UA Beast",
-        "Anne Gregersen"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "blood"
@@ -1036,16 +744,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49982483",
       "itunes_duration": "52:04",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "clean-soul License",
-        "Bardy College",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "blood"
@@ -1062,16 +761,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39085452",
       "itunes_duration": "40:43",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "Bardy College",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "blood"
@@ -1088,16 +778,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55727332",
       "itunes_duration": "58:03",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "blood"
@@ -1115,14 +796,7 @@
       "enclosure_length": "46131826",
       "itunes_duration": "48:04",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Chee Zee Caves",
-        "Kevin MacLeod Free",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way"
+        "Arc Finale"
       ],
       "topics": [
         "hekaton",
@@ -1140,16 +814,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35198013",
       "itunes_duration": "36:40",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "galway License",
-        "Kevin MacLeod Free",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way"
-      ],
+      "speakers": [],
       "topics": [
         "hekaton"
       ]
@@ -1165,16 +830,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40862196",
       "itunes_duration": "42:34",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod Free",
-        "galway License",
-        "Spy Glass",
-        "Bardy College",
-        "UA Beast",
-        "Anne Gregersen"
-      ],
+      "speakers": [],
       "topics": [
         "hekaton"
       ]
@@ -1191,14 +847,7 @@
       "enclosure_length": "61073030",
       "itunes_duration": "01:03:38",
       "speakers": [
-        "Bardy McFly",
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "Plucky Daisy",
-        "Spy Glass",
-        "UA Beast",
-        "Anne Gregersen"
+        "Bardy McFly"
       ],
       "topics": [
         "hekaton"
@@ -1216,14 +865,7 @@
       "enclosure_length": "39679372",
       "itunes_duration": "41:20",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "Grand Dame"
       ],
       "topics": [
         "hekaton"
@@ -1240,16 +882,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51630497",
       "itunes_duration": "53:47",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "hekaton"
       ]
@@ -1265,16 +898,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52849266",
       "itunes_duration": "55:04",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "hekaton"
       ]
@@ -1290,16 +914,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57953801",
       "itunes_duration": "01:00:23",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "hekaton"
       ]
@@ -1315,16 +930,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54156224",
       "itunes_duration": "56:25",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "hekaton"
       ]
@@ -1340,16 +946,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43352815",
       "itunes_duration": "45:10",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "Skye Cuillin",
-        "standard-license Willow",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass"
-      ],
+      "speakers": [],
       "topics": [
         "hekaton"
       ]
@@ -1365,16 +962,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91949765",
       "itunes_duration": "01:35:47",
-      "speakers": [
-        "Luciella Elisabeth Scarlett",
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "Hidden Agenda",
-        "Elton John Original",
-        "Bernie Taupin",
-        "Elton John Bonnie Binchicken"
-      ],
+      "speakers": [],
       "topics": [
         "birds"
       ]
@@ -1390,16 +978,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80720874",
       "itunes_duration": "01:24:06",
-      "speakers": [
-        "Luciella Elisabeth Scarlett",
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "Hidden Agenda",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass"
-      ],
+      "speakers": [],
       "topics": [
         "birds"
       ]
@@ -1416,14 +995,8 @@
       "enclosure_length": "37508492",
       "itunes_duration": "39:05",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "Conch Air",
+        "Arc Finale"
       ],
       "topics": [
         "conch",
@@ -1441,16 +1014,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30099329",
       "itunes_duration": "31:22",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Acid Trumpet",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way"
-      ],
+      "speakers": [],
       "topics": [
         "conch"
       ]
@@ -1467,14 +1031,7 @@
       "enclosure_length": "35488913",
       "itunes_duration": "36:59",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "Conch Air"
       ],
       "topics": [
         "conch"
@@ -1492,14 +1049,10 @@
       "enclosure_length": "49464214",
       "itunes_duration": "51:32",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "Conch Air",
+        "Operation Get",
+        "Dragon Out",
+        "Castle Unnoticed"
       ],
       "topics": [
         "conch"
@@ -1517,14 +1070,8 @@
       "enclosure_length": "28589243",
       "itunes_duration": "29:47",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "Conch Air",
+        "Cloud Giants"
       ],
       "topics": [
         "conch"
@@ -1542,14 +1089,8 @@
       "enclosure_length": "34688939",
       "itunes_duration": "36:09",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "Conch Air",
+        "Operation Moosion Impossible"
       ],
       "topics": [
         "conch"
@@ -1566,16 +1107,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54447541",
       "itunes_duration": "56:43",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "conch"
       ]
@@ -1592,14 +1124,7 @@
       "enclosure_length": "54356844",
       "itunes_duration": "56:38",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "Conch Air"
       ],
       "topics": [
         "conch"
@@ -1616,16 +1141,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47063874",
       "itunes_duration": "49:02",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "conch"
       ]
@@ -1642,14 +1158,7 @@
       "enclosure_length": "41240449",
       "itunes_duration": "42:58",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "Deadly Roulette",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way"
+        "Conch Air"
       ],
       "topics": [
         "conch"
@@ -1666,16 +1175,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50996452",
       "itunes_duration": "53:08",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "conch"
       ]
@@ -1692,14 +1192,7 @@
       "enclosure_length": "39857422",
       "itunes_duration": "41:32",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "Conch Air"
       ],
       "topics": [
         "conch"
@@ -1717,14 +1210,7 @@
       "enclosure_length": "31590190",
       "itunes_duration": "32:55",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "everything collected"
       ],
       "topics": [
         "zephy",
@@ -1744,16 +1230,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33277909",
       "itunes_duration": "34:40",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "zephy",
         "moving",
@@ -1771,16 +1248,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45807907",
       "itunes_duration": "47:43",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "zephy",
         "moving",
@@ -1799,14 +1267,7 @@
       "enclosure_length": "48275538",
       "itunes_duration": "50:18",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "Moving Castle"
       ],
       "topics": [
         "zephy",
@@ -1826,8 +1287,7 @@
       "enclosure_length": "1181257",
       "itunes_duration": "01:00",
       "speakers": [
-        "Marty Gots",
-        "Kevin MacLeod"
+        "Announcement Nick"
       ],
       "topics": [
         "birds",
@@ -1848,14 +1308,7 @@
       "enclosure_length": "62329834",
       "itunes_duration": "01:04:56",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Virtutes Instrumenti",
-        "Kevin MacLeod",
-        "Mourning Song",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass"
+        "Moving Castle"
       ],
       "topics": [
         "zephy",
@@ -1874,16 +1327,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45767365",
       "itunes_duration": "47:41",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Virtutes Instrumenti",
-        "Kevin MacLeod",
-        "Mystery Waltz",
-        "Alexander Nakarada",
-        "Mourning Song",
-        "UA Beast"
-      ],
+      "speakers": [],
       "topics": [
         "zephy",
         "moving",
@@ -1901,16 +1345,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43640789",
       "itunes_duration": "45:28",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Virtutes Instrumenti",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way"
-      ],
+      "speakers": [],
       "topics": [
         "zephy",
         "moving",
@@ -1928,16 +1363,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52985102",
       "itunes_duration": "55:12",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "Hidden Agenda",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way"
-      ],
+      "speakers": [],
       "topics": [
         "zephy",
         "moving",
@@ -1955,16 +1381,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61593390",
       "itunes_duration": "01:04:10",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "zephy",
         "moving",
@@ -1983,14 +1400,7 @@
       "enclosure_length": "28606379",
       "itunes_duration": "29:48",
       "speakers": [
-        "Goblin Raid",
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way"
+        "Goblin Raid"
       ],
       "topics": [
         "zephy",
@@ -2010,14 +1420,7 @@
       "enclosure_length": "53556034",
       "itunes_duration": "55:48",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "Moving Castle"
       ],
       "topics": [
         "zephy",
@@ -2036,16 +1439,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43884877",
       "itunes_duration": "45:43",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "zephy",
         "moving",
@@ -2064,14 +1458,7 @@
       "enclosure_length": "34074121",
       "itunes_duration": "35:30",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "Moving Castle"
       ],
       "topics": [
         "zephy",
@@ -2090,16 +1477,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57480253",
       "itunes_duration": "59:53",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "zephy",
         "moving",
@@ -2117,16 +1495,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35606359",
       "itunes_duration": "37:06",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Virtutes Vocis",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way"
-      ],
+      "speakers": [],
       "topics": [
         "zephy",
         "moving",
@@ -2145,14 +1514,7 @@
       "enclosure_length": "39083362",
       "itunes_duration": "40:43",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Spy Glass",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way"
+        "Moving Castle"
       ],
       "topics": [
         "zephy",
@@ -2172,14 +1534,7 @@
       "enclosure_length": "32449514",
       "itunes_duration": "33:49",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "Moving Castle"
       ],
       "topics": [
         "zephy",
@@ -2199,14 +1554,8 @@
       "enclosure_length": "53211218",
       "itunes_duration": "55:26",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "Moving Castle",
+        "Grandfather Tree"
       ],
       "topics": [
         "zephy",
@@ -2226,14 +1575,7 @@
       "enclosure_length": "35475956",
       "itunes_duration": "36:58",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "Moving Castle"
       ],
       "topics": [
         "zephy",
@@ -2253,14 +1595,7 @@
       "enclosure_length": "51913037",
       "itunes_duration": "54:05",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
+        "artifacts found"
       ],
       "topics": [
         "zephy",
@@ -2279,16 +1614,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58687737",
       "itunes_duration": "01:01:08",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "zephy",
         "moving",
@@ -2306,16 +1632,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49041657",
       "itunes_duration": "51:06",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "zephy",
         "moving",
@@ -2334,14 +1651,7 @@
       "enclosure_length": "45583881",
       "itunes_duration": "47:29",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "Sad Trio",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way"
+        "burial ground"
       ],
       "topics": [
         "zephy",
@@ -2360,16 +1670,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58933079",
       "itunes_duration": "01:01:24",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Spy Glass",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way"
-      ],
+      "speakers": [],
       "topics": [
         "zephy",
         "moving",
@@ -2387,16 +1688,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63651003",
       "itunes_duration": "01:06:19",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Rogue Multiclass",
-        "Fighter Multiclass Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "zephy",
         "moving",
@@ -2414,16 +1706,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37577455",
       "itunes_duration": "39:09",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "Rafael Krux",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "giants",
         "finale"
@@ -2440,15 +1723,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44233873",
       "itunes_duration": "46:05",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "giants"
       ]
@@ -2464,15 +1739,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41589027",
       "itunes_duration": "43:20",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "giants"
       ]
@@ -2488,16 +1755,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63220505",
       "itunes_duration": "01:05:52",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "Virtutes Instrumenti",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "giants"
       ]
@@ -2513,16 +1771,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48955558",
       "itunes_duration": "51:00",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "Virtutes Instrumenti",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "giants"
       ]
@@ -2538,15 +1787,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38212753",
       "itunes_duration": "39:49",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "giants"
       ]
@@ -2562,15 +1803,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48344501",
       "itunes_duration": "50:22",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "giants"
       ]
@@ -2587,13 +1820,7 @@
       "enclosure_length": "50224900",
       "itunes_duration": "52:20",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
+        "Few Good Giants"
       ],
       "topics": [
         "giants"
@@ -2611,13 +1838,7 @@
       "enclosure_length": "50123336",
       "itunes_duration": "52:13",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
+        "Few Good Giants"
       ],
       "topics": [
         "giants"
@@ -2635,13 +1856,8 @@
       "enclosure_length": "67321938",
       "itunes_duration": "01:10:08",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
+        "loot abound",
+        "giants down"
       ],
       "topics": [
         "giants"
@@ -2659,14 +1875,7 @@
       "enclosure_length": "46352090",
       "itunes_duration": "48:17",
       "speakers": [
-        "Bryn Shander",
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
+        "Bryn Shander"
       ],
       "topics": [
         "close",
@@ -2688,10 +1897,7 @@
       "enclosure_length": "64921599",
       "itunes_duration": "01:07:38",
       "speakers": [
-        "Bryn Shander",
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod"
+        "Bryn Shander"
       ],
       "topics": [
         "close",
@@ -2711,11 +1917,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51039084",
       "itunes_duration": "53:10",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "close",
         "encounters",
@@ -2734,14 +1936,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63611297",
       "itunes_duration": "01:06:16",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Artificer",
-        "Anne Gregersen",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "close",
         "encounters",
@@ -2761,11 +1956,7 @@
       "enclosure_length": "42990026",
       "itunes_duration": "44:47",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "UA Artificer",
-        "Anne Gregersen",
-        "Drew Tillman"
+        "Surreal out"
       ],
       "topics": [
         "close",
@@ -2785,14 +1976,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42401540",
       "itunes_duration": "44:11",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "close",
         "encounters",
@@ -2812,14 +1996,7 @@
       "enclosure_length": "36569337",
       "itunes_duration": "38:06",
       "speakers": [
-        "Dead Librarian",
-        "Caio Santos",
-        "Neil Martin",
-        "Virtutes Instrumenti",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way"
+        "Dead Librarian"
       ],
       "topics": [
         "close",
@@ -2840,14 +2017,8 @@
       "enclosure_length": "48323603",
       "itunes_duration": "50:21",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Grim League",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman",
-        "Wolfgang Baur"
+        "Close Encounters",
+        "Giant Kind"
       ],
       "topics": [
         "close",
@@ -2868,12 +2039,8 @@
       "enclosure_length": "44297821",
       "itunes_duration": "46:09",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
+        "Close Encounters",
+        "Giant Kind"
       ],
       "topics": [
         "close",
@@ -2893,14 +2060,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37644746",
       "itunes_duration": "39:13",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "close",
         "encounters",
@@ -2919,15 +2079,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52501523",
       "itunes_duration": "54:42",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "close",
         "encounters",
@@ -2946,14 +2098,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48563094",
       "itunes_duration": "50:36",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
-      ],
+      "speakers": [],
       "topics": [
         "close",
         "encounters",
@@ -2973,13 +2118,7 @@
       "enclosure_length": "48630803",
       "itunes_duration": "50:40",
       "speakers": [
-        "Bryn Shander",
-        "Caio Santos",
-        "Neil Martin",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
+        "Bryn Shander"
       ],
       "topics": [
         "close",
@@ -3000,13 +2139,8 @@
       "enclosure_length": "49364322",
       "itunes_duration": "51:26",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Virtutes Instrumenti",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
+        "Close Encounters",
+        "Giant Kind"
       ],
       "topics": [
         "close",
@@ -3027,12 +2161,7 @@
       "enclosure_length": "43460648",
       "itunes_duration": "45:17",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "UA Beast",
-        "Anne Gregersen",
-        "Xel Way",
-        "Drew Tillman"
+        "Snigbat's concerns"
       ],
       "topics": [
         "trouble",
@@ -3053,8 +2182,8 @@
       "enclosure_length": "38025925",
       "itunes_duration": "39:37",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin"
+        "Big Trouble",
+        "Little Nightstone"
       ],
       "topics": [
         "trouble",
@@ -3073,11 +2202,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45316387",
       "itunes_duration": "47:13",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "trouble",
         "little",
@@ -3095,10 +2220,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45038026",
       "itunes_duration": "46:55",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin"
-      ],
+      "speakers": [],
       "topics": [
         "trouble",
         "little",
@@ -3117,9 +2239,8 @@
       "enclosure_length": "58956903",
       "itunes_duration": "01:01:25",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Kevin MacLeod"
+        "Big Trouble",
+        "Little Nightstone"
       ],
       "topics": [
         "trouble",
@@ -3138,10 +2259,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34734914",
       "itunes_duration": "36:11",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin"
-      ],
+      "speakers": [],
       "topics": [
         "trouble",
         "little",
@@ -3160,8 +2278,8 @@
       "enclosure_length": "36835577",
       "itunes_duration": "38:23",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin"
+        "Big Trouble",
+        "Little Nightstone"
       ],
       "topics": [
         "trouble",
@@ -3180,12 +2298,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57414216",
       "itunes_duration": "59:49",
-      "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Deadly Roulette",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "trouble",
         "little",
@@ -3204,8 +2317,8 @@
       "enclosure_length": "37298676",
       "itunes_duration": "38:52",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin"
+        "Big Trouble",
+        "Little Nightstone"
       ],
       "topics": [
         "trouble",
@@ -3225,9 +2338,8 @@
       "enclosure_length": "56487600",
       "itunes_duration": "58:51",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin",
-        "Marty Gots"
+        "Big Trouble",
+        "Little Nightstone"
       ],
       "topics": [
         "trouble",
@@ -3247,13 +2359,7 @@
       "enclosure_length": "202560991",
       "itunes_duration": "03:31:01",
       "speakers": [
-        "James McEntire",
-        "Jennifer Cheek",
-        "Eoghan Falvey",
-        "Tim Lanning",
-        "Josh Perault",
-        "Renee Rhodes",
-        "RaeDeAnneR Groups Fate"
+        "Geekly Inc"
       ],
       "topics": [
         "beyonder",
@@ -3273,8 +2379,8 @@
       "enclosure_length": "52112403",
       "itunes_duration": "54:17",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin"
+        "Big Trouble",
+        "Little Nightstone"
       ],
       "topics": [
         "trouble",
@@ -3293,12 +2399,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80559123",
       "itunes_duration": "01:23:55",
-      "speakers": [
-        "David Alvord",
-        "Eugenio Vargas",
-        "Caio Santos",
-        "Neil Martin"
-      ],
+      "speakers": [],
       "topics": [
         "descent"
       ]
@@ -3314,12 +2415,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59600560",
       "itunes_duration": "01:02:06",
-      "speakers": [
-        "Josh Perault",
-        "Chris Dupuis Gameguruchris",
-        "Katherine Crane",
-        "Neil Martin"
-      ],
+      "speakers": [],
       "topics": [
         "idle",
         "podcast",
@@ -3362,16 +2458,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102599365",
       "itunes_duration": "01:46:53",
-      "speakers": [
-        "Josh Perault",
-        "Jon Buckmaster",
-        "Charlotte Nick Figueroa nikofigs",
-        "Cyber Sasquatch",
-        "Kristen DiMercurio",
-        "Kati Kawaguchi",
-        "Caio Santos",
-        "Common License"
-      ],
+      "speakers": [],
       "topics": [
         "final",
         "count",
@@ -3391,10 +2478,7 @@
       "itunes_duration": "53:29",
       "speakers": [
         "Trigger Warning",
-        "Drew Tillman",
-        "Kati Kawaguchi",
-        "Kevin MacLeod",
-        "Common License"
+        "Drew Tillman"
       ],
       "topics": [
         "final",
@@ -3412,9 +2496,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64386611",
       "itunes_duration": "01:07:05",
-      "speakers": [
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "final",
         "count"
@@ -3431,10 +2513,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53615385",
       "itunes_duration": "55:51",
-      "speakers": [
-        "Kati Kawaguchi",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "final",
         "count"
@@ -3451,9 +2530,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56277367",
       "itunes_duration": "58:38",
-      "speakers": [
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "final",
         "count"
@@ -3471,9 +2548,7 @@
       "enclosure_length": "52956681",
       "itunes_duration": "55:10",
       "speakers": [
-        "Castle Ravenloft",
-        "Kati Kawaguchi",
-        "Kevin MacLeod"
+        "Castle Ravenloft"
       ],
       "topics": [
         "final",
@@ -3492,7 +2567,8 @@
       "enclosure_length": "11619682",
       "itunes_duration": "12:07",
       "speakers": [
-        "Neil Martin bardicmartin"
+        "Spark Network",
+        "Taking Ini"
       ],
       "topics": [
         "patreon",
@@ -3512,10 +2588,7 @@
       "enclosure_length": "36249599",
       "itunes_duration": "37:46",
       "speakers": [
-        "Jonathan Serna",
-        "Sage Stafford",
-        "Neil Martin",
-        "Robert Alaniz"
+        "While Taking Initiativ"
       ],
       "topics": [
         "barovia",
@@ -3534,10 +2607,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62076968",
       "itunes_duration": "01:04:40",
-      "speakers": [
-        "Kati Kawaguchi",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "final",
         "count"
@@ -3555,10 +2625,7 @@
       "enclosure_length": "43565974",
       "itunes_duration": "45:23",
       "speakers": [
-        "Jonathan Serna",
-        "Sage Stafford",
-        "Neil Martin",
-        "Robert Alaniz"
+        "While Taking Initiativ"
       ],
       "topics": [
         "barovia",
@@ -3576,10 +2643,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65897533",
       "itunes_duration": "01:08:39",
-      "speakers": [
-        "Kati Kawaguchi",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "final",
         "count"
@@ -3597,10 +2661,7 @@
       "enclosure_length": "69296377",
       "itunes_duration": "01:12:11",
       "speakers": [
-        "Jonathan Serna",
-        "Sage Stafford",
-        "Neil Martin",
-        "Robert Alaniz"
+        "While Taking Initiativ"
       ],
       "topics": [
         "barovia",
@@ -3618,9 +2679,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70273148",
       "itunes_duration": "01:13:13",
-      "speakers": [
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "rising",
@@ -3640,9 +2699,8 @@
       "enclosure_length": "6097187",
       "itunes_duration": "06:22",
       "speakers": [
-        "Talking Initiative",
-        "Kati Kawaguchi",
-        "Kevin MacLeod"
+        "Idle Champions",
+        "Other Announcements"
       ],
       "topics": [
         "idle",
@@ -3662,12 +2720,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44340034",
       "itunes_duration": "46:12",
-      "speakers": [
-        "Jonathan Serna",
-        "Sage Stafford",
-        "Neil Martin",
-        "Robert Alaniz"
-      ],
+      "speakers": [],
       "topics": [
         "barovia",
         "marionette"
@@ -3685,8 +2738,7 @@
       "enclosure_length": "71123277",
       "itunes_duration": "01:14:06",
       "speakers": [
-        "Baba Lysaga",
-        "Kati Kawaguchi"
+        "Baba Lysaga"
       ],
       "topics": [
         "house",
@@ -3706,10 +2758,7 @@
       "enclosure_length": "40284577",
       "itunes_duration": "41:58",
       "speakers": [
-        "Jonathan Serna",
-        "Sage Stafford",
-        "Neil Martin",
-        "Robert Alaniz"
+        "While Taking Initiativ"
       ],
       "topics": [
         "barovia",
@@ -3728,7 +2777,7 @@
       "enclosure_length": "59444243",
       "itunes_duration": "01:01:56",
       "speakers": [
-        "Kati Kawaguchi"
+        "Rising Spoops"
       ],
       "topics": [
         "house",
@@ -3747,12 +2796,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40658232",
       "itunes_duration": "42:22",
-      "speakers": [
-        "Jonathan Serna",
-        "Sage Stafford",
-        "Neil Martin",
-        "Robert Alaniz"
-      ],
+      "speakers": [],
       "topics": [
         "barovia",
         "marionette"
@@ -3769,10 +2813,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44916818",
       "itunes_duration": "46:48",
-      "speakers": [
-        "Kati Kawaguchi",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "rising",
@@ -3790,12 +2831,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55453987",
       "itunes_duration": "57:46",
-      "speakers": [
-        "Jonathan Serna",
-        "Sage Stafford",
-        "Neil Martin",
-        "Robert Alaniz"
-      ],
+      "speakers": [],
       "topics": [
         "barovia",
         "marionette"
@@ -3813,9 +2849,7 @@
       "enclosure_length": "113842807",
       "itunes_duration": "01:58:35",
       "speakers": [
-        "James D'Amato",
-        "Kelly Lynne D'Angelo",
-        "Deadly Roulette"
+        "Dungeon Delve"
       ],
       "topics": [
         "podcasts",
@@ -3833,10 +2867,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51370944",
       "itunes_duration": "53:31",
-      "speakers": [
-        "Kati Kawaguchi",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "rising",
@@ -3855,10 +2886,7 @@
       "enclosure_length": "66424998",
       "itunes_duration": "01:09:12",
       "speakers": [
-        "Jonathan Serna",
-        "Sage Stafford",
-        "Neil Martin",
-        "Robert Alaniz"
+        "While Taking Initiativ"
       ],
       "topics": [
         "barovia",
@@ -3876,9 +2904,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60936358",
       "itunes_duration": "01:03:29",
-      "speakers": [
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "spoops"
@@ -3897,8 +2923,7 @@
       "itunes_duration": "46:02",
       "speakers": [
         "Nick Figueroa",
-        "Josh Perault",
-        "Kati Kawaguchi"
+        "Josh Perault"
       ],
       "topics": [
         "azaka",
@@ -3919,8 +2944,7 @@
       "itunes_duration": "01:03:22",
       "speakers": [
         "Nick Figueroa",
-        "Josh Perault",
-        "Kati Kawaguchi"
+        "Josh Perault"
       ],
       "topics": [
         "azaka",
@@ -3940,8 +2964,7 @@
       "itunes_duration": "47:38",
       "speakers": [
         "Nick Figueroa",
-        "Josh Perault",
-        "Kati Kawaguchi"
+        "Josh Perault"
       ],
       "topics": [
         "azaka",
@@ -3960,7 +2983,8 @@
       "enclosure_length": "43957602",
       "itunes_duration": "45:48",
       "speakers": [
-        "Kati Kawaguchi"
+        "Rising Spoops",
+        "Death House"
       ],
       "topics": [
         "house",
@@ -3980,7 +3004,7 @@
       "enclosure_length": "43129207",
       "itunes_duration": "44:56",
       "speakers": [
-        "Kati Kawaguchi"
+        "Rising Spoops"
       ],
       "topics": [
         "house",
@@ -4000,7 +3024,7 @@
       "enclosure_length": "49470901",
       "itunes_duration": "51:32",
       "speakers": [
-        "Kati Kawaguchi"
+        "Rising Spoops"
       ],
       "topics": [
         "house",
@@ -4020,8 +3044,7 @@
       "enclosure_length": "188269713",
       "itunes_duration": "01:18:27",
       "speakers": [
-        "Neil Martin",
-        "Alan Patrick"
+        "While Taking Initiativ"
       ],
       "topics": [
         "barovia",
@@ -4042,11 +3065,7 @@
       "itunes_duration": "57:10",
       "speakers": [
         "Drew Tillman",
-        "Revised Ranger",
-        "Consensus Ranger",
-        "Celeste Conowitch",
-        "Twitter cconowitch",
-        "Kati Kawaguchi"
+        "Revised Ranger"
       ],
       "topics": [
         "house",
@@ -4065,10 +3084,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "117196799",
       "itunes_duration": "48:50",
-      "speakers": [
-        "Neil Martin",
-        "Alan Patrick"
-      ],
+      "speakers": [],
       "topics": [
         "barovia",
         "beast"
@@ -4086,9 +3102,7 @@
       "enclosure_length": "51097181",
       "itunes_duration": "53:14",
       "speakers": [
-        "Celeste Conowitch",
-        "Twitter cconowitch",
-        "Kati Kawaguchi"
+        "Rising Spoops"
       ],
       "topics": [
         "house",
@@ -4108,8 +3122,7 @@
       "enclosure_length": "166162807",
       "itunes_duration": "01:09:15",
       "speakers": [
-        "Neil Martin",
-        "Alan Patrick"
+        "While Taking Initiativ"
       ],
       "topics": [
         "barovia",
@@ -4128,9 +3141,8 @@
       "enclosure_length": "56434519",
       "itunes_duration": "58:48",
       "speakers": [
-        "Celeste Conowitch",
-        "Twitter cconowitch",
-        "Kati Kawaguchi"
+        "Rising Spoops",
+        "Blue Wa"
       ],
       "topics": [
         "house",
@@ -4150,8 +3162,7 @@
       "enclosure_length": "55769546",
       "itunes_duration": "58:06",
       "speakers": [
-        "Neil Martin",
-        "Alan Patrick"
+        "While Taking Initiativ"
       ],
       "topics": [
         "barovia",
@@ -4170,10 +3181,8 @@
       "enclosure_length": "60064913",
       "itunes_duration": "01:02:35",
       "speakers": [
-        "Kristen DiMercurio",
-        "Twitter kdimerc",
-        "Sally Grissom",
-        "Kati Kawaguchi"
+        "Behind Silver Eyes",
+        "Arc Finale"
       ],
       "topics": [
         "silver",
@@ -4191,9 +3200,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97262444",
       "itunes_duration": "01:41:19",
-      "speakers": [
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "mtof",
         "shadowfallen"
@@ -4210,9 +3217,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "20528900",
       "itunes_duration": "21:24",
-      "speakers": [
-        "Neil Martin"
-      ],
+      "speakers": [],
       "topics": [
         "mailbag"
       ]
@@ -4228,10 +3233,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47854653",
       "itunes_duration": "49:51",
-      "speakers": [
-        "Bad Cop",
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "silver"
       ]
@@ -4264,8 +3266,7 @@
       "enclosure_length": "48480756",
       "itunes_duration": "50:31",
       "speakers": [
-        "Leaving Argynvosthold",
-        "Kati Kawaguchi"
+        "Leaving Argynvosthold"
       ],
       "topics": [
         "silver"
@@ -4299,8 +3300,7 @@
       "enclosure_length": "51447012",
       "itunes_duration": "53:36",
       "speakers": [
-        "Kati Kawaguchi",
-        "Unease Piano"
+        "Behind Silver Eyes"
       ],
       "topics": [
         "silver"
@@ -4333,10 +3333,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "204855378",
       "itunes_duration": "01:25:22",
-      "speakers": [
-        "Kati Kawaguchi",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "silver"
       ]
@@ -4353,8 +3350,7 @@
       "enclosure_length": "56642872",
       "itunes_duration": "23:37",
       "speakers": [
-        "April Fools",
-        "Neil Martin"
+        "April Fools"
       ],
       "topics": [
         "mailbag"
@@ -4371,9 +3367,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143839607",
       "itunes_duration": "59:56",
-      "speakers": [
-        "Neil Martin"
-      ],
+      "speakers": [],
       "topics": [
         "mansion"
       ]
@@ -4390,7 +3384,8 @@
       "enclosure_length": "101291362",
       "itunes_duration": "42:13",
       "speakers": [
-        "Kati Kawaguchi"
+        "Behind Silver Eyes",
+        "Within Argynvostholt"
       ],
       "topics": [
         "silver"
@@ -4408,7 +3403,7 @@
       "enclosure_length": "150704586",
       "itunes_duration": "01:02:48",
       "speakers": [
-        "Kati Kawaguchi"
+        "Behind Silver Eyes"
       ],
       "topics": [
         "silver"
@@ -4425,10 +3420,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "137762480",
       "itunes_duration": "57:25",
-      "speakers": [
-        "Kati Kawaguchi",
-        "Awkward Meeting"
-      ],
+      "speakers": [],
       "topics": [
         "silver"
       ]
@@ -4444,9 +3436,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116574040",
       "itunes_duration": "48:35",
-      "speakers": [
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "gunman",
         "finale"
@@ -4463,11 +3453,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "253757648",
       "itunes_duration": "01:45:44",
-      "speakers": [
-        "Van Richten",
-        "Celeste Conowitch",
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "gunman"
       ]
@@ -4483,11 +3469,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102175346",
       "itunes_duration": "42:35",
-      "speakers": [
-        "Van Richten",
-        "Celeste Conowitch",
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "gunman"
       ]
@@ -4503,11 +3485,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "115439280",
       "itunes_duration": "48:06",
-      "speakers": [
-        "Celeste Conowitch",
-        "Kati Kawaguchi",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "gunman"
       ]
@@ -4523,9 +3501,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61664861",
       "itunes_duration": "01:04:15",
-      "speakers": [
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "hackinstone",
         "gambit",
@@ -4543,11 +3519,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61421608",
       "itunes_duration": "01:03:59",
-      "speakers": [
-        "Celeste Conowitch",
-        "Kati Kawaguchi",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "gunman"
       ]
@@ -4563,10 +3535,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47246523",
       "itunes_duration": "49:13",
-      "speakers": [
-        "Kati Kawaguchi",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "hackinstone",
         "gambit"
@@ -4583,9 +3552,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68433710",
       "itunes_duration": "01:11:18",
-      "speakers": [
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "gunman"
       ]
@@ -4601,9 +3568,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31175574",
       "itunes_duration": "32:29",
-      "speakers": [
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "hackinstone",
         "gambit"
@@ -4620,9 +3585,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56550712",
       "itunes_duration": "58:55",
-      "speakers": [
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "gunman"
       ]
@@ -4638,10 +3601,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59389073",
       "itunes_duration": "01:01:52",
-      "speakers": [
-        "Kati Kawaguchi",
-        "Neil Martin"
-      ],
+      "speakers": [],
       "topics": [
         "hackinstone",
         "gambit"
@@ -4659,7 +3619,8 @@
       "enclosure_length": "39204570",
       "itunes_duration": "40:51",
       "speakers": [
-        "Kati Kawaguchi"
+        "Barovian Rhapsody",
+        "Arc Finale"
       ],
       "topics": [
         "barovian",
@@ -4678,10 +3639,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51421099",
       "itunes_duration": "53:34",
-      "speakers": [
-        "Kati Kawaguchi",
-        "Neil Martin"
-      ],
+      "speakers": [],
       "topics": [
         "hackinstone",
         "gambit"
@@ -4698,9 +3656,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54172106",
       "itunes_duration": "56:26",
-      "speakers": [
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "barovian",
         "rhapsody"
@@ -4717,10 +3673,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48127163",
       "itunes_duration": "50:08",
-      "speakers": [
-        "Hew Hackinstone",
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "hackinstone",
         "gambit"
@@ -4738,10 +3691,7 @@
       "enclosure_length": "99398713",
       "itunes_duration": "01:58:12",
       "speakers": [
-        "Join Lauren",
-        "Conowitch cconowitch",
-        "Joe Della Bella",
-        "Josh Perault"
+        "Join Lauren"
       ],
       "topics": [
         "chultan",
@@ -4762,10 +3712,7 @@
       "enclosure_length": "52774033",
       "itunes_duration": "54:59",
       "speakers": [
-        "Taking Strahd",
-        "Will Strahd",
-        "Aram Vartian",
-        "Kati Kawaguchi"
+        "Taking Str"
       ],
       "topics": [
         "barovian",
@@ -4783,10 +3730,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99696639",
       "itunes_duration": "01:43:52",
-      "speakers": [
-        "Kati Kawaguchi",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "hackinstone",
         "gambit"
@@ -4804,7 +3748,7 @@
       "enclosure_length": "74619506",
       "itunes_duration": "01:17:44",
       "speakers": [
-        "Kati Kawaguchi"
+        "Barovian Rhapsody"
       ],
       "topics": [
         "barovian",
@@ -4822,9 +3766,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "5318947",
       "itunes_duration": "05:33",
-      "speakers": [
-        "Neil Martin bardicmartin"
-      ],
+      "speakers": [],
       "topics": [
         "patreon",
         "wotc",
@@ -4843,10 +3785,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47212668",
       "itunes_duration": "49:11",
-      "speakers": [
-        "Kati Kawaguchi",
-        "Frozen Star"
-      ],
+      "speakers": [],
       "topics": [
         "barovian",
         "rhapsody"
@@ -4863,9 +3802,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46252616",
       "itunes_duration": "48:11",
-      "speakers": [
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "barovian",
         "rhapsody"
@@ -4883,7 +3820,7 @@
       "enclosure_length": "44965301",
       "itunes_duration": "46:51",
       "speakers": [
-        "Kati Kawaguchi"
+        "Barovian Rhapsody"
       ],
       "topics": [
         "barovian",
@@ -4901,9 +3838,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79910451",
       "itunes_duration": "01:23:15",
-      "speakers": [
-        "Kati Kawaguchi"
-      ],
+      "speakers": [],
       "topics": [
         "barovian",
         "rhapsody"
@@ -4937,10 +3872,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48208665",
       "itunes_duration": "50:14",
-      "speakers": [
-        "Awkward Meeting",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "barovian",
         "rhapsody"
@@ -4957,7 +3889,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55250441",
       "itunes_duration": "57:34",
-      "speakers": [],
+      "speakers": [
+        "Arc Finale"
+      ],
       "topics": [
         "house",
         "spoops",
@@ -4992,9 +3926,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50136292",
       "itunes_duration": "52:14",
-      "speakers": [
-        "Deadly Roulette"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "spoops"
@@ -5045,9 +3977,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47310888",
       "itunes_duration": "49:17",
-      "speakers": [
-        "Adam Notmylastname"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "spoops"
@@ -5081,7 +4011,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59379878",
       "itunes_duration": "01:01:52",
-      "speakers": [],
+      "speakers": [
+        "Death House"
+      ],
       "topics": [
         "house",
         "spoops"
@@ -5099,9 +4031,7 @@
       "enclosure_length": "50899904",
       "itunes_duration": "53:02",
       "speakers": [
-        "Spacial Winds",
-        "Unnatural Situation",
-        "Vanishing Kevin MacLeod incompetech"
+        "Future Nerd"
       ],
       "topics": [
         "house",
@@ -5120,8 +4050,8 @@
       "enclosure_length": "977187",
       "itunes_duration": "01:02",
       "speakers": [
-        "Caio Santos",
-        "Neil Martin"
+        "Taking Initiative Promo",
+        "Taking Initiative"
       ],
       "topics": [
         "taking",
@@ -5136,224 +4066,224 @@
 
 ## Episodes (newest first)
 
-- 2024-07-08 — Sword & Sidhe: Episode 31 — speakers: Magic Escape Room, Kevin MacLeod Free, Kevin MacLeod, Alexander Nakarada, Frank Schroeter Free, Alexander Nakarada Free, pathfinder Licensed, Jon Buckmaster
-- 2024-06-24 — Sword & Sidhe: Episode 30 — speakers: Alexander Nakarada Free, Attribution License, Kevin MacLeod, Alexander Nakarada, Jon Buckmaster, Max Hadson, Caio Santos, Josh Perault
-- 2024-05-27 — Sword & Sidhe: Episode 29 — speakers: Alexander Nakarada, Frank Schroeter Free, Kevin MacLeod Free, Alexander Nakarada Free, pathfinder Licensed, Jon Buckmaster, Max Hadson TI, Caio Santos
-- 2024-05-13 — Sword & Sidhe: Episode 28 — speakers: Alexander Nakarada Free, Dark Hollows, Kevin MacLeod, Attribution License, Jon Buckmaster, Max Hadson TI, Caio Santos, Josh Perault
-- 2024-04-29 — Sword & Sidhe: Episode 27 — speakers: Alexander Nakarada Free, pathfinder Licensed, Jon Buckmaster, Max Hadson TI, Caio Santos, Josh Perault, Neil Martin
-- 2024-04-15 — Sword & Sidhe: Episode 26 — speakers: Frank Schroeter Free, Alexander Nakarada Free, Kevin MacLeod Free, Alexander Nakarada, Justin Allan Arnold Free, Jon Buckmaster, Max Hadson TI, Caio Santos
-- 2024-04-01 — Sword & Sidhe: Episode 25 — speakers: Alexander Nakarada Free, pathfinder Licensed, Alexander Nakarada, Steven OBrien Free, Justin Allan Arnold Free, Kevin MacLeod Free, Jon Buckmaster, Max Hadson TI
-- 2024-03-18 — Sword & Sidhe: Episode 24 — speakers: Alexander Nakarada Free, pathfinder Licensed, Alexander Nakarada, Kevin MacLeod Free, Justin Allan Arnold Free, Kevin MacLeod, Jon Buckmaster, Max Hadson TI
-- 2024-03-04 — Sword & Sidhe: Episode 23 — speakers: Kevin MacLeod Free, Alexander Nakarada Free, pathfinder Licensed, Alexander Nakarada, Jon Buckmaster, Max Hadson TI, Caio Santos, Josh Perault
-- 2024-02-19 — Sword & Sidhe: Episode 22 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Alexander Nakarada Free, Frank Schroeter Free, Kevin MacLeod Free
-- 2024-02-05 — Sword & Sidhe: Episode 21 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Kevin MacLeod Free, Alexander Nakarada Free
-- 2023-12-25 — Sword & Sidhe: Episode 20 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Justin Allan Arnold Free, Kevin MacLeod Free, Alexander Nakarada Free
-- 2023-12-11 — Sword & Sidhe: Episode 19 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Alexander Nakarada Free, pathfinder Licensed, Justin Allan Arnold Free
-- 2023-11-27 — Sword & Sidhe: Episode 18 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Alexander Nakarada Free, wayfarer Licensed, Justin Allan Arnold Free
-- 2023-11-13 — Sword & Sidhe: Episode 17 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Kevin MacLeod Free, Alexander Nakarada Free, Justin Allan Arnold Free, Steven OBrien Free
-- 2023-10-30 — Sword & Sidhe: Episode 16 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Alexander Nakarada Free, pathfinder Licensed, Kevin MacLeod Free
-- 2023-10-16 — Sword & Sidhe: Episode 15 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Alexander Nakarada Free, Frank Schroeter Free, Steven OBrien Free, Rafael Krux Free
-- 2023-10-02 — Sword & Sidhe: Episode 14 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Justin Allan Arnold Free, Alexander Nakarada Free
-- 2023-09-18 — Sword & Sidhe: Episode 13 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Kevin MacLeod Free, Justin Allan Arnold Free, Steven OBrien Free, arcadia Licensed
-- 2023-09-04 — Distinguished Adventurers - Episode Preview — speakers: Adventurers Website, Jon Buckmaster, Neil Martin
-- 2023-08-21 — Sanspants Radio - The Curse of the El Doncetto Man - Episode Preview — speakers: Jon Buckmaster, Neil Martin
-- 2023-08-07 — Sword & Sidhe: Episode 12 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Frank Schroeter Free, Alexander Nakarada Free, Kevin MacLeod Free, Justin Allan Arnold Free
-- 2023-07-24 — Sword & Sidhe: Episode 11 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Alexander Nakarada Free, Kevin MacLeod Free, Frank Schroeter Free
-- 2023-07-10 — Sword & Sidhe: Episode 10 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Alexander Nakarada Free, Kevin MacLeod Free, Justin Allan Arnold Free
-- 2023-06-26 — Sword & Sidhe: Episode 09 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Kevin MacLeod Free, Justin Allan Arnold Free, Alexander Nakarada Free
-- 2023-06-12 — Sword & Sidhe: Episode 08 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Kevin MacLeod Free, Justin Allan Arnold Free
-- 2023-05-29 — Sword & Sidhe: Episode 07 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Steven OBrien Free, Frank Schroeter Free, Kevin MacLeod Free, Justin Allan Arnold Free
-- 2023-05-15 — Sword & Sidhe: Episode 06 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Kevin MacLeod Free, Alexander Nakarada Free
-- 2023-05-01 — Sword & Sidhe: Episode 05 — speakers: Lemon Hunt, Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Alexander Nakarada Free, Kevin MacLeod Free
-- 2023-04-17 — Sword & Sidhe: Episode 04 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Kevin MacLeod Free, Alexander Nakarada Free
-- 2023-04-03 — Sword & Sidhe: Episode 03 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Alexander Nakarada Free, Kevin MacLeod Free, Frank Schroeter Free, Steven OBrien Free
-- 2023-03-20 — Sword & Sidhe: Episode 02 — speakers: Slim Jim, Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Alexander Nakarada Free, Kevin MacLeod Free
-- 2023-03-06 — Sword & Sidhe: Episode 01 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Alexander Nakarada Free, Rafael Krux Free, Kevin MacLeod Free, Steven OBrien Free
+- 2024-07-08 — Sword & Sidhe: Episode 31
+- 2024-06-24 — Sword & Sidhe: Episode 30
+- 2024-05-27 — Sword & Sidhe: Episode 29
+- 2024-05-13 — Sword & Sidhe: Episode 28
+- 2024-04-29 — Sword & Sidhe: Episode 27
+- 2024-04-15 — Sword & Sidhe: Episode 26
+- 2024-04-01 — Sword & Sidhe: Episode 25
+- 2024-03-18 — Sword & Sidhe: Episode 24
+- 2024-03-04 — Sword & Sidhe: Episode 23 — speakers: Content Warning, Skull Fairies
+- 2024-02-19 — Sword & Sidhe: Episode 22
+- 2024-02-05 — Sword & Sidhe: Episode 21 — speakers: Floating Lakes
+- 2023-12-25 — Sword & Sidhe: Episode 20
+- 2023-12-11 — Sword & Sidhe: Episode 19 — speakers: First World
+- 2023-11-27 — Sword & Sidhe: Episode 18
+- 2023-11-13 — Sword & Sidhe: Episode 17
+- 2023-10-30 — Sword & Sidhe: Episode 16
+- 2023-10-16 — Sword & Sidhe: Episode 15
+- 2023-10-02 — Sword & Sidhe: Episode 14
+- 2023-09-18 — Sword & Sidhe: Episode 13
+- 2023-09-04 — Distinguished Adventurers - Episode Preview — speakers: Distinguished Adventurers
+- 2023-08-21 — Sanspants Radio - The Curse of the El Doncetto Man - Episode Preview — speakers: Sanspants Radio, El Doncetto Man
+- 2023-08-07 — Sword & Sidhe: Episode 12
+- 2023-07-24 — Sword & Sidhe: Episode 11
+- 2023-07-10 — Sword & Sidhe: Episode 10
+- 2023-06-26 — Sword & Sidhe: Episode 09
+- 2023-06-12 — Sword & Sidhe: Episode 08
+- 2023-05-29 — Sword & Sidhe: Episode 07
+- 2023-05-15 — Sword & Sidhe: Episode 06
+- 2023-05-01 — Sword & Sidhe: Episode 05 — speakers: Lemon Hunt
+- 2023-04-17 — Sword & Sidhe: Episode 04
+- 2023-04-03 — Sword & Sidhe: Episode 03
+- 2023-03-20 — Sword & Sidhe: Episode 02 — speakers: Slim Jim
+- 2023-03-06 — Sword & Sidhe: Episode 01 — speakers: Taking Initiative
 - 2023-02-20 — Dumbgeons & Dragons - Episode Preview
 - 2023-02-06 — The Future of Taking Initiative — speakers: Taking Initiative
-- 2022-11-28 — SKT - There Will Be Dragon Blood: Episode 92 (Finale) — speakers: Caio Santos, Neil Martin, Kevin MacLeod Free, Marty Gots, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass
-- 2022-11-14 — SKT - There Will Be Dragon Blood: Episode 91 — speakers: Caio Santos, Neil Martin, Kevin MacLeod Free, Ominous Intro, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way
-- 2022-10-31 — SKT - There Will Be Dragon Blood: Episode 90 — speakers: Caio Santos, Neil Martin, Kevin MacLeod Free, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2022-10-17 — SKT - There Will Be Dragon Blood: Episode 89 — speakers: Caio Santos, Neil Martin, Kevin MacLeod Free, Angel Waltz, Alexander Nakarada, starry License, UA Beast, Anne Gregersen
-- 2022-10-03 — SKT - There Will Be Dragon Blood: Episode 88 — speakers: Caio Santos, Neil Martin, Kevin MacLeod Free, clean-soul License, Acid Trumpet, Frogs Legs Rag, UA Beast, Anne Gregersen
-- 2022-09-19 — SKT - There Will Be Dragon Blood: Episode 87 — speakers: Caio Santos, Neil Martin, Kevin MacLeod Free, clean-soul License, Bardy College, UA Beast, Anne Gregersen, Rogue Multiclass
-- 2022-09-05 — SKT - There Will Be Dragon Blood: Episode 86 — speakers: Caio Santos, Neil Martin, Kevin MacLeod Free, Bardy College, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way
-- 2022-08-22 — SKT - There Will Be Dragon Blood: Episode 85 — speakers: Caio Santos, Neil Martin, Kevin MacLeod Free, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2022-08-08 — SKT - Drag Me To Hekaton: Episode 84 (Arc Finale) — speakers: Caio Santos, Neil Martin, Chee Zee Caves, Kevin MacLeod Free, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way
-- 2022-07-25 — SKT - Drag Me To Hekaton: Episode 83 — speakers: Caio Santos, Neil Martin, galway License, Kevin MacLeod Free, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way
-- 2022-07-11 — SKT - Drag Me To Hekaton: Episode 82 — speakers: Caio Santos, Neil Martin, Kevin MacLeod Free, galway License, Spy Glass, Bardy College, UA Beast, Anne Gregersen
-- 2022-06-27 — SKT - Drag Me To Hekaton: Episode 81 — speakers: Bardy McFly, Caio Santos, Neil Martin, Kevin MacLeod, Plucky Daisy, Spy Glass, UA Beast, Anne Gregersen
-- 2022-06-13 — SKT - Drag Me To Hekaton: Episode 80 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2022-05-30 — SKT - Drag Me To Hekaton: Episode 79 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2022-05-16 — SKT - Drag Me To Hekaton: Episode 78 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2022-05-02 — SKT - Drag Me To Hekaton: Episode 77 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2022-04-18 — SKT - Drag Me To Hekaton: Episode 76 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2022-04-04 — SKT - Drag Me To Hekaton: Episode 75 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, Skye Cuillin, standard-license Willow, UA Beast, Anne Gregersen, Rogue Multiclass
-- 2022-03-21 — SKT - The Birds: Episode 74 — speakers: Luciella Elisabeth Scarlett, Caio Santos, Neil Martin, Kevin MacLeod, Hidden Agenda, Elton John Original, Bernie Taupin, Elton John Bonnie Binchicken
-- 2022-03-07 — SKT - The Birds: Episode 73 — speakers: Luciella Elisabeth Scarlett, Caio Santos, Neil Martin, Kevin MacLeod, Hidden Agenda, UA Beast, Anne Gregersen, Rogue Multiclass
-- 2022-02-21 — SKT - Conch Air: Episode 72 (Arc Finale) — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2022-02-07 — SKT - Conch Air: Episode 71 — speakers: Caio Santos, Neil Martin, Acid Trumpet, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way
-- 2022-01-24 — SKT - Conch Air: Episode 70 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2022-01-10 — SKT - Conch Air: Episode 69 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-12-27 — SKT - Conch Air: Episode 68 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-12-13 — SKT - Conch Air: Episode 67 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-11-29 — SKT - Conch Air: Episode 66 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-11-15 — SKT - Conch Air: Episode 65 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-11-01 — SKT - Conch Air: Episode 64 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-10-18 — SKT - Conch Air: Episode 63 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, Deadly Roulette, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way
-- 2021-10-04 — SKT - Conch Air: Episode 62 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-09-20 — SKT - Conch Air: Episode 61 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-09-06 — SKT - Zephy's Moving Castle: Episode 60 (Arc Finale) — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-08-23 — SKT - Zephy's Moving Castle: Episode 59 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-08-09 — SKT - Zephy's Moving Castle: Episode 58 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-07-26 — SKT - Zephy's Moving Castle: Episode 57 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-07-13 — The Birds Discord Stream Announcement — speakers: Marty Gots, Kevin MacLeod
-- 2021-07-12 — SKT - Zephy's Moving Castle: Episode 56 — speakers: Caio Santos, Neil Martin, Virtutes Instrumenti, Kevin MacLeod, Mourning Song, UA Beast, Anne Gregersen, Rogue Multiclass
-- 2021-06-28 — SKT - Zephy's Moving Castle: Episode 55 — speakers: Caio Santos, Neil Martin, Virtutes Instrumenti, Kevin MacLeod, Mystery Waltz, Alexander Nakarada, Mourning Song, UA Beast
-- 2021-06-14 — SKT - Zephy's Moving Castle: Episode 54 — speakers: Caio Santos, Neil Martin, Virtutes Instrumenti, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way
-- 2021-05-31 — SKT - Zephy's Moving Castle: Episode 53 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, Hidden Agenda, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way
-- 2021-05-17 — SKT - Zephy's Moving Castle: Episode 52 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-05-03 — SKT - Zephy's Moving Castle: Episode 51 — speakers: Goblin Raid, Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way
-- 2021-04-19 — SKT - Zephy's Moving Castle: Episode 50 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-04-05 — SKT - Zephy's Moving Castle: Episode 49 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-03-22 — SKT - Zephy's Moving Castle: Episode 48 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-03-08 — SKT - Zephy's Moving Castle: Episode 47 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-02-22 — SKT - Zephy's Moving Castle: Episode 46 — speakers: Caio Santos, Neil Martin, Virtutes Vocis, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way
-- 2021-02-08 — SKT - Zephy's Moving Castle: Episode 45 — speakers: Caio Santos, Neil Martin, Spy Glass, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way
-- 2021-01-25 — SKT - Zephy's Moving Castle: Episode 44 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2021-01-11 — SKT - Zephy's Moving Castle: Episode 43 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2020-12-28 — SKT - Zephy's Moving Castle: Episode 42 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2020-12-14 — SKT - Zephy's Moving Castle: Episode 41 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2020-11-30 — SKT - Zephy's Moving Castle: Episode 40 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2020-11-16 — SKT - Zephy's Moving Castle: Episode 39 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2020-11-02 — SKT - Zephy's Moving Castle: Episode 38 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, Sad Trio, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way
-- 2020-10-19 — SKT - Zephy's Moving Castle: Episode 37 — speakers: Caio Santos, Neil Martin, Spy Glass, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way
-- 2020-10-05 — SKT - Zephy's Moving Castle: Episode 36 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Rogue Multiclass, Fighter Multiclass Xel Way, Drew Tillman
-- 2020-09-21 — SKT - A Few Good Giants: Episode 35 (Arc Finale) — speakers: Caio Santos, Neil Martin, Kevin MacLeod, Rafael Krux, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2020-09-07 — SKT - A Few Good Giants: Episode 34 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2020-08-24 — SKT - A Few Good Giants: Episode 33 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2020-08-10 — SKT - A Few Good Giants: Episode 32 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, Virtutes Instrumenti, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2020-07-27 — SKT - A Few Good Giants: Episode 31 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, Virtutes Instrumenti, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2020-07-13 — SKT - A Few Good Giants: Episode 30 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2020-06-29 — SKT - A Few Good Giants: Episode 29 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2020-06-15 — SKT - A Few Good Giants: Episode 28 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2020-06-01 — SKT - A Few Good Giants: Episode 27 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2020-05-18 — SKT - A Few Good Giants: Episode 26 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2020-05-04 — SKT - Close Encounters of the Giant Kind: Episode 25 (Arc Finale) — speakers: Bryn Shander, Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2020-04-20 — SKT - Close Encounters of the Giant Kind: Episode 24 — speakers: Bryn Shander, Caio Santos, Neil Martin, Kevin MacLeod
-- 2020-04-06 — SKT - Close Encounters of the Giant Kind: Episode 23 — speakers: Caio Santos, Neil Martin, Kevin MacLeod
-- 2020-03-23 — SKT - Close Encounters of the Giant Kind: Episode 22 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Artificer, Anne Gregersen, Drew Tillman
-- 2020-03-09 — SKT - Close Encounters of the Giant Kind: Episode 21 — speakers: Caio Santos, Neil Martin, UA Artificer, Anne Gregersen, Drew Tillman
-- 2020-02-24 — SKT - Close Encounters of the Giant Kind: Episode 20 — speakers: Caio Santos, Neil Martin, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2020-02-10 — SKT - Close Encounters of the Giant Kind: Episode 19 — speakers: Dead Librarian, Caio Santos, Neil Martin, Virtutes Instrumenti, Kevin MacLeod, UA Beast, Anne Gregersen, Xel Way
-- 2020-01-27 — SKT - Close Encounters of the Giant Kind: Episode 18 — speakers: Caio Santos, Neil Martin, Grim League, UA Beast, Anne Gregersen, Xel Way, Drew Tillman, Wolfgang Baur
-- 2020-01-13 — SKT - Close Encounters of the Giant Kind: Episode 17 — speakers: Caio Santos, Neil Martin, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2019-12-30 — SKT - Close Encounters of the Giant Kind: Episode 16 — speakers: Caio Santos, Neil Martin, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2019-12-16 — SKT - Close Encounters of the Giant Kind: Episode 15 — speakers: Caio Santos, Neil Martin, Kevin MacLeod, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2019-12-02 — SKT - Close Encounters of the Giant Kind: Episode 14 — speakers: Caio Santos, Neil Martin, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2019-11-18 — SKT - Close Encounters of the Giant Kind: Episode 13 — speakers: Bryn Shander, Caio Santos, Neil Martin, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2019-11-04 — SKT - Close Encounters of the Giant Kind: Episode 12 — speakers: Caio Santos, Neil Martin, Virtutes Instrumenti, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2019-10-21 — SKT - Big Trouble in Little Nightstone: Episode 11 (Arc Finale) — speakers: Caio Santos, Neil Martin, UA Beast, Anne Gregersen, Xel Way, Drew Tillman
-- 2019-10-07 — SKT - Big Trouble in Little Nightstone: Episode 10 — speakers: Caio Santos, Neil Martin
-- 2019-09-23 — SKT - Big Trouble in Little Nightstone: Episode 09 — speakers: Caio Santos, Neil Martin, Kevin MacLeod
-- 2019-09-09 — SKT - Big Trouble in Little Nightstone: Episode 08 — speakers: Caio Santos, Neil Martin
-- 2019-08-26 — SKT - Big Trouble in Little Nightstone: Episode 07 — speakers: Caio Santos, Neil Martin, Kevin MacLeod
-- 2019-08-12 — SKT - Big Trouble in Little Nightstone: Episode 06 — speakers: Caio Santos, Neil Martin
-- 2019-07-29 — SKT - Big Trouble in Little Nightstone: Episode 05 — speakers: Caio Santos, Neil Martin
-- 2019-07-15 — SKT - Big Trouble in Little Nightstone: Episode 04 — speakers: Caio Santos, Neil Martin, Deadly Roulette, Kevin MacLeod
-- 2019-07-01 — SKT - Big Trouble in Little Nightstone: Episode 03 — speakers: Caio Santos, Neil Martin
-- 2019-06-17 — SKT - Big Trouble in Little Nightstone: Episode 02 — speakers: Caio Santos, Neil Martin, Marty Gots
-- 2019-06-05 — Beyonder - Live Game from Geekly Inc. — speakers: James McEntire, Jennifer Cheek, Eoghan Falvey, Tim Lanning, Josh Perault, Renee Rhodes, RaeDeAnneR Groups Fate
-- 2019-06-03 — SKT - Big Trouble in Little Nightstone: Episode 01 — speakers: Caio Santos, Neil Martin
-- 2019-05-31 — D&D Live 2019 - The Descent — speakers: David Alvord, Eugenio Vargas, Caio Santos, Neil Martin
-- 2019-03-20 — Idle Podcast: Bug Support - Episode 02 — speakers: Josh Perault, Chris Dupuis Gameguruchris, Katherine Crane, Neil Martin
+- 2022-11-28 — SKT - There Will Be Dragon Blood: Episode 92 (Finale)
+- 2022-11-14 — SKT - There Will Be Dragon Blood: Episode 91
+- 2022-10-31 — SKT - There Will Be Dragon Blood: Episode 90
+- 2022-10-17 — SKT - There Will Be Dragon Blood: Episode 89
+- 2022-10-03 — SKT - There Will Be Dragon Blood: Episode 88
+- 2022-09-19 — SKT - There Will Be Dragon Blood: Episode 87
+- 2022-09-05 — SKT - There Will Be Dragon Blood: Episode 86
+- 2022-08-22 — SKT - There Will Be Dragon Blood: Episode 85
+- 2022-08-08 — SKT - Drag Me To Hekaton: Episode 84 (Arc Finale) — speakers: Arc Finale
+- 2022-07-25 — SKT - Drag Me To Hekaton: Episode 83
+- 2022-07-11 — SKT - Drag Me To Hekaton: Episode 82
+- 2022-06-27 — SKT - Drag Me To Hekaton: Episode 81 — speakers: Bardy McFly
+- 2022-06-13 — SKT - Drag Me To Hekaton: Episode 80 — speakers: Grand Dame
+- 2022-05-30 — SKT - Drag Me To Hekaton: Episode 79
+- 2022-05-16 — SKT - Drag Me To Hekaton: Episode 78
+- 2022-05-02 — SKT - Drag Me To Hekaton: Episode 77
+- 2022-04-18 — SKT - Drag Me To Hekaton: Episode 76
+- 2022-04-04 — SKT - Drag Me To Hekaton: Episode 75
+- 2022-03-21 — SKT - The Birds: Episode 74
+- 2022-03-07 — SKT - The Birds: Episode 73
+- 2022-02-21 — SKT - Conch Air: Episode 72 (Arc Finale) — speakers: Conch Air, Arc Finale
+- 2022-02-07 — SKT - Conch Air: Episode 71
+- 2022-01-24 — SKT - Conch Air: Episode 70 — speakers: Conch Air
+- 2022-01-10 — SKT - Conch Air: Episode 69 — speakers: Conch Air, Operation Get, Dragon Out, Castle Unnoticed
+- 2021-12-27 — SKT - Conch Air: Episode 68 — speakers: Conch Air, Cloud Giants
+- 2021-12-13 — SKT - Conch Air: Episode 67 — speakers: Conch Air, Operation Moosion Impossible
+- 2021-11-29 — SKT - Conch Air: Episode 66
+- 2021-11-15 — SKT - Conch Air: Episode 65 — speakers: Conch Air
+- 2021-11-01 — SKT - Conch Air: Episode 64
+- 2021-10-18 — SKT - Conch Air: Episode 63 — speakers: Conch Air
+- 2021-10-04 — SKT - Conch Air: Episode 62
+- 2021-09-20 — SKT - Conch Air: Episode 61 — speakers: Conch Air
+- 2021-09-06 — SKT - Zephy's Moving Castle: Episode 60 (Arc Finale) — speakers: everything collected
+- 2021-08-23 — SKT - Zephy's Moving Castle: Episode 59
+- 2021-08-09 — SKT - Zephy's Moving Castle: Episode 58
+- 2021-07-26 — SKT - Zephy's Moving Castle: Episode 57 — speakers: Moving Castle
+- 2021-07-13 — The Birds Discord Stream Announcement — speakers: Announcement Nick
+- 2021-07-12 — SKT - Zephy's Moving Castle: Episode 56 — speakers: Moving Castle
+- 2021-06-28 — SKT - Zephy's Moving Castle: Episode 55
+- 2021-06-14 — SKT - Zephy's Moving Castle: Episode 54
+- 2021-05-31 — SKT - Zephy's Moving Castle: Episode 53
+- 2021-05-17 — SKT - Zephy's Moving Castle: Episode 52
+- 2021-05-03 — SKT - Zephy's Moving Castle: Episode 51 — speakers: Goblin Raid
+- 2021-04-19 — SKT - Zephy's Moving Castle: Episode 50 — speakers: Moving Castle
+- 2021-04-05 — SKT - Zephy's Moving Castle: Episode 49
+- 2021-03-22 — SKT - Zephy's Moving Castle: Episode 48 — speakers: Moving Castle
+- 2021-03-08 — SKT - Zephy's Moving Castle: Episode 47
+- 2021-02-22 — SKT - Zephy's Moving Castle: Episode 46
+- 2021-02-08 — SKT - Zephy's Moving Castle: Episode 45 — speakers: Moving Castle
+- 2021-01-25 — SKT - Zephy's Moving Castle: Episode 44 — speakers: Moving Castle
+- 2021-01-11 — SKT - Zephy's Moving Castle: Episode 43 — speakers: Moving Castle, Grandfather Tree
+- 2020-12-28 — SKT - Zephy's Moving Castle: Episode 42 — speakers: Moving Castle
+- 2020-12-14 — SKT - Zephy's Moving Castle: Episode 41 — speakers: artifacts found
+- 2020-11-30 — SKT - Zephy's Moving Castle: Episode 40
+- 2020-11-16 — SKT - Zephy's Moving Castle: Episode 39
+- 2020-11-02 — SKT - Zephy's Moving Castle: Episode 38 — speakers: burial ground
+- 2020-10-19 — SKT - Zephy's Moving Castle: Episode 37
+- 2020-10-05 — SKT - Zephy's Moving Castle: Episode 36
+- 2020-09-21 — SKT - A Few Good Giants: Episode 35 (Arc Finale)
+- 2020-09-07 — SKT - A Few Good Giants: Episode 34
+- 2020-08-24 — SKT - A Few Good Giants: Episode 33
+- 2020-08-10 — SKT - A Few Good Giants: Episode 32
+- 2020-07-27 — SKT - A Few Good Giants: Episode 31
+- 2020-07-13 — SKT - A Few Good Giants: Episode 30
+- 2020-06-29 — SKT - A Few Good Giants: Episode 29
+- 2020-06-15 — SKT - A Few Good Giants: Episode 28 — speakers: Few Good Giants
+- 2020-06-01 — SKT - A Few Good Giants: Episode 27 — speakers: Few Good Giants
+- 2020-05-18 — SKT - A Few Good Giants: Episode 26 — speakers: loot abound, giants down
+- 2020-05-04 — SKT - Close Encounters of the Giant Kind: Episode 25 (Arc Finale) — speakers: Bryn Shander
+- 2020-04-20 — SKT - Close Encounters of the Giant Kind: Episode 24 — speakers: Bryn Shander
+- 2020-04-06 — SKT - Close Encounters of the Giant Kind: Episode 23
+- 2020-03-23 — SKT - Close Encounters of the Giant Kind: Episode 22
+- 2020-03-09 — SKT - Close Encounters of the Giant Kind: Episode 21 — speakers: Surreal out
+- 2020-02-24 — SKT - Close Encounters of the Giant Kind: Episode 20
+- 2020-02-10 — SKT - Close Encounters of the Giant Kind: Episode 19 — speakers: Dead Librarian
+- 2020-01-27 — SKT - Close Encounters of the Giant Kind: Episode 18 — speakers: Close Encounters, Giant Kind
+- 2020-01-13 — SKT - Close Encounters of the Giant Kind: Episode 17 — speakers: Close Encounters, Giant Kind
+- 2019-12-30 — SKT - Close Encounters of the Giant Kind: Episode 16
+- 2019-12-16 — SKT - Close Encounters of the Giant Kind: Episode 15
+- 2019-12-02 — SKT - Close Encounters of the Giant Kind: Episode 14
+- 2019-11-18 — SKT - Close Encounters of the Giant Kind: Episode 13 — speakers: Bryn Shander
+- 2019-11-04 — SKT - Close Encounters of the Giant Kind: Episode 12 — speakers: Close Encounters, Giant Kind
+- 2019-10-21 — SKT - Big Trouble in Little Nightstone: Episode 11 (Arc Finale) — speakers: Snigbat's concerns
+- 2019-10-07 — SKT - Big Trouble in Little Nightstone: Episode 10 — speakers: Big Trouble, Little Nightstone
+- 2019-09-23 — SKT - Big Trouble in Little Nightstone: Episode 09
+- 2019-09-09 — SKT - Big Trouble in Little Nightstone: Episode 08
+- 2019-08-26 — SKT - Big Trouble in Little Nightstone: Episode 07 — speakers: Big Trouble, Little Nightstone
+- 2019-08-12 — SKT - Big Trouble in Little Nightstone: Episode 06
+- 2019-07-29 — SKT - Big Trouble in Little Nightstone: Episode 05 — speakers: Big Trouble, Little Nightstone
+- 2019-07-15 — SKT - Big Trouble in Little Nightstone: Episode 04
+- 2019-07-01 — SKT - Big Trouble in Little Nightstone: Episode 03 — speakers: Big Trouble, Little Nightstone
+- 2019-06-17 — SKT - Big Trouble in Little Nightstone: Episode 02 — speakers: Big Trouble, Little Nightstone
+- 2019-06-05 — Beyonder - Live Game from Geekly Inc. — speakers: Geekly Inc
+- 2019-06-03 — SKT - Big Trouble in Little Nightstone: Episode 01 — speakers: Big Trouble, Little Nightstone
+- 2019-05-31 — D&D Live 2019 - The Descent
+- 2019-03-20 — Idle Podcast: Bug Support - Episode 02
 - 2019-03-18 — Idle Podcast, Elderwood Giveaway, Season 2 Release Date — speakers: Elderwood Giveaway, Bug Support
-- 2019-03-04 — CoS - The Final Count Down: Episode 54 (Finale) — speakers: Josh Perault, Jon Buckmaster, Charlotte Nick Figueroa nikofigs, Cyber Sasquatch, Kristen DiMercurio, Kati Kawaguchi, Caio Santos, Common License
-- 2019-02-18 — CoS - The Final Count Down: Episode 53 — speakers: Trigger Warning, Drew Tillman, Kati Kawaguchi, Kevin MacLeod, Common License
-- 2019-02-04 — CoS - The Final Count Down: Episode 52 — speakers: Kati Kawaguchi
-- 2019-01-21 — CoS - The Final Count Down: Episode 51 — speakers: Kati Kawaguchi, Kevin MacLeod
-- 2019-01-07 — CoS - The Final Count Down: Episode 50 — speakers: Kati Kawaguchi
-- 2018-12-21 — CoS - The Final Count Down: Episode 49 — speakers: Castle Ravenloft, Kati Kawaguchi, Kevin MacLeod
-- 2018-12-17 — Patreon and The Spark Network — speakers: Neil Martin bardicmartin
-- 2018-12-17 — Bonus - Meanwhile in Barovia "The Marionette": Episode 08 (Finale) — speakers: Jonathan Serna, Sage Stafford, Neil Martin, Robert Alaniz
-- 2018-12-10 — CoS - The Final Count Down: Episode 48 — speakers: Kati Kawaguchi, Kevin MacLeod
-- 2018-12-03 — Bonus - Meanwhile in Barovia "The Marionette": Episode 07 — speakers: Jonathan Serna, Sage Stafford, Neil Martin, Robert Alaniz
-- 2018-11-26 — CoS - The Final Count Down: Episode 47 — speakers: Kati Kawaguchi, Kevin MacLeod
-- 2018-11-19 — Bonus - Meanwhile in Barovia "The Marionette": Episode 06 — speakers: Jonathan Serna, Sage Stafford, Neil Martin, Robert Alaniz
-- 2018-11-12 — CoS - House of the Rising Spoops: Episode 46 (Arc Finale) — speakers: Kati Kawaguchi
-- 2018-11-12 — Idle Champions, PAX Unplugged and Other Announcements — speakers: Talking Initiative, Kati Kawaguchi, Kevin MacLeod
-- 2018-11-05 — Bonus - Meanwhile in Barovia "The Marionette": Episode 05 — speakers: Jonathan Serna, Sage Stafford, Neil Martin, Robert Alaniz
-- 2018-10-29 — CoS - House of the Rising Spoops: Episode 45 — speakers: Baba Lysaga, Kati Kawaguchi
-- 2018-10-22 — Bonus - Meanwhile in Barovia "The Marionette": Episode 04 — speakers: Jonathan Serna, Sage Stafford, Neil Martin, Robert Alaniz
-- 2018-10-15 — CoS - House of the Rising Spoops: Episode 44 — speakers: Kati Kawaguchi
-- 2018-10-08 — Bonus - Meanwhile in Barovia "The Marionette": Episode 03 — speakers: Jonathan Serna, Sage Stafford, Neil Martin, Robert Alaniz
-- 2018-10-01 — CoS - House of the Rising Spoops: Episode 43 — speakers: Kati Kawaguchi, Kevin MacLeod
-- 2018-09-24 — Bonus - Meanwhile in Barovia "The Marionette": Episode 02 — speakers: Jonathan Serna, Sage Stafford, Neil Martin, Robert Alaniz
-- 2018-09-24 — WDH - Podcasts of Waterdeep: Episode 03 — speakers: James D'Amato, Kelly Lynne D'Angelo, Deadly Roulette
-- 2018-09-17 — CoS - House of the Rising Spoops: Episode 42 — speakers: Kati Kawaguchi, Kevin MacLeod
-- 2018-09-10 — Bonus - Meanwhile in Barovia "The Marionette": Episode 01 — speakers: Jonathan Serna, Sage Stafford, Neil Martin, Robert Alaniz
-- 2018-09-03 — CoS - House of the Rising Spoops: Episode 41 — speakers: Kati Kawaguchi
-- 2018-08-23 — ToA - Azaka's Gambit: Episode 03 (Finale) — speakers: Nick Figueroa, Josh Perault, Kati Kawaguchi
-- 2018-08-22 — ToA - Azaka's Gambit: Episode 02 — speakers: Nick Figueroa, Josh Perault, Kati Kawaguchi
-- 2018-08-21 — ToA - Azaka's Gambit: Episode 01 — speakers: Nick Figueroa, Josh Perault, Kati Kawaguchi
-- 2018-08-20 — CoS - House of the Rising Spoops: Episode 40 — speakers: Kati Kawaguchi
-- 2018-08-06 — CoS - House of the Rising Spoops: Episode 39 — speakers: Kati Kawaguchi
-- 2018-07-23 — CoS - House of the Rising Spoops: Episode 38 — speakers: Kati Kawaguchi
-- 2018-07-16 — Bonus - Meanwhile in Barovia "The Beast": Episode 04 (Finale) — speakers: Neil Martin, Alan Patrick
-- 2018-07-09 — CoS - House of the Rising Spoops: Episode 37 — speakers: Drew Tillman, Revised Ranger, Consensus Ranger, Celeste Conowitch, Twitter cconowitch, Kati Kawaguchi
-- 2018-07-02 — Bonus - Meanwhile in Barovia "The Beast": Episode 03 — speakers: Neil Martin, Alan Patrick
-- 2018-06-25 — CoS - House of the Rising Spoops: Episode 36 — speakers: Celeste Conowitch, Twitter cconowitch, Kati Kawaguchi
-- 2018-06-18 — Bonus - Meanwhile in Barovia "The Beast": Episode 02 — speakers: Neil Martin, Alan Patrick
-- 2018-06-11 — CoS - House of the Rising Spoops: Episode 35 — speakers: Celeste Conowitch, Twitter cconowitch, Kati Kawaguchi
-- 2018-06-04 — Bonus - Meanwhile in Barovia "The Beast": Episode 01 — speakers: Neil Martin, Alan Patrick
-- 2018-05-28 — CoS - Behind Silver Eyes: Episode 34 (Arc Finale) — speakers: Kristen DiMercurio, Twitter kdimerc, Sally Grissom, Kati Kawaguchi
-- 2018-05-21 — MToF - I've Shadowfallen and I Can't Get Up — speakers: Kati Kawaguchi
-- 2018-05-21 — Bonus - Mailbag: Episode 02 — speakers: Neil Martin
-- 2018-05-14 — CoS - Behind Silver Eyes: Episode 33 — speakers: Bad Cop, Kati Kawaguchi
+- 2019-03-04 — CoS - The Final Count Down: Episode 54 (Finale)
+- 2019-02-18 — CoS - The Final Count Down: Episode 53 — speakers: Trigger Warning, Drew Tillman
+- 2019-02-04 — CoS - The Final Count Down: Episode 52
+- 2019-01-21 — CoS - The Final Count Down: Episode 51
+- 2019-01-07 — CoS - The Final Count Down: Episode 50
+- 2018-12-21 — CoS - The Final Count Down: Episode 49 — speakers: Castle Ravenloft
+- 2018-12-17 — Patreon and The Spark Network — speakers: Spark Network, Taking Ini
+- 2018-12-17 — Bonus - Meanwhile in Barovia "The Marionette": Episode 08 (Finale) — speakers: While Taking Initiativ
+- 2018-12-10 — CoS - The Final Count Down: Episode 48
+- 2018-12-03 — Bonus - Meanwhile in Barovia "The Marionette": Episode 07 — speakers: While Taking Initiativ
+- 2018-11-26 — CoS - The Final Count Down: Episode 47
+- 2018-11-19 — Bonus - Meanwhile in Barovia "The Marionette": Episode 06 — speakers: While Taking Initiativ
+- 2018-11-12 — CoS - House of the Rising Spoops: Episode 46 (Arc Finale)
+- 2018-11-12 — Idle Champions, PAX Unplugged and Other Announcements — speakers: Idle Champions, Other Announcements
+- 2018-11-05 — Bonus - Meanwhile in Barovia "The Marionette": Episode 05
+- 2018-10-29 — CoS - House of the Rising Spoops: Episode 45 — speakers: Baba Lysaga
+- 2018-10-22 — Bonus - Meanwhile in Barovia "The Marionette": Episode 04 — speakers: While Taking Initiativ
+- 2018-10-15 — CoS - House of the Rising Spoops: Episode 44 — speakers: Rising Spoops
+- 2018-10-08 — Bonus - Meanwhile in Barovia "The Marionette": Episode 03
+- 2018-10-01 — CoS - House of the Rising Spoops: Episode 43
+- 2018-09-24 — Bonus - Meanwhile in Barovia "The Marionette": Episode 02
+- 2018-09-24 — WDH - Podcasts of Waterdeep: Episode 03 — speakers: Dungeon Delve
+- 2018-09-17 — CoS - House of the Rising Spoops: Episode 42
+- 2018-09-10 — Bonus - Meanwhile in Barovia "The Marionette": Episode 01 — speakers: While Taking Initiativ
+- 2018-09-03 — CoS - House of the Rising Spoops: Episode 41
+- 2018-08-23 — ToA - Azaka's Gambit: Episode 03 (Finale) — speakers: Nick Figueroa, Josh Perault
+- 2018-08-22 — ToA - Azaka's Gambit: Episode 02 — speakers: Nick Figueroa, Josh Perault
+- 2018-08-21 — ToA - Azaka's Gambit: Episode 01 — speakers: Nick Figueroa, Josh Perault
+- 2018-08-20 — CoS - House of the Rising Spoops: Episode 40 — speakers: Rising Spoops, Death House
+- 2018-08-06 — CoS - House of the Rising Spoops: Episode 39 — speakers: Rising Spoops
+- 2018-07-23 — CoS - House of the Rising Spoops: Episode 38 — speakers: Rising Spoops
+- 2018-07-16 — Bonus - Meanwhile in Barovia "The Beast": Episode 04 (Finale) — speakers: While Taking Initiativ
+- 2018-07-09 — CoS - House of the Rising Spoops: Episode 37 — speakers: Drew Tillman, Revised Ranger
+- 2018-07-02 — Bonus - Meanwhile in Barovia "The Beast": Episode 03
+- 2018-06-25 — CoS - House of the Rising Spoops: Episode 36 — speakers: Rising Spoops
+- 2018-06-18 — Bonus - Meanwhile in Barovia "The Beast": Episode 02 — speakers: While Taking Initiativ
+- 2018-06-11 — CoS - House of the Rising Spoops: Episode 35 — speakers: Rising Spoops, Blue Wa
+- 2018-06-04 — Bonus - Meanwhile in Barovia "The Beast": Episode 01 — speakers: While Taking Initiativ
+- 2018-05-28 — CoS - Behind Silver Eyes: Episode 34 (Arc Finale) — speakers: Behind Silver Eyes, Arc Finale
+- 2018-05-21 — MToF - I've Shadowfallen and I Can't Get Up
+- 2018-05-21 — Bonus - Mailbag: Episode 02
+- 2018-05-14 — CoS - Behind Silver Eyes: Episode 33
 - 2018-05-07 — Masks - Lab Rats: Episode 03
-- 2018-04-30 — CoS - Behind Silver Eyes: Episode 32 — speakers: Leaving Argynvosthold, Kati Kawaguchi
+- 2018-04-30 — CoS - Behind Silver Eyes: Episode 32 — speakers: Leaving Argynvosthold
 - 2018-04-23 — Masks - Lab Rats: Episode 02
-- 2018-04-16 — CoS - Behind Silver Eyes: Episode 31 — speakers: Kati Kawaguchi, Unease Piano
+- 2018-04-16 — CoS - Behind Silver Eyes: Episode 31 — speakers: Behind Silver Eyes
 - 2018-04-09 — Masks - Lab Rats: Episode 01
-- 2018-04-02 — CoS - Behind Silver Eyes: Episode 30 — speakers: Kati Kawaguchi, Kevin MacLeod
-- 2018-04-01 — Bonus - Mailbag: Episode 01 — speakers: April Fools, Neil Martin
-- 2018-03-27 — Bonus - Into Ivy Mansion: Episode 01 — speakers: Neil Martin
-- 2018-03-19 — CoS - Behind Silver Eyes: Episode 29 — speakers: Kati Kawaguchi
-- 2018-03-05 — CoS - Behind Silver Eyes: Episode 28 — speakers: Kati Kawaguchi
-- 2018-02-19 — CoS - Behind Silver Eyes: Episode 27 — speakers: Kati Kawaguchi, Awkward Meeting
-- 2018-02-05 — CoS - The Gunman Comes Around: Episode 26 (Arc Finale) — speakers: Kati Kawaguchi
-- 2018-01-22 — CoS - The Gunman Comes Around: Episode 25 — speakers: Van Richten, Celeste Conowitch, Kati Kawaguchi
-- 2018-01-08 — CoS - The Gunman Comes Around: Episode 24 — speakers: Van Richten, Celeste Conowitch, Kati Kawaguchi
-- 2017-12-22 — CoS - The Gunman Comes Around: Episode 23 — speakers: Celeste Conowitch, Kati Kawaguchi, Kevin MacLeod
-- 2017-12-18 — ToA - Hackinstone's Gambit: Episode 07 (Finale) — speakers: Kati Kawaguchi
-- 2017-12-11 — CoS - The Gunman Comes Around: Episode 22 — speakers: Celeste Conowitch, Kati Kawaguchi, Kevin MacLeod
-- 2017-12-04 — ToA - Hackinstone's Gambit: Episode 06 — speakers: Kati Kawaguchi, Kevin MacLeod
-- 2017-11-27 — CoS - The Gunman Comes Around: Episode 21 — speakers: Kati Kawaguchi
-- 2017-11-20 — ToA - Hackinstone's Gambit: Episode 05 — speakers: Kati Kawaguchi
-- 2017-11-13 — CoS - The Gunman Comes Around: Episode 20 — speakers: Kati Kawaguchi
-- 2017-11-06 — ToA - Hackinstone's Gambit: Episode 04 — speakers: Kati Kawaguchi, Neil Martin
-- 2017-10-30 — CoS - Barovian Rhapsody: Episode 19 (Arc Finale) — speakers: Kati Kawaguchi
-- 2017-10-23 — ToA - Hackinstone's Gambit: Episode 03 — speakers: Kati Kawaguchi, Neil Martin
-- 2017-10-16 — CoS - Barovian Rhapsody: Episode 18 — speakers: Kati Kawaguchi
-- 2017-10-09 — ToA - Hackinstone's Gambit: Episode 02 — speakers: Hew Hackinstone, Kati Kawaguchi
-- 2017-10-04 — The Chultan Job: A Podcasts of Annihilation DM Adventure — speakers: Join Lauren, Conowitch cconowitch, Joe Della Bella, Josh Perault
-- 2017-10-02 — CoS - Barovian Rhapsody: Episode 17 — speakers: Taking Strahd, Will Strahd, Aram Vartian, Kati Kawaguchi
-- 2017-09-25 — ToA - Hackinstone's Gambit: Episode 01 — speakers: Kati Kawaguchi, Kevin MacLeod
-- 2017-09-18 — CoS - Barovian Rhapsody: Episode 16 — speakers: Kati Kawaguchi
-- 2017-09-12 — Patreon and WotC's Podcasts of Annihilation — speakers: Neil Martin bardicmartin
-- 2017-09-04 — CoS - Barovian Rhapsody: Episode 15 — speakers: Kati Kawaguchi, Frozen Star
-- 2017-08-21 — CoS - Barovian Rhapsody: Episode 14 — speakers: Kati Kawaguchi
-- 2017-08-07 — CoS - Barovian Rhapsody: Episode 13 — speakers: Kati Kawaguchi
-- 2017-07-24 — CoS - Barovian Rhapsody: Episode 12 — speakers: Kati Kawaguchi
+- 2018-04-02 — CoS - Behind Silver Eyes: Episode 30
+- 2018-04-01 — Bonus - Mailbag: Episode 01 — speakers: April Fools
+- 2018-03-27 — Bonus - Into Ivy Mansion: Episode 01
+- 2018-03-19 — CoS - Behind Silver Eyes: Episode 29 — speakers: Behind Silver Eyes, Within Argynvostholt
+- 2018-03-05 — CoS - Behind Silver Eyes: Episode 28 — speakers: Behind Silver Eyes
+- 2018-02-19 — CoS - Behind Silver Eyes: Episode 27
+- 2018-02-05 — CoS - The Gunman Comes Around: Episode 26 (Arc Finale)
+- 2018-01-22 — CoS - The Gunman Comes Around: Episode 25
+- 2018-01-08 — CoS - The Gunman Comes Around: Episode 24
+- 2017-12-22 — CoS - The Gunman Comes Around: Episode 23
+- 2017-12-18 — ToA - Hackinstone's Gambit: Episode 07 (Finale)
+- 2017-12-11 — CoS - The Gunman Comes Around: Episode 22
+- 2017-12-04 — ToA - Hackinstone's Gambit: Episode 06
+- 2017-11-27 — CoS - The Gunman Comes Around: Episode 21
+- 2017-11-20 — ToA - Hackinstone's Gambit: Episode 05
+- 2017-11-13 — CoS - The Gunman Comes Around: Episode 20
+- 2017-11-06 — ToA - Hackinstone's Gambit: Episode 04
+- 2017-10-30 — CoS - Barovian Rhapsody: Episode 19 (Arc Finale) — speakers: Barovian Rhapsody, Arc Finale
+- 2017-10-23 — ToA - Hackinstone's Gambit: Episode 03
+- 2017-10-16 — CoS - Barovian Rhapsody: Episode 18
+- 2017-10-09 — ToA - Hackinstone's Gambit: Episode 02
+- 2017-10-04 — The Chultan Job: A Podcasts of Annihilation DM Adventure — speakers: Join Lauren
+- 2017-10-02 — CoS - Barovian Rhapsody: Episode 17 — speakers: Taking Str
+- 2017-09-25 — ToA - Hackinstone's Gambit: Episode 01
+- 2017-09-18 — CoS - Barovian Rhapsody: Episode 16 — speakers: Barovian Rhapsody
+- 2017-09-12 — Patreon and WotC's Podcasts of Annihilation
+- 2017-09-04 — CoS - Barovian Rhapsody: Episode 15
+- 2017-08-21 — CoS - Barovian Rhapsody: Episode 14
+- 2017-08-07 — CoS - Barovian Rhapsody: Episode 13 — speakers: Barovian Rhapsody
+- 2017-07-24 — CoS - Barovian Rhapsody: Episode 12
 - 2017-07-10 — CoS - Barovian Rhapsody: Episode 11
-- 2017-06-26 — CoS - Barovian Rhapsody: Episode 10 — speakers: Awkward Meeting, Kevin MacLeod
-- 2017-06-12 — CoS - House of Spoops: Episode 09 (Arc Finale)
+- 2017-06-26 — CoS - Barovian Rhapsody: Episode 10
+- 2017-06-12 — CoS - House of Spoops: Episode 09 (Arc Finale) — speakers: Arc Finale
 - 2017-05-29 — CoS - House of Spoops: Episode 08
-- 2017-05-15 — CoS - House of Spoops: Episode 07 — speakers: Deadly Roulette
+- 2017-05-15 — CoS - House of Spoops: Episode 07
 - 2017-05-01 — CoS - House of Spoops: Episode 06
 - 2017-04-17 — CoS - House of Spoops: Episode 05
-- 2017-04-03 — CoS - House of Spoops: Episode 04 — speakers: Adam Notmylastname
+- 2017-04-03 — CoS - House of Spoops: Episode 04
 - 2017-03-20 — CoS - House of Spoops: Episode 03
-- 2017-03-06 — CoS - House of Spoops: Episode 02
-- 2017-02-01 — CoS - House of Spoops: Episode 01 — speakers: Spacial Winds, Unnatural Situation, Vanishing Kevin MacLeod incompetech
-- 2017-01-29 — Taking Initiative Promo — speakers: Caio Santos, Neil Martin
+- 2017-03-06 — CoS - House of Spoops: Episode 02 — speakers: Death House
+- 2017-02-01 — CoS - House of Spoops: Episode 01 — speakers: Future Nerd
+- 2017-01-29 — Taking Initiative Promo — speakers: Taking Initiative Promo, Taking Initiative

@@ -2,10 +2,10 @@
 
 - slug: `the-unexpectables`
 - source: `https://feeds.libsyn.com/105383/rss`
-- fetched_at: `2026-05-22T22:17:47+00:00`
-- checked_at: `2026-05-22T22:17:47+00:00`
-- etag: `"93a20f72728b832657bba701a7d6133e"`
-- last_modified: `Fri, 22 May 2026 20:26:59 GMT`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"94c25a7b3b84fc756b8ab594ad1ee759"`
+- last_modified: `Fri, 29 May 2026 23:41:09 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://101club.libsyn.com/website",
   "description": "Follow the travels and tribulations of Task the Kobold Ranger, Greckles the Kenku Rogue, Panic the Tiefling Bard, and Borky the Orc Barbarian, as they traverse the dangerous and mysterious lands of Alivast, and the Capital City that hosts a bungle of characters, magic and villains.",
   "image_url": "https://static.libsyn.com/p/assets/6/9/c/7/69c7492dcb405690/sweet_dragon_logo.png",
-  "fetched_at": "2026-05-22T22:17:47+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,43 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "2d5b65efeaa64ece3061132e95243ad1f3ace128",
+      "title": "Salmon Max - The Unexpectables II Episode 152",
+      "published_at": "2026-05-29T23:40:00+00:00",
+      "link": "https://101club.libsyn.com/salmon-max-the-unexpectables-ii-episode-152",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_152_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116077447",
+      "itunes_duration": "02:18:07",
+      "speakers": [
+        "Unexpectables II"
+      ],
+      "topics": [
+        "salmon",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "19c817566bcbc1ba67a61458d832079e213ad4ce",
+      "title": "Nazgob 3:16 - Fool's Gelt Episode 6",
+      "published_at": "2026-05-29T21:32:00+00:00",
+      "link": "https://101club.libsyn.com/nazgob-316-fools-gelt-episode-6",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_Episode_6_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "164372197",
+      "itunes_duration": "03:15:37",
+      "speakers": [],
+      "topics": [
+        "nazgob",
+        "fool",
+        "gelt"
+      ]
+    },
     {
       "key": "fa1cdf31e541d9e2f62f5d838f549cb39c25d2f1",
       "title": "Romance Isn't Dead - The Unexpectables II Episode 151",
@@ -11164,6 +11201,8 @@
 
 ## Episodes (newest first)
 
+- 2026-05-29 — Salmon Max - The Unexpectables II Episode 152 — speakers: Unexpectables II
+- 2026-05-29 — Nazgob 3:16 - Fool's Gelt Episode 6
 - 2026-05-22 — Romance Isn't Dead - The Unexpectables II Episode 151 — speakers: Romance Isn
 - 2026-05-15 — Forklift Certified - Fool's Gelt Episode 5 — speakers: Forklift Certified
 - 2026-05-15 — Catch Up and Mustard - The Unexpectables II Episode 150 — speakers: Catch Up

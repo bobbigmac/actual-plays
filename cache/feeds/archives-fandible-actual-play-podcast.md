@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-05-17T22:10:24+00:00`
-- checked_at: `2026-05-22T15:26:08+00:00`
-- etag: `"94758efa10bf4ae1d3fe096d7cbfff68"`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"5659c92e39e7ab9481559f7f7f63df95"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-05-17T22:10:24+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,46 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "5d766d9eb2a79f6fc5e8c01e26353bb0666d8d15",
+      "title": "Rotted Capes Episode 20: Broken Chains part 3",
+      "published_at": "2026-06-02T01:04:30+00:00",
+      "link": "https://fandible.com/rotted-capes-episode-20-broken-chains-part-3/",
+      "description": "Arriving at amazonia, the heroes begin to plan a raid on a Moziak Base. The post Rotted Capes Episode 20: Broken Chains part 3 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/457_RC_BrokenChains/Fan_806_RC_BrokenChainsp3.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54688531",
+      "itunes_duration": "54:31",
+      "speakers": [
+        "Broken Chains"
+      ],
+      "topics": [
+        "rotted",
+        "capes",
+        "chains"
+      ]
+    },
+    {
+      "key": "ea6526358a9640ceb281bdec301ed81e4a8f27a7",
+      "title": "Rotted Capes Episode 20: Broken Chains part 2",
+      "published_at": "2026-05-25T00:17:35+00:00",
+      "link": "https://fandible.com/rotted-capes-episode-20-broken-chains-part-2/",
+      "description": "A socialites bunker found, the superheroes now have to face literal hordes of trouble. The post Rotted Capes Episode 20: Broken Chains part 2 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/457_RC_BrokenChains/Fan_805_RC_BrokenChainsp2.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54962105",
+      "itunes_duration": "54:10",
+      "speakers": [
+        "Broken Chains"
+      ],
+      "topics": [
+        "rotted",
+        "capes",
+        "chain"
+      ]
+    },
     {
       "key": "fc15f756ddda09914514cf2d6e0ee6784bbba9fd",
       "title": "Dungeons & Dragons: Trevons Heist part 3",
@@ -11338,44 +11378,6 @@
         "epic",
         "raid"
       ]
-    },
-    {
-      "key": "9fe75ab6fec52447c31c0c0b0db004fb7501d9ad",
-      "title": "Lasers & Feelings: Holodreck",
-      "published_at": "2016-06-24T15:13:03+00:00",
-      "link": "https://fandible.com/lasers-feelings-holodreck/",
-      "description": "Stuck in a unmoving ship and surrounded by dead crew, two spaceship crew members must figure out a solution before they find themselves DEAD IN SPACE!!!!! Check out the Lasers & Feelings RPG inspired by the Doubleclicks. The post Lasers & Feelings: Holodreck appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/185_LF_HoloDreck/Fan_302_LF_Holodreck.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "38970956",
-      "itunes_duration": "1:20:00",
-      "speakers": [
-        "Holodreck Stuck"
-      ],
-      "topics": [
-        "laser",
-        "feelings",
-        "holodreck"
-      ]
-    },
-    {
-      "key": "5f48919dfe398fd192ec3334d5979393a04aa4d6",
-      "title": "The End of the World: The Brotherhood of Babylon",
-      "published_at": "2016-06-17T14:24:57+00:00",
-      "link": "https://fandible.com/end-of-the-world/",
-      "description": "AKA #LizardTruth. Someone has been pulling the strings behind human civilization for millennia. Four friends are caught in the crossfire when they return to take their rightful place as humanity's overlords and struggle to reveal the truth to humanity. The post The End of the World: The Brotherhood of Babylon appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/184_EOTW_LizardTruth/Fan_301_EOTW_LizardTruth.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "93953439",
-      "itunes_duration": "3:14:33",
-      "speakers": [],
-      "topics": [
-        "world",
-        "brotherhood",
-        "babylon"
-      ]
     }
   ]
 }
@@ -11384,6 +11386,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-02 — Rotted Capes Episode 20: Broken Chains part 3 — speakers: Broken Chains
+- 2026-05-25 — Rotted Capes Episode 20: Broken Chains part 2 — speakers: Broken Chains
 - 2026-05-05 — Dungeons & Dragons: Trevons Heist part 3 — speakers: Trevons Heist
 - 2026-04-14 — Dungeons & Dragons: Trevons Heist part 1 — speakers: Trevons Heist
 - 2026-03-30 — It Came From Beyond the Grave: Blackthorn Hill part 2 — speakers: Blackthorn Hill, Great Evil
@@ -11982,5 +11986,3 @@
 - 2016-07-15 — Rotted Capes Ep 10: Patriotic Enslavement 1 of 2 — speakers: Patriotic Enslavement
 - 2016-07-08 — The Strange Ep 9: Epic Raid 2 of 2 — speakers: Epic Raid
 - 2016-07-01 — The Strange Ep 9: Epic Raid 1 of 2 — speakers: Epic Raid, Con Artists, Guild Masters
-- 2016-06-24 — Lasers & Feelings: Holodreck — speakers: Holodreck Stuck
-- 2016-06-17 — The End of the World: The Brotherhood of Babylon

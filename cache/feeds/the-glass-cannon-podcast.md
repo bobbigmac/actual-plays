@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-05-26T04:36:58+00:00`
-- checked_at: `2026-05-26T04:36:58+00:00`
-- last_modified: `Tue, 26 May 2026 04:00:00 GMT`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- last_modified: `Fri, 05 Jun 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-26T04:36:58+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,11 +26,271 @@
   ],
   "episodes": [
     {
+      "key": "8e7de32307d3e6d75d3be11ab21b8f7bcc1c4d70",
+      "title": "Twilight: 2000 | GCN Naish Rally",
+      "published_at": "2026-06-05T04:00:00+00:00",
+      "link": null,
+      "description": "In this We Shouldn't Be Alive spinoff, we get a glimpse into what's happening in the United States of America after the fallout of the World War III that never was. Ross Bryant, Jared Logan, and Skid Maher play in this one shot Refereed by Joe O'Brien. In a post-nuclear America, the difference between friend and foe is not so easy to discern. Help us unlock what's next. Subscribe today at ⁠⁠jointhenaish.com⁠⁠ . Watch the video here: ⁠⁠ https://youtube.com/live/jwPR9htT2v8 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/782a377a-6035-11f1-abab-0b13726c7526/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6518322759.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9648",
+      "speakers": [
+        "United States"
+      ],
+      "topics": [
+        "twilight",
+        "naish",
+        "rally"
+      ]
+    },
+    {
+      "key": "d91037fb5b601590b0c4a15088b500c699974fa4",
+      "title": "Gede from the Machine | The Glass Cannon Podcast Shadowdark E29 | Shadowdark RPG",
+      "published_at": "2026-06-05T04:00:00+00:00",
+      "link": null,
+      "description": "Trapped in darkness and hunted by the dead, the heroes face their greatest test yet. Watch the video here:⁠ ⁠ https://youtu.be/KeL_ITOAl-Y Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Ember, a digital roleplaying game by Foundry VTT, is available now in early access: ⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/ember/⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ When you purchase a new Pocket Hose Ballistic, you'll get a free 360-degree rotating pocket pivot and a free thumb drive nozzle. Just text \"GCN\" to 64000. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien and Erik Mona Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/93108ddc-602b-11f1-99f8-0b744394d600/image/775c7c1bc060386f5310b796acd7438a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3338224560.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5221",
+      "speakers": [
+        "Shadowdark Rpg"
+      ],
+      "topics": [
+        "gede",
+        "machine",
+        "glass",
+        "cannon",
+        "podcast",
+        "shadowdark"
+      ]
+    },
+    {
+      "key": "ccdd8616d7566997e9fa585beda855d4190b5a1d",
+      "title": "Bitter Sweet Symphony | Call of Cthulhu Live! | Dallas 2026 | Modern Call of Cthulhu",
+      "published_at": "2026-06-04T04:00:00+00:00",
+      "link": null,
+      "description": "A group of strangers brought together by a clandestine organization known as Quiet Horizon investigate a retired violinist who claims that something unseen is haunting his apartment. Cast: Sydney Amanuel, Ross Bryant, Matthew Capodicasa, Jared Logan, Joe O'Brien, Seth Skorkowsky, and Troy Lavallee. Watch the video here: https://youtu.be/LEvtKgPmyaU Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠ Indianapolis, IN | 7/30/2026 Indianapolis, IN | 7/31/2026 New Orleans, LA | 9/2/2026 Atlanta, GA | 9/3/2026 Madison, WI | 10/15/2026 Philadelphia, PA | 12/4/2026 Philadelphia, PA | 12/5/2026 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/bbbc37e0-5f6d-11f1-bee1-7f7181a92e4a/image/6e1762437d09716ba2b6b66a2e6e8d81.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6826602482.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9701",
+      "speakers": [
+        "Sweet Symphony",
+        "Quiet Horizon"
+      ],
+      "topics": [
+        "bitter",
+        "sweet",
+        "symphony",
+        "cthulhu",
+        "dallas",
+        "modern"
+      ]
+    },
+    {
+      "key": "a994868521b4ab1cf60e1431173e0d5916a6d351",
+      "title": "Regency Cthulhu | GCN Naish Rally",
+      "published_at": "2026-06-04T04:00:00+00:00",
+      "link": null,
+      "description": "The year is 1813. Sir Alastair Linville is finally returning home to his estate in Northamptonshire, England, after business dealings in Barbados. But he has been much changed by his travels. It's a horrific homecoming in Jane Austen's England with Rob Kerkovich, Paula Deming, Kate Stamas, Seth Skorkowsky, and your Call of Cthulhu Keeper Jared Logan. Help us unlock what's next. Subscribe today at ⁠jointhenaish.com⁠ . Watch the video here: ⁠https://youtube.com/live/Icdb6FEmzJg Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0b5e03a8-5f70-11f1-aead-97dd9a9fe7bc/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3588138569.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8566",
+      "speakers": [
+        "Alastair Linville"
+      ],
+      "topics": [
+        "regency",
+        "cthulhu",
+        "naish",
+        "rally"
+      ]
+    },
+    {
+      "key": "eb04d36c4b617a026dff509ecda1dcf91de5da7e",
+      "title": "Mothership | GCN Naish Rally",
+      "published_at": "2026-06-03T04:00:00+00:00",
+      "link": null,
+      "description": "Troy Lavallee leads a crew through the Mothership module The Haunting of Ypsilon 14. Help us unlock what's next. Subscribe today at jointhenaish.com . Watch the video here: https://youtube.com/live/Icdb6FEmzJg Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dd7d5856-5ed1-11f1-9e5e-3344e230bef7/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8409632970.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "10223",
+      "speakers": [
+        "Troy Lavallee"
+      ],
+      "topics": [
+        "mothership",
+        "naish",
+        "rally"
+      ]
+    },
+    {
+      "key": "484af086ffd37a3652e46fb3374904850589303f",
+      "title": "The Queen's Wedding, Part 2 | Pendragon: Under an Iron Sky | Chaosium",
+      "published_at": "2026-06-02T04:00:00+00:00",
+      "link": null,
+      "description": "Deep within the Forest Sauvage, the knights of Lord Robert continue their search for the boy Thomas, and come toe to toe with an unknown King. For a limited time, save 15% on all Pendragon products with code \"PENCANNON3\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ Watch the video here: https://youtu.be/SB2wjY5SJ3Y Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/acd70684-5de6-11f1-b8a5-3f0c6033658a/image/e3cb79c66f78df27c257e62309e3a73e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6046676893.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7542",
+      "speakers": [],
+      "topics": [
+        "queen",
+        "wedding",
+        "pendragon",
+        "iron",
+        "chaosium"
+      ]
+    },
+    {
+      "key": "e1a05e4b121118668864ba4922bb73982a864a21",
+      "title": "GCN News Minute June 1, 2026",
+      "published_at": "2026-06-01T20:15:00+00:00",
+      "link": null,
+      "description": "A new game is on its way... Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/c9bc07c0-5df2-11f1-8cc4-97aa8ef05b8c/image/9ef0a0596145f05100196c1adc2e8b75.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7579343605.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "333",
+      "speakers": [
+        "News Minute June"
+      ],
+      "topics": [
+        "news",
+        "minute",
+        "june"
+      ]
+    },
+    {
+      "key": "2c3470606573db0bf703ce5755a6db37347e68c2",
+      "title": "Stormy Weather | Blood of the Wild S1 E24 | Pathfinder 2E Quest for the Frozen Flame",
+      "published_at": "2026-06-01T04:00:00+00:00",
+      "link": null,
+      "description": "Wind, rain and an oracle's curse. Access every available episode of Blood of the Wild along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8ad8db68-5925-11f1-9b36-430525404f96/image/f6a9c4938e7166216c2b3c61e94dabb3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8704650689.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4513",
+      "speakers": [],
+      "topics": [
+        "stormy",
+        "weather",
+        "blood",
+        "wild",
+        "pathfinder",
+        "quest",
+        "frozen",
+        "flame"
+      ]
+    },
+    {
+      "key": "67440cabb589916768d6e05d5a829b72bede4aca",
+      "title": "Escape Room | The Glass Cannon Podcast Shadowdark E28 | Shadowdark RPG",
+      "published_at": "2026-05-29T04:00:00+00:00",
+      "link": null,
+      "description": "As torches dwindle, the undead rise and the Shadowdark closes in. Watch the video here:⁠ https://youtu.be/7g1xYqwhsos ⁠⁠⁠⁠⁠⁠ ⁠⁠⁠ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Ember, a digital roleplaying game by Foundry VTT, is available now in early access: ⁠⁠⁠⁠⁠⁠https://foundryvtt.com/ember/⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ When you purchase a new Pocket Hose Ballistic, you'll get a free 360-degree rotating pocket pivot and a free thumb drive nozzle. Just text \"GCN\" to 64000. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien and Erik Mona Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/50425ac0-5acd-11f1-91fc-dff6840a6276/image/68476374e2d9875723d985f0d9b53a53.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3099230946.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6511",
+      "speakers": [
+        "Shadowdark Rpg"
+      ],
+      "topics": [
+        "escape",
+        "room",
+        "glass",
+        "cannon",
+        "podcast",
+        "shadowdark"
+      ]
+    },
+    {
+      "key": "ab935a37cfbbf37931d27b364e16f413bc41af54",
+      "title": "Midnight Special | Call of Cthulhu Live! | St. Louis 2026 | Modern Call of Cthulhu",
+      "published_at": "2026-05-28T04:00:00+00:00",
+      "link": null,
+      "description": "A group of strangers brought together by a clandestine organization known as Quiet Horizon look into the case of a missing man last seen boarding a late-night train in Sacramento. Watch the video here: ⁠⁠ https://youtu.be/xt2qEwQmjBs Cast: Matthew Capodicasa, Noura Ibrahim, Rob Kerkovich, Jared Logan, Skid Maher, and Troy Lavallee Come see us LIVE in a city near you at ⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠ Indianapolis, IN | 7/30/2026 Indianapolis, IN | 7/31/2026 New Orleans, LA | 9/2/2026 Atlanta, GA | 9/3/2026 Madison, WI | 10/15/2026 Philadelphia, PA | 12/4/2026 Philadelphia, PA | 12/5/2026 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d2065fec-59d9-11f1-981b-532810e15d82/image/b77036a1918dc6cd37c3f6d47821bb30.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9568694127.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9617",
+      "speakers": [
+        "Quiet Horizon"
+      ],
+      "topics": [
+        "midnight",
+        "special",
+        "cthulhu",
+        "louis",
+        "modern"
+      ]
+    },
+    {
+      "key": "7d45bf741c105fabf8b08218216e1ce046677159",
+      "title": "Twilight: 2000 Character Creation | GCN Naish Rally",
+      "published_at": "2026-05-27T19:00:00+00:00",
+      "link": null,
+      "description": "Joe, Jared, and Skid generate three new characters using the Lifepath System as they prepare for their Twilight: 2000 one-shot during the GCN Naish Rally. Loosely connected to our We Shouldn't Be Alive campaign, this character creation follows three Americans on the homefront who find themselves—through bad luck or bad choices—behind the walls of a North Carolina state prison. Tune into the GCN Naish Rally on May 29-31, 2026, to help unlock the future of the Network: youtube.com/TheGlassCannon twitch.tv/theglasscannon Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b6584e34-59f9-11f1-b966-f3e1ad46913c/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6741300814.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6141",
+      "speakers": [
+        "Character Creation",
+        "Naish Rally Joe",
+        "Lifepath System"
+      ],
+      "topics": [
+        "twilight",
+        "character",
+        "creation",
+        "naish",
+        "rally"
+      ]
+    },
+    {
+      "key": "f8474d240deaa3b7f967fc1e9ce07e5a101472c4",
+      "title": "GCN News Minute May 26, 2026",
+      "published_at": "2026-05-26T19:15:00+00:00",
+      "link": null,
+      "description": "Troy tells you everything you need to know about this weekend's Naish Rally! Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a100bb16-5931-11f1-891e-0f5cb6b0c147/image/9ef0a0596145f05100196c1adc2e8b75.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1713280891.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "602",
+      "speakers": [
+        "News Minute May",
+        "Naish Rally"
+      ],
+      "topics": [
+        "news",
+        "minute"
+      ]
+    },
+    {
       "key": "0caa051f13a4035ce189e9c138286a7bd4512818",
       "title": "The Queen's Wedding, Part 1 | Pendragon: Under an Iron Sky | Chaosium",
       "published_at": "2026-05-26T04:00:00+00:00",
       "link": null,
-      "description": "Hark! Gather now and hear the tale of church bells and baby’s cries. Hear of knights wish dashed love and renewed hope. Such knights of virtue caught in a web of the making of one unknown to them, and a spider spinning a dreadful web before their very eyes. Hear now, what became of them… For a limited time, save 15% on all Pendragon products with code \"PENCANNON3\" at ⁠⁠⁠⁠⁠⁠⁠⁠https://chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠ Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Hark! Gather now and hear the tale of church bells and baby’s cries. Hear of knights wish dashed love and renewed hope. Such knights of virtue caught in a web of the making of one unknown to them, and a spider spinning a dreadful web before their very eyes. Hear now, what became of them… For a limited time, save 15% on all Pendragon products with code \"PENCANNON3\" at ⁠⁠⁠⁠⁠⁠⁠⁠https://chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠ Watch the video here: https://youtu.be/WILLNNZLuqs Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/91cb3600-4d5e-11f1-b253-83b5455020be/image/e3cb79c66f78df27c257e62309e3a73e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8944718161.mp3",
       "enclosure_type": "audio/mpeg",
@@ -3292,6 +3552,28 @@
       ]
     },
     {
+      "key": "e60952639f33f13b7845139d8d8cec5c52859e6d",
+      "title": "Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E",
+      "published_at": "2025-08-21T04:00:00+00:00",
+      "link": null,
+      "description": "In the aftermath of a massacre, the surviving townspeople must make some impossible decisions. Watch the video here: https://youtu.be/H29UZs0xeUY Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/234c6056-7dd8-11f0-914f-b30b77cebd33/image/815084e02f8516f43d71b6c30c5872f1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1678382462.mp3?updated=1755703286",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7873",
+      "speakers": [],
+      "topics": [
+        "mettle",
+        "honor",
+        "glass",
+        "cannon",
+        "ascension",
+        "indianapolis",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "8a4fc7c96434b0313ef49796bb75efab6cedfed6",
       "title": "Glass Cannon Radio #30 – Special Guest John Harper/Game Design/Crime Fiction",
       "published_at": "2025-08-21T04:00:00+00:00",
@@ -3317,28 +3599,6 @@
         "game",
         "design",
         "crime"
-      ]
-    },
-    {
-      "key": "e60952639f33f13b7845139d8d8cec5c52859e6d",
-      "title": "Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E",
-      "published_at": "2025-08-21T04:00:00+00:00",
-      "link": null,
-      "description": "In the aftermath of a massacre, the surviving townspeople must make some impossible decisions. Watch the video here: https://youtu.be/H29UZs0xeUY Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/234c6056-7dd8-11f0-914f-b30b77cebd33/image/815084e02f8516f43d71b6c30c5872f1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1678382462.mp3?updated=1755703286",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7873",
-      "speakers": [],
-      "topics": [
-        "mettle",
-        "honor",
-        "glass",
-        "cannon",
-        "ascension",
-        "indianapolis",
-        "pathfinder"
       ]
     },
     {
@@ -3834,30 +4094,6 @@
       ]
     },
     {
-      "key": "8c5f865c8a5c10b9b029e6030d0d353f5b90873b",
-      "title": "Death Be Not Proud | Time For Chaos S2 E20 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-07-04T04:00:00+00:00",
-      "link": null,
-      "description": "On the night of the full moon, the investigators attempt to break into Misr House and infiltrate the Grand Rite of the Brotherhood of the Black Pharoah. Watch the video here: ⁠⁠https://youtu.be/GfTDjTtITEg For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/6f0c16b4-5365-11f0-81db-7366f988e6e4/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6869811450.mp3?updated=1751037365",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "17847",
-      "speakers": [
-        "Cthulhu Masks",
-        "Misr House"
-      ],
-      "topics": [
-        "death",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
-      ]
-    },
-    {
       "key": "8a9aa6244e74e6ace76ff808621d5d0975d45bf0",
       "title": "Once Bitten, Ice Shy | The Glass Cannon Podcast Gatewalkers E92 | Pathfinder 2E",
       "published_at": "2025-07-04T04:00:00+00:00",
@@ -3879,19 +4115,22 @@
       ]
     },
     {
-      "key": "844a181747a141de804ff909cb42554de9aa2145",
-      "title": "Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-07-03T04:00:00+00:00",
+      "key": "8c5f865c8a5c10b9b029e6030d0d353f5b90873b",
+      "title": "Death Be Not Proud | Time For Chaos S2 E20 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-07-04T04:00:00+00:00",
       "link": null,
-      "description": "The investigators make their way to Walton-on-the-Naze in search of Misr House. Watch the video here: ⁠⁠https://youtu.be/KMdlFIRM82s For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/15210dd0-5365-11f0-9494-432c2cc37bb8/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7346316478.mp3?updated=1751037254",
+      "description": "On the night of the full moon, the investigators attempt to break into Misr House and infiltrate the Grand Rite of the Brotherhood of the Black Pharoah. Watch the video here: ⁠⁠https://youtu.be/GfTDjTtITEg For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6f0c16b4-5365-11f0-81db-7366f988e6e4/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6869811450.mp3?updated=1751037365",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "10777",
-      "speakers": [],
+      "itunes_duration": "17847",
+      "speakers": [
+        "Cthulhu Masks",
+        "Misr House"
+      ],
       "topics": [
-        "island",
+        "death",
         "time",
         "chaos",
         "cthulhu",
@@ -3922,6 +4161,27 @@
         "best",
         "fictional",
         "president"
+      ]
+    },
+    {
+      "key": "844a181747a141de804ff909cb42554de9aa2145",
+      "title": "Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-07-03T04:00:00+00:00",
+      "link": null,
+      "description": "The investigators make their way to Walton-on-the-Naze in search of Misr House. Watch the video here: ⁠⁠https://youtu.be/KMdlFIRM82s For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/15210dd0-5365-11f0-9494-432c2cc37bb8/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7346316478.mp3?updated=1751037254",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "10777",
+      "speakers": [],
+      "topics": [
+        "island",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
       ]
     },
     {
@@ -4018,31 +4278,6 @@
       ]
     },
     {
-      "key": "296e5799d408a34255c588eb6cc4765675df46e8",
-      "title": "Yurty Rotten Scoundrels | The Glass Cannon Podcast Gatewalkers E91 | Pathfinder 2E",
-      "published_at": "2025-06-27T04:00:00+00:00",
-      "link": null,
-      "description": "As memories from the Missing Moment continue to resurface, the heroes stumble upon the work of an old friend. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠ ⁠ ⁠ https://youtu.be/ngANgBy0reE This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1942427734.mp3?updated=1750960594",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5860",
-      "speakers": [
-        "Yurty Rotten Scoundrels"
-      ],
-      "topics": [
-        "yurty",
-        "rotten",
-        "scoundrels",
-        "glass",
-        "cannon",
-        "podcast",
-        "gatewalkers",
-        "pathfinder"
-      ]
-    },
-    {
       "key": "ab5531ac81149fa94b351891399d308a3e2edd36",
       "title": "Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-06-27T04:00:00+00:00",
@@ -4066,6 +4301,31 @@
         "cthulhu",
         "masks",
         "nyarlathotep"
+      ]
+    },
+    {
+      "key": "296e5799d408a34255c588eb6cc4765675df46e8",
+      "title": "Yurty Rotten Scoundrels | The Glass Cannon Podcast Gatewalkers E91 | Pathfinder 2E",
+      "published_at": "2025-06-27T04:00:00+00:00",
+      "link": null,
+      "description": "As memories from the Missing Moment continue to resurface, the heroes stumble upon the work of an old friend. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠ ⁠ ⁠ https://youtu.be/ngANgBy0reE This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1942427734.mp3?updated=1750960594",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5860",
+      "speakers": [
+        "Yurty Rotten Scoundrels"
+      ],
+      "topics": [
+        "yurty",
+        "rotten",
+        "scoundrels",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4185,6 +4445,28 @@
       ]
     },
     {
+      "key": "4326d6596f87844a7b4fa3f4be8aa77c0dcde2fc",
+      "title": "Lupus In Fabula | Time For Chaos S2 E10 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-06-20T04:00:00+00:00",
+      "link": null,
+      "description": "The dark mysteries surrounding the village of Lesser Edale deepen. Watch the video here: https://youtu.be/rP17zTGbWQA ⁠⁠ For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/654f7e6a-4549-11f0-ade7-6b62bbfd2c18/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7360773069.mp3?updated=1749484885",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7527",
+      "speakers": [],
+      "topics": [
+        "lupus",
+        "fabula",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
+    {
       "key": "3304569d855714c241b558a2a496040cdb65ecea",
       "title": "We Did Extinction | The Glass Cannon Podcast Gatewalkers E90 | Pathfinder 2E",
       "published_at": "2025-06-20T04:00:00+00:00",
@@ -4206,20 +4488,21 @@
       ]
     },
     {
-      "key": "4326d6596f87844a7b4fa3f4be8aa77c0dcde2fc",
-      "title": "Lupus In Fabula | Time For Chaos S2 E10 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-06-20T04:00:00+00:00",
+      "key": "cf530540913888535b55e4aa666f1f9e21ac2b07",
+      "title": "Law and Orders | Time For Chaos S2 E9 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-06-19T04:00:00+00:00",
       "link": null,
-      "description": "The dark mysteries surrounding the village of Lesser Edale deepen. Watch the video here: https://youtu.be/rP17zTGbWQA ⁠⁠ For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/654f7e6a-4549-11f0-ade7-6b62bbfd2c18/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7360773069.mp3?updated=1749484885",
+      "description": "The investigators entangle themselves in uncovering the truth behind a local tragedy. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/5jJ-LlYFFyE For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2e2bf90e-4549-11f0-b004-4f69d1c8fa73/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4030514850.mp3?updated=1749484807",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7527",
-      "speakers": [],
+      "itunes_duration": "8077",
+      "speakers": [
+        "Cthulhu Masks"
+      ],
       "topics": [
-        "lupus",
-        "fabula",
+        "orders",
         "time",
         "chaos",
         "cthulhu",
@@ -4247,29 +4530,6 @@
         "franchise",
         "great",
         "gamblers"
-      ]
-    },
-    {
-      "key": "cf530540913888535b55e4aa666f1f9e21ac2b07",
-      "title": "Law and Orders | Time For Chaos S2 E9 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-06-19T04:00:00+00:00",
-      "link": null,
-      "description": "The investigators entangle themselves in uncovering the truth behind a local tragedy. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/5jJ-LlYFFyE For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/2e2bf90e-4549-11f0-b004-4f69d1c8fa73/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4030514850.mp3?updated=1749484807",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "8077",
-      "speakers": [
-        "Cthulhu Masks"
-      ],
-      "topics": [
-        "orders",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
       ]
     },
     {
@@ -4481,30 +4741,6 @@
       ]
     },
     {
-      "key": "207db954276f5709e92bed56f3be2ddfd1a4b5a2",
-      "title": "Doctor Roust Us | The Glass Cannon Podcast Gatewalkers E88 | Pathfinder 2E",
-      "published_at": "2025-06-06T04:00:00+00:00",
-      "link": null,
-      "description": "After 87 episodes, the heroes come face to face with Dr. Ritalson once more. Watch the video here: ⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠ ⁠ https://youtu.be/h-ltlxSE0zc This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9891261392.mp3?updated=1753915844",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5294",
-      "speakers": [
-        "Roust Us"
-      ],
-      "topics": [
-        "doctor",
-        "roust",
-        "glass",
-        "cannon",
-        "podcast",
-        "gatewalkers",
-        "pathfinder"
-      ]
-    },
-    {
       "key": "cd5292e5a095b28b62a643956e061e82c20294af",
       "title": "The Lunatic Is in My Head | Time For Chaos S1 E20 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-06-06T04:00:00+00:00",
@@ -4527,28 +4763,27 @@
       ]
     },
     {
-      "key": "4e2fdd61897ae1f21a46066851a33113f34cba2c",
-      "title": "Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-06-05T04:00:00+00:00",
+      "key": "207db954276f5709e92bed56f3be2ddfd1a4b5a2",
+      "title": "Doctor Roust Us | The Glass Cannon Podcast Gatewalkers E88 | Pathfinder 2E",
+      "published_at": "2025-06-06T04:00:00+00:00",
       "link": null,
-      "description": "The investigators are confronted by various guests at the Carlyle Mansion. Watch the video here: https://youtu.be/FggtnBzbLb0 For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/d16d9aee-3d85-11f0-b77d-77e30032bff2/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3283243673.mp3?updated=1748632354",
+      "description": "After 87 episodes, the heroes come face to face with Dr. Ritalson once more. Watch the video here: ⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠ ⁠ https://youtu.be/h-ltlxSE0zc This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9891261392.mp3?updated=1753915844",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7912",
+      "itunes_duration": "5294",
       "speakers": [
-        "Cthulhu Masks",
-        "Carlyle Mansion"
+        "Roust Us"
       ],
       "topics": [
-        "life",
-        "party",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
+        "doctor",
+        "roust",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4575,6 +4810,31 @@
         "nerdiest",
         "hobbies",
         "bracket"
+      ]
+    },
+    {
+      "key": "4e2fdd61897ae1f21a46066851a33113f34cba2c",
+      "title": "Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-06-05T04:00:00+00:00",
+      "link": null,
+      "description": "The investigators are confronted by various guests at the Carlyle Mansion. Watch the video here: https://youtu.be/FggtnBzbLb0 For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d16d9aee-3d85-11f0-b77d-77e30032bff2/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3283243673.mp3?updated=1748632354",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7912",
+      "speakers": [
+        "Cthulhu Masks",
+        "Carlyle Mansion"
+      ],
+      "topics": [
+        "life",
+        "party",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
       ]
     },
     {
@@ -4694,30 +4954,6 @@
       ]
     },
     {
-      "key": "0e76cdebae6128946aeae7cb4bf195e3d0da6c1f",
-      "title": "Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-05-29T04:00:00+00:00",
-      "link": null,
-      "description": "New leads force the team to split up to cover more ground. Watch the video here: ⁠⁠⁠⁠ https://youtu.be/ENAiWBcKW2k For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠chaosium.com⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/19bc28aa-3684-11f0-9b63-67ad6f63fb16/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1942834008.mp3?updated=1747861092",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7724",
-      "speakers": [
-        "Spot Hidden",
-        "Cthulhu Masks",
-        "Nyarlathotep New"
-      ],
-      "topics": [
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
-      ]
-    },
-    {
       "key": "d6e8f1db3858e4e42ca083f5402b4143d750d2cf",
       "title": "Glass Cannon Radio #19 – What Makes a Great Roleplayer? / Best Sports Movies of All Time / Obscure Obsessions",
       "published_at": "2025-05-29T04:00:00+00:00",
@@ -4746,6 +4982,30 @@
         "movies",
         "time",
         "obscure"
+      ]
+    },
+    {
+      "key": "0e76cdebae6128946aeae7cb4bf195e3d0da6c1f",
+      "title": "Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-05-29T04:00:00+00:00",
+      "link": null,
+      "description": "New leads force the team to split up to cover more ground. Watch the video here: ⁠⁠⁠⁠ https://youtu.be/ENAiWBcKW2k For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠chaosium.com⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/19bc28aa-3684-11f0-9b63-67ad6f63fb16/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1942834008.mp3?updated=1747861092",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7724",
+      "speakers": [
+        "Spot Hidden",
+        "Cthulhu Masks",
+        "Nyarlathotep New"
+      ],
+      "topics": [
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
       ]
     },
     {
@@ -5007,6 +5267,31 @@
       ]
     },
     {
+      "key": "399ea114bd9a125576a5b5cfc9e822db79b26fca",
+      "title": "Lake Titicaca | Time For Chaos S1 E5 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-05-16T04:00:00+00:00",
+      "link": null,
+      "description": "As the party draw closer to the ruins, it appears that they are not alone. Watch the video here: ⁠ ⁠https://youtu.be/8j9FKmnIpis For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠chaosium.com⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7f3aac5a-2f69-11f0-b25c-cf4ad0fde838/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8917301744.mp3?updated=1747144534",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8078",
+      "speakers": [
+        "Lake Titicaca",
+        "Cthulhu Masks"
+      ],
+      "topics": [
+        "lake",
+        "titicaca",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
+    {
       "key": "c66a62252e7ce402baaef0ca1da8004883a44c94",
       "title": "Loosey Balls | The Glass Cannon Podcast Gatewalkers E85 | Pathfinder 2E",
       "published_at": "2025-05-16T04:00:00+00:00",
@@ -5031,23 +5316,23 @@
       ]
     },
     {
-      "key": "399ea114bd9a125576a5b5cfc9e822db79b26fca",
-      "title": "Lake Titicaca | Time For Chaos S1 E5 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-05-16T04:00:00+00:00",
+      "key": "c0eca9ed29c0da89d273b9432f59975065e686b2",
+      "title": "The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-05-15T04:00:00+00:00",
       "link": null,
-      "description": "As the party draw closer to the ruins, it appears that they are not alone. Watch the video here: ⁠ ⁠https://youtu.be/8j9FKmnIpis For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠chaosium.com⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/7f3aac5a-2f69-11f0-b25c-cf4ad0fde838/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8917301744.mp3?updated=1747144534",
+      "description": "The investigators enter Augustus Larkin's hotel room unannounced. Watch the video here: ⁠ https://youtu.be/Nw4cZi9aR3M For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠chaosium.com⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/18f4ee60-2f69-11f0-a0d0-6ff7a3610494/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2259200747.mp3?updated=1747144526",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "8078",
+      "itunes_duration": "9091",
       "speakers": [
-        "Lake Titicaca",
-        "Cthulhu Masks"
+        "Augustus Larkin"
       ],
       "topics": [
-        "lake",
-        "titicaca",
+        "devil",
+        "snake",
+        "juice",
         "time",
         "chaos",
         "cthulhu",
@@ -5079,31 +5364,6 @@
         "rpgs",
         "nerd",
         "rant"
-      ]
-    },
-    {
-      "key": "c0eca9ed29c0da89d273b9432f59975065e686b2",
-      "title": "The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-05-15T04:00:00+00:00",
-      "link": null,
-      "description": "The investigators enter Augustus Larkin's hotel room unannounced. Watch the video here: ⁠ https://youtu.be/Nw4cZi9aR3M For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠chaosium.com⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/18f4ee60-2f69-11f0-a0d0-6ff7a3610494/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2259200747.mp3?updated=1747144526",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "9091",
-      "speakers": [
-        "Augustus Larkin"
-      ],
-      "topics": [
-        "devil",
-        "snake",
-        "juice",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
       ]
     },
     {
@@ -7557,23 +7817,6 @@
       ]
     },
     {
-      "key": "aed8f618acef08b7473fb3fbd57bc33d24a1a07b",
-      "title": "Cannon Fodder 5/15/24",
-      "published_at": "2024-05-15T04:00:00+00:00",
-      "link": "https://youtu.be/qiur8t--8po",
-      "description": "We're going long this week as Troy and Joe reveal a bunch of upcoming shows and then turn their attention to a monster episode of the GCP where at least one character's life, if not more, hangs in the balance. In We Are Stupid, a major oversight on a Recovery Check, and in Listener Mail: tips for your first gaming convention! Watch the video here: https://youtu.be/qiur8t--8po For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7360619393.mp3?updated=1715733926",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5597",
-      "speakers": [],
-      "topics": [
-        "cannon",
-        "fodder"
-      ]
-    },
-    {
       "key": "2940caa2b28525919e2245d860f5a92734147429",
       "title": "Strange Aeons Episode 89 – I Wanna Dream Again",
       "published_at": "2024-05-15T04:00:00+00:00",
@@ -7590,6 +7833,23 @@
         "aeons",
         "wanna",
         "dream"
+      ]
+    },
+    {
+      "key": "aed8f618acef08b7473fb3fbd57bc33d24a1a07b",
+      "title": "Cannon Fodder 5/15/24",
+      "published_at": "2024-05-15T04:00:00+00:00",
+      "link": "https://youtu.be/qiur8t--8po",
+      "description": "We're going long this week as Troy and Joe reveal a bunch of upcoming shows and then turn their attention to a monster episode of the GCP where at least one character's life, if not more, hangs in the balance. In We Are Stupid, a major oversight on a Recovery Check, and in Listener Mail: tips for your first gaming convention! Watch the video here: https://youtu.be/qiur8t--8po For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7360619393.mp3?updated=1715733926",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5597",
+      "speakers": [],
+      "topics": [
+        "cannon",
+        "fodder"
       ]
     },
     {
@@ -9116,6 +9376,26 @@
       ]
     },
     {
+      "key": "1ba16ff5b6456ababfcd48438f713b23371fc067",
+      "title": "Murder, She Boat | Side Quest Side Sesh S2 E13 | Pathfinder 2E",
+      "published_at": "2023-09-04T05:00:00+00:00",
+      "link": null,
+      "description": "The heroes race across the island hoping to escape with The Perennial Crown as Season Two reaches its epic conlclusion! Watch the video here: https://www.youtube.com/watch?v=aZtExrkUAso Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/92e9619a-5f58-11f1-9d05-6f0fcf10b035/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2301521706.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9324",
+      "speakers": [],
+      "topics": [
+        "murder",
+        "boat",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "c4ab3f3d2456103b33a583d948ae622a7888b358",
       "title": "Zero to Heroes | The Glass Cannon Podcast Gatewalkers E0 | Pathfinder 2E",
       "published_at": "2023-09-01T04:00:00+00:00",
@@ -9153,6 +9433,31 @@
       "topics": [
         "cannon",
         "fodder"
+      ]
+    },
+    {
+      "key": "9f66f2f10208bd9cf8aed61d85929cf1cda9fdd0",
+      "title": "Mighty Dwarf and Dour Rangers | Side Quest Side Sesh S2 E11 | Pathfinder 2E",
+      "published_at": "2023-08-28T05:00:00+00:00",
+      "link": null,
+      "description": "The heroes attempt to subdue the mad king, but greater horrors await above ground. Watch the video here: https://www.youtube.com/watch?v=9cl5a-bsU8g Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6df540d4-5f58-11f1-8848-5308c18c4853/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6778056262.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4218",
+      "speakers": [
+        "Mighty Dwarf",
+        "Dour Rangers"
+      ],
+      "topics": [
+        "mighty",
+        "dwarf",
+        "dour",
+        "rangers",
+        "quest",
+        "sesh",
+        "pathfinder"
       ]
     },
     {
@@ -9195,6 +9500,26 @@
       ]
     },
     {
+      "key": "52de01ae78a4fa46263d20e34e4ad9aedef5ce5e",
+      "title": "Sewer Discretion Advised | Side Quest Side Sesh S2 E10 | Pathfinder 2E",
+      "published_at": "2023-08-21T05:00:00+00:00",
+      "link": null,
+      "description": "The heroes must navigate the tunnels beneath Bhopan to try and find another exit to the surface. Watch the video here: https://www.youtube.com/watch?v=dQHU8QAeSmo Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/41630d26-5f58-11f1-9c5b-bff598a9045d/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6596859428.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3889",
+      "speakers": [],
+      "topics": [
+        "sewer",
+        "discretion",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "6ef8bc6389a66fb6b2f546db9868db12a34fa25b",
       "title": "Cannon Fodder 8/16/23",
       "published_at": "2023-08-16T04:01:00+00:00",
@@ -9214,6 +9539,25 @@
       ]
     },
     {
+      "key": "41e887daab6cd27fe8ad70d9433322d398fa11f4",
+      "title": "Vault in the Wounds | Side Quest Side Sesh S2 E9 | Pathfinder 2E",
+      "published_at": "2023-08-14T05:00:00+00:00",
+      "link": null,
+      "description": "Rufus of Oppara's life hangs in the balance as the battle with Lelzehsin reaches its grim conclusion. Watch the video here: https://www.youtube.com/watch?v=PVI4cD60Yr0 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1b335354-5f58-11f1-baa1-cb0dd823f5dd/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6686711624.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4466",
+      "speakers": [],
+      "topics": [
+        "wounds",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "fc1a402b13b3ed7b566a4e3fb9308933e6839e9a",
       "title": "Cannon Fodder 8/9/23",
       "published_at": "2023-08-09T04:01:00+00:00",
@@ -9230,6 +9574,46 @@
       "topics": [
         "cannon",
         "fodder"
+      ]
+    },
+    {
+      "key": "8bc25c6be1063b472acbd21daa4341d1b37e30bf",
+      "title": "Vault! Who Goes There? | Side Quest Side Sesh S2 E8 | Pathfinder 2E",
+      "published_at": "2023-08-07T05:00:00+00:00",
+      "link": null,
+      "description": "The Bhopanese vault's defenses may prove to be too much for the heroes. Watch the video here: https://www.youtube.com/watch?v=a8FNhUdeIQc Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f3c968b2-5f57-11f1-9535-bfae4c593c70/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6764726136.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3458",
+      "speakers": [],
+      "topics": [
+        "vault",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "da42fadde109129c2906cd3ab153e2835bad1ddf",
+      "title": "Dancing on the Sealing | Side Quest Side Sesh S2 E7 | Pathfinder 2E",
+      "published_at": "2023-07-31T05:00:00+00:00",
+      "link": null,
+      "description": "A rousing waltz begins! Watch the video here: https://www.youtube.com/watch?v=zg4zJOJVgjs Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ce93001c-5f57-11f1-9c18-779eab93c974/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8388618773.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4665",
+      "speakers": [
+        "Side Quest Side Sesh"
+      ],
+      "topics": [
+        "sealing",
+        "quest",
+        "sesh",
+        "pathfinder"
       ]
     },
     {
@@ -9271,6 +9655,25 @@
       ]
     },
     {
+      "key": "7cac53dbb6578a5af6252b23cb0451645c04ee69",
+      "title": "Stamen Alive | Side Quest Side Sesh S2 E6 | Pathfinder 2E",
+      "published_at": "2023-07-24T05:00:00+00:00",
+      "link": null,
+      "description": "The heroes attend the Masquerade of Seasons on Bhopan. Watch the video here: https://www.youtube.com/watch?v=bl9-Wu_kD24 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a3939a48-5f57-11f1-91b1-337c5d4897a1/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8383691735.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5059",
+      "speakers": [],
+      "topics": [
+        "staman",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "b9cd9a4a95a9b6fc19f6d46a4fc224aed1618779",
       "title": "Cannon Fodder 7/19/23",
       "published_at": "2023-07-19T04:01:00+00:00",
@@ -9290,6 +9693,29 @@
       ]
     },
     {
+      "key": "1e6cd5f1e21adf99d072558a1f87d0e2c336eefb",
+      "title": "Court Jesters | Side Quest Side Sesh S2 E5 | Pathfinder 2E",
+      "published_at": "2023-07-17T05:00:00+00:00",
+      "link": null,
+      "description": "After a surprise attack by malicious fey, the heroes are escorted out of the jungle. Watch the video here: https://www.youtube.com/watch?v=MpmM-QZroNU Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/782a5856-5f57-11f1-8c10-9fd38bbc3917/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9807288777.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4885",
+      "speakers": [
+        "Court Jesters",
+        "Side Quest Side Sesh"
+      ],
+      "topics": [
+        "court",
+        "jesters",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "68bb025df14503e4452767905cde13e839d9e820",
       "title": "Cannon Fodder 7/12/23",
       "published_at": "2023-07-12T04:01:00+00:00",
@@ -9306,6 +9732,25 @@
       "topics": [
         "cannon",
         "fodder"
+      ]
+    },
+    {
+      "key": "62fe32d78a62b939915719cfd3598787270144f0",
+      "title": "Welcome to the Gungle | Side Quest Side Sesh S2 E4 | Pathfinder 2E",
+      "published_at": "2023-07-10T05:00:00+00:00",
+      "link": null,
+      "description": "Deep in the jungle, the island of Bhopan comes alive. Watch the video here: https://www.youtube.com/watch?v=CydsvOtg9no Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/57d1ecf4-5f57-11f1-befd-036239516385/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9014874631.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5612",
+      "speakers": [],
+      "topics": [
+        "gungle",
+        "quest",
+        "sesh",
+        "pathfinder"
       ]
     },
     {
@@ -9349,6 +9794,27 @@
       ]
     },
     {
+      "key": "bd722f4c6984697d94a313a68fb04519752026e6",
+      "title": "Dumb Sail Away | Side Quest Side Sesh S2 E3 | Pathfinder 2E",
+      "published_at": "2023-07-03T05:00:00+00:00",
+      "link": null,
+      "description": "⁠ The heroes board the Unsinkable en route to the mysterious island of Bhopan. Watch the video here: https://www.youtube.com/watch?v=oKyhyZeLh6w Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/248ac7f8-5f57-11f1-baf7-6321b88f3055/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3340758921.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4851",
+      "speakers": [
+        "Dumb Sail Away",
+        "Side Quest Side Sesh"
+      ],
+      "topics": [
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "85e48d5b70cb735f951e42933f0c872536f0a4b5",
       "title": "Cannon Fodder 6/28/23",
       "published_at": "2023-06-28T04:01:00+00:00",
@@ -9365,6 +9831,26 @@
       "topics": [
         "cannon",
         "fodder"
+      ]
+    },
+    {
+      "key": "1bb3d8cf75c7d0ad12ed97746492e44f18c0208d",
+      "title": "Revengers Assemble | Side Quest Side Sesh S2 E2 | Pathfinder 2E",
+      "published_at": "2023-06-26T05:00:00+00:00",
+      "link": null,
+      "description": "⁠ It's been 10 years since Qarizur watched from a distance while his allies were executed by the shae known as Nicasor. Though much has changed, the gnoll's vengeance has never grown cold. Watch the video here: https://www.youtube.com/watch?v=-V2BUBKzNmk Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f351d7f8-5f56-11f1-8f50-bfc9f7a099fc/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2779665423.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3943",
+      "speakers": [],
+      "topics": [
+        "revenger",
+        "assemble",
+        "quest",
+        "sesh",
+        "pathfinder"
       ]
     },
     {
@@ -9385,6 +9871,27 @@
       "topics": [
         "cannon",
         "fodder"
+      ]
+    },
+    {
+      "key": "b0a4e53e4818e7577c336da2ba25810652693165",
+      "title": "Second Shooting Attack | Side Quest Side Sesh S2 E1 | Pathfinder 2E",
+      "published_at": "2023-06-19T05:00:00+00:00",
+      "link": null,
+      "description": "⁠ The runaway hit of the pandemic is back! Side Quest Side Sesh makes its triumphant return with a character creation session and a move to Pathfinder Second Edition! Watch the video here: https://www.youtube.com/watch?v=exNly50_jOE Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9d6d0efc-5f56-11f1-9bb5-17284dc237ee/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP5042763366.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4783",
+      "speakers": [],
+      "topics": [
+        "second",
+        "shooting",
+        "attack",
+        "quest",
+        "sesh",
+        "pathfinder"
       ]
     },
     {
@@ -13035,6 +13542,26 @@
       ]
     },
     {
+      "key": "83f9e2c3d3dc6b4f1b591ea58c70ebb737fa0761",
+      "title": "Downward Facing Yog | Side Quest Side Sesh S1 E37 | Pathfinder 1E",
+      "published_at": "2021-01-03T06:00:00+00:00",
+      "link": null,
+      "description": "In the finale of Side Quest Side Sesh, the party faces off against the Spawn of Yog-Sototh in a gut-wrenching battle for the ages! Watch the video here: https://www.youtube.com/watch?v=UzV0yCJ-1zU Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b75c67be-5ec4-11f1-9160-834326b7bcd4/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP5365868526.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9098",
+      "speakers": [],
+      "topics": [
+        "downward",
+        "facing",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "40de54dcae766c5e8e44c2746789076f98c19c50",
       "title": "Secret Flyover of a Caldera Girl | The Glass Cannon Podcast Giantslayer E258 | Pathfinder 1E",
       "published_at": "2020-12-29T05:00:00+00:00",
@@ -13077,6 +13604,26 @@
         "cannon",
         "podcast",
         "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6a8d3a270ea15df8cc810799cecec8dcd4884505",
+      "title": "Tentacle Difficulties | Side Quest Side Sesh S1 E36 | Pathfinder 1E",
+      "published_at": "2020-12-20T06:00:00+00:00",
+      "link": null,
+      "description": "After another attack by whatever's plaguing Carrion Hill, the heroes must decide which lead to follow next. Watch the video here: https://www.youtube.com/watch?v=Fzj1fslw-W8 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/66f6eb3c-5ec4-11f1-aa24-6749bb8bd877/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1498454796.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9267",
+      "speakers": [],
+      "topics": [
+        "tentacle",
+        "difficulty",
+        "quest",
+        "sesh",
         "pathfinder"
       ]
     },
@@ -13130,6 +13677,26 @@
       ]
     },
     {
+      "key": "a50558431b003ad16acc8bd44081cf2e1c9f7d3b",
+      "title": "Purple Headed Worriers | Side Quest Side Sesh S1 E35 | Pathfinder 1E",
+      "published_at": "2020-12-06T06:00:00+00:00",
+      "link": null,
+      "description": "After another attack by whatever's plaguing Carrion Hill, the heroes must decide which lead to follow next. Watch the video here: https://www.youtube.com/watch?v=UdAf5q0TESs Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3de9429e-5ec4-11f1-a4d9-879096255049/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6399869423.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8916",
+      "speakers": [],
+      "topics": [
+        "headed",
+        "worriers",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "ae2533ed158781d9f6baa5cae7a3086008fef411",
       "title": "Brawl the King's Men | The Glass Cannon Podcast Giantslayer E254 | Pathfinder 1E",
       "published_at": "2020-12-01T05:00:00+00:00",
@@ -13169,6 +13736,702 @@
         "cannon",
         "podcast",
         "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "57fbc4d7fc578697d0a2dd7f6d8ee4027af703c1",
+      "title": "Maniac Man Stun | Side Quest Side Sesh S1 E34 | Pathfinder 1E",
+      "published_at": "2020-11-22T06:00:00+00:00",
+      "link": null,
+      "description": "With Keeper Crove dispatched, the heroes look for more information beneath the asylum. This episode is sponsored by Beadle & Grimm's Pandemonium Warehouse. Check out their Pathfinder Second Edition Complete Character Chronicles Kickstarter at https://www.kickstarter.com/projects/beadleandgrimms/beadle-and-grimms-complete-character-chronicles! Watch the video here: https://www.youtube.com/watch?v=Sl7rAkn6pT4 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f7b8acba-5ec3-11f1-9d4f-bb0277935d6b/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8684972271.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7840",
+      "speakers": [
+        "Maniac Man Stun"
+      ],
+      "topics": [
+        "maniac",
+        "stun",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b7f220bd99b3d1e75f94a03881429b12f25d8a68",
+      "title": "Smelled It Too: The Adventure of Stink | Side Quest Side Sesh S1 E33 | Pathfinder 1E",
+      "published_at": "2020-11-16T06:00:00+00:00",
+      "link": null,
+      "description": "A wild caster summons a demon from the outer planes as the heroes are pushed to the limit against an infuriating foe! This episode is sponsored by Beadle & Grimm's Pandemonium Warehouse. Check out their Pathfinder Second Edition Complete Character Chronicles Kickstarter at https://www.kickstarter.com/projects/beadleandgrimms/beadle-and-grimms-complete-character-chronicles! Watch the video here: https://www.youtube.com/watch?v=MqfCPuOWjz0 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/c0e3e63c-5ec3-11f1-a473-abef6e6f934c/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP5447485761.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7446",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "stink",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "67e6eb91540d7776225ebd075ab934eb93c46aa2",
+      "title": "Craig Party | Side Quest Side Sesh S1 E32 | Pathfinder 1E",
+      "published_at": "2020-11-09T06:00:00+00:00",
+      "link": null,
+      "description": "A tentacled aberration attacks the crew as their investigation underneath the asylum continues. This episode is sponsored by Beadle & Grimm's Pandemonium Warehouse. Check out their Pathfinder Second Edition Complete Character Chronicles Kickstarter at https://www.kickstarter.com/projects/beadleandgrimms/beadle-and-grimms-complete-character-chronicles! Watch the video here: https://www.youtube.com/watch?v=ge6OzCjhz3c Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/81f7922a-5ec3-11f1-bfff-eb989243a66c/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1375466302.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7482",
+      "speakers": [
+        "Craig Party"
+      ],
+      "topics": [
+        "craig",
+        "party",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "21abc8ff04507a126d482ce952496babcefa2450",
+      "title": "Lunatic Revolution | Side Quest Side Sesh S1 E31 | Pathfinder 1E",
+      "published_at": "2020-11-02T06:00:00+00:00",
+      "link": null,
+      "description": "After battling the denizens of the upper floors of the asylum, the party heads downstairs. Watch the video here: https://www.youtube.com/watch?v=4yfF2GUtlWs Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5d32e548-5ec3-11f1-b1cc-f3c3728ebb06/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1491586468.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8680",
+      "speakers": [
+        "Lunatic Revolution",
+        "Side Quest Side Sesh"
+      ],
+      "topics": [
+        "lunatic",
+        "revolution",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "428f13d751781f2e71d5b01816bc2b63ab580de1",
+      "title": "The Door to the North | Side Quest Side Sesh S1 E30 | Pathfinder 1E",
+      "published_at": "2020-10-26T05:00:00+00:00",
+      "link": null,
+      "description": "The party gathers information on the Keepers of the Oldest before deciding where to turn first. Watch the video here: https://www.youtube.com/watch?v=IZJecORoxdg Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2acf1c7a-5ec3-11f1-a473-6bbc63eccee3/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3081968499.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7736",
+      "speakers": [],
+      "topics": [
+        "door",
+        "north",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "7251fca414f8ac02650d0739ae0b1b5ebc061ea1",
+      "title": "Ghouls Rush In | Side Quest Side Sesh S1 E29 | Pathfinder 1E",
+      "published_at": "2020-10-19T05:00:00+00:00",
+      "link": null,
+      "description": "An exploration of an ancient grove uncovers a strange tome, dead bodies and an ferocious enemy! Watch the video here: https://www.youtube.com/watch?v=s2Q4vbH5ju4 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f4098e64-5ec2-11f1-82e9-53bf62feb426/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7603387816.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8368",
+      "speakers": [
+        "Ghouls Rush"
+      ],
+      "topics": [
+        "ghoul",
+        "rush",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "c5db19778bd911e108393e0a94d264c7c32fb9f0",
+      "title": "Stair Trek Discovery | Side Quest Side Sesh S1 E18 | Pathfinder 1E",
+      "published_at": "2020-10-12T05:00:00+00:00",
+      "link": null,
+      "description": "The heroes' exploration of the ruined building reveals a staircase going down. Watch the video here: https://www.youtube.com/watch?v=6IGCuQiI6cs Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d000cdac-5ec2-11f1-87ee-93f87d04a2e9/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6400078237.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7557",
+      "speakers": [],
+      "topics": [
+        "stair",
+        "trek",
+        "discovery",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "edf2bb3a4e00aff4f155d47e7b416c699b6f0045",
+      "title": "Not Another Guillotine Movie | Side Quest Side Sesh S1 E27 | Pathfinder 1E",
+      "published_at": "2020-10-05T05:00:00+00:00",
+      "link": null,
+      "description": "Qarizur stumbles through the cobblestone streets of Karpad...perhaps for the last time. Watch the video here: https://www.youtube.com/watch?v=XRHGdtOBx44 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9e48551e-5ec2-11f1-9573-cb3d8469f6c0/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4734216952.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7553",
+      "speakers": [
+        "Guillotine Movie"
+      ],
+      "topics": [
+        "guillotine",
+        "movie",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "1ce7c0940493b92fb8fd374482b76fe5e8bdf8a5",
+      "title": "Never Shae Never Again | Side Quest Side Sesh S1 E26 | Pathfinder 1E",
+      "published_at": "2020-09-28T05:00:00+00:00",
+      "link": null,
+      "description": "The heroes rush to exit the Midnight Mirror before the pocket dimension collapses on itself, but what awaits them on the other side may be even more dangerous. Watch the video here: https://www.youtube.com/watch?v=haeNQzrmRUE Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/722c2d48-5ec2-11f1-89b4-c777a51c3781/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1535667712.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8721",
+      "speakers": [],
+      "topics": [
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "4908057f0d6f30f486fe24bf44ff162270c78323",
+      "title": "One Tree Kill | Side Quest Side Sesh S1 E25 | Pathfinder 1E",
+      "published_at": "2020-09-21T05:00:00+00:00",
+      "link": null,
+      "description": "The heroes meet Nicasor face to face for an unexpected parlay. Watch the video here: https://www.youtube.com/watch?v=ujQR9cVmWhs Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3a9099dc-5ec2-11f1-a9f7-df2434ed7083/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2141938950.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7841",
+      "speakers": [],
+      "topics": [
+        "tree",
+        "kill",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6b4a5a598e2b1e7f8c3ac84eb35878d2214e9ae9",
+      "title": "How I Met Your Brothers | Side Quest Side Sesh S1 E24 | Pathfinder 1E",
+      "published_at": "2020-09-14T05:00:00+00:00",
+      "link": null,
+      "description": "Deep within the prison that is the Midnight Mirror, the heroes explore the upper level of the shadow manor. Watch the video here: https://www.youtube.com/watch?v=nfTrS393b_M Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d71ddfe0-5ec1-11f1-8d05-dbe8460aa132/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4135221777.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7672",
+      "speakers": [],
+      "topics": [
+        "brothers",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6f413fb14b312e30b829acd398648ffcda30e23f",
+      "title": "Kayals and Tribulations | Side Quest Side Sesh S1 E23 | Pathfinder 1E",
+      "published_at": "2020-09-07T05:00:00+00:00",
+      "link": null,
+      "description": "The heroes uncover more strange rooms in the shadow manor and run afoul of some of the fetchlings from Nicasor's failed revolt. Watch the video here: https://www.youtube.com/watch?v=bg5fB17OotE Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/947b136a-5ec1-11f1-9ee9-23132ee42915/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4858091908.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8277",
+      "speakers": [],
+      "topics": [
+        "kayals",
+        "tribulations",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6cef5b3463079212f8afd2d306f703b1a3212169",
+      "title": "Better Call Wall | Side Quest Side Sesh S1 E22 | Pathfinder 1E",
+      "published_at": "2020-08-31T05:00:00+00:00",
+      "link": null,
+      "description": "With 3/4 of the party paralyzed and dazed, it's up to Brayven to save them from certain death. Watch the video here: https://www.youtube.com/watch?v=e3MnC-So4ho Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6aeacb44-5ec1-11f1-8727-fb083f292482/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6202316095.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7521",
+      "speakers": [],
+      "topics": [
+        "wall",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "5629381c9544f8c43c53f9fbb80b61d6c0b0039a",
+      "title": "Conceal and Barry | Side Quest Side Sesh S1 E21 | Pathfinder 1E",
+      "published_at": "2020-08-17T05:00:00+00:00",
+      "link": null,
+      "description": "The heroes confront the Baron about their findings. Watch the video here: https://www.youtube.com/watch?v=VlJKf3ZXVzc Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/38e564ce-5ec1-11f1-8b1d-cb247b133700/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP5131331207.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7365",
+      "speakers": [],
+      "topics": [
+        "conceal",
+        "barry",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2e11a809f21c2f791e94d3d6c0fb6e37b61a9935",
+      "title": "Brides Dead Revisited | Side Quest Side Sesh S1 E20 | Pathfinder 1E",
+      "published_at": "2020-08-10T05:00:00+00:00",
+      "link": null,
+      "description": "In the basement of Boroi Manor, the heroes encounter the self-styled bride of Zon-Kuthon. Watch the video here: https://youtu.be/rqqZt9NU_Ag Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0fde3fe2-5ec1-11f1-a7fb-f7318378347d/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3462589223.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7867",
+      "speakers": [
+        "Boroi Manor"
+      ],
+      "topics": [
+        "bride",
+        "dead",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "d7883dd882e45aa9933079edabe132698c6c1aeb",
+      "title": "Shade Row Superstar (That's Not What You Are) | Side Quest Side Sesh S1 E19 | Pathfinder 1E",
+      "published_at": "2020-08-03T05:00:00+00:00",
+      "link": null,
+      "description": "After surviving yet another shadow attack, the heroes venture to Shade Row to catch their breath before returning to Boroi Manor. Watch the video here: https://www.youtube.com/watch?v=OjAtYEVqROc Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d04030ac-5ec0-11f1-81db-d3ae918f5193/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9127773268.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8326",
+      "speakers": [
+        "Shade Row Superstar",
+        "Shade Row"
+      ],
+      "topics": [
+        "shade",
+        "superstar",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "5e9f25a084b7547c12d0eef6ab571da86db80353",
+      "title": "It's Not Easy Being Gene | Side Quest Side Sesh S1 E18 | Pathfinder 1E",
+      "published_at": "2020-07-27T05:00:00+00:00",
+      "link": null,
+      "description": "The heroes must make an unholy sacrifice to regain their strength for the battles that may lie ahead. Warning: This episode deals with self-mutilation with regards to Zon-Kuthon worship. Watch the video here: https://www.youtube.com/watch?v=mJ13lUnllJ0 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9b2a7b2a-5ec0-11f1-b209-fb4b08f72695/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7096363394.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8430",
+      "speakers": [],
+      "topics": [
+        "gene",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "0ab2e3abbecd7946706f108f371216f1225af706",
+      "title": "First World Problems | Side Quest Side Sesh S1 E17 | Pathfinder 1E",
+      "published_at": "2020-07-20T05:00:00+00:00",
+      "link": null,
+      "description": "The team desperately tries to survive against an invisible assassin! Watch the video here: https://www.youtube.com/watch?v=RnKgGa0odFc Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6ac03f88-5ec0-11f1-8184-8b6ea0974831/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1938154176.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7645",
+      "speakers": [],
+      "topics": [
+        "world",
+        "problems",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "99e4e81bb2bbe09af0bb6b0f4a1e49f08a7c462a",
+      "title": "Natural One Killers | Side Quest Side Sesh S1 E16 | Pathfinder 1E",
+      "published_at": "2020-07-13T05:00:00+00:00",
+      "link": null,
+      "description": "Shadows emerge from the darkness of the chandlery's basement to sap the strength of the heroes! Watch the video here: https://www.youtube.com/watch?v=dHtKzXNB8lE Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/36fd44ca-5ec0-11f1-b0f3-5f60cf8aa462/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9562994099.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7518",
+      "speakers": [],
+      "topics": [
+        "killers",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6792dce0c55979b404d30e34f69bb1a0ef99ca97",
+      "title": "Too Hot to Candle | Side Quest Side Sesh S1 E15 | Pathfinder 1E",
+      "published_at": "2020-07-06T05:00:00+00:00",
+      "link": null,
+      "description": "The heroes attempt to intervene before mob justice is carried out. Watch the video here: https://www.youtube.com/watch?v=mmG5jC2m4aA Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/078bc130-5ec0-11f1-a891-a3a64448bb61/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3516515087.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7289",
+      "speakers": [],
+      "topics": [
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "e3f9ac371a7345de93102e9c66a2c0ec683ba342",
+      "title": "A Manor Darkly | Side Quest Side Sesh S1 E14 | Pathfinder 1E",
+      "published_at": "2020-06-29T05:00:00+00:00",
+      "link": null,
+      "description": "The crew enter Boroi Manor in search of answers for Lord Tiberos. Watch the video here: https://www.youtube.com/watch?v=mebcHyJRwrc Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e3b31272-5ebf-11f1-addf-abcff7d989e8/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1912967696.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8355",
+      "speakers": [
+        "Boroi Manor"
+      ],
+      "topics": [
+        "manor",
+        "darkly",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "301d7567954f1aaccc49cab6fd31fb11eb3c9aeb",
+      "title": "A Mastiff Named Sapphire | Side Quest Side Sesh S1 E13 | Pathfinder 1E",
+      "published_at": "2020-06-22T05:00:00+00:00",
+      "link": null,
+      "description": "⁠ A new adventure awaits the Side Quest Side Sesh crew as they leave the trauma of Ravenmoor behind and set sail for one of Golarion's most infamous regions. Watch the video here: https://www.youtube.com/watch?v=kkFEF7AwEpA Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/baaabf92-5ebf-11f1-ba1f-93fabd7b0b5e/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3220289458.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7592",
+      "speakers": [],
+      "topics": [
+        "mastiff",
+        "sapphire",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "1f3305aead57b417981275714be88e5fb336751b",
+      "title": "There's Something About Mayor! See! | Side Quest Side Sesh S1 E12 | Pathfinder 1E",
+      "published_at": "2020-06-15T05:00:00+00:00",
+      "link": null,
+      "description": "⁠ Deep within the corn maze, the secrets of Ravenmoor are finally revealed as The Feast of Ravenmoor reaches its deadly conclusion! Watch the video here: https://www.youtube.com/watch?v=R_tyHa59azk Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/91200704-5ebf-11f1-b199-af6a00ba72a0/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3375904552.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8907",
+      "speakers": [],
+      "topics": [
+        "mayor",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "e0cbc1ae047b0045df0dd3174972bf1c1a7ca306",
+      "title": "The Corn Ultimatum | Side Quest Side Sesh S1 E11 | Pathfinder 1E",
+      "published_at": "2020-06-08T05:00:00+00:00",
+      "link": null,
+      "description": "With nowhere left to turn for answers, the heroes enter the mysterious cornfield maze. Watch the video here: https://www.youtube.com/watch?v=haxbdQYq_zs Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/692ca98c-5ebf-11f1-9e05-ab7ef4850f03/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4031124600.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8352",
+      "speakers": [],
+      "topics": [
+        "corn",
+        "ultimatum",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "391b137a2827e1eab3ff49c0c108142d0e10c4ae",
+      "title": "Miss of the Spider Woman | Side Quest Side Sesh S1 E10 | Pathfinder 1E",
+      "published_at": "2020-06-01T05:00:00+00:00",
+      "link": null,
+      "description": "The heroes become further entangled in the mysteries of Ravenmoor. Watch the video here: https://www.youtube.com/watch?v=Dn9itT2T5hg Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/316a7358-5ebf-11f1-a78f-07ecf320feb8/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7139042856.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8015",
+      "speakers": [],
+      "topics": [
+        "miss",
+        "spider",
+        "woman",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f1b1f5dd0aa9d175b74a65a5695ad34f828e82b8",
+      "title": "Gnoll Coward | Side Quest Side Sesh S1 E9 | Pathfinder 1E",
+      "published_at": "2020-05-25T05:00:00+00:00",
+      "link": null,
+      "description": "With the Lupescus unmasked, the team investigates the abandoned farmhouse. Watch the video here: https://www.youtube.com/watch?v=IKhMB_t7BSg Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0339b214-5ebf-11f1-82ee-7b1f928017a8/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8148729418.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8393",
+      "speakers": [
+        "Gnoll Coward"
+      ],
+      "topics": [
+        "gnoll",
+        "coward",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "0b3b4e74e92e2f875eae017ded9af24c252e3888",
+      "title": "Netflix and Kill | Side Quest Side Sesh S1 E8 | Pathfinder 1E",
+      "published_at": "2020-05-18T05:00:00+00:00",
+      "link": null,
+      "description": "A nightcap with the mayor leads the way to a late night rendez-vous. Watch the video here: https://www.youtube.com/watch?v=uor6ddhwX6E Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/c475e2b4-5ebe-11f1-bef9-4bcfc62ac3a2/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1971328358.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7202",
+      "speakers": [],
+      "topics": [
+        "netflix",
+        "kill",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "5db326f464b7cf72af26e833c1a4302a8c77bc39",
+      "title": "I Left My Notebook in New Jersey | Side Quest Side Sesh S1 E7 | Pathfinder 1E",
+      "published_at": "2020-05-11T05:00:00+00:00",
+      "link": null,
+      "description": "For the first time in history, a \"catch the greased pig\" contest goes bad! Watch the video here: https://www.youtube.com/watch?v=xY84ir8gOKo Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7fe01b24-5ebe-11f1-ad75-2f0a95d21330/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4360120770.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7397",
+      "speakers": [],
+      "topics": [
+        "notebook",
+        "jersey",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "c0c2a6666579ce17c7df412d82a796e3ff224d9d",
+      "title": "Vinegar Tom Before the Storm | Side Quest Side Sesh S1 E6 | Pathfinder 1E",
+      "published_at": "2020-05-04T05:00:00+00:00",
+      "link": null,
+      "description": "The party gather information and play games at Ravenmoor's monthly Founder's Festival. Watch the video here: https://www.youtube.com/watch?v=LD-zIbi5ME8 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5331c97e-5ebe-11f1-ac03-d3ae954f81d7/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3657150654.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7016",
+      "speakers": [
+        "Vinegar Tom Before"
+      ],
+      "topics": [
+        "vinegar",
+        "storm",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b64635b817b5fc85ed32f5e56181c89495b5612b",
+      "title": "The Learnmaker | Side Quest Side Sesh S1 E5 | Pathfinder 1E",
+      "published_at": "2020-04-27T05:00:00+00:00",
+      "link": null,
+      "description": "After a meeting with the mayor, the party become more acquainted with the town and its odd residents. Watch the video here: https://www.youtube.com/watch?v=Q9JL9TyrY44 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1fe1413a-5ebe-11f1-9eea-bb65e9af44da/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2347969810.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7405",
+      "speakers": [],
+      "topics": [
+        "learnmaker",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "12792c56d54930d6ca14b2f953ec35869b86e5dc",
+      "title": "Diomedes' Principle | Side Quest Side Sesh S1 E4 | Pathfinder 1E",
+      "published_at": "2020-04-20T05:00:00+00:00",
+      "link": null,
+      "description": "The team uncovers the truth behind what's going on in the mysterious grotto. Watch the video here: https://www.youtube.com/watch?v=0ufQoe5ipdU Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/cfde939a-5ebd-11f1-a35d-d7b6695e0780/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1010431143.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9702",
+      "speakers": [
+        "Side Quest Side Sesh"
+      ],
+      "topics": [
+        "diomedes",
+        "principle",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "712a6115684d903afafe5394d4244cc5f7f1ca62",
+      "title": "Crystal Goosed | Side Quest Side Sesh S1 E3 | Pathfinder 1E",
+      "published_at": "2020-04-13T05:00:00+00:00",
+      "link": null,
+      "description": "Paizo Publisher Erik Mona joins the Glass Cannon crew this week for a side quest to the side quest as we travel back in time to see the crew make their bones on the mean streets of Riddleport. Watch the video here: https://www.youtube.com/watch?v=_xQKEWTkLi8 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/93cbbb6c-5ebd-11f1-bd80-83b1fa056e1b/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7581090585.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9027",
+      "speakers": [
+        "Erik Mona",
+        "Glass Cannon"
+      ],
+      "topics": [
+        "crystal",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f807cf72f5aeedd637e690fc4aab05f8289c2edc",
+      "title": "Stirge to Kill...Rising | Side Quest Side Sesh S1 E2 | Pathfinder 1E",
+      "published_at": "2020-04-06T05:00:00+00:00",
+      "link": null,
+      "description": "The \"heroes\" set out for Ravenmoor to investigate the missing tax collector. Watch the video here: https://www.youtube.com/watch?v=b0ge2u7Y_lE Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/65ab4a0e-5ebd-11f1-a1b4-af513801da5a/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3139143981.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7716",
+      "speakers": [],
+      "topics": [
+        "stirge",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f8bae33a7c535a33551701c5dea59e63f9ee8741",
+      "title": "Sharp as a Provolone | Side Quest Side Sesh S1 E1 | Pathfinder 1E",
+      "published_at": "2020-03-30T05:00:00+00:00",
+      "link": null,
+      "description": "Your good buddies from The Glass Cannon Network are keeping hope alive during the worldwide pandemic with an all new show to fill the gap while their other shows are on hiatus! In this first installment, an all new adventuring party is tasked with finding a missing girl in the wilds of the Mushfens. Watch the video here: https://www.youtube.com/watch?v=wS7trLZYbmI Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/279d6e86-5ebd-11f1-8822-e70fe9aa6623/image/b4635a117c14cc11cbfb3019faee51af.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7266835961.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9540",
+      "speakers": [],
+      "topics": [
+        "provolone",
+        "quest",
+        "sesh",
         "pathfinder"
       ]
     },
@@ -18902,6 +20165,18 @@
 
 ## Episodes (newest first)
 
+- 2026-06-05 — Twilight: 2000 | GCN Naish Rally — speakers: United States
+- 2026-06-05 — Gede from the Machine | The Glass Cannon Podcast Shadowdark E29 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-06-04 — Bitter Sweet Symphony | Call of Cthulhu Live! | Dallas 2026 | Modern Call of Cthulhu — speakers: Sweet Symphony, Quiet Horizon
+- 2026-06-04 — Regency Cthulhu | GCN Naish Rally — speakers: Alastair Linville
+- 2026-06-03 — Mothership | GCN Naish Rally — speakers: Troy Lavallee
+- 2026-06-02 — The Queen's Wedding, Part 2 | Pendragon: Under an Iron Sky | Chaosium
+- 2026-06-01 — GCN News Minute June 1, 2026 — speakers: News Minute June
+- 2026-06-01 — Stormy Weather | Blood of the Wild S1 E24 | Pathfinder 2E Quest for the Frozen Flame
+- 2026-05-29 — Escape Room | The Glass Cannon Podcast Shadowdark E28 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-05-28 — Midnight Special | Call of Cthulhu Live! | St. Louis 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
+- 2026-05-27 — Twilight: 2000 Character Creation | GCN Naish Rally — speakers: Character Creation, Naish Rally Joe, Lifepath System
+- 2026-05-26 — GCN News Minute May 26, 2026 — speakers: News Minute May, Naish Rally
 - 2026-05-26 — The Queen's Wedding, Part 1 | Pendragon: Under an Iron Sky | Chaosium — speakers: Iron Sky, Chaosium Hark
 - 2026-05-25 — Hunting and Hexes | Blood of the Wild S1 E23 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-05-22 — Crypt Walk | The Glass Cannon Podcast Shadowdark E27 | Shadowdark RPG — speakers: Crypt Walk, Shadowdark Rpg, Myre Castle
@@ -19050,8 +20325,8 @@
 - 2025-08-28 — Glass Cannon Radio #31 - Violence in RPGs/Crunch Factor/Unwritten Rules
 - 2025-08-23 — Sophrosyne | Time For Chaos S3 E7 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jack Brady
 - 2025-08-22 — HR Buffs N' Stuff | The Glass Cannon Podcast Gatewalkers E99 | Pathfinder 2E
-- 2025-08-21 — Glass Cannon Radio #30 – Special Guest John Harper/Game Design/Crime Fiction — speakers: John Harper Game Design, John Harper
 - 2025-08-21 — Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E
+- 2025-08-21 — Glass Cannon Radio #30 – Special Guest John Harper/Game Design/Crime Fiction — speakers: John Harper Game Design, John Harper
 - 2025-08-16 — Bared Fang | Time For Chaos S3 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Bared Fang
 - 2025-08-15 — The Fissure Queen | The Glass Cannon Podcast Gatewalkers E98 | Pathfinder 2E — speakers: Nameless Spires
 - 2025-08-14 — Glass Cannon Radio #29 – Improv/Mythic Bastionland/Conspiracy Theories — speakers: Mary Lou
@@ -19073,25 +20348,25 @@
 - 2025-07-11 — Owl's Moving Castle | The Glass Cannon Podcast Gatewalkers E93 | Pathfinder 2E — speakers: Moving Castle
 - 2025-07-10 — Phantom Punch | Glass Cannon Live! Ascension Part 8 | Toronto 2025 | Pathfinder 2E
 - 2025-07-10 — Glass Cannon Radio #24 – Superman (2025)/Superhero RPGs/Andor Finale — speakers: James Gunn
-- 2025-07-04 — Death Be Not Proud | Time For Chaos S2 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Misr House
 - 2025-07-04 — Once Bitten, Ice Shy | The Glass Cannon Podcast Gatewalkers E92 | Pathfinder 2E
-- 2025-07-03 — Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-07-04 — Death Be Not Proud | Time For Chaos S2 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Misr House
 - 2025-07-03 — Glass Cannon Radio #23 – Captain America/Indie RPGs/Best Fictional President
+- 2025-07-03 — Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-07-02 — One Little Room | Time For Chaos S2 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: One Little Room, Cthulhu Masks, Nyarlathotep After
 - 2025-07-01 — Smoke on the Water | Time For Chaos S2 E17 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-30 — Exhibit A | Time For Chaos S2 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
 - 2025-06-28 — Kingdom Come | Glass Cannon Live! Ascension Part 7 | Ann Arbor 2025 | Pathfinder 2E — speakers: Rosewood Vale
-- 2025-06-27 — Yurty Rotten Scoundrels | The Glass Cannon Podcast Gatewalkers E91 | Pathfinder 2E — speakers: Yurty Rotten Scoundrels
 - 2025-06-27 — Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Hidden Lines, Cthulhu Masks, Henson Manufacturing
+- 2025-06-27 — Yurty Rotten Scoundrels | The Glass Cannon Podcast Gatewalkers E91 | Pathfinder 2E — speakers: Yurty Rotten Scoundrels
 - 2025-06-26 — Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-26 — Glass Cannon Radio #22 – Nerd Bracket Finals/Zombie Gaming/Beat McD
 - 2025-06-25 — Two Little Ducks | Time For Chaos S2 E13 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-24 — The Prodigal Son | Time For Chaos S2 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep Content Warning
 - 2025-06-23 — Old Habits | Time For Chaos S2 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Old Habits, Cthulhu Masks, Nyarlathotep Content Warning
-- 2025-06-20 — We Did Extinction | The Glass Cannon Podcast Gatewalkers E90 | Pathfinder 2E
 - 2025-06-20 — Lupus In Fabula | Time For Chaos S2 E10 | Call of Cthulhu Masks of Nyarlathotep
-- 2025-06-19 — Glass Cannon Radio #21 – The Alien Franchise/Railroading PCs/Great Gamblers
+- 2025-06-20 — We Did Extinction | The Glass Cannon Podcast Gatewalkers E90 | Pathfinder 2E
 - 2025-06-19 — Law and Orders | Time For Chaos S2 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
+- 2025-06-19 — Glass Cannon Radio #21 – The Alien Franchise/Railroading PCs/Great Gamblers
 - 2025-06-18 — Four Great Beasts | Time For Chaos S2 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Four Great Beasts, Cthulhu Masks, Empire Spices
 - 2025-06-17 — Spice It Up! | Time For Chaos S2 E7 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-16 — Hearts and Clubs | Time For Chaos S2 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
@@ -19101,17 +20376,17 @@
 - 2025-06-11 — Artist In Residence | Time For Chaos S2 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jackson Elias
 - 2025-06-10 — Cruise Line Visit Getaway | Time For Chaos S2 E2 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-09 — The Temptation of St. Anthony | Time For Chaos S2 E1 | Call of Cthulhu Masks of Nyarlathotep
-- 2025-06-06 — Doctor Roust Us | The Glass Cannon Podcast Gatewalkers E88 | Pathfinder 2E — speakers: Roust Us
 - 2025-06-06 — The Lunatic Is in My Head | Time For Chaos S1 E20 | Call of Cthulhu Masks of Nyarlathotep
-- 2025-06-05 — Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Carlyle Mansion
+- 2025-06-06 — Doctor Roust Us | The Glass Cannon Podcast Gatewalkers E88 | Pathfinder 2E — speakers: Roust Us
 - 2025-06-05 — Glass Cannon Radio #20 – Is Fudging Rolls Okay? / Age of Vikings RPG / Nerdiest Hobbies Bracket — speakers: Skid Maher
+- 2025-06-05 — Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Carlyle Mansion
 - 2025-06-04 — Maniac Mansion | Time For Chaos S1 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Maniac Mansion, Cthulhu Masks, Carlyle Mansion
 - 2025-06-03 — The Mystery Squad | Time For Chaos S1 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
 - 2025-06-02 — And One Was a Soldier | Time For Chaos S1 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
 - 2025-05-30 — Inveigle with Lox | The Glass Cannon Podcast Gatewalkers E87 | Pathfinder 2E
 - 2025-05-30 — Ill Met By Moonlight | Time For Chaos S1 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
-- 2025-05-29 — Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Spot Hidden, Cthulhu Masks, Nyarlathotep New
 - 2025-05-29 — Glass Cannon Radio #19 – What Makes a Great Roleplayer? / Best Sports Movies of All Time / Obscure Obsessions — speakers: Glass Cannon Radio, What Makes, Great Roleplayer, Best Sports Movies, All Time
+- 2025-05-29 — Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Spot Hidden, Cthulhu Masks, Nyarlathotep New
 - 2025-05-28 — Death House | Time For Chaos S1 E13 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-05-27 — Harlem Shuffle | Time For Chaos S1 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Harlem Shuffle, Cthulhu Masks
 - 2025-05-26 — Let's Scream Together | Time For Chaos S1 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Scream Together, Cthulhu Masks, Police Station
@@ -19123,10 +20398,10 @@
 - 2025-05-20 — Exquisite Corpses | Time For Chaos S1 E7 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-05-19 — Just a Little Tear | Time For Chaos S1 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Little Tear, Cthulhu Masks
 - 2025-05-17 — Along Came a Rider | Glass Cannon Live! Ascension Part 6 | Portland 2025 | Pathfinder 2E — speakers: Rosewood Vale
-- 2025-05-16 — Loosey Balls | The Glass Cannon Podcast Gatewalkers E85 | Pathfinder 2E — speakers: Loosey Balls
 - 2025-05-16 — Lake Titicaca | Time For Chaos S1 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Lake Titicaca, Cthulhu Masks
-- 2025-05-15 — Glass Cannon Radio #17 – The Blacktongue Thief / Going Rogue in RPGs / Nerd Rant — speakers: Christopher Buehlman
+- 2025-05-16 — Loosey Balls | The Glass Cannon Podcast Gatewalkers E85 | Pathfinder 2E — speakers: Loosey Balls
 - 2025-05-15 — The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: Augustus Larkin
+- 2025-05-15 — Glass Cannon Radio #17 – The Blacktongue Thief / Going Rogue in RPGs / Nerd Rant — speakers: Christopher Buehlman
 - 2025-05-14 — First Kiss | Time For Chaos S1 E3 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-05-13 — Pisco Sour | Time For Chaos S1 E2 | Call of Cthulhu Masks of Nyarlathotep — speakers: Pisco Sour, Cthulhu Masks
 - 2025-05-12 — Dramatis Personae | Time For Chaos S1 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: Dramatis Personae, Ross Bryant, Noura Ibrahim, Kate Stamas, Rob Kerko
@@ -19239,8 +20514,8 @@
 - 2024-05-24 — Missing Moments | The Glass Cannon Podcast Gatewalkers E36 | Pathfinder 2E
 - 2024-05-22 — Strange Aeons Episode 90 – Father Bubbles
 - 2024-05-17 — Come Snail Away | The Glass Cannon Podcast Gatewalkers E35 | Pathfinder 2E — speakers: Come Snail Away
-- 2024-05-15 — Cannon Fodder 5/15/24
 - 2024-05-15 — Strange Aeons Episode 89 – I Wanna Dream Again
+- 2024-05-15 — Cannon Fodder 5/15/24
 - 2024-05-10 — You've Got Snail | The Glass Cannon Podcast Gatewalkers E34 | Pathfinder 2E — speakers: Got Snail
 - 2024-05-08 — Cannon Fodder 5/8/24 — speakers: Cannon Fodder, Gen Con, Joe kick
 - 2024-05-03 — Hungry Dart | The Glass Cannon Podcast Gatewalkers E33 | Pathfinder 2E — speakers: Hungry Dart
@@ -19314,20 +20589,32 @@
 - 2023-09-15 — Where's the Tavern? | The Glass Cannon Podcast Gatewalkers E1 | Pathfinder 2E
 - 2023-09-13 — Cannon Fodder 9/13/23 — speakers: Cannon Fodder
 - 2023-09-06 — Cannon Fodder 9/6/23 — speakers: Cannon Fodder
+- 2023-09-04 — Murder, She Boat | Side Quest Side Sesh S2 E13 | Pathfinder 2E
 - 2023-09-01 — Zero to Heroes | The Glass Cannon Podcast Gatewalkers E0 | Pathfinder 2E
 - 2023-08-30 — Cannon Fodder 8/30/23 — speakers: Cannon Fodder
+- 2023-08-28 — Mighty Dwarf and Dour Rangers | Side Quest Side Sesh S2 E11 | Pathfinder 2E — speakers: Mighty Dwarf, Dour Rangers
 - 2023-08-23 — Strange Aeons Episode 82 – Daddy's Special Yogurt
 - 2023-08-23 — Cannon Fodder 8/23/23 — speakers: Cannon Fodder
+- 2023-08-21 — Sewer Discretion Advised | Side Quest Side Sesh S2 E10 | Pathfinder 2E
 - 2023-08-16 — Cannon Fodder 8/16/23 — speakers: Cannon Fodder
+- 2023-08-14 — Vault in the Wounds | Side Quest Side Sesh S2 E9 | Pathfinder 2E
 - 2023-08-09 — Cannon Fodder 8/9/23 — speakers: Gen Con
+- 2023-08-07 — Vault! Who Goes There? | Side Quest Side Sesh S2 E8 | Pathfinder 2E
+- 2023-07-31 — Dancing on the Sealing | Side Quest Side Sesh S2 E7 | Pathfinder 2E — speakers: Side Quest Side Sesh
 - 2023-07-30 — Strange Aeons Episode 81 – Mister Sir
 - 2023-07-26 — Cannon Fodder 7/26/23 — speakers: Cannon Fodder, Gen Con
+- 2023-07-24 — Stamen Alive | Side Quest Side Sesh S2 E6 | Pathfinder 2E
 - 2023-07-19 — Cannon Fodder 7/19/23 — speakers: Cannon Fodder
+- 2023-07-17 — Court Jesters | Side Quest Side Sesh S2 E5 | Pathfinder 2E — speakers: Court Jesters, Side Quest Side Sesh
 - 2023-07-12 — Cannon Fodder 7/12/23 — speakers: Cannon Fodder
+- 2023-07-10 — Welcome to the Gungle | Side Quest Side Sesh S2 E4 | Pathfinder 2E
 - 2023-07-07 — Strange Aeons Episode 80 – Real Pain Supernova — speakers: Yellow King
 - 2023-07-05 — Cannon Fodder 7/5/23 — speakers: Cannon Fodder
+- 2023-07-03 — Dumb Sail Away | Side Quest Side Sesh S2 E3 | Pathfinder 2E — speakers: Dumb Sail Away, Side Quest Side Sesh
 - 2023-06-28 — Cannon Fodder 6/28/23 — speakers: Cannon Fodder
+- 2023-06-26 — Revengers Assemble | Side Quest Side Sesh S2 E2 | Pathfinder 2E
 - 2023-06-21 — Cannon Fodder 6/21/23 — speakers: Cannon Fodder, Gen Con
+- 2023-06-19 — Second Shooting Attack | Side Quest Side Sesh S2 E1 | Pathfinder 2E
 - 2023-06-14 — Cannon Fodder 6/14/23 — speakers: Cannon Fodder
 - 2023-06-13 — Strange Aeons Episode 79 – Die Me to the Moon — speakers: Troy Lavallee
 - 2023-06-07 — Cannon Fodder 6/7/23 — speakers: Cannon Fodder
@@ -19504,12 +20791,49 @@
 - 2021-01-19 — Fireball! Run! | The Glass Cannon Podcast Giantslayer E261 | Pathfinder 1E
 - 2021-01-12 — Parapet Sematary | The Glass Cannon Podcast Giantslayer E260 | Pathfinder 1E
 - 2021-01-05 — Take Two of These and Caldera Me in the Morning | The Glass Cannon Podcast Giantslayer E259 | Pathfinder 1E
+- 2021-01-03 — Downward Facing Yog | Side Quest Side Sesh S1 E37 | Pathfinder 1E
 - 2020-12-29 — Secret Flyover of a Caldera Girl | The Glass Cannon Podcast Giantslayer E258 | Pathfinder 1E
 - 2020-12-22 — Tunnel Vision | The Glass Cannon Podcast Giantslayer E257 | Pathfinder 1E
+- 2020-12-20 — Tentacle Difficulties | Side Quest Side Sesh S1 E36 | Pathfinder 1E
 - 2020-12-15 — Brawl the King's Men 3 – Hotline King | The Glass Cannon Podcast Giantslayer E256 | Pathfinder 1E — speakers: King Tytarian
 - 2020-12-08 — Brawl the King's Men 2 – Churls Just Wanna Have Gun | The Glass Cannon Podcast Giantslayer E255 | Pathfinder 1E — speakers: King Tytarian
+- 2020-12-06 — Purple Headed Worriers | Side Quest Side Sesh S1 E35 | Pathfinder 1E
 - 2020-12-01 — Brawl the King's Men | The Glass Cannon Podcast Giantslayer E254 | Pathfinder 1E
 - 2020-11-24 — The Queen's Speech | The Glass Cannon Podcast Giantslayer E253 | Pathfinder 1E
+- 2020-11-22 — Maniac Man Stun | Side Quest Side Sesh S1 E34 | Pathfinder 1E — speakers: Maniac Man Stun
+- 2020-11-16 — Smelled It Too: The Adventure of Stink | Side Quest Side Sesh S1 E33 | Pathfinder 1E
+- 2020-11-09 — Craig Party | Side Quest Side Sesh S1 E32 | Pathfinder 1E — speakers: Craig Party
+- 2020-11-02 — Lunatic Revolution | Side Quest Side Sesh S1 E31 | Pathfinder 1E — speakers: Lunatic Revolution, Side Quest Side Sesh
+- 2020-10-26 — The Door to the North | Side Quest Side Sesh S1 E30 | Pathfinder 1E
+- 2020-10-19 — Ghouls Rush In | Side Quest Side Sesh S1 E29 | Pathfinder 1E — speakers: Ghouls Rush
+- 2020-10-12 — Stair Trek Discovery | Side Quest Side Sesh S1 E18 | Pathfinder 1E
+- 2020-10-05 — Not Another Guillotine Movie | Side Quest Side Sesh S1 E27 | Pathfinder 1E — speakers: Guillotine Movie
+- 2020-09-28 — Never Shae Never Again | Side Quest Side Sesh S1 E26 | Pathfinder 1E
+- 2020-09-21 — One Tree Kill | Side Quest Side Sesh S1 E25 | Pathfinder 1E
+- 2020-09-14 — How I Met Your Brothers | Side Quest Side Sesh S1 E24 | Pathfinder 1E
+- 2020-09-07 — Kayals and Tribulations | Side Quest Side Sesh S1 E23 | Pathfinder 1E
+- 2020-08-31 — Better Call Wall | Side Quest Side Sesh S1 E22 | Pathfinder 1E
+- 2020-08-17 — Conceal and Barry | Side Quest Side Sesh S1 E21 | Pathfinder 1E
+- 2020-08-10 — Brides Dead Revisited | Side Quest Side Sesh S1 E20 | Pathfinder 1E — speakers: Boroi Manor
+- 2020-08-03 — Shade Row Superstar (That's Not What You Are) | Side Quest Side Sesh S1 E19 | Pathfinder 1E — speakers: Shade Row Superstar, Shade Row
+- 2020-07-27 — It's Not Easy Being Gene | Side Quest Side Sesh S1 E18 | Pathfinder 1E
+- 2020-07-20 — First World Problems | Side Quest Side Sesh S1 E17 | Pathfinder 1E
+- 2020-07-13 — Natural One Killers | Side Quest Side Sesh S1 E16 | Pathfinder 1E
+- 2020-07-06 — Too Hot to Candle | Side Quest Side Sesh S1 E15 | Pathfinder 1E
+- 2020-06-29 — A Manor Darkly | Side Quest Side Sesh S1 E14 | Pathfinder 1E — speakers: Boroi Manor
+- 2020-06-22 — A Mastiff Named Sapphire | Side Quest Side Sesh S1 E13 | Pathfinder 1E
+- 2020-06-15 — There's Something About Mayor! See! | Side Quest Side Sesh S1 E12 | Pathfinder 1E
+- 2020-06-08 — The Corn Ultimatum | Side Quest Side Sesh S1 E11 | Pathfinder 1E
+- 2020-06-01 — Miss of the Spider Woman | Side Quest Side Sesh S1 E10 | Pathfinder 1E
+- 2020-05-25 — Gnoll Coward | Side Quest Side Sesh S1 E9 | Pathfinder 1E — speakers: Gnoll Coward
+- 2020-05-18 — Netflix and Kill | Side Quest Side Sesh S1 E8 | Pathfinder 1E
+- 2020-05-11 — I Left My Notebook in New Jersey | Side Quest Side Sesh S1 E7 | Pathfinder 1E
+- 2020-05-04 — Vinegar Tom Before the Storm | Side Quest Side Sesh S1 E6 | Pathfinder 1E — speakers: Vinegar Tom Before
+- 2020-04-27 — The Learnmaker | Side Quest Side Sesh S1 E5 | Pathfinder 1E
+- 2020-04-20 — Diomedes' Principle | Side Quest Side Sesh S1 E4 | Pathfinder 1E — speakers: Side Quest Side Sesh
+- 2020-04-13 — Crystal Goosed | Side Quest Side Sesh S1 E3 | Pathfinder 1E — speakers: Erik Mona, Glass Cannon
+- 2020-04-06 — Stirge to Kill...Rising | Side Quest Side Sesh S1 E2 | Pathfinder 1E
+- 2020-03-30 — Sharp as a Provolone | Side Quest Side Sesh S1 E1 | Pathfinder 1E
 - 2020-03-24 — Sharp Guns Make No Silence | The Glass Cannon Podcast Giantslayer E252 | Pathfinder 1E — speakers: Barron Ashpeak
 - 2020-03-17 — No Retreat, No Defender | The Glass Cannon Podcast Giantslayer E251 | Pathfinder 1E
 - 2020-03-10 — Trunau As It Ever Was | The Glass Cannon Podcast Giantslayer E250 Part 2 | Pathfinder 1E

@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-05-21T04:47:50+00:00`
-- checked_at: `2026-05-21T04:47:50+00:00`
-- etag: `"ff06ef8b8472a31f906869205f9e9b66"`
-- last_modified: `Thu, 21 May 2026 00:03:37 GMT`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"bcdc6363362e050fe9697a4de9ae10b9"`
+- last_modified: `Wed, 03 Jun 2026 08:11:40 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-05-21T04:47:50+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,42 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "cc8015b8cb1ed4b68fe41504b498e68533386f5b",
+      "title": "The Fog Campaign - Episode 73",
+      "published_at": "2026-06-03T08:06:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-73",
+      "description": "Big bad 1 dead, big bad 2 dead, now just to escape the entire ocean that's rapidly rocketing up the rumps of the Ding Dong Danglers. For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more be sure to head to nerdpokerpod.com",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7073-20260520-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102675968",
+      "itunes_duration": "42:47",
+      "speakers": [
+        "Brian Posehn"
+      ],
+      "topics": [
+        "campaign"
+      ]
+    },
+    {
+      "key": "00d9a2fcc07bd4e81dc928b44291b2d6bf38185e",
+      "title": "The Fog Campaign - Episode 72",
+      "published_at": "2026-05-27T22:51:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-72",
+      "description": "Well it's one thing to kill a leviathan, but hey, we can't forget to swim up to the cavern's um... hole... so we can escape, too. For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more be sure to head to nerdpokerpod.com",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7072-20260520-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104966528",
+      "itunes_duration": "43:45",
+      "speakers": [
+        "Brian Posehn"
+      ],
+      "topics": [
+        "campaign"
+      ]
+    },
     {
       "key": "1259a33efe1a8588fd66639fc1fdb0a351f8dda0",
       "title": "The Fog Campaign - Episode 71",
@@ -8904,6 +8940,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — The Fog Campaign - Episode 73 — speakers: Brian Posehn
+- 2026-05-27 — The Fog Campaign - Episode 72 — speakers: Brian Posehn
 - 2026-05-21 — The Fog Campaign - Episode 71 — speakers: Brian Posehn
 - 2026-05-12 — The Fog Campaign - Episode 70 — speakers: Ding Dong Danglers, Brian Posehn
 - 2026-05-06 — The Fog Campaign - Episode 69 — speakers: Brian Posehn

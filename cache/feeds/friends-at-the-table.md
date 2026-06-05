@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-05-16T04:05:18+00:00`
-- checked_at: `2026-05-16T04:05:18+00:00`
-- etag: `"0112479d180161a1b19517565adbf235"`
-- last_modified: `Sat, 16 May 2026 02:57:35 GMT`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"1174dc112115e2566adb47e78d853099"`
+- last_modified: `Mon, 01 Jun 2026 22:34:07 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-05-16T04:05:18+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "8de0fdedbf47e7cbab8d444c9e2b54285505e469",
+      "title": "Perpetua 42: Escape the Rumbling Castle! 02",
+      "published_at": "2026-05-29T04:45:12+00:00",
+      "link": "https://friendsatthetable.net/perpetua-42-escape-the-rumbling-castle-02",
+      "description": "As the northern edge of the Castle Eschatonica grows closer, the adventurers within begin to sense a change in the dungeon around them. While the Celestial Echoes that make up the hallways and rooms of the castle were once neatly separated, now it seems that the people and places from the various past Perpetuan worlds have begun to overlap and interact. In search of information, Brontë, Veile, Elena, and Caoimhe seek help from an otherworldly machine. Meanwhile, on the other side of the castle, a gang of otherworldly beings seeks help from the trio of Antistrophe, Jonathan, and Uncle Nicky. This Week on Perpetua: Escape the Rumbling Castle! 02 Perpetua Guide [In Progress v.06] Some Feedback [Page 64 of 65] Doom_Tree_Anne So, I HAVE to know… who is everyone's favorite Agony? Back in Imago 2: Ancestral Fault, I HATED Miss Mephitic, because I just thought compared to the other Agonies, she was a really boring design. Who cares about a bunch of vines!? But with the music box/ballerina re-design in this game… I think she might have jumped to the top of the list! I guess we have to wait and see if she keeps it going forward… TheUnforgivenIII My favorite is definitely Melo. That guy seems like he'd be cool to chill out with and listen to music with. Alukard83 Wow, color me surprised Unforgiven! I thought you'd be an Ira guy, through and through. TheUnforgivenIII Why the hell would I like that stupid little idiot baby? Alukard83 Well, now I think it might be a bad idea to tell you why. As for my favorite, this is the first time I'm really meeting them, but I gotta say, I really love Connie. I love it when something references something else, you know? And she's sort of a walking (well, rolling) reference machine! TheDiamondRanger What's An Agony? The strategy guide says they're like equipable spells but it sounds like they're NPCS too!? CarlsSr You're such a Wan. Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), Janine Hawkins ( @bleatingheart ), Sylvi Bullet ( @sylvibullet ), Keith J Carberry ( @keithjcarberry ) and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_42_Escape_the_Rumbling_Castle_02.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97179496",
+      "itunes_duration": "01:26:09",
+      "speakers": [
+        "Rumbling Castle",
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "rumbling",
+        "castle"
+      ]
+    },
     {
       "key": "1c2a655be742ef7bf57f1a7a23184319876e66c7",
       "title": "Perpetua 41: Escape the Rumbling Castle! 01",
@@ -11478,6 +11499,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-29 — Perpetua 42: Escape the Rumbling Castle! 02 — speakers: Rumbling Castle, Austin Walker
 - 2026-05-16 — Perpetua 41: Escape the Rumbling Castle! 01 — speakers: Rumbling Castle, Castle Eschatonica, Austin Walker
 - 2026-04-21 — Perpetua 40: The Castle Eschatonica 08 — speakers: Austin Walker
 - 2026-04-07 — Perpetua 39: The Castle Eschatonica 07 — speakers: Austin Walker

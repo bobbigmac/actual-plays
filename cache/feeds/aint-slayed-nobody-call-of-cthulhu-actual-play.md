@@ -2,9 +2,9 @@
 
 - slug: `aint-slayed-nobody-call-of-cthulhu-actual-play`
 - source: `https://feeds.acast.com/public/shows/632da7cf6d7ffa0012565ffa`
-- fetched_at: `2026-05-12T11:28:10+00:00`
-- checked_at: `2026-05-12T11:28:10+00:00`
-- etag: `"djEuMi4wOjE3Nzg1ODE4Mzk0NTY="`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"djEuMi4wOjE3ODAwNTA2Mzk0NDc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.aintslayednobody.com",
   "description": "A Call of Cthulhu Actual Play of Horror, Comedy, and the Weird West",
   "image_url": "https://assets.pippa.io/shows/632da7cf6d7ffa0012565ffa/1770424763930-7baac491-35cc-4c89-9b14-2a85d1740d9d.jpeg",
-  "fetched_at": "2026-05-12T11:28:10+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "ttrpg/call-of-cthulhu"
   ],
   "episodes": [
+    {
+      "key": "1ad5b7559c49f53ddd41ac77e0fabcb46746000a",
+      "title": "The Between 33 - Leaving a Mark",
+      "published_at": "2026-05-29T10:30:00+00:00",
+      "link": "https://shows.acast.com/aint-slayed-nobody/episodes/the-between-33-leaving-a-mark",
+      "description": "Things at Hargrave House get messy in several directions. Mr. Quiet makes a family decision, Moira and Viola turn bath time into a nightmare, and Sebastian handles his private affairs in the most Sebastian way possible. (Part 33) This series is not suitable for listeners under the age of 18 and may contain material some people find disturbing. CONTENT WARNINGS: body horror, spiders, drowning, emotional manipulation, self-harm imagery, sexual themes, profanity, violence Player Characters Jason Cordova as Keeper Scott Dorward as Sebastian Melmoth Josephine McAdam as Moyra Innes Nic Rosenberg as Viola Archer cuppycup as Edward Quiet Production and Creative The Between system by The Gauntlet Editing by cuppycup and Scott Dorward Sound Design and Production by cuppycup Patreon: https://patreon.com/aintslayed Leave a Tip: https://streamlabs.com/pushtheroll/tip Merch: https://shop.pushtheroll.com/ Discord: https://slayed.me/discord Web: https://pushtheroll.com Instagram: https://instagram.com/pushtheroll Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/632da7cf6d7ffa0012565ffa/1779990096109-9cbe28ce-d4d2-4db1-8a33-60c2a7ef23de.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/632da7cf6d7ffa0012565ffa/e/6a187edcda0413146c195bcc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "146430459",
+      "itunes_duration": "1:16:15",
+      "speakers": [],
+      "topics": [
+        "mark"
+      ]
+    },
     {
       "key": "80ddae17acc32121e6bf3c482287b72b24500b41",
       "title": "The Between 32 - We Are All Monsters",
@@ -3638,6 +3654,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-29 — The Between 33 - Leaving a Mark
 - 2026-05-12 — The Between 32 - We Are All Monsters — speakers: Hargrave House
 - 2026-05-05 — The Between 31 - Doors Closing
 - 2026-04-28 — The Between 30 - Grave Matters — speakers: Grave Matters Things, Hargrave House

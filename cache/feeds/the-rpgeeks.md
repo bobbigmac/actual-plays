@@ -2,9 +2,9 @@
 
 - slug: `the-rpgeeks`
 - source: `https://feed.podbean.com/rpgeeksdnd/feed.xml`
-- fetched_at: `2026-05-24T14:03:22+00:00`
-- checked_at: `2026-05-24T14:03:22+00:00`
-- etag: `"78b0279886c96b3b795e02a34f5a1796"`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"1a74105c2003390eb9d8cc4cab8513f4"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://rpgeeksdnd.podbean.com",
   "description": "Nerdy actual play with epic stories and fascinating facts. Tales of danger, drama, nonsense and joy - plus lore-drops on our favourite topics! UK-based TTRPG show, live on Wednesdays from 7pm.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/11909286/Circular_Profile_-_RPGeeks_Text_and_Planet_with_Extra_Space_atri7q.jpg",
-  "fetched_at": "2026-05-24T14:03:22+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,46 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "016eaf7d317100f32f4980403feafd44fe72d615",
+      "title": "Brindlewood Bay with Jason Cordova Pt. 2",
+      "published_at": "2026-06-02T12:00:00+00:00",
+      "link": "https://rpgeeksdnd.podbean.com/e/brindlewood-bay-with-jason-cordova-pt-2/",
+      "description": "Four little old ladies are about to take on a murderer as Emily, Fiona and Shamini are joined by Markus Copeland and special guest Keeper Jason Cordova for special two-shot of Brindlewood Bay : A cozy murder mystery RPG! Credits Keeper Jason Cordova: https://bsky.app/profile/jasoncordova.bsky.social Cast Emily Bates: https://bsky.app/profile/emzywb.bsky.social Shamini Bundell: https://bsky.app/profile/shamini.bsky.social Fiona Howat: https://bsky.app/profile/fkth.bsky.social Markus Copeland: https://www.twitch.tv/markusboiii Scenario/System Brindlewood Bay is a roleplaying game about a group of elderly women—members of the local Murder Mavens mystery book club—who find themselves solving actual murder mysteries in their quaint New England town. Find out more here ! Huge thanks to our geeks and patrons: Andy Hartley | Bayneeon | Bookwyrm | Caitlin Kriv | Chaotic Brain Person | Dan Andersen | David Valentine | Debbie - harobed96 | Edain | Ellie Wilson | Gamer Badger | Holly Scott Laukkonen | Kana Wilson | Keegan Amrine | Laura Chiarello | LycanEsth | Martin S | Matt T | Micaiah Parker | Mother of Ferrets | Nathan Decker | Neil | Nicholas Munro Turner | Scarlett Rose | Snap Grapple Pop | Tina Øyna | Travis Wertz | Valery North | Year | Patrons can catch our session 0(s) over on https://patreon.com/rpgeeksdnd! The RPGeeks is a nerdy TTRPG show with epic stories and fascinating facts! Find out more via our linktree: https://linktr.ee/rpgeeksdnd",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/qbra3rjzh5k2fjdu/2026-05-27_13-00-47bfo21.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114922903",
+      "itunes_duration": "7182",
+      "speakers": [
+        "Jason Cordova"
+      ],
+      "topics": [
+        "brindlewood",
+        "jason",
+        "cordova"
+      ]
+    },
+    {
+      "key": "1abcdbe56c9c69d1e714577470a6ed21c9d29614",
+      "title": "Brindlewood Bay with Jason Cordova Pt. 1",
+      "published_at": "2026-06-01T12:00:00+00:00",
+      "link": "https://rpgeeksdnd.podbean.com/e/brindlewood-bay-with-jason-cordova-pt-1/",
+      "description": "Four little old ladies are about to take on a murderer as Emily, Fiona and Shamini are joined by Markus Copeland and special guest Keeper Jason Cordova for special two-shot of Brindlewood Bay : A cozy murder mystery RPG! Credits Keeper Jason Cordova: https://bsky.app/profile/jasoncordova.bsky.social Cast Emily Bates: https://bsky.app/profile/emzywb.bsky.social Shamini Bundell: https://bsky.app/profile/shamini.bsky.social Fiona Howat: https://bsky.app/profile/fkth.bsky.social Markus Copeland: https://www.twitch.tv/markusboiii Scenario/System Brindlewood Bay is a roleplaying game about a group of elderly women—members of the local Murder Mavens mystery book club—who find themselves solving actual murder mysteries in their quaint New England town. Find out more here ! Huge thanks to our geeks and patrons: | Andrew Rosenberg | Andy Hartley | Bayneeon | Bookwyrm | Caitlin Kriv | Chaotic Brain Person | Dan Andersen | David Valentine | Debbie - harobed96 | Edain | Ellie Wilson | Gamer Badger | Holly Scott Laukkonen | Kana Wilson | Keegan Amrine | Laura Chiarello | LycanEsth | Martin S | Matt T | Micaiah Parker | Mother of Ferrets | Nathan Decker | Neil | Nicholas Munro Turner | Scarlett Rose | Snap Grapple Pop | Tina Øyna | Travis Wertz | Valery North | Year | Patrons can catch our session 0(s) over on https://patreon.com/rpgeeksdnd! The RPGeeks is a nerdy TTRPG show with epic stories and fascinating facts! Find out more via our linktree: https://linktr.ee/rpgeeksdnd",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/y4autk2rr53yp6nv/Brindlewood_Bay_Pt_1abcj2.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "151427096",
+      "itunes_duration": "9463",
+      "speakers": [
+        "Jason Cordova"
+      ],
+      "topics": [
+        "brindlewood",
+        "jason",
+        "cordova"
+      ]
+    },
     {
       "key": "aad22f784e9391274b26d79337f05ef9454890e8",
       "title": "Blade Runner 2037 | Chapter 07: Tears in the Rain",
@@ -2028,44 +2068,6 @@
         "dragons",
         "science"
       ]
-    },
-    {
-      "key": "94f1850260e6a236a9616fae6c0c2402a4b29830",
-      "title": "Episode 28: The Plaza | Dungeons & Dragons & Science",
-      "published_at": "2022-08-05T18:03:13+00:00",
-      "link": "https://rpgeeksdnd.podbean.com/e/episode-28-the-plaza-dungeons-dragons-science/",
-      "description": "The exciting conclusion of chapter 2 of our story! The party simply needs to get across The Plaza... Dungeons & Dragons & Science is a DnD actual-play show. Watch as four professional science communicators mix real science with role-play sci-fi adventures! The RPGeeks go live every Wednesday at 7pm UK time. Tune in for adventuring and our DnDebrief show where we explore some of the real science that inspired the story. Wednesday 7pm UK: http://twitch.tv/drsimonclark Y ou can watch previous episodes on our YouTube channel or listen to the show in podcast format. Don't forget to also follow us on Twitter, TikTok and Instagram for bonus bite-sized chunks of science every week! @RPGeeksDnD",
-      "image_url": null,
-      "enclosure_url": "https://mcdn.podbean.com/mf/web/evkj22/Episode_28_final_cut9xguh.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "170791145",
-      "itunes_duration": "10673",
-      "speakers": [],
-      "topics": [
-        "plaza",
-        "dungeons",
-        "dragons",
-        "science"
-      ]
-    },
-    {
-      "key": "95fb42e7332aa2fbe82ff36d681daa2a518ac241",
-      "title": "Episode 27: The Festival | Dungeons & Dragons & Science",
-      "published_at": "2022-08-05T17:30:44+00:00",
-      "link": "https://rpgeeksdnd.podbean.com/e/episode-27-the-festival-dungeons-dragons-science/",
-      "description": "It's time to go to the festival... with a *very* dangerous guest... Things are coming to a head in chapter 2! Meanwhile, Bates talks about the science of transformers (robots in disguise) Dungeons & Dragons & Science is a DnD actual-play show. Watch as four professional science communicators mix real science with role-play sci-fi adventures! The RPGeeks go live every Wednesday at 7pm UK time. Tune in for adventuring and our DnDebrief show where we explore some of the real science that inspired the story. Wednesday 7pm UK: http://twitch.tv/drsimonclark You can watch previous episodes on our YouTube channel or listen to the show in podcast format. Don't forget to also follow us on Twitter, TikTok and Instagram for bonus bite-sized chunks of science every week! @RPGeeksDnD",
-      "image_url": null,
-      "enclosure_url": "https://mcdn.podbean.com/mf/web/sbb29i/Episode_27_final_cut98m54.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "122137576",
-      "itunes_duration": "7632",
-      "speakers": [],
-      "topics": [
-        "festival",
-        "dungeons",
-        "dragons",
-        "science"
-      ]
     }
   ]
 }
@@ -2074,6 +2076,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-02 — Brindlewood Bay with Jason Cordova Pt. 2 — speakers: Jason Cordova
+- 2026-06-01 — Brindlewood Bay with Jason Cordova Pt. 1 — speakers: Jason Cordova
 - 2026-05-24 — Blade Runner 2037 | Chapter 07: Tears in the Rain — speakers: Blade Runner
 - 2026-05-23 — Blade Runner 2037 | Chapter 06: Questionable Things — speakers: Blade Runner
 - 2026-05-22 — Blade Runner 2037 | Chapter 05: The Real McCoy — speakers: Blade Runner
@@ -2172,5 +2176,3 @@
 - 2022-10-03 — Episode 31: Meet the Monks | Dungeons & Dragons & Science
 - 2022-09-25 — Episode 30: Into Martinsbane | Dungeons & Dragons & Science
 - 2022-09-19 — Episode 29: Return to Gunka | Dungeons & Dragons & Science — speakers: Science After
-- 2022-08-05 — Episode 28: The Plaza | Dungeons & Dragons & Science
-- 2022-08-05 — Episode 27: The Festival | Dungeons & Dragons & Science

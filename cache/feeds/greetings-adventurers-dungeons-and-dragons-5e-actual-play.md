@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-05-25T15:30:43+00:00`
-- checked_at: `2026-05-25T15:30:43+00:00`
-- etag: `"djEuMi4wOjE3Nzk3MjEyMzkzNTA="`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `"djEuMi4wOjE3ODAzMjYwMzk1NjQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-05-25T15:30:43+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "dbc31397c7961190c6ac30d286ce4e9a3b55bc35",
+      "title": "Campaign 2: Episode 186 - Super Spike Spy",
+      "published_at": "2026-06-01T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-186-super-spike-spy",
+      "description": "Now that Screech's date is in full swing our heroes do the only logical think which is split up. Naturally, Screech pairs up with R'Orc and his ex wife so that they can all know each other a little better. Luckily there is strength in numbers because these spikes are killing people almost at random. Very dangerous. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Check out Bachmann's GAME CRIMES streams and VODs! Podcast art by Killurmonkey Art ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1780316424599-492b6bae-561a-4609-a2a5-c0c5b29fa2e6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a1d79b3626f8869c38c7b27/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99553520",
+      "itunes_duration": "1:09:08",
+      "speakers": [],
+      "topics": [
+        "campaign",
+        "super",
+        "spike"
+      ]
+    },
     {
       "key": "3a9421b55aa4a547278370cf409968502323c638",
       "title": "Campaign 2: Episode 185 - Nika Loves Cargo Shorts",
@@ -12336,6 +12354,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-01 — Campaign 2: Episode 186 - Super Spike Spy
 - 2026-05-25 — Campaign 2: Episode 185 - Nika Loves Cargo Shorts — speakers: Nika Loves Cargo Shorts
 - 2026-05-18 — Campaign 2: Episode 184 - Put the Dump Before the Body — speakers: Dump Before
 - 2026-05-11 — Campaign 2: Episode 183 - Wedding Propaganda — speakers: Von Esper

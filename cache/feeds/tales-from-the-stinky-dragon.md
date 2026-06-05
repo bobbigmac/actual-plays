@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-05-19T15:52:41+00:00`
-- checked_at: `2026-05-19T15:52:41+00:00`
-- last_modified: `Tue, 19 May 2026 11:40:52 GMT`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- last_modified: `Wed, 27 May 2026 11:14:30 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-19T15:52:41+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "8ece2ce9c9e060510ce9e08e18491a3d9df5503c",
+      "title": "C03 - Ep. 44 - Under Oondar Fire - Croak and Dagger Boxing",
+      "published_at": "2026-05-27T08:00:00+00:00",
+      "link": null,
+      "description": "Brutaliteam stumbles into a cross-country clash. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new merch at store.stinkydragonpod.com - Dice, Player Character Tees, Blankets, Hoodies, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4cd98f56-dadb-11f0-a213-db49d0929bce/image/dd5cf5d2c76ef64c0ec2e42a421975ae.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS9013966046.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5289",
+      "speakers": [
+        "Under Oondar Fire",
+        "Dagger Boxing Brutaliteam"
+      ],
+      "topics": [
+        "oondar",
+        "fire",
+        "croak",
+        "dagger",
+        "boxing"
+      ]
+    },
     {
       "key": "c1e85108a94f7d41ee57d3e51eadf9c236bd690b",
       "title": "C03 - Ep. 43 - Under Oondar Fire - Rules of M’Prov",
@@ -4276,6 +4299,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-27 — C03 - Ep. 44 - Under Oondar Fire - Croak and Dagger Boxing — speakers: Under Oondar Fire, Dagger Boxing Brutaliteam
 - 2026-05-13 — C03 - Ep. 43 - Under Oondar Fire - Rules of M’Prov — speakers: Under Oondar Fire, Prov Brutaliteam, Veiled Veil Support
 - 2026-04-29 — C03 - Ep. 42 - Under Oondar Fire - On Second Thawed — speakers: Under Oondar Fire
 - 2026-04-15 — C03 - Ep. 41 - Under Oondar Fire - Swinging into Whacktion — speakers: Under Oondar Fire, Whacktion Brutaliteam, Veiled Veil Support

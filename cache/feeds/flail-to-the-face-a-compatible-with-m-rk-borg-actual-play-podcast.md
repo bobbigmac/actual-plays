@@ -2,9 +2,9 @@
 
 - slug: `flail-to-the-face-a-compatible-with-m-rk-borg-actual-play-podcast`
 - source: `https://anchor.fm/s/e221626c/podcast/rss`
-- fetched_at: `2026-05-22T15:26:08+00:00`
-- checked_at: `2026-05-22T15:26:08+00:00`
-- etag: `W/"67222-Gev9FjSGt8ebs0lOLIEsLvCJSQU"`
+- fetched_at: `2026-06-05T15:29:28+00:00`
+- checked_at: `2026-06-05T15:29:28+00:00`
+- etag: `W/"68954-Z1p2UPPrOZ00kHEyH17I4ptlyIA"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://discord.gg/ye4VzTv9",
   "description": "Flail to the Face is a \"Compatible with Mörk Borg\" Actual Play Podcast, focusing on playing and promoting third party content and their creators.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37838387/37838387-1756395980208-7d45de7e84c02.jpg",
-  "fetched_at": "2026-05-22T15:26:08+00:00",
+  "fetched_at": "2026-06-05T15:29:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/mork-borg"
   ],
   "episodes": [
+    {
+      "key": "6f5d8a995cdbc00ce14c4bfdade05caeb1da2748",
+      "title": "Season Two, Episode Nine: Full Yellow Jacket",
+      "published_at": "2026-06-05T09:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/flailtotheface/episodes/Season-Two--Episode-Nine-Full-Yellow-Jacket-e3k7d9q",
+      "description": "In this episode, our Agents of M.I.L.F. and their contact, Tunguska find their bounty, Zoya. But they find far more dangers than the Gas Kings little girl. What have they gotten themselves into? Find out as Flail to the Face plays Wasteland Degenerates! This episode of Flail to the face features the game Human Occupied Landfill by Todd Shaughnessy, Daniel Thron, Chris Elliott, HellSpawn by Richard Markert and Lee Iovis & Wasteland Degenerates by Scott C. McDonald. With: Thomas Genno-Stumme playing Dalton Walls. Tom Gambino playing Collette Stellarno. Charles Paschke playing Donnie. And Kevin Welch as the FlailMeister. Season 2 theme music is Void Construct by Alex Grohl. Editing by Kevin Welch. Cover Art by Tom Gambino with assets from UnitSix. Video Editing by Dan Finney SFX courtesy of Epidemic Sound & Pixabay. Whispers of the Dying Lands: https://open.spotify.com/show/7yFvPcYtVa2jP5nCI1QqCS?si=a93f011397354f8d HellSpawn: ⁠⁠⁠⁠⁠⁠⁠⁠hellspawnrpg.com⁠⁠⁠⁠⁠⁠⁠⁠ Wasteland Degenerates: ⁠⁠⁠⁠⁠Wasteland Degenerates⁠⁠⁠⁠⁠ Dan Finney : ⁠⁠⁠⁠⁠⁠OVERLAND EMPIRE⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Find us on whatever social media platform you use: Facebook Twitter Instagram BlueSky #FlailToTheFace #mörkborg #actualplay #podcast #ttrpg #hol #HumanOccupiedLandfill #Hellspawn #WastelandDegenerates",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37838387/37838387-1780657052795-786af2056299c.jpg",
+      "enclosure_url": "https://anchor.fm/s/e221626c/podcast/play/120877818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2Fd672bb80-24c2-71da-b157-c89f7453186f.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88470236",
+      "itunes_duration": "00:59:21",
+      "speakers": [],
+      "topics": [
+        "season",
+        "yellow",
+        "jacket"
+      ]
+    },
     {
       "key": "929384d534a213d1378009a51d26c5ffe3d80469",
       "title": "Season Two, Episode Eight: A Bug's Strife",
@@ -1132,6 +1150,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-05 — Season Two, Episode Nine: Full Yellow Jacket
 - 2026-05-15 — Season Two, Episode Eight: A Bug's Strife — speakers: Season Two
 - 2026-04-24 — Season Two, Episode Seven: Sounding Off!
 - 2026-04-03 — Season Two, Episode Six: Hot Wheels — speakers: Season Two
