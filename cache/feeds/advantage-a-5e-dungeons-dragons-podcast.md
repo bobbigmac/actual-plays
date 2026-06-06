@@ -2,11 +2,9 @@
 
 - slug: `advantage-a-5e-dungeons-dragons-podcast`
 - source: `https://feeds.soundcloud.com/users/soundcloud:users:251064485/sounds.rss`
-- fetched_at: `2026-06-06T11:00:27+00:00`
-- checked_at: `2026-06-06T14:10:55+00:00`
+- fetched_at: `2026-06-06T16:35:46+00:00`
+- checked_at: `2026-06-06T16:35:46+00:00`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: `HTTP 403` — Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -18,7 +16,7 @@
   "link": "http://advantagednd.com",
   "description": "Advantage is a homebrew, actual-play, 5th Edtion Dungeons & Dragons audio drama focusing on storytelling and character development, and a member of the Darkmore Podcast Network.",
   "image_url": "https://i1.sndcdn.com/avatars-000281953157-ea71wc-original.jpg",
-  "fetched_at": "2026-06-06T11:00:27+00:00",
+  "fetched_at": "2026-06-06T16:35:46+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -3092,17 +3090,7 @@
         "beginning"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-06-06T14:10:55+00:00",
-    "status": "error",
-    "checked_at": "2026-06-06T14:10:55+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": 403,
-      "message": "Forbidden"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->

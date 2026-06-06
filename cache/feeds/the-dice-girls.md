@@ -3,11 +3,9 @@
 - slug: `the-dice-girls`
 - source: `https://thedicegirls.podbean.com/feed.xml`
 - fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-06T14:10:55+00:00`
+- checked_at: `2026-06-06T16:35:46+00:00`
 - etag: `"3768e4ef575c42293c679e4a1e32332e"`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: `HTTP 403` — Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -3263,17 +3261,7 @@
         "spoon"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-06-06T14:10:55+00:00",
-    "status": "error",
-    "checked_at": "2026-06-06T14:10:55+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": 403,
-      "message": "Forbidden"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
