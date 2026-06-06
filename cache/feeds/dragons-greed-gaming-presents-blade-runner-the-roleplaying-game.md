@@ -3,10 +3,12 @@
 - slug: `dragons-greed-gaming-presents-blade-runner-the-roleplaying-game`
 - source: `https://www.spreaker.com/show/5828627/episodes/feed`
 - fetched_at: `2026-03-16T13:56:32+00:00`
-- checked_at: `2026-06-05T22:37:01+00:00`
+- checked_at: `2026-06-06T14:10:55+00:00`
 - etag: `"c63c1b84e68c49bd553117a449b52571"`
 - last_modified: `Mon, 16 Mar 2026 12:56:55 GMT`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: `HTTP 403` — Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -262,7 +264,17 @@
         "runner"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-06-06T14:10:55+00:00",
+    "status": "error",
+    "checked_at": "2026-06-06T14:10:55+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 403,
+      "message": "Forbidden"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

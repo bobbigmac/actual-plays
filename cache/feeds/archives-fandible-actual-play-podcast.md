@@ -3,11 +3,9 @@
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
 - fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-06T11:00:27+00:00`
+- checked_at: `2026-06-06T14:10:55+00:00`
 - etag: `"5659c92e39e7ab9481559f7f7f63df95"`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: The read operation timed out
 
 <!-- FEED_JSON -->
 ```json
@@ -11381,17 +11379,7 @@
         "raid"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-06-06T11:00:27+00:00",
-    "status": "error",
-    "checked_at": "2026-06-06T11:00:27+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "The read operation timed out"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->

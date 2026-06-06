@@ -3,10 +3,12 @@
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
 - fetched_at: `2026-06-05T22:37:01+00:00`
-- checked_at: `2026-06-05T22:37:01+00:00`
+- checked_at: `2026-06-06T14:10:55+00:00`
 - etag: `W/"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ"`
 - last_modified: `Fri, 05 Jun 2026 18:17:28 GMT`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: `HTTP 403` — Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -4098,7 +4100,17 @@
         "dragon"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-06-06T14:10:55+00:00",
+    "status": "error",
+    "checked_at": "2026-06-06T14:10:55+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 403,
+      "message": "Forbidden"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
