@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-05T15:29:28+00:00`
-- etag: `"djEuMi4wOjE3ODAzMjYwMzk1NjQ="`
+- fetched_at: `2026-06-08T16:30:26+00:00`
+- checked_at: `2026-06-08T16:30:26+00:00`
+- etag: `"djEuMi4wOjE3ODA5MzA4MzkzODE="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-06-05T15:29:28+00:00",
+  "fetched_at": "2026-06-08T16:30:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "cac132c7a2588ed638fcf25fd6a8991ae51a03a0",
+      "title": "Campaign 2: Episode 187 - A Midnight Crane-Top Slop-Picnic",
+      "published_at": "2026-06-08T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-187-a-midnight-crane-top-slop",
+      "description": "Screech and R'Orc, having gotten rid of one ex-wife, continue their recon mission and date at the docks. With the combined assault against the Spikes happening in less than 2 hours, the newly-weds enjoy a moment's respite atop a cargo crane, but alas, their reverie is once again interrupted by another of Screech's plethora of ex-wives. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by Killurmonkey Art ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1780919292959-6622a7a7-356a-45c2-8203-75b50108fb73.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a26a8d1dd95c87263b4545b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79277274",
+      "itunes_duration": "55:02",
+      "speakers": [
+        "Midnight Crane",
+        "Top Slop",
+        "Picnic Screech"
+      ],
+      "topics": [
+        "campaign",
+        "midnight",
+        "crane",
+        "slop",
+        "picnic"
+      ]
+    },
     {
       "key": "dbc31397c7961190c6ac30d286ce4e9a3b55bc35",
       "title": "Campaign 2: Episode 186 - Super Spike Spy",
@@ -12354,6 +12378,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — Campaign 2: Episode 187 - A Midnight Crane-Top Slop-Picnic — speakers: Midnight Crane, Top Slop, Picnic Screech
 - 2026-06-01 — Campaign 2: Episode 186 - Super Spike Spy
 - 2026-05-25 — Campaign 2: Episode 185 - Nika Loves Cargo Shorts — speakers: Nika Loves Cargo Shorts
 - 2026-05-18 — Campaign 2: Episode 184 - Put the Dump Before the Body — speakers: Dump Before
