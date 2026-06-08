@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-05T15:29:28+00:00`
-- last_modified: `Mon, 01 Jun 2026 04:05:00 GMT`
+- fetched_at: `2026-06-08T05:03:54+00:00`
+- checked_at: `2026-06-08T05:03:54+00:00`
+- last_modified: `Mon, 08 Jun 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-06-05T15:29:28+00:00",
+  "fetched_at": "2026-06-08T05:03:54+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "3fa3e24b9071a90eed246849983f5c162fecc69e",
+      "title": "Guilt of the Grave World | 017: La La Landing",
+      "published_at": "2026-06-08T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-017-la-la-landing/",
+      "description": "The Nova Rush board their shuttle for the Halls of the Living, but not all is as it seems on this fast flight across the barren surface. The pilot is a spooky skeleton and the flight attendant is ghoulishly undead too. But when the flight is hijacked by Corpse Fleet terrorists with a bomb can the party survive to landing this shuttle in one piece? Find out on this week’s Cosmic Crit!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3818/guilt-of-the-grave-world-017-la-la-landing.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69864464",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Grave World",
+        "Nova Rush"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "landing"
+      ]
+    },
     {
       "key": "8ef3a3c40ae583ff23b253d184aaa2b53db33ff0",
       "title": "Guilt of the Grave World | 016: The Hand that Eox the Cradle",
@@ -8911,6 +8933,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — Guilt of the Grave World | 017: La La Landing — speakers: Grave World, Nova Rush
 - 2026-06-01 — Guilt of the Grave World | 016: The Hand that Eox the Cradle — speakers: Station Alpha
 - 2026-05-25 — Guilt of the Grave World | 015: All That Jazm — speakers: Jazm McClintock
 - 2026-05-18 — Guilt of the Grave World | 014: Mall Brawl Stars — speakers: Station Alpha, Clan Ulrikka
