@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-06T14:10:55+00:00`
-- etag: `"5659c92e39e7ab9481559f7f7f63df95"`
+- fetched_at: `2026-06-09T20:21:22+00:00`
+- checked_at: `2026-06-09T20:21:22+00:00`
+- etag: `"af90a928e643d92161d572e834a95a1b"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-06-05T15:29:28+00:00",
+  "fetched_at": "2026-06-09T20:21:22+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "449fcb70a53f45c1da03c8099de305edf73c5898",
+      "title": "Rotted Capes Episode 20: Broken Chains part 4",
+      "published_at": "2026-06-09T00:43:10+00:00",
+      "link": "https://fandible.com/rotted-capes-episode-20-broken-chains-part-4/",
+      "description": "The hidden Moziak Base found, the heroes must now face a unchained foe. The post Rotted Capes Episode 20: Broken Chains part 4 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/457_RC_BrokenChains/Fan_807_RC_BrokenChainsp4.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84612929",
+      "itunes_duration": "1:23:29",
+      "speakers": [
+        "Broken Chains",
+        "Moziak Base"
+      ],
+      "topics": [
+        "rotted",
+        "capes",
+        "chains"
+      ]
+    },
     {
       "key": "5d766d9eb2a79f6fc5e8c01e26353bb0666d8d15",
       "title": "Rotted Capes Episode 20: Broken Chains part 3",
@@ -11356,28 +11377,6 @@
         "epic",
         "raid"
       ]
-    },
-    {
-      "key": "b682c1fd4c16cc5f58e0c621dc2cf223fa2f77e7",
-      "title": "The Strange Ep 9: Epic Raid 1 of 2",
-      "published_at": "2016-07-01T15:13:51+00:00",
-      "link": "https://fandible.com/strange-ep-9-epic-raid-1-2/",
-      "description": "Dragged away by giant insects, the two Con Artists/Guild Masters must return to their guild and figure out how to get their prize. The post The Strange Ep 9: Epic Raid 1 of 2 appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/186_TS_EpicRaid/Fan_303_TS_EpicRaid1of2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "42865460",
-      "itunes_duration": "1:28:07",
-      "speakers": [
-        "Epic Raid",
-        "Con Artists",
-        "Guild Masters"
-      ],
-      "topics": [
-        "strange",
-        "epic",
-        "raid"
-      ]
     }
   ]
 }
@@ -11386,6 +11385,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-09 — Rotted Capes Episode 20: Broken Chains part 4 — speakers: Broken Chains, Moziak Base
 - 2026-06-02 — Rotted Capes Episode 20: Broken Chains part 3 — speakers: Broken Chains
 - 2026-05-25 — Rotted Capes Episode 20: Broken Chains part 2 — speakers: Broken Chains
 - 2026-05-05 — Dungeons & Dragons: Trevons Heist part 3 — speakers: Trevons Heist
@@ -11985,4 +11985,3 @@
 - 2016-07-22 — Rotted Capes Ep 10: Patriotic Enslavement 2 of 2 — speakers: Patriotic Enslavement, Military Enclave
 - 2016-07-15 — Rotted Capes Ep 10: Patriotic Enslavement 1 of 2 — speakers: Patriotic Enslavement
 - 2016-07-08 — The Strange Ep 9: Epic Raid 2 of 2 — speakers: Epic Raid
-- 2016-07-01 — The Strange Ep 9: Epic Raid 1 of 2 — speakers: Epic Raid, Con Artists, Guild Masters

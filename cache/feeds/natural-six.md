@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-06-08T20:35:58+00:00`
-- checked_at: `2026-06-08T20:35:58+00:00`
-- etag: `"djEuMi4wOjE3ODA5MzcxOTI2NDA="`
+- fetched_at: `2026-06-09T20:21:22+00:00`
+- checked_at: `2026-06-09T20:21:22+00:00`
+- etag: `"djEuMi4wOjE3ODEwMzE2Mzk0NzQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-06-08T20:35:58+00:00",
+  "fetched_at": "2026-06-09T20:21:22+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "2d4bdbbae40699761a3f0f36bb578a8e6fafc54b",
+      "title": "Ep. 56 Bone and Cloth",
+      "published_at": "2026-06-09T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-56-bone-and-cloth",
+      "description": "Not every path leads ahead. Some lead to what was left behind, unfinished, to choices made before you knew what they would cost. When the past takes shape, it can do more than strike. It can catch in your throat, lock you in place, and turn memories into a battlefield all of their own. Echoes of the past can hurt as much as the future in front of you, but not every battle belongs to the blade, because being a hero can be measured by more than the mark you leave behind. When something lost is returned to the world, every step forward can clear the darkness that has lingered for far too long. But after becoming whoever was needed to survive, it can be hard to tell which version of yourself is guiding, and which one is guarding. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a25cbd0ccc3ddbc74208b48/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "404684516",
+      "itunes_duration": "2:48:35",
+      "speakers": [
+        "Cloth Not",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "bone",
+        "cloth"
+      ]
+    },
     {
       "key": "0eb195e5d89e41c541a35ff13268feaafe618add",
       "title": "Journey to the Witchspire | Natural Six x Witchspire",
@@ -2914,6 +2939,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-09 — Ep. 56 Bone and Cloth — speakers: Cloth Not, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-04 — Journey to the Witchspire | Natural Six x Witchspire — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-02 — Action Surge Episode 55 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-05-26 — Ep. 55 The Forest Grows — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
