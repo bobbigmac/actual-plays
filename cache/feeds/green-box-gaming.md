@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-05T15:29:28+00:00`
-- etag: `"ff08d82043f23f418d4d87f4b01641d6"`
-- last_modified: `Tue, 02 Jun 2026 18:03:10 GMT`
+- fetched_at: `2026-06-09T15:29:22+00:00`
+- checked_at: `2026-06-09T15:29:22+00:00`
+- etag: `"f7d638e4df76775633c73bba9076106d"`
+- last_modified: `Tue, 09 Jun 2026 13:00:32 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-06-05T15:29:28+00:00",
+  "fetched_at": "2026-06-09T15:29:22+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "dc98ac489752e52aa8bfe871dbc8343b794916f1",
+      "title": "Ep6 | Thousand Year Old Vampire w/ Dace - Gods Above and Below",
+      "published_at": "2026-06-09T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/2879839",
+      "description": "Join us as Dace experiences the ups and downs that are life and undeath in Thousand Year Old Vampire! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/2879839/green-box-gaming/2026_06_02_17_53_09_16967989-4a76-4e70-b64b-c1ed3cfca8fc.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70789746",
+      "itunes_duration": "4424",
+      "speakers": [
+        "Thousand Year Old Vampire",
+        "Gods Above",
+        "Below Join"
+      ],
+      "topics": [
+        "thousand",
+        "year",
+        "vampire",
+        "dace",
+        "gods"
+      ]
+    },
     {
       "key": "475eae5694b524e6c59da42a4a2c3036040f6b45",
       "title": "Ep14 | Delta Green: Puppet Shows and Shadow Plays - Higher Powers",
@@ -4022,6 +4046,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-09 — Ep6 | Thousand Year Old Vampire w/ Dace - Gods Above and Below — speakers: Thousand Year Old Vampire, Gods Above, Below Join
 - 2026-06-02 — Ep14 | Delta Green: Puppet Shows and Shadow Plays - Higher Powers — speakers: Delta Green, Puppet Shows, Shadow Plays, Higher Powers Still
 - 2026-05-26 — Ep13 | Delta Green: Puppet Shows and Shadow Plays - House Call — speakers: Delta Green, Puppet Shows, Shadow Plays
 - 2026-05-19 — Ep2 | Delta Green: Last Things Last - Cabin in the Woods
