@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-05T15:29:28+00:00`
-- etag: `"djEuMi4wOjE3ODA1MTU3OTI1Njk="`
+- fetched_at: `2026-06-10T10:35:35+00:00`
+- checked_at: `2026-06-10T10:35:35+00:00`
+- etag: `"djEuMi4wOjE3ODEwNzQ4Mzk2NDA="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-06-05T15:29:28+00:00",
+  "fetched_at": "2026-06-10T10:35:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "014349b6d453ae8ff89ca752f63d86f3cebee1c9",
+      "title": "Ep. 009: Age of Astra - It Appears We Are Trapped | #DND",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the agents step into the aftermath of everything they’ve uncovered, where answers feel closer but far less comforting. The Dice carry a quiet weight now, as choices begin to matter more than discoveries in this DnD chapter. What was once hidden is no longer the only danger… what comes next might be worse. What do you do once the truth is in your hands? Who can still be trusted when everything has shifted? And when the next move decides everything… who’s willing to make it? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1780515032785-c106503e-ec37-4b85-9437-7ea556ab9dca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6a20813c3d098b70111bd7b6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98720505",
+      "itunes_duration": "41:05",
+      "speakers": [],
+      "topics": [
+        "astra"
+      ]
+    },
     {
       "key": "40460f5ed2f07abadf6d297e0d4a8d2adcc4e79a",
       "title": "Ep. 008: Age of Astra - I've Got A Tie And Everything | #DND",
@@ -7825,6 +7841,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-10 — Ep. 009: Age of Astra - It Appears We Are Trapped | #DND
 - 2026-06-03 — Ep. 008: Age of Astra - I've Got A Tie And Everything | #DND
 - 2026-06-03 — BONUS: Age of Astra - Meet Albert T. Bungle | #DND
 - 2026-05-27 — Ep. 007: Age of Astra - He Is Dead | #DND
