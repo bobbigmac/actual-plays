@@ -2,8 +2,8 @@
 
 - slug: `dndark`
 - source: `https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40`
-- fetched_at: `2026-06-10T10:35:35+00:00`
-- checked_at: `2026-06-10T10:35:35+00:00`
+- fetched_at: `2026-06-10T16:09:59+00:00`
+- checked_at: `2026-06-10T16:09:59+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/dndark",
   "description": "A comedy/horror D&D Actual Play Podcast starring some of history's most iconic monsters",
   "image_url": "https://media.redcircle.com/images/2025/4/2/20/c89246be-6b46-429a-909e-1e4e1bd26ad0_846-8b2d-746b3b4b007c_received_702201047512802.jpg",
-  "fetched_at": "2026-06-10T10:35:35+00:00",
+  "fetched_at": "2026-06-10T16:09:59+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -24,6 +24,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "4a4735e83129efdc707139419e9b8c178e4de2de",
+      "title": "D&Dark Presents: Regency Rangers Part 1: Fool's Gold",
+      "published_at": "2026-06-10T12:00:22+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "Here's a sneak peek at our Patreon Exclusive campaign: Regency Rangers, that we hope you'll like enough to consider subscribing for more! Contains: Mild Gore Five years after the events of Season 1; Marlowe, Maledict, and Gonzo temporarily leave the town of Stratford, passing the responsibility of defending it onto the shoulders of a new fighting force. Comprised of Adrian \"Alucard\" Tepes: The son of Dracula; R.M. Renfield: The (dubiously) reformed former BBEG; The Kuchisake-Onna: The malevolent Smiling Woman of Japanese folklore; Dr. Gordon Toppemhat: The ghost of a scientist studying firearms and explosives; and Frederick the Loafer: A normal human man who's also there; the Stratford Rangers take up their Henshin devices and defend the town from a trio of interlopers who seek to exploit the town in its time of vulnerability... Support us on Patreon: https://www.patreon.com/DnDarkPodcast Cast: Daniel Cruz - GM \"Danger\" Dan Jerz - R.M. Renfield Ben Magnet - Dr. Gordon Toppemhat Aaron Kaufhold - The Kuchisake-Onna Grayson Norman - Adrian \"Alucard\" Tepes Jordan Nelson - Frederick the Loafer Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Lam's Jams: https://www.youtube.com/@lamsjams Reiner's Theme: by John Stoic \"DreamVenturer\" Additional Music provided by: Monument Studios Advertising Inquiries: https://redcircle.com/brands Privacy & Opt-Out: https://redcircle.com/privacy",
+      "image_url": "https://media.redcircle.com/images/2026/6/4/10/dc9ed2d4-36cc-40ce-8d29-d7f2c30fffba_regency_rangers_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/adeccaa5-2c49-414d-8be9-b4e24f8311d2/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114998543",
+      "itunes_duration": "7187",
+      "speakers": [
+        "Regency Rangers"
+      ],
+      "topics": [
+        "presents",
+        "regency",
+        "rangers",
+        "fool",
+        "gold"
+      ]
+    },
     {
       "key": "8498839cc9637612b54c36e30263f6cf672fd748",
       "title": "Table Talk - Interview with Dan (DnD404)",
@@ -2588,6 +2610,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-10 — D&Dark Presents: Regency Rangers Part 1: Fool's Gold — speakers: Regency Rangers
 - 2026-06-03 — Table Talk - Interview with Dan (DnD404)
 - 2026-05-20 — Table Talk - Interview with 5 GMs in a Trenchcoat
 - 2026-05-09 — Table Talk - Interview with Mike (Arcane Circle)
