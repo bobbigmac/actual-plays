@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-05T15:29:28+00:00`
-- etag: `"djEuMi4wOjE3ODA2MDg4MzczNjQ="`
+- fetched_at: `2026-06-10T20:47:11+00:00`
+- checked_at: `2026-06-10T20:47:11+00:00`
+- etag: `"djEuMi4wOjE3ODExMTI1MTI0ODU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/show-cover.png",
-  "fetched_at": "2026-06-05T15:29:28+00:00",
+  "fetched_at": "2026-06-10T20:47:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "a62d24c73624568d875c94be1b1474a3f6f0cd3a",
+      "title": "ColdIron | Session 0: Meet the Cast",
+      "published_at": "2026-06-10T17:13:22+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/coldiron-session-0-meet-the-cast",
+      "description": "Welcome to our ColdIron: our new homebrew campaign! In this episode we meet the cast and prepare for the upcoming campaign! Kelly Clark as Dungeon Master Cast Amy Godfrey as Carrion Slaughterhouse Robin Holford as Trixxi Blastemoff Katrina McGie as Taliina'a Christine Rattray as Bell St. Claire Caitlan Vinkle as ZOE #dungeonsanddragons #dnd #actualplay Our opening theme is Lost Horizon by Tilman Sillescu Our closing theme is Fading Hope by Joel Steudler ColdIron features licensed music from a variety of sources, including Monument Studios, Dark Fantasy Studio, Ovani Sound, Audiohero, INeedMusic, Phat Phrog Studios, and various Humblebundle Collections. ------ Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1781111574492-d7409819-dffa-4b14-a69d-9440a13315d3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a299b33518f9f10eb8f63f0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84424411",
+      "itunes_duration": "1:27:56",
+      "speakers": [
+        "Cast Welcome"
+      ],
+      "topics": [
+        "coldiron",
+        "session",
+        "cast"
+      ]
+    },
     {
       "key": "d938b1e10e50fe8a0f3db9017d6d9457e11b2e41",
       "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 8: All Aboard the Empress Express",
@@ -7811,6 +7831,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-10 — ColdIron | Session 0: Meet the Cast — speakers: Cast Welcome
 - 2026-06-04 — Mage the Ascension the Victorian Age | Book 3, Chapter 8: All Aboard the Empress Express
 - 2026-05-29 — Mage the Ascension the Victorian Age | Book 3, Chapter 7: Mark of the Desert Priest
 - 2026-05-22 — Mage the Ascension the Victorian Age | Book 3, Chapter 6: In The Shadow of Pharaohs — speakers: Victorian Age, Pharaohs Welcome

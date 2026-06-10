@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-05T15:29:28+00:00`
-- etag: `"bcdc6363362e050fe9697a4de9ae10b9"`
-- last_modified: `Wed, 03 Jun 2026 08:11:40 GMT`
+- fetched_at: `2026-06-10T20:47:11+00:00`
+- checked_at: `2026-06-10T20:47:11+00:00`
+- etag: `"7ca92363c551bd8141f120edc70bc04f"`
+- last_modified: `Wed, 10 Jun 2026 18:51:46 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-06-05T15:29:28+00:00",
+  "fetched_at": "2026-06-10T20:47:11+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ecf10ac266e3f8d742215a7088cbbe4ee9b93dc3",
+      "title": "The Fog Campaign - Episode 74",
+      "published_at": "2026-06-10T18:49:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-74",
+      "description": "Sorry to leave the Ding Dong Danglers hanging! They shot up into the sky, well over 100 feet in the air, and don't have Feather Fall to bail them out. So we wanted to save the mad scramble for meta-gaming until... now! For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more be sure to head to nerdpokerpod.com",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-074-20260609-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119828288",
+      "itunes_duration": "49:56",
+      "speakers": [
+        "Ding Dong Danglers",
+        "Brian Posehn"
+      ],
+      "topics": [
+        "campaign"
+      ]
+    },
     {
       "key": "cc8015b8cb1ed4b68fe41504b498e68533386f5b",
       "title": "The Fog Campaign - Episode 73",
@@ -8940,6 +8959,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-10 — The Fog Campaign - Episode 74 — speakers: Ding Dong Danglers, Brian Posehn
 - 2026-06-03 — The Fog Campaign - Episode 73 — speakers: Brian Posehn
 - 2026-05-27 — The Fog Campaign - Episode 72 — speakers: Brian Posehn
 - 2026-05-21 — The Fog Campaign - Episode 71 — speakers: Brian Posehn
