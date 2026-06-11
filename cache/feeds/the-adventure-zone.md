@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-05T15:29:28+00:00`
-- etag: `"778c582d4ed40843dfa23e4cf73a4cc0"`
-- last_modified: `Thu, 28 May 2026 11:00:16 GMT`
+- fetched_at: `2026-06-11T16:30:53+00:00`
+- checked_at: `2026-06-11T16:30:53+00:00`
+- etag: `"30d805c83270987994b92e04d76e5f37"`
+- last_modified: `Thu, 11 Jun 2026 11:00:17 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-06-05T15:29:28+00:00",
+  "fetched_at": "2026-06-11T16:30:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "443d3a860a899bb96220b797d36c4170764df468",
+      "title": "The Adventure Zone Royale: Episode 26",
+      "published_at": "2026-06-11T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-royale-episode-26-Ozsf8DH9",
+      "description": "The taxing sixth trial ends, and the surviving eight wizards don't hesitate to voice their displeasure about the entire tournament. But if they want to play this game their own way, they're going to have to find somewhere away from the all-seeing eyes of the island. Royale Theme: “Wizard Disco” by Louie Zong: https://louiezong.bandcamp.com/album/wizard-disco Original Music by Griffin McElroy Additional Music in this Episode: \"Owls\" and \"Pure\" by Jahzzar: http://www.betterwithmusic.com/; “A Month of Dust” by Schemawound http://schemawound.com/; \"tribute to eddy\" by Jean Toba: https://jeantoba.blogspot.com/; \"The Unknown\" by Jar of Flies: https://jaroffliesofficial.bandcamp.com/; \"The Apotheosis of All Deserts\" and\"Palaver\" by ROZKOL: https://rozkol.bandcamp.com/; and \"PULL\" by Nctrnm: https://soundcloud.com/nctrnm. Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
+      "image_url": null,
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/0ba10807-7218-434d-99a5-f7d5d335d88f/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=0ba10807-7218-434d-99a5-f7d5d335d88f&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60859842",
+      "itunes_duration": "00:58:27",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "royale"
+      ]
+    },
     {
       "key": "e0a94c21496312a586a1f170f392ea2d00e5149c",
       "title": "The Adventure Zone Royale: Episode 25",
@@ -7992,6 +8010,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — The Adventure Zone Royale: Episode 26
 - 2026-05-28 — The Adventure Zone Royale: Episode 25
 - 2026-05-14 — The Adventure Zone Royale: Episode 24
 - 2026-04-30 — The Adventure Zone Royale: Episode 23
