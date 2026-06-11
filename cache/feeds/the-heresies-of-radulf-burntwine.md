@@ -2,9 +2,9 @@
 
 - slug: `the-heresies-of-radulf-burntwine`
 - source: `https://feeds.megaphone.fm/thorb`
-- fetched_at: `2026-06-11T16:30:53+00:00`
-- checked_at: `2026-06-11T16:30:53+00:00`
-- last_modified: `Thu, 11 Jun 2026 16:06:04 GMT`
+- fetched_at: `2026-06-11T20:38:22+00:00`
+- checked_at: `2026-06-11T20:38:22+00:00`
+- last_modified: `Thu, 11 Jun 2026 17:42:07 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/thorb",
   "description": "A Horror anthology and medical mystery. Contained herein are The Heresies of Radulf Burntwine. Follow the Titular monk-turned-medical-investigator as he uncovers the blasphemous truth of a plague ridden world: ours is not a loving God and we are not its favored children.",
   "image_url": "https://megaphone.imgix.net/podcasts/589ac4c6-d4a4-11ed-8d4d-5bd265fb21e3/image/Thorb_Logo_w_Realm.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-11T16:30:53+00:00",
+  "fetched_at": "2026-06-11T20:38:22+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -28,11 +28,35 @@
   ],
   "episodes": [
     {
+      "key": "73dc80ed0285d6ac4ca876b4985e790a3724755c",
+      "title": "THORB The Trial of Radulf Burntwine Part 2",
+      "published_at": "2026-06-11T17:00:00+00:00",
+      "link": null,
+      "description": "The Heresies of Radulf Burntwine: A Horror, Dark Fantasy, Medical Mystery Audio Drama Umberto Eco Meets H.P. Lovecraft in a world of Occult Academia, Laboratory Judaica. Heavily inspired by Jewish mythology, the world of Olam uses Hebrew, Arabic, Slavic and other real world languages and cultures to create a rich tapestry of a grim, fantastical, planet that doesn't sacrifice scientific accuracy or historicity. The Trial of Radulf Burntiwine Part 1 Radulf Finds himself before the Beit Din, a tribunal of Netonic Judges and a panel of jurors from the Sanhadrim. He is to defend his works and actions so that the Beit Din can determine if his excommunication and that of his institute will be upheld, or if they will be legitimized and canonized by the Toveran Reformationist Church. Part 2 is the Leha’id (Witnesses and Testimony) and the Gzera (Sentencing). The Heresies of Radulf Burntwine sits at the intersection of dark fantasy, body horror, and forensic investigation. If you've ever wanted a podcast that treats disease and mythology with the same care as a true crime documentary, this is the show for you. Radulf is not a hero. He's a disgraced curmudgeonly cleric with a terrible bedside manner and more pride than sense. This episode contains: descriptions of cannibalism, bodily decomposition, eye trauma, tissue decay, grief, and the death of multiple characters including a child, suicide. Socials: https://www.facebook.com/THORBcast/ https://www.reddit.com/r/THORB/ https://discord.gg/sQqCQZrZpe https://bsky.app/profile/thorb.info Support the Institute and find free transcripts at: Patreon.com/THORBcast Tags: horror fiction podcast | dark fantasy podcast | weird fiction audio drama | horror podcast | medical horror | gothic horror podcast | body horror | zombie fiction | viral horror | fantasy podcast | indie horror podcast | audio drama horror | Radulf Burntwine | Heresies of Radulf Burntwine | horror worldbuilding | ghoul horror | undead fiction | dark fantasy audio drama | horror lore podcast | gas lamp | victorian inspired | grimdark | low fantasy Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7bda4ef8-65b4-11f1-8585-ff131e4d30ba/image/fb5def08e5fb19286d484b86f03c300f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7721264123.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2411",
+      "speakers": [
+        "Radulf Burntwine",
+        "Dark Fantasy",
+        "Medical Mystery Audio Drama",
+        "Umberto Eco Me"
+      ],
+      "topics": [
+        "thorb",
+        "trial",
+        "radulf",
+        "burntwine"
+      ]
+    },
+    {
       "key": "7ac324048228ae99d105fa8629c08b759d57cda0",
       "title": "THORB The Trial of Radulf Burntwine Part 1",
       "published_at": "2026-05-28T19:08:00+00:00",
       "link": null,
-      "description": "The Heresies of Radulf Burntwine: A Horror, Dark Fantasy, Medical Mystery Audio Drama Umberto Eco Meets H.P. Lovecraft in a world of Occult Academia, Laboratory Judaica. Heavily inspired by Jewish mythology, the world of Olam uses Hebrew, Arabic, Slavic and other real world languages and cultures to create a rich tapestry of a grim, fantastical, planet that doesn't sacrifice scientific accuracy or historicity. The Trial of Radulf Burntiwine Part 1 Radulf Finds himself before the Beit Din, a tribunal of Netonic Judges and a panel of jurors from the Sanhadrim. He is to defend his works and actions so that the Beit Din can determine if his excommunication and that of his institute will be upheld, or if they will be legitimized and canonized by the Toveran Reformationist Church. Part 1 is the Ktav Ishum ( arraignment ) and the Tvi'a (evidence for prosecution) and the Sanegoria (Evidence for the Defense) The Heresies of Radulf Burntwine sits at the intersection of dark fantasy, body horror, and forensic investigation. If you've ever wanted a podcast that treats disease and mythology with the same care as a true crime documentary, this is the show for you. Radulf is not a hero. He's a disgraced curmudgeonly cleric with a terrible bedside manner and more pride than sense. This episode contains: descriptions of cannibalism, bodily decomposition, eye trauma, tissue decay, grief, and the death of multiple characters including a child, suicide. Socials: https://www.facebook.com/THORBcast/ https://www.reddit.com/r/THORB/ https://discord.gg/sQqCQZrZpe https://bsky.app/profile/thorb.info Support the Institute and find free transcripts at: Patreon.com/THORBcast Tags: horror fiction podcast | dark fantasy podcast | weird fiction audio drama | horror podcast | medical horror | gothic horror podcast | body horror | zombie fiction | viral horror | fantasy podcast | indie horror podcast | audio drama horror | Radulf Burntwine | Heresies of Radulf Burntwine | horror worldbuilding | ghoul horror | undead fiction | dark fantasy audio drama | horror lore podcast | gas lamp | victorian inspired | grimdark | low fantasy Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "The Heresies of Radulf Burntwine: A Horror, Dark Fantasy, Medical Mystery Audio Drama Umberto Eco Meets H.P. Lovecraft in a world of Occult Academia, Laboratory Judaica. Heavily inspired by Jewish mythology, the world of Olam uses Hebrew, Arabic, Slavic and other real world languages and cultures to create a rich tapestry of a grim, fantastical, planet that doesn't sacrifice scientific accuracy or historicity. The Trial of Radulf Burntiwine Part 1 Radulf Finds himself before the Beit Din, a tribunal of Netonic Judges and a panel of jurors from the Sanhadrim. He is to defend his works and actions so that the Beit Din can determine if his excommunication and that of his institute will be upheld, or if they will be legitimized and canonized by the Toveran Reformationist Church. Part 2 is the Leha’id (Witnesses and Testimony ) and the Tvi'a (evidence for prosecution) and the Sanegoria (Evidence for the Defense) The Heresies of Radulf Burntwine sits at the intersection of dark fantasy, body horror, and forensic investigation. If you've ever wanted a podcast that treats disease and mythology with the same care as a true crime documentary, this is the show for you. Radulf is not a hero. He's a disgraced curmudgeonly cleric with a terrible bedside manner and more pride than sense. This episode contains: descriptions of cannibalism, bodily decomposition, eye trauma, tissue decay, grief, and the death of multiple characters including a child, suicide. Socials: https://www.facebook.com/THORBcast/ https://www.reddit.com/r/THORB/ https://discord.gg/sQqCQZrZpe https://bsky.app/profile/thorb.info Support the Institute and find free transcripts at: Patreon.com/THORBcast Tags: horror fiction podcast | dark fantasy podcast | weird fiction audio drama | horror podcast | medical horror | gothic horror podcast | body horror | zombie fiction | viral horror | fantasy podcast | indie horror podcast | audio drama horror | Radulf Burntwine | Heresies of Radulf Burntwine | horror worldbuilding | ghoul horror | undead fiction | dark fantasy audio drama | horror lore podcast | gas lamp | victorian inspired | grimdark | low fantasy Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/f330ec3e-5ac7-11f1-9fe9-332a45864bb4/image/fb5def08e5fb19286d484b86f03c300f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/traffic.megaphone.fm/SBP5487326722.mp3",
       "enclosure_type": "audio/mpeg",
@@ -636,6 +660,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — THORB The Trial of Radulf Burntwine Part 2 — speakers: Radulf Burntwine, Dark Fantasy, Medical Mystery Audio Drama, Umberto Eco Me
 - 2026-05-28 — THORB The Trial of Radulf Burntwine Part 1 — speakers: Radulf Burntwine, Dark Fantasy, Medical Mystery Audio Drama, Umberto Eco Me
 - 2026-01-26 — THORB Bonus Lecture: Theology and Pantheon: Mowett
 - 2025-11-04 — THORB Case 015 Devil Sight — speakers: Devil Sight Radulf
