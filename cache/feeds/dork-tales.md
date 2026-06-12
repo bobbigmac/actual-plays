@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-06-10T20:47:11+00:00`
-- checked_at: `2026-06-10T20:47:11+00:00`
-- etag: `"djEuMi4wOjE3ODExMTI1MTI0ODU="`
+- fetched_at: `2026-06-12T15:42:58+00:00`
+- checked_at: `2026-06-12T15:42:58+00:00`
+- etag: `"djEuMi4wOjE3ODEyNjkyMzk1MzA="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/show-cover.png",
-  "fetched_at": "2026-06-10T20:47:11+00:00",
+  "fetched_at": "2026-06-12T15:42:58+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "98202e61258b58d27834c48da81f6abf9b1c09e7",
+      "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 9: The Crossroad of Prophets and Thieves",
+      "published_at": "2026-06-12T13:00:00+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/mage-the-ascension-the-victorian-age-book-3-chapter-9-the-cr",
+      "description": "Welcome to book three of Mage the Victorian Age! The Doves set off on their journey and get to know the passengers of the Empress Express. Thank you to Bookwyrm Games for sponsoring Dork Tales this month! Use code DORKTALES to save 15% at https://www.bookwyrmgames.com! Orders over $100 also enjoy free shipping! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage *** Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Evelyn Taylor *** Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktalescha... Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! *** Music credits: Tracks from Joel Steudler Heartwarming Magic Adventure Antics Abound Licensed under a Humble Bundle Collection Music From Dark Fantasy Studio Hidden in the Dark The Mirror These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vision of the Ancients Consumed Arendelle Andante Guitar Etheric Etropy B Plot Thickens These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! https://www.tabletopaudio.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1781111636284-b6a1caaa-eaa2-4ca7-a2c3-0928f767a836.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a299dce32e30dceaf175f39/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "177019089",
+      "itunes_duration": "3:04:23",
+      "speakers": [
+        "Victorian Age",
+        "Thieves Welcome"
+      ],
+      "topics": [
+        "ascension",
+        "book",
+        "chapter",
+        "crossroad",
+        "prophets",
+        "thief"
+      ]
+    },
     {
       "key": "a62d24c73624568d875c94be1b1474a3f6f0cd3a",
       "title": "ColdIron | Session 0: Meet the Cast",
@@ -7831,6 +7855,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-12 — Mage the Ascension the Victorian Age | Book 3, Chapter 9: The Crossroad of Prophets and Thieves — speakers: Victorian Age, Thieves Welcome
 - 2026-06-10 — ColdIron | Session 0: Meet the Cast — speakers: Cast Welcome
 - 2026-06-04 — Mage the Ascension the Victorian Age | Book 3, Chapter 8: All Aboard the Empress Express
 - 2026-05-29 — Mage the Ascension the Victorian Age | Book 3, Chapter 7: Mark of the Desert Priest
