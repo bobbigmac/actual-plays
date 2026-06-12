@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-06-12T15:42:58+00:00`
-- checked_at: `2026-06-12T15:42:58+00:00`
-- last_modified: `Fri, 12 Jun 2026 15:37:21 GMT`
+- fetched_at: `2026-06-12T20:28:36+00:00`
+- checked_at: `2026-06-12T20:28:36+00:00`
+- last_modified: `Fri, 12 Jun 2026 16:10:08 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-12T15:42:58+00:00",
+  "fetched_at": "2026-06-12T20:28:36+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,27 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "eaf77911c89fd64331326655af13123639215b6c",
+      "title": "Mythic Bastionland #2",
+      "published_at": "2026-06-12T16:00:00+00:00",
+      "link": null,
+      "description": "Welcome back to Mythic Bastionland and the land of Saltmere Reach... Seeking guidance in this new land the three knights present offering to the serpentine seer of the glittering ponds, yet the seers are strange and their guidance may come at a cost most terrible... Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Check out Mythic Bastionland: https://chrismcdee.itch.io/mythic-bastionland Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: @AngoryTom Dominic Allen: @apocplayers Danann McAleer: @apocplayers Harry: https://www.twitch.tv/hrry Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dcef6036-e24a-11f0-9e56-57e6cd24e0ff/image/755bd00cec9dbaa8cad93ad1cd3bb7bb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR6502051413.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3961",
+      "speakers": [
+        "Mythic Bastionland",
+        "Saltmere Reach",
+        "Tom Bates"
+      ],
+      "topics": [
+        "mythic",
+        "bastionland"
+      ]
+    },
     {
       "key": "5e9bc3e43e5039ec7938966862837a299d000353",
       "title": "Mythic Bastionland #1",
@@ -3011,25 +3032,6 @@
       ]
     },
     {
-      "key": "1eca22755a0101b7dd1965525d648220ad5556b4",
-      "title": "Call of Cthulhu: The Disintegrator #2",
-      "published_at": "2023-09-09T17:00:00+00:00",
-      "link": null,
-      "description": "The investigators have made their way to The White Point Hotel where they are going to witness a demonstration of a mysterious new weapon that can supposedly destroy all matter. They must now work out whether the weapon is an elaborate hoax or if it is indeed the super weapon that has been promised. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR3581887226.mp3?updated=1707495579",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4387",
-      "speakers": [
-        "Tom Bates"
-      ],
-      "topics": [
-        "cthulhu",
-        "disintegrator"
-      ]
-    },
-    {
       "key": "cd447fcdfcfeec04fe6283bb0510fbe54ec1f480",
       "title": "MÖRK BORG: The Goblin Grinder #1",
       "published_at": "2023-09-09T17:00:00+00:00",
@@ -3049,6 +3051,25 @@
         "goblin",
         "grinder"
       ]
+    },
+    {
+      "key": "1eca22755a0101b7dd1965525d648220ad5556b4",
+      "title": "Call of Cthulhu: The Disintegrator #2",
+      "published_at": "2023-09-09T17:00:00+00:00",
+      "link": null,
+      "description": "The investigators have made their way to The White Point Hotel where they are going to witness a demonstration of a mysterious new weapon that can supposedly destroy all matter. They must now work out whether the weapon is an elaborate hoax or if it is indeed the super weapon that has been promised. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR3581887226.mp3?updated=1707495579",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4387",
+      "speakers": [
+        "Tom Bates"
+      ],
+      "topics": [
+        "cthulhu",
+        "disintegrator"
+      ]
     }
   ]
 }
@@ -3057,6 +3078,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-12 — Mythic Bastionland #2 — speakers: Mythic Bastionland, Saltmere Reach, Tom Bates
 - 2026-06-05 — Mythic Bastionland #1 — speakers: Chris McDowall, Tom Bates
 - 2026-05-29 — Star Borg: Tango Squad #3 — speakers: Star Borg, Tango Squad, Crimson Crystal Casino, Tom Bates
 - 2026-05-22 — Star Borg: Tango Squad #2 — speakers: Tom Bates
@@ -3203,5 +3225,5 @@
 - 2023-09-16 — MÖRK BORG: The Goblin Grinder #2 — speakers: Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #3 — speakers: Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Mystery Quest, Tom Bates
-- 2023-09-09 — Call of Cthulhu: The Disintegrator #2 — speakers: Tom Bates
 - 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates
+- 2023-09-09 — Call of Cthulhu: The Disintegrator #2 — speakers: Tom Bates

@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-05T15:29:28+00:00`
-- etag: `W/"b75140379f8e88b04f264db93f9da8bc"`
-- last_modified: `Fri, 05 Jun 2026 09:00:00 GMT`
+- fetched_at: `2026-06-12T20:28:36+00:00`
+- checked_at: `2026-06-12T20:28:36+00:00`
+- etag: `W/"775a9c28e99ee4020831a8fd82cacc92"`
+- last_modified: `Fri, 12 Jun 2026 16:30:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,36 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-06-05T15:29:28+00:00",
+  "fetched_at": "2026-06-12T20:28:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "af75ce4f7f6700db85917b286cc856da8d4dba40",
+      "title": "Rotating Heroes x Force of Extinction Crossover - Session 0",
+      "published_at": "2026-06-12T16:30:00+00:00",
+      "link": "https://audioboom.com/posts/8915428",
+      "description": "Join Jasper and his 12 Sided Studios crew as they bring their new system Force of Extinction into the world of Rotating Heroes! In their session 0, or settlement building in FOE, our scavengers flesh out their character and build a base of operations for their upcoming crossover in the world of Axis. *Although featured from an upcoming arc, the Force of Extinction episodes are stand alone and won't spoil anything from future episodes* - Head over to the Force of Extinction BackerKit page for more information on the brand new system before the fundraiser goes live next week! Be sure to keep an eye out here for the first episode coming next Tuesday!",
+      "image_url": "https://audioboom.com/i/43693043.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8915428.mp3?modified=1781195228&sid=5167570&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2223",
+      "speakers": [
+        "Join Jasper"
+      ],
+      "topics": [
+        "rotating",
+        "heroes",
+        "force",
+        "extinction",
+        "crossover",
+        "session"
+      ]
+    },
     {
       "key": "6c3d2d4bcf47876eb4fc62848b9666976879c39c",
       "title": "Axis Arc 2 Ep 6: The Golden Drifter PART 2",
@@ -2688,6 +2711,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-12 — Rotating Heroes x Force of Extinction Crossover - Session 0 — speakers: Join Jasper
 - 2026-06-05 — Axis Arc 2 Ep 6: The Golden Drifter PART 2
 - 2026-05-29 — Axis Arc 2 Ep 6: The Golden Drifter PART 1
 - 2026-05-22 — Axis Arc 2 Ep 5: The First Captain’s Booty PART 2
