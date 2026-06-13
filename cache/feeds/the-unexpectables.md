@@ -2,10 +2,10 @@
 
 - slug: `the-unexpectables`
 - source: `https://feeds.libsyn.com/105383/rss`
-- fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-05T15:29:28+00:00`
-- etag: `"94c25a7b3b84fc756b8ab594ad1ee759"`
-- last_modified: `Fri, 29 May 2026 23:41:09 GMT`
+- fetched_at: `2026-06-13T19:55:42+00:00`
+- checked_at: `2026-06-13T19:55:42+00:00`
+- etag: `"e0251e11c2450d511f39ed849fb7757b"`
+- last_modified: `Sat, 13 Jun 2026 19:01:18 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://101club.libsyn.com/website",
   "description": "Follow the travels and tribulations of Task the Kobold Ranger, Greckles the Kenku Rogue, Panic the Tiefling Bard, and Borky the Orc Barbarian, as they traverse the dangerous and mysterious lands of Alivast, and the Capital City that hosts a bungle of characters, magic and villains.",
   "image_url": "https://static.libsyn.com/p/assets/6/9/c/7/69c7492dcb405690/sweet_dragon_logo.png",
-  "fetched_at": "2026-06-05T15:29:28+00:00",
+  "fetched_at": "2026-06-13T19:55:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,44 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "def01159e556803602c076cbf13926db6cce8f27",
+      "title": "Lunatics Unleashed - The Unexpectables II Episode 153",
+      "published_at": "2026-06-13T18:59:00+00:00",
+      "link": "https://101club.libsyn.com/lunatics-unleashed-the-unexpectables-ii-episode-153",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_153_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127199185",
+      "itunes_duration": "02:31:22",
+      "speakers": [
+        "Unexpectables II"
+      ],
+      "topics": [
+        "lunatics",
+        "unleashed",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "0523c1e9e84086b24ccff361145f7a5f0ef28aa5",
+      "title": "Alone in the Dark - Fool's Gelt Episode 7",
+      "published_at": "2026-06-13T18:58:00+00:00",
+      "link": "https://101club.libsyn.com/alone-in-the-dark-fools-gelt-episode-7",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_7_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "154990267",
+      "itunes_duration": "03:04:27",
+      "speakers": [],
+      "topics": [
+        "dark",
+        "fool",
+        "gelt"
+      ]
+    },
     {
       "key": "2d5b65efeaa64ece3061132e95243ad1f3ace128",
       "title": "Salmon Max - The Unexpectables II Episode 152",
@@ -11201,6 +11239,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-13 — Lunatics Unleashed - The Unexpectables II Episode 153 — speakers: Unexpectables II
+- 2026-06-13 — Alone in the Dark - Fool's Gelt Episode 7
 - 2026-05-29 — Salmon Max - The Unexpectables II Episode 152 — speakers: Unexpectables II
 - 2026-05-29 — Nazgob 3:16 - Fool's Gelt Episode 6
 - 2026-05-22 — Romance Isn't Dead - The Unexpectables II Episode 151 — speakers: Romance Isn
