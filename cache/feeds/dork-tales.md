@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-06-12T15:42:58+00:00`
-- checked_at: `2026-06-12T15:42:58+00:00`
-- etag: `"djEuMi4wOjE3ODEyNjkyMzk1MzA="`
+- fetched_at: `2026-06-13T04:54:31+00:00`
+- checked_at: `2026-06-13T04:54:31+00:00`
+- etag: `"djEuMi4wOjE3ODEzMjMyNDY0NjA="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/show-cover.png",
-  "fetched_at": "2026-06-12T15:42:58+00:00",
+  "fetched_at": "2026-06-13T04:54:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
