@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-06-15T12:44:58+00:00`
-- checked_at: `2026-06-15T12:44:58+00:00`
-- etag: `"djEuMi4wOjE3ODE1MjY5MTQwMzE="`
+- fetched_at: `2026-06-15T19:09:26+00:00`
+- checked_at: `2026-06-15T19:09:26+00:00`
+- etag: `"djEuMi4wOjE3ODE1MzU2MzkzNTc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-06-15T12:44:58+00:00",
+  "fetched_at": "2026-06-15T19:09:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "e65930f0ad54df9adc821683bd0c145c9fa620a4",
+      "title": "Campaign 2: Episode 188 - Like a Boar in a Bakery",
+      "published_at": "2026-06-15T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-188-like-a-boar-in-a-bakery",
+      "description": "Having completed their scouting mission date at the docks, Screech and R'Orc are ready for a break. Alas, fate (or the Dungeon Master) have other plans for them, as they are called out to an emergency rescue mission for a bunch of blokes barricaded inside a bakery with a belligerent boar braying for their blood. Luckily Screech remembered to bring along The Aureole... The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by Killurmonkey Art ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1781526762720-551860b8-b1e2-4817-999f-b6de44cdfc8c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a2ff0cbcd02369494f2e7a3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78504265",
+      "itunes_duration": "54:30",
+      "speakers": [
+        "Bakery Having"
+      ],
+      "topics": [
+        "campaign",
+        "boar",
+        "bakery"
+      ]
+    },
     {
       "key": "cac132c7a2588ed638fcf25fd6a8991ae51a03a0",
       "title": "Campaign 2: Episode 187 - A Midnight Crane-Top Slop-Picnic",
@@ -12378,6 +12398,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — Campaign 2: Episode 188 - Like a Boar in a Bakery — speakers: Bakery Having
 - 2026-06-08 — Campaign 2: Episode 187 - A Midnight Crane-Top Slop-Picnic — speakers: Midnight Crane, Top Slop, Picnic Screech
 - 2026-06-01 — Campaign 2: Episode 186 - Super Spike Spy
 - 2026-05-25 — Campaign 2: Episode 185 - Nika Loves Cargo Shorts — speakers: Nika Loves Cargo Shorts

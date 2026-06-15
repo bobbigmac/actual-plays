@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-06-14T05:11:07+00:00`
-- checked_at: `2026-06-14T05:11:07+00:00`
-- etag: `"djEuMi4wOjE3ODEzOTE2NTEyNDk="`
+- fetched_at: `2026-06-15T19:09:26+00:00`
+- checked_at: `2026-06-15T19:09:26+00:00`
+- etag: `"djEuMi4wOjE3ODE1NDk1OTU1NTc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/show-cover.png",
-  "fetched_at": "2026-06-14T05:11:07+00:00",
+  "fetched_at": "2026-06-15T19:09:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "68d4d31e7cbcaa7bbfeca0310e2a2fcfb3b5944e",
+      "title": "ColdIron | Episode 1: Beyond the Hellgate",
+      "published_at": "2026-06-15T18:08:14+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/coldiron-episode-1-beyond-the-hellgate",
+      "description": "Welcome to our ColdIron: our new homebrew campaign! In our first episode, the cast meets in a strange new land under dubious circumstances and unknowingly linked by fate. Kelly Clark as Dungeon Master Cast Amy Godfrey as Carrion Slaughterhouse Robin Holford as Trixxi Blastemoff Katrina McGie as Taliina'a Christine Rattray as Bell St. Claire Caitlan Vinkle as ZOE === Music credits: Tim Kulig kindly composed the following tracks for this campaign: Tumbleweeds Campaign Outro Find him at https://www.timkulig.com Licensed under Creative Commons: By Attribution 4.0 creativecommons.org/licenses/by/4.0/ IMDB: https://www.imdb.com/name/nm0997280/?... The Following licensed tracks by Monument Studios were used: High Noon Outlander Harps Dark Hybrid Ambience Lonely Bard Sweetgrass B Western Saloon No Time https://www.monumentstudios.net It also includes the following music from Joel Steudler licensed through a Humble Music collection: Heavily Armed Additional Licensed tracks by Ovani Sound and Phat Phrog Studio may also used. For background ambience we used sounds from Tabletop Audio. Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life. https://www.tabletopaudio.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1781546356479-9af01bb6-8f5e-4935-aada-f236e222c47b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a303f90c3a72484cb323c74/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "178171820",
+      "itunes_duration": "3:05:35",
+      "speakers": [
+        "Hellgate Welcome"
+      ],
+      "topics": [
+        "coldiron",
+        "hellgate"
+      ]
+    },
     {
       "key": "98202e61258b58d27834c48da81f6abf9b1c09e7",
       "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 9: The Crossroad of Prophets and Thieves",
@@ -7855,6 +7874,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — ColdIron | Episode 1: Beyond the Hellgate — speakers: Hellgate Welcome
 - 2026-06-12 — Mage the Ascension the Victorian Age | Book 3, Chapter 9: The Crossroad of Prophets and Thieves — speakers: Victorian Age, Thieves Welcome
 - 2026-06-10 — ColdIron | Session 0: Meet the Cast — speakers: Cast Welcome
 - 2026-06-04 — Mage the Ascension the Victorian Age | Book 3, Chapter 8: All Aboard the Empress Express

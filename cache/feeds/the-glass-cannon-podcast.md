@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-06-15T05:30:18+00:00`
-- checked_at: `2026-06-15T05:30:18+00:00`
-- last_modified: `Mon, 15 Jun 2026 04:00:00 GMT`
+- fetched_at: `2026-06-15T19:09:26+00:00`
+- checked_at: `2026-06-15T19:09:26+00:00`
+- last_modified: `Mon, 15 Jun 2026 17:06:37 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-15T05:30:18+00:00",
+  "fetched_at": "2026-06-15T19:09:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "82adf076fd8c3abcf37e9769ae05f8e383e9d78e",
+      "title": "GCN News Minute June 15, 2026",
+      "published_at": "2026-06-15T17:00:00+00:00",
+      "link": null,
+      "description": "With Las Vegas in the rear-view mirror, we look ahead to Gen Con, more Call of Cthulhu Live!, and an all-new show with The One Ring RPG. Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e7ec9f88-68d4-11f1-a107-0b1300e550ea/image/9ef0a0596145f05100196c1adc2e8b75.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP5545171973.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "327",
+      "speakers": [
+        "Gen Con"
+      ],
+      "topics": [
+        "news",
+        "minute",
+        "june"
+      ]
+    },
     {
       "key": "1a5439230bfaba30e9da2c448a9090974a1faabf",
       "title": "Hits and Crits | Blood of the Wild S1 E26 | Pathfinder 2E Quest for the Frozen Flame",
@@ -152,28 +172,6 @@
       ]
     },
     {
-      "key": "ed2953efb01971abdd27ab3b81e606d029ab746c",
-      "title": "You're on Your Own | We Shouldn't Be Alive Episode 1 | Twilight: 2000",
-      "published_at": "2026-06-10T04:00:00+00:00",
-      "link": null,
-      "description": "A new campaign begins! Referee Joe O'Brien brings Ross Bryant, Mary Lou, Jared Logan, and Skid Maher to the table to begin their first ever long-form campaign of Free League's Twilight: 2000 Fourth Edition. Deep in enemy territory, four survivors search for answers in an alternate-history Eastern Europe ravaged by nuclear attacks. Get BONUS CONTENT every week at ⁠ http://jointhenaish.com ⁠, including the Mission Debrief, our exclusive We Shouldn't Be Alive companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Watch the video here: https://youtu.be/ckr-lHGT2rU Come see us LIVE in a city near you at https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/1ea6e170-643c-11f1-b34d-976011faef9d/image/fea8f4bdf27af8a040cd8ab5e74ceac2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9259186635.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "6302",
-      "speakers": [
-        "Joe O'Brien",
-        "Ross Bryant",
-        "Mary Lou",
-        "Jared Logan",
-        "Skid Maher"
-      ],
-      "topics": [
-        "twilight"
-      ]
-    },
-    {
       "key": "85b5ba15a675bdbe08e551873d19648ffdade2b5",
       "title": "Mythic Bastionland | GCN Naish Rally",
       "published_at": "2026-06-10T04:00:00+00:00",
@@ -193,6 +191,28 @@
         "bastionland",
         "naish",
         "rally"
+      ]
+    },
+    {
+      "key": "ed2953efb01971abdd27ab3b81e606d029ab746c",
+      "title": "You're on Your Own | We Shouldn't Be Alive Episode 1 | Twilight: 2000",
+      "published_at": "2026-06-10T04:00:00+00:00",
+      "link": null,
+      "description": "A new campaign begins! Referee Joe O'Brien brings Ross Bryant, Mary Lou, Jared Logan, and Skid Maher to the table to begin their first ever long-form campaign of Free League's Twilight: 2000 Fourth Edition. Deep in enemy territory, four survivors search for answers in an alternate-history Eastern Europe ravaged by nuclear attacks. Get BONUS CONTENT every week at ⁠ http://jointhenaish.com ⁠, including the Mission Debrief, our exclusive We Shouldn't Be Alive companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Watch the video here: https://youtu.be/ckr-lHGT2rU Come see us LIVE in a city near you at https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1ea6e170-643c-11f1-b34d-976011faef9d/image/fea8f4bdf27af8a040cd8ab5e74ceac2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9259186635.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6302",
+      "speakers": [
+        "Joe O'Brien",
+        "Ross Bryant",
+        "Mary Lou",
+        "Jared Logan",
+        "Skid Maher"
+      ],
+      "topics": [
+        "twilight"
       ]
     },
     {
@@ -20443,14 +20463,15 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — GCN News Minute June 15, 2026 — speakers: Gen Con
 - 2026-06-15 — Hits and Crits | Blood of the Wild S1 E26 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame Combat
 - 2026-06-15 — Blades in the Dark | GCN Naish Rally
 - 2026-06-12 — The Folly of Ser Ydris | The Glass Cannon Podcast Shadowdark E30 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-06-12 — Delta Green | GCN Naish Rally
 - 2026-06-11 — St. Elsewhere | Call of Cthulhu Live! | St. Paul 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
 - 2026-06-11 — Brindlewood Bay | GCN Naish Rally — speakers: Brindlewood Bay, Naish Rally When
-- 2026-06-10 — You're on Your Own | We Shouldn't Be Alive Episode 1 | Twilight: 2000 — speakers: Joe O'Brien, Ross Bryant, Mary Lou, Jared Logan, Skid Maher
 - 2026-06-10 — Mythic Bastionland | GCN Naish Rally — speakers: Mythic Bastionland, Troy Lavallee
+- 2026-06-10 — You're on Your Own | We Shouldn't Be Alive Episode 1 | Twilight: 2000 — speakers: Joe O'Brien, Ross Bryant, Mary Lou, Jared Logan, Skid Maher
 - 2026-06-09 — Shadowdark | GCN Naish Rally — speakers: Joe O'Brien, Paula Deming, Sydney Amanuel, Kate Stamas, Rob Kerkovich
 - 2026-06-09 — Winter Phase, 511 A.D. | Pendragon: Under an Iron Sky | Chaosium — speakers: Lady Gwenhilt
 - 2026-06-08 — GCN News Minute June 8, 2026 — speakers: News Minute June
