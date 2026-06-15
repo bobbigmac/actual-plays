@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-06-08T16:30:26+00:00`
-- checked_at: `2026-06-08T16:30:26+00:00`
-- etag: `"1dc6f50a2721d36e95e0dfa80dba386e"`
-- last_modified: `Mon, 08 Jun 2026 15:58:33 GMT`
+- fetched_at: `2026-06-15T05:30:18+00:00`
+- checked_at: `2026-06-15T05:30:18+00:00`
+- etag: `"7feea19c8fbf39c7e828769d3cd009f3"`
+- last_modified: `Mon, 15 Jun 2026 04:37:37 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! Twitter / Facebook / Instagram: @forcemajeurepod Website: www.forcemajurepod.com",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-06-08T16:30:26+00:00",
+  "fetched_at": "2026-06-15T05:30:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "bee3c06c0684372502a14d2d9a7c8346387eeb49",
+      "title": "A Shot At Redemption E10 - Three Weeks Later",
+      "published_at": "2026-06-15T04:30:00+00:00",
+      "link": "https://forcemajeurepod.libsyn.com/a-shot-at-redemption-e10-three-weeks-later",
+      "description": "Time has passed since we last saw our heroes, but they have not been idle - and neither has Destiny. Let's check in with them, and see what's been going on... Cast! Adam Beltaine is your GM, and can be found on Bluesky as @maddambeltaine.bsky.social Lou plays Tryk C Rangavoon, and can be found on Bluesky at @magpiehound.bsky.social Mikey plays Jax Vorn, and can be found on Bluesky at @weaselpunk.bsky.social Tom plays Kip Kazian and can be found on Bluesky at @tcpatrick.bsky.social as well as GMing the wonderful Dice Company podcast Geoff plays Kalro Vatts, and sensibly has no social media presence Follow us on social media! All our links can now be found here: linktr.ee/albertthellama Support Albert the Llama Enterprises! If you like what we do and have some spare money, we have both a Patreon and a Ko-Fi account. We are extremely grateful for your support. https://www.patreon.com/forcemajeurepod ko-fi.com/forcemajeurepod Intro and Supplemental Music: Composed by Sly Fox Audio - check out more of her stuff on soundcloud.com/slyfoxaudio Additional Music: \"Voyage of Discovery\" \"Moments\" by Silverman Sound (silvermansound.com) \"Pre Apocalypse\" \"Peek-Aboo\" \"Apocalypse Blues\" by Alexander Nakarada ( https://www.creatorchords.com ) \"The Backrooms Music Vol. 9\" by Sascha Ende (ende.app) \"Frontier Town (music only Patreon exclusive)\" \"Red Sky Mine (music only Patreon exclusive)\" both by Tabletop Audio All used with gratitude under the Creative Commons licence",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/forcemajeurepod/Redemption_E10.mp3?dest-id=604132",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68924393",
+      "itunes_duration": "54:33",
+      "speakers": [
+        "Three Weeks Later Time"
+      ],
+      "topics": [
+        "shot",
+        "redemption",
+        "week"
+      ]
+    },
     {
       "key": "91ab15d520eb1dcde5f9eba69ce92ec78ac266a0",
       "title": "A Shot At Redemption E09 - Jiggety Jig",
@@ -4451,6 +4471,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — A Shot At Redemption E10 - Three Weeks Later — speakers: Three Weeks Later Time
 - 2026-06-01 — A Shot At Redemption E09 - Jiggety Jig
 - 2026-05-18 — A Shot At Redemption E08 - The Hatchery
 - 2026-05-04 — A Shot At Redemption E07 - Wait and See

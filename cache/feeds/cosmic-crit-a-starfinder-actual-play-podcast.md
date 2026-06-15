@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-06-08T05:03:54+00:00`
-- checked_at: `2026-06-14T05:11:07+00:00`
-- last_modified: `Mon, 08 Jun 2026 04:05:00 GMT`
+- fetched_at: `2026-06-15T05:30:18+00:00`
+- checked_at: `2026-06-15T05:30:18+00:00`
+- last_modified: `Mon, 15 Jun 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-06-08T05:03:54+00:00",
+  "fetched_at": "2026-06-15T05:30:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "59d30c0f3b291443e186e867410cf0cff78790f8",
+      "title": "Guilt of the Grave World | 018: Rotting Hill",
+      "published_at": "2026-06-15T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-018-rotting-hill/",
+      "description": "An undead horde chases the party across the surface of Eox, and they have to fight tooth and nail to survive. Can the heroes make it to safety or will they succumb to the undead chase and become another victim of the zombie shamblers? Find out on this week’s Cosmic Crit!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3820/guilt-of-the-grave-world-018-rotting-hill.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76978069",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Grave World"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "rotting",
+        "hill"
+      ]
+    },
     {
       "key": "3fa3e24b9071a90eed246849983f5c162fecc69e",
       "title": "Guilt of the Grave World | 017: La La Landing",
@@ -8933,6 +8955,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — Guilt of the Grave World | 018: Rotting Hill — speakers: Grave World
 - 2026-06-08 — Guilt of the Grave World | 017: La La Landing — speakers: Grave World, Nova Rush
 - 2026-06-01 — Guilt of the Grave World | 016: The Hand that Eox the Cradle — speakers: Station Alpha
 - 2026-05-25 — Guilt of the Grave World | 015: All That Jazm — speakers: Jazm McClintock
