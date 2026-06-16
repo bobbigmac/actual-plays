@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-06-16T05:37:04+00:00`
-- checked_at: `2026-06-16T05:37:04+00:00`
-- etag: `"066bdb11dbba2dabc5d23dc110e3627e"`
+- fetched_at: `2026-06-16T21:21:49+00:00`
+- checked_at: `2026-06-16T21:21:49+00:00`
+- etag: `"5547f792c7e213455963ae27e2296e4d"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-06-16T05:37:04+00:00",
+  "fetched_at": "2026-06-16T21:21:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

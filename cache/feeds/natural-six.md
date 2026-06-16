@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-06-09T20:21:22+00:00`
-- checked_at: `2026-06-09T20:21:22+00:00`
-- etag: `"djEuMi4wOjE3ODEwMzE2Mzk0NzQ="`
+- fetched_at: `2026-06-16T21:21:49+00:00`
+- checked_at: `2026-06-16T21:21:49+00:00`
+- etag: `"djEuMi4wOjE3ODE2MzY0Mzk1NTc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-06-09T20:21:22+00:00",
+  "fetched_at": "2026-06-16T21:21:49+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "8fcecb423713ba34ee8c82b742eed793dac8d870",
+      "title": "Action Surge Episode 56",
+      "published_at": "2026-06-16T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-56",
+      "description": "This week saw the long-awaited return of some minis, and more gorgeous character-driven story moments for Kel. The group break all of that down, but also explore what it feels like for both DM and player when a particularly nasty status effect just won't let a PC do anything during combat. Also, how meta should players get when approaching battle strategy? We also chat about Raidion's solo moment, and how much agency players can have in one-on-one scenarios. It's good stuff! -- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a26f1bda917ce4c70087c6b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111458046",
+      "itunes_duration": "46:25",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "2d4bdbbae40699761a3f0f36bb578a8e6fafc54b",
       "title": "Ep. 56 Bone and Cloth",
@@ -2939,6 +2963,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-16 — Action Surge Episode 56 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-09 — Ep. 56 Bone and Cloth — speakers: Cloth Not, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-04 — Journey to the Witchspire | Natural Six x Witchspire — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-02 — Action Surge Episode 55 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle

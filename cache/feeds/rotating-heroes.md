@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-06-12T20:28:36+00:00`
-- checked_at: `2026-06-12T20:28:36+00:00`
-- etag: `W/"775a9c28e99ee4020831a8fd82cacc92"`
-- last_modified: `Fri, 12 Jun 2026 16:30:00 GMT`
+- fetched_at: `2026-06-16T21:21:49+00:00`
+- checked_at: `2026-06-16T21:21:49+00:00`
+- etag: `W/"f5a8171f6cf1de480452d3db110b3bb0"`
+- last_modified: `Tue, 16 Jun 2026 17:30:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,36 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-06-12T20:28:36+00:00",
+  "fetched_at": "2026-06-16T21:21:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "035c5c04b345f35b102846aaf7c3a32318d4c143",
+      "title": "Force of Extinction One-Shot Ep 1 - Sun, Sand and Laxatives",
+      "published_at": "2026-06-16T17:30:00+00:00",
+      "link": "https://audioboom.com/posts/8916693",
+      "description": "When a scavenger returns to camp spouting tall tales of a frozen oasis in the middle of the desert, our 12 Sided crew venture out to investigate the strange rumour. Your cast for this crossover are... Jasper William Cartwright as your GM Chad Pytel as Sender Zack FG as Buddy and Elle Crook as Penelope -- If you enjoyed this episode and want to try out the Force of Extinction system for yourself, you can support it over on BackerKit now! Quick to learn and built for role play and epic moments, help us reach our goal by backing one of our Pledge Tiers, and get your hands on so many exclusive Force of Extinction goodies. From source books, monster decks and remote play sessions, all the way up to an overnight holiday escape in a castle! If you want to see Force of Extinction in action elsewhere, consider checking out: Transplanar's most recent arc Our one-shot GM'd by former Rotator Edward Spence over on Youtube Our one-shot with Roll from the Hip GM'd by Jasper William Cartwright",
+      "image_url": "https://audioboom.com/i/43693043.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8916693.mp3?modified=1781613530&sid=5167570&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3502",
+      "speakers": [
+        "Extinction One",
+        "Laxatives When"
+      ],
+      "topics": [
+        "force",
+        "extinction",
+        "shot",
+        "sand",
+        "laxative"
+      ]
+    },
     {
       "key": "af75ce4f7f6700db85917b286cc856da8d4dba40",
       "title": "Rotating Heroes x Force of Extinction Crossover - Session 0",
@@ -2711,6 +2734,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-16 — Force of Extinction One-Shot Ep 1 - Sun, Sand and Laxatives — speakers: Extinction One, Laxatives When
 - 2026-06-12 — Rotating Heroes x Force of Extinction Crossover - Session 0 — speakers: Join Jasper
 - 2026-06-05 — Axis Arc 2 Ep 6: The Golden Drifter PART 2
 - 2026-05-29 — Axis Arc 2 Ep 6: The Golden Drifter PART 1

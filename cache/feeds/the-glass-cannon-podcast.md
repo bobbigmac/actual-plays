@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-06-16T17:23:34+00:00`
-- checked_at: `2026-06-16T17:23:34+00:00`
-- last_modified: `Tue, 16 Jun 2026 17:01:36 GMT`
+- fetched_at: `2026-06-16T21:21:49+00:00`
+- checked_at: `2026-06-16T21:21:49+00:00`
+- last_modified: `Tue, 16 Jun 2026 19:56:05 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-16T17:23:34+00:00",
+  "fetched_at": "2026-06-16T21:21:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -69,25 +69,6 @@
       ]
     },
     {
-      "key": "367f2e557f59872d065181f349df4e5dd9ad14c4",
-      "title": "Blades in the Dark | GCN Naish Rally",
-      "published_at": "2026-06-15T04:00:00+00:00",
-      "link": null,
-      "description": "It's 18 years after the events of Haunted City. Juliet and Valkos have opened a school for next generation of scoundrels, but will their lessons be enough to safeguard the youth through the blackouts plaguing Duskwall? The Remnant becomes a family affair in this reunion episode of Haunted City, featuring the talents of Ross Bryant, Josephine McAdam and Abubakar Salim, with Game Master Jared Logan. Watch the video here: https://youtube.com/live/ZXmy0xIY7Rs Help us unlock what's next. Subscribe today at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/4d2d6004-6410-11f1-85bc-d7f6f79bd2f7/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9594405861.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "9442",
-      "speakers": [],
-      "topics": [
-        "blade",
-        "dark",
-        "naish",
-        "rally"
-      ]
-    },
-    {
       "key": "1a5439230bfaba30e9da2c448a9090974a1faabf",
       "title": "Hits and Crits | Blood of the Wild S1 E26 | Pathfinder 2E Quest for the Frozen Flame",
       "published_at": "2026-06-15T04:00:00+00:00",
@@ -112,20 +93,20 @@
       ]
     },
     {
-      "key": "ea0836e55637c31db16d256972fe8c8118b95e14",
-      "title": "Delta Green | GCN Naish Rally",
-      "published_at": "2026-06-12T04:00:00+00:00",
+      "key": "367f2e557f59872d065181f349df4e5dd9ad14c4",
+      "title": "Blades in the Dark | GCN Naish Rally",
+      "published_at": "2026-06-15T04:00:00+00:00",
       "link": null,
-      "description": "The cast of Get in the Trunk's Impossible Landscapes Campaign reunites with some new characters and some old habits in this incredible one shot from the amazing folks at Arc Dream Publishing. When a strange event unfolds at an iconic national park, a Delta Green task force races to the scene to determine the potential unnatural impact before any official authorities can arrive. Watch the video here: ⁠https://youtube.com/live/WlEGKz9Ag2M Help us unlock what's next. Subscribe today at ⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/46969ae2-6359-11f1-ae6c-77b154f07af4/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3705182171.mp3",
+      "description": "It's 18 years after the events of Haunted City. Juliet and Valkos have opened a school for next generation of scoundrels, but will their lessons be enough to safeguard the youth through the blackouts plaguing Duskwall? The Remnant becomes a family affair in this reunion episode of Haunted City, featuring the talents of Ross Bryant, Josephine McAdam and Abubakar Salim, with Game Master Jared Logan. Watch the video here: https://youtube.com/live/ZXmy0xIY7Rs Help us unlock what's next. Subscribe today at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4d2d6004-6410-11f1-85bc-d7f6f79bd2f7/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9594405861.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "10954",
+      "itunes_duration": "9442",
       "speakers": [],
       "topics": [
-        "delta",
-        "green",
+        "blade",
+        "dark",
         "naish",
         "rally"
       ]
@@ -151,6 +132,25 @@
         "cannon",
         "podcast",
         "shadowdark"
+      ]
+    },
+    {
+      "key": "ea0836e55637c31db16d256972fe8c8118b95e14",
+      "title": "Delta Green | GCN Naish Rally",
+      "published_at": "2026-06-12T04:00:00+00:00",
+      "link": null,
+      "description": "The cast of Get in the Trunk's Impossible Landscapes Campaign reunites with some new characters and some old habits in this incredible one shot from the amazing folks at Arc Dream Publishing. When a strange event unfolds at an iconic national park, a Delta Green task force races to the scene to determine the potential unnatural impact before any official authorities can arrive. Watch the video here: ⁠https://youtube.com/live/WlEGKz9Ag2M Help us unlock what's next. Subscribe today at ⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/46969ae2-6359-11f1-ae6c-77b154f07af4/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3705182171.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "10954",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "naish",
+        "rally"
       ]
     },
     {
@@ -195,6 +195,28 @@
       ]
     },
     {
+      "key": "85b5ba15a675bdbe08e551873d19648ffdade2b5",
+      "title": "Mythic Bastionland | GCN Naish Rally",
+      "published_at": "2026-06-10T04:00:00+00:00",
+      "link": null,
+      "description": "Troy Lavallee takes a freshly generated Mythic Bastionland realm from map to table, introducing four young knights errant to a kingdom of living myths, ancient curses, forgotten ruins, and strange wonders. Watch the video here: https://youtube.com/live/_PO_u3rzLNo Help us unlock what's next. Subscribe today at ⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/180a1502-6357-11f1-9c39-8b7d69d0b84c/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4053187698.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9954",
+      "speakers": [
+        "Mythic Bastionland",
+        "Troy Lavallee"
+      ],
+      "topics": [
+        "mythic",
+        "bastionland",
+        "naish",
+        "rally"
+      ]
+    },
+    {
       "key": "ed2953efb01971abdd27ab3b81e606d029ab746c",
       "title": "You're on Your Own | We Shouldn't Be Alive E1 | Twilight: 2000",
       "published_at": "2026-06-10T04:00:00+00:00",
@@ -217,25 +239,25 @@
       ]
     },
     {
-      "key": "85b5ba15a675bdbe08e551873d19648ffdade2b5",
-      "title": "Mythic Bastionland | GCN Naish Rally",
-      "published_at": "2026-06-10T04:00:00+00:00",
+      "key": "825ed3ae01c2e7b64d8c65110e228bc5111f513d",
+      "title": "Winter Phase, 511 A.D. | Pendragon: Under an Iron Sky | Chaosium",
+      "published_at": "2026-06-09T04:00:00+00:00",
       "link": null,
-      "description": "Troy Lavallee takes a freshly generated Mythic Bastionland realm from map to table, introducing four young knights errant to a kingdom of living myths, ancient curses, forgotten ruins, and strange wonders. Watch the video here: https://youtube.com/live/_PO_u3rzLNo Help us unlock what's next. Subscribe today at ⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/180a1502-6357-11f1-9c39-8b7d69d0b84c/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4053187698.mp3",
+      "description": "After the events of the marriage of Lady Gwenhilt and Lord Maurice, winter comes again. In sir Queegan's absence, a new knight arrives at court. For a limited time, save 15% on all Pendragon products with code \"PENCANNON3\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Watch the video here: ⁠ https://youtu.be/1ZKwR7WCVS8 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/928d94ee-636a-11f1-862d-af834d89ede3/image/e3cb79c66f78df27c257e62309e3a73e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8514351308.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "9954",
+      "itunes_duration": "7257",
       "speakers": [
-        "Mythic Bastionland",
-        "Troy Lavallee"
+        "Lady Gwenhilt"
       ],
       "topics": [
-        "mythic",
-        "bastionland",
-        "naish",
-        "rally"
+        "winter",
+        "phase",
+        "pendragon",
+        "iron",
+        "chaosium"
       ]
     },
     {
@@ -263,28 +285,6 @@
       ]
     },
     {
-      "key": "825ed3ae01c2e7b64d8c65110e228bc5111f513d",
-      "title": "Winter Phase, 511 A.D. | Pendragon: Under an Iron Sky | Chaosium",
-      "published_at": "2026-06-09T04:00:00+00:00",
-      "link": null,
-      "description": "After the events of the marriage of Lady Gwenhilt and Lord Maurice, winter comes again. In sir Queegan's absence, a new knight arrives at court. For a limited time, save 15% on all Pendragon products with code \"PENCANNON3\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Watch the video here: ⁠ https://youtu.be/1ZKwR7WCVS8 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/928d94ee-636a-11f1-862d-af834d89ede3/image/e3cb79c66f78df27c257e62309e3a73e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8514351308.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7257",
-      "speakers": [
-        "Lady Gwenhilt"
-      ],
-      "topics": [
-        "winter",
-        "phase",
-        "pendragon",
-        "iron",
-        "chaosium"
-      ]
-    },
-    {
       "key": "57f583b30342018923b78faa3e5bccc5c8eba34f",
       "title": "GCN News Minute June 8, 2026",
       "published_at": "2026-06-08T16:30:00+00:00",
@@ -302,6 +302,24 @@
         "news",
         "minute",
         "june"
+      ]
+    },
+    {
+      "key": "77d718b29217196dc1045fd52fb990a7dda94585",
+      "title": "Advanced D&D | GCN Naish Rally",
+      "published_at": "2026-06-08T04:00:00+00:00",
+      "link": null,
+      "description": "The quaint village of Hommlet seems idyllic on its surface, but shadowy forces conspire to bring about its ruin! Skid Maher goes back to his Dungeon Mastering roots to run Alicia Marie, Jason Charles Miller, Jared Logan, and Rob Kerkovich through the Gary Gygax-penned Advanced Dungeons & Dragons module: The Village of Hommlet! Help us unlock what's next. Subscribe today at ⁠⁠⁠jointhenaish.com⁠⁠⁠ . Watch the video here: ⁠⁠⁠ https://youtube.com/live/d0jR2qp4Bqs Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/360ddc54-6042-11f1-b755-3710963b14ad/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3699805819.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6203",
+      "speakers": [],
+      "topics": [
+        "advanced",
+        "naish",
+        "rally"
       ]
     },
     {
@@ -326,24 +344,6 @@
         "quest",
         "frozen",
         "flame"
-      ]
-    },
-    {
-      "key": "77d718b29217196dc1045fd52fb990a7dda94585",
-      "title": "Advanced D&D | GCN Naish Rally",
-      "published_at": "2026-06-08T04:00:00+00:00",
-      "link": null,
-      "description": "The quaint village of Hommlet seems idyllic on its surface, but shadowy forces conspire to bring about its ruin! Skid Maher goes back to his Dungeon Mastering roots to run Alicia Marie, Jason Charles Miller, Jared Logan, and Rob Kerkovich through the Gary Gygax-penned Advanced Dungeons & Dragons module: The Village of Hommlet! Help us unlock what's next. Subscribe today at ⁠⁠⁠jointhenaish.com⁠⁠⁠ . Watch the video here: ⁠⁠⁠ https://youtube.com/live/d0jR2qp4Bqs Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/360ddc54-6042-11f1-b755-3710963b14ad/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3699805819.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "6203",
-      "speakers": [],
-      "topics": [
-        "advanced",
-        "naish",
-        "rally"
       ]
     },
     {
@@ -20488,19 +20488,19 @@
 
 - 2026-06-16 — The Swine King, Part 1 | Pendragon: Under an Iron Sky | Chaosium — speakers: Iron Sky, Chaosium Hark
 - 2026-06-15 — GCN News Minute June 15, 2026 — speakers: Gen Con
-- 2026-06-15 — Blades in the Dark | GCN Naish Rally
 - 2026-06-15 — Hits and Crits | Blood of the Wild S1 E26 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame Combat
-- 2026-06-12 — Delta Green | GCN Naish Rally
+- 2026-06-15 — Blades in the Dark | GCN Naish Rally
 - 2026-06-12 — The Folly of Ser Ydris | The Glass Cannon Podcast Shadowdark E30 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-06-12 — Delta Green | GCN Naish Rally
 - 2026-06-11 — Brindlewood Bay | GCN Naish Rally — speakers: Brindlewood Bay, Naish Rally When
 - 2026-06-11 — St. Elsewhere | Call of Cthulhu Live! | St. Paul 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
-- 2026-06-10 — You're on Your Own | We Shouldn't Be Alive E1 | Twilight: 2000 — speakers: Joe O'Brien, Ross Bryant, Mary Lou, Jared Logan, Skid Maher
 - 2026-06-10 — Mythic Bastionland | GCN Naish Rally — speakers: Mythic Bastionland, Troy Lavallee
-- 2026-06-09 — Shadowdark | GCN Naish Rally — speakers: Joe O'Brien, Paula Deming, Sydney Amanuel, Kate Stamas, Rob Kerkovich
+- 2026-06-10 — You're on Your Own | We Shouldn't Be Alive E1 | Twilight: 2000 — speakers: Joe O'Brien, Ross Bryant, Mary Lou, Jared Logan, Skid Maher
 - 2026-06-09 — Winter Phase, 511 A.D. | Pendragon: Under an Iron Sky | Chaosium — speakers: Lady Gwenhilt
+- 2026-06-09 — Shadowdark | GCN Naish Rally — speakers: Joe O'Brien, Paula Deming, Sydney Amanuel, Kate Stamas, Rob Kerkovich
 - 2026-06-08 — GCN News Minute June 8, 2026 — speakers: News Minute June
-- 2026-06-08 — Muttering Over a Pyramid | Blood of the Wild S1 E25 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-06-08 — Advanced D&D | GCN Naish Rally
+- 2026-06-08 — Muttering Over a Pyramid | Blood of the Wild S1 E25 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-06-05 — Twilight: 2000 | GCN Naish Rally — speakers: United States
 - 2026-06-05 — Gede from the Machine | The Glass Cannon Podcast Shadowdark E29 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-06-04 — Bitter Sweet Symphony | Call of Cthulhu Live! | Dallas 2026 | Modern Call of Cthulhu — speakers: Sweet Symphony, Quiet Horizon

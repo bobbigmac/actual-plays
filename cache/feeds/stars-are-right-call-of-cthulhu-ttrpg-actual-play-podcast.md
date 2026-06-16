@@ -2,9 +2,9 @@
 
 - slug: `stars-are-right-call-of-cthulhu-ttrpg-actual-play-podcast`
 - source: `https://feed.podbean.com/starsarerightpublishing/feed.xml`
-- fetched_at: `2026-06-16T17:23:34+00:00`
-- checked_at: `2026-06-16T17:23:34+00:00`
-- etag: `"21c63f31d100a0c1f5e88665e70e2dbb"`
+- fetched_at: `2026-06-16T21:21:49+00:00`
+- checked_at: `2026-06-16T21:21:49+00:00`
+- etag: `"b87c018725515ce978bb331d96e3ec1b"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.starsareright.com",
   "description": "Actual-play of the Call of Cthulhu table-top RPG, 7th edition. Our journey ended in 2024, but is archived here for your listening pleasure. Join our talented cast of role-players as they investigate horrors and mysteries humankind was never meant to comprehend. Featuring a mix of Chaosium-published campaigns and our own original scenarios. You don’t need to know the rules of the Call of Cthulhu table-top RPG to enjoy the stories, just an appreciation of the other-worldly and creepy, and a sense of humour!",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/12245247/SAR_podcast_cover8gdca.jpg",
-  "fetched_at": "2026-06-16T17:23:34+00:00",
+  "fetched_at": "2026-06-16T21:21:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
