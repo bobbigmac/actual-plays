@@ -2,9 +2,9 @@
 
 - slug: `the-lovecraft-tapes-actual-play-call-of-cthulhu-podcast`
 - source: `https://feed.podbean.com/thelovecrafttapes/feed.xml`
-- fetched_at: `2026-06-16T11:36:50+00:00`
-- checked_at: `2026-06-16T11:36:50+00:00`
-- etag: `"7f9dbd9ba163bdd3bc21b64802a3a409"`
+- fetched_at: `2026-06-16T17:23:34+00:00`
+- checked_at: `2026-06-16T17:23:34+00:00`
+- etag: `"6483899e15d7c8b500f854ff049dd718"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://lovecrafttapes.com",
   "description": "The Lovecraft Tapes is a real-play/actual-play Call of Cthulhu 7th edition TTRPG campaign podcast. Visit LovecraftTapes.com for more info about our show!",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/1361955/logo-lovecrafttapes-1400x1400.jpg",
-  "fetched_at": "2026-06-16T11:36:50+00:00",
+  "fetched_at": "2026-06-16T17:23:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

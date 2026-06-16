@@ -2,9 +2,9 @@
 
 - slug: `bombarded-a-musical-dungeons-dragons-adventure`
 - source: `https://feed.podbean.com/bombarded/feed.xml`
-- fetched_at: `2026-06-16T11:36:50+00:00`
-- checked_at: `2026-06-16T11:36:50+00:00`
-- etag: `"d384162d2ac311ea1e0f99bf3f43b452"`
+- fetched_at: `2026-06-16T17:23:34+00:00`
+- checked_at: `2026-06-16T17:23:34+00:00`
+- etag: `"2d8a93ebfb0dc004869bb40ed6be3cb2"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://bombarded.podbean.com",
   "description": "DFW band Lindby brings you a musical D&D adventure following the exploits of three bards. New episode every other Tuesday!",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/1940907/bomBARDed-logo-v3.jpg",
-  "fetched_at": "2026-06-16T11:36:50+00:00",
+  "fetched_at": "2026-06-16T17:23:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
