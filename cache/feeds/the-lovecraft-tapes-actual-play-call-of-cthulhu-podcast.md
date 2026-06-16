@@ -2,9 +2,9 @@
 
 - slug: `the-lovecraft-tapes-actual-play-call-of-cthulhu-podcast`
 - source: `https://feed.podbean.com/thelovecrafttapes/feed.xml`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"6483899e15d7c8b500f854ff049dd718"`
+- fetched_at: `2026-06-16T11:36:50+00:00`
+- checked_at: `2026-06-16T11:36:50+00:00`
+- etag: `"7f9dbd9ba163bdd3bc21b64802a3a409"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://lovecrafttapes.com",
   "description": "The Lovecraft Tapes is a real-play/actual-play Call of Cthulhu 7th edition TTRPG campaign podcast. Visit LovecraftTapes.com for more info about our show!",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/1361955/logo-lovecrafttapes-1400x1400.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-06-16T11:36:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,9 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "15952934",
       "itunes_duration": "989",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -57,9 +55,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "21632241",
       "itunes_duration": "1345",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -76,9 +72,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56068692",
       "itunes_duration": "3495",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -97,9 +91,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54801534",
       "itunes_duration": "3361",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -117,9 +109,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49261748",
       "itunes_duration": "3065",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -138,9 +128,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53214581",
       "itunes_duration": "3318",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -157,9 +145,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55092720",
       "itunes_duration": "3432",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -177,9 +163,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47112704",
       "itunes_duration": "2936",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -197,9 +181,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61234169",
       "itunes_duration": "3817",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -216,9 +198,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49792253",
       "itunes_duration": "3097",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -237,9 +217,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46853338",
       "itunes_duration": "2913",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -257,9 +235,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71941632",
       "itunes_duration": "4485",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -277,10 +253,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "14137192",
       "itunes_duration": "877",
-      "speakers": [
-        "Randy Cartier",
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -299,8 +272,7 @@
       "enclosure_length": "25492074",
       "itunes_duration": "1562",
       "speakers": [
-        "Recommendo Roundup",
-        "Chris Parker Find"
+        "Recommendo Roundup"
       ],
       "topics": [
         "tape",
@@ -319,10 +291,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29637265",
       "itunes_duration": "1838",
-      "speakers": [
-        "Case Mulholland",
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -341,13 +310,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100387227",
       "itunes_duration": "6208",
-      "speakers": [
-        "Rina Haenze",
-        "Danny Scott",
-        "Sabrina Haenze",
-        "Slayed Nobody",
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "tape",
         "naughty",
@@ -366,8 +329,7 @@
       "enclosure_length": "18943228",
       "itunes_duration": "1036",
       "speakers": [
-        "Mike Duggan",
-        "Chris Parker Find"
+        "Mike Duggan"
       ],
       "topics": [
         "case",
@@ -387,7 +349,7 @@
       "enclosure_length": "53922013",
       "itunes_duration": "3321",
       "speakers": [
-        "Chris Parker Find"
+        "Do Not Pass Mandurugo"
       ],
       "topics": [
         "case",
@@ -407,10 +369,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56079251",
       "itunes_duration": "3447",
-      "speakers": [
-        "Rollerdrome Kingdom Two",
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -430,7 +389,7 @@
       "enclosure_length": "69235255",
       "itunes_duration": "2836",
       "speakers": [
-        "Chris Parker Find"
+        "Horton Hears"
       ],
       "topics": [
         "case",
@@ -451,8 +410,7 @@
       "enclosure_length": "74505001",
       "itunes_duration": "3054",
       "speakers": [
-        "Kappa Chameleon",
-        "Chris Parker Find"
+        "Kappa Chameleon"
       ],
       "topics": [
         "case",
@@ -473,8 +431,7 @@
       "enclosure_length": "77595269",
       "itunes_duration": "3179",
       "speakers": [
-        "Jiangshi Said",
-        "Chris Parker Find"
+        "Jiangshi Said"
       ],
       "topics": [
         "case",
@@ -493,9 +450,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78474489",
       "itunes_duration": "3210",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -513,9 +468,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67313106",
       "itunes_duration": "2760",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -536,8 +489,7 @@
       "enclosure_length": "81479296",
       "itunes_duration": "3343",
       "speakers": [
-        "Sou Sou Soucoyant",
-        "Chris Parker Find"
+        "Sou Sou Soucoyant"
       ],
       "topics": [
         "case",
@@ -556,10 +508,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101426551",
       "itunes_duration": "4172",
-      "speakers": [
-        "Serious Sam Syberian Mayhem",
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -579,9 +528,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109911921",
       "itunes_duration": "4520",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -599,9 +546,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23944643",
       "itunes_duration": "966",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -619,9 +564,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52764971",
       "itunes_duration": "2169",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -638,9 +581,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "17749791",
       "itunes_duration": "722",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -658,9 +599,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82392880",
       "itunes_duration": "3378",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -679,9 +618,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82838843",
       "itunes_duration": "3406",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -700,9 +637,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95782423",
       "itunes_duration": "3941",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -720,11 +655,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84320387",
       "itunes_duration": "3468",
-      "speakers": [
-        "Jesus Smells",
-        "Peter Gabriel",
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -744,7 +675,7 @@
       "enclosure_length": "71309601",
       "itunes_duration": "2924",
       "speakers": [
-        "Chris Parker Find"
+        "Dead Man"
       ],
       "topics": [
         "case",
@@ -764,9 +695,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74568070",
       "itunes_duration": "3058",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -785,10 +714,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82677695",
       "itunes_duration": "3391",
-      "speakers": [
-        "Uncle Frank",
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -808,8 +734,8 @@
       "enclosure_length": "75029603",
       "itunes_duration": "3084",
       "speakers": [
-        "Base Recommendos",
-        "Chris Parker Find"
+        "First Christian Church",
+        "Las Cruces"
       ],
       "topics": [
         "case",
@@ -829,9 +755,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93897078",
       "itunes_duration": "3866",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -850,9 +774,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96491146",
       "itunes_duration": "3981",
-      "speakers": [
-        "Chris Parker Find"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -871,8 +793,7 @@
       "enclosure_length": "16976470",
       "itunes_duration": "687",
       "speakers": [
-        "Jennifer Olmos",
-        "Chris Parker"
+        "Jennifer Olmos"
       ],
       "topics": [
         "case",
@@ -892,8 +813,7 @@
       "enclosure_length": "40702505",
       "itunes_duration": "1669",
       "speakers": [
-        "Recommendo Roundup",
-        "Chris Parker"
+        "Recommendo Roundup"
       ],
       "topics": [
         "tape",
@@ -912,9 +832,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73238522",
       "itunes_duration": "3034",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -932,7 +850,7 @@
       "enclosure_length": "64562594",
       "itunes_duration": "2648",
       "speakers": [
-        "Chris Parker"
+        "Elder Thing"
       ],
       "topics": [
         "case",
@@ -950,9 +868,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "8051650",
       "itunes_duration": "311",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -970,9 +886,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87237310",
       "itunes_duration": "3595",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -989,9 +903,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66239969",
       "itunes_duration": "2714",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1010,10 +922,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76035656",
       "itunes_duration": "3117",
-      "speakers": [
-        "Frozen Scream Imprint",
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1033,9 +942,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68185686",
       "itunes_duration": "2793",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1053,9 +960,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82844079",
       "itunes_duration": "3405",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1075,9 +980,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98555684",
       "itunes_duration": "4047",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1095,10 +998,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93468082",
       "itunes_duration": "3853",
-      "speakers": [
-        "Aunt Cathy",
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1117,9 +1017,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93372674",
       "itunes_duration": "3842",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1138,9 +1036,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74319017",
       "itunes_duration": "3053",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -1157,9 +1053,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79436645",
       "itunes_duration": "3263",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1178,9 +1072,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "15866770",
       "itunes_duration": "633",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1198,9 +1090,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74431848",
       "itunes_duration": "3077",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -1217,9 +1107,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "8427758",
       "itunes_duration": "349",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1237,9 +1125,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82001809",
       "itunes_duration": "3363",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1259,8 +1145,7 @@
       "enclosure_length": "69340096",
       "itunes_duration": "2864",
       "speakers": [
-        "Tiny Tina",
-        "Chris Parker"
+        "New York City"
       ],
       "topics": [
         "case",
@@ -1279,9 +1164,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70279334",
       "itunes_duration": "2903",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1299,9 +1182,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52021454",
       "itunes_duration": "3216",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1319,9 +1200,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52514613",
       "itunes_duration": "3247",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1339,10 +1218,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54199784",
       "itunes_duration": "3346",
-      "speakers": [
-        "Charles Blaine",
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1361,10 +1237,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50002428",
       "itunes_duration": "3080",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -1382,8 +1255,8 @@
       "enclosure_length": "51877209",
       "itunes_duration": "3199",
       "speakers": [
-        "Chris Parker",
-        "Tweet us"
+        "Big Apple",
+        "Inglorious Investigators"
       ],
       "topics": [
         "case",
@@ -1403,10 +1276,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52068586",
       "itunes_duration": "3217",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1426,9 +1296,7 @@
       "enclosure_length": "58250325",
       "itunes_duration": "3600",
       "speakers": [
-        "Charles Blaine",
-        "Chris Parker",
-        "Tweet us"
+        "Twilight Sideshow"
       ],
       "topics": [
         "case",
@@ -1448,10 +1316,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "4713046",
       "itunes_duration": "281",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1470,9 +1335,7 @@
       "enclosure_length": "21867581",
       "itunes_duration": "1344",
       "speakers": [
-        "Recommendo Roundup",
-        "Chris Parker",
-        "Tweet us"
+        "Recommendo Roundup"
       ],
       "topics": [
         "tape",
@@ -1491,10 +1354,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54377612",
       "itunes_duration": "3365",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -1511,10 +1371,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "20166263",
       "itunes_duration": "621",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1532,10 +1389,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80762826",
       "itunes_duration": "4982",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1555,8 +1409,7 @@
       "enclosure_length": "51268143",
       "itunes_duration": "3156",
       "speakers": [
-        "Chris Parker",
-        "Tweet us"
+        "Twilight Sideshow"
       ],
       "topics": [
         "case",
@@ -1576,11 +1429,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46543951",
       "itunes_duration": "2870",
-      "speakers": [
-        "Sweet Tooth",
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1598,11 +1447,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49391580",
       "itunes_duration": "3050",
-      "speakers": [
-        "Grandma Huffinstuff",
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1623,8 +1468,7 @@
       "enclosure_length": "56477866",
       "itunes_duration": "3486",
       "speakers": [
-        "Chris Parker",
-        "Tweet us"
+        "Blaine Manor"
       ],
       "topics": [
         "case",
@@ -1644,10 +1488,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52408886",
       "itunes_duration": "3232",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1665,11 +1506,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72921467",
       "itunes_duration": "4501",
-      "speakers": [
-        "Kill David Arquette",
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1687,10 +1524,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66355547",
       "itunes_duration": "4098",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1710,11 +1544,7 @@
       "enclosure_length": "64919778",
       "itunes_duration": "4007",
       "speakers": [
-        "Pippa Spray",
-        "Wars Jedi",
-        "Fallen Order",
-        "Chris Parker",
-        "Tweet us"
+        "Pippa Spray"
       ],
       "topics": [
         "case",
@@ -1734,11 +1564,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42167352",
       "itunes_duration": "2601",
-      "speakers": [
-        "Derek DelGaudio",
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1758,8 +1584,7 @@
       "enclosure_length": "62859023",
       "itunes_duration": "3875",
       "speakers": [
-        "Chris Parker",
-        "Tweet us"
+        "Slaughtered Half"
       ],
       "topics": [
         "case",
@@ -1781,9 +1606,7 @@
       "enclosure_length": "9265156",
       "itunes_duration": "565",
       "speakers": [
-        "Tommy Dolby",
-        "Chris Parker",
-        "Tweet us"
+        "Tommy Dolby"
       ],
       "topics": [
         "case",
@@ -1803,8 +1626,7 @@
       "enclosure_length": "43545227",
       "itunes_duration": "2690",
       "speakers": [
-        "Chris Parker",
-        "Tweet us"
+        "Haunted Heart"
       ],
       "topics": [
         "case",
@@ -1823,8 +1645,8 @@
       "enclosure_length": "4636441",
       "itunes_duration": "281",
       "speakers": [
-        "Chris Parker",
-        "Tweet us"
+        "News Radio",
+        "Rhode Island"
       ],
       "topics": [
         "case",
@@ -1843,10 +1665,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58110485",
       "itunes_duration": "3585",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1866,8 +1685,7 @@
       "enclosure_length": "48102337",
       "itunes_duration": "2964",
       "speakers": [
-        "Chris Parker",
-        "Tweet us"
+        "Poe Manse"
       ],
       "topics": [
         "case",
@@ -1887,9 +1705,7 @@
       "enclosure_length": "53802681",
       "itunes_duration": "3319",
       "speakers": [
-        "James May",
-        "Chris Parker",
-        "Tweet us"
+        "Poe Manse"
       ],
       "topics": [
         "case",
@@ -1908,10 +1724,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46860968",
       "itunes_duration": "2891",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1930,9 +1743,7 @@
       "enclosure_length": "18511363",
       "itunes_duration": "1139",
       "speakers": [
-        "Recommendo Roundup",
-        "Chris Parker",
-        "Tweet us"
+        "Recommendo Roundup"
       ],
       "topics": [
         "tape",
@@ -1951,10 +1762,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47961989",
       "itunes_duration": "2955",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -1974,10 +1782,7 @@
       "enclosure_length": "75617076",
       "itunes_duration": "4664",
       "speakers": [
-        "Creative Cloud",
-        "Chris Parker",
-        "Adam Gauntlett",
-        "Tweet us"
+        "Secret Tape"
       ],
       "topics": [
         "tape",
@@ -1995,10 +1800,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50285162",
       "itunes_duration": "3098",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -2016,9 +1818,7 @@
       "enclosure_length": "49732469",
       "itunes_duration": "3069",
       "speakers": [
-        "Zeus Suit Riot",
-        "Chris Parker",
-        "Tweet us"
+        "Zeus Suit Riot"
       ],
       "topics": [
         "case",
@@ -2040,9 +1840,8 @@
       "enclosure_length": "55067125",
       "itunes_duration": "3400",
       "speakers": [
-        "Baby Roy Recommendos",
-        "Chris Parker",
-        "Tweet us"
+        "Squantum Point",
+        "Poe Manse"
       ],
       "topics": [
         "case",
@@ -2061,9 +1860,8 @@
       "enclosure_length": "53737675",
       "itunes_duration": "3319",
       "speakers": [
-        "Baby Roy Recommendos",
-        "Chris Parker",
-        "Tweet us"
+        "Delta Green",
+        "Poe Mans"
       ],
       "topics": [
         "case",
@@ -2083,11 +1881,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60259379",
       "itunes_duration": "3721",
-      "speakers": [
-        "Razer Kishi",
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -2107,10 +1901,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98892328",
       "itunes_duration": "6103",
-      "speakers": [
-        "Creative Cloud",
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "tape",
         "death",
@@ -2129,9 +1920,7 @@
       "enclosure_length": "58986184",
       "itunes_duration": "3641",
       "speakers": [
-        "Tony Hawk",
-        "Chris Parker",
-        "Tweet us"
+        "Rhode Isla"
       ],
       "topics": [
         "case",
@@ -2151,9 +1940,7 @@
       "enclosure_length": "17932241",
       "itunes_duration": "1103",
       "speakers": [
-        "Eldridge Poe",
-        "Chris Parker",
-        "Tweet us"
+        "Eldridge Poe"
       ],
       "topics": [
         "case",
@@ -2173,9 +1960,7 @@
       "enclosure_length": "110873695",
       "itunes_duration": "6865",
       "speakers": [
-        "Keeper Brittany",
-        "Chris Parker",
-        "Tweet us"
+        "Secret Tape"
       ],
       "topics": [
         "tape",
@@ -2195,10 +1980,7 @@
       "enclosure_length": "86939213",
       "itunes_duration": "5361",
       "speakers": [
-        "Keeper Jeremy",
-        "Chris Parker",
-        "Audrey Davis",
-        "Tweet us"
+        "Keeper Jeremy"
       ],
       "topics": [
         "tape",
@@ -2219,9 +2001,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68307695",
       "itunes_duration": "4220",
-      "speakers": [
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "tape",
         "cellar"
@@ -2238,10 +2018,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32622896",
       "itunes_duration": "2012",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -2258,10 +2035,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "7262192",
       "itunes_duration": "445",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -2281,9 +2055,7 @@
       "itunes_duration": "3448",
       "speakers": [
         "Tik Tox",
-        "Bert Bertman",
-        "Chris Parker",
-        "Tweet us"
+        "Bert Bertman"
       ],
       "topics": [
         "case",
@@ -2302,9 +2074,7 @@
       "enclosure_length": "59751182",
       "itunes_duration": "3687",
       "speakers": [
-        "Clyde Baughman",
-        "Chris Parker",
-        "Tweet us"
+        "Clyde Baughman"
       ],
       "topics": [
         "case",
@@ -2323,10 +2093,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61811911",
       "itunes_duration": "3812",
-      "speakers": [
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -2346,8 +2113,7 @@
       "enclosure_length": "55123345",
       "itunes_duration": "3396",
       "speakers": [
-        "Chris Parker",
-        "Tweet us"
+        "Delta Green"
       ],
       "topics": [
         "case",
@@ -2367,11 +2133,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58187421",
       "itunes_duration": "3590",
-      "speakers": [
-        "Clyde Baughman",
-        "Chris Parker",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -2391,11 +2153,7 @@
       "enclosure_length": "52656428",
       "itunes_duration": "3244",
       "speakers": [
-        "Clyde Baughman",
-        "Graveyard Keeper Chez",
-        "Chris Parker",
-        "Join us",
-        "Tweet us"
+        "Clyde Baughman"
       ],
       "topics": [
         "case",
@@ -2413,10 +2171,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86850065",
       "itunes_duration": "5368",
-      "speakers": [
-        "Jim Phillips",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "tape",
         "easter",
@@ -2435,10 +2190,7 @@
       "enclosure_length": "58860180",
       "itunes_duration": "3631",
       "speakers": [
-        "Clyde Baughman",
-        "Chris Parker",
-        "Join us",
-        "Tweet us"
+        "Clyde Baughman"
       ],
       "topics": [
         "case",
@@ -2458,11 +2210,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66071367",
       "itunes_duration": "4073",
-      "speakers": [
-        "Chris Parker",
-        "Join us",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -2481,11 +2229,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51591266",
       "itunes_duration": "3183",
-      "speakers": [
-        "Chris Parker",
-        "Join us",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -2504,9 +2248,7 @@
       "enclosure_length": "68529908",
       "itunes_duration": "4228",
       "speakers": [
-        "Chris Parker",
-        "Join us",
-        "Tweet us"
+        "Delta Green"
       ],
       "topics": [
         "case",
@@ -2525,11 +2267,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59700194",
       "itunes_duration": "3685",
-      "speakers": [
-        "Chris Parker",
-        "Join us",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -2549,9 +2287,7 @@
       "enclosure_length": "6824445",
       "itunes_duration": "418",
       "speakers": [
-        "Chris Parker",
-        "Join us",
-        "Tweet us"
+        "Delta Green"
       ],
       "topics": [
         "case",
@@ -2571,10 +2307,7 @@
       "enclosure_length": "17103986",
       "itunes_duration": "1052",
       "speakers": [
-        "Recommendo Roundup",
-        "Creative Cloud",
-        "Chris Parker",
-        "Tweet us"
+        "Recommendo Roundup"
       ],
       "topics": [
         "tape",
@@ -2595,9 +2328,7 @@
       "itunes_duration": "1846",
       "speakers": [
         "Mike LaBossiere",
-        "Michael LaBossiere",
-        "Creative Cloud",
-        "Chris Parker"
+        "Michael LaB"
       ],
       "topics": [
         "tape",
@@ -2618,10 +2349,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48180292",
       "itunes_duration": "2976",
-      "speakers": [
-        "Creative Cloud",
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -2638,10 +2366,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "4672251",
       "itunes_duration": "284",
-      "speakers": [
-        "Creative Cloud",
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -2662,10 +2387,7 @@
       "speakers": [
         "Will Jack",
         "Will Carl Jr",
-        "Will Roy",
-        "Steven Crumpet",
-        "Creative Cloud",
-        "Chris Parker"
+        "Will Roy"
       ],
       "topics": [
         "case",
@@ -2685,9 +2407,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91522431",
       "itunes_duration": "5670",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "tape",
         "derelict"
@@ -2705,10 +2425,7 @@
       "enclosure_length": "53556600",
       "itunes_duration": "3300",
       "speakers": [
-        "Caldeira Preta",
-        "Horta Chamber",
-        "Creative Cloud",
-        "Chris Parker"
+        "Caldeira Bran"
       ],
       "topics": [
         "case",
@@ -2730,9 +2447,7 @@
       "itunes_duration": "4654",
       "speakers": [
         "Steven Crumpet Saves",
-        "Steven Crumpet",
-        "Creative Cloud",
-        "Chris Parker"
+        "Steven Crumpet"
       ],
       "topics": [
         "case",
@@ -2753,9 +2468,7 @@
       "enclosure_length": "59908538",
       "itunes_duration": "3698",
       "speakers": [
-        "Split Lepus",
-        "Creative Cloud",
-        "Chris Parker"
+        "Split Lepus"
       ],
       "topics": [
         "case",
@@ -2776,9 +2489,7 @@
       "enclosure_length": "50909510",
       "itunes_duration": "3137",
       "speakers": [
-        "Carl Junior",
-        "Creative Cloud",
-        "Chris Parker"
+        "Carl Junior"
       ],
       "topics": [
         "case",
@@ -2798,10 +2509,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67978608",
       "itunes_duration": "4200",
-      "speakers": [
-        "Creative Cloud",
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -2819,11 +2527,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48652018",
       "itunes_duration": "2999",
-      "speakers": [
-        "Alctron PF Child",
-        "Creative Cloud",
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -2843,9 +2547,7 @@
       "enclosure_length": "65720225",
       "itunes_duration": "4060",
       "speakers": [
-        "Dan Williams",
-        "Creative Cloud",
-        "Chris Parker"
+        "Dan Williams"
       ],
       "topics": [
         "case",
@@ -2865,10 +2567,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55934547",
       "itunes_duration": "3451",
-      "speakers": [
-        "Creative Cloud",
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -2886,11 +2585,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51526682",
       "itunes_duration": "3177",
-      "speakers": [
-        "John Woo",
-        "Creative Cloud",
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -2909,9 +2604,7 @@
       "enclosure_length": "5714644",
       "itunes_duration": "346",
       "speakers": [
-        "Randolph Carter",
-        "Creative Cloud",
-        "Chris Parker"
+        "Randolph Carter"
       ],
       "topics": [
         "case",
@@ -2930,9 +2623,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48029467",
       "itunes_duration": "2969",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -2949,9 +2640,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "4400246",
       "itunes_duration": "263",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -2969,9 +2658,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53380175",
       "itunes_duration": "3292",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -2991,8 +2678,7 @@
       "enclosure_length": "66375957",
       "itunes_duration": "4089",
       "speakers": [
-        "Dan Williams",
-        "Creative Cloud"
+        "Ascending Queen Mary"
       ],
       "topics": [
         "case",
@@ -3013,7 +2699,7 @@
       "enclosure_length": "57446738",
       "itunes_duration": "3542",
       "speakers": [
-        "Creative Cloud"
+        "Saint Mary"
       ],
       "topics": [
         "case",
@@ -3033,10 +2719,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71498608",
       "itunes_duration": "4417",
-      "speakers": [
-        "Lava Java Recommendos",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -3054,9 +2737,7 @@
       "enclosure_length": "46933971",
       "itunes_duration": "2896",
       "speakers": [
-        "Roy Arroyo",
-        "Dan Williams",
-        "Creative Cloud"
+        "Roy Arroyo"
       ],
       "topics": [
         "case",
@@ -3075,10 +2756,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52563801",
       "itunes_duration": "3241",
-      "speakers": [
-        "Lee Summers",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -3096,10 +2774,7 @@
       "enclosure_length": "53650489",
       "itunes_duration": "3309",
       "speakers": [
-        "Howie Neil",
-        "Tony Roper",
-        "Morrey Aubriss",
-        "Creative Cloud"
+        "Saint Mary"
       ],
       "topics": [
         "case",
@@ -3119,10 +2794,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50077489",
       "itunes_duration": "3096",
-      "speakers": [
-        "Howie Neil",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3141,11 +2813,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65114733",
       "itunes_duration": "4017",
-      "speakers": [
-        "Samantha Blaine",
-        "Letterboxd Wrestle Kingdom",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3163,9 +2831,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "7449304",
       "itunes_duration": "452",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3183,9 +2849,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50043428",
       "itunes_duration": "3103",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -3202,9 +2866,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "5625382",
       "itunes_duration": "337",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3223,7 +2885,8 @@
       "enclosure_length": "49580799",
       "itunes_duration": "3052",
       "speakers": [
-        "Creative Cloud"
+        "Open Locks Whoever Knocks",
+        "Winoka Point Research Center"
       ],
       "topics": [
         "case",
@@ -3243,9 +2906,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52245638",
       "itunes_duration": "3223",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3304,10 +2965,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64230031",
       "itunes_duration": "3965",
-      "speakers": [
-        "Dan Williams",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3327,8 +2985,7 @@
       "enclosure_length": "58188022",
       "itunes_duration": "3593",
       "speakers": [
-        "Garth Marenghi",
-        "Creative Cloud"
+        "Bloodsworth Island"
       ],
       "topics": [
         "case",
@@ -3346,10 +3003,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64021139",
       "itunes_duration": "3952",
-      "speakers": [
-        "Dan Williams",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3369,10 +3023,7 @@
       "itunes_duration": "4019",
       "speakers": [
         "Poles Apart",
-        "Dan Williams",
-        "Forza Horizon",
-        "Joey Janela",
-        "Creative Cloud"
+        "Dan Williams"
       ],
       "topics": [
         "case",
@@ -3392,7 +3043,8 @@
       "enclosure_length": "55097929",
       "itunes_duration": "3406",
       "speakers": [
-        "Creative Cloud"
+        "Nine One",
+        "Somerset Self Storage"
       ],
       "topics": [
         "case",
@@ -3410,10 +3062,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57698311",
       "itunes_duration": "3563",
-      "speakers": [
-        "Dan Williams",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3432,10 +3081,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45545338",
       "itunes_duration": "2811",
-      "speakers": [
-        "Kevin Slay",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -3452,10 +3098,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60193406",
       "itunes_duration": "3724",
-      "speakers": [
-        "Dan Williams",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3473,9 +3116,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "6246882",
       "itunes_duration": "381",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3493,9 +3134,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "7787740",
       "itunes_duration": "476",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3513,9 +3152,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50355827",
       "itunes_duration": "3107",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3533,9 +3170,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45688425",
       "itunes_duration": "2837",
-      "speakers": [
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3553,10 +3188,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51680970",
       "itunes_duration": "3238",
-      "speakers": [
-        "John Carpenter",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3575,9 +3207,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50831977",
       "itunes_duration": "3137",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3596,7 +3226,7 @@
       "enclosure_length": "2376646",
       "itunes_duration": "144",
       "speakers": [
-        "Creative Cloud"
+        "Arcane Lore"
       ],
       "topics": [
         "tape",
@@ -3614,10 +3244,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "7387426",
       "itunes_duration": "448",
-      "speakers": [
-        "Jack Whiteside",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "tape",
         "path",
@@ -3635,9 +3262,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50859103",
       "itunes_duration": "3130",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3655,10 +3280,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63568392",
       "itunes_duration": "3928",
-      "speakers": [
-        "Apron Recommendos",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3676,9 +3298,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50741024",
       "itunes_duration": "3131",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -3696,7 +3316,7 @@
       "enclosure_length": "12565814",
       "itunes_duration": "767",
       "speakers": [
-        "Creative Cloud"
+        "Cthulhu Commercials"
       ],
       "topics": [
         "tape",
@@ -3717,9 +3337,7 @@
       "enclosure_length": "55722479",
       "itunes_duration": "3438",
       "speakers": [
-        "Hubert Pretorious Loveland",
-        "Rhinoplasty Recommendos",
-        "Creative Cloud"
+        "Blaine Manor"
       ],
       "topics": [
         "case",
@@ -3740,7 +3358,7 @@
       "enclosure_length": "5927789",
       "itunes_duration": "361",
       "speakers": [
-        "Creative Cloud"
+        "Bugsy Cicarelli"
       ],
       "topics": [
         "tape",
@@ -3759,9 +3377,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44477553",
       "itunes_duration": "2746",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3780,9 +3396,7 @@
       "enclosure_length": "6347478",
       "itunes_duration": "370",
       "speakers": [
-        "Sharon Skinner",
-        "Jack Whiteside",
-        "Creative Cloud"
+        "Sharon Skinner"
       ],
       "topics": [
         "tape",
@@ -3801,9 +3415,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51144936",
       "itunes_duration": "3154",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3822,8 +3434,7 @@
       "enclosure_length": "25317088",
       "itunes_duration": "1567",
       "speakers": [
-        "Scott Dorward",
-        "Creative Cloud"
+        "Scott Dorward"
       ],
       "topics": [
         "tape",
@@ -3844,10 +3455,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36574312",
       "itunes_duration": "2256",
-      "speakers": [
-        "Scott Dorward",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -3865,8 +3473,7 @@
       "enclosure_length": "5398801",
       "itunes_duration": "332",
       "speakers": [
-        "Augustus Returns Home",
-        "Creative Cloud"
+        "Augustus Returns Home"
       ],
       "topics": [
         "tape",
@@ -3886,9 +3493,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44801694",
       "itunes_duration": "2767",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3908,7 +3513,8 @@
       "enclosure_length": "5990813",
       "itunes_duration": "369",
       "speakers": [
-        "Creative Cloud"
+        "Roy Arroyo",
+        "Parkland Ho"
       ],
       "topics": [
         "tape",
@@ -3926,9 +3532,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49924417",
       "itunes_duration": "3083",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -3946,9 +3550,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "4236661",
       "itunes_duration": "260",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "tape",
         "awakening"
@@ -3966,11 +3568,7 @@
       "enclosure_length": "51759009",
       "itunes_duration": "3197",
       "speakers": [
-        "Jack Whiteside",
-        "Kelly Landrom",
-        "Dan Williams",
-        "Aaron Martinez",
-        "Creative Cloud"
+        "Jack Whiteside"
       ],
       "topics": [
         "case",
@@ -3990,11 +3588,7 @@
       "enclosure_length": "45756518",
       "itunes_duration": "2828",
       "speakers": [
-        "Roy Arroyo",
-        "Jack Whiteside",
-        "Lauren Crawley",
-        "Dan Williams",
-        "Creative Cloud"
+        "Roy Arroyo"
       ],
       "topics": [
         "case",
@@ -4015,11 +3609,7 @@
       "enclosure_length": "41952075",
       "itunes_duration": "2590",
       "speakers": [
-        "Roy Arroyo",
-        "Dan Williams",
-        "Jack Whiteside",
-        "Sweet Sweet Lonely",
-        "Creative Cloud"
+        "Roy Arroyo"
       ],
       "topics": [
         "case",
@@ -4040,10 +3630,7 @@
       "itunes_duration": "2533",
       "speakers": [
         "Dan Williams",
-        "Ted Weaver",
-        "Jack Whiteside",
-        "BoJack Horseman Invincible",
-        "Creative Cloud"
+        "Ted Weaver"
       ],
       "topics": [
         "case",
@@ -4065,8 +3652,7 @@
       "enclosure_length": "18451625",
       "itunes_duration": "1141",
       "speakers": [
-        "Recommendo Roundup",
-        "Creative Cloud"
+        "Recommendo Roundup"
       ],
       "topics": [
         "tape",
@@ -4086,10 +3672,7 @@
       "enclosure_length": "52451097",
       "itunes_duration": "3247",
       "speakers": [
-        "Ted Weaver",
-        "Death Spank",
-        "Beat Cop",
-        "Creative Cloud"
+        "Leland Free Evangelical Church"
       ],
       "topics": [
         "case",
@@ -4110,8 +3693,8 @@
       "enclosure_length": "10211145",
       "itunes_duration": "629",
       "speakers": [
-        "Linda Library Services",
-        "Creative Cloud"
+        "Cthulhu Commercials",
+        "Returning Home"
       ],
       "topics": [
         "tape",
@@ -4133,8 +3716,7 @@
       "itunes_duration": "2433",
       "speakers": [
         "Dawn Eller",
-        "Kelly Landrom",
-        "Creative Cloud"
+        "Kelly Landrom"
       ],
       "topics": [
         "case",
@@ -4154,8 +3736,7 @@
       "enclosure_length": "7970340",
       "itunes_duration": "492",
       "speakers": [
-        "Daniel Weaver",
-        "Creative Cloud"
+        "Daniel Weaver"
       ],
       "topics": [
         "tape",
@@ -4174,12 +3755,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48900951",
       "itunes_duration": "3027",
-      "speakers": [
-        "Daniel Weaver",
-        "Kelly Landrom",
-        "Dan Vs",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -4198,9 +3774,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "6620698",
       "itunes_duration": "409",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "tape",
         "croneborg",
@@ -4219,8 +3793,7 @@
       "enclosure_length": "45304349",
       "itunes_duration": "2800",
       "speakers": [
-        "Mitch Landrom",
-        "Creative Cloud"
+        "Mitch Landrom"
       ],
       "topics": [
         "case",
@@ -4263,7 +3836,7 @@
       "enclosure_length": "57995811",
       "itunes_duration": "3584",
       "speakers": [
-        "Creative Cloud"
+        "Lovecraft Tapes"
       ],
       "topics": [
         "tape",
@@ -4301,9 +3874,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53894985",
       "itunes_duration": "3333",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -4359,10 +3930,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49143481",
       "itunes_duration": "3035",
-      "speakers": [
-        "Creative Cloud",
-        "Roy Arroyo"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -4442,9 +4010,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52583728",
       "itunes_duration": "3250",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -4484,12 +4050,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57480384",
       "itunes_duration": "3557",
-      "speakers": [
-        "Creative Cloud",
-        "George Portman",
-        "Emily Schumaker",
-        "Rime Website"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -4525,11 +4086,7 @@
       "enclosure_length": "61591708",
       "itunes_duration": "3808",
       "speakers": [
-        "Creative Cloud",
-        "Phyllis Gagne",
-        "George Portman",
-        "Tina Quillan",
-        "Emily Schumaker"
+        "Book Reports"
       ],
       "topics": [
         "case",
@@ -4569,7 +4126,7 @@
       "enclosure_length": "48982104",
       "itunes_duration": "3032",
       "speakers": [
-        "Creative Cloud"
+        "Lovecraft Tapes"
       ],
       "topics": [
         "case",
@@ -4648,10 +4205,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44120919",
       "itunes_duration": "2726",
-      "speakers": [
-        "Stuart Portman",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -4691,9 +4245,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52230945",
       "itunes_duration": "3228",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -4730,9 +4282,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50056083",
       "itunes_duration": "3089",
-      "speakers": [
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -4771,12 +4321,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48744840",
       "itunes_duration": "3017",
-      "speakers": [
-        "Roy Arroyo",
-        "Charles Blaine",
-        "Creative Cloud",
-        "Pink Season"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -4795,7 +4340,7 @@
       "enclosure_length": "49495981",
       "itunes_duration": "3059",
       "speakers": [
-        "Creative Cloud"
+        "Returning Home"
       ],
       "topics": [
         "case",
@@ -4815,9 +4360,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53935766",
       "itunes_duration": "3335",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -4835,11 +4378,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65012269",
       "itunes_duration": "4019",
-      "speakers": [
-        "Carol Burt",
-        "Creative Cloud",
-        "Split Website"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -4857,9 +4396,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59972649",
       "itunes_duration": "3699",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -4879,7 +4416,7 @@
       "enclosure_length": "57326723",
       "itunes_duration": "3536",
       "speakers": [
-        "Chris Parker"
+        "Soul Exchang"
       ],
       "topics": [
         "case",
@@ -4900,9 +4437,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46272657",
       "itunes_duration": "2861",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape"
@@ -4919,9 +4454,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43926576",
       "itunes_duration": "2716",
-      "speakers": [
-        "Chris Parker"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -4941,10 +4474,7 @@
       "enclosure_length": "35530037",
       "itunes_duration": "2915",
       "speakers": [
-        "Chuck Blaine",
-        "Linda Library Services",
-        "Join us",
-        "Tweet us"
+        "Chuck Blaine"
       ],
       "topics": [
         "case",
@@ -4966,10 +4496,7 @@
       "enclosure_length": "34299327",
       "itunes_duration": "2824",
       "speakers": [
-        "Jeanne Saint Jayne",
-        "Charlie’s Cursed Cars Recommendos",
-        "Join us",
-        "Tweet us"
+        "La Brea Tar Pits"
       ],
       "topics": [
         "case",
@@ -4989,10 +4516,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35603918",
       "itunes_duration": "2906",
-      "speakers": [
-        "Join us",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -5012,9 +4536,7 @@
       "enclosure_length": "29770339",
       "itunes_duration": "2435",
       "speakers": [
-        "Sam Brophy",
-        "Join us",
-        "Tweet us"
+        "Sam Brophy"
       ],
       "topics": [
         "case",
@@ -5035,10 +4557,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34076677",
       "itunes_duration": "2784",
-      "speakers": [
-        "Join us",
-        "Tweet us"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -5057,9 +4576,7 @@
       "enclosure_length": "30955541",
       "itunes_duration": "2530",
       "speakers": [
-        "Stan Brophy",
-        "Join us",
-        "Tweet us"
+        "Stan Brophy"
       ],
       "topics": [
         "case",
@@ -5080,9 +4597,7 @@
       "enclosure_length": "40638729",
       "itunes_duration": "3342",
       "speakers": [
-        "Stan Brophy",
-        "Join us",
-        "Tweet us"
+        "Stan Brophy"
       ],
       "topics": [
         "case",
@@ -5102,12 +4617,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47435298",
       "itunes_duration": "2945",
-      "speakers": [
-        "Samantha Brewster",
-        "Daniel Williams",
-        "Sheila Helsing",
-        "Creative Cloud"
-      ],
+      "speakers": [],
       "topics": [
         "tape",
         "cthulhu",
@@ -5126,7 +4636,8 @@
       "enclosure_length": "32401425",
       "itunes_duration": "3750",
       "speakers": [
-        "Creative Cloud"
+        "Prologue Three",
+        "Green Grove"
       ],
       "topics": [
         "case",
@@ -5183,9 +4694,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25937935",
       "itunes_duration": "2136",
-      "speakers": [
-        "Katie Moore"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -5224,10 +4733,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35793898",
       "itunes_duration": "2949",
-      "speakers": [
-        "David Parker",
-        "Erich Zann"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -5246,10 +4752,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34606999",
       "itunes_duration": "2850",
-      "speakers": [
-        "Thin Jack",
-        "BOOMstick Brew"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "tape",
@@ -5302,251 +4805,251 @@
 
 ## Episodes (newest first)
 
-- 2024-06-25 — Case 17: SÉANCE NINE / Tape 13: Epilogue — speakers: Chris Parker Find
-- 2024-06-18 — Case 17: SÉANCE NINE / Tape 12: Q+A — speakers: Chris Parker Find
-- 2024-06-04 — Case 17: SÉANCE NINE / Tape 11: Deacon Blues — speakers: Chris Parker Find
-- 2024-05-21 — Case 17: SÉANCE NINE / Tape 10: Bluer Than Blue — speakers: Chris Parker Find
-- 2024-05-07 — Case 17: SÉANCE NINE / Tape 9: Baker Street — speakers: Chris Parker Find
-- 2024-04-23 — Case 17: SÉANCE NINE / Tape 8: Stay — speakers: Chris Parker Find
-- 2024-04-09 — Case 17: SÉANCE NINE / Tape 7: Heartless — speakers: Chris Parker Find
-- 2024-03-26 — Case 17: SÉANCE NINE / Tape 6: Wheel In The Sky — speakers: Chris Parker Find
-- 2024-03-12 — Case 17: SÉANCE NINE / Tape 5: Since You Been Gone — speakers: Chris Parker Find
-- 2024-02-27 — Case 17: SÉANCE NINE / Tape 4: Dust In The Wind — speakers: Chris Parker Find
-- 2024-02-13 — Case 17: SÉANCE NINE / Tape 3: The Wanderer — speakers: Chris Parker Find
-- 2024-02-06 — Case 17: SÉANCE NINE / Tape 2: The Circle Is Small — speakers: Chris Parker Find
-- 2024-01-30 — Case 17: SÉANCE NINE / Tape 1: Prologue — speakers: Randy Cartier, Chris Parker
-- 2023-12-31 — Bonus Tape: 2023 Recommendo Roundup — speakers: Recommendo Roundup, Chris Parker Find
-- 2023-12-26 — Case 16 Tape 13: Q&A + Easter Eggs — speakers: Case Mulholland, Chris Parker Find
-- 2023-12-25 — (Not So) Secret Tape: The Naughty List — speakers: Rina Haenze, Danny Scott, Sabrina Haenze, Slayed Nobody, Chris Parker Find
-- 2023-12-12 — Case 16 Tape 12: Epilogue — speakers: Mike Duggan, Chris Parker Find
-- 2023-11-28 — Case 16 Tape 11: Do Not Pass Mandurugo — speakers: Chris Parker Find
-- 2023-11-14 — Case 16 Tape 10: That Thing You Impundulu — speakers: Rollerdrome Kingdom Two, Chris Parker Find
-- 2023-10-31 — Case 16 Tape 9: Horton Hears A Yara-Ma-Yha-Who — speakers: Chris Parker Find
-- 2023-10-17 — Case 16 Tape 8: Kappa Chameleon — speakers: Kappa Chameleon, Chris Parker Find
-- 2023-10-03 — Case 16 Tape 7: He Said, Jiangshi Said — speakers: Jiangshi Said, Chris Parker Find
-- 2023-09-19 — Case 16 Tape 6: Win Some, Asanbosam — speakers: Chris Parker Find
-- 2023-09-05 — Case 16 Tape 5: Little Old Asema From Pasadena — speakers: Chris Parker Find
-- 2023-08-22 — Case 16 Tape 4: Sou Sou Soucoyant — speakers: Sou Sou Soucoyant, Chris Parker Find
-- 2023-08-15 — Case 16 Tape 3: Strigoi Meets World — speakers: Serious Sam Syberian Mayhem, Chris Parker Find
-- 2023-08-08 — Case 16 Tape 2: Finagling Penanggalan — speakers: Chris Parker Find
-- 2023-07-18 — Case 16 Tape 1: Prologue — speakers: Chris Parker
-- 2023-07-05 — Case 15 Tape 13: Q + A — speakers: Chris Parker
-- 2023-06-20 — Case 15 Tape 12: Epilogue — speakers: Chris Parker
-- 2023-06-06 — Case 15 Tape 11: The Earth Stars Are Right — speakers: Chris Parker Find
-- 2023-05-23 — Case 15 Tape 10: Pulling A Black Tooth — speakers: Chris Parker Find
-- 2023-05-09 — Case 15 Tape 9: Stalking The Panther — speakers: Chris Parker Find
-- 2023-04-25 — Case 15 Tape 8: Follow The Swamp Beacon — speakers: Jesus Smells, Peter Gabriel, Chris Parker Find
-- 2023-04-11 — Case 15 Tape 7: A Dead Man’s Fingers — speakers: Chris Parker Find
-- 2023-03-28 — Case 15 Tape 6: Speaking In Earth Tongues — speakers: Chris Parker Find
-- 2023-03-14 — Case 15 Tape 5: A Big Slice Of Poison Pie — speakers: Uncle Frank, Chris Parker Find
-- 2023-02-28 — Case 15 Tape 4: Beware A Destroying Angel — speakers: Base Recommendos, Chris Parker Find
-- 2023-02-14 — Case 15 Tape 3: These Moose Antlers Don’t Fit — speakers: Chris Parker Find
-- 2023-01-31 — Case 15 Tape 2: Ringworm Around The Rosie — speakers: Chris Parker Find
-- 2023-01-17 — Case 15 Tape 1: Prologue — speakers: Jennifer Olmos, Chris Parker
-- 2023-01-01 — Bonus Tape: Recommendo Roundup 2022 — speakers: Recommendo Roundup, Chris Parker
-- 2022-12-27 — Case 14 Tape 14: Q&A — speakers: Chris Parker
-- 2022-12-19 — Case 14 Tape 13: Not So Fast — speakers: Chris Parker
-- 2022-12-13 — Case 14 Tape 12: Epilogue — speakers: Chris Parker
-- 2022-11-29 — Case 14 Tape 11: This Is The End — speakers: Chris Parker
-- 2022-11-15 — Case 14 Tape 10: Watch The White Doves Go — speakers: Chris Parker
-- 2022-11-01 — Case 14 Tape 9: Tolling Of The Iron Bell — speakers: Frozen Scream Imprint, Chris Parker
-- 2022-10-25 — Case 14 Tape 8: The Smile Is Red — speakers: Chris Parker
-- 2022-10-11 — Case 14 Tape 7: Breathing Summer Breeze — speakers: Chris Parker
-- 2022-09-20 — Case 14 Tape 6: The Wind Appeared — speakers: Chris Parker
-- 2022-09-06 — Case 14 Tape 5: Inside La Casa — speakers: Aunt Cathy, Chris Parker
-- 2022-08-23 — Case 14 Tape 4: One Foot On The Platform — speakers: Chris Parker
-- 2022-08-08 — Case 14 Tape 3: Creeping Up The Blind Side — speakers: Chris Parker
-- 2022-07-26 — Case 14 Tape 2: In The Master’s Chambers — speakers: Chris Parker
-- 2022-07-19 — Case 14 Tape 1: Prologue — speakers: Chris Parker
-- 2022-06-21 — Case 13 Tape 13: Q&A — speakers: Chris Parker
-- 2022-06-07 — Case 13 Tape 12: Epilogue — speakers: Chris Parker
-- 2022-05-24 — Case 13 Tape 11: Pistil Whipped — speakers: Chris Parker
-- 2022-05-10 — Case 13 Tape 10: The Ground Is Sour — speakers: Tiny Tina, Chris Parker
-- 2022-04-26 — Case 13 Tape 9: Tuber Or Not Tuber — speakers: Chris Parker
-- 2022-04-12 — Case 13 Tape 8: Fungus Among Us — speakers: Chris Parker
-- 2022-03-29 — Case 13 Tape 7: Dying On The Vine — speakers: Chris Parker
-- 2022-03-15 — Case 13 Tape 6: By Hook Or By Crook — speakers: Charles Blaine, Chris Parker
-- 2022-03-01 — Case 13 Tape 5: Branching Out — speakers: Chris Parker, Tweet us
-- 2022-02-15 — Case 13 Tape 4: Growth Spurts — speakers: Chris Parker, Tweet us
-- 2022-02-01 — Case 13 Tape 3: Root For The Away Team — speakers: Chris Parker, Tweet us
-- 2022-01-18 — Case 13 Tape 2: Seed Of Destruction — speakers: Charles Blaine, Chris Parker, Tweet us
-- 2022-01-11 — Case 13 Tape 1: Prologue — speakers: Chris Parker, Tweet us
-- 2022-01-01 — Bonus Tape: 2021 Recommendo Roundup — speakers: Recommendo Roundup, Chris Parker, Tweet us
-- 2021-11-09 — Case 12 Tape 14: Q&A — speakers: Chris Parker, Tweet us
-- 2021-10-26 — Case 12 Tape 13: Epilogue — speakers: Chris Parker, Tweet us
-- 2021-10-12 — Case 12 Tape 12: Twisted Sisters — speakers: Chris Parker, Tweet us
-- 2021-09-28 — Case 12 Tape 11: Jaunt To A Foreign Land — speakers: Chris Parker, Tweet us
-- 2021-09-14 — Case 12 Tape 10: Skipping Stones — speakers: Sweet Tooth, Chris Parker, Tweet us
-- 2021-08-31 — Case 12 Tape 9: Opening Night Critters — speakers: Grandma Huffinstuff, Chris Parker, Tweet us
-- 2021-08-17 — Case 12 Tape 8: Freaky Friday — speakers: Chris Parker, Tweet us
-- 2021-08-03 — Case 12 Tape 7: Scream A Little Scream — speakers: Chris Parker, Tweet us
-- 2021-07-20 — Case 12 Tape 6: Starbuckers Incorporated — speakers: Kill David Arquette, Chris Parker, Tweet us
-- 2021-07-08 — Case 12 Tape 5: Time Is A Flat Circus — speakers: Chris Parker, Tweet us
-- 2021-06-22 — Case 12 Tape 4: Hot Pippa Spray — speakers: Pippa Spray, Wars Jedi, Fallen Order, Chris Parker, Tweet us
-- 2021-06-01 — Case 12 Tape 3: Mime's The Word — speakers: Derek DelGaudio, Chris Parker, Tweet us
-- 2021-05-25 — Case 12 Tape 2: Slaughtered Half-Dreams — speakers: Chris Parker, Tweet us
-- 2021-05-18 — Case 12 Tape 1: Prologue — speakers: Tommy Dolby, Chris Parker, Tweet us
-- 2021-03-02 — Case 11 Tape 14: Q&A — speakers: Chris Parker, Tweet us
-- 2021-02-09 — Case 11 Tape 13: Epilogue — speakers: Chris Parker, Tweet us
-- 2021-02-02 — Case 11 Tape 12: From Manse To Manor — speakers: Chris Parker, Tweet us
-- 2021-01-26 — Case 11 Tape 11: Don't Look In The Basement — speakers: Chris Parker, Tweet us
-- 2021-01-19 — Case 11 Tape 10: Toys In The Attic — speakers: James May, Chris Parker, Tweet us
-- 2021-01-12 — Case 11 Tape 9: A Grizzly End — speakers: Chris Parker, Tweet us
-- 2021-01-01 — Bonus Tape: 2020 Recommendo Roundup — speakers: Recommendo Roundup, Chris Parker, Tweet us
-- 2020-12-29 — Case 11 Tape 8: Ladder Day Saints — speakers: Chris Parker, Tweet us
-- 2020-12-25 — Secret Tape: Lovecraftmas 2019 — speakers: Creative Cloud, Chris Parker, Adam Gauntlett, Tweet us
-- 2020-12-15 — Case 11 Tape 7: I Will Go Mad — speakers: Chris Parker, Tweet us
-- 2020-12-01 — Case 11 Tape 6: Zeus Suit Riot — speakers: Zeus Suit Riot, Chris Parker, Tweet us
-- 2020-11-24 — Case 11 Tape 5: Red Red Rum — speakers: Baby Roy Recommendos, Chris Parker, Tweet us
-- 2020-11-10 — Case 11 Tape 4: Whisperer In The Darkness — speakers: Baby Roy Recommendos, Chris Parker, Tweet us
-- 2020-11-04 — Case 11 Tape 3: Brush, Floss and Gargoyle — speakers: Razer Kishi, Chris Parker, Tweet us
-- 2020-10-31 — Secret Tape: Death House — speakers: Creative Cloud, Chris Parker
-- 2020-10-20 — Case 11 Tape 2: A Bicycle Built For Three — speakers: Tony Hawk, Chris Parker, Tweet us
-- 2020-10-06 — Case 11 Tape 1: Prologue — speakers: Eldridge Poe, Chris Parker, Tweet us
-- 2020-09-08 — Secret Tape: Horror On The Greens — speakers: Keeper Brittany, Chris Parker, Tweet us
-- 2020-08-18 — Bonus Tape: The Strange Case Of Louis Cypher — speakers: Keeper Jeremy, Chris Parker, Audrey Davis, Tweet us
-- 2020-07-14 — Secret Tape: The Cellar — speakers: Tweet us
-- 2020-06-30 — Case 10 Tape 14: Q&A — speakers: Chris Parker, Tweet us
-- 2020-06-23 — Case 10 Tape 13: Epilogue — speakers: Chris Parker, Tweet us
-- 2020-06-16 — Case 10 Tape 12: Tik Tox — speakers: Tik Tox, Bert Bertman, Chris Parker, Tweet us
-- 2020-06-02 — Case 10 Tape 11: Decompression — speakers: Clyde Baughman, Chris Parker, Tweet us
-- 2020-05-19 — Case 10 Tape 10: The Cradle Will Rocky — speakers: Chris Parker, Tweet us
-- 2020-05-12 — Case 10 Tape 9: Split The Difference — speakers: Chris Parker, Tweet us
-- 2020-05-05 — Case 10 Tape 8: The Wind Cried Marlene — speakers: Clyde Baughman, Chris Parker, Tweet us
-- 2020-04-21 — Case 10 Tape 7: Way Up North — speakers: Clyde Baughman, Graveyard Keeper Chez, Chris Parker, Join us, Tweet us
-- 2020-04-19 — Secret Tape: Easter Eggs — speakers: Jim Phillips, Creative Cloud
-- 2020-04-14 — Case 10 Tape 6: Cabin In The Woods — speakers: Clyde Baughman, Chris Parker, Join us, Tweet us
-- 2020-03-31 — Case 10 Tape 5: The Postman Only Rings Once — speakers: Chris Parker, Join us, Tweet us
-- 2020-03-17 — Case 10 Tape 4: The Purrfection — speakers: Chris Parker, Join us, Tweet us
-- 2020-03-10 — Case 10 Tape 3: What Meow? — speakers: Chris Parker, Join us, Tweet us
-- 2020-03-03 — Case 10 Tape 2: Catharsis, Rebirth — speakers: Chris Parker, Join us, Tweet us
-- 2020-02-25 — Case 10 Tape 1: Prologue — speakers: Chris Parker, Join us, Tweet us
-- 2019-12-31 — Bonus Tape: Recommendo Roundup 2019 — speakers: Recommendo Roundup, Creative Cloud, Chris Parker, Tweet us
-- 2019-12-10 — Bonus Tape: Talkin' Tapes w/ Mike LaBossiere — speakers: Mike LaBossiere, Michael LaBossiere, Creative Cloud, Chris Parker
-- 2019-12-03 — Case 9 Tape 13: Q&A — speakers: Creative Cloud, Chris Parker
-- 2019-11-12 — Case 9 Tape 12: Epilogue — speakers: Creative Cloud, Chris Parker
-- 2019-11-05 — Case 9 Tape 11: Samurai Showdown — speakers: Will Jack, Will Carl Jr, Will Roy, Steven Crumpet, Creative Cloud, Chris Parker
-- 2019-10-31 — Secret Tape: The Derelict — speakers: Creative Cloud
-- 2019-10-29 — Case 9 Tape 10: Sudden Impact — speakers: Caldeira Preta, Horta Chamber, Creative Cloud, Chris Parker
-- 2019-10-22 — Case 9 Tape 9: Steven Crumpet Saves The Day — speakers: Steven Crumpet Saves, Steven Crumpet, Creative Cloud, Chris Parker
-- 2019-10-15 — Case 9 Tape 8: Split Lepus — speakers: Split Lepus, Creative Cloud, Chris Parker
-- 2019-10-08 — Case 9 Tape 7: Stormy Weather — speakers: Carl Junior, Creative Cloud, Chris Parker
-- 2019-10-01 — Case 9 Tape 6: Spotlight — speakers: Creative Cloud, Chris Parker
-- 2019-09-17 — Case 9 Tape 5: Soupy Sailing — speakers: Alctron PF Child, Creative Cloud, Chris Parker
-- 2019-09-10 — Case 9 Tape 4: Squibble Squabble — speakers: Dan Williams, Creative Cloud, Chris Parker
-- 2019-09-03 — Case 9 Tape 3: Ships Ahoy — speakers: Creative Cloud, Chris Parker
-- 2019-08-27 — Case 9 Tape 2: Switcheroo — speakers: John Woo, Creative Cloud, Chris Parker
-- 2019-08-20 — Case 9 Tape 1: Prologue — speakers: Randolph Carter, Creative Cloud, Chris Parker
-- 2019-07-09 — Case 8 Tape 12: Q&A — speakers: Creative Cloud
-- 2019-06-25 — Case 8 Tape 11: Epilogue — speakers: Creative Cloud
-- 2019-06-18 — Case 8 Tape 10: Bishop Takes Pawn — speakers: Creative Cloud
-- 2019-06-04 — Case 8 Tape 9: Doing The Sherpa Shuffle — speakers: Dan Williams, Creative Cloud
-- 2019-05-28 — Case 8 Tape 8: The Giant Awakens — speakers: Creative Cloud
-- 2019-05-14 — Case 8 Tape 7: Sleeping It Off — speakers: Lava Java Recommendos, Creative Cloud
-- 2019-05-07 — Case 8 Tape 6: Double Fisting — speakers: Roy Arroyo, Dan Williams, Creative Cloud
-- 2019-04-30 — Case 8 Tape 5: D Rising — speakers: Lee Summers, Creative Cloud
-- 2019-04-16 — Case 8 Tape 4: Body Buddies — speakers: Howie Neil, Tony Roper, Morrey Aubriss, Creative Cloud
-- 2019-04-09 — Case 8 Tape 3: Legal Eagles — speakers: Howie Neil, Creative Cloud
-- 2019-04-02 — Case 8 Tape 2: New Friends — speakers: Samantha Blaine, Letterboxd Wrestle Kingdom, Creative Cloud
-- 2019-03-26 — Case 8 Tape 1: Prologue — speakers: Creative Cloud
-- 2019-03-19 — Case 7 Tape 13: Q&A — speakers: Creative Cloud
-- 2019-02-05 — Case 7 Tape 12: Epilogue — speakers: Creative Cloud
-- 2019-01-22 — Case 7 Tape 11: Open Locks Whoever Knocks — speakers: Creative Cloud
-- 2019-01-15 — Case 7 Tape 10: Belly Of The Beast — speakers: Creative Cloud
+- 2024-06-25 — Case 17: SÉANCE NINE / Tape 13: Epilogue
+- 2024-06-18 — Case 17: SÉANCE NINE / Tape 12: Q+A
+- 2024-06-04 — Case 17: SÉANCE NINE / Tape 11: Deacon Blues
+- 2024-05-21 — Case 17: SÉANCE NINE / Tape 10: Bluer Than Blue
+- 2024-05-07 — Case 17: SÉANCE NINE / Tape 9: Baker Street
+- 2024-04-23 — Case 17: SÉANCE NINE / Tape 8: Stay
+- 2024-04-09 — Case 17: SÉANCE NINE / Tape 7: Heartless
+- 2024-03-26 — Case 17: SÉANCE NINE / Tape 6: Wheel In The Sky
+- 2024-03-12 — Case 17: SÉANCE NINE / Tape 5: Since You Been Gone
+- 2024-02-27 — Case 17: SÉANCE NINE / Tape 4: Dust In The Wind
+- 2024-02-13 — Case 17: SÉANCE NINE / Tape 3: The Wanderer
+- 2024-02-06 — Case 17: SÉANCE NINE / Tape 2: The Circle Is Small
+- 2024-01-30 — Case 17: SÉANCE NINE / Tape 1: Prologue
+- 2023-12-31 — Bonus Tape: 2023 Recommendo Roundup — speakers: Recommendo Roundup
+- 2023-12-26 — Case 16 Tape 13: Q&A + Easter Eggs
+- 2023-12-25 — (Not So) Secret Tape: The Naughty List
+- 2023-12-12 — Case 16 Tape 12: Epilogue — speakers: Mike Duggan
+- 2023-11-28 — Case 16 Tape 11: Do Not Pass Mandurugo — speakers: Do Not Pass Mandurugo
+- 2023-11-14 — Case 16 Tape 10: That Thing You Impundulu
+- 2023-10-31 — Case 16 Tape 9: Horton Hears A Yara-Ma-Yha-Who — speakers: Horton Hears
+- 2023-10-17 — Case 16 Tape 8: Kappa Chameleon — speakers: Kappa Chameleon
+- 2023-10-03 — Case 16 Tape 7: He Said, Jiangshi Said — speakers: Jiangshi Said
+- 2023-09-19 — Case 16 Tape 6: Win Some, Asanbosam
+- 2023-09-05 — Case 16 Tape 5: Little Old Asema From Pasadena
+- 2023-08-22 — Case 16 Tape 4: Sou Sou Soucoyant — speakers: Sou Sou Soucoyant
+- 2023-08-15 — Case 16 Tape 3: Strigoi Meets World
+- 2023-08-08 — Case 16 Tape 2: Finagling Penanggalan
+- 2023-07-18 — Case 16 Tape 1: Prologue
+- 2023-07-05 — Case 15 Tape 13: Q + A
+- 2023-06-20 — Case 15 Tape 12: Epilogue
+- 2023-06-06 — Case 15 Tape 11: The Earth Stars Are Right
+- 2023-05-23 — Case 15 Tape 10: Pulling A Black Tooth
+- 2023-05-09 — Case 15 Tape 9: Stalking The Panther
+- 2023-04-25 — Case 15 Tape 8: Follow The Swamp Beacon
+- 2023-04-11 — Case 15 Tape 7: A Dead Man’s Fingers — speakers: Dead Man
+- 2023-03-28 — Case 15 Tape 6: Speaking In Earth Tongues
+- 2023-03-14 — Case 15 Tape 5: A Big Slice Of Poison Pie
+- 2023-02-28 — Case 15 Tape 4: Beware A Destroying Angel — speakers: First Christian Church, Las Cruces
+- 2023-02-14 — Case 15 Tape 3: These Moose Antlers Don’t Fit
+- 2023-01-31 — Case 15 Tape 2: Ringworm Around The Rosie
+- 2023-01-17 — Case 15 Tape 1: Prologue — speakers: Jennifer Olmos
+- 2023-01-01 — Bonus Tape: Recommendo Roundup 2022 — speakers: Recommendo Roundup
+- 2022-12-27 — Case 14 Tape 14: Q&A
+- 2022-12-19 — Case 14 Tape 13: Not So Fast — speakers: Elder Thing
+- 2022-12-13 — Case 14 Tape 12: Epilogue
+- 2022-11-29 — Case 14 Tape 11: This Is The End
+- 2022-11-15 — Case 14 Tape 10: Watch The White Doves Go
+- 2022-11-01 — Case 14 Tape 9: Tolling Of The Iron Bell
+- 2022-10-25 — Case 14 Tape 8: The Smile Is Red
+- 2022-10-11 — Case 14 Tape 7: Breathing Summer Breeze
+- 2022-09-20 — Case 14 Tape 6: The Wind Appeared
+- 2022-09-06 — Case 14 Tape 5: Inside La Casa
+- 2022-08-23 — Case 14 Tape 4: One Foot On The Platform
+- 2022-08-08 — Case 14 Tape 3: Creeping Up The Blind Side
+- 2022-07-26 — Case 14 Tape 2: In The Master’s Chambers
+- 2022-07-19 — Case 14 Tape 1: Prologue
+- 2022-06-21 — Case 13 Tape 13: Q&A
+- 2022-06-07 — Case 13 Tape 12: Epilogue
+- 2022-05-24 — Case 13 Tape 11: Pistil Whipped
+- 2022-05-10 — Case 13 Tape 10: The Ground Is Sour — speakers: New York City
+- 2022-04-26 — Case 13 Tape 9: Tuber Or Not Tuber
+- 2022-04-12 — Case 13 Tape 8: Fungus Among Us
+- 2022-03-29 — Case 13 Tape 7: Dying On The Vine
+- 2022-03-15 — Case 13 Tape 6: By Hook Or By Crook
+- 2022-03-01 — Case 13 Tape 5: Branching Out
+- 2022-02-15 — Case 13 Tape 4: Growth Spurts — speakers: Big Apple, Inglorious Investigators
+- 2022-02-01 — Case 13 Tape 3: Root For The Away Team
+- 2022-01-18 — Case 13 Tape 2: Seed Of Destruction — speakers: Twilight Sideshow
+- 2022-01-11 — Case 13 Tape 1: Prologue
+- 2022-01-01 — Bonus Tape: 2021 Recommendo Roundup — speakers: Recommendo Roundup
+- 2021-11-09 — Case 12 Tape 14: Q&A
+- 2021-10-26 — Case 12 Tape 13: Epilogue
+- 2021-10-12 — Case 12 Tape 12: Twisted Sisters
+- 2021-09-28 — Case 12 Tape 11: Jaunt To A Foreign Land — speakers: Twilight Sideshow
+- 2021-09-14 — Case 12 Tape 10: Skipping Stones
+- 2021-08-31 — Case 12 Tape 9: Opening Night Critters
+- 2021-08-17 — Case 12 Tape 8: Freaky Friday — speakers: Blaine Manor
+- 2021-08-03 — Case 12 Tape 7: Scream A Little Scream
+- 2021-07-20 — Case 12 Tape 6: Starbuckers Incorporated
+- 2021-07-08 — Case 12 Tape 5: Time Is A Flat Circus
+- 2021-06-22 — Case 12 Tape 4: Hot Pippa Spray — speakers: Pippa Spray
+- 2021-06-01 — Case 12 Tape 3: Mime's The Word
+- 2021-05-25 — Case 12 Tape 2: Slaughtered Half-Dreams — speakers: Slaughtered Half
+- 2021-05-18 — Case 12 Tape 1: Prologue — speakers: Tommy Dolby
+- 2021-03-02 — Case 11 Tape 14: Q&A — speakers: Haunted Heart
+- 2021-02-09 — Case 11 Tape 13: Epilogue — speakers: News Radio, Rhode Island
+- 2021-02-02 — Case 11 Tape 12: From Manse To Manor
+- 2021-01-26 — Case 11 Tape 11: Don't Look In The Basement — speakers: Poe Manse
+- 2021-01-19 — Case 11 Tape 10: Toys In The Attic — speakers: Poe Manse
+- 2021-01-12 — Case 11 Tape 9: A Grizzly End
+- 2021-01-01 — Bonus Tape: 2020 Recommendo Roundup — speakers: Recommendo Roundup
+- 2020-12-29 — Case 11 Tape 8: Ladder Day Saints
+- 2020-12-25 — Secret Tape: Lovecraftmas 2019 — speakers: Secret Tape
+- 2020-12-15 — Case 11 Tape 7: I Will Go Mad
+- 2020-12-01 — Case 11 Tape 6: Zeus Suit Riot — speakers: Zeus Suit Riot
+- 2020-11-24 — Case 11 Tape 5: Red Red Rum — speakers: Squantum Point, Poe Manse
+- 2020-11-10 — Case 11 Tape 4: Whisperer In The Darkness — speakers: Delta Green, Poe Mans
+- 2020-11-04 — Case 11 Tape 3: Brush, Floss and Gargoyle
+- 2020-10-31 — Secret Tape: Death House
+- 2020-10-20 — Case 11 Tape 2: A Bicycle Built For Three — speakers: Rhode Isla
+- 2020-10-06 — Case 11 Tape 1: Prologue — speakers: Eldridge Poe
+- 2020-09-08 — Secret Tape: Horror On The Greens — speakers: Secret Tape
+- 2020-08-18 — Bonus Tape: The Strange Case Of Louis Cypher — speakers: Keeper Jeremy
+- 2020-07-14 — Secret Tape: The Cellar
+- 2020-06-30 — Case 10 Tape 14: Q&A
+- 2020-06-23 — Case 10 Tape 13: Epilogue
+- 2020-06-16 — Case 10 Tape 12: Tik Tox — speakers: Tik Tox, Bert Bertman
+- 2020-06-02 — Case 10 Tape 11: Decompression — speakers: Clyde Baughman
+- 2020-05-19 — Case 10 Tape 10: The Cradle Will Rocky
+- 2020-05-12 — Case 10 Tape 9: Split The Difference — speakers: Delta Green
+- 2020-05-05 — Case 10 Tape 8: The Wind Cried Marlene
+- 2020-04-21 — Case 10 Tape 7: Way Up North — speakers: Clyde Baughman
+- 2020-04-19 — Secret Tape: Easter Eggs
+- 2020-04-14 — Case 10 Tape 6: Cabin In The Woods — speakers: Clyde Baughman
+- 2020-03-31 — Case 10 Tape 5: The Postman Only Rings Once
+- 2020-03-17 — Case 10 Tape 4: The Purrfection
+- 2020-03-10 — Case 10 Tape 3: What Meow? — speakers: Delta Green
+- 2020-03-03 — Case 10 Tape 2: Catharsis, Rebirth
+- 2020-02-25 — Case 10 Tape 1: Prologue — speakers: Delta Green
+- 2019-12-31 — Bonus Tape: Recommendo Roundup 2019 — speakers: Recommendo Roundup
+- 2019-12-10 — Bonus Tape: Talkin' Tapes w/ Mike LaBossiere — speakers: Mike LaBossiere, Michael LaB
+- 2019-12-03 — Case 9 Tape 13: Q&A
+- 2019-11-12 — Case 9 Tape 12: Epilogue
+- 2019-11-05 — Case 9 Tape 11: Samurai Showdown — speakers: Will Jack, Will Carl Jr, Will Roy
+- 2019-10-31 — Secret Tape: The Derelict
+- 2019-10-29 — Case 9 Tape 10: Sudden Impact — speakers: Caldeira Bran
+- 2019-10-22 — Case 9 Tape 9: Steven Crumpet Saves The Day — speakers: Steven Crumpet Saves, Steven Crumpet
+- 2019-10-15 — Case 9 Tape 8: Split Lepus — speakers: Split Lepus
+- 2019-10-08 — Case 9 Tape 7: Stormy Weather — speakers: Carl Junior
+- 2019-10-01 — Case 9 Tape 6: Spotlight
+- 2019-09-17 — Case 9 Tape 5: Soupy Sailing
+- 2019-09-10 — Case 9 Tape 4: Squibble Squabble — speakers: Dan Williams
+- 2019-09-03 — Case 9 Tape 3: Ships Ahoy
+- 2019-08-27 — Case 9 Tape 2: Switcheroo
+- 2019-08-20 — Case 9 Tape 1: Prologue — speakers: Randolph Carter
+- 2019-07-09 — Case 8 Tape 12: Q&A
+- 2019-06-25 — Case 8 Tape 11: Epilogue
+- 2019-06-18 — Case 8 Tape 10: Bishop Takes Pawn
+- 2019-06-04 — Case 8 Tape 9: Doing The Sherpa Shuffle — speakers: Ascending Queen Mary
+- 2019-05-28 — Case 8 Tape 8: The Giant Awakens — speakers: Saint Mary
+- 2019-05-14 — Case 8 Tape 7: Sleeping It Off
+- 2019-05-07 — Case 8 Tape 6: Double Fisting — speakers: Roy Arroyo
+- 2019-04-30 — Case 8 Tape 5: D Rising
+- 2019-04-16 — Case 8 Tape 4: Body Buddies — speakers: Saint Mary
+- 2019-04-09 — Case 8 Tape 3: Legal Eagles
+- 2019-04-02 — Case 8 Tape 2: New Friends
+- 2019-03-26 — Case 8 Tape 1: Prologue
+- 2019-03-19 — Case 7 Tape 13: Q&A
+- 2019-02-05 — Case 7 Tape 12: Epilogue
+- 2019-01-22 — Case 7 Tape 11: Open Locks Whoever Knocks — speakers: Open Locks Whoever Knocks, Winoka Point Research Center
+- 2019-01-15 — Case 7 Tape 10: Belly Of The Beast
 - 2019-01-01 — Bonus Tape: Recommendo Roundup 2018 — speakers: Recommendo Roundup
 - 2018-12-25 — Bonus Tape: Seasons Greetings — speakers: Seasons Greetings
-- 2018-12-18 — Case 7 Tape 9: Footprints In The Dust — speakers: Dan Williams, Creative Cloud
-- 2018-12-11 — Case 7 Tape 8: Stranded — speakers: Garth Marenghi, Creative Cloud
-- 2018-12-04 — Case 7 Tape 7: The Transporter — speakers: Dan Williams, Creative Cloud
-- 2018-11-20 — Case 7 Tape 6: Poles Apart — speakers: Poles Apart, Dan Williams, Forza Horizon, Joey Janela, Creative Cloud
-- 2018-11-06 — Case 7 Tape 5: Nine One WTF — speakers: Creative Cloud
-- 2018-10-30 — Case 7 Tape 4: Nary A Clue — speakers: Dan Williams, Creative Cloud
-- 2018-10-16 — Case 7 Tape 3: Down Under — speakers: Kevin Slay, Creative Cloud
-- 2018-10-09 — Case 7 Tape 2: Gut Shot — speakers: Dan Williams, Creative Cloud
-- 2018-10-01 — Case 7 Tape 1: Prologue — speakers: Creative Cloud
-- 2018-09-18 — Case 6 Tape 11: Epilogue — speakers: Creative Cloud
-- 2018-09-03 — Case 6 Tape 10: Meet The Family — speakers: Creative Cloud
-- 2018-08-27 — Case 6 Tape 9: Homestead — speakers: Tweet us
-- 2018-08-13 — Case 6 Tape 8: The Plot Thickens — speakers: John Carpenter, Tweet us
-- 2018-08-06 — Case 6 Tape 7: Deadly Encounters — speakers: Creative Cloud
-- 2018-07-30 — Bonus Tape: Announcements — speakers: Creative Cloud
-- 2018-07-23 — Bonus Tape: The Path Of The Righteous Man — speakers: Jack Whiteside, Creative Cloud
-- 2018-07-16 — Case 6 Tape 6: Swamp Gas — speakers: Creative Cloud
-- 2018-07-09 — Case 6 Tape 5: This Must Be LaPlace — speakers: Apron Recommendos, Creative Cloud
-- 2018-07-02 — Case 6 Tape 4: All Jacked Up — speakers: Creative Cloud
-- 2018-06-18 — Bonus Tape: Cthulhu Commercials (Case 4) — speakers: Creative Cloud
-- 2018-06-11 — Case 6 Tape 3: Puzzle Pieces — speakers: Hubert Pretorious Loveland, Rhinoplasty Recommendos, Creative Cloud
-- 2018-06-04 — Bonus Tape: The Taking Of Bugsy — speakers: Creative Cloud
-- 2018-05-28 — Case 6 Tape 2: Combat — speakers: Creative Cloud
-- 2018-05-21 — Bonus Tape: Skinner In Wonderland — speakers: Sharon Skinner, Jack Whiteside, Creative Cloud
-- 2018-05-14 — Case 6 Tape 1: Debriefing — speakers: Creative Cloud
-- 2018-03-19 — Bonus Tape: Talkin' Tapes w/ Scott Dorward — speakers: Scott Dorward, Creative Cloud
-- 2018-03-12 — Case 5 Tape 13: It Awakens — speakers: Scott Dorward, Creative Cloud
-- 2018-03-05 — Bonus Tape: Augustus Returns Home — speakers: Augustus Returns Home, Creative Cloud
-- 2018-02-26 — Case 5 Tape 12: The Noose Tightens — speakers: Creative Cloud
-- 2018-02-19 — Bonus Tape: Frog On A Log — speakers: Creative Cloud
-- 2018-02-12 — Case 5 Tape 11: Mirror Mirror — speakers: Creative Cloud
-- 2018-02-05 — Bonus Tape: The Awakening — speakers: Creative Cloud
-- 2018-01-29 — Case 5 Tape 10: Afterburn — speakers: Jack Whiteside, Kelly Landrom, Dan Williams, Aaron Martinez, Creative Cloud
-- 2018-01-22 — Case 5 Tape 9: Punching Nazis — speakers: Roy Arroyo, Jack Whiteside, Lauren Crawley, Dan Williams, Creative Cloud
-- 2018-01-15 — Case 5 Tape 8: Glasstastrophy — speakers: Roy Arroyo, Dan Williams, Jack Whiteside, Sweet Sweet Lonely, Creative Cloud
-- 2018-01-08 — Case 5 Tape 7: The Great Bathroom Caper — speakers: Dan Williams, Ted Weaver, Jack Whiteside, BoJack Horseman Invincible, Creative Cloud
-- 2018-01-01 — Bonus Tape: Recommendo Roundup 2017 — speakers: Recommendo Roundup, Creative Cloud
-- 2017-12-25 — Case 5 Tape 6: Church Going Folk — speakers: Ted Weaver, Death Spank, Beat Cop, Creative Cloud
-- 2017-12-18 — Bonus Tape: Cthulhu Commercials (Case 3) — speakers: Linda Library Services, Creative Cloud
-- 2017-12-11 — Case 5 Tape 5: Pounding The Pavement — speakers: Dawn Eller, Kelly Landrom, Creative Cloud
-- 2017-12-04 — Bonus Tape: Weaver's Gift — speakers: Daniel Weaver, Creative Cloud
-- 2017-11-27 — Case 5 Tape 4: Double Teaming — speakers: Daniel Weaver, Kelly Landrom, Dan Vs, Creative Cloud
-- 2017-11-20 — Bonus Tape: Croneborg's Discovery — speakers: Creative Cloud
-- 2017-11-13 — Case 5 Tape 3: Attack Of The Shadow Snake — speakers: Mitch Landrom, Creative Cloud
+- 2018-12-18 — Case 7 Tape 9: Footprints In The Dust
+- 2018-12-11 — Case 7 Tape 8: Stranded — speakers: Bloodsworth Island
+- 2018-12-04 — Case 7 Tape 7: The Transporter
+- 2018-11-20 — Case 7 Tape 6: Poles Apart — speakers: Poles Apart, Dan Williams
+- 2018-11-06 — Case 7 Tape 5: Nine One WTF — speakers: Nine One, Somerset Self Storage
+- 2018-10-30 — Case 7 Tape 4: Nary A Clue
+- 2018-10-16 — Case 7 Tape 3: Down Under
+- 2018-10-09 — Case 7 Tape 2: Gut Shot
+- 2018-10-01 — Case 7 Tape 1: Prologue
+- 2018-09-18 — Case 6 Tape 11: Epilogue
+- 2018-09-03 — Case 6 Tape 10: Meet The Family
+- 2018-08-27 — Case 6 Tape 9: Homestead
+- 2018-08-13 — Case 6 Tape 8: The Plot Thickens
+- 2018-08-06 — Case 6 Tape 7: Deadly Encounters
+- 2018-07-30 — Bonus Tape: Announcements — speakers: Arcane Lore
+- 2018-07-23 — Bonus Tape: The Path Of The Righteous Man
+- 2018-07-16 — Case 6 Tape 6: Swamp Gas
+- 2018-07-09 — Case 6 Tape 5: This Must Be LaPlace
+- 2018-07-02 — Case 6 Tape 4: All Jacked Up
+- 2018-06-18 — Bonus Tape: Cthulhu Commercials (Case 4) — speakers: Cthulhu Commercials
+- 2018-06-11 — Case 6 Tape 3: Puzzle Pieces — speakers: Blaine Manor
+- 2018-06-04 — Bonus Tape: The Taking Of Bugsy — speakers: Bugsy Cicarelli
+- 2018-05-28 — Case 6 Tape 2: Combat
+- 2018-05-21 — Bonus Tape: Skinner In Wonderland — speakers: Sharon Skinner
+- 2018-05-14 — Case 6 Tape 1: Debriefing
+- 2018-03-19 — Bonus Tape: Talkin' Tapes w/ Scott Dorward — speakers: Scott Dorward
+- 2018-03-12 — Case 5 Tape 13: It Awakens
+- 2018-03-05 — Bonus Tape: Augustus Returns Home — speakers: Augustus Returns Home
+- 2018-02-26 — Case 5 Tape 12: The Noose Tightens
+- 2018-02-19 — Bonus Tape: Frog On A Log — speakers: Roy Arroyo, Parkland Ho
+- 2018-02-12 — Case 5 Tape 11: Mirror Mirror
+- 2018-02-05 — Bonus Tape: The Awakening
+- 2018-01-29 — Case 5 Tape 10: Afterburn — speakers: Jack Whiteside
+- 2018-01-22 — Case 5 Tape 9: Punching Nazis — speakers: Roy Arroyo
+- 2018-01-15 — Case 5 Tape 8: Glasstastrophy — speakers: Roy Arroyo
+- 2018-01-08 — Case 5 Tape 7: The Great Bathroom Caper — speakers: Dan Williams, Ted Weaver
+- 2018-01-01 — Bonus Tape: Recommendo Roundup 2017 — speakers: Recommendo Roundup
+- 2017-12-25 — Case 5 Tape 6: Church Going Folk — speakers: Leland Free Evangelical Church
+- 2017-12-18 — Bonus Tape: Cthulhu Commercials (Case 3) — speakers: Cthulhu Commercials, Returning Home
+- 2017-12-11 — Case 5 Tape 5: Pounding The Pavement — speakers: Dawn Eller, Kelly Landrom
+- 2017-12-04 — Bonus Tape: Weaver's Gift — speakers: Daniel Weaver
+- 2017-11-27 — Case 5 Tape 4: Double Teaming
+- 2017-11-20 — Bonus Tape: Croneborg's Discovery
+- 2017-11-13 — Case 5 Tape 3: Attack Of The Shadow Snake — speakers: Mitch Landrom
 - 2017-11-06 — Bonus Tape: From The Desk Of Pastor Weaver — speakers: Ted Weaver
-- 2017-10-30 — Bonus Tape: Petunia's House Of Horrors — speakers: Creative Cloud
+- 2017-10-30 — Bonus Tape: Petunia's House Of Horrors — speakers: Lovecraft Tapes
 - 2017-10-23 — Bonus Tape: Voicemail From Hell
-- 2017-10-16 — Case 5 Tape 2: Nightmares At The Screen Door Inn — speakers: Creative Cloud
+- 2017-10-16 — Case 5 Tape 2: Nightmares At The Screen Door Inn
 - 2017-10-09 — Bonus Tape: Mailbag Q&A
 - 2017-10-02 — Bonus Tape: Horror At Blaine Manor
-- 2017-09-25 — Case 5 Tape 1: The Screed On The Wall — speakers: Creative Cloud, Roy Arroyo
+- 2017-09-25 — Case 5 Tape 1: The Screed On The Wall
 - 2017-09-18 — Bonus Tape: Jack Whiteside's Tale — speakers: Jack Whiteside
 - 2017-09-11 — Bonus Tape: Roy Arroyo's Tale — speakers: Roy Arroyo
 - 2017-09-04 — Bonus Tape: Dan Williams' Tale — speakers: Dan Williams
-- 2017-08-28 — Case 4 Tape 8: Just A Drop In The Bucket — speakers: Creative Cloud
+- 2017-08-28 — Case 4 Tape 8: Just A Drop In The Bucket
 - 2017-08-21 — Bonus Tape: Sharon Skinner's Tale — speakers: Sharon Skinner
-- 2017-08-14 — Case 4 Tape 7: Interview With A Madman — speakers: Creative Cloud, George Portman, Emily Schumaker, Rime Website
+- 2017-08-14 — Case 4 Tape 7: Interview With A Madman
 - 2017-08-07 — Bonus Tape: Hello Stu
-- 2017-07-31 — Case 4 Tape 6: Book Reports & Prescription Bottles — speakers: Creative Cloud, Phyllis Gagne, George Portman, Tina Quillan, Emily Schumaker
+- 2017-07-31 — Case 4 Tape 6: Book Reports & Prescription Bottles — speakers: Book Reports
 - 2017-07-24 — Bonus Tape: Ripley The Cat
-- 2017-07-17 — Case 4 Tape 5: Introducing The Arroyos — speakers: Creative Cloud
+- 2017-07-17 — Case 4 Tape 5: Introducing The Arroyos — speakers: Lovecraft Tapes
 - 2017-07-10 — Bonus Tape: Cthulhu Commercials — speakers: Cthulhu Commercials Please
 - 2017-07-03 — Bonus Tape: Petunia After Dark — speakers: Petunia After Dark Welcome
 - 2017-06-26 — Bonus Tape: Cthulhu Commercials — speakers: Cthulhu Commercials Enjoy
-- 2017-06-19 — Case 4 Tape 4: Do The Thumpty Thump — speakers: Stuart Portman, Creative Cloud
+- 2017-06-19 — Case 4 Tape 4: Do The Thumpty Thump
 - 2017-06-12 — Bonus Tape: Evelyn Long's Lunch — speakers: Evelyn Long
-- 2017-06-05 — Case 4 Tape 3: Portmandia — speakers: Creative Cloud
+- 2017-06-05 — Case 4 Tape 3: Portmandia
 - 2017-05-28 — Bonus Tape: Bugsy Bugs Out — speakers: Bugsy Bugs Out Welcome
-- 2017-05-22 — Case 4 Tape 2: Meet Petunia — speakers: Creative Cloud
+- 2017-05-22 — Case 4 Tape 2: Meet Petunia
 - 2017-05-16 — Bonus Tape: Bankrupt Books — speakers: Bankrupt Books Welcome
-- 2017-05-08 — Case 4 Tape 1: Book Em Dan-O — speakers: Roy Arroyo, Charles Blaine, Creative Cloud, Pink Season
-- 2017-04-24 — Case 3 Tape 7: Requiem For A Blaine — speakers: Creative Cloud
-- 2017-04-17 — Case 3 Tape 6: Choose Your Own Nightmare — speakers: Chris Parker
-- 2017-04-03 — Case 3 Tape 5: The Cow Of Discontent — speakers: Carol Burt, Creative Cloud, Split Website
-- 2017-03-20 — Case 3 Tape 4: Storm Of The Century — speakers: Chris Parker
-- 2017-03-13 — Case 3 Tape 3: Deep Tissue Massage — speakers: Chris Parker
-- 2017-02-27 — Case 3 Tape 2: Checking In — speakers: Chris Parker
-- 2017-02-20 — Case 3 Tape 1: Future Shock — speakers: Chris Parker
-- 2017-02-13 — Case 2 Tape 8: The Death Of Chuck Blaine — speakers: Chuck Blaine, Linda Library Services, Join us, Tweet us
-- 2017-02-06 — Case 2 Tape 7: Shoots & Ladders — speakers: Jeanne Saint Jayne, Charlie’s Cursed Cars Recommendos, Join us, Tweet us
-- 2017-01-30 — Case 2 Tape 6: Like A Bat Outta Hell — speakers: Join us, Tweet us
-- 2017-01-23 — Case 2 Tape 5: A Snake Licks Its Lips — speakers: Sam Brophy, Join us, Tweet us
-- 2017-01-16 — Case 2 Tape 4: Fly By Night — speakers: Join us, Tweet us
-- 2017-01-09 — Case 2 Tape 3: Going Down, Mister Williams? — speakers: Stan Brophy, Join us, Tweet us
-- 2017-01-02 — Case 2 Tape 2: The State Of The Secretary — speakers: Stan Brophy, Join us, Tweet us
-- 2016-12-24 — Bonus Tape: A Very Cthulhu Christmas — speakers: Samantha Brewster, Daniel Williams, Sheila Helsing, Creative Cloud
-- 2016-12-12 — Case 2 Tape 1: Prologue — speakers: Creative Cloud
+- 2017-05-08 — Case 4 Tape 1: Book Em Dan-O
+- 2017-04-24 — Case 3 Tape 7: Requiem For A Blaine — speakers: Returning Home
+- 2017-04-17 — Case 3 Tape 6: Choose Your Own Nightmare
+- 2017-04-03 — Case 3 Tape 5: The Cow Of Discontent
+- 2017-03-20 — Case 3 Tape 4: Storm Of The Century
+- 2017-03-13 — Case 3 Tape 3: Deep Tissue Massage — speakers: Soul Exchang
+- 2017-02-27 — Case 3 Tape 2: Checking In
+- 2017-02-20 — Case 3 Tape 1: Future Shock
+- 2017-02-13 — Case 2 Tape 8: The Death Of Chuck Blaine — speakers: Chuck Blaine
+- 2017-02-06 — Case 2 Tape 7: Shoots & Ladders — speakers: La Brea Tar Pits
+- 2017-01-30 — Case 2 Tape 6: Like A Bat Outta Hell
+- 2017-01-23 — Case 2 Tape 5: A Snake Licks Its Lips — speakers: Sam Brophy
+- 2017-01-16 — Case 2 Tape 4: Fly By Night
+- 2017-01-09 — Case 2 Tape 3: Going Down, Mister Williams? — speakers: Stan Brophy
+- 2017-01-02 — Case 2 Tape 2: The State Of The Secretary — speakers: Stan Brophy
+- 2016-12-24 — Bonus Tape: A Very Cthulhu Christmas
+- 2016-12-12 — Case 2 Tape 1: Prologue — speakers: Prologue Three, Green Grove
 - 2016-11-28 — Case 1 Tape 8: Burying The Past
 - 2016-11-22 — Case 1 Tape 7: Ooh That Smell — speakers: Katie Moore
-- 2016-11-15 — Case 1 Tape 6: Hitting The Books — speakers: Katie Moore
+- 2016-11-15 — Case 1 Tape 6: Hitting The Books
 - 2016-11-07 — Case 1 Tape 5: A Friend In Need — speakers: Katie Moore
-- 2016-10-31 — Case 1 Tape 4: The Definition Of Creeper — speakers: David Parker, Erich Zann
-- 2016-10-31 — Case 1 Tape 3: Bright Lights Big City — speakers: Thin Jack, BOOMstick Brew
+- 2016-10-31 — Case 1 Tape 4: The Definition Of Creeper
+- 2016-10-31 — Case 1 Tape 3: Bright Lights Big City
 - 2016-10-31 — Case 1 Tape 2: The Grass Is Always Greener
 - 2016-10-31 — Case 1 Tape 1: Prologue

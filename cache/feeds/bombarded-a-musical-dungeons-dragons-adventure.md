@@ -2,9 +2,9 @@
 
 - slug: `bombarded-a-musical-dungeons-dragons-adventure`
 - source: `https://feed.podbean.com/bombarded/feed.xml`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"2d8a93ebfb0dc004869bb40ed6be3cb2"`
+- fetched_at: `2026-06-16T11:36:50+00:00`
+- checked_at: `2026-06-16T11:36:50+00:00`
+- etag: `"d384162d2ac311ea1e0f99bf3f43b452"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://bombarded.podbean.com",
   "description": "DFW band Lindby brings you a musical D&D adventure following the exploits of three bards. New episode every other Tuesday!",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/1940907/bomBARDed-logo-v3.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-06-16T11:36:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -75,7 +75,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125645981",
       "itunes_duration": "7852",
-      "speakers": [],
+      "speakers": [
+        "Final Mailbag"
+      ],
       "topics": [
         "bombarded",
         "unplugged",
@@ -130,7 +132,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52475408",
       "itunes_duration": "3279",
-      "speakers": [],
+      "speakers": [
+        "Hear Me Out Plans"
+      ],
       "topics": []
     },
     {
@@ -144,10 +148,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55632098",
       "itunes_duration": "3477",
-      "speakers": [
-        "Sauce Vol",
-        "Ost Vol"
-      ],
+      "speakers": [],
       "topics": [
         "intervaluable",
         "lesson"
@@ -164,9 +165,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47528537",
       "itunes_duration": "2970",
-      "speakers": [
-        "Content Warning"
-      ],
+      "speakers": [],
       "topics": [
         "easy"
       ]
@@ -216,7 +215,7 @@
       "enclosure_length": "23731181",
       "itunes_duration": "1483",
       "speakers": [
-        "Lang Sine"
+        "Holiday Recital Hey"
       ],
       "topics": [
         "holiday",
@@ -234,7 +233,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42441554",
       "itunes_duration": "2652",
-      "speakers": [],
+      "speakers": [
+        "Chaos Sauce"
+      ],
       "topics": [
         "timo"
       ]
@@ -390,9 +391,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50493407",
       "itunes_duration": "3155",
-      "speakers": [
-        "Bday Giveaway"
-      ],
+      "speakers": [],
       "topics": [
         "proud",
         "greg"
@@ -410,8 +409,7 @@
       "enclosure_length": "12864995",
       "itunes_duration": "804",
       "speakers": [
-        "Summer Songs",
-        "Olympic Spirit"
+        "Summer Songs"
       ],
       "topics": [
         "summer",
@@ -450,7 +448,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40178495",
       "itunes_duration": "2511",
-      "speakers": [],
+      "speakers": [
+        "Summer Songs"
+      ],
       "topics": [
         "summer",
         "songs",
@@ -486,7 +486,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30790157",
       "itunes_duration": "1924",
-      "speakers": [],
+      "speakers": [
+        "Garage Welcome",
+        "Summer Songs"
+      ],
       "topics": [
         "summer",
         "songs",
@@ -521,7 +524,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "9105740",
       "itunes_duration": "569",
-      "speakers": [],
+      "speakers": [
+        "Summer Songs"
+      ],
       "topics": [
         "summer",
         "songs",
@@ -604,8 +609,7 @@
       "enclosure_length": "50607248",
       "itunes_duration": "3162",
       "speakers": [
-        "Also Raz",
-        "People Dallas Mutual Aid"
+        "Also Raz"
       ],
       "topics": []
     },
@@ -620,7 +624,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "21682877",
       "itunes_duration": "1355",
-      "speakers": [],
+      "speakers": [
+        "Snow Daze Hey"
+      ],
       "topics": [
         "snow",
         "daze"
@@ -657,8 +663,7 @@
       "enclosure_length": "65612993",
       "itunes_duration": "4100",
       "speakers": [
-        "Cover Story",
-        "Fan Zine"
+        "Cover Story"
       ],
       "topics": [
         "party",
@@ -694,7 +699,7 @@
       "enclosure_length": "35585657",
       "itunes_duration": "2224",
       "speakers": [
-        "Twitter Instagram"
+        "All Trades"
       ],
       "topics": [
         "bombarded",
@@ -713,9 +718,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69279257",
       "itunes_duration": "4329",
-      "speakers": [
-        "creative burnout"
-      ],
+      "speakers": [],
       "topics": [
         "bombarded",
         "unplugged",
@@ -734,8 +737,7 @@
       "enclosure_length": "58410986",
       "itunes_duration": "3650",
       "speakers": [
-        "Lawful Broth",
-        "Chaos Sauce"
+        "Lawful Broth"
       ],
       "topics": [
         "road",
@@ -753,9 +755,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64403693",
       "itunes_duration": "4025",
-      "speakers": [
-        "Ost Vol"
-      ],
+      "speakers": [],
       "topics": [
         "rest",
         "life"
@@ -773,8 +773,7 @@
       "enclosure_length": "52289426",
       "itunes_duration": "3268",
       "speakers": [
-        "Sauce Vol",
-        "Ost Vol"
+        "Chaos Sau"
       ],
       "topics": [
         "hello",
@@ -793,8 +792,7 @@
       "enclosure_length": "63121418",
       "itunes_duration": "3945",
       "speakers": [
-        "Sauce Battles",
-        "Yoshimi Battles"
+        "Sauce Battles"
       ],
       "topics": [
         "chaos",
@@ -813,8 +811,7 @@
       "enclosure_length": "79129631",
       "itunes_duration": "4945",
       "speakers": [
-        "Sauce Battles",
-        "Chaos Sauce"
+        "Sauce Battles"
       ],
       "topics": [
         "chaos",
@@ -832,7 +829,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71358002",
       "itunes_duration": "4459",
-      "speakers": [],
+      "speakers": [
+        "Baby One Lore Time"
+      ],
       "topics": [
         "baby",
         "lore",
@@ -851,7 +850,8 @@
       "enclosure_length": "17850647",
       "itunes_duration": "1115",
       "speakers": [
-        "Nick Spurrier"
+        "Symbol Pt",
+        "Symbol Resonates"
       ],
       "topics": [
         "magic",
@@ -889,8 +889,7 @@
       "enclosure_length": "14017166",
       "itunes_duration": "876",
       "speakers": [
-        "Nick Spurrier",
-        "Soldier Story"
+        "Symbol Pt"
       ],
       "topics": [
         "magic",
@@ -908,7 +907,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57509849",
       "itunes_duration": "3594",
-      "speakers": [],
+      "speakers": [
+        "Thinking Outside"
+      ],
       "topics": []
     },
     {
@@ -923,8 +924,7 @@
       "enclosure_length": "11770787",
       "itunes_duration": "735",
       "speakers": [
-        "Nick Spurrier",
-        "Lee Upside Down Sonny"
+        "Symbol Pt"
       ],
       "topics": [
         "magic",
@@ -960,7 +960,7 @@
       "enclosure_length": "10879241",
       "itunes_duration": "679",
       "speakers": [
-        "Nick Spurrier"
+        "Symbol Pt"
       ],
       "topics": [
         "magic",
@@ -1012,7 +1012,7 @@
       "enclosure_length": "958811",
       "itunes_duration": "59",
       "speakers": [
-        "Black Lives Matter"
+        "Update Transcript"
       ],
       "topics": [
         "update"
@@ -1029,9 +1029,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26556356",
       "itunes_duration": "1659",
-      "speakers": [
-        "Ost Vol"
-      ],
+      "speakers": [],
       "topics": [
         "randy"
       ]
@@ -1047,9 +1045,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31071632",
       "itunes_duration": "1941",
-      "speakers": [
-        "Sauce Vol"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1079,9 +1075,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50308259",
       "itunes_duration": "3144",
-      "speakers": [
-        "Vanessa Dambach"
-      ],
+      "speakers": [],
       "topics": [
         "schooled"
       ]
@@ -1117,8 +1111,7 @@
       "enclosure_length": "9014417",
       "itunes_duration": "563",
       "speakers": [
-        "Blooper Song",
-        "Tanner Brown"
+        "Blooper Song"
       ],
       "topics": [
         "bombarded",
@@ -1140,8 +1133,7 @@
       "itunes_duration": "2951",
       "speakers": [
         "Chaos Sauce",
-        "Matt Mercer",
-        "Gerudo Town"
+        "Matt Mercer"
       ],
       "topics": [
         "bard",
@@ -1159,9 +1151,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55869371",
       "itunes_duration": "3491",
-      "speakers": [
-        "Matt Mercer"
-      ],
+      "speakers": [],
       "topics": [
         "schooled"
       ]
@@ -1278,10 +1268,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "3886151",
       "itunes_duration": "242",
-      "speakers": [
-        "Album Artwork",
-        "Mateo Arceneaux"
-      ],
+      "speakers": [],
       "topics": [
         "announcement",
         "song"
@@ -1460,10 +1447,8 @@
       "enclosure_length": "23246210",
       "itunes_duration": "1452",
       "speakers": [
-        "Gen Con",
-        "Yo Home",
-        "Will Smith",
-        "Peter Lurye"
+        "Fresh Prince",
+        "Magic School Bus"
       ],
       "topics": [
         "bardlibs"
@@ -1480,9 +1465,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55218017",
       "itunes_duration": "3451",
-      "speakers": [
-        "Gen Con"
-      ],
+      "speakers": [],
       "topics": [
         "randy",
         "return"
@@ -1550,9 +1533,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62797826",
       "itunes_duration": "3924",
-      "speakers": [
-        "Gen Con"
-      ],
+      "speakers": [],
       "topics": [
         "schooled"
       ]
@@ -1568,9 +1549,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55695482",
       "itunes_duration": "3480",
-      "speakers": [
-        "Gen Con"
-      ],
+      "speakers": [],
       "topics": [
         "schooled"
       ]
@@ -1603,9 +1582,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57396842",
       "itunes_duration": "3587",
-      "speakers": [
-        "Chaos Sauce Vol"
-      ],
+      "speakers": [],
       "topics": [
         "thing"
       ]
@@ -1621,10 +1598,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "3034220",
       "itunes_duration": "189",
-      "speakers": [
-        "Album Artwork",
-        "Jeremy Adams"
-      ],
+      "speakers": [],
       "topics": [
         "announcement",
         "song"
@@ -1641,9 +1615,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56243420",
       "itunes_duration": "3515",
-      "speakers": [
-        "Ost Vol"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1697,8 +1669,7 @@
       "itunes_duration": "3135",
       "speakers": [
         "Seems Like",
-        "Nurse Odejoy",
-        "Chaos Sauce Vol"
+        "Nurse Odejoy"
       ],
       "topics": []
     },
@@ -1713,9 +1684,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102004166",
       "itunes_duration": "6375",
-      "speakers": [
-        "then chec"
-      ],
+      "speakers": [],
       "topics": [
         "bombarded",
         "unplugged",
@@ -1751,7 +1720,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86157134",
       "itunes_duration": "3589",
-      "speakers": [],
+      "speakers": [
+        "Dizztance Reluctantly"
+      ],
       "topics": [
         "dizztance"
       ]
@@ -1784,8 +1755,7 @@
       "enclosure_length": "23048822",
       "itunes_duration": "960",
       "speakers": [
-        "fl Inktank",
-        "Penance Rpg"
+        "about some"
       ],
       "topics": [
         "recrap"
@@ -1803,7 +1773,7 @@
       "enclosure_length": "43959434",
       "itunes_duration": "2747",
       "speakers": [
-        "Happy Holidays"
+        "Bards Over Troubled Water"
       ],
       "topics": [
         "bards",
@@ -1911,10 +1881,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "5899427",
       "itunes_duration": "368",
-      "speakers": [
-        "Album Artwork",
-        "Corinne Caro"
-      ],
+      "speakers": [],
       "topics": [
         "announcement",
         "song"
@@ -1950,7 +1917,8 @@
       "enclosure_length": "5285603",
       "itunes_duration": "330",
       "speakers": [
-        "Chaos Sauce"
+        "Album Announcement",
+        "Chaos Sauce Vol"
       ],
       "topics": [
         "album",
@@ -1969,10 +1937,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42524954",
       "itunes_duration": "2657",
-      "speakers": [
-        "Sauce Vol",
-        "Ost Vol"
-      ],
+      "speakers": [],
       "topics": [
         "schooled"
       ]
@@ -1988,9 +1953,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65987042",
       "itunes_duration": "4124",
-      "speakers": [
-        "Sauce Vol"
-      ],
+      "speakers": [],
       "topics": [
         "schooled"
       ]
@@ -2006,7 +1969,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58197065",
       "itunes_duration": "3637",
-      "speakers": [],
+      "speakers": [
+        "Getting Schooled"
+      ],
       "topics": [
         "schooled"
       ]
@@ -2023,7 +1988,7 @@
       "enclosure_length": "83590697",
       "itunes_duration": "5224",
       "speakers": [
-        "Add Squid"
+        "Cera Bellum Spurrier"
       ],
       "topics": [
         "cera",
@@ -2183,7 +2148,8 @@
       "enclosure_length": "4252694",
       "itunes_duration": "265",
       "speakers": [
-        "Chaos Sauce"
+        "Album Announcement",
+        "Chaos Sauce Vol"
       ],
       "topics": [
         "album",
@@ -2302,7 +2268,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27129314",
       "itunes_duration": "1695",
-      "speakers": [],
+      "speakers": [
+        "Look Ahead",
+        "Recap Before"
+      ],
       "topics": [
         "song",
         "recap"
@@ -2319,7 +2288,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63388715",
       "itunes_duration": "4056",
-      "speakers": [],
+      "speakers": [
+        "Holiday Special"
+      ],
       "topics": [
         "holiday",
         "special",
@@ -2471,16 +2442,16 @@
 
 - 2022-12-14 — The Uncertainty of Adventure — speakers: Adventure Seasons Greetings
 - 2022-05-30 — Patreon Updates, Additions, and Changes!
-- 2022-04-20 — BomBARDed: Unplugged (Final Mailbag!)
+- 2022-04-20 — BomBARDed: Unplugged (Final Mailbag!) — speakers: Final Mailbag
 - 2022-04-05 — Ep. 88 - Barding is Such Sweet Sorrow — speakers: Sweet Sorrow
 - 2022-03-15 — Ep. 87 - Call Time
-- 2022-03-01 — Ep. 86 - Hear Me Out
-- 2022-02-15 — Ep. 85 - An Intervaluable Lesson — speakers: Sauce Vol, Ost Vol
-- 2022-02-01 — Ep. 84 - It Ain’t Over Easy — speakers: Content Warning
+- 2022-03-01 — Ep. 86 - Hear Me Out — speakers: Hear Me Out Plans
+- 2022-02-15 — Ep. 85 - An Intervaluable Lesson
+- 2022-02-01 — Ep. 84 - It Ain’t Over Easy
 - 2022-01-18 — Ep. 83 - Stretto to the Metal
 - 2022-01-04 — You Relay Got Me
-- 2021-12-21 — Holiday Recital — speakers: Lang Sine
-- 2021-12-14 — Ep. 82 - Timo To Go
+- 2021-12-21 — Holiday Recital — speakers: Holiday Recital Hey
+- 2021-12-14 — Ep. 82 - Timo To Go — speakers: Chaos Sauce
 - 2021-11-30 — Ep. 81 - TabithUH-OH
 - 2021-11-16 — Ep. 80 - Leapin‘ Lyreions!
 - 2021-11-02 — Ep. 79 - We‘ll Vow About That
@@ -2489,56 +2460,56 @@
 - 2021-09-21 — Ep. 76 - The Orc-estra
 - 2021-09-07 — Ep. 75 - Oh, Monoxys!
 - 2021-08-24 — bomBARDed Birthday Bash — speakers: Birthday Bash
-- 2021-08-10 — Ep. 74 - 2 Proud 2 Greg — speakers: Bday Giveaway
-- 2021-07-27 — Summer Songs Ep. 3 - Bardic Relay — speakers: Summer Songs, Olympic Spirit
+- 2021-08-10 — Ep. 74 - 2 Proud 2 Greg
+- 2021-07-27 — Summer Songs Ep. 3 - Bardic Relay — speakers: Summer Songs
 - 2021-07-13 — Ep. 73 - Gregs' Place — speakers: Place What
-- 2021-06-29 — Summer Songs Ep. 2 - Bard Exploder
+- 2021-06-29 — Summer Songs Ep. 2 - Bard Exploder — speakers: Summer Songs
 - 2021-06-15 — Ep. 72 - Modulation Exploration
-- 2021-06-01 — Summer Songs Ep. 1 - In the Garage
+- 2021-06-01 — Summer Songs Ep. 1 - In the Garage — speakers: Garage Welcome, Summer Songs
 - 2021-05-25 — Ep. 71 - Lead On, Leon
-- 2021-05-11 — “Summer Songs” Songwriting Summer Series
+- 2021-05-11 — “Summer Songs” Songwriting Summer Series — speakers: Summer Songs
 - 2021-05-04 — Ep. 70 - First Chair
 - 2021-04-20 — Ep. 69 - Nice
 - 2021-04-06 — Ep. 68.5 - Times Between
 - 2021-03-23 — Ep. 68 - The King of Rockdeep
-- 2021-03-09 — Ep. 67 - The ol' Raz'ul/Daz'ul — speakers: Also Raz, People Dallas Mutual Aid
-- 2021-02-23 — Snow Daze
+- 2021-03-09 — Ep. 67 - The ol' Raz'ul/Daz'ul — speakers: Also Raz
+- 2021-02-23 — Snow Daze — speakers: Snow Daze Hey
 - 2021-02-09 — Ep. 66 - Chaos Boss — speakers: Chaos Boss Daz
-- 2021-01-26 — Ep. 65 - Party Animals — speakers: Cover Story, Fan Zine
+- 2021-01-26 — Ep. 65 - Party Animals — speakers: Cover Story
 - 2021-01-12 — Ep. 64 - Battle or Skedaddle
-- 2020-12-15 — bomBARDed Holiday Variety Show — speakers: Twitter Instagram
-- 2020-12-01 — BomBARDed: Unplugged 2 (Mailbag!) — speakers: creative burnout
-- 2020-11-17 — Ep. 63 - The Road Home — speakers: Lawful Broth, Chaos Sauce
-- 2020-11-03 — Ep. 62 - The Rest of Your Life — speakers: Ost Vol
-- 2020-10-20 — Ep. 61 - Hello, Goodbye — speakers: Sauce Vol, Ost Vol
-- 2020-10-06 — Chaos Sauce Battles the Pink row-BOT’s, Mvt. 2 — speakers: Sauce Battles, Yoshimi Battles
-- 2020-09-22 — Chaos Sauce Battles the Pink row-BOT’s, Mvt. 1 — speakers: Sauce Battles, Chaos Sauce
-- 2020-09-08 — Ep. 60 - Baby One Lore Time
-- 2020-09-01 — BH1 Behind the Magic: Symbol Pt.4 — speakers: Nick Spurrier
+- 2020-12-15 — bomBARDed Holiday Variety Show — speakers: All Trades
+- 2020-12-01 — BomBARDed: Unplugged 2 (Mailbag!)
+- 2020-11-17 — Ep. 63 - The Road Home — speakers: Lawful Broth
+- 2020-11-03 — Ep. 62 - The Rest of Your Life
+- 2020-10-20 — Ep. 61 - Hello, Goodbye — speakers: Chaos Sau
+- 2020-10-06 — Chaos Sauce Battles the Pink row-BOT’s, Mvt. 2 — speakers: Sauce Battles
+- 2020-09-22 — Chaos Sauce Battles the Pink row-BOT’s, Mvt. 1 — speakers: Sauce Battles
+- 2020-09-08 — Ep. 60 - Baby One Lore Time — speakers: Baby One Lore Time
+- 2020-09-01 — BH1 Behind the Magic: Symbol Pt.4 — speakers: Symbol Pt, Symbol Resonates
 - 2020-08-25 — Ep. 59 - Da Capo al Coda — speakers: Randy Greentrees
-- 2020-08-18 — BH1 Behind the Magic: Symbol Pt. 3 — speakers: Nick Spurrier, Soldier Story
-- 2020-08-04 — Ep. 58 - Thinking Outside the Box
-- 2020-07-21 — BH1 Behind the Magic: Symbol Pt. 2 — speakers: Nick Spurrier, Lee Upside Down Sonny
+- 2020-08-18 — BH1 Behind the Magic: Symbol Pt. 3 — speakers: Symbol Pt
+- 2020-08-04 — Ep. 58 - Thinking Outside the Box — speakers: Thinking Outside
+- 2020-07-21 — BH1 Behind the Magic: Symbol Pt. 2 — speakers: Symbol Pt
 - 2020-07-14 — Ep. 57 - The Past Returns
-- 2020-07-07 — BH1 Behind the Magic: Symbol Pt. 1 — speakers: Nick Spurrier
+- 2020-07-07 — BH1 Behind the Magic: Symbol Pt. 1 — speakers: Symbol Pt
 - 2020-06-23 — Ep. 56 - The Devil in the Details
 - 2020-06-09 — Ep. 55 - Wingin' It
-- 2020-06-02 — Update — speakers: Black Lives Matter
-- 2020-05-19 — Ep. 54, Mvt. III - Randy's Day — speakers: Ost Vol
-- 2020-05-12 — Ep. 54, Mvt. II - Raz'ul's Day — speakers: Sauce Vol
+- 2020-06-02 — Update — speakers: Update Transcript
+- 2020-05-19 — Ep. 54, Mvt. III - Randy's Day
+- 2020-05-12 — Ep. 54, Mvt. II - Raz'ul's Day
 - 2020-05-05 — Ep. 54, Mvt. I - Yashee's Day
-- 2020-04-21 — Ep. 53 - Getting Schooled, Mvt. X — speakers: Vanessa Dambach
+- 2020-04-21 — Ep. 53 - Getting Schooled, Mvt. X
 - 2020-04-07 — Ep. 52 - The Belly of the Bard — speakers: Bard Yashee
-- 2020-03-31 — bomBARDed Update (And Blooper Song) — speakers: Blooper Song, Tanner Brown
-- 2020-03-24 — Bards Gone Wilde(mount) — speakers: Chaos Sauce, Matt Mercer, Gerudo Town
-- 2020-03-10 — Ep. 51 - Getting Schooled, Mvt. IX — speakers: Matt Mercer
+- 2020-03-31 — bomBARDed Update (And Blooper Song) — speakers: Blooper Song
+- 2020-03-24 — Bards Gone Wilde(mount) — speakers: Chaos Sauce, Matt Mercer
+- 2020-03-10 — Ep. 51 - Getting Schooled, Mvt. IX
 - 2020-02-25 — Ep. 50 - The BYEcentennial
 - 2020-02-11 — Ep. 49 - The Bicentennial, Mvt. V
 - 2020-01-28 — Ep. 48 - The Bicentennial, Mvt. IV
 - 2020-01-14 — Ep. 47 - The Bicentennial, Mvt. III
 - 2020-01-01 — New Years Daytreon (New Year, New Tiers) — speakers: some music
 - 2019-12-17 — Ep. 46 - The Bicentennial, Mvt. II
-- 2019-12-10 — OST Vol 4 Announcement / Bonus Song — speakers: Album Artwork, Mateo Arceneaux
+- 2019-12-10 — OST Vol 4 Announcement / Bonus Song
 - 2019-12-03 — Ep. 45 - The Bicentennial, Mvt. I
 - 2019-11-19 — The Isle of Ignota, Mvt. II — speakers: Gen Con
 - 2019-11-12 — Album Announcement / Bonus Song — speakers: Album Announcement, Chaos Sauce Vol
@@ -2548,38 +2519,38 @@
 - 2019-09-24 — Ep. 43 - A Rock and a Bard Place
 - 2019-09-10 — Ep. 42 - Randy's Return, Mvt. III
 - 2019-08-27 — Ep. 41 - Randy's Return, Mvt. II
-- 2019-08-13 — Bardlibs 2019 — speakers: Gen Con, Yo Home, Will Smith, Peter Lurye
-- 2019-07-30 — Ep. 40 - Randy's Return, Mvt. I — speakers: Gen Con
+- 2019-08-13 — Bardlibs 2019 — speakers: Fresh Prince, Magic School Bus
+- 2019-07-30 — Ep. 40 - Randy's Return, Mvt. I
 - 2019-07-16 — DnD Live 2019 Show with The Cocktail Crew
 - 2019-07-02 — Ep. 39 - Hustlin' to the Hemphills
 - 2019-06-18 — DnD Live 2019 Show with Greetings, Adventurers!
-- 2019-06-04 — Ep. 38 - Getting Schooled, Mvt. VIII — speakers: Gen Con
-- 2019-05-21 — Ep. 37 - Getting Schooled, Mvt. VII — speakers: Gen Con
+- 2019-06-04 — Ep. 38 - Getting Schooled, Mvt. VIII
+- 2019-05-21 — Ep. 37 - Getting Schooled, Mvt. VII
 - 2019-05-07 — Ep. 36 - Ooze Clues
-- 2019-04-23 — Ep. 35 - Getting to the Bottom of Things — speakers: Chaos Sauce Vol
-- 2019-04-16 — OST Vol 3 Announcement / Bonus Song — speakers: Album Artwork, Jeremy Adams
-- 2019-04-09 — Ep. 34 - Everyone Plays Apart — speakers: Ost Vol
+- 2019-04-23 — Ep. 35 - Getting to the Bottom of Things
+- 2019-04-16 — OST Vol 3 Announcement / Bonus Song
+- 2019-04-09 — Ep. 34 - Everyone Plays Apart
 - 2019-04-02 — Album Announcement / Bonus Song — speakers: Album Announcement, Chaos Sauce Vol
 - 2019-03-26 — Ep. 33 - A Mound of Trouble
-- 2019-03-12 — Ep. 32 - Seems Like a Fun Guy — speakers: Seems Like, Nurse Odejoy, Chaos Sauce Vol
-- 2019-02-26 — BomBARDed: Unplugged (Mailbag Special!) — speakers: then chec
+- 2019-03-12 — Ep. 32 - Seems Like a Fun Guy — speakers: Seems Like, Nurse Odejoy
+- 2019-02-26 — BomBARDed: Unplugged (Mailbag Special!)
 - 2019-02-12 — Ep. 31 - Tomb to Dizzappear
-- 2019-01-29 — Ep. 30 - Going the Dizztance
+- 2019-01-29 — Ep. 30 - Going the Dizztance — speakers: Dizztance Reluctantly
 - 2019-01-15 — Ep. 29 - The Dizzcent
-- 2019-01-01 — 2018 Recrap & Beyond — speakers: fl Inktank, Penance Rpg
-- 2018-12-18 — Ep. 28 - Bards Over Troubled Water — speakers: Happy Holidays
+- 2019-01-01 — 2018 Recrap & Beyond — speakers: about some
+- 2018-12-18 — Ep. 28 - Bards Over Troubled Water — speakers: Bards Over Troubled Water
 - 2018-12-04 — Ep. 27 - Bards of a Feather
 - 2018-11-20 — Holiday Special - The Summoning of Gobblox
 - 2018-11-06 — Ep. 26 - One, Two, Tree — speakers: Discordant Fields
 - 2018-10-23 — Ep. 25 - Spillin' and Grillin'
 - 2018-10-09 — Bards On Board - Our Trip to GEXCon
-- 2018-10-02 — OST Vol 2 Announcement / Bonus Song — speakers: Album Artwork, Corinne Caro
+- 2018-10-02 — OST Vol 2 Announcement / Bonus Song
 - 2018-09-25 — Ep. 24 - Swords, Whispers, and Glamour
-- 2018-09-18 — Album Announcement / Bonus Song — speakers: Chaos Sauce
-- 2018-09-11 — Ep. 23 - Getting Schooled, Mvt. VI — speakers: Sauce Vol, Ost Vol
-- 2018-08-28 — Ep. 22 - Getting Schooled, Mvt. V — speakers: Sauce Vol
-- 2018-08-14 — Ep. 21 - Getting Schooled, Mvt. IV
-- 2018-07-31 — Ep. 20 - Cera Bellum — speakers: Add Squid
+- 2018-09-18 — Album Announcement / Bonus Song — speakers: Album Announcement, Chaos Sauce Vol
+- 2018-09-11 — Ep. 23 - Getting Schooled, Mvt. VI
+- 2018-08-28 — Ep. 22 - Getting Schooled, Mvt. V
+- 2018-08-14 — Ep. 21 - Getting Schooled, Mvt. IV — speakers: Getting Schooled
+- 2018-07-31 — Ep. 20 - Cera Bellum — speakers: Cera Bellum Spurrier
 - 2018-06-19 — Song of Rest
 - 2018-06-12 — Ep. 19 - One Way or Another — speakers: One Way
 - 2018-05-29 — Ep. 18 - Layers and Lairs — speakers: Lairs What
@@ -2588,15 +2559,15 @@
 - 2018-04-24 — OST Vol 1 Announcement / Bonus Song
 - 2018-04-17 — Ep. 15 - The S.S. Chaos Sauce — speakers: Chaos Sauce Chaos Sauce
 - 2018-04-03 — Ep. 14 - Bardception — speakers: Bardception Chaos Sauce
-- 2018-03-27 — Album Announcement / Bonus Song — speakers: Chaos Sauce
+- 2018-03-27 — Album Announcement / Bonus Song — speakers: Album Announcement, Chaos Sauce Vol
 - 2018-03-20 — Ep. 13 - Water We Waiting For
 - 2018-03-06 — Ep. 12 - A Basom con Spirito!
 - 2018-02-20 — Ep. 11 - Out of the Frying Pan — speakers: Frying Pan Hard
 - 2018-02-06 — Ep. 10 - Brawlin’ in the Hall
 - 2018-01-23 — Ep. 9 - To Basom
 - 2018-01-09 — Ep. 8 - On The Road Again
-- 2017-12-26 — A Look Ahead / Bonus Song / Recap
-- 2017-12-12 — Holiday Special - March of the Toys, Mvt. II
+- 2017-12-26 — A Look Ahead / Bonus Song / Recap — speakers: Look Ahead, Recap Before
+- 2017-12-12 — Holiday Special - March of the Toys, Mvt. II — speakers: Holiday Special
 - 2017-11-28 — Holiday Special - March of the Toys, Mvt. I — speakers: Holiday Special, Happy Holidays
 - 2017-11-14 — Ep. 7 - Getting Schooled, Mvt. III — speakers: Getting Schooled
 - 2017-10-31 — Ep. 6 - Getting Schooled, Mvt. II — speakers: Getting Schooled
