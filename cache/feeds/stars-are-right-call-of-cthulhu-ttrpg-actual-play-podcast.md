@@ -2,9 +2,9 @@
 
 - slug: `stars-are-right-call-of-cthulhu-ttrpg-actual-play-podcast`
 - source: `https://feed.podbean.com/starsarerightpublishing/feed.xml`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"b87c018725515ce978bb331d96e3ec1b"`
+- fetched_at: `2026-06-16T05:37:04+00:00`
+- checked_at: `2026-06-16T05:37:04+00:00`
+- etag: `"21c63f31d100a0c1f5e88665e70e2dbb"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.starsareright.com",
   "description": "Actual-play of the Call of Cthulhu table-top RPG, 7th edition. Our journey ended in 2024, but is archived here for your listening pleasure. Join our talented cast of role-players as they investigate horrors and mysteries humankind was never meant to comprehend. Featuring a mix of Chaosium-published campaigns and our own original scenarios. You don’t need to know the rules of the Call of Cthulhu table-top RPG to enjoy the stories, just an appreciation of the other-worldly and creepy, and a sense of humour!",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/12245247/SAR_podcast_cover8gdca.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-06-16T05:37:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,10 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108994125",
       "itunes_duration": "3642",
-      "speakers": [
-        "Luise Engel Jayson",
-        "Helene Krauss Braydon"
-      ],
+      "speakers": [],
       "topics": [
         "berlin",
         "dances",
@@ -60,8 +57,7 @@
       "enclosure_length": "101959335",
       "itunes_duration": "3649",
       "speakers": [
-        "Luise Engel Jayson",
-        "Helene Krauss"
+        "hissing cockroa"
       ],
       "topics": [
         "berlin",
@@ -82,13 +78,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "127690704",
       "itunes_duration": "4102",
-      "speakers": [
-        "Anita Berber",
-        "Brita Lantz Tyler",
-        "Ester Rosenbaum",
-        "Luise Engel Jayson",
-        "Helene Krauss"
-      ],
+      "speakers": [],
       "topics": [
         "berlin",
         "dances",
@@ -107,12 +97,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "126864024",
       "itunes_duration": "4189",
-      "speakers": [
-        "Brita Lantz Tyler",
-        "Ester Rosenbaum",
-        "Luise Engel Jayson",
-        "Helene Krauss"
-      ],
+      "speakers": [],
       "topics": [
         "berlin",
         "dances",
@@ -131,7 +116,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90894592",
       "itunes_duration": "2649",
-      "speakers": [],
+      "speakers": [
+        "Friends Reunited There"
+      ],
       "topics": [
         "death",
         "friends",
@@ -167,9 +154,7 @@
       "enclosure_length": "95521822",
       "itunes_duration": "2984",
       "speakers": [
-        "St Valentine",
-        "Walt Minghella",
-        "Al Capone"
+        "Very Good Boy There"
       ],
       "topics": [
         "death"
@@ -187,7 +172,7 @@
       "enclosure_length": "6014340",
       "itunes_duration": "187",
       "speakers": [
-        "Howl Website"
+        "hearts filled"
       ],
       "topics": [
         "final",
@@ -205,12 +190,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108700440",
       "itunes_duration": "3632",
-      "speakers": [
-        "Brita Lantz Tyler",
-        "Ester Rosenbaum",
-        "Luise Engel Jayson",
-        "Helene Krauss"
-      ],
+      "speakers": [],
       "topics": [
         "berlin",
         "dances",
@@ -231,10 +211,8 @@
       "enclosure_length": "128921760",
       "itunes_duration": "4280",
       "speakers": [
-        "Brita Lantz Tyler",
-        "Ester Rosenbaum",
-        "Luise Engel Jayson",
-        "Helene Krauss"
+        "Through Many Dangers",
+        "Snares Over"
       ],
       "topics": [
         "dangers",
@@ -254,13 +232,7 @@
       "enclosure_length": "124475424",
       "itunes_duration": "4417",
       "speakers": [
-        "Brita Lantz Tyler",
-        "Ester Rosenbaum",
-        "Luise Engel Jayson",
-        "Helene Krauss",
-        "Franz Liszt",
-        "Neil O'Doan",
-        "Unported Licence"
+        "Dies Irae"
       ],
       "topics": [
         "berlin",
@@ -282,12 +254,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "127605481",
       "itunes_duration": "4485",
-      "speakers": [
-        "Brita Lantz Tyler",
-        "Ester Rosenbaum",
-        "Luise Engel Jayson",
-        "Helene Krauss"
-      ],
+      "speakers": [],
       "topics": [
         "berlin",
         "dances",
@@ -307,11 +274,7 @@
       "enclosure_length": "114979968",
       "itunes_duration": "3786",
       "speakers": [
-        "Anita Berber",
-        "Brita Lantz Tyler",
-        "Ester Rosenbaum",
-        "Luise Engel Jayson",
-        "Helene Krauss"
+        "nightmarish work"
       ],
       "topics": [
         "berlin",
@@ -333,10 +296,9 @@
       "enclosure_length": "134178576",
       "itunes_duration": "4485",
       "speakers": [
-        "Brita Lantz Tyler",
-        "Ester Rosenbaum",
-        "Luise Engel Jayson",
-        "Helene Krauss"
+        "Side Story",
+        "Absinthe Makes",
+        "Heart Grow Fonder Four"
       ],
       "topics": [
         "berlin",
@@ -376,7 +338,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96043160",
       "itunes_duration": "3421",
-      "speakers": [],
+      "speakers": [
+        "Artistic Hacks Amongst"
+      ],
       "topics": [
         "exhibition",
         "dread",
@@ -415,7 +379,7 @@
       "enclosure_length": "82997678",
       "itunes_duration": "3700",
       "speakers": [
-        "Jared Tallis"
+        "Ghost Hipsters"
       ],
       "topics": [
         "exhibition",
@@ -435,11 +399,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "3289809",
       "itunes_duration": "136",
-      "speakers": [
-        "Cult Initiate",
-        "Cult Elder",
-        "Jared Tallis"
-      ],
+      "speakers": [],
       "topics": [
         "announcement",
         "state",
@@ -457,7 +417,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101541529",
       "itunes_duration": "4230",
-      "speakers": [],
+      "speakers": [
+        "Alone Against",
+        "Can Seb"
+      ],
       "topics": [
         "static",
         "walk",
@@ -492,7 +455,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74698951",
       "itunes_duration": "3243",
-      "speakers": [],
+      "speakers": [
+        "Alone Against"
+      ],
       "topics": [
         "frost"
       ]
@@ -525,9 +490,7 @@
       "enclosure_length": "83738444",
       "itunes_duration": "3926",
       "speakers": [
-        "Teufel Fliegen",
-        "Max Oswald",
-        "Moritz Baum Braydon"
+        "Teufel Fliegen"
       ],
       "topics": [
         "berlin",
@@ -548,10 +511,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66368922",
       "itunes_duration": "3102",
-      "speakers": [
-        "Max Oswald",
-        "Moritz Baum Braydon"
-      ],
+      "speakers": [],
       "topics": [
         "berlin",
         "devil",
@@ -572,8 +532,8 @@
       "enclosure_length": "76804527",
       "itunes_duration": "3503",
       "speakers": [
-        "Max Oswald",
-        "Moritz Baum Braydon"
+        "Devil Eats Flies",
+        "Edge Desperate"
       ],
       "topics": [
         "berlin",
@@ -594,8 +554,9 @@
       "enclosure_length": "61231583",
       "itunes_duration": "2722",
       "speakers": [
-        "Max Oswald",
-        "Moritz Baum Braydon"
+        "Devil Eats Flies",
+        "Cassowary House",
+        "Berlin Zoo"
       ],
       "topics": [
         "berlin",
@@ -617,8 +578,7 @@
       "enclosure_length": "85656882",
       "itunes_duration": "3895",
       "speakers": [
-        "Max Oswald",
-        "Moritz Baum Braydon"
+        "Devil Eats Flies"
       ],
       "topics": [
         "berlin",
@@ -639,11 +599,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70721369",
       "itunes_duration": "3242",
-      "speakers": [
-        "Carl Grossman",
-        "Max Oswald",
-        "Moritz Baum Braydon"
-      ],
+      "speakers": [],
       "topics": [
         "berlin",
         "devil",
@@ -664,8 +620,7 @@
       "enclosure_length": "77630126",
       "itunes_duration": "3435",
       "speakers": [
-        "Max Oswald",
-        "Moritz Baum Braydon"
+        "Devil Eats Flies"
       ],
       "topics": [
         "berlin",
@@ -687,9 +642,7 @@
       "enclosure_length": "94747004",
       "itunes_duration": "4058",
       "speakers": [
-        "Carl Grossman",
-        "Max Oswald",
-        "Moritz Baum Braydon"
+        "Carl Grossman"
       ],
       "topics": [
         "berlin",
@@ -710,9 +663,7 @@
       "enclosure_length": "82541349",
       "itunes_duration": "3830",
       "speakers": [
-        "Baron von Kleist",
-        "Max Oswald",
-        "Moritz Baum Braydon"
+        "Baron von Kle"
       ],
       "topics": [
         "berlin",
@@ -734,8 +685,7 @@
       "enclosure_length": "72554257",
       "itunes_duration": "3201",
       "speakers": [
-        "Max Oswald",
-        "Moritz Baum Braydon"
+        "dreams ke"
       ],
       "topics": [
         "berlin",
@@ -756,10 +706,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81819348",
       "itunes_duration": "3788",
-      "speakers": [
-        "Max Oswald",
-        "Moritz Baum Braydon"
-      ],
+      "speakers": [],
       "topics": [
         "berlin",
         "devil",
@@ -780,9 +727,7 @@
       "enclosure_length": "62883454",
       "itunes_duration": "2895",
       "speakers": [
-        "Carl Grossman",
-        "Max Oswald",
-        "Moritz Baum Braydon"
+        "Devil Eats Flies"
       ],
       "topics": [
         "berlin",
@@ -804,13 +749,7 @@
       "itunes_duration": "3651",
       "speakers": [
         "Rube Goldberg",
-        "Jack Jaaaasper",
-        "Herr Flauschige",
-        "Leopoldo Rueda",
-        "Herbert West Reanimator",
-        "Jane Castle Mr",
-        "Jack Stone",
-        "Buck Jones"
+        "Jack Jaaaasper"
       ],
       "topics": [
         "reanimator",
@@ -831,10 +770,9 @@
       "enclosure_length": "64501017",
       "itunes_duration": "2935",
       "speakers": [
-        "Carl Grossman",
-        "Romanisches Café",
-        "Max Oswald",
-        "Moritz Baum Braydon"
+        "Devil Eats Flies",
+        "Float Like",
+        "Weimar Berlin"
       ],
       "topics": [
         "berlin",
@@ -857,12 +795,7 @@
       "enclosure_length": "77910937",
       "itunes_duration": "3122",
       "speakers": [
-        "Returns Impromptu Surgery Buck",
-        "Leopoldo Rueda",
-        "Herbert West Reanimator",
-        "Jane Castle Mr",
-        "Jack Stone",
-        "Buck Jones"
+        "Returns Impromptu Surgery Buck"
       ],
       "topics": [
         "reanimator",
@@ -883,7 +816,7 @@
       "enclosure_length": "57016117",
       "itunes_duration": "2746",
       "speakers": [
-        "Moritz Baum Braydon"
+        "Weimar Berlin"
       ],
       "topics": [
         "berlin",
@@ -903,13 +836,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78973145",
       "itunes_duration": "3332",
-      "speakers": [
-        "Leopoldo Rueda",
-        "Herbert West Reanimator",
-        "Jane Castle Mr",
-        "Jack Stone",
-        "Buck Jones"
-      ],
+      "speakers": [],
       "topics": [
         "reanimator",
         "returns",
@@ -927,9 +854,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96106426",
       "itunes_duration": "4306",
-      "speakers": [
-        "Max Oswald"
-      ],
+      "speakers": [],
       "topics": [
         "berlin",
         "preludes",
@@ -948,14 +873,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81538020",
       "itunes_duration": "3467",
-      "speakers": [
-        "Norman Cassidy",
-        "Leopoldo Rueda",
-        "Herbert West Reanimator",
-        "Jane Castle Mr",
-        "Jack Stone",
-        "Buck Jones"
-      ],
+      "speakers": [],
       "topics": [
         "reanimator",
         "returns",
@@ -994,11 +912,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57874415",
       "itunes_duration": "3003",
-      "speakers": [
-        "Chris Lackey",
-        "Mike Mason",
-        "Rachel Watches Star"
-      ],
+      "speakers": [],
       "topics": [
         "cult",
         "cthulhu",
@@ -1018,10 +932,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58599558",
       "itunes_duration": "3045",
-      "speakers": [
-        "Chris Lackey",
-        "Mike Mason"
-      ],
+      "speakers": [],
       "topics": [
         "cult",
         "cthulhu",
@@ -1041,9 +952,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81048403",
       "itunes_duration": "3376",
-      "speakers": [
-        "Patreon Discord"
-      ],
+      "speakers": [],
       "topics": [
         "haunter",
         "dark",
@@ -1062,11 +971,7 @@
       "enclosure_length": "134787077",
       "itunes_duration": "6031",
       "speakers": [
-        "Carl Day",
-        "Emily Strauss",
-        "Torched Rainbow",
-        "Vee Carter",
-        "Aaron Macks"
+        "Perfect Science"
       ],
       "topics": [
         "cult",
@@ -1086,12 +991,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68107699",
       "itunes_duration": "3000",
-      "speakers": [
-        "Emily Strauss",
-        "Torched Rainbow",
-        "Vee Carter",
-        "Aaron Macks"
-      ],
+      "speakers": [],
       "topics": [
         "cult",
         "cthulhu",
@@ -1111,12 +1011,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91043435",
       "itunes_duration": "4022",
-      "speakers": [
-        "Emily Strauss",
-        "Torched Rainbow",
-        "Vee Carter",
-        "Aaron Macks"
-      ],
+      "speakers": [],
       "topics": [
         "cult",
         "cthulhu",
@@ -1137,11 +1032,7 @@
       "enclosure_length": "73330883",
       "itunes_duration": "3265",
       "speakers": [
-        "Carl Day",
-        "Emily Strauss",
-        "Torched Rainbow",
-        "Vee Carter",
-        "Aaron Macks"
+        "Carl Day"
       ],
       "topics": [
         "cult",
@@ -1162,11 +1053,7 @@
       "enclosure_length": "79181121",
       "itunes_duration": "3562",
       "speakers": [
-        "Diana Chase",
-        "Emily Strauss",
-        "Torched Rainbow",
-        "Vee Carter",
-        "Aaron Macks"
+        "Attic Searching"
       ],
       "topics": [
         "cult",
@@ -1187,12 +1074,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70773671",
       "itunes_duration": "3144",
-      "speakers": [
-        "Emily Strauss",
-        "Torched Rainbow",
-        "Vee Carter",
-        "Aaron Macks"
-      ],
+      "speakers": [],
       "topics": [
         "cult",
         "cthulhu",
@@ -1213,11 +1095,7 @@
       "enclosure_length": "72094073",
       "itunes_duration": "3113",
       "speakers": [
-        "Barbara Watson",
-        "Emily Strauss",
-        "Torched Rainbow",
-        "Vee Carter",
-        "Aaron Macks"
+        "Barbara Watson"
       ],
       "topics": [
         "cult",
@@ -1238,13 +1116,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82871918",
       "itunes_duration": "3632",
-      "speakers": [
-        "Diana Chase",
-        "Emily Strauss",
-        "Torched Rainbow",
-        "Vee Carter",
-        "Aaron Macks"
-      ],
+      "speakers": [],
       "topics": [
         "cult",
         "cthulhu",
@@ -1264,11 +1136,7 @@
       "enclosure_length": "67162931",
       "itunes_duration": "3070",
       "speakers": [
-        "Carl Day",
-        "Emily Strauss",
-        "Torched Rainbow",
-        "Vee Carter",
-        "Aaron Macks"
+        "Evanston Gathering"
       ],
       "topics": [
         "cult",
@@ -1290,12 +1158,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80542380",
       "itunes_duration": "3646",
-      "speakers": [
-        "Emily Strauss",
-        "Torched Rainbow",
-        "Vee Carter",
-        "Aaron Macks"
-      ],
+      "speakers": [],
       "topics": [
         "cult",
         "cthulhu",
@@ -1315,15 +1178,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104183668",
       "itunes_duration": "4682",
-      "speakers": [
-        "Emily Strauss",
-        "Josh Simmons Professors",
-        "Aaron Macks campus",
-        "Carl Day",
-        "Torched Rainbow",
-        "Vee Carter",
-        "Aaron Macks"
-      ],
+      "speakers": [],
       "topics": [
         "cult",
         "cthulhu",
@@ -1413,9 +1268,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77187621",
       "itunes_duration": "3528",
-      "speakers": [
-        "Carl Mann’s beach"
-      ],
+      "speakers": [],
       "topics": [
         "cult",
         "cthulhu",
@@ -1437,8 +1290,7 @@
       "enclosure_length": "75165192",
       "itunes_duration": "3252",
       "speakers": [
-        "Sea Cave",
-        "Carl Mann"
+        "Sea Cave"
       ],
       "topics": [
         "cult",
@@ -1502,9 +1354,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83661287",
       "itunes_duration": "3692",
-      "speakers": [
-        "Gil Donovan"
-      ],
+      "speakers": [],
       "topics": [
         "cult",
         "cthulhu",
@@ -1629,9 +1479,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71174986",
       "itunes_duration": "3241",
-      "speakers": [
-        "Levi Diaz"
-      ],
+      "speakers": [],
       "topics": [
         "cult",
         "cthulhu",
@@ -1651,10 +1499,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82150380",
       "itunes_duration": "3609",
-      "speakers": [
-        "Angel’s Thirst",
-        "Sam Madson"
-      ],
+      "speakers": [],
       "topics": [
         "castle",
         "greed",
@@ -1674,8 +1519,7 @@
       "enclosure_length": "98255857",
       "itunes_duration": "4338",
       "speakers": [
-        "Angel’s Thirst",
-        "Tommy Cornell"
+        "Angel’s Thirst"
       ],
       "topics": [
         "cult",
@@ -1696,7 +1540,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81747430",
       "itunes_duration": "3756",
-      "speakers": [],
+      "speakers": [
+        "Time Stuck"
+      ],
       "topics": [
         "play",
         "repeat",
@@ -1901,8 +1747,7 @@
       "enclosure_length": "82402410",
       "itunes_duration": "3826",
       "speakers": [
-        "Good Vibes",
-        "Loki’s Gift"
+        "Good Vibes Only"
       ],
       "topics": [
         "good",
@@ -1923,7 +1768,8 @@
       "enclosure_length": "96006239",
       "itunes_duration": "4426",
       "speakers": [
-        "Charles Gladstone"
+        "Not Debauchery",
+        "Art Get"
       ],
       "topics": [
         "cult",
@@ -1989,7 +1835,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66154367",
       "itunes_duration": "3519",
-      "speakers": [],
+      "speakers": [
+        "Alone Against"
+      ],
       "topics": [
         "tide",
         "hell"
@@ -2006,7 +1854,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44640319",
       "itunes_duration": "2175",
-      "speakers": [],
+      "speakers": [
+        "Alone Against",
+        "Fresh Off",
+        "Boat While"
+      ],
       "topics": [
         "tide",
         "fresh",
@@ -2024,7 +1876,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51620251",
       "itunes_duration": "2219",
-      "speakers": [],
+      "speakers": [
+        "Alone Against",
+        "Plans Up",
+        "Smoke Welcome"
+      ],
       "topics": [
         "flames",
         "smoke"
@@ -2041,7 +1897,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94209397",
       "itunes_duration": "4119",
-      "speakers": [],
+      "speakers": [
+        "Alone Against",
+        "Warm Welcome While"
+      ],
       "topics": [
         "flames",
         "warm",
@@ -2059,9 +1918,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96647223",
       "itunes_duration": "4606",
-      "speakers": [
-        "Lynne Hardy"
-      ],
+      "speakers": [],
       "topics": [
         "child",
         "fear",
@@ -2153,7 +2010,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83488668",
       "itunes_duration": "3458",
-      "speakers": [],
+      "speakers": [
+        "Two Doctors",
+        "Donkey Unwilling",
+        "Dr Lockhart"
+      ],
       "topics": [
         "child",
         "fear",
@@ -2172,7 +2033,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78403271",
       "itunes_duration": "3566",
-      "speakers": [],
+      "speakers": [
+        "Libraries Poignant"
+      ],
       "topics": [
         "child",
         "fear",
@@ -2192,7 +2055,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99217119",
       "itunes_duration": "4198",
-      "speakers": [],
+      "speakers": [
+        "Lost Chaudhary"
+      ],
       "topics": [
         "child",
         "fear",
@@ -2232,9 +2097,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95272945",
       "itunes_duration": "4311",
-      "speakers": [
-        "Buy Heartless"
-      ],
+      "speakers": [],
       "topics": [
         "heartless",
         "loveland",
@@ -2274,7 +2137,7 @@
       "enclosure_length": "67131431",
       "itunes_duration": "2990",
       "speakers": [
-        "Buy Heartless"
+        "Hostage Negotiations Villains"
       ],
       "topics": [
         "heartless",
@@ -2294,7 +2157,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72163285",
       "itunes_duration": "3519",
-      "speakers": [],
+      "speakers": [
+        "Hell Determined"
+      ],
       "topics": [
         "child",
         "fear",
@@ -2314,7 +2179,7 @@
       "enclosure_length": "95406036",
       "itunes_duration": "4205",
       "speakers": [
-        "Buy Heartless"
+        "Amphibian Association Interrogations"
       ],
       "topics": [
         "heartless",
@@ -2353,9 +2218,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76946952",
       "itunes_duration": "3267",
-      "speakers": [
-        "Buy Heartless"
-      ],
+      "speakers": [],
       "topics": [
         "heartless",
         "loveland",
@@ -2394,9 +2257,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89510327",
       "itunes_duration": "3829",
-      "speakers": [
-        "Buy Heartless"
-      ],
+      "speakers": [],
       "topics": [
         "heartless",
         "loveland",
@@ -2414,7 +2275,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "105780933",
       "itunes_duration": "4248",
-      "speakers": [],
+      "speakers": [
+        "Gate Plunged"
+      ],
       "topics": [
         "child",
         "fear",
@@ -2432,9 +2295,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80238105",
       "itunes_duration": "3417",
-      "speakers": [
-        "Buy Heartless"
-      ],
+      "speakers": [],
       "topics": [
         "heartless",
         "loveland",
@@ -2473,7 +2334,7 @@
       "enclosure_length": "101612878",
       "itunes_duration": "4309",
       "speakers": [
-        "Buy Heartless"
+        "Tall Tales Back"
       ],
       "topics": [
         "heartless",
@@ -2494,7 +2355,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93888980",
       "itunes_duration": "3857",
-      "speakers": [],
+      "speakers": [
+        "One Shock After Another"
+      ],
       "topics": [
         "child",
         "fear",
@@ -2512,9 +2375,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68851083",
       "itunes_duration": "3123",
-      "speakers": [
-        "Buy Heartless"
-      ],
+      "speakers": [],
       "topics": [
         "heartless",
         "loveland",
@@ -2553,7 +2414,7 @@
       "enclosure_length": "89210253",
       "itunes_duration": "3677",
       "speakers": [
-        "Buy Heartless"
+        "Going Upstream After"
       ],
       "topics": [
         "heartless",
@@ -2572,9 +2433,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81624346",
       "itunes_duration": "3531",
-      "speakers": [
-        "Shen Chu"
-      ],
+      "speakers": [],
       "topics": [
         "child",
         "fear",
@@ -2593,10 +2452,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100741769",
       "itunes_duration": "4157",
-      "speakers": [
-        "Sergeant Cook",
-        "Buy Heartless"
-      ],
+      "speakers": [],
       "topics": [
         "heartless",
         "loveland",
@@ -2672,7 +2528,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87540689",
       "itunes_duration": "3630",
-      "speakers": [],
+      "speakers": [
+        "Border Entering Tibet"
+      ],
       "topics": [
         "child",
         "fear",
@@ -2840,7 +2698,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82405850",
       "itunes_duration": "3621",
-      "speakers": [],
+      "speakers": [
+        "Karakoram Mountains"
+      ],
       "topics": [
         "child",
         "fear",
@@ -2934,7 +2794,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76263113",
       "itunes_duration": "3604",
-      "speakers": [],
+      "speakers": [
+        "Tenzin Kals"
+      ],
       "topics": [
         "child",
         "fear",
@@ -2953,7 +2815,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113885591",
       "itunes_duration": "4386",
-      "speakers": [],
+      "speakers": [
+        "Prophecy Manifested Within"
+      ],
       "topics": [
         "child",
         "fear",
@@ -2972,7 +2836,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80269748",
       "itunes_duration": "4079",
-      "speakers": [],
+      "speakers": [
+        "Thousand Buddhas Finally",
+        "Thousand Buddhas"
+      ],
       "topics": [
         "child",
         "fear",
@@ -3013,7 +2880,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124507156",
       "itunes_duration": "5170",
-      "speakers": [],
+      "speakers": [
+        "Dark Exchange More"
+      ],
       "topics": [
         "child",
         "fear",
@@ -3074,9 +2943,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "136755263",
       "itunes_duration": "5680",
-      "speakers": [
-        "Langdon Warner"
-      ],
+      "speakers": [],
       "topics": [
         "child",
         "fear",
@@ -3109,80 +2976,80 @@
 
 ## Episodes (newest first)
 
-- 2024-09-18 — 25 - Berlin - Dances of Vice - Das Ende — speakers: Luise Engel Jayson, Helene Krauss Braydon
-- 2024-09-04 — 24 - Berlin - Dances of Vice - The Mother of Abominations — speakers: Luise Engel Jayson, Helene Krauss
-- 2024-08-21 — 23 - Berlin - Dances of Vice - Bye Bye Berber — speakers: Anita Berber, Brita Lantz Tyler, Ester Rosenbaum, Luise Engel Jayson, Helene Krauss
-- 2024-08-07 — 22 - Berlin - Dances of Vice - The Dollhouse — speakers: Brita Lantz Tyler, Ester Rosenbaum, Luise Engel Jayson, Helene Krauss
-- 2024-08-04 — 3 - Love You To Death - Friends Reunited
+- 2024-09-18 — 25 - Berlin - Dances of Vice - Das Ende
+- 2024-09-04 — 24 - Berlin - Dances of Vice - The Mother of Abominations — speakers: hissing cockroa
+- 2024-08-21 — 23 - Berlin - Dances of Vice - Bye Bye Berber
+- 2024-08-07 — 22 - Berlin - Dances of Vice - The Dollhouse
+- 2024-08-04 — 3 - Love You To Death - Friends Reunited — speakers: Friends Reunited There
 - 2024-08-02 — 2 - Love You To Death - Riddle Me This
-- 2024-07-31 — 1 - Love You To Death - Clearly A Very Good Boy — speakers: St Valentine, Walt Minghella, Al Capone
-- 2024-07-30 — The Final Curtain — speakers: Howl Website
-- 2024-07-17 — 21 - Berlin - Dances of Vice - In Residence at the Residenz — speakers: Brita Lantz Tyler, Ester Rosenbaum, Luise Engel Jayson, Helene Krauss
-- 2024-07-03 — 20 - Through Many Dangers, Toils and Snares — speakers: Brita Lantz Tyler, Ester Rosenbaum, Luise Engel Jayson, Helene Krauss
-- 2024-06-19 — 19 - Berlin - Dances of Vice - Dies Irae, Dies Illa — speakers: Brita Lantz Tyler, Ester Rosenbaum, Luise Engel Jayson, Helene Krauss, Franz Liszt, Neil O'Doan, Unported Licence
-- 2024-06-05 — 18 - Berlin - Dances of Vice - The Morning After — speakers: Brita Lantz Tyler, Ester Rosenbaum, Luise Engel Jayson, Helene Krauss
-- 2024-05-22 — 17 - Berlin - Dances of Vice - Debauchery and Devilry — speakers: Anita Berber, Brita Lantz Tyler, Ester Rosenbaum, Luise Engel Jayson, Helene Krauss
-- 2024-05-08 — 16 - Berlin - Side Story - Absinthe Makes the Heart Grow Fonder — speakers: Brita Lantz Tyler, Ester Rosenbaum, Luise Engel Jayson, Helene Krauss
+- 2024-07-31 — 1 - Love You To Death - Clearly A Very Good Boy — speakers: Very Good Boy There
+- 2024-07-30 — The Final Curtain — speakers: hearts filled
+- 2024-07-17 — 21 - Berlin - Dances of Vice - In Residence at the Residenz
+- 2024-07-03 — 20 - Through Many Dangers, Toils and Snares — speakers: Through Many Dangers, Snares Over
+- 2024-06-19 — 19 - Berlin - Dances of Vice - Dies Irae, Dies Illa — speakers: Dies Irae
+- 2024-06-05 — 18 - Berlin - Dances of Vice - The Morning After
+- 2024-05-22 — 17 - Berlin - Dances of Vice - Debauchery and Devilry — speakers: nightmarish work
+- 2024-05-08 — 16 - Berlin - Side Story - Absinthe Makes the Heart Grow Fonder — speakers: Side Story, Absinthe Makes, Heart Grow Fonder Four
 - 2024-04-24 — 4 - Exhibition of Dread - Suffering for Your Art
-- 2024-04-10 — 3 - Exhibition of Dread - Artistic Hacks Amongst the Stacks
+- 2024-04-10 — 3 - Exhibition of Dread - Artistic Hacks Amongst the Stacks — speakers: Artistic Hacks Amongst
 - 2024-03-27 — 2 - Exhibition of Dread - Revisiting Old Haunts
-- 2024-03-13 — 1 - Exhibition of Dread - Who You Gonna Call? Ghost Hipsters! — speakers: Jared Tallis
-- 2024-02-29 — Announcement: the state of the stars — speakers: Cult Initiate, Cult Elder, Jared Tallis
-- 2024-02-28 — 2 - Alone Against the Static - A Walk in the Woods
+- 2024-03-13 — 1 - Exhibition of Dread - Who You Gonna Call? Ghost Hipsters! — speakers: Ghost Hipsters
+- 2024-02-29 — Announcement: the state of the stars
+- 2024-02-28 — 2 - Alone Against the Static - A Walk in the Woods — speakers: Alone Against, Can Seb
 - 2024-02-21 — 1 - Alone Against the Static - Found Footage
-- 2024-02-14 — 2 - Alone Against the Frost - One By One
+- 2024-02-14 — 2 - Alone Against the Frost - One By One — speakers: Alone Against
 - 2024-02-07 — 1 - Alone Against the Frost - The Call of the Wild
-- 2024-01-31 — 15 - Berlin - Devil Eats Flies - In der Not frisst der Teufel Fliegen — speakers: Teufel Fliegen, Max Oswald, Moritz Baum Braydon
-- 2024-01-24 — 14 - Berlin - Devil Eats Flies - Guilt and Sorrow — speakers: Max Oswald, Moritz Baum Braydon
-- 2024-01-17 — 13 - Berlin - Devil Eats Flies - By a Knife’s Edge — speakers: Max Oswald, Moritz Baum Braydon
-- 2024-01-10 — 12 - Berlin - Devil Eats Flies - Birds of Prey — speakers: Max Oswald, Moritz Baum Braydon
-- 2023-12-20 — 11 - Berlin - Devil Eats Flies - The Bird Cage — speakers: Max Oswald, Moritz Baum Braydon
-- 2023-12-13 — 10 - Berlin - Devil Eats Flies - The Spider in the Stairwell — speakers: Carl Grossman, Max Oswald, Moritz Baum Braydon
-- 2023-12-06 — 9 - Berlin - Devil Eats Flies - The Frog in the Mailbox — speakers: Max Oswald, Moritz Baum Braydon
-- 2023-11-29 — 8 - Berlin - Devil Eats Flies - The Man of My Dreams — speakers: Carl Grossman, Max Oswald, Moritz Baum Braydon
-- 2023-11-22 — 7 - Berlin - Devil Eats Flies - Class Conflict — speakers: Baron von Kleist, Max Oswald, Moritz Baum Braydon
-- 2023-11-15 — 6 - Berlin - Devil Eats Flies - The Woman With Three Names — speakers: Max Oswald, Moritz Baum Braydon
-- 2023-11-08 — 5 - Berlin - Devil Eats Flies - Queen of the Swingers — speakers: Max Oswald, Moritz Baum Braydon
-- 2023-11-01 — 4 - Berlin - Devil Eats Flies - The Centre Cannot Hold — speakers: Carl Grossman, Max Oswald, Moritz Baum Braydon
-- 2023-10-25 — 4 - The Reanimator Returns - The Final Experiment — speakers: Rube Goldberg, Jack Jaaaasper, Herr Flauschige, Leopoldo Rueda, Herbert West Reanimator, Jane Castle Mr, Jack Stone, Buck Jones
-- 2023-10-18 — 3 - Berlin - Devil Eats Flies - Float Like a Butter Knife — speakers: Carl Grossman, Romanisches Café, Max Oswald, Moritz Baum Braydon
-- 2023-10-11 — 3 - The Reanimator Returns - Impromptu Surgery — speakers: Returns Impromptu Surgery Buck, Leopoldo Rueda, Herbert West Reanimator, Jane Castle Mr, Jack Stone, Buck Jones
-- 2023-10-04 — 2 - Berlin - Preludes - A Foot in the Door — speakers: Moritz Baum Braydon
-- 2023-09-27 — 2 - The Reanimator Returns - The Mob and the Manor — speakers: Leopoldo Rueda, Herbert West Reanimator, Jane Castle Mr, Jack Stone, Buck Jones
-- 2023-09-20 — 1 - Berlin - Preludes - A Trip With Friends — speakers: Max Oswald
-- 2023-09-13 — 1 - The Reanimator Returns - The Missing Reporter — speakers: Norman Cassidy, Leopoldo Rueda, Herbert West Reanimator, Jane Castle Mr, Jack Stone, Buck Jones
+- 2024-01-31 — 15 - Berlin - Devil Eats Flies - In der Not frisst der Teufel Fliegen — speakers: Teufel Fliegen
+- 2024-01-24 — 14 - Berlin - Devil Eats Flies - Guilt and Sorrow
+- 2024-01-17 — 13 - Berlin - Devil Eats Flies - By a Knife’s Edge — speakers: Devil Eats Flies, Edge Desperate
+- 2024-01-10 — 12 - Berlin - Devil Eats Flies - Birds of Prey — speakers: Devil Eats Flies, Cassowary House, Berlin Zoo
+- 2023-12-20 — 11 - Berlin - Devil Eats Flies - The Bird Cage — speakers: Devil Eats Flies
+- 2023-12-13 — 10 - Berlin - Devil Eats Flies - The Spider in the Stairwell
+- 2023-12-06 — 9 - Berlin - Devil Eats Flies - The Frog in the Mailbox — speakers: Devil Eats Flies
+- 2023-11-29 — 8 - Berlin - Devil Eats Flies - The Man of My Dreams — speakers: Carl Grossman
+- 2023-11-22 — 7 - Berlin - Devil Eats Flies - Class Conflict — speakers: Baron von Kle
+- 2023-11-15 — 6 - Berlin - Devil Eats Flies - The Woman With Three Names — speakers: dreams ke
+- 2023-11-08 — 5 - Berlin - Devil Eats Flies - Queen of the Swingers
+- 2023-11-01 — 4 - Berlin - Devil Eats Flies - The Centre Cannot Hold — speakers: Devil Eats Flies
+- 2023-10-25 — 4 - The Reanimator Returns - The Final Experiment — speakers: Rube Goldberg, Jack Jaaaasper
+- 2023-10-18 — 3 - Berlin - Devil Eats Flies - Float Like a Butter Knife — speakers: Devil Eats Flies, Float Like, Weimar Berlin
+- 2023-10-11 — 3 - The Reanimator Returns - Impromptu Surgery — speakers: Returns Impromptu Surgery Buck
+- 2023-10-04 — 2 - Berlin - Preludes - A Foot in the Door — speakers: Weimar Berlin
+- 2023-09-27 — 2 - The Reanimator Returns - The Mob and the Manor
+- 2023-09-20 — 1 - Berlin - Preludes - A Trip With Friends
+- 2023-09-13 — 1 - The Reanimator Returns - The Missing Reporter
 - 2023-09-08 — 3 - Cults of Cthulhu - Beyond the Madness - Retrospective with the Cast
-- 2023-09-06 — 2 - Cults of Cthulhu - Beyond the Madness - Retrospective & Interview with the Authors — speakers: Chris Lackey, Mike Mason, Rachel Watches Star
-- 2023-09-04 — 1 - Cults of Cthulhu - Beyond the Madness - Retrospective & Interview with the Authors — speakers: Chris Lackey, Mike Mason
-- 2023-08-23 — ’The Haunter of the Dark’ by H. P. Lovecraft — speakers: Patreon Discord
-- 2023-07-19 — 11 - Cults of Cthulhu 3: A God’s Dream - The Gate — speakers: Carl Day, Emily Strauss, Torched Rainbow, Vee Carter, Aaron Macks
-- 2023-07-12 — 10 - Cults of Cthulhu 3: A God’s Dream - Of Motels and Mansions — speakers: Emily Strauss, Torched Rainbow, Vee Carter, Aaron Macks
-- 2023-07-05 — 9 - Cults of Cthulhu 3: A God’s Dream - Doorways and Thresholds — speakers: Emily Strauss, Torched Rainbow, Vee Carter, Aaron Macks
-- 2023-06-28 — 8 - Cults of Cthulhu 3: A God’s Dream - The Tentacled Statuette — speakers: Carl Day, Emily Strauss, Torched Rainbow, Vee Carter, Aaron Macks
-- 2023-06-21 — 7 - Cults of Cthulhu 3: A God’s Dream - The Woman in the Attic — speakers: Diana Chase, Emily Strauss, Torched Rainbow, Vee Carter, Aaron Macks
-- 2023-06-14 — 6 - Cults of Cthulhu 3: A God’s Dream - Project Newhaven — speakers: Emily Strauss, Torched Rainbow, Vee Carter, Aaron Macks
-- 2023-06-07 — 5 - Cults of Cthulhu 3: A God’s Dream - A Modern Religion for a Modern Age — speakers: Barbara Watson, Emily Strauss, Torched Rainbow, Vee Carter, Aaron Macks
-- 2023-05-31 — 4 - Cults of Cthulhu 3: A God’s Dream - The New Neighbours — speakers: Diana Chase, Emily Strauss, Torched Rainbow, Vee Carter, Aaron Macks
-- 2023-05-24 — 3 - Cults of Cthulhu 3: A God’s Dream - The Witch House of Evanston — speakers: Carl Day, Emily Strauss, Torched Rainbow, Vee Carter, Aaron Macks
-- 2023-05-17 — 2 - Cults of Cthulhu 3: A God’s Dream - The Wall Safe — speakers: Emily Strauss, Torched Rainbow, Vee Carter, Aaron Macks
-- 2023-05-10 — 1 - Cults of Cthulhu 3: A God’s Dream - The Insomnia Coffee House — speakers: Emily Strauss, Josh Simmons Professors, Aaron Macks campus, Carl Day, Torched Rainbow, Vee Carter, Aaron Macks
+- 2023-09-06 — 2 - Cults of Cthulhu - Beyond the Madness - Retrospective & Interview with the Authors
+- 2023-09-04 — 1 - Cults of Cthulhu - Beyond the Madness - Retrospective & Interview with the Authors
+- 2023-08-23 — ’The Haunter of the Dark’ by H. P. Lovecraft
+- 2023-07-19 — 11 - Cults of Cthulhu 3: A God’s Dream - The Gate — speakers: Perfect Science
+- 2023-07-12 — 10 - Cults of Cthulhu 3: A God’s Dream - Of Motels and Mansions
+- 2023-07-05 — 9 - Cults of Cthulhu 3: A God’s Dream - Doorways and Thresholds
+- 2023-06-28 — 8 - Cults of Cthulhu 3: A God’s Dream - The Tentacled Statuette — speakers: Carl Day
+- 2023-06-21 — 7 - Cults of Cthulhu 3: A God’s Dream - The Woman in the Attic — speakers: Attic Searching
+- 2023-06-14 — 6 - Cults of Cthulhu 3: A God’s Dream - Project Newhaven
+- 2023-06-07 — 5 - Cults of Cthulhu 3: A God’s Dream - A Modern Religion for a Modern Age — speakers: Barbara Watson
+- 2023-05-31 — 4 - Cults of Cthulhu 3: A God’s Dream - The New Neighbours
+- 2023-05-24 — 3 - Cults of Cthulhu 3: A God’s Dream - The Witch House of Evanston — speakers: Evanston Gathering
+- 2023-05-17 — 2 - Cults of Cthulhu 3: A God’s Dream - The Wall Safe
+- 2023-05-10 — 1 - Cults of Cthulhu 3: A God’s Dream - The Insomnia Coffee House
 - 2023-04-19 — 13 - Cults of Cthulhu 2: Angel’s Thirst - The Sacrificial Ritual — speakers: Ritual Even
 - 2023-04-12 — 12 - Cults of Cthulhu 2: Angel’s Thirst - Communal Sausage Pit — speakers: Sausage Pit
 - 2023-04-05 — 11 - Cults of Cthulhu 2: Angel’s Thirst - The Gas Station — speakers: Gas Station, Carl Mann
-- 2023-03-29 — 10 - Cults of Cthulhu 2: Angel’s Thirst - The Beach House — speakers: Carl Mann’s beach
-- 2023-03-22 — 9 - Cults of Cthulhu 2: Angel’s Thirst - The Sea Cave — speakers: Sea Cave, Carl Mann
+- 2023-03-29 — 10 - Cults of Cthulhu 2: Angel’s Thirst - The Beach House
+- 2023-03-22 — 9 - Cults of Cthulhu 2: Angel’s Thirst - The Sea Cave — speakers: Sea Cave
 - 2023-03-15 — 8 - Cults of Cthulhu 2: Angel’s Thirst - The Widow and the Tomes
 - 2023-03-08 — 7 - Cults of Cthulhu 2: Angel’s Thirst - An Altar, A Password, A Target
-- 2023-03-01 — 6 - Cults of Cthulhu 2: Angel’s Thirst - The Under-Temple — speakers: Gil Donovan
+- 2023-03-01 — 6 - Cults of Cthulhu 2: Angel’s Thirst - The Under-Temple
 - 2023-02-22 — 5 - Cults of Cthulhu 2: Angel’s Thirst - A Sinner in Church
 - 2023-02-15 — 4 - Cults of Cthulhu 2: Angel’s Thirst - Sleeping with the Fishes — speakers: Angel’s Thirst Sleeping
 - 2023-02-08 — 3 - The Castle of Greed - Once Bitten Twice Mad — speakers: Sam Madson
 - 2023-02-01 — 3 - Cults of Cthulhu 2: Angel’s Thirst - Both Sides of the Law — speakers: Angel’s Thirst Both Sides
 - 2023-01-18 — 2 - The Castle of Greed - Visions in the Mist — speakers: Anna Madson
-- 2023-01-18 — 2 - Cults of Cthulhu 2: Angel’s Thirst - A Cat in Gloves — speakers: Levi Diaz
-- 2023-01-11 — 1 - The Castle of Greed - The Hungry and the Haunted — speakers: Angel’s Thirst, Sam Madson
-- 2023-01-04 — 1 - Cults of Cthulhu 2: Angel’s Thirst - The Moonlit Day — speakers: Angel’s Thirst, Tommy Cornell
-- 2022-12-14 — 2 - Play, Repeat, Return - The Travellers Out of Time
+- 2023-01-18 — 2 - Cults of Cthulhu 2: Angel’s Thirst - A Cat in Gloves
+- 2023-01-11 — 1 - The Castle of Greed - The Hungry and the Haunted
+- 2023-01-04 — 1 - Cults of Cthulhu 2: Angel’s Thirst - The Moonlit Day — speakers: Angel’s Thirst
+- 2022-12-14 — 2 - Play, Repeat, Return - The Travellers Out of Time — speakers: Time Stuck
 - 2022-12-07 — 1 - Play, Repeat, Return - The Strange Machine
 - 2022-11-30 — 5 - Good Vibes Only - Seeking Enlightenment
 - 2022-11-23 — 7 - Cults of Cthulhu 1: Loki’s Gift - The After-show Party
@@ -3192,46 +3059,46 @@
 - 2022-10-26 — 5 - Cults of Cthulhu 1: Loki’s Gift - Interrogations, Threats, and Cucumber Sandwiches — speakers: Cucumber Sandwiches
 - 2022-10-19 — 2 - Good Vibes Only - The Cliffhanger in the Toilet
 - 2022-10-12 — 4 - Cults of Cthulhu 1: Loki’s Gift - Two Ephraims and Eleven Bells — speakers: Eleven Bells, Daniel Ridley, Ernest Chillingworth
-- 2022-10-05 — 1 - Good Vibes Only - The Bonding Yurt — speakers: Good Vibes, Loki’s Gift
-- 2022-09-28 — 3 - Cults of Cthulhu 1: Loki’s Gift - It’s Not Debauchery, It’s Art — speakers: Charles Gladstone
+- 2022-10-05 — 1 - Good Vibes Only - The Bonding Yurt — speakers: Good Vibes Only
+- 2022-09-28 — 3 - Cults of Cthulhu 1: Loki’s Gift - It’s Not Debauchery, It’s Art — speakers: Not Debauchery, Art Get
 - 2022-09-21 — 2 - Cults of Cthulhu 1: Loki’s Gift - A Dressing Room Visit — speakers: Charles Gladstone
 - 2022-09-14 — 1 - Cults of Cthulhu 1: Loki’s Gift - The Fallen Composer
-- 2022-08-24 — 2 - Alone Against the Tide - Come Hell Or...
-- 2022-08-17 — 1 - Alone Against the Tide - Fresh Off the Boat
-- 2022-08-10 — 2 - Alone Against the Flames - Plans Up in Smoke
-- 2022-08-03 — 1 - Alone Against the Flames - A Warm Welcome
-- 2022-07-27 — 43 - Children of Fear - Beyond the Madness - Campaign Retrospective — speakers: Lynne Hardy
+- 2022-08-24 — 2 - Alone Against the Tide - Come Hell Or... — speakers: Alone Against
+- 2022-08-17 — 1 - Alone Against the Tide - Fresh Off the Boat — speakers: Alone Against, Fresh Off, Boat While
+- 2022-08-10 — 2 - Alone Against the Flames - Plans Up in Smoke — speakers: Alone Against, Plans Up, Smoke Welcome
+- 2022-08-03 — 1 - Alone Against the Flames - A Warm Welcome — speakers: Alone Against, Warm Welcome While
+- 2022-07-27 — 43 - Children of Fear - Beyond the Madness - Campaign Retrospective
 - 2022-07-20 — 42 - Children of Fear - The End
 - 2022-07-13 — 41 - Children of Fear - The Lethal Choice
 - 2022-07-06 — 40 - Children of Fear - The Red River
 - 2022-06-29 — 39 - Children of Fear - Tea with the Count
-- 2022-06-22 — 38 - Children of Fear - Two Doctors and a Donkey
-- 2022-06-15 — 37 - Children of Fear - Letters, Lepers and Libraries
-- 2022-06-08 — 36 - Children of Fear - The Injured and the Lost
+- 2022-06-22 — 38 - Children of Fear - Two Doctors and a Donkey — speakers: Two Doctors, Donkey Unwilling, Dr Lockhart
+- 2022-06-15 — 37 - Children of Fear - Letters, Lepers and Libraries — speakers: Libraries Poignant
+- 2022-06-08 — 36 - Children of Fear - The Injured and the Lost — speakers: Lost Chaudhary
 - 2022-06-01 — 35 - Children of Fear - The Darkness of the Catacombs — speakers: Shen Chu
-- 2022-05-25 — 10 - Heartless in Loveland - The Horror Beneath Loveland — speakers: Buy Heartless
+- 2022-05-25 — 10 - Heartless in Loveland - The Horror Beneath Loveland
 - 2022-05-18 — 34 - Children of Fear - Mortar, Pestle and Wheel
-- 2022-05-11 — 9 - Heartless in Loveland - Hostage Negotiations — speakers: Buy Heartless
-- 2022-05-04 — 33 - Children of Fear - The Entrance to Hell
-- 2022-04-27 — 8 - Heartless in Loveland - The Anti-Amphibian Association — speakers: Buy Heartless
+- 2022-05-11 — 9 - Heartless in Loveland - Hostage Negotiations — speakers: Hostage Negotiations Villains
+- 2022-05-04 — 33 - Children of Fear - The Entrance to Hell — speakers: Hell Determined
+- 2022-04-27 — 8 - Heartless in Loveland - The Anti-Amphibian Association — speakers: Amphibian Association Interrogations
 - 2022-04-20 — 32 - Children of Fear - A Willing Sacrifice
-- 2022-04-13 — 7 - Heartless in Loveland - Boons, Books and Basements — speakers: Buy Heartless
+- 2022-04-13 — 7 - Heartless in Loveland - Boons, Books and Basements
 - 2022-04-06 — 31 - Children of Fear - Mangos and Manuscripts
-- 2022-03-30 — 6 - Heartless in Loveland - The Man in the Castle — speakers: Buy Heartless
-- 2022-03-23 — 30 - Children of Fear - Beyond the Gate
-- 2022-02-16 — 5 - Heartless in Loveland - Footprints and Pipes — speakers: Buy Heartless
+- 2022-03-30 — 6 - Heartless in Loveland - The Man in the Castle
+- 2022-03-23 — 30 - Children of Fear - Beyond the Gate — speakers: Gate Plunged
+- 2022-02-16 — 5 - Heartless in Loveland - Footprints and Pipes
 - 2022-02-09 — 29 - Children of Fear - The Ritual to Save the World
-- 2022-02-02 — 4 - Heartless in Loveland - Tomes and Tall Tales — speakers: Buy Heartless
-- 2022-01-26 — 28 - Children of Fear - One Shock After Another
-- 2022-01-19 — 3 - Heartless in Loveland - Nightmares and Hunting Supplies — speakers: Buy Heartless
+- 2022-02-02 — 4 - Heartless in Loveland - Tomes and Tall Tales — speakers: Tall Tales Back
+- 2022-01-26 — 28 - Children of Fear - One Shock After Another — speakers: One Shock After Another
+- 2022-01-19 — 3 - Heartless in Loveland - Nightmares and Hunting Supplies
 - 2022-01-12 — 27 - Children of Fear - The Strange Machine
-- 2022-01-05 — 2 - Heartless in Loveland - Going Upstream — speakers: Buy Heartless
-- 2021-12-29 — 26 - Children of Fear - The Vengeful Beast — speakers: Shen Chu
-- 2021-12-22 — 1 - Heartless in Loveland - The Earth Shakes — speakers: Sergeant Cook, Buy Heartless
+- 2022-01-05 — 2 - Heartless in Loveland - Going Upstream — speakers: Going Upstream After
+- 2021-12-29 — 26 - Children of Fear - The Vengeful Beast
+- 2021-12-22 — 1 - Heartless in Loveland - The Earth Shakes
 - 2021-12-15 — 25 - Children of Fear - The Biting Cold
 - 2021-12-08 — 24 - Children of Fear - The Seductive Singers
 - 2021-12-01 — 23 - Children of Fear - The Lotus Pose
-- 2021-11-24 — 22 - Children of Fear - Crossing the Border
+- 2021-11-24 — 22 - Children of Fear - Crossing the Border — speakers: Border Entering Tibet
 - 2021-11-22 — 21 - Children of Fear - The Skeletal Dancers
 - 2021-11-10 — 20 - Children of Fear - The Charnel Ground
 - 2021-11-03 — 19 - Children of Fear - The Bone Collector
@@ -3240,17 +3107,17 @@
 - 2021-10-13 — 16 - Children of Fear - Sofian’s Lament
 - 2021-10-06 — 15 - Children of Fear - The Runner
 - 2021-09-29 — 14 - Children of Fear - The Cave Dweller
-- 2021-09-22 — 13 - Children of Fear - The Cannibal Giantess
+- 2021-09-22 — 13 - Children of Fear - The Cannibal Giantess — speakers: Karakoram Mountains
 - 2021-09-15 — 12 - Children of Fear - The Rat King
 - 2021-09-08 — 11 - Children of Fear - The True Culprits
 - 2021-09-01 — 10 - Children of Fear - The Cursed Ruins
 - 2021-08-25 — 9 - Children of Fear - The Walking Portraits
-- 2021-08-18 — 8 - Children of Fear - The Black Hurricane
-- 2021-08-11 — 7 - Children of Fear - A Prophecy Manifested
-- 2021-08-04 — 6 - Children of Fear - The Caves of the Thousand Buddhas
+- 2021-08-18 — 8 - Children of Fear - The Black Hurricane — speakers: Tenzin Kals
+- 2021-08-11 — 7 - Children of Fear - A Prophecy Manifested — speakers: Prophecy Manifested Within
+- 2021-08-04 — 6 - Children of Fear - The Caves of the Thousand Buddhas — speakers: Thousand Buddhas Finally, Thousand Buddhas
 - 2021-07-28 — 5 - Children of Fear - The Ancient Tomb — speakers: Sai Na
-- 2021-07-21 — 4 - Children of Fear - A Dark Exchange
+- 2021-07-21 — 4 - Children of Fear - A Dark Exchange — speakers: Dark Exchange More
 - 2021-07-14 — 3 - Children of Fear - An Unexpected Ally — speakers: Thaddeus Johnson
 - 2021-07-07 — 2 - Children of Fear - A Pit Stop in Sian — speakers: Pit Stop, Sian Unseasonal
-- 2021-07-07 — 1 - Children of Fear - An Unlikely Mission — speakers: Langdon Warner
+- 2021-07-07 — 1 - Children of Fear - An Unlikely Mission
 - 2021-07-02 — 0 - Children of Fear - Introducing the Game

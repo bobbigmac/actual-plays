@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-06-09T20:21:22+00:00`
-- checked_at: `2026-06-09T20:21:22+00:00`
-- etag: `"af90a928e643d92161d572e834a95a1b"`
+- fetched_at: `2026-06-16T05:37:04+00:00`
+- checked_at: `2026-06-16T05:37:04+00:00`
+- etag: `"066bdb11dbba2dabc5d23dc110e3627e"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-06-09T20:21:22+00:00",
+  "fetched_at": "2026-06-16T05:37:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "e76ae093dc35776068294c6e8ab7413c203d846b",
+      "title": "Black Powder & Brimstone: Valorous Hands part 1",
+      "published_at": "2026-06-16T02:00:12+00:00",
+      "link": "https://fandible.com/black-powder-brimstone-valorous-hands-part-1/",
+      "description": "Two mercenaries looking for a job find a one that may be to good to be true. The post Black Powder & Brimstone: Valorous Hands part 1 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/458_BPB_ValorousHands/Fan_808_BPB_ValorousHandsp1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47814321",
+      "itunes_duration": "50:10",
+      "speakers": [
+        "Black Powder",
+        "Valorous Hands"
+      ],
+      "topics": [
+        "black",
+        "powder",
+        "brimstone",
+        "hands"
+      ]
+    },
     {
       "key": "449fcb70a53f45c1da03c8099de305edf73c5898",
       "title": "Rotted Capes Episode 20: Broken Chains part 4",
@@ -11357,26 +11379,6 @@
         "patriotic",
         "enslavement"
       ]
-    },
-    {
-      "key": "c24461eb52db05b073282a8e6f6fbb6c07a14b40",
-      "title": "The Strange Ep 9: Epic Raid 2 of 2",
-      "published_at": "2016-07-08T16:15:34+00:00",
-      "link": "https://fandible.com/strange-ep-9-epic-raid-2-2/",
-      "description": "Surviving their trial, the con artists must now lead their guild towards the most EPIC OF RAIDS! The post The Strange Ep 9: Epic Raid 2 of 2 appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/186_TS_EpicRaid/Fan_304_TS_EpicRaid2of2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "49729642",
-      "itunes_duration": "1:42:25",
-      "speakers": [
-        "Epic Raid"
-      ],
-      "topics": [
-        "strange",
-        "epic",
-        "raid"
-      ]
     }
   ]
 }
@@ -11385,6 +11387,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-16 — Black Powder & Brimstone: Valorous Hands part 1 — speakers: Black Powder, Valorous Hands
 - 2026-06-09 — Rotted Capes Episode 20: Broken Chains part 4 — speakers: Broken Chains, Moziak Base
 - 2026-06-02 — Rotted Capes Episode 20: Broken Chains part 3 — speakers: Broken Chains
 - 2026-05-25 — Rotted Capes Episode 20: Broken Chains part 2 — speakers: Broken Chains
@@ -11984,4 +11987,3 @@
 - 2016-07-29 — Pugmire: The Cat’s Mau
 - 2016-07-22 — Rotted Capes Ep 10: Patriotic Enslavement 2 of 2 — speakers: Patriotic Enslavement, Military Enclave
 - 2016-07-15 — Rotted Capes Ep 10: Patriotic Enslavement 1 of 2 — speakers: Patriotic Enslavement
-- 2016-07-08 — The Strange Ep 9: Epic Raid 2 of 2 — speakers: Epic Raid
