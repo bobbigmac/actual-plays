@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-06-16T21:21:49+00:00`
-- checked_at: `2026-06-16T21:21:49+00:00`
-- etag: `W/"9ab1827a6318c2eb3ac71576279a9339"`
-- last_modified: `Tue, 16 Jun 2026 19:20:14 GMT`
+- fetched_at: `2026-06-17T05:19:02+00:00`
+- checked_at: `2026-06-17T05:19:02+00:00`
+- etag: `W/"77db2331eae816bd9e75d1b2e3eb65d2"`
+- last_modified: `Wed, 17 Jun 2026 04:16:18 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://dodoborne.transistor.fm/",
   "description": "DodoBorne is an improvised comedy storytelling podcast where five friends dive into Daggerheart, the tabletop roleplaying game from Darrington Press. Whether you're looking for adventure, romance, mystery, or nonsense, DodoBorne offers a welcoming mix of humor, heart, and collaborative storytelling that we hope will keep you coming back for more. With Season 3 serving as a fresh starting point for new viewers, there's never been a better time to join the flock! New episodes air every other Tuesday.",
   "image_url": "https://img.transistorcdn.com/PF5Vk-8nAmdKsPTRJqo_K6Dq6rb3lxVNLhZuItObV2g/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83Zjk3/YjIxOTE2OTU3ODNi/ZjM2MTk5NTVhM2Qy/Y2UwOC5wbmc.jpg",
-  "fetched_at": "2026-06-16T21:21:49+00:00",
+  "fetched_at": "2026-06-17T05:19:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,20 @@
     "ttrpg/daggerheart"
   ],
   "episodes": [
+    {
+      "key": "c08f0e7eab689b5ec66b0a46b13867051ea83e4f",
+      "title": "3.1 Cut To!",
+      "published_at": "2026-06-17T01:00:00+00:00",
+      "link": "https://share.transistor.fm/s/5769de05",
+      "description": "Season 3 of Dodoborne premieres June 16! For the first time, episodes will be available in video format on YouTube, Spotify, and Apple Podcasts. Join Kapi, Pistachio, and two new adventurers as they journey across the land of Althea! Join our Patreon and Discord to stay up to date on all things Dodoborne! Discord: https://discord.gg/xGqPXnkqKf Patreon: https://www.patreon.com/cw/Dodoborne ________________________________________________________ Join our Patreon for episode talk backs, GM insights, deleted scenes, and more! Well hello there again friends and otherwise! We’ve returned to our story about a few small-town heroes venturing into the great big world of Althea. With a new team and a fresh start, our dodos are ready to tackle the day. But little do they know the day is ready to tackle them back! Find out what awaits our dodos (old and new) in this thrilling premiere! This episode is sponsored by our friends at Demiplane. Check out their digital tools for Daggerheart and other tabletop RPGs at Demiplane.com Follow us on Bluesky , Instagram , or join our Discord for more Dodoborne! Music in this episode created by: Daniel Bukin Isaac Allen Burns Raine B Listen to the music from this episode and other Dodotunes HERE \"Daggerheart (Main Theme Soundtrack)\" by Taylor Ash & Lindsay Dills Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. Learn more at Dodoborne.com Thanks to our monthly supporters David Mittenson Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch Z to the O to the R A K Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny",
+      "image_url": null,
+      "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/5769de05/d96a69e5.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45099536",
+      "itunes_duration": "2814",
+      "speakers": [],
+      "topics": []
+    },
     {
       "key": "a2604745320753414acc7037e2cd9b95ff798e8d",
       "title": "Bonus: The Polaris University Squawk-back Episode",
@@ -881,6 +895,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-17 — 3.1 Cut To!
 - 2026-06-04 — Bonus: The Polaris University Squawk-back Episode
 - 2026-06-02 — Polaris University 1.7: Resurrection
 - 2026-05-26 — Polaris University 1.6: Revelations

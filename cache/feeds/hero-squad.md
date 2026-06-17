@@ -2,9 +2,9 @@
 
 - slug: `hero-squad`
 - source: `https://feed.podbean.com/stumpt/feed.xml`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"b9d8a43d7b16981b25899e156c5fcb19"`
+- fetched_at: `2026-06-17T05:19:02+00:00`
+- checked_at: `2026-06-17T05:19:02+00:00`
+- etag: `"08910c85cde188ff200a56e55840cc2b"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://stumpt.podbean.com",
   "description": "It's time for Hero Squad! The Rollplaying/D&D podcast from the nerds at Stumpt. Listen in as our DM Price tries to lead Ash, Rik, Jasmine, and Aenne through epic adventures and scandalous situations.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/3867428/hero_squad_icon.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-06-17T05:19:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -36,9 +36,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66658682",
       "itunes_duration": "4162",
-      "speakers": [
-        "Epidemic Sound Find"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "temple"
@@ -55,9 +53,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81161866",
       "itunes_duration": "5068",
-      "speakers": [
-        "Epidemic Sound Find"
-      ],
+      "speakers": [],
       "topics": [
         "thing"
       ]
@@ -73,9 +69,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76729409",
       "itunes_duration": "4791",
-      "speakers": [
-        "Epidemic Sound Find"
-      ],
+      "speakers": [],
       "topics": [
         "bone",
         "lord"
@@ -92,9 +86,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86403910",
       "itunes_duration": "5396",
-      "speakers": [
-        "Epidemic Sound Find"
-      ],
+      "speakers": [],
       "topics": [
         "tripping",
         "shrooms"
@@ -111,9 +103,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54905670",
       "itunes_duration": "3427",
-      "speakers": [
-        "Epidemic Sound Find"
-      ],
+      "speakers": [],
       "topics": [
         "golden",
         "waters"
@@ -130,9 +120,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48048632",
       "itunes_duration": "2998",
-      "speakers": [
-        "Epidemic Sound Find"
-      ],
+      "speakers": [],
       "topics": [
         "underdark"
       ]
@@ -149,8 +137,7 @@
       "enclosure_length": "48797615",
       "itunes_duration": "3045",
       "speakers": [
-        "Wine Town",
-        "Epidemic Sound Find"
+        "Wine Town"
       ],
       "topics": [
         "welcome",
@@ -169,9 +156,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "130689193",
       "itunes_duration": "8163",
-      "speakers": [
-        "Epidemic Sound Find"
-      ],
+      "speakers": [],
       "topics": [
         "spiders"
       ]
@@ -187,9 +172,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84105135",
       "itunes_duration": "5252",
-      "speakers": [
-        "Epidemic Sound Find"
-      ],
+      "speakers": [],
       "topics": [
         "modify",
         "memory"
@@ -206,9 +189,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111146258",
       "itunes_duration": "6942",
-      "speakers": [
-        "Epidemic Sound Find"
-      ],
+      "speakers": [],
       "topics": [
         "temple",
         "caves"
@@ -225,9 +206,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83667531",
       "itunes_duration": "5225",
-      "speakers": [
-        "Epidemic Sound Find"
-      ],
+      "speakers": [],
       "topics": [
         "friends",
         "funerals"
@@ -244,9 +223,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108423254",
       "itunes_duration": "6772",
-      "speakers": [
-        "Epidemic Sound Find"
-      ],
+      "speakers": [],
       "topics": [
         "undead",
         "molasses",
@@ -265,8 +242,7 @@
       "enclosure_length": "64535032",
       "itunes_duration": "4029",
       "speakers": [
-        "Corvin Christina",
-        "Epidemic Sound Find"
+        "Corvin Christina"
       ],
       "topics": [
         "cherry",
@@ -284,9 +260,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116149647",
       "itunes_duration": "7255",
-      "speakers": [
-        "Epidemic Sound Find"
-      ],
+      "speakers": [],
       "topics": [
         "hello",
         "frog",
@@ -305,7 +279,7 @@
       "enclosure_length": "70669001",
       "itunes_duration": "4412",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "hero",
@@ -324,7 +298,7 @@
       "enclosure_length": "66245739",
       "itunes_duration": "4136",
       "speakers": [
-        "Jasmine Christina"
+        "Celestia Hero Squad"
       ],
       "topics": [
         "road",
@@ -343,7 +317,7 @@
       "enclosure_length": "78565921",
       "itunes_duration": "4906",
       "speakers": [
-        "Jasmine Christina"
+        "Star Filled Night Hero"
       ],
       "topics": [
         "star",
@@ -363,7 +337,7 @@
       "enclosure_length": "48183215",
       "itunes_duration": "3007",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "book"
@@ -381,8 +355,7 @@
       "enclosure_length": "58282780",
       "itunes_duration": "3638",
       "speakers": [
-        "Sora Ketra",
-        "Jasmine Christina"
+        "Sora Ketra"
       ],
       "topics": [
         "sora",
@@ -401,7 +374,7 @@
       "enclosure_length": "60880397",
       "itunes_duration": "3800",
       "speakers": [
-        "Jasmine Christina"
+        "Foot Fiesta Hero Squad"
       ],
       "topics": [
         "rager",
@@ -421,7 +394,7 @@
       "enclosure_length": "67354166",
       "itunes_duration": "4205",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "ramble",
@@ -440,7 +413,7 @@
       "enclosure_length": "54890624",
       "itunes_duration": "3426",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "ramble",
@@ -459,7 +432,7 @@
       "enclosure_length": "57487822",
       "itunes_duration": "3588",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "cragslemania",
@@ -478,7 +451,7 @@
       "enclosure_length": "63859610",
       "itunes_duration": "3987",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "shopping",
@@ -497,7 +470,7 @@
       "enclosure_length": "62672188",
       "itunes_duration": "3912",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "cragslemania"
@@ -515,7 +488,7 @@
       "enclosure_length": "67843597",
       "itunes_duration": "4236",
       "speakers": [
-        "Jasmine Christina"
+        "Crag Hero Squad"
       ],
       "topics": [
         "road",
@@ -534,7 +507,7 @@
       "enclosure_length": "85173020",
       "itunes_duration": "5319",
       "speakers": [
-        "Jasmine Christina"
+        "Line Hero Squad"
       ],
       "topics": [
         "line"
@@ -552,7 +525,7 @@
       "enclosure_length": "49430823",
       "itunes_duration": "3085",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "point",
@@ -571,7 +544,8 @@
       "enclosure_length": "84890062",
       "itunes_duration": "5301",
       "speakers": [
-        "Jasmine Christina"
+        "Up Hot Gossup",
+        "Hero Squad"
       ],
       "topics": [
         "dishin",
@@ -590,7 +564,7 @@
       "enclosure_length": "62620779",
       "itunes_duration": "3909",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "interrogation"
@@ -608,7 +582,7 @@
       "enclosure_length": "64684243",
       "itunes_duration": "4038",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "magic"
@@ -626,7 +600,7 @@
       "enclosure_length": "62555159",
       "itunes_duration": "3905",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "truth"
@@ -644,7 +618,9 @@
       "enclosure_length": "44169135",
       "itunes_duration": "2756",
       "speakers": [
-        "Jasmine Christina"
+        "Good Cop",
+        "Bad Cop",
+        "Hero Squad"
       ],
       "topics": [
         "good"
@@ -662,7 +638,8 @@
       "enclosure_length": "36680142",
       "itunes_duration": "2288",
       "speakers": [
-        "Jasmine Christina"
+        "Eberron Express",
+        "Hero Squad"
       ],
       "topics": [
         "murder",
@@ -682,7 +659,7 @@
       "enclosure_length": "53976965",
       "itunes_duration": "3369",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "snails"
@@ -700,7 +677,8 @@
       "enclosure_length": "49870934",
       "itunes_duration": "3112",
       "speakers": [
-        "Jasmine Christina"
+        "When Bards Go Bad",
+        "Hero Squad"
       ],
       "topics": [
         "bard"
@@ -718,7 +696,7 @@
       "enclosure_length": "40246170",
       "itunes_duration": "2511",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "life",
@@ -737,7 +715,8 @@
       "enclosure_length": "43572289",
       "itunes_duration": "2719",
       "speakers": [
-        "Jasmine Christina"
+        "Bath Time",
+        "Hero Squad"
       ],
       "topics": [
         "bath",
@@ -756,7 +735,8 @@
       "enclosure_length": "50256292",
       "itunes_duration": "3136",
       "speakers": [
-        "Jasmine Christina"
+        "Conspiracy Time",
+        "Hero Squad"
       ],
       "topics": [
         "conspiracy",
@@ -775,7 +755,7 @@
       "enclosure_length": "73610179",
       "itunes_duration": "4596",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "battle",
@@ -794,7 +774,7 @@
       "enclosure_length": "48999489",
       "itunes_duration": "3058",
       "speakers": [
-        "Jasmine Christina"
+        "Dreams Hero Squad"
       ],
       "topics": [
         "plane",
@@ -813,7 +793,8 @@
       "enclosure_length": "41918006",
       "itunes_duration": "2615",
       "speakers": [
-        "Jasmine Christina"
+        "Season Finale",
+        "Hero Squad"
       ],
       "topics": [
         "mystery",
@@ -834,7 +815,7 @@
       "enclosure_length": "46397275",
       "itunes_duration": "2895",
       "speakers": [
-        "Jasmine Christina"
+        "Ride Hero Squad"
       ],
       "topics": [
         "ride"
@@ -852,7 +833,7 @@
       "enclosure_length": "29070777",
       "itunes_duration": "1812",
       "speakers": [
-        "Jasmine Christina"
+        "Secret Hero Squad"
       ],
       "topics": [
         "yato",
@@ -871,7 +852,8 @@
       "enclosure_length": "35322610",
       "itunes_duration": "2203",
       "speakers": [
-        "Jasmine Christina"
+        "Magical Deal",
+        "Hero Squad"
       ],
       "topics": [
         "magical",
@@ -890,7 +872,8 @@
       "enclosure_length": "50138846",
       "itunes_duration": "3129",
       "speakers": [
-        "Jasmine Christina"
+        "Super Street Fighters",
+        "Hero Squad"
       ],
       "topics": [
         "super",
@@ -910,7 +893,7 @@
       "enclosure_length": "44153670",
       "itunes_duration": "2755",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "gang",
@@ -929,7 +912,7 @@
       "enclosure_length": "39072122",
       "itunes_duration": "2437",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "welcome",
@@ -948,7 +931,7 @@
       "enclosure_length": "39416103",
       "itunes_duration": "2459",
       "speakers": [
-        "Jasmine Christina"
+        "Speaking My Language Hero"
       ],
       "topics": [
         "language"
@@ -966,7 +949,7 @@
       "enclosure_length": "48743280",
       "itunes_duration": "3042",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "great",
@@ -986,7 +969,7 @@
       "enclosure_length": "47098193",
       "itunes_duration": "2939",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "great",
@@ -1006,7 +989,7 @@
       "enclosure_length": "42185918",
       "itunes_duration": "2632",
       "speakers": [
-        "Jasmine Christina"
+        "Dino Hunter Hero Squad"
       ],
       "topics": [
         "rager",
@@ -1026,7 +1009,9 @@
       "enclosure_length": "40382006",
       "itunes_duration": "2519",
       "speakers": [
-        "Jasmine Christina"
+        "Hot Dang",
+        "Hot Spring",
+        "Hero Squad"
       ],
       "topics": [
         "dang",
@@ -1045,7 +1030,7 @@
       "enclosure_length": "40034264",
       "itunes_duration": "2498",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "time"
@@ -1063,7 +1048,7 @@
       "enclosure_length": "39215900",
       "itunes_duration": "2446",
       "speakers": [
-        "Jasmine Christina"
+        "Secrets Hero Squad"
       ],
       "topics": [
         "book",
@@ -1081,9 +1066,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39820269",
       "itunes_duration": "2484",
-      "speakers": [
-        "Jasmine Christina"
-      ],
+      "speakers": [],
       "topics": [
         "blinking",
         "tower"
@@ -1101,7 +1084,8 @@
       "enclosure_length": "39888815",
       "itunes_duration": "2488",
       "speakers": [
-        "Jasmine Christina"
+        "Go Now",
+        "Hero Squad"
       ],
       "topics": []
     },
@@ -1117,7 +1101,8 @@
       "enclosure_length": "35727613",
       "itunes_duration": "2228",
       "speakers": [
-        "Jasmine Christina"
+        "Bone Fort",
+        "Hero Squad"
       ],
       "topics": [
         "welcome",
@@ -1137,7 +1122,7 @@
       "enclosure_length": "38723962",
       "itunes_duration": "2416",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "sudden",
@@ -1156,7 +1141,8 @@
       "enclosure_length": "75895162",
       "itunes_duration": "4739",
       "speakers": [
-        "Jasmine Christina"
+        "Airborne Assault",
+        "Hero Squad"
       ],
       "topics": [
         "airborne",
@@ -1175,7 +1161,7 @@
       "enclosure_length": "45055626",
       "itunes_duration": "2811",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": []
     },
@@ -1190,9 +1176,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52101164",
       "itunes_duration": "3252",
-      "speakers": [
-        "Jasmine Christina"
-      ],
+      "speakers": [],
       "topics": [
         "aftermath"
       ]
@@ -1209,7 +1193,7 @@
       "enclosure_length": "60788864",
       "itunes_duration": "3795",
       "speakers": [
-        "Jasmine Christina"
+        "Beginning Hero Squad"
       ],
       "topics": [
         "beginning"
@@ -1227,7 +1211,7 @@
       "enclosure_length": "63310829",
       "itunes_duration": "3952",
       "speakers": [
-        "Jasmine Christina"
+        "Whispers Hero Squad"
       ],
       "topics": [
         "lair",
@@ -1246,7 +1230,7 @@
       "enclosure_length": "99087299",
       "itunes_duration": "6188",
       "speakers": [
-        "Jasmine Christina"
+        "Rock Hero Squad"
       ],
       "topics": [
         "battle",
@@ -1265,7 +1249,7 @@
       "enclosure_length": "57673814",
       "itunes_duration": "3600",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "whispering",
@@ -1284,7 +1268,8 @@
       "enclosure_length": "58842428",
       "itunes_duration": "3673",
       "speakers": [
-        "Jasmine Christina"
+        "All Began",
+        "Hero Squad"
       ],
       "topics": [
         "began"
@@ -1302,7 +1287,7 @@
       "enclosure_length": "55134294",
       "itunes_duration": "3441",
       "speakers": [
-        "Jasmine Christina"
+        "Backstage Pass Hero Squad"
       ],
       "topics": [
         "backstage",
@@ -1321,7 +1306,8 @@
       "enclosure_length": "52721833",
       "itunes_duration": "3291",
       "speakers": [
-        "Jasmine Christina"
+        "Killer Performance",
+        "Hero Squad"
       ],
       "topics": [
         "phiarlan",
@@ -1341,7 +1327,8 @@
       "enclosure_length": "60092961",
       "itunes_duration": "3751",
       "speakers": [
-        "Jasmine Christina"
+        "Rescue Failhaven",
+        "Hero Squad"
       ],
       "topics": [
         "operation",
@@ -1361,7 +1348,8 @@
       "enclosure_length": "75997562",
       "itunes_duration": "4745",
       "speakers": [
-        "Jasmine Christina"
+        "Dirty Kids Down Under",
+        "Hero Squad"
       ],
       "topics": []
     },
@@ -1377,7 +1365,7 @@
       "enclosure_length": "45851002",
       "itunes_duration": "2861",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "grod",
@@ -1396,9 +1384,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59196857",
       "itunes_duration": "3695",
-      "speakers": [
-        "Jasmine Christina"
-      ],
+      "speakers": [],
       "topics": [
         "bang"
       ]
@@ -1415,7 +1401,7 @@
       "enclosure_length": "62224553",
       "itunes_duration": "3884",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "conspiracy",
@@ -1434,7 +1420,8 @@
       "enclosure_length": "54469321",
       "itunes_duration": "3400",
       "speakers": [
-        "Jasmine Christina"
+        "Heroes Night Out",
+        "Hero Squad"
       ],
       "topics": [
         "heroes",
@@ -1453,7 +1440,7 @@
       "enclosure_length": "48380491",
       "itunes_duration": "3019",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "welcome",
@@ -1472,7 +1459,8 @@
       "enclosure_length": "36406797",
       "itunes_duration": "2271",
       "speakers": [
-        "Jasmine Christina"
+        "Family Meeting",
+        "Hero Squad"
       ],
       "topics": [
         "family",
@@ -1491,7 +1479,7 @@
       "enclosure_length": "57745703",
       "itunes_duration": "3605",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "heroes",
@@ -1510,7 +1498,7 @@
       "enclosure_length": "49151208",
       "itunes_duration": "3067",
       "speakers": [
-        "Jasmine Christina"
+        "Fresh Air Hero Squad"
       ],
       "topics": [
         "breath",
@@ -1529,7 +1517,7 @@
       "enclosure_length": "61182581",
       "itunes_duration": "3819",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "secrets",
@@ -1548,7 +1536,7 @@
       "enclosure_length": "54387401",
       "itunes_duration": "3395",
       "speakers": [
-        "Jasmine Christina"
+        "Wetter Hero Squad"
       ],
       "topics": [
         "wetter"
@@ -1566,7 +1554,7 @@
       "enclosure_length": "71939179",
       "itunes_duration": "4492",
       "speakers": [
-        "Jasmine Christina"
+        "Very Fishy Situation Hero"
       ],
       "topics": [
         "fishy",
@@ -1585,7 +1573,7 @@
       "enclosure_length": "53481683",
       "itunes_duration": "3338",
       "speakers": [
-        "Jasmine Christina"
+        "Fish Hero Squad"
       ],
       "topics": [
         "company",
@@ -1604,7 +1592,7 @@
       "enclosure_length": "70538597",
       "itunes_duration": "4404",
       "speakers": [
-        "Jasmine Christina"
+        "Striaght Outta Stormhome Hero"
       ],
       "topics": [
         "striaght",
@@ -1624,7 +1612,7 @@
       "enclosure_length": "45571388",
       "itunes_duration": "2844",
       "speakers": [
-        "Jasmine Christina"
+        "Answers Hero Squad"
       ],
       "topics": [
         "answer"
@@ -1641,9 +1629,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63623463",
       "itunes_duration": "3972",
-      "speakers": [
-        "Jasmine Christina"
-      ],
+      "speakers": [],
       "topics": [
         "actions",
         "consequence"
@@ -1661,7 +1647,8 @@
       "enclosure_length": "45696357",
       "itunes_duration": "2851",
       "speakers": [
-        "Jasmine Christina"
+        "Rager Learns",
+        "Bathe Hero Squad"
       ],
       "topics": [
         "rager",
@@ -1680,7 +1667,7 @@
       "enclosure_length": "66806640",
       "itunes_duration": "4171",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "circus"
@@ -1698,7 +1685,7 @@
       "enclosure_length": "51621347",
       "itunes_duration": "3222",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "town"
@@ -1716,7 +1703,7 @@
       "enclosure_length": "75763505",
       "itunes_duration": "4731",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "away",
@@ -1735,7 +1722,8 @@
       "enclosure_length": "72625886",
       "itunes_duration": "4535",
       "speakers": [
-        "Jasmine Christina"
+        "Trouble Comes",
+        "Shifter Town Hero Squad"
       ],
       "topics": [
         "trouble",
@@ -1755,7 +1743,8 @@
       "enclosure_length": "69482833",
       "itunes_duration": "4338",
       "speakers": [
-        "Jasmine Christina"
+        "Covert Claw Camp Concert",
+        "Hero Squad"
       ],
       "topics": [
         "covert",
@@ -1776,7 +1765,7 @@
       "enclosure_length": "58151959",
       "itunes_duration": "3630",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "shifter"
@@ -1794,7 +1783,7 @@
       "enclosure_length": "49819525",
       "itunes_duration": "3109",
       "speakers": [
-        "Jasmine Christina"
+        "Hero Squad"
       ],
       "topics": [
         "badgers",
@@ -1813,7 +1802,7 @@
       "enclosure_length": "49827048",
       "itunes_duration": "3110",
       "speakers": [
-        "Jasmine Christina"
+        "Small Town Mystery Hero"
       ],
       "topics": [
         "small",
@@ -1833,7 +1822,7 @@
       "enclosure_length": "89942979",
       "itunes_duration": "3744",
       "speakers": [
-        "Jasmine Christina"
+        "Line Hero Squad"
       ],
       "topics": [
         "line"
@@ -1851,7 +1840,8 @@
       "enclosure_length": "69500594",
       "itunes_duration": "2895",
       "speakers": [
-        "Jasmine Christina"
+        "Train Welcome",
+        "Hero Squad"
       ],
       "topics": [
         "stranger",
@@ -1865,100 +1855,100 @@
 
 ## Episodes (newest first)
 
-- 2022-08-19 — S4 - Ep. 14 - The Blood Temple — speakers: Epidemic Sound Find
-- 2022-08-19 — S4 - Ep. 13 - Things Get Bloody — speakers: Epidemic Sound Find
-- 2022-08-05 — S4 - Ep. 12 - Bone Lord? — speakers: Epidemic Sound Find
-- 2022-07-29 — S4 - Ep. 11 - Tripping on Shrooms! — speakers: Epidemic Sound Find
-- 2022-06-24 — S4 - Ep. 10 - The Golden Waters — speakers: Epidemic Sound Find
-- 2022-06-17 — S4 - Ep. 9 - To The Underdark! — speakers: Epidemic Sound Find
-- 2022-06-10 — S4 - Ep. 8 - Welcome to Wine Town! — speakers: Wine Town, Epidemic Sound Find
-- 2022-06-03 — S4 - Ep. 7 - Too Many Spiders! — speakers: Epidemic Sound Find
-- 2022-05-20 — S4 - Ep. 6 - Modify Memory — speakers: Epidemic Sound Find
-- 2022-05-13 — S4 - Ep. 5 - The Temple Caves — speakers: Epidemic Sound Find
-- 2022-04-22 — S4 - Ep. 4 - Friends & Funerals — speakers: Epidemic Sound Find
-- 2022-04-15 — S4 - Ep. 3 - Undead Molasses Fight! — speakers: Epidemic Sound Find
-- 2022-04-08 — S4 - Ep. 2 - Cherry and Corvin — speakers: Corvin Christina, Epidemic Sound Find
-- 2022-04-01 — S4 - Ep. 1 - Hello Frog Child! — speakers: Epidemic Sound Find
-- 2021-05-28 — S3 - Ep. 27 - A Hero's Sacrifice [FINALE] — speakers: Jasmine Christina
-- 2021-05-21 — S3 - Ep. 26 - The Road to Celestia — speakers: Jasmine Christina
-- 2021-05-14 — S3 - Ep. 25 - A Star Filled Night — speakers: Jasmine Christina
-- 2021-05-07 — S3 - Ep. 24 - We Take Your Books!! — speakers: Jasmine Christina
-- 2021-04-02 — S3 - Ep. 23 - Seeking Sora Ketra — speakers: Sora Ketra, Jasmine Christina
-- 2021-03-26 — S3 - Ep. 22 - Rager's Foot Fiesta — speakers: Jasmine Christina
-- 2021-03-12 — S3 - Ep. 21 - The Ramble Scramble: Part 2! — speakers: Jasmine Christina
-- 2021-03-05 — S3 - Ep. 20 - The Ramble Scramble: Part 1! — speakers: Jasmine Christina
-- 2021-02-26 — S3 - Ep. 19 - CragsleMania Begins! — speakers: Jasmine Christina
-- 2021-02-19 — S3 - Ep. 18 - Shopping for the Showdown! — speakers: Jasmine Christina
-- 2021-02-12 — S3 - Ep. 17 - What is CragsleMania? — speakers: Jasmine Christina
-- 2021-02-05 — S3 - Ep. 16 - The Road to the Crag — speakers: Jasmine Christina
-- 2021-01-29 — S3 - Ep. 15 - End of the Line — speakers: Jasmine Christina
-- 2021-01-22 — S3 - Ep. 14 - Point The Finger! — speakers: Jasmine Christina
-- 2021-01-02 — S3 - Ep. 13 - Dishin' Up Hot Gossup! — speakers: Jasmine Christina
-- 2020-12-25 — S3 - Ep. 12 - The Art of Interrogation! — speakers: Jasmine Christina
-- 2020-11-28 — S3 - Ep. 11 - The Magic Eye! — speakers: Jasmine Christina
-- 2020-11-20 — S3 - Ep. 10 - Nothing But The Truth! — speakers: Jasmine Christina
-- 2020-11-13 — S3 - Ep. 09 - Good Cop, Bad Cop! — speakers: Jasmine Christina
-- 2020-11-06 — S3 - Ep. 08 - Murder on the Eberron Express! — speakers: Jasmine Christina
-- 2020-10-30 — S3 - Ep. 07 - Bet it on the Snails! — speakers: Jasmine Christina
-- 2020-10-23 — S3 - Ep. 06 - When Bards Go Bad! — speakers: Jasmine Christina
-- 2020-10-17 — S3 - Ep. 05 - Life on the Rails! — speakers: Jasmine Christina
-- 2020-09-25 — S3 - Ep. 04 - It's Bath Time! — speakers: Jasmine Christina
-- 2020-09-18 — S3 - Ep. 03 - Conspiracy Time! — speakers: Jasmine Christina
-- 2020-09-11 — S3 - Ep. 02 - Battle of the Muck! — speakers: Jasmine Christina
-- 2020-09-04 — S3 - Ep. 01 - The Plane of Dreams — speakers: Jasmine Christina
-- 2020-04-03 — S2 - Ep. 21 - Mysteries in the Mirrors (Season Finale) — speakers: Jasmine Christina
-- 2020-03-27 — S2 - Ep. 20 - Hitching a Ride — speakers: Jasmine Christina
-- 2020-03-20 — S2 - Ep. 19 - Yato's Secret — speakers: Jasmine Christina
-- 2020-03-13 — S2 - Ep. 18 - Let's Make a Magical Deal! — speakers: Jasmine Christina
-- 2020-03-06 — S2 - Ep. 17 - Super Street Fighters! — speakers: Jasmine Christina
-- 2020-02-28 — S2 - Ep. 16 - The Gang Splits Up! — speakers: Jasmine Christina
-- 2020-02-21 — S2 - Ep. 15 - Welcome to Wormwatch! — speakers: Jasmine Christina
-- 2020-02-14 — S2 - Ep. 14 - Now You're Speaking My Language — speakers: Jasmine Christina
-- 2020-02-07 — S2 - Ep. 13 - The Great Mirror Caper: Part 2 — speakers: Jasmine Christina
-- 2020-01-31 — S2 - Ep. 12 - The Great Mirror Caper: Part 1 — speakers: Jasmine Christina
-- 2020-01-24 — S2 - Ep. 11 - Rager: Dino Hunter — speakers: Jasmine Christina
-- 2020-01-17 — S2 - Ep. 10 - Hot Dang, a Hot Spring! — speakers: Jasmine Christina
-- 2020-01-10 — S2 - Ep. 9 - Time to Leave! — speakers: Jasmine Christina
-- 2020-01-03 — S2 - Ep. 8 - Book of Secrets — speakers: Jasmine Christina
-- 2019-12-27 — S2 - Ep. 7 - The Blinking Tower — speakers: Jasmine Christina
-- 2019-12-20 — S2 - Ep. 6 - Should I Fey or Should I Go Now? — speakers: Jasmine Christina
-- 2019-12-20 — S2 - Ep. 5 - Welcome to the Bone Fort! — speakers: Jasmine Christina
-- 2019-12-06 — S2 - Ep. 4 - The Sudden Tower! — speakers: Jasmine Christina
-- 2019-11-29 — S2 - Ep. 3 - Airborne Assault! — speakers: Jasmine Christina
-- 2019-11-22 — S2 - Ep. 2 - Up In The Air — speakers: Jasmine Christina
-- 2019-11-15 — S2 - Ep. 1 - The Aftermath — speakers: Jasmine Christina
-- 2019-07-26 — Ep. 35 - The End of the Beginning — speakers: Jasmine Christina
-- 2019-07-19 — Ep. 34 - The Lair of Whispers — speakers: Jasmine Christina
-- 2019-07-12 — Ep. 33 - Battle of the Rock — speakers: Jasmine Christina
-- 2019-07-05 — Ep. 32 - To The Whispering Rock! — speakers: Jasmine Christina
-- 2019-06-28 — Ep. 31 - Back to Where it All Began! — speakers: Jasmine Christina
-- 2019-06-21 — Ep. 30 - Backstage Pass — speakers: Jasmine Christina
-- 2019-06-14 — Ep. 29 - Phiarlan's Killer Performance! — speakers: Jasmine Christina
-- 2019-06-07 — Ep. 28 - Operation: Rescue Failhaven! — speakers: Jasmine Christina
-- 2019-05-31 — Ep. 27 - Dirty Kids Down Under — speakers: Jasmine Christina
-- 2019-05-24 — Ep. 26 - Grod Save The Queen! — speakers: Jasmine Christina
-- 2019-05-17 — Ep. 25 - Going Out With A Bang! — speakers: Jasmine Christina
-- 2019-05-10 — Ep. 24 - Conspiracies Are Afoot! — speakers: Jasmine Christina
-- 2019-05-03 — Ep. 23 - Heroes Night Out! — speakers: Jasmine Christina
-- 2019-04-26 — Ep. 22 - Welcome to Fairhaven! — speakers: Jasmine Christina
-- 2019-04-19 — Ep. 21 - Family Meeting! — speakers: Jasmine Christina
-- 2019-04-05 — Ep. 20 - Heroes in Disguise! — speakers: Jasmine Christina
-- 2019-03-29 — Ep. 19 - Breath of Fresh Air — speakers: Jasmine Christina
-- 2019-03-22 — Ep. 18 - Secrets of the Brine! — speakers: Jasmine Christina
-- 2019-03-15 — Ep. 17 - Down Where It's Wetter — speakers: Jasmine Christina
-- 2019-03-08 — Ep. 16 - A Very Fishy Situation — speakers: Jasmine Christina
-- 2019-03-02 — Ep. 15 - In the Company of Fish — speakers: Jasmine Christina
-- 2019-02-22 — Ep. 14 - Striaght Outta Stormhome — speakers: Jasmine Christina
-- 2019-02-15 — Ep. 13 - Searching for Answers — speakers: Jasmine Christina
-- 2019-02-08 — Ep. 12 - Actions Have Consequences — speakers: Jasmine Christina
-- 2019-02-01 — Ep. 11 - Rager Learns to Bathe — speakers: Jasmine Christina
-- 2019-01-25 — Ep. 10 - Circus, Circus! — speakers: Jasmine Christina
-- 2019-01-18 — Ep. 9 - Let's Hit the Town! — speakers: Jasmine Christina
-- 2019-01-11 — Ep. 8 - Away To Stormhome! — speakers: Jasmine Christina
-- 2019-01-04 — Ep. 7 - Trouble Comes to Shifter Town — speakers: Jasmine Christina
-- 2018-12-28 — Ep. 6 - Covert Claw Camp Concert! — speakers: Jasmine Christina
-- 2018-12-21 — Ep. 5 - Shifter? I Hardly Knew Her! — speakers: Jasmine Christina
-- 2018-12-14 — Ep. 4 - Badgers! Badgers! Badgers! — speakers: Jasmine Christina
-- 2018-12-07 — Ep. 3 - Small Town Mystery — speakers: Jasmine Christina
-- 2018-11-30 — Ep. 2 - End of the Line — speakers: Jasmine Christina
-- 2018-11-23 — Ep. 1 - Strangers on a Train — speakers: Jasmine Christina
+- 2022-08-19 — S4 - Ep. 14 - The Blood Temple
+- 2022-08-19 — S4 - Ep. 13 - Things Get Bloody
+- 2022-08-05 — S4 - Ep. 12 - Bone Lord?
+- 2022-07-29 — S4 - Ep. 11 - Tripping on Shrooms!
+- 2022-06-24 — S4 - Ep. 10 - The Golden Waters
+- 2022-06-17 — S4 - Ep. 9 - To The Underdark!
+- 2022-06-10 — S4 - Ep. 8 - Welcome to Wine Town! — speakers: Wine Town
+- 2022-06-03 — S4 - Ep. 7 - Too Many Spiders!
+- 2022-05-20 — S4 - Ep. 6 - Modify Memory
+- 2022-05-13 — S4 - Ep. 5 - The Temple Caves
+- 2022-04-22 — S4 - Ep. 4 - Friends & Funerals
+- 2022-04-15 — S4 - Ep. 3 - Undead Molasses Fight!
+- 2022-04-08 — S4 - Ep. 2 - Cherry and Corvin — speakers: Corvin Christina
+- 2022-04-01 — S4 - Ep. 1 - Hello Frog Child!
+- 2021-05-28 — S3 - Ep. 27 - A Hero's Sacrifice [FINALE] — speakers: Hero Squad
+- 2021-05-21 — S3 - Ep. 26 - The Road to Celestia — speakers: Celestia Hero Squad
+- 2021-05-14 — S3 - Ep. 25 - A Star Filled Night — speakers: Star Filled Night Hero
+- 2021-05-07 — S3 - Ep. 24 - We Take Your Books!! — speakers: Hero Squad
+- 2021-04-02 — S3 - Ep. 23 - Seeking Sora Ketra — speakers: Sora Ketra
+- 2021-03-26 — S3 - Ep. 22 - Rager's Foot Fiesta — speakers: Foot Fiesta Hero Squad
+- 2021-03-12 — S3 - Ep. 21 - The Ramble Scramble: Part 2! — speakers: Hero Squad
+- 2021-03-05 — S3 - Ep. 20 - The Ramble Scramble: Part 1! — speakers: Hero Squad
+- 2021-02-26 — S3 - Ep. 19 - CragsleMania Begins! — speakers: Hero Squad
+- 2021-02-19 — S3 - Ep. 18 - Shopping for the Showdown! — speakers: Hero Squad
+- 2021-02-12 — S3 - Ep. 17 - What is CragsleMania? — speakers: Hero Squad
+- 2021-02-05 — S3 - Ep. 16 - The Road to the Crag — speakers: Crag Hero Squad
+- 2021-01-29 — S3 - Ep. 15 - End of the Line — speakers: Line Hero Squad
+- 2021-01-22 — S3 - Ep. 14 - Point The Finger! — speakers: Hero Squad
+- 2021-01-02 — S3 - Ep. 13 - Dishin' Up Hot Gossup! — speakers: Up Hot Gossup, Hero Squad
+- 2020-12-25 — S3 - Ep. 12 - The Art of Interrogation! — speakers: Hero Squad
+- 2020-11-28 — S3 - Ep. 11 - The Magic Eye! — speakers: Hero Squad
+- 2020-11-20 — S3 - Ep. 10 - Nothing But The Truth! — speakers: Hero Squad
+- 2020-11-13 — S3 - Ep. 09 - Good Cop, Bad Cop! — speakers: Good Cop, Bad Cop, Hero Squad
+- 2020-11-06 — S3 - Ep. 08 - Murder on the Eberron Express! — speakers: Eberron Express, Hero Squad
+- 2020-10-30 — S3 - Ep. 07 - Bet it on the Snails! — speakers: Hero Squad
+- 2020-10-23 — S3 - Ep. 06 - When Bards Go Bad! — speakers: When Bards Go Bad, Hero Squad
+- 2020-10-17 — S3 - Ep. 05 - Life on the Rails! — speakers: Hero Squad
+- 2020-09-25 — S3 - Ep. 04 - It's Bath Time! — speakers: Bath Time, Hero Squad
+- 2020-09-18 — S3 - Ep. 03 - Conspiracy Time! — speakers: Conspiracy Time, Hero Squad
+- 2020-09-11 — S3 - Ep. 02 - Battle of the Muck! — speakers: Hero Squad
+- 2020-09-04 — S3 - Ep. 01 - The Plane of Dreams — speakers: Dreams Hero Squad
+- 2020-04-03 — S2 - Ep. 21 - Mysteries in the Mirrors (Season Finale) — speakers: Season Finale, Hero Squad
+- 2020-03-27 — S2 - Ep. 20 - Hitching a Ride — speakers: Ride Hero Squad
+- 2020-03-20 — S2 - Ep. 19 - Yato's Secret — speakers: Secret Hero Squad
+- 2020-03-13 — S2 - Ep. 18 - Let's Make a Magical Deal! — speakers: Magical Deal, Hero Squad
+- 2020-03-06 — S2 - Ep. 17 - Super Street Fighters! — speakers: Super Street Fighters, Hero Squad
+- 2020-02-28 — S2 - Ep. 16 - The Gang Splits Up! — speakers: Hero Squad
+- 2020-02-21 — S2 - Ep. 15 - Welcome to Wormwatch! — speakers: Hero Squad
+- 2020-02-14 — S2 - Ep. 14 - Now You're Speaking My Language — speakers: Speaking My Language Hero
+- 2020-02-07 — S2 - Ep. 13 - The Great Mirror Caper: Part 2 — speakers: Hero Squad
+- 2020-01-31 — S2 - Ep. 12 - The Great Mirror Caper: Part 1 — speakers: Hero Squad
+- 2020-01-24 — S2 - Ep. 11 - Rager: Dino Hunter — speakers: Dino Hunter Hero Squad
+- 2020-01-17 — S2 - Ep. 10 - Hot Dang, a Hot Spring! — speakers: Hot Dang, Hot Spring, Hero Squad
+- 2020-01-10 — S2 - Ep. 9 - Time to Leave! — speakers: Hero Squad
+- 2020-01-03 — S2 - Ep. 8 - Book of Secrets — speakers: Secrets Hero Squad
+- 2019-12-27 — S2 - Ep. 7 - The Blinking Tower
+- 2019-12-20 — S2 - Ep. 6 - Should I Fey or Should I Go Now? — speakers: Go Now, Hero Squad
+- 2019-12-20 — S2 - Ep. 5 - Welcome to the Bone Fort! — speakers: Bone Fort, Hero Squad
+- 2019-12-06 — S2 - Ep. 4 - The Sudden Tower! — speakers: Hero Squad
+- 2019-11-29 — S2 - Ep. 3 - Airborne Assault! — speakers: Airborne Assault, Hero Squad
+- 2019-11-22 — S2 - Ep. 2 - Up In The Air — speakers: Hero Squad
+- 2019-11-15 — S2 - Ep. 1 - The Aftermath
+- 2019-07-26 — Ep. 35 - The End of the Beginning — speakers: Beginning Hero Squad
+- 2019-07-19 — Ep. 34 - The Lair of Whispers — speakers: Whispers Hero Squad
+- 2019-07-12 — Ep. 33 - Battle of the Rock — speakers: Rock Hero Squad
+- 2019-07-05 — Ep. 32 - To The Whispering Rock! — speakers: Hero Squad
+- 2019-06-28 — Ep. 31 - Back to Where it All Began! — speakers: All Began, Hero Squad
+- 2019-06-21 — Ep. 30 - Backstage Pass — speakers: Backstage Pass Hero Squad
+- 2019-06-14 — Ep. 29 - Phiarlan's Killer Performance! — speakers: Killer Performance, Hero Squad
+- 2019-06-07 — Ep. 28 - Operation: Rescue Failhaven! — speakers: Rescue Failhaven, Hero Squad
+- 2019-05-31 — Ep. 27 - Dirty Kids Down Under — speakers: Dirty Kids Down Under, Hero Squad
+- 2019-05-24 — Ep. 26 - Grod Save The Queen! — speakers: Hero Squad
+- 2019-05-17 — Ep. 25 - Going Out With A Bang!
+- 2019-05-10 — Ep. 24 - Conspiracies Are Afoot! — speakers: Hero Squad
+- 2019-05-03 — Ep. 23 - Heroes Night Out! — speakers: Heroes Night Out, Hero Squad
+- 2019-04-26 — Ep. 22 - Welcome to Fairhaven! — speakers: Hero Squad
+- 2019-04-19 — Ep. 21 - Family Meeting! — speakers: Family Meeting, Hero Squad
+- 2019-04-05 — Ep. 20 - Heroes in Disguise! — speakers: Hero Squad
+- 2019-03-29 — Ep. 19 - Breath of Fresh Air — speakers: Fresh Air Hero Squad
+- 2019-03-22 — Ep. 18 - Secrets of the Brine! — speakers: Hero Squad
+- 2019-03-15 — Ep. 17 - Down Where It's Wetter — speakers: Wetter Hero Squad
+- 2019-03-08 — Ep. 16 - A Very Fishy Situation — speakers: Very Fishy Situation Hero
+- 2019-03-02 — Ep. 15 - In the Company of Fish — speakers: Fish Hero Squad
+- 2019-02-22 — Ep. 14 - Striaght Outta Stormhome — speakers: Striaght Outta Stormhome Hero
+- 2019-02-15 — Ep. 13 - Searching for Answers — speakers: Answers Hero Squad
+- 2019-02-08 — Ep. 12 - Actions Have Consequences
+- 2019-02-01 — Ep. 11 - Rager Learns to Bathe — speakers: Rager Learns, Bathe Hero Squad
+- 2019-01-25 — Ep. 10 - Circus, Circus! — speakers: Hero Squad
+- 2019-01-18 — Ep. 9 - Let's Hit the Town! — speakers: Hero Squad
+- 2019-01-11 — Ep. 8 - Away To Stormhome! — speakers: Hero Squad
+- 2019-01-04 — Ep. 7 - Trouble Comes to Shifter Town — speakers: Trouble Comes, Shifter Town Hero Squad
+- 2018-12-28 — Ep. 6 - Covert Claw Camp Concert! — speakers: Covert Claw Camp Concert, Hero Squad
+- 2018-12-21 — Ep. 5 - Shifter? I Hardly Knew Her! — speakers: Hero Squad
+- 2018-12-14 — Ep. 4 - Badgers! Badgers! Badgers! — speakers: Hero Squad
+- 2018-12-07 — Ep. 3 - Small Town Mystery — speakers: Small Town Mystery Hero
+- 2018-11-30 — Ep. 2 - End of the Line — speakers: Line Hero Squad
+- 2018-11-23 — Ep. 1 - Strangers on a Train — speakers: Train Welcome, Hero Squad
