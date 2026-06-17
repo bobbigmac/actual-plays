@@ -2,9 +2,9 @@
 
 - slug: `dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast`
 - source: `https://rss.art19.com/dumbgeons-and-dragons`
-- fetched_at: `2026-06-12T05:08:31+00:00`
-- checked_at: `2026-06-12T05:08:31+00:00`
-- last_modified: `Thu, 11 Jun 2026 23:30:00 GMT`
+- fetched_at: `2026-06-17T11:18:23+00:00`
+- checked_at: `2026-06-17T11:18:23+00:00`
+- last_modified: `Wed, 17 Jun 2026 07:00:07 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.dumbdragons.com/",
   "description": "Dumbgeons & Dragons is a funny, rules-light Dungeons & Dragons actual play podcast where friends tell epic stories full of heart, chaos, and ridiculous choices. Whether you’re new to D&D, just learning the ropes, or a longtime fan who loves a lighthearted adventure, you’ll feel right at home at our table. Campaign 2 (Seasons 3 & 4) begins in the gritty city of Vintersmouth—a place of secrets, schemes, and spontaneous street magic. This season is the perfect place to jump in, with a fresh cast of characters and a mystery that pulls them deep into a city on the edge. Start with Episode 301: Let’s Begin Again! Featuring fast-paced storytelling, character-driven arcs, improv comedy, and zero gatekeeping, Dumbgeons & Dragons is your cozy-but-chaotic fantasy fix. New episodes every Wednesday. Support the show and get bonus episodes at patreon.com/dumbdragoncast More info, recaps, and character bios at dumbdragons.com",
   "image_url": "https://content.production.cdn.art19.com/images/f3/8f/9a/30/f38f9a30-68d2-46ca-87f1-4261dbe574e5/dc447b9659ef194b4fefd29c9bde8d0344f5519fb86dfca67d4122b062044b0c6c10ebfc0dca39f8ec2ecc2b5d2894d6ae621c12620cea9f553a42508c664e65.jpeg",
-  "fetched_at": "2026-06-12T05:08:31+00:00",
+  "fetched_at": "2026-06-17T11:18:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -5960,7 +5960,7 @@
       "published_at": "2018-08-22T07:00:00+00:00",
       "link": "https://art19.com/shows/dumbgeons-and-dragons/episodes/97e08e16-cdc6-4c2c-bc29-826a043ebf3d",
       "description": "Continuing to sort out the maze at Xonthal's tower, the adventurers come across a beautiful botanical garden. But is it's beauty only at face value? Or is it something more sinister? Flint brings out his rod of lordly pruning. Thia suffers a real loss. Nulara tries out for the Olympic torch carrier. - - - - - - - - - - CAST & CREW DM: Russ More Players: Amy More, Carla Maxted, Tom Laird Sound Design: Russ More Music: Kevin McLeod , Scott Buckley Sound Effects: Syrinscape - - - - - - - - - - Find and support our sponsors at: fableandfolly.com/partners - - - - - - - - - - Support the podcast by joining our Patreon community and instantly access 50+ hours of bonus episodes. Visit Patreon.com/DumbDragonCast . Are you on DISCORD? Come hang out in our server! https://discord.gg/3Gbcms5 Join us in The Reckless Play Guild Facebook Group ! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
-      "image_url": "https://content.production.cdn.art19.com/images/b5/2e/6c/61/b52e6c61-b110-4218-aee0-8a36d7d4505d/92a390ca4a451ffcd57030f6a9734befc5f9db1c9af74d90b867f648d023af5c8980a732a95f3ea5d7f2668c528c538c6d87c6ffa80bbd2efdf922c36176fce4.jpeg",
+      "image_url": null,
       "enclosure_url": "https://swap.fm/track/WgbGgxzM3MFRwjmX5fnx/op3.dev/e/pscrb.fm/rss/p/rss.art19.com/episodes/97e08e16-cdc6-4c2c-bc29-826a043ebf3d.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61878021",
@@ -5998,7 +5998,7 @@
       "published_at": "2018-08-08T07:00:00+00:00",
       "link": "https://art19.com/shows/dumbgeons-and-dragons/episodes/e88c5d04-fb59-41a2-afba-0987ad98dee1",
       "description": "Having made their way to Xonthal's tower, Flint, Thia and Nulara find an escort to lead them to the Maze's entrance. Once inside, they find it's not all fun and games as Flint's past experiences at the fair have lead him to believe. Flint says \"How hard could this maze be?\". Thia throws a hissy fit. Nulara is tired of talking about this. - - - - - - - - - - CAST & CREW DM: Russ More Players: Amy More, Carla Maxted, Tom Laird Sound Design: Russ More Music: Kevin McLeod , Scott Buckley Sound Effects: Syrinscape - - - - - - - - - - Find and support our sponsors at: fableandfolly.com/partners - - - - - - - - - - Support the podcast by joining our Patreon community and instantly access 50+ hours of bonus episodes. Visit Patreon.com/DumbDragonCast . Are you on DISCORD? Come hang out in our server! https://discord.gg/3Gbcms5 Join us in The Reckless Play Guild Facebook Group ! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
-      "image_url": "https://content.production.cdn.art19.com/images/b5/2e/6c/61/b52e6c61-b110-4218-aee0-8a36d7d4505d/92a390ca4a451ffcd57030f6a9734befc5f9db1c9af74d90b867f648d023af5c8980a732a95f3ea5d7f2668c528c538c6d87c6ffa80bbd2efdf922c36176fce4.jpeg",
+      "image_url": null,
       "enclosure_url": "https://swap.fm/track/WgbGgxzM3MFRwjmX5fnx/op3.dev/e/pscrb.fm/rss/p/rss.art19.com/episodes/e88c5d04-fb59-41a2-afba-0987ad98dee1.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69867311",
@@ -6019,7 +6019,7 @@
       "published_at": "2018-08-01T07:00:00+00:00",
       "link": "https://art19.com/shows/dumbgeons-and-dragons/episodes/2788b8be-e51e-47c1-81e0-dacec0c1e6a6",
       "description": "The adventurer's try to find an airship heading south towards Xonthal's Tower. But what do they find on their way? It may be a dangerous route heading towards Cult territory. Flint gets a look-y-loo. Thia dreams up a force field. Nulara loves a good explanatory plaque. - - - - - - - - - - CAST & CREW DM: Russ More Players: Amy More, Carla Maxted, Tom Laird Sound Design: Russ More Music: Kevin McLeod . Sound Effects: Syrinscape - - - - - - - - - - Find and support our sponsors at: fableandfolly.com/partners - - - - - - - - - - Support the podcast by joining our Patreon community and instantly access 50+ hours of bonus episodes. Visit Patreon.com/DumbDragonCast . Are you on DISCORD? Come hang out in our server! https://discord.gg/3Gbcms5 Join us in The Reckless Play Guild Facebook Group ! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
-      "image_url": "https://content.production.cdn.art19.com/images/b5/2e/6c/61/b52e6c61-b110-4218-aee0-8a36d7d4505d/92a390ca4a451ffcd57030f6a9734befc5f9db1c9af74d90b867f648d023af5c8980a732a95f3ea5d7f2668c528c538c6d87c6ffa80bbd2efdf922c36176fce4.jpeg",
+      "image_url": null,
       "enclosure_url": "https://swap.fm/track/WgbGgxzM3MFRwjmX5fnx/op3.dev/e/pscrb.fm/rss/p/rss.art19.com/episodes/2788b8be-e51e-47c1-81e0-dacec0c1e6a6.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61239379",
