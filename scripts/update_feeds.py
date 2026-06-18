@@ -5,6 +5,7 @@ import html
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 import urllib.error
@@ -93,6 +94,23 @@ def _parse_args() -> argparse.Namespace:
         help="Only operate on a single feed slug (works with --sanitize-cache or fetching).",
     )
     p.add_argument("--quiet", action="store_true", help="Less logging (still prints errors).")
+    p.add_argument(
+        "--prioritize",
+        action="store_true",
+        help="Use feed-check-priority.mjs to pick which feeds to fetch this run.",
+    )
+    p.add_argument(
+        "--inactive-recheck-days",
+        type=int,
+        default=7,
+        help="Recheck inactive/low-priority feeds at least this often (default: 7).",
+    )
+    p.add_argument(
+        "--run-interval-hours",
+        type=int,
+        default=3,
+        help="Expected hours between scheduled update runs; used to spread stale-feed rechecks (default: 3).",
+    )
     return p.parse_args()
 
 
@@ -410,6 +428,156 @@ def _infer_last_checked_unix_from_cache(md_path: Path) -> int | None:
         return int(dt.timestamp())
     except Exception:
         return None
+
+
+def _feed_last_checked_unix(*, slug: str, per_feed_state: dict, feeds_md_dir: Path) -> int | None:
+    last_ts = per_feed_state.get("last_checked_unix")
+    if last_ts:
+        try:
+            return int(last_ts)
+        except Exception:
+            pass
+    return _infer_last_checked_unix_from_cache(feeds_md_dir / f"{slug}.md")
+
+
+def _build_priority_inputs(
+    *,
+    feeds: list[dict],
+    feeds_md_dir: Path,
+    state: dict,
+    min_hours_between_checks: int,
+    now_iso: str,
+) -> list[dict[str, Any]]:
+    inputs: list[dict[str, Any]] = []
+    for feed_cfg in feeds:
+        slug = str(feed_cfg.get("slug") or "").strip()
+        if not slug:
+            continue
+        per_feed_state = state["feeds"].get(slug, {})
+        md_path = feeds_md_dir / f"{slug}.md"
+        feed_json = _load_existing_feed_json(md_path) or {}
+        episodes = [
+            {"publishedAt": ep.get("published_at"), "title": ep.get("title")}
+            for ep in (feed_json.get("episodes") or [])
+            if ep.get("published_at")
+        ]
+        last_checked_at = per_feed_state.get("last_checked_at")
+        if not last_checked_at:
+            inferred = _feed_last_checked_unix(slug=slug, per_feed_state=per_feed_state, feeds_md_dir=feeds_md_dir)
+            if inferred:
+                last_checked_at = datetime.fromtimestamp(inferred, tz=timezone.utc).isoformat()
+        feed_min_hours = int(feed_cfg.get("min_hours_between_checks", min_hours_between_checks))
+        weight = feed_cfg.get("check_weight", feed_cfg.get("weight", 1))
+        try:
+            weight = float(weight)
+        except Exception:
+            weight = 1.0
+        inputs.append(
+            {
+                "id": slug,
+                "name": str(feed_cfg.get("title_override") or feed_cfg.get("title") or slug),
+                "episodes": episodes,
+                "lastCheckedAt": last_checked_at,
+                "now": now_iso,
+                "minCheckIntervalHours": feed_min_hours,
+                "weight": weight,
+            }
+        )
+    return inputs
+
+
+def _select_feeds_for_check(
+    *,
+    feeds: list[dict],
+    feeds_md_dir: Path,
+    state: dict,
+    min_hours_between_checks: int,
+    now_iso: str,
+    inactive_recheck_days: int,
+    run_interval_hours: int,
+    quiet: bool,
+) -> tuple[set[str], dict[str, dict[str, Any]]]:
+    script = REPO_ROOT / "scripts" / "feed-check-priority.mjs"
+    if not script.exists():
+        raise RuntimeError(f"Missing priority script: {script}")
+
+    priority_inputs = _build_priority_inputs(
+        feeds=feeds,
+        feeds_md_dir=feeds_md_dir,
+        state=state,
+        min_hours_between_checks=min_hours_between_checks,
+        now_iso=now_iso,
+    )
+    payload = {"feeds": priority_inputs, "options": {"includeAnalysis": False}}
+    proc = subprocess.run(
+        ["node", str(script), "rank"],
+        input=json.dumps(payload),
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    if proc.returncode != 0:
+        err = (proc.stderr or proc.stdout or "unknown error").strip()
+        raise RuntimeError(f"feed-check-priority failed: {err}")
+
+    ranked = json.loads(proc.stdout or "[]")
+    if not isinstance(ranked, list):
+        raise RuntimeError("feed-check-priority rank returned unexpected payload")
+
+    meta: dict[str, dict[str, Any]] = {}
+    tier_due: dict[str, list[str]] = {}
+    selected: set[str] = set()
+    for row in ranked:
+        slug = str(row.get("id") or "").strip()
+        if not slug:
+            continue
+        meta[slug] = row
+        tier = str(row.get("checkTier") or "skip")
+        if row.get("shouldCheckNow"):
+            selected.add(slug)
+            tier_due.setdefault(tier, []).append(slug)
+
+    stale_cutoff = int(time.time()) - max(1, int(inactive_recheck_days)) * 86400
+    stale_candidates: list[tuple[int, str]] = []
+    for feed_cfg in feeds:
+        slug = str(feed_cfg.get("slug") or "").strip()
+        if not slug or slug in selected:
+            continue
+        per_feed_state = state["feeds"].get(slug, {})
+        last_ts = _feed_last_checked_unix(slug=slug, per_feed_state=per_feed_state, feeds_md_dir=feeds_md_dir)
+        if last_ts is not None and last_ts < stale_cutoff:
+            stale_candidates.append((last_ts, slug))
+    stale_candidates.sort()
+
+    runs_in_window = max(1, (max(1, int(inactive_recheck_days)) * 24) // max(1, int(run_interval_hours)))
+    stale_budget = (
+        (len(stale_candidates) + runs_in_window - 1) // runs_in_window if stale_candidates else 0
+    )
+    stale_added = 0
+    for _last_ts, slug in stale_candidates[:stale_budget]:
+        selected.add(slug)
+        stale_added += 1
+        meta.setdefault(
+            slug,
+            {
+                "id": slug,
+                "checkTier": "stale",
+                "checkPriority": 0,
+                "reason": f"Stale recheck (>{inactive_recheck_days}d since last check).",
+            },
+        )
+
+    if not quiet:
+        total = len([f for f in feeds if f.get("slug")])
+        due_now = len(selected) - stale_added
+        tier_parts = [f"{tier}={len(slugs)}" for tier, slugs in sorted(tier_due.items())]
+        tier_summary = ", ".join(tier_parts) if tier_parts else "none due"
+        print(
+            f"[priority] checking {len(selected)}/{total} feeds "
+            f"(due-now={due_now}: {tier_summary}; "
+            f"stale={stale_added}/{len(stale_candidates)}, budget={stale_budget}/{runs_in_window} runs)"
+        )
+    return selected, meta
 
 
 def _norm_name_list(value) -> list[str]:
@@ -1313,6 +1481,24 @@ def main() -> int:
     jobs: list[_FeedJob] = []
     per_feed_state_by_slug: dict[str, dict] = {}
 
+    priority_selected: set[str] | None = None
+    priority_meta: dict[str, dict[str, Any]] = {}
+    if args.prioritize and not args.force:
+        try:
+            priority_selected, priority_meta = _select_feeds_for_check(
+                feeds=feeds,
+                feeds_md_dir=feeds_md_dir,
+                state=state,
+                min_hours_between_checks=min_hours_between_checks,
+                now_iso=now_iso,
+                inactive_recheck_days=args.inactive_recheck_days,
+                run_interval_hours=args.run_interval_hours,
+                quiet=args.quiet,
+            )
+        except Exception as e:
+            print(f"[error] Feed priority selection failed: {e}", file=sys.stderr)
+            return 2
+
     site_cfg = cfg.get("site") if isinstance(cfg.get("site"), dict) else {}
     site_exclude = _norm_name_list(site_cfg.get("exclude_speakers") or site_cfg.get("excludeSpeakers"))
 
@@ -1357,8 +1543,13 @@ def main() -> int:
                 per_feed_state.setdefault("last_checked_at", datetime.fromtimestamp(inferred, tz=timezone.utc).isoformat())
                 last_checked = per_feed_state.get("last_checked_at")
 
-        # Cooldown check.
-        if (not args.force) and last_checked:
+        if priority_selected is not None and slug not in priority_selected:
+            _log(f"[skip] {slug} (not selected this run)", quiet=args.quiet)
+            state["feeds"][slug] = per_feed_state
+            continue
+
+        # Cooldown check (skipped when priority selection already applied interval logic).
+        if (not args.force) and (not args.prioritize) and last_checked:
             try:
                 last_ts = int(per_feed_state.get("last_checked_unix", 0))
                 age_seconds = max(0, int(time.time()) - last_ts)

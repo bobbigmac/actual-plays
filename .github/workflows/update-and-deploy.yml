@@ -59,6 +59,11 @@ jobs:
           python -m pip install -r requirements.txt
           python -m spacy download en_core_web_sm
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
       - name: Restore cached state (cache branch)
         run: |
           set -euo pipefail
@@ -78,7 +83,7 @@ jobs:
           set -euo pipefail
           FEEDS="${AP_FEEDS:-feeds.md}"
           CACHE_DIR="${AP_CACHE:-cache}"
-          python -m scripts.update_feeds --feeds "$FEEDS" --cache "$CACHE_DIR" --quiet --concurrency 3
+          python -m scripts.update_feeds --feeds "$FEEDS" --cache "$CACHE_DIR" --quiet --concurrency 3 --prioritize
 
       - name: Build static site
         run: |
