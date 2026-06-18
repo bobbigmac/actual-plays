@@ -2,12 +2,10 @@
 
 - slug: `ballad-of-the-seven-dice-a-pathfinder-call-of-cthulhu-podcast`
 - source: `https://balladofthesevendice.podbean.com/feed.xml`
-- fetched_at: `2026-06-17T20:31:29+00:00`
-- checked_at: `2026-06-18T05:07:12+00:00`
-- etag: `"bd30f3d22ebcd836b54e965234999f49"`
+- fetched_at: `2026-06-18T10:49:17+00:00`
+- checked_at: `2026-06-18T10:49:17+00:00`
+- etag: `"265de144146f744d4d6dd1fb9a7c1ff6"`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: `HTTP 403` — Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -19,7 +17,7 @@
   "link": "https://balladofthesevendice.podbean.com",
   "description": "Our new campaign Escaping Carcosa follows two stories; one a Pathfinder2e tale that follows a group trapped inside a video game called Carcosa Online. The other group is a team of investigators playing Call of Cthulhu trying to free everyone trapped. Will they find freedom or will their world become another until Hastur’s control?",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/2696764/BOT7DPodcast_Resized_8cwkcf.jpg",
-  "fetched_at": "2026-06-17T20:31:29+00:00",
+  "fetched_at": "2026-06-18T10:49:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -4669,17 +4667,7 @@
         "chosen"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-06-18T05:07:12+00:00",
-    "status": "error",
-    "checked_at": "2026-06-18T05:07:12+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": 403,
-      "message": "Forbidden"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
