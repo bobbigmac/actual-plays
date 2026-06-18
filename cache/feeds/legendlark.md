@@ -2,10 +2,10 @@
 
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
-- fetched_at: `2026-06-18T15:55:30+00:00`
-- checked_at: `2026-06-18T15:55:30+00:00`
+- fetched_at: `2026-06-18T23:12:05+00:00`
+- checked_at: `2026-06-18T23:12:05+00:00`
 - etag: `W/"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ"`
-- last_modified: `Thu, 18 Jun 2026 15:13:43 GMT`
+- last_modified: `Thu, 18 Jun 2026 22:07:23 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss",
   "description": "..🚂🚃🚋🚃🚃🚋🚋🚋🚃...... A train pulls into the station. A circus raises its tents. Welcome, one and all, to NEVERNOWHERE— a place where your memories are currency, every dream is reality, and crime really does pay. LegendLark is a narrative comedy TTRPG podcast. Updates every 2nd Thursday! www.legendlark.com",
   "image_url": "https://megaphone.imgix.net/podcasts/38353ab8-2938-11f1-b716-1b70c557bb65/image/5002d6217f82605e3208708900cb0514.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-18T15:55:30+00:00",
+  "fetched_at": "2026-06-18T23:12:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "48b5674b2717760cfed9d43e6c8c6bed096a94f3",
+      "title": "NEVERNOWHERE 23. Bingo's Last Resort",
+      "published_at": "2026-06-18T22:00:00+00:00",
+      "link": null,
+      "description": "Friedrich and Valerian struggle to relate to and not chew on, respectively, their new friend. Bingo tells his tale. And we arrive at a port in a sea with no water at all. 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/76470660-6b23-11f1-b760-b3304cfcbe05/image/bb818648ace38c400caabe688378ee29.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR9725277804.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3031",
+      "speakers": [
+        "Last Resort Friedrich"
+      ],
+      "topics": [
+        "nevernowhere",
+        "bingo",
+        "resort"
+      ]
+    },
     {
       "key": "f30a92c8e2abb05e9be0b8c0f601500bda22e623",
       "title": "NEVERNOWHERE 22. Bingo!",
@@ -4105,6 +4125,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-18 — NEVERNOWHERE 23. Bingo's Last Resort — speakers: Last Resort Friedrich
 - 2026-06-05 — NEVERNOWHERE 22. Bingo!
 - 2026-05-22 — NEVERNOWHERE 21. 'We're Gonna Die' — speakers: Gonna Die, Oak Hollow Job
 - 2026-05-07 — NEVERNOWHERE 20. Adorably Escaping the Itty Bitty City — speakers: Adorably Escaping, Itty Bitty City Everything
