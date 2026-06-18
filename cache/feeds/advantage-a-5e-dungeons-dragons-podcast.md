@@ -3,8 +3,10 @@
 - slug: `advantage-a-5e-dungeons-dragons-podcast`
 - source: `https://feeds.soundcloud.com/users/soundcloud:users:251064485/sounds.rss`
 - fetched_at: `2026-06-17T22:53:47+00:00`
-- checked_at: `2026-06-17T22:53:47+00:00`
+- checked_at: `2026-06-18T05:07:12+00:00`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: `HTTP 403` — Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -3090,7 +3092,17 @@
         "beginning"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-06-18T05:07:12+00:00",
+    "status": "error",
+    "checked_at": "2026-06-18T05:07:12+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 403,
+      "message": "Forbidden"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
