@@ -2,9 +2,9 @@
 
 - slug: `the-rpgeeks`
 - source: `https://feed.podbean.com/rpgeeksdnd/feed.xml`
-- fetched_at: `2026-06-18T10:49:17+00:00`
-- checked_at: `2026-06-18T10:49:17+00:00`
-- etag: `"1a74105c2003390eb9d8cc4cab8513f4"`
+- fetched_at: `2026-06-18T15:55:30+00:00`
+- checked_at: `2026-06-18T15:55:30+00:00`
+- etag: `"4c9546a9de2dfdd827029d159107864d"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://rpgeeksdnd.podbean.com",
   "description": "Nerdy actual play with epic stories and fascinating facts. Tales of danger, drama, nonsense and joy - plus lore-drops on our favourite topics! UK-based TTRPG show, live on Wednesdays from 7pm.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/11909286/Circular_Profile_-_RPGeeks_Text_and_Planet_with_Extra_Space_atri7q.jpg",
-  "fetched_at": "2026-06-18T10:49:17+00:00",
+  "fetched_at": "2026-06-18T15:55:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

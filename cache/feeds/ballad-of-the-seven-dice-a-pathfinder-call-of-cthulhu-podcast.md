@@ -2,9 +2,9 @@
 
 - slug: `ballad-of-the-seven-dice-a-pathfinder-call-of-cthulhu-podcast`
 - source: `https://balladofthesevendice.podbean.com/feed.xml`
-- fetched_at: `2026-06-18T10:49:17+00:00`
-- checked_at: `2026-06-18T10:49:17+00:00`
-- etag: `"265de144146f744d4d6dd1fb9a7c1ff6"`
+- fetched_at: `2026-06-18T15:55:30+00:00`
+- checked_at: `2026-06-18T15:55:30+00:00`
+- etag: `"bd30f3d22ebcd836b54e965234999f49"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://balladofthesevendice.podbean.com",
   "description": "Our new campaign Escaping Carcosa follows two stories; one a Pathfinder2e tale that follows a group trapped inside a video game called Carcosa Online. The other group is a team of investigators playing Call of Cthulhu trying to free everyone trapped. Will they find freedom or will their world become another until Hastur’s control?",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/2696764/BOT7DPodcast_Resized_8cwkcf.jpg",
-  "fetched_at": "2026-06-18T10:49:17+00:00",
+  "fetched_at": "2026-06-18T15:55:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
