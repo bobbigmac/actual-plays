@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-06-11T22:59:45+00:00`
-- checked_at: `2026-06-11T22:59:45+00:00`
-- etag: `"f1fe73ddeb057ff1c53e255476631349"`
-- last_modified: `Thu, 11 Jun 2026 21:04:16 GMT`
+- fetched_at: `2026-06-19T10:58:30+00:00`
+- checked_at: `2026-06-19T10:58:30+00:00`
+- etag: `"5ec0edee4dc174c7bd10554833a13665"`
+- last_modified: `Fri, 19 Jun 2026 08:49:22 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-06-11T22:59:45+00:00",
+  "fetched_at": "2026-06-19T10:58:30+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "6d712f77910513bb458b19be39a9e3593c164acc",
+      "title": "Perpetua 43: Escape the Rumbling Castle! 03",
+      "published_at": "2026-06-19T08:47:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-43-escape-the-rumbling-castle-03",
+      "description": "In a chamber of the Castle Eschatonica, filled with technology from another world, Veile, Caoimhe, Elena, and Brontë investigate the truth behind their mysterious gems (and the seemingly lost universes they were once connected to). Meanwhile, on the other side of the metaphysical fortress, Uncle Nicky, Jonathan, Antistrophe and their newly acquired Agonies encounter a brusque soldier from a war whose rules they can barely understand. This week on Perpetua: Escape the Rumbling Castle! 03 Perpetua Guide [In Progress v.06] Celestial Echoes [CECH] Imago [CEIM] While I haven't played the Imago games myself, from what I've read, it's a game about the power and cost of the creative spirit. And also demons, maybe? In any case, the way that this Echo shows up in the Castle Eschatonica is the Agonies, a special set of NPCs you can acquire who can grant even non-spell casters the ability to cast a few key spells! Melo (he/him) Traits: Relaxed, Friendly, Sleepy Status/Element: Slow/Air Description: A living statue of a little knee high elephant man, smoking a pipe. Ability: Trumpet Toss - 10 - Self - Instantaneous Melo wakes up and releases blasts of air from his trunk, sending you flying across the battlefield. You may immediately perform a free attack with a melee weapon you have equipped. This attack may target creatures that can only be targeted by ranged attacks. If you used a weapon belonging to the brawling or spear Category for this attack, it deals 5 extra damage. If you hit a flying target with this attack, you may force them to land immediately. Wan (he/him) Traits: Sickly, Curious, Hopeful Status/Element: Weak/Ice Description: A painting of a strange looking child in bed, under a blanket, covered in shadows. Ability: A Chill Air (attack) - 10 x T - Up to Three Targets - Instantaneous Wan coughs, and the temperature in the room drops low. The targets suffer【HR + 15】ice damage. Opportunity: Each target hit by this spell suffers Weak. Hezzi (they/them) Traits: Afraid, Tentative, Big Status/Element: (Shaken/Physical) Description: A ghostly, one-eyed ogre who quietly plays their piano until someone approaches. Ability: Intimidating Presence (attack) - 5 x T - Up to Three Creatures - Instantaneous Hezzi shows themself in fully material form, strikes an aggressive pose, and roars, giving every target Shaken. Miss Mephitic (she/her) Traits: Layered, Beautiful, Frightening Status/Element: (Poisoned/Poison) Description: A human-sized music box ballerina, from which vines, petals, and teeth emerge. Ability: Bloody Thorn (attack) - 20 - One Creature - Instantaneous Mephi's vines strike out at a target, doing 【HR + 15】poison damage and giving them the Poisoned status. Connie (she/they) Traits: Excitable, Mercurial, Confused Status/Element (Dazed/Bolt) Description: A fuzzy television on a wheeled cart which continually changes channels, occasionally landing on young woman with frizzy, dirty blonde hair . Ability: Surprise Shock (attack) - 20 - One creature - Instantaneous Connie slams into your foe and electrifies them. The target suffers【HR + 25】bolt damage. Damage is doubled against a target who is Dazed Ira (he/him) Traits: Irritable, Small, Loyal Status/Element: Enraged / Fire Description: A ceramic pot with a little angry red devil cherub on it—and the impish being itself. Ability: Devil's Breath (attack) - 10 × T - Up to three creatures - Instantaneous Ira unleashes a blast of fiery breath at your foes. Each target hit by this spell suffers【HR + 15】fire damage. Opportunity: Each target hit by this spell suffers enraged. Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), Janine Hawkins ( @bleatingheart ), Sylvi Bullet ( @sylvibullet ), Keith J Carberry ( @keithjcarberry ) and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_43_Escape_the_Rumbling_Castle_03.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "115396392",
+      "itunes_duration": "01:43:48",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "rumbling",
+        "castle"
+      ]
+    },
     {
       "key": "8de0fdedbf47e7cbab8d444c9e2b54285505e469",
       "title": "Perpetua 42: Escape the Rumbling Castle! 02",
@@ -11499,6 +11519,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-19 — Perpetua 43: Escape the Rumbling Castle! 03 — speakers: Austin Walker
 - 2026-05-29 — Perpetua 42: Escape the Rumbling Castle! 02 — speakers: Rumbling Castle, Austin Walker
 - 2026-05-16 — Perpetua 41: Escape the Rumbling Castle! 01 — speakers: Rumbling Castle, Castle Eschatonica, Austin Walker
 - 2026-04-21 — Perpetua 40: The Castle Eschatonica 08 — speakers: Austin Walker
