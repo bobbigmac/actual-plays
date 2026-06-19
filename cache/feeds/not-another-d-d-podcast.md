@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-06-11T22:59:45+00:00`
-- checked_at: `2026-06-11T22:59:45+00:00`
-- last_modified: `Thu, 11 Jun 2026 22:55:52 GMT`
+- fetched_at: `2026-06-19T05:28:11+00:00`
+- checked_at: `2026-06-19T05:28:11+00:00`
+- last_modified: `Thu, 18 Jun 2026 23:03:09 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-06-11T22:59:45+00:00",
+  "fetched_at": "2026-06-19T05:28:11+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,31 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "de832427b7cf656f3862db95991326c67b0502d9",
+      "title": "Gangs of Neo Galaderon - Ep. 9: Pietro & Carley Quinn",
+      "published_at": "2026-06-18T23:00:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/8666d666-67d1-423d-8385-6069b0d5c921",
+      "description": "The Kill Screens race to escape the mirror maze before the Blackfire Carnival can catch them! Slug loses her gredit card, Aux designs matching tattoos, and Atom laughs a little too hard. Support us at Patreon.com/Naddpod to get access to the after-show and a bunch of other Naddpod content! Music / Sound Effects Include: \"Neo Galaderon\" by Emily Axford \"Aux\" by Emily Axford \"Cyberskitch\" by Emily Axford \"Slug\" by Emily Axford \"Spooky Shafts\" by Emily Axford \"Doppelganger\" by Emily Axford See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/d0/51/01/a2/d05101a2-414a-41a4-8450-317b7b7ec460/cde1abacbd841208d5f1bcd097c5ca03438997ad98f4d2360b0212aec6bac821960525ad52d7e3e2e7db51aff410cee000060dce3fea22068f3804ba07880a5e.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/8666d666-67d1-423d-8385-6069b0d5c921.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74685544",
+      "itunes_duration": "01:17:47",
+      "speakers": [
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "gang",
+        "galaderon",
+        "pietro",
+        "carley",
+        "quinn"
+      ]
+    },
     {
       "key": "92a4a31b1e21152b7e87cbe2a2d6e638d5839a1b",
       "title": "D&D Court: Forgotten Traps, Sci-Fi Shenanigans & The Dice Christ Data Dilemma",
@@ -11100,6 +11125,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-18 — Gangs of Neo Galaderon - Ep. 9: Pietro & Carley Quinn — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-06-11 — D&D Court: Forgotten Traps, Sci-Fi Shenanigans & The Dice Christ Data Dilemma — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-06-04 — Gangs of Neo Galaderon - Ep. 8: Panic! at the Big Top — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-05-29 — Gangs of Neo Galaderon - Ep. 7: The Blackfire Carnival — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
