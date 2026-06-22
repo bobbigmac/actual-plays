@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-06-22T12:27:29+00:00`
-- checked_at: `2026-06-22T12:27:29+00:00`
-- etag: `"djEuMi4wOjE3ODIxMjg5NTUwMTg="`
+- fetched_at: `2026-06-22T18:53:29+00:00`
+- checked_at: `2026-06-22T18:53:29+00:00`
+- etag: `"djEuMi4wOjE3ODIxNDA0Mzk0ODY="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-06-22T12:27:29+00:00",
+  "fetched_at": "2026-06-22T18:53:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "82288429c456ebdcfd1117495523fd4fe02cb499",
+      "title": "Campaign 2: Episode 189 - Bathhouse Bungle",
+      "published_at": "2026-06-22T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-189-bathhouse-bungle",
+      "description": "We cut back over to Selene and T'Chuck as they attempt to collect intel on their two assigned Spikes. The Red Light District and the Bazaar, two places where money changes hands and lives are changed... but if these Spikes get activated the only money changing will be suppression and the lives changed are... dead? Lives? Changing from being alive to dead. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by BenDrawsLife ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1782128636533-e2bd7bc6-f17d-4332-8f08-1e359e0ddbaf.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a39205e27346689978ce527/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88238116",
+      "itunes_duration": "1:01:15",
+      "speakers": [],
+      "topics": [
+        "campaign",
+        "bathhouse",
+        "bungle"
+      ]
+    },
     {
       "key": "e65930f0ad54df9adc821683bd0c145c9fa620a4",
       "title": "Campaign 2: Episode 188 - Like a Boar in a Bakery",
@@ -12398,6 +12416,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — Campaign 2: Episode 189 - Bathhouse Bungle
 - 2026-06-15 — Campaign 2: Episode 188 - Like a Boar in a Bakery — speakers: Bakery Having
 - 2026-06-08 — Campaign 2: Episode 187 - A Midnight Crane-Top Slop-Picnic — speakers: Midnight Crane, Top Slop, Picnic Screech
 - 2026-06-01 — Campaign 2: Episode 186 - Super Spike Spy
