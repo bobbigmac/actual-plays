@@ -2,9 +2,9 @@
 
 - slug: `the-dice-girls`
 - source: `https://thedicegirls.podbean.com/feed.xml`
-- fetched_at: `2026-06-22T05:33:46+00:00`
-- checked_at: `2026-06-22T05:33:46+00:00`
-- etag: `"a54be30dbb3d2b4d038b50eabbab26ec"`
+- fetched_at: `2026-06-22T12:27:29+00:00`
+- checked_at: `2026-06-22T12:27:29+00:00`
+- etag: `"3768e4ef575c42293c679e4a1e32332e"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedicegirls.podbean.com",
   "description": "Join DM Becca, Ash, and Alexa as they are off on their latest D&D adventure!",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/3612512/Dragons_Logo90p3b.jpg",
-  "fetched_at": "2026-06-22T05:33:46+00:00",
+  "fetched_at": "2026-06-22T12:27:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
