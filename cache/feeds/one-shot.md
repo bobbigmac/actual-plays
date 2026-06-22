@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-06-15T12:44:58+00:00`
-- checked_at: `2026-06-15T12:44:58+00:00`
-- last_modified: `Mon, 15 Jun 2026 11:12:05 GMT`
+- fetched_at: `2026-06-22T05:33:46+00:00`
+- checked_at: `2026-06-22T05:33:46+00:00`
+- last_modified: `Mon, 22 Jun 2026 04:15:07 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/8e75fc9d6dbbc2142cca11c14acfdea1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-15T12:44:58+00:00",
+  "fetched_at": "2026-06-22T05:33:46+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "1ab10836b0aead2b651bd9970dfb6c3f6983f4a6",
+      "title": "654. Force of Extinction, Episode 1",
+      "published_at": "2026-06-22T04:10:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY Guest GM and Game Designer Edward Spence leads us through character and world creation for Force of Extinction! SHOW NOTES Force of Extinction One Shot News & Updates One Shot Patreon One Shot TWITCH Ultimate RPG Villain Backstory Guide Follow the cast here! Dillin Apelyan Edward Spence Candace McAfee Drakoniques ----------------------------------------------------- Support WotC staff as they try to unionize! Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Absynth, Elision Frantic, Hill High Octane, Rhythm Scott Antenna's Racket, Sam Barsh Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN2018580482.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2963",
+      "speakers": [
+        "Edward Spence",
+        "James D'Amato"
+      ],
+      "topics": [
+        "force",
+        "extinction"
+      ]
+    },
     {
       "key": "d5402fe2a7e05f1f12622c31c3596746fd909aad",
       "title": "653. This Wretched House, Episode 2",
@@ -13351,6 +13371,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — 654. Force of Extinction, Episode 1 — speakers: Edward Spence, James D'Amato
 - 2026-06-15 — 653. This Wretched House, Episode 2 — speakers: One Shot, James D'Amato
 - 2026-06-08 — 652. This Wretched House, Episode 1 — speakers: James D'Amato
 - 2026-05-26 — 651. Anamnesis — speakers: James D'Amato

@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-06-15T05:30:18+00:00`
-- checked_at: `2026-06-17T20:31:29+00:00`
-- last_modified: `Mon, 15 Jun 2026 04:05:00 GMT`
+- fetched_at: `2026-06-22T05:33:46+00:00`
+- checked_at: `2026-06-22T05:33:46+00:00`
+- last_modified: `Mon, 22 Jun 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-06-15T05:30:18+00:00",
+  "fetched_at": "2026-06-22T05:33:46+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,31 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "6c4877d4682770f8ef9cb5625b9fee397a6dbbad",
+      "title": "Guilt of the Grave World | 019: Glass Effect: Eox",
+      "published_at": "2026-06-22T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-019-glass-effect-eox/",
+      "description": "While the Nova Rush crew has sought refuge in the ancient fossilized bones of some gigantic serpent, other creatures call those remains home as well. With Xeldan sensing an approaching threat the party goes on full alert…but they discover they are being hunted by the apex predator on Eox…and it’s not alone!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3822/guilt-of-the-grave-world-019-glass-effect-eox.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72061329",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Grave World",
+        "Glass Effect",
+        "Eox While",
+        "Nova Rush"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "glass",
+        "effect"
+      ]
+    },
     {
       "key": "59d30c0f3b291443e186e867410cf0cff78790f8",
       "title": "Guilt of the Grave World | 018: Rotting Hill",
@@ -8955,6 +8980,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — Guilt of the Grave World | 019: Glass Effect: Eox — speakers: Grave World, Glass Effect, Eox While, Nova Rush
 - 2026-06-15 — Guilt of the Grave World | 018: Rotting Hill — speakers: Grave World
 - 2026-06-08 — Guilt of the Grave World | 017: La La Landing — speakers: Grave World, Nova Rush
 - 2026-06-01 — Guilt of the Grave World | 016: The Hand that Eox the Cradle — speakers: Station Alpha
