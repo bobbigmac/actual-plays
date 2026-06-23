@@ -2,10 +2,10 @@
 
 - slug: `critical-role`
 - source: `https://feeds.simplecast.com/LXz4Q9rJ`
-- fetched_at: `2026-06-18T20:40:25+00:00`
-- checked_at: `2026-06-18T20:40:25+00:00`
-- etag: `"0ec83b94e4f3715fc9e26fc69678e576"`
-- last_modified: `Thu, 18 Jun 2026 12:00:21 GMT`
+- fetched_at: `2026-06-23T15:26:18+00:00`
+- checked_at: `2026-06-23T15:26:18+00:00`
+- etag: `"905acd1c88608ee038430cea58899aba"`
+- last_modified: `Tue, 23 Jun 2026 12:00:22 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.siriusxm.com",
   "description": "Welcome to Critical Role, home of a bunch of nerdy-ass voice actors playing tabletop roleplaying games! Enter a world of glorious imagination and improvisation with a group of the finest collaborative storytellers around. Here you’ll find our TTRPG and adjacent shows, including Critical Role, Exandria Unlimited, 4-Sided Dive, and a growing selection of one-shots.",
   "image_url": "https://image.simplecastcdn.com/images/a74173a8-254a-45ff-aee0-b0cd0458d7f1/b6c4a701-8e4f-402c-8cb3-691faaf1ab38/3000x3000/bfff4761a218248e.jpeg?aid=rss_feed",
-  "fetched_at": "2026-06-18T20:40:25+00:00",
+  "fetched_at": "2026-06-23T15:26:18+00:00",
   "owners": [
     "Matthew Mercer",
     "Marisha Ray",
@@ -35,6 +35,35 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "1cf1c9fe4f87897dc8da41529aad956a2b866845",
+      "title": "Opening Night | Critical Role | Campaign 4, Episode 29 Part 2",
+      "published_at": "2026-06-23T12:00:00+00:00",
+      "link": "https://www.siriusxm.com",
+      "description": "Part 2 Everyone takes their places across Dol-Makjar as the Hallowed Round presents a show that promises to be unforgettable... New Episodes Release Weekly on Thursdays. Learn more about Campaign 4 at https://critrole.com/campaign4/ GET MORE CAMPAIGN 4 WITH BEACON We're excited to bring you even MORE Campaign 4 with a Beacon membership! Get access to exclusive shows like our behind-the-scenes Critical Role Cooldown and ask the Campaign 4 cast your burning questions directly through our LIVE monthly Fireside Chats. You'll also receive NEW Beacon exclusive series, instant ad-free access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to everything Critical Role! OFFICIAL CAMPAIGN 4 CAST GAME MASTER Brennan Lee Mulligan Laura Bailey as Thimble Luis Carazo as Azune Nayar Robbie Daymond as Kattigan Vale Aabria Iyengar as Thaisha Lloy Taliesin Jaffe as Bolaire Lathalia Ashley Johnson as Vaelus Matthew Mercer as Sir Julien Davinos Whitney Moore as Tyranny Liam O’Brien as Halandil \"Hal\" Fang Marisha Ray as Murray Mag’Nesson Sam Riegel as Wicander \"Wick\" Halovar Alexander Ward as Occtis Tachonis Travis Willingham as Teor Pridesire CREDITS Produced by Maxwell James, Steve Failows, & Kyle Shire Set Designed by Shaun Ellis Production Designer: Noxweiler Berf Character Art by Loren Hontanilla Edited by Taylor Burke and Emily \"Stevie\" Stevenson Critical Role Announcement Playhouse Editor: Vinny Celesti Opening Title Editor: Paul Foyder Opening Title Colorist: Peter Koocheradis Window Effects by Christian Brown Graphic Design by Aaron Monroy & Jordyn Torrence Dol-Makjar art by Daniel Jiménez Villalba Miniatures Painted by Payton Keo Lacebal Opening Title Theme by Neal Acree Campaign 4 Key art by Hannah Friederichs Additional Art & Design by Hannah Friederichs Episode QC by Catherine Zimmerman & Paula Flores Assistant Editor: Gianna Gencarella Post Production Coordinators: M Swing & Bryn Hubbard Closed Caption Editing by Margaret Dill, Nikki Kindelberger, Courtney Knewtson, Danielle Lackie, Eleanor Smith-Dufresne & Alice Tsoi Post Production Supervisor: Tal Levitas HEALTH & WELL-BEING Due to the improv nature of Critical Role and other RPG content on our channels, some themes and situations that occur in-game may be difficult for some to handle. If certain episodes or scenes become uncomfortable, we strongly suggest taking a break or skipping that particular episode. Your health and well-being is important to us and Psycom has a great list of international mental health resources, in case it’s useful: http://bit.ly/PsycomResources Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/bcbe21d2-5e9a-4ae2-83e9-3fec79e71272/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=bcbe21d2-5e9a-4ae2-83e9-3fec79e71272&feed=LXz4Q9rJ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "125460844",
+      "itunes_duration": "02:10:23",
+      "speakers": [
+        "Opening Night",
+        "Critical Role",
+        "Hallowed Round",
+        "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
+        "Liam O'Brien"
+      ],
+      "topics": [
+        "opening",
+        "night",
+        "critical",
+        "role",
+        "campaign"
+      ]
+    },
     {
       "key": "0979fe6e65aec1c35d959c6fbfab393323bf4f6c",
       "title": "Opening Night | Critical Role | Campaign 4, Episode 29 Part 1",
@@ -1568,35 +1597,6 @@
       ]
     },
     {
-      "key": "05e4c1afa3677e7812ff7366c411de5a187c5afa",
-      "title": "Knives and Thorns | Critical Role | Campaign 4, Episode 6 Part 2",
-      "published_at": "2025-11-25T13:00:00+00:00",
-      "link": "https://www.siriusxm.com",
-      "description": "Part 2 Tyranny struggles with her crueler instincts as the Soldiers discover a safe haven for fairies that may hold clues about Cyd's whereabouts... New Episodes Release Weekly on Thursdays. Learn more about Campaign 4 at https://critrole.com/campaign4/ GET MORE CAMPAIGN 4 WITH BEACON We're excited to bring you even MORE Campaign 4 with a Beacon membership! Get access to exclusive shows like our behind-the-scenes Critical Role Cooldown and ask the Campaign 4 cast your burning questions directly through our LIVE monthly Fireside Chats. You'll also receive NEW Beacon exclusive series, instant ad-free access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to everything Critical Role! OFFICIAL CAMPAIGN 4 CAST GAME MASTER Brennan Lee Mulligan Laura Bailey as Thimble Luis Carazo as Azune Nayar Robbie Daymond as Kattigan Vale Aabria Iyengar as Thaisha Lloy Taliesin Jaffe as Bolaire Lathalia Ashley Johnson as Vaelus Matthew Mercer as Sir Julien Davinos Whitney Moore as Tyranny Liam O’Brien as Halandil \"Hal\" Fang Marisha Ray as Murray Mag’Nesson Sam Riegel as Wicander \"Wick\" Halovar Alexander Ward as Occtis Tachonis Travis Willingham as Teor Pridesire CREDITS Produced by Maxwell James, Steve Failows, & Kyle Shire Set Designed by Shaun Ellis Production Designer: Noxweiler Berf Character Art by Loren Hontanilla Edited by Taylor Burke and Emily \"Stevie\" Stevenson Critical Role Announcement Playhouse Editor: Vinny Celesti Opening Title Editor: Paul Foyder Opening Title Colorist: Peter Koocheradis Window Effects by Christian Brown Graphic Design by Aaron Monroy & Jordyn Torrence Countdown Graphic by Daniel Jiménez Villalba Miniatures Painted by Payton Keo Lacebal Opening Title Theme by Neal Acree Campaign 4 Key art by Hannah Friederichs Additional Art & Design by Hannah Friederichs Episode QC by Catherine Zimmerman & Paula Flores Assistant Editor: Gianna Gencarella Post Production Coordinators: M Swing & Bryn Hubbard Closed Caption Editing by Margaret Dill, Nikki Kindelberger, Courtney Knewtson, Danielle Lackie, Eleanor Smith-Dufresne & Alice Tsoi Post Production Supervisor: Tal Levitas Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/dca12f3e-022d-4fba-9f98-0ef04d540377/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=dca12f3e-022d-4fba-9f98-0ef04d540377&feed=LXz4Q9rJ",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "144028100",
-      "itunes_duration": "02:30:01",
-      "speakers": [
-        "Matthew Mercer",
-        "Marisha Ray",
-        "Travis Willingham",
-        "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
-      ],
-      "topics": [
-        "knife",
-        "thorns",
-        "critical",
-        "role",
-        "campaign"
-      ]
-    },
-    {
       "key": "455f51ac2e921d5b88a101fdd6fd552f4d883e22",
       "title": "Critical Role: Jester and Fjord’s Wedding: Live from Radio City Music Hall Part 1",
       "published_at": "2025-11-25T13:00:00+00:00",
@@ -1626,6 +1626,35 @@
         "city",
         "music",
         "hall"
+      ]
+    },
+    {
+      "key": "05e4c1afa3677e7812ff7366c411de5a187c5afa",
+      "title": "Knives and Thorns | Critical Role | Campaign 4, Episode 6 Part 2",
+      "published_at": "2025-11-25T13:00:00+00:00",
+      "link": "https://www.siriusxm.com",
+      "description": "Part 2 Tyranny struggles with her crueler instincts as the Soldiers discover a safe haven for fairies that may hold clues about Cyd's whereabouts... New Episodes Release Weekly on Thursdays. Learn more about Campaign 4 at https://critrole.com/campaign4/ GET MORE CAMPAIGN 4 WITH BEACON We're excited to bring you even MORE Campaign 4 with a Beacon membership! Get access to exclusive shows like our behind-the-scenes Critical Role Cooldown and ask the Campaign 4 cast your burning questions directly through our LIVE monthly Fireside Chats. You'll also receive NEW Beacon exclusive series, instant ad-free access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to everything Critical Role! OFFICIAL CAMPAIGN 4 CAST GAME MASTER Brennan Lee Mulligan Laura Bailey as Thimble Luis Carazo as Azune Nayar Robbie Daymond as Kattigan Vale Aabria Iyengar as Thaisha Lloy Taliesin Jaffe as Bolaire Lathalia Ashley Johnson as Vaelus Matthew Mercer as Sir Julien Davinos Whitney Moore as Tyranny Liam O’Brien as Halandil \"Hal\" Fang Marisha Ray as Murray Mag’Nesson Sam Riegel as Wicander \"Wick\" Halovar Alexander Ward as Occtis Tachonis Travis Willingham as Teor Pridesire CREDITS Produced by Maxwell James, Steve Failows, & Kyle Shire Set Designed by Shaun Ellis Production Designer: Noxweiler Berf Character Art by Loren Hontanilla Edited by Taylor Burke and Emily \"Stevie\" Stevenson Critical Role Announcement Playhouse Editor: Vinny Celesti Opening Title Editor: Paul Foyder Opening Title Colorist: Peter Koocheradis Window Effects by Christian Brown Graphic Design by Aaron Monroy & Jordyn Torrence Countdown Graphic by Daniel Jiménez Villalba Miniatures Painted by Payton Keo Lacebal Opening Title Theme by Neal Acree Campaign 4 Key art by Hannah Friederichs Additional Art & Design by Hannah Friederichs Episode QC by Catherine Zimmerman & Paula Flores Assistant Editor: Gianna Gencarella Post Production Coordinators: M Swing & Bryn Hubbard Closed Caption Editing by Margaret Dill, Nikki Kindelberger, Courtney Knewtson, Danielle Lackie, Eleanor Smith-Dufresne & Alice Tsoi Post Production Supervisor: Tal Levitas Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/dca12f3e-022d-4fba-9f98-0ef04d540377/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=dca12f3e-022d-4fba-9f98-0ef04d540377&feed=LXz4Q9rJ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "144028100",
+      "itunes_duration": "02:30:01",
+      "speakers": [
+        "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
+      ],
+      "topics": [
+        "knife",
+        "thorns",
+        "critical",
+        "role",
+        "campaign"
       ]
     },
     {
@@ -2772,34 +2801,6 @@
       ]
     },
     {
-      "key": "977982fb9328eeb42d516c656229de529620f2c4",
-      "title": "Thresher: 2-Part Underwater Epic | Episode 1, From the Deep Part 2",
-      "published_at": "2025-05-06T12:00:00+00:00",
-      "link": "https://www.siriusxm.com",
-      "description": "Part 2 of Episode 1 A mystery long forgotten stirs in the abyss, as the Thresher crew makes a treacherous descent into the lost station of Rán-Beor. ABOUT THRESHER: Created in collaboration with 12 Sided Studios and Paragon Pictures, Thresher is a two part underwater epic taking place in a unique world created by Matt Linton and Jacqueline Emerson and homebrewed for gameplay by Jasper William Cartwright, based on Candela Obscura, an Illuminated Worlds game from Darrington Press. Deep in the abyss where ancient creatures lurk, a motley crew must unite onboard the S.S. Thresher submarine to explore the abandoned Rán Boer station resting in the ocean’s unforgiving depths. Battling claustrophobia, paranoia, lurking behemoths, and hidden horrors, only one thing is certain; from the deep, power rises... Learn more about Thresher at http://critrole.com/thresher Meet the Cast! Creators Matt Linton (https://www.instagram.com/mattlinton11/) and Jacqueline Emerson (https://www.instagram.com/jackie_emerson/) Game Master Jasper William Cartwright: https://www.instagram.com/jw_cartwright/ Jacqueline Emerson as Emily Wodsworth: https://www.instagram.com/jackie_emerson/ Abubakar Salim as Daemon Adams: https://x.com/abzybabzy Mark \"Sherlock\" Hulmes aka Mara as Beatrice “Betty” Callahan: https://x.com/sherlock_hulmes Jane Douglas as Valerie “Val” Sutton: https://www.instagram.com/penny_dreadful/ Noshir Dalal as Hercules De Baudin: https://www.instagram.com/noshirdalal/ Produced by Critical Role in partnership with 12 Sided Studios and Paragon Pictures BEACON We’re excited to bring you even MORE with a Beacon membership! Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to the shows you love completely ad-free! You’ll receive NEW Beacon exclusive series, instant access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. YOUTUBE MEMBERS / TWITCH SUBSCRIBERS Twitch Subscribers and YouTube Members gain instant access to VODs of our shows, moderated live chats, and custom emojis & badges: https://www.youtube.com/criticalrole/join https://www.twitch.tv/criticalrole Due to the improv nature of Critical Role and other RPG content on our channels, some themes and situations that occur in-game may be difficult for some to handle. If certain episodes or scenes become uncomfortable, we strongly suggest taking a break or skipping that particular episode. Your health and well-being is important to us and Psycom has a great list of international mental health resources, in case it’s useful: http://bit.ly/PsycomResources Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/31fbf079-d51d-415b-b7b4-436dacea22f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=31fbf079-d51d-415b-b7b4-436dacea22f6&feed=LXz4Q9rJ",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "72181359",
-      "itunes_duration": "01:15:10",
-      "speakers": [
-        "Matthew Mercer",
-        "Marisha Ray",
-        "Travis Willingham",
-        "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
-      ],
-      "topics": [
-        "thresher",
-        "underwater",
-        "epic",
-        "deep"
-      ]
-    },
-    {
       "key": "cf7d89b329fa2c6d41544360090dbd930c50a906",
       "title": "The Elder Scrolls Online One-Shot",
       "published_at": "2025-05-06T12:00:00+00:00",
@@ -2825,6 +2826,34 @@
         "scrolls",
         "online",
         "shot"
+      ]
+    },
+    {
+      "key": "977982fb9328eeb42d516c656229de529620f2c4",
+      "title": "Thresher: 2-Part Underwater Epic | Episode 1, From the Deep Part 2",
+      "published_at": "2025-05-06T12:00:00+00:00",
+      "link": "https://www.siriusxm.com",
+      "description": "Part 2 of Episode 1 A mystery long forgotten stirs in the abyss, as the Thresher crew makes a treacherous descent into the lost station of Rán-Beor. ABOUT THRESHER: Created in collaboration with 12 Sided Studios and Paragon Pictures, Thresher is a two part underwater epic taking place in a unique world created by Matt Linton and Jacqueline Emerson and homebrewed for gameplay by Jasper William Cartwright, based on Candela Obscura, an Illuminated Worlds game from Darrington Press. Deep in the abyss where ancient creatures lurk, a motley crew must unite onboard the S.S. Thresher submarine to explore the abandoned Rán Boer station resting in the ocean’s unforgiving depths. Battling claustrophobia, paranoia, lurking behemoths, and hidden horrors, only one thing is certain; from the deep, power rises... Learn more about Thresher at http://critrole.com/thresher Meet the Cast! Creators Matt Linton (https://www.instagram.com/mattlinton11/) and Jacqueline Emerson (https://www.instagram.com/jackie_emerson/) Game Master Jasper William Cartwright: https://www.instagram.com/jw_cartwright/ Jacqueline Emerson as Emily Wodsworth: https://www.instagram.com/jackie_emerson/ Abubakar Salim as Daemon Adams: https://x.com/abzybabzy Mark \"Sherlock\" Hulmes aka Mara as Beatrice “Betty” Callahan: https://x.com/sherlock_hulmes Jane Douglas as Valerie “Val” Sutton: https://www.instagram.com/penny_dreadful/ Noshir Dalal as Hercules De Baudin: https://www.instagram.com/noshirdalal/ Produced by Critical Role in partnership with 12 Sided Studios and Paragon Pictures BEACON We’re excited to bring you even MORE with a Beacon membership! Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to the shows you love completely ad-free! You’ll receive NEW Beacon exclusive series, instant access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. YOUTUBE MEMBERS / TWITCH SUBSCRIBERS Twitch Subscribers and YouTube Members gain instant access to VODs of our shows, moderated live chats, and custom emojis & badges: https://www.youtube.com/criticalrole/join https://www.twitch.tv/criticalrole Due to the improv nature of Critical Role and other RPG content on our channels, some themes and situations that occur in-game may be difficult for some to handle. If certain episodes or scenes become uncomfortable, we strongly suggest taking a break or skipping that particular episode. Your health and well-being is important to us and Psycom has a great list of international mental health resources, in case it’s useful: http://bit.ly/PsycomResources Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/31fbf079-d51d-415b-b7b4-436dacea22f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=31fbf079-d51d-415b-b7b4-436dacea22f6&feed=LXz4Q9rJ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72181359",
+      "itunes_duration": "01:15:10",
+      "speakers": [
+        "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
+      ],
+      "topics": [
+        "thresher",
+        "underwater",
+        "epic",
+        "deep"
       ]
     },
     {
@@ -11890,6 +11919,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-23 — Opening Night | Critical Role | Campaign 4, Episode 29 Part 2 — speakers: Opening Night, Critical Role, Hallowed Round, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
 - 2026-06-18 — Opening Night | Critical Role | Campaign 4, Episode 29 Part 1 — speakers: Opening Night, Critical Role, Hallowed Round, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
 - 2026-06-16 — Chasing Shadows | Critical Role | Campaign 4, Episode 28 Part 2 — speakers: Chasing Shadows, Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
 - 2026-06-11 — Chasing Shadows | Critical Role | Campaign 4, Episode 28 Part 1 — speakers: Chasing Shadows, Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
@@ -11944,8 +11974,8 @@
 - 2025-12-02 — On the Scent | Critical Role | Campaign 4, Episode 7 Part 2 — speakers: Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2025-11-28 — Critical Role: Jester and Fjord’s Wedding: Live from Radio City Music Hall Part 2 — speakers: Critical Role, Radio City Music Hall, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
 - 2025-11-27 — On the Scent | Critical Role | Campaign 4, Episode 7 Part 1 — speakers: Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2025-11-25 — Knives and Thorns | Critical Role | Campaign 4, Episode 6 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2025-11-25 — Critical Role: Jester and Fjord’s Wedding: Live from Radio City Music Hall Part 1 — speakers: Critical Role, Radio City Music Hall, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2025-11-25 — Knives and Thorns | Critical Role | Campaign 4, Episode 6 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2025-11-20 — Knives and Thorns | Critical Role | Campaign 4, Episode 6 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2025-11-18 — Branching Paths | Critical Role Campaign 4, Episode 5 Part 2 — speakers: Branching Paths, Critical Role Campaign, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
 - 2025-11-13 — Branching Paths | Critical Role Campaign 4, Episode 5 Part 1 — speakers: Branching Paths, Critical Role Campaign, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
@@ -11987,8 +12017,8 @@
 - 2025-05-15 — TOTAL PARTY KILL | Critical Role Chicago Live 2025 Part 1 — speakers: Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2025-05-13 — Thresher: 2-Part Underwater Epic | Episode 2, Power Rises Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2025-05-08 — Thresher: 2-Part Underwater Epic | Episode 2, Power Rises Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2025-05-06 — Thresher: 2-Part Underwater Epic | Episode 1, From the Deep Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2025-05-06 — The Elder Scrolls Online One-Shot — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-05-06 — Thresher: 2-Part Underwater Epic | Episode 1, From the Deep Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2025-05-01 — Thresher: 2-Part Underwater Epic | Episode 1, From the Deep Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2025-04-29 — Wilde Out | Wildemount Wildlings Episode 3 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2025-04-24 — Wilde Out | Wildemount Wildlings Episode 3 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson

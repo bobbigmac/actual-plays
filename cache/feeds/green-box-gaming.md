@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-06-16T17:23:34+00:00`
-- checked_at: `2026-06-16T17:23:34+00:00`
-- etag: `"eb85cd9e01adcd2b1e631e89fe311987"`
-- last_modified: `Tue, 16 Jun 2026 13:00:25 GMT`
+- fetched_at: `2026-06-23T15:26:18+00:00`
+- checked_at: `2026-06-23T15:26:18+00:00`
+- etag: `"ba588d1f84292da5b3dadbc578ebe1da"`
+- last_modified: `Tue, 23 Jun 2026 13:00:30 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-06-16T17:23:34+00:00",
+  "fetched_at": "2026-06-23T15:26:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "691edc0852984f2a2eba19a4ed2dba4b2c207389",
+      "title": "Ep8 | Thousand Year Old Vampire w/ Dace - Welcome Home",
+      "published_at": "2026-06-23T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/2879867",
+      "description": "Mort concludes his grand journey of thousands of years, and embraces his final reward! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/2879867/green-box-gaming/2026_06_02_18_02_16_eb028b2c-48ba-47c0-a582-a114904986e4.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41461132",
+      "itunes_duration": "2591",
+      "speakers": [
+        "Thousand Year Old Vampire",
+        "Welcome Home Mort"
+      ],
+      "topics": [
+        "thousand",
+        "year",
+        "vampire",
+        "dace",
+        "welcome",
+        "home"
+      ]
+    },
     {
       "key": "791e2652a4eb5e03904d4fbc859dc11ee8960214",
       "title": "Ep7 | Thousand Year Old Vampire w/ Dace - Love and Betrayal",
@@ -4067,6 +4091,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-23 — Ep8 | Thousand Year Old Vampire w/ Dace - Welcome Home — speakers: Thousand Year Old Vampire, Welcome Home Mort
 - 2026-06-16 — Ep7 | Thousand Year Old Vampire w/ Dace - Love and Betrayal
 - 2026-06-09 — Ep6 | Thousand Year Old Vampire w/ Dace - Gods Above and Below — speakers: Thousand Year Old Vampire, Gods Above, Below Join
 - 2026-06-02 — Ep14 | Delta Green: Puppet Shows and Shadow Plays - Higher Powers — speakers: Delta Green, Puppet Shows, Shadow Plays, Higher Powers Still
