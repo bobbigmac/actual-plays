@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-06-23T04:32:22+00:00`
-- checked_at: `2026-06-23T04:32:22+00:00`
-- etag: `"8cb6b692bbe03222d56b075ee353ee24"`
+- fetched_at: `2026-06-23T10:05:21+00:00`
+- checked_at: `2026-06-23T10:05:21+00:00`
+- etag: `"440a09126dfc1bd919d0bdce18fbf106"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-06-23T04:32:22+00:00",
+  "fetched_at": "2026-06-23T10:05:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "b59e538c8833aa37b3fb50e550435482cf8f8df1",
+      "title": "Black Powder & Brimstone: Valorous Hands part 2",
+      "published_at": "2026-06-23T01:42:34+00:00",
+      "link": "https://fandible.com/black-powder-brimstone-valorous-hands-part-2/",
+      "description": "/ The members of the hands of Valour get ready for another morally questionable job. The post Black Powder & Brimstone: Valorous Hands part 2 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/458_BPB_ValorousHands/Fan_809_BPB_ValorousHandsp2.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30202191",
+      "itunes_duration": "31:49",
+      "speakers": [
+        "Black Powder",
+        "Valorous Hands"
+      ],
+      "topics": [
+        "black",
+        "powder",
+        "brimstone",
+        "hands"
+      ]
+    },
     {
       "key": "e76ae093dc35776068294c6e8ab7413c203d846b",
       "title": "Black Powder & Brimstone: Valorous Hands part 1",
@@ -11358,27 +11380,6 @@
         "patriotic",
         "enslavement"
       ]
-    },
-    {
-      "key": "688d61ced8a6a2a02f68c36fca838e802d37d408",
-      "title": "Rotted Capes Ep 10: Patriotic Enslavement 1 of 2",
-      "published_at": "2016-07-15T16:26:52+00:00",
-      "link": "https://fandible.com/rotted-capes-ep-10-patriotic-enslavement-1-2/",
-      "description": "In a zombified America, two super-powered individuals find themselves permanent guests of the United States Government. The post Rotted Capes Ep 10: Patriotic Enslavement 1 of 2 appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/187_RC_PatrioticEnslavement/Fan_305_RC_PatrioticEnslavement1of2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "57041201",
-      "itunes_duration": "1:57:39",
-      "speakers": [
-        "Patriotic Enslavement"
-      ],
-      "topics": [
-        "rotted",
-        "capes",
-        "patriotic",
-        "enslavement"
-      ]
     }
   ]
 }
@@ -11387,6 +11388,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-23 — Black Powder & Brimstone: Valorous Hands part 2 — speakers: Black Powder, Valorous Hands
 - 2026-06-16 — Black Powder & Brimstone: Valorous Hands part 1 — speakers: Black Powder, Valorous Hands
 - 2026-06-09 — Rotted Capes Episode 20: Broken Chains part 4 — speakers: Broken Chains, Moziak Base
 - 2026-06-02 — Rotted Capes Episode 20: Broken Chains part 3 — speakers: Broken Chains
@@ -11986,4 +11988,3 @@
 - 2016-08-05 — Bubblegumshoe: Veronica Base, Casefile #001 1 of 2 — speakers: Veronica Base
 - 2016-07-29 — Pugmire: The Cat’s Mau
 - 2016-07-22 — Rotted Capes Ep 10: Patriotic Enslavement 2 of 2 — speakers: Patriotic Enslavement, Military Enclave
-- 2016-07-15 — Rotted Capes Ep 10: Patriotic Enslavement 1 of 2 — speakers: Patriotic Enslavement

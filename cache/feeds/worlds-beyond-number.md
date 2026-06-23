@@ -2,10 +2,10 @@
 
 - slug: `worlds-beyond-number`
 - source: `https://feeds.simplecast.com/IAPnSSRO`
-- fetched_at: `2026-06-09T10:04:39+00:00`
-- checked_at: `2026-06-09T10:04:39+00:00`
-- etag: `"45f5771769924139f58f8bde8c937a84"`
-- last_modified: `Tue, 09 Jun 2026 09:00:16 GMT`
+- fetched_at: `2026-06-23T10:05:21+00:00`
+- checked_at: `2026-06-23T10:05:21+00:00`
+- etag: `"4cbf45aa49bd4e2e69cc4ee3ce94d535"`
+- last_modified: `Tue, 23 Jun 2026 09:00:18 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://worlds-beyond-number.simplecast.com",
   "description": "An epic, improvised storytelling podcast where Brennan Lee Mulligan, Erika Ishii, Aabria Iyengar, and Lou Wilson hang out together, play games, build worlds, and make stories.",
   "image_url": "https://image.simplecastcdn.com/images/c89bbbb6-e942-4583-ad73-4877d9c0b2f6/dfae107c-3b1e-4c37-acf7-a48a1ff6e445/3000x3000/wbn-album-logo-art-2024-3000x3000.jpg?aid=rss_feed",
-  "fetched_at": "2026-06-09T10:04:39+00:00",
+  "fetched_at": "2026-06-23T10:05:21+00:00",
   "owners": [
     "Brennan Lee Mulligan",
     "Aabria Iyengar",
@@ -31,6 +31,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "155facffb1f1ebd4bc378e0d1b2a8904a205e74a",
+      "title": "Solari: Episode 8 - Prelude Part 1",
+      "published_at": "2026-06-23T09:00:00+00:00",
+      "link": "https://worlds-beyond-number.simplecast.com/episodes/solari-episode-8-prelude-part-1-htjSVXgT",
+      "description": "This episode is a Prelude—a transmission from the past. Before Solari: Arc I, there were other lives, other worlds, and countless choices that shaped who our PCs would become. Over the next few episodes, we'll uncover the stories that set them on a path toward one another. Witness a time before the beginning. Before Pulls and Culls, before Ghenopaar, before the return of Orm. Content Warning : This episode contains depictions of alcohol consumption, sexual content, and insects. We are: Brennan Lee Mulligan Erika Ishii Aabria Iyengar Lou Wilson Solari was produced by Worlds Beyond Number Edit and Sound Design by Jino Jang-Hansen at Big Giant Head Score by Will Savino https://wsavino.com/ Director of Operations: Melanie Bowman Social Media Manager: Shannon H Lorekeeper and Transcriptionist: Jack Morgan E.F. Lavandowska Recording Engineer: Rainie Toll Character Art by Nikolas Draper-Ivey www.instagram.com/nikolasdraperivey/ Cover Art by Lu Tomkiewicz www.instagram.com/_fromlu/ This campaign uses the Stillfleet TTRPG system, created by Wythe Marschall and developed by Stillfleet Studio https://stillfleet.com/collections/stillfleet You can find transcripts of all our episodes on our Patreon. Just navigate to the post for the episode and the transcript will be attached. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/52465498-1509-439a-8bae-5a0586d07e7b/29d88dc1-b0ac-4e4d-a818-d3a862a6ad7e/3000x3000/solari_album_art.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-970414-injected.calisto.simplecastaudio.com/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/f43cf82d-619d-419d-9770-2b49adc0b481/audio/128/default.mp3?aid=rss_feed&awCollectionId=796e3e14-8749-4922-8d84-ba47ea7afc1c&awEpisodeId=f43cf82d-619d-419d-9770-2b49adc0b481&feed=IAPnSSRO",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97768472",
+      "itunes_duration": "01:35:51",
+      "speakers": [
+        "Brennan Lee Mulligan",
+        "Aabria Iyengar",
+        "Erika Ishii",
+        "Lou Wilson"
+      ],
+      "topics": [
+        "solari",
+        "prelude"
+      ]
+    },
     {
       "key": "e256a0b2217f45713389f12fd607f0aeeece8823",
       "title": "Solari: Episode 7 - Paradise",
@@ -2041,6 +2063,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-23 — Solari: Episode 8 - Prelude Part 1 — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-06-09 — Solari: Episode 7 - Paradise — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-05-26 — Solari: Episode 6 - Pinned Down — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-05-18 — Soundtrack out now for the Wizard the Witch and the Wild One! — speakers: Worlds Beyond Number, Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
