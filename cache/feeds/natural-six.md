@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-06-17T22:53:47+00:00`
-- checked_at: `2026-06-17T22:53:47+00:00`
-- etag: `"djEuMi4wOjE3ODE3MzMxMTk3NzQ="`
+- fetched_at: `2026-06-23T20:25:24+00:00`
+- checked_at: `2026-06-23T20:25:24+00:00`
+- etag: `"djEuMi4wOjE3ODIyNDEyMzk1NDQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-06-17T22:53:47+00:00",
+  "fetched_at": "2026-06-23T20:25:24+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,56 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "dee64aa9a41eb2a5d29991f65775ad1d0de50d95",
+      "title": "Ep. 57 The Everfire",
+      "published_at": "2026-06-23T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-57-the-everfire",
+      "description": "Some fires consume, while others transform, but the difference may not be found in the flame, but in what you’re willing to place within it. Time has a way of changing people, even if old grievances insist otherwise. Years may dull the edge, but they may not erase the wound that sharpened it, and some flames can still burn inward long after the first spark. Sometimes healing begins when the hurt is forgotten, but other times it begins when both sides are finally willing to set it down. Old names, fears, guilt, and anger may be offered to the fire, but the test is having the courage to let them burn. After all, fire is not only capable of destroying what was, but sometimes it can reveal what remains. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a39c13530d470180fb82e53/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "486455207",
+      "itunes_duration": "3:22:37",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "everfire"
+      ]
+    },
+    {
+      "key": "1fe6e045b9ac7868a4961a406358a4843a7bdcc3",
+      "title": "Action Surge | Witchspire one-shot",
+      "published_at": "2026-06-18T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-witchspire-one-shot",
+      "description": "A party of wizards, what could possibly go wrong? In hindsight... quite a lot, actually. BUT, in this episode of Action Surge we break down what went right, including meeting possibly some of the most memorable NPCs we've ever had - Hamrog, we hardly knew ye. The party discuss the exciting dynamic changes of everyone playing the same class, and what it's like stepping into the shoes of another character for a one-shot. Also, Ben tries to talk about his Big Wand. A lot. And of course, we had the best time exploring the world of Witchspire, the upcoming game from Envar Studios! #Ad To learn more about Witchspire and to keep up to date with ‪Envar Games, visit: https://playwitchspire.com/ Wishlist now on Stream: https://shorturl.at/JNUNs -- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1781733089275-40a52e15-37ad-45ba-a84b-61c02e679015.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a21e00a17f169d64301e9d8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38440960",
+      "itunes_duration": "40:02",
+      "speakers": [
+        "Action Surge",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge",
+        "witchspire",
+        "shot"
+      ]
+    },
     {
       "key": "8fcecb423713ba34ee8c82b742eed793dac8d870",
       "title": "Action Surge Episode 56",
@@ -2963,6 +3013,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-23 — Ep. 57 The Everfire — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2026-06-18 — Action Surge | Witchspire one-shot — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-16 — Action Surge Episode 56 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-09 — Ep. 56 Bone and Cloth — speakers: Cloth Not, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-04 — Journey to the Witchspire | Natural Six x Witchspire — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle

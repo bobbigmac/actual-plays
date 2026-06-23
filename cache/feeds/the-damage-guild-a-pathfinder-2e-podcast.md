@@ -2,9 +2,9 @@
 
 - slug: `the-damage-guild-a-pathfinder-2e-podcast`
 - source: `https://www.thedamageguild.com/feed/podcast2`
-- fetched_at: `2026-06-08T05:03:54+00:00`
-- checked_at: `2026-06-14T05:11:07+00:00`
-- last_modified: `Mon, 08 Jun 2026 04:01:00 GMT`
+- fetched_at: `2026-06-23T20:25:24+00:00`
+- checked_at: `2026-06-23T20:25:24+00:00`
+- last_modified: `Mon, 22 Jun 2026 05:02:27 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedamageguild.com",
   "description": "Do you like jokes, adventure, killing things, and friendship? Of course you do! The Damage Guild is an actual-play Pathfinder 2nd Edition (PF2E) podcast with a focus on collaborative storytelling, character-driven narrative, and improv comedy shenanigans, delivered in a family-friendly style and set in a homebrew world. Join us for new episodes every other Monday, so you can kiss those weekend blues goodbye and get pumped to slay the dragon of your everyday life!",
   "image_url": "https://thedamageguild.com/wp-content/uploads/dgp_pf2e_podcast_artwork.jpg",
-  "fetched_at": "2026-06-08T05:03:54+00:00",
+  "fetched_at": "2026-06-23T20:25:24+00:00",
   "owners": [
     "Sean Abrams",
     "Thayne Bohman",
@@ -31,6 +31,28 @@
     "ttrpg/pathfinder"
   ],
   "episodes": [
+    {
+      "key": "99a89e4714742216f85373055b7744309b4f0a35",
+      "title": "Episode 50 – Green There, Done That",
+      "published_at": "2026-06-22T04:01:00+00:00",
+      "link": "https://thedamageguild.com/pf2e-episodes/episode-50-2/",
+      "description": "The goblin onslaught continues. Zara gusts sharply. Kardain Hodors. Verrol hides bravely .",
+      "image_url": null,
+      "enclosure_url": "https://media.blubrry.com/damageguild/media.blubrry.com/3739398/mc.blubrry.com/3739398/dgp_pf2e_episode50a.mp3?awCollectionId=3739398&awEpisodeId=12141356&aw_0_azn.pgenre=Leisure&aw_0_1st.ri=blubrry&aw_0_azn.pcountry=US&aw_0_azn.planguage=en-us&cat_exclude=IAB1-8%2CIAB1-9%2CIAB7-41%2CIAB8-5%2CIAB8-18%2CIAB11-4%2CIAB23%2CIAB24%2CIAB25%2CIAB26&aw_0_cnt.rss=https%3A%2F%2Fwww.thedamageguild.com%2Ffeed%2Fpodcast2",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56164146",
+      "itunes_duration": "58:30",
+      "speakers": [
+        "Kardain Hodors",
+        "Sean Abrams",
+        "Thayne Bohman",
+        "Bryan Staudt",
+        "Jay Staudt"
+      ],
+      "topics": [
+        "green"
+      ]
+    },
     {
       "key": "d46fae3c7cd53c8f783d4dc4f9535eb52e503cb5",
       "title": "Episode 49 – Gobrilla Warfare",
@@ -1126,6 +1148,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — Episode 50 – Green There, Done That — speakers: Kardain Hodors, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-06-08 — Episode 49 – Gobrilla Warfare — speakers: Gobrilla Warfare, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-05-25 — Episode 48 – We’re Inn the Money — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-05-11 — Episode 47 – You Know You Make Me Wanna Scout — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
