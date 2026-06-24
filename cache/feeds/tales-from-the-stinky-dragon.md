@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-06-22T05:33:46+00:00`
-- checked_at: `2026-06-22T05:33:46+00:00`
-- last_modified: `Mon, 22 Jun 2026 04:52:08 GMT`
+- fetched_at: `2026-06-24T09:52:39+00:00`
+- checked_at: `2026-06-24T09:52:39+00:00`
+- last_modified: `Wed, 24 Jun 2026 08:00:10 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-22T05:33:46+00:00",
+  "fetched_at": "2026-06-24T09:52:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "647d683fd88a10cf712d562608094e4072769de3",
+      "title": "C03 - Ep. 46 - Under Oondar Fire - Smoke and Chimirroras",
+      "published_at": "2026-06-24T08:00:00+00:00",
+      "link": null,
+      "description": "Brutaliteam confronts a slain Oondarian for more information about Bunlap. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new merch at store.stinkydragonpod.com - Dice, Player Character Tees, Blankets, Hoodies, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4d3a3c16-dadb-11f0-a213-4ffa60d81de3/image/dd5cf5d2c76ef64c0ec2e42a421975ae.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS8503160793.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5754",
+      "speakers": [],
+      "topics": [
+        "oondar",
+        "fire",
+        "smoke",
+        "chimirroras"
+      ]
+    },
     {
       "key": "4f20885ef81b0460ef84736de2993fee792a2f06",
       "title": "C03 - Ep. 45 - Under Oondar Fire - What's Mine is Yours",
@@ -4318,6 +4337,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — C03 - Ep. 46 - Under Oondar Fire - Smoke and Chimirroras
 - 2026-06-10 — C03 - Ep. 45 - Under Oondar Fire - What's Mine is Yours — speakers: Chimirrora Keep
 - 2026-05-27 — C03 - Ep. 44 - Under Oondar Fire - Croak and Dagger Boxing — speakers: Under Oondar Fire, Dagger Boxing Brutaliteam
 - 2026-05-13 — C03 - Ep. 43 - Under Oondar Fire - Rules of M’Prov — speakers: Under Oondar Fire, Prov Brutaliteam, Veiled Veil Support

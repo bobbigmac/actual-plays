@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-06-17T22:53:47+00:00`
-- checked_at: `2026-06-17T22:53:47+00:00`
-- etag: `"djEuMi4wOjE3ODE3Mjg2NzcyODI="`
+- fetched_at: `2026-06-24T09:52:39+00:00`
+- checked_at: `2026-06-24T09:52:39+00:00`
+- etag: `"djEuMi4wOjE3ODIyODQ0Mzk0NDU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-06-17T22:53:47+00:00",
+  "fetched_at": "2026-06-24T09:52:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "b2c1baf200c4b65e3bf210b1ed0303758de51be0",
+      "title": "Ep. 011: Age of Astra - Give Me Your Hat | #DND",
+      "published_at": "2026-06-24T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the agents find themselves pulled further from certainty as old questions refuse to stay buried and new ones arrive uninvited. The Dice seem determined to complicate matters, turning every answer into another mystery in this DnD chapter. Whatever lies ahead, it feels closer now than ever before. What happens when the truth becomes impossible to ignore? Which secrets were never meant to be uncovered? And when the next door opens… who will be brave enough to step through it? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1781726436534-b0f2a862-af4c-40a0-887d-784aa697f1e2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6a32fac20eff8315218d7788/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138036296",
+      "itunes_duration": "57:28",
+      "speakers": [],
+      "topics": [
+        "astra"
+      ]
+    },
     {
       "key": "5c0b5ccd556873f0ac70de7bb0a50b078a4530c6",
       "title": "Ep. 010: Age of Astra - Hot or Poo | #DND",
@@ -7857,6 +7873,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — Ep. 011: Age of Astra - Give Me Your Hat | #DND
 - 2026-06-17 — Ep. 010: Age of Astra - Hot or Poo | #DND
 - 2026-06-10 — Ep. 009: Age of Astra - It Appears We Are Trapped | #DND
 - 2026-06-03 — Ep. 008: Age of Astra - I've Got A Tie And Everything | #DND
