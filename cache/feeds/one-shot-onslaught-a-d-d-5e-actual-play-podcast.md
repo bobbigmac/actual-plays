@@ -2,9 +2,9 @@
 
 - slug: `one-shot-onslaught-a-d-d-5e-actual-play-podcast`
 - source: `https://oneshotonslaught.libsyn.com/rss`
-- fetched_at: `2026-05-20T09:55:08+00:00`
-- checked_at: `2026-05-20T09:55:08+00:00`
-- last_modified: `Wed, 20 May 2026 07:30:00 GMT`
+- fetched_at: `2026-06-25T04:36:24+00:00`
+- checked_at: `2026-06-25T04:36:24+00:00`
+- last_modified: `Thu, 25 Jun 2026 01:09:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://oneshotonslaught.com",
   "description": "We are an actual-play fifth-edition Dungeons and Dragons podcast. The thing that we do different is that we play through popular one-shot modules from dmsguild.com which means that you can drop in and listen to any session without having to be all caught up! We split each one-shot into two separate episodes so that we can release our podcast bi-weekly! If you like bite-sized chunks of D&D that you can drop in and out of without needing to following a larger over-arching narrative then we are your show! Patreon: ⁠patreon.com/MajesticGoose⁠ Discord: ⁠bit.ly/oneshotdiscord⁠ Website: ⁠MajesticGoose.com⁠ All of our Links:⁠ LinkTree⁠",
   "image_url": "https://megaphone.imgix.net/podcasts/eb918fc2-6f0a-11ec-a334-330ad16a06e0/image/ced18ff9f80b9d8a099494da36c04b57.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-20T09:55:08+00:00",
+  "fetched_at": "2026-06-25T04:36:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
