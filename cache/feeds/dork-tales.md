@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-06-15T19:09:26+00:00`
-- checked_at: `2026-06-15T19:09:26+00:00`
-- etag: `"djEuMi4wOjE3ODE1NDk1OTU1NTc="`
+- fetched_at: `2026-06-25T22:49:48+00:00`
+- checked_at: `2026-06-25T22:49:48+00:00`
+- etag: `"djEuMi4wOjE3ODI0MjQ3NTQ4MDc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/show-cover.png",
-  "fetched_at": "2026-06-15T19:09:26+00:00",
+  "fetched_at": "2026-06-25T22:49:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "f4bc73d214bb751935aaa72559b1521ddde4c012",
+      "title": "ColdIron | Episode 2: Death in Prospect",
+      "published_at": "2026-06-25T21:53:56+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/coldiron-episode-2-death-in-prospect",
+      "description": "Welcome to our ColdIron: our new homebrew campaign! In this episode, the party has their first encounter with a creature of the Cauldron. Kelly Clark as Dungeon Master Cast Amy Godfrey as Carrion Slaughterhouse Robin Holford as Trixxi Blastemoff Katrina McGie as Taliina'a Christine Rattray as Bell St. Claire Caitlan Vinkle as ZOE === Music credits: Tim Kulig kindly composed the following tracks for this campaign: Tumbleweeds Campaign Outro Find him at https://www.timkulig.com Licensed under Creative Commons: By Attribution 4.0 creativecommons.org/licenses/by/4.0/ IMDB: https://www.imdb.com/name/nm0997280/?... The Following licensed tracks by Monument Studios were used: High Noon Outlander Harps Dark Hybrid Ambience Minigame Fast Idle Guitars https://www.monumentstudios.net It also includes the following music from Joel Steudler, licensed through a Humble Music collection: Heavily Armed Additional Licensed tracks by Ovani Sound and Phat Phrog Studio may also used. For background ambience we used sounds from Tabletop Audio. Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life. https://www.tabletopaudio.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1782424451606-b299eb32-2886-47d2-b4f5-613cf312d491.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a3da37813f23e0ab6e7ffaa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "154466847",
+      "itunes_duration": "2:40:54",
+      "speakers": [
+        "Prospect Welcome"
+      ],
+      "topics": [
+        "coldiron",
+        "death",
+        "prospect"
+      ]
+    },
     {
       "key": "68d4d31e7cbcaa7bbfeca0310e2a2fcfb3b5944e",
       "title": "ColdIron | Episode 1: Beyond the Hellgate",
@@ -7874,6 +7894,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — ColdIron | Episode 2: Death in Prospect — speakers: Prospect Welcome
 - 2026-06-15 — ColdIron | Episode 1: Beyond the Hellgate — speakers: Hellgate Welcome
 - 2026-06-12 — Mage the Ascension the Victorian Age | Book 3, Chapter 9: The Crossroad of Prophets and Thieves — speakers: Victorian Age, Thieves Welcome
 - 2026-06-10 — ColdIron | Session 0: Meet the Cast — speakers: Cast Welcome
