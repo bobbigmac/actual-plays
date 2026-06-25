@@ -29,6 +29,8 @@ jobs:
       AP_CACHE_BRANCH: ${{ vars.AP_CACHE_BRANCH }}
       # Base path the site is hosted under, e.g. "/podcasts/".
       AP_BASE_PATH: ${{ vars.AP_BASE_PATH }}
+      # Public site origin for canonical/sitemap URLs, e.g. "https://bobdavies.co.uk".
+      AP_BASE_SITE: ${{ vars.AP_BASE_SITE }}
       AP_CLOUDFLARE_PROJECT_NAME: ${{ vars.AP_CLOUDFLARE_PROJECT_NAME }}
       # Speaker search (further_search) — add these as environment secrets in github-pages
       PODCASTINDEX_KEY: ${{ secrets.PODCASTINDEX_KEY }}

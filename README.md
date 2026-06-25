@@ -80,6 +80,7 @@ In each repo:
    * `AP_BASE_PATH` — where the site is hosted (important for assets/manifest links), e.g.:
      * `/` (site at domain root)
      * `/podcasts/` (site at `https://example.com/podcasts/`)
+   * `AP_BASE_SITE` — public origin for canonical and sitemap URLs (no path), e.g. `https://bobdavies.co.uk`
    * Optional:
       * `AP_CACHE` — cache directory name (default `cache`), e.g. `cache.other`.
       * `AP_CACHE_BRANCH` — cache git branch name (default `cache`), e.g. `cache-other`.

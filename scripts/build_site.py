@@ -40,7 +40,6 @@ _RESERVED_ROOT_SLUGS = {
     "sitemap.xml",
     "robots.txt",
 }
-_SITE_ORIGIN = "https://bobdavies.co.uk"
 _SITEMAP_SKIP_PREFIXES = ("assets/", "graph/", "remote-podcast-candidates/")
 _SITEMAP_SKIP_FILES = frozenset({"sw.js", "manifest.webmanifest", "site.json", "index.json"})
 _SPEAKER_IMAGE_EXT_PREFERENCE = {
@@ -71,12 +70,16 @@ def _norm_site_url(value: str | None) -> str:
 
 
 def _public_site_url(base_path: str) -> str:
-    """Deployed public URL: fixed origin + AP_BASE_PATH (or feeds base_path)."""
-    origin = _SITE_ORIGIN.rstrip("/")
+    """Deployed public URL: AP_BASE_SITE origin + AP_BASE_PATH (or feeds base_path)."""
+    import os
+
+    origin = _norm_site_url(os.environ.get("AP_BASE_SITE"))
+    if not origin:
+        return ""
     bp = _norm_base_path(base_path)
     if bp == "/":
-        return origin + "/"
-    return origin + bp
+        return origin
+    return _abs_site_href(origin, bp)
 
 
 def _resolve_site_url(site_cfg: dict[str, Any], base_path: str) -> str:
@@ -2751,18 +2754,24 @@ def main() -> int:
     )
 
     sitemap_entries = _collect_sitemap_entries(dist_dir=dist_dir, base_path=base_path)
-    (dist_dir / "sitemap.xml").write_text(
-        _render_sitemap_xml(site_url=site_url_norm, entries=sitemap_entries),
-        encoding="utf-8",
-    )
-    (dist_dir / "robots.txt").write_text(
-        _render_robots_txt(site_url=site_url_norm, base_path=base_path),
-        encoding="utf-8",
-    )
-    print(
-        f"[sitemap] wrote {_href(base_path, 'sitemap.xml')} ({len(sitemap_entries)} urls)",
-        file=sys.stderr,
-    )
+    if site_url_norm:
+        (dist_dir / "sitemap.xml").write_text(
+            _render_sitemap_xml(site_url=site_url_norm, entries=sitemap_entries),
+            encoding="utf-8",
+        )
+        (dist_dir / "robots.txt").write_text(
+            _render_robots_txt(site_url=site_url_norm, base_path=base_path),
+            encoding="utf-8",
+        )
+        print(
+            f"[sitemap] wrote {_href(base_path, 'sitemap.xml')} ({len(sitemap_entries)} urls)",
+            file=sys.stderr,
+        )
+    else:
+        print(
+            "[sitemap] skipped (set AP_BASE_SITE or site `url:` in feeds config)",
+            file=sys.stderr,
+        )
 
     repo_stats = path_stats_tree(
         REPO_ROOT,
