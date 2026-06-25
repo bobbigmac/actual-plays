@@ -37,7 +37,12 @@ _RESERVED_ROOT_SLUGS = {
     "index.html",
     "site.json",
     "index.json",
+    "sitemap.xml",
+    "robots.txt",
 }
+_SITE_ORIGIN = "https://bobdavies.co.uk"
+_SITEMAP_SKIP_PREFIXES = ("assets/", "graph/", "remote-podcast-candidates/")
+_SITEMAP_SKIP_FILES = frozenset({"sw.js", "manifest.webmanifest", "site.json", "index.json"})
 _SPEAKER_IMAGE_EXT_PREFERENCE = {
     ".webp": 0,
     ".jpg": 1,
@@ -65,12 +70,34 @@ def _norm_site_url(value: str | None) -> str:
     return s.rstrip("/") + "/"
 
 
+def _public_site_url(base_path: str) -> str:
+    """Deployed public URL: fixed origin + AP_BASE_PATH (or feeds base_path)."""
+    origin = _SITE_ORIGIN.rstrip("/")
+    bp = _norm_base_path(base_path)
+    if bp == "/":
+        return origin + "/"
+    return origin + bp
+
+
+def _resolve_site_url(site_cfg: dict[str, Any], base_path: str) -> str:
+    configured = _norm_site_url(site_cfg.get("url") or site_cfg.get("site_url") or site_cfg.get("canonical_url"))
+    return configured or _public_site_url(base_path)
+
+
 def _abs_site_href(site_url: str, href: str) -> str:
     base = _norm_site_url(site_url)
     if not base:
         return ""
+    h = str(href or "").strip()
+    if not h:
+        return base.rstrip("/")
+    if h.startswith("http://") or h.startswith("https://"):
+        return h
     try:
-        return urllib.parse.urljoin(base, str(href or "").lstrip("/"))
+        if h.startswith("/"):
+            origin = urllib.parse.urljoin(base, "/")
+            return urllib.parse.urljoin(origin, h.lstrip("/"))
+        return urllib.parse.urljoin(base, h.lstrip("/"))
     except Exception:
         return ""
 
@@ -82,6 +109,60 @@ def _page_href_for_out(out_path: Path, *, dist_dir: Path, base_path: str) -> str
     if rel.endswith("/index.html"):
         return base_path + rel[: -len("index.html")]
     return base_path + rel
+
+
+def _iso_date_from_mtime(path: Path) -> str:
+    ts = path.stat().st_mtime
+    return datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%Y-%m-%d")
+
+
+def _collect_sitemap_entries(*, dist_dir: Path, base_path: str) -> list[tuple[str, str]]:
+    by_href: dict[str, str] = {}
+    for path in sorted(dist_dir.rglob("*")):
+        if not path.is_file():
+            continue
+        rel = path.relative_to(dist_dir).as_posix()
+        if rel.startswith(_SITEMAP_SKIP_PREFIXES) or rel in _SITEMAP_SKIP_FILES:
+            continue
+        lastmod = _iso_date_from_mtime(path)
+        if rel == "index.html":
+            href = base_path
+        elif rel.endswith("/index.html"):
+            href = _page_href_for_out(path, dist_dir=dist_dir, base_path=base_path)
+        elif rel.endswith("/feed.xml"):
+            href = _href(base_path, rel)
+        else:
+            continue
+        prev = by_href.get(href)
+        if prev is None or lastmod > prev:
+            by_href[href] = lastmod
+    return sorted(by_href.items(), key=lambda kv: kv[0])
+
+
+def _render_sitemap_xml(*, site_url: str, entries: list[tuple[str, str]]) -> str:
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ]
+    for href, lastmod in entries:
+        loc = _abs_site_href(site_url, href)
+        if not loc:
+            continue
+        lines.append("  <url>")
+        lines.append(f"    <loc>{_esc(loc)}</loc>")
+        lines.append(f"    <lastmod>{_esc(lastmod)}</lastmod>")
+        lines.append("  </url>")
+    lines.extend(["</urlset>", ""])
+    return "\n".join(lines)
+
+
+def _render_robots_txt(*, site_url: str, base_path: str) -> str:
+    sitemap = _abs_site_href(site_url, _href(base_path, "sitemap.xml"))
+    lines = ["User-agent: *", "Disallow: /*?e="]
+    if sitemap:
+        lines.append(f"Sitemap: {sitemap}")
+    lines.append("")
+    return "\n".join(lines)
 
 
 def _md_inline(text: str) -> str:
@@ -283,8 +364,8 @@ def _meta_extra_html(
     og_image: str | None = None,
     include_image: bool = True,
 ) -> str:
-    site_url = _norm_site_url(site_cfg.get("url") or site_cfg.get("site_url") or site_cfg.get("canonical_url"))
-    canonical = _abs_site_href(site_url, canonical_href) if site_url else ""
+    site_url = _resolve_site_url(site_cfg, base_path)
+    canonical = _abs_site_href(site_url, canonical_href)
 
     site_name = str(site_cfg.get("title") or "").strip()
     title = _esc(page_title or site_name)
@@ -1064,7 +1145,7 @@ def main() -> int:
 
     base_override = args.base_path or __import__("os").environ.get("AP_BASE_PATH")
     base_path = _norm_base_path(base_override if base_override is not None else site_cfg.get("base_path"))
-    site_url_norm = _norm_site_url(site_cfg.get("url") or site_cfg.get("site_url") or site_cfg.get("canonical_url"))
+    site_url_norm = _resolve_site_url(site_cfg, base_path)
 
     base_template = _load_template(templates_dir / "base.html")
 
@@ -2667,6 +2748,20 @@ def main() -> int:
         page_description="Podcast/speaker connection graph",
         content_html=graph_content,
         include_og_image=False,
+    )
+
+    sitemap_entries = _collect_sitemap_entries(dist_dir=dist_dir, base_path=base_path)
+    (dist_dir / "sitemap.xml").write_text(
+        _render_sitemap_xml(site_url=site_url_norm, entries=sitemap_entries),
+        encoding="utf-8",
+    )
+    (dist_dir / "robots.txt").write_text(
+        _render_robots_txt(site_url=site_url_norm, base_path=base_path),
+        encoding="utf-8",
+    )
+    print(
+        f"[sitemap] wrote {_href(base_path, 'sitemap.xml')} ({len(sitemap_entries)} urls)",
+        file=sys.stderr,
     )
 
     repo_stats = path_stats_tree(
