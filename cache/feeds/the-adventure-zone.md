@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-06-11T16:30:53+00:00`
-- checked_at: `2026-06-11T16:30:53+00:00`
-- etag: `"30d805c83270987994b92e04d76e5f37"`
-- last_modified: `Thu, 11 Jun 2026 11:00:17 GMT`
+- fetched_at: `2026-06-25T15:18:52+00:00`
+- checked_at: `2026-06-25T15:18:52+00:00`
+- etag: `"146f8ff8a592cb407efe18e0e56c3110"`
+- last_modified: `Thu, 25 Jun 2026 11:00:19 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-06-11T16:30:53+00:00",
+  "fetched_at": "2026-06-25T15:18:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "a2bc897ebac7608ddbab0f2ddc4882e84de3560e",
+      "title": "The Adventure Zone Royale: Episode 27",
+      "published_at": "2026-06-25T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-royale-episode-27-DcnvslFM",
+      "description": "Rictus, Helgrammite, and Lorovith try to figure out their next steps as it has become clear to all of them the trials cannot continue as normal. But if their plans go awry in any way, there will be severe consequences. Royale Theme: “Wizard Disco” by Louie Zong: https://louiezong.bandcamp.com/album/wizard-disco Original Music by Griffin McElroy Additional Music in this Episode: \"Pearly Carapace\", \"Palaver\", \"The Apotheosis of All Deserts\", and \"VIII\" by ROZKOL: https://rozkol.bandcamp.com/; \"Dybbuk's White Eyes\" by Sergey Cheremisinov: https://soundcloud.com/sergey-cheremisinov-1; \"See You Soon\", and \"Pure\" by Jahzzar: http://www.betterwithmusic.com/; \"tribute to eddy\" by Jean Toba: https://jeantoba.blogspot.com/; \"Simple Song\" by Jar of Flies: https://jaroffliesofficial.bandcamp.com/; and “A Month of Dust” by Schemawound http://schemawound.com/. Lambda Legal: https://lambdalegal.org/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
+      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/05a02c07-e4fa-4476-b1e5-1aa4fcd5ffcd/3000x3000/tazroyalecoverresizedforsite.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/b426e6dd-5f99-4113-8a73-1b8542cff537/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=b426e6dd-5f99-4113-8a73-1b8542cff537&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62802853",
+      "itunes_duration": "01:00:31",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "royale"
+      ]
+    },
     {
       "key": "443d3a860a899bb96220b797d36c4170764df468",
       "title": "The Adventure Zone Royale: Episode 26",
@@ -8010,6 +8028,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — The Adventure Zone Royale: Episode 27
 - 2026-06-11 — The Adventure Zone Royale: Episode 26
 - 2026-05-28 — The Adventure Zone Royale: Episode 25
 - 2026-05-14 — The Adventure Zone Royale: Episode 24
