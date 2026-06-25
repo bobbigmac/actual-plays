@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-06-18T05:07:12+00:00`
-- checked_at: `2026-06-18T05:07:12+00:00`
-- etag: `"bfd2027c74ba9cfe99a844d9eb9c0487"`
-- last_modified: `Thu, 18 Jun 2026 01:47:18 GMT`
+- fetched_at: `2026-06-25T09:46:08+00:00`
+- checked_at: `2026-06-25T09:46:08+00:00`
+- etag: `"1b8354463ba22e85c002aa899e5d040b"`
+- last_modified: `Thu, 25 Jun 2026 09:01:51 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-06-18T05:07:12+00:00",
+  "fetched_at": "2026-06-25T09:46:08+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "448bd872265824edfe2ef18d01a2c0b0c288d734",
+      "title": "The Fog Campaign - Episode 76",
+      "published_at": "2026-06-25T08:59:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-76",
+      "description": "You know what, it's a very silly episode... so like... what even IS a bard? What is a paladin- oh wait, its name is \"that guy Gerry played.\" We didn't forget! For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more be sure to head to nerdpokerpod.com",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-076-20260618-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "115492928",
+      "itunes_duration": "48:08",
+      "speakers": [
+        "Brian Posehn"
+      ],
+      "topics": [
+        "campaign"
+      ]
+    },
     {
       "key": "f7c9f1af1e3babaa58651c3a2b1463522bf64632",
       "title": "The Fog Campaign - Episode 75",
@@ -8977,6 +8995,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — The Fog Campaign - Episode 76 — speakers: Brian Posehn
 - 2026-06-18 — The Fog Campaign - Episode 75 — speakers: Brian Posehn
 - 2026-06-10 — The Fog Campaign - Episode 74 — speakers: Ding Dong Danglers, Brian Posehn
 - 2026-06-03 — The Fog Campaign - Episode 73 — speakers: Brian Posehn
