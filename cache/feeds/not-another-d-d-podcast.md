@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-06-19T05:28:11+00:00`
-- checked_at: `2026-06-19T05:28:11+00:00`
-- last_modified: `Thu, 18 Jun 2026 23:03:09 GMT`
+- fetched_at: `2026-06-26T04:42:48+00:00`
+- checked_at: `2026-06-26T04:42:48+00:00`
+- last_modified: `Thu, 25 Jun 2026 22:32:13 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-06-19T05:28:11+00:00",
+  "fetched_at": "2026-06-26T04:42:48+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,31 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "8942a74a10687d6aa647191533e8ed3e6188dfae",
+      "title": "Gangs of Neo Galaderon - Ep. 10: The South Avenue Jimmies",
+      "published_at": "2026-06-25T22:30:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/6425c88f-6c2b-4049-a06a-7d8982e9090a",
+      "description": "The Kill Screens come face to face with the kingpin of Zone 3! Aux steals a line, Atom seduces a cannon, and Slug gets involved in a love triangle. Support us at Patreon.com/Naddpod to get access to the after-show and a bunch of other Naddpod content! Music / Sound Effects Include: \"Neo Galaderon\" by Emily Axford \"The Arcade\" by Emily Axford. \"Synth Nights\" by Emily Axford. \"Mothership\" by Emily Axford. \"Cahoots with the Boots\" by Emily Axford. \"Zone 3\" by Emily Axford \"Nobody's Inn\" by Emily Axford \"Jimmy's Tavern\" by Emily Axford \"The Man Himself\" by Emily Axford \"The Rattlin' Snakes\" by Emily Axford \"The Red Fen\" by Emily Axford \"Spooky Shafts\" by Emily Axford \"Aux\" by Emily Axford \"Cyberskitch\" by Emily Axford \"Slug\" by Emily Axford See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/16/6a/1c/91/166a1c91-716b-4612-810e-213bcc818274/51d4df9492387e5f3c113bac8aa8f19c9275e3e9b24d4009f4c173ea9d4b557929be7c6be8bb266263246cecf5a296a867b87c14cf5c6913efb840e0d991319c.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/6425c88f-6c2b-4049-a06a-7d8982e9090a.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "87097260",
+      "itunes_duration": "01:30:43",
+      "speakers": [
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "gang",
+        "galaderon",
+        "south",
+        "avenue",
+        "jimmies"
+      ]
+    },
     {
       "key": "de832427b7cf656f3862db95991326c67b0502d9",
       "title": "Gangs of Neo Galaderon - Ep. 9: Pietro & Carley Quinn",
@@ -11125,6 +11150,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — Gangs of Neo Galaderon - Ep. 10: The South Avenue Jimmies — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-06-18 — Gangs of Neo Galaderon - Ep. 9: Pietro & Carley Quinn — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-06-11 — D&D Court: Forgotten Traps, Sci-Fi Shenanigans & The Dice Christ Data Dilemma — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-06-04 — Gangs of Neo Galaderon - Ep. 8: Panic! at the Big Top — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
