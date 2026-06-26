@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-06-19T10:58:30+00:00`
-- checked_at: `2026-06-19T10:58:30+00:00`
-- etag: `"5ec0edee4dc174c7bd10554833a13665"`
-- last_modified: `Fri, 19 Jun 2026 08:49:22 GMT`
+- fetched_at: `2026-06-26T09:53:21+00:00`
+- checked_at: `2026-06-26T09:53:21+00:00`
+- etag: `"c3b7f37ef07e728bb5e866a505d00b53"`
+- last_modified: `Thu, 25 Jun 2026 17:13:17 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-06-19T10:58:30+00:00",
+  "fetched_at": "2026-06-26T09:53:21+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,30 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "51d8bd5581d249149a6f9694333fa2ae21ad3e14",
+      "title": "Marielda 10th Anniversary Soundtrack Vinyl Available to Pre-Order Now!",
+      "published_at": "2026-06-25T17:11:00+00:00",
+      "link": "https://friendsatthetable.net/marielda-10th-anniversary-soundtrack-vinyl-available-to-pre-order-now",
+      "description": "For Semiotician Uklan Tel, the discovery of the object in the vaults of the New Archives was a gift he could scarcely have hoped for. The Holy City, walled and impenetrable, had fascinated him for so long. He'd pored over the Marieldan documents and artifacts that the Archives had collected over the years so many times that his name repeated in the access cards like a prayer . But here was something new - misfiled, overlooked - that had evaded his eye all this time. He was starting to take notes for a book. We could not be more excited to unveil the Marielda 10th Anniversary Vinyl Soundtrack edition in all its unfolding, kaleidoscopic color, and let you know that it is now available to preorder at lostincult.co.uk/marielda. A very limited number of signed copies still remain, to be followed by a second, unsigned run. This extra-special edition, which began in early ideas and sketches six long years ago, is based on concepts by Annie Johnston-Glick and illustrated by Elemei , and is created in collaboration with the British publisher and designworks Lost in Cult . The centerpiece, alongside the full Marielda soundtrack, is the \"star book\", an unfolding, layered diorama showing four scenes from that fateful High Sun Day, secured by a red ribbon. This object exists in-fiction and tells a story, discovered in the cavernous vaults of The New Archives by Semiotician Uklan Tel, and shipped (much to the chagrin of the Archives' Exceptional Loans division) to a friend in Velas. In addition to the vinyl and star book, contained inside are two enamel pins showing coinage of ancient Hieron, as well as five bone-white d6 dice emblazoned with the sigil of the second god to rule the holy city. Alongside Tel's covering letter, you can also find eight pieces of Marieldan paper ephemera: an undelivered postcard bought by a holidaymaker at a pleasure garden, a double-sided broadsheet of Marielda's newspaper \"The Charioteer\", and six other mysterious pieces from the City of First Light at a time of great change. Oh, and there's also a 7\" vinyl with a plain red label, and we'll say no more on that for now. We've already been blown away by yesterday's response to this project from our Patrons, which has really helped demonstrate that there's an audience for physical media projects from Friends at the Table. It has been an absolute joy to return to this world in collaboration with such incredible artists and designers. Writing in character as gods, citizens, and tourists to the holy city (as well as people thousands of years later, trying to make sense of what they hold in their hands) has been a real treat and we are so excited to finally - finally! - get to share it with you .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Marielda_Vinyl_Announcement.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "16363745",
+      "itunes_duration": "13:20",
+      "speakers": [
+        "Uklan Tel",
+        "Austin Walker"
+      ],
+      "topics": [
+        "marielda",
+        "anniversary",
+        "soundtrack",
+        "vinyl",
+        "available",
+        "order"
+      ]
+    },
     {
       "key": "6d712f77910513bb458b19be39a9e3593c164acc",
       "title": "Perpetua 43: Escape the Rumbling Castle! 03",
@@ -11519,6 +11543,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — Marielda 10th Anniversary Soundtrack Vinyl Available to Pre-Order Now! — speakers: Uklan Tel, Austin Walker
 - 2026-06-19 — Perpetua 43: Escape the Rumbling Castle! 03 — speakers: Austin Walker
 - 2026-05-29 — Perpetua 42: Escape the Rumbling Castle! 02 — speakers: Rumbling Castle, Austin Walker
 - 2026-05-16 — Perpetua 41: Escape the Rumbling Castle! 01 — speakers: Rumbling Castle, Castle Eschatonica, Austin Walker
