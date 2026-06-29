@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-06-22T18:53:29+00:00`
-- checked_at: `2026-06-22T18:53:29+00:00`
-- etag: `"djEuMi4wOjE3ODIxNDA0Mzk0ODY="`
+- fetched_at: `2026-06-29T16:13:05+00:00`
+- checked_at: `2026-06-29T16:13:05+00:00`
+- etag: `"djEuMi4wOjE3ODI3NDUyMzk2MTU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-06-22T18:53:29+00:00",
+  "fetched_at": "2026-06-29T16:13:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "c2b8ac575788ab9c85edbf2c2b2ed9129614b5e7",
+      "title": "Campaign 2: Bonus Episode - Terror Island! Part 1",
+      "published_at": "2026-06-29T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-bonus-episode-terror-island-part-1",
+      "description": "Originally airing as part of Geekly Inc's 12th Annual 24-Hour Charity Stream, the Terror Island 2-parter sees Nika Howard taking the reins as Dungeon Master, forcing a ragtag team of new Level 5 weirdos into a rescue mission. Their first challenge, however, is to reach the shores of the island resort alive, as their ship is waylaid by angry chanting turtle-people and copious vomit. The adventure continues with Jennifer Cheek , Tim Lanning , Michael DiMauro , Vince Kenny , and our Dungeon Master Nika Howard , Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here: https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1782739225491-b3c09ec2-a9a2-482a-84da-d2f3eaa81949.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a4272ca6c42755eb687bbfb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107641096",
+      "itunes_duration": "1:14:44",
+      "speakers": [
+        "Terror Island",
+        "Geekly Inc",
+        "Hour Charity Stream"
+      ],
+      "topics": [
+        "campaign",
+        "terror",
+        "island"
+      ]
+    },
     {
       "key": "82288429c456ebdcfd1117495523fd4fe02cb499",
       "title": "Campaign 2: Episode 189 - Bathhouse Bungle",
@@ -12416,6 +12438,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-29 — Campaign 2: Bonus Episode - Terror Island! Part 1 — speakers: Terror Island, Geekly Inc, Hour Charity Stream
 - 2026-06-22 — Campaign 2: Episode 189 - Bathhouse Bungle
 - 2026-06-15 — Campaign 2: Episode 188 - Like a Boar in a Bakery — speakers: Bakery Having
 - 2026-06-08 — Campaign 2: Episode 187 - A Midnight Crane-Top Slop-Picnic — speakers: Midnight Crane, Top Slop, Picnic Screech
