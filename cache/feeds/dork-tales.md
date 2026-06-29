@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-06-25T22:49:48+00:00`
-- checked_at: `2026-06-25T22:49:48+00:00`
-- etag: `"djEuMi4wOjE3ODI0MjQ3NTQ4MDc="`
+- fetched_at: `2026-06-29T20:17:17+00:00`
+- checked_at: `2026-06-29T20:17:17+00:00`
+- etag: `"djEuMi4wOjE3ODI3NTgxNTk3MTQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/show-cover.png",
-  "fetched_at": "2026-06-25T22:49:48+00:00",
+  "fetched_at": "2026-06-29T20:17:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "639341a871b7a00891fc6a6391f62143885abaa6",
+      "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 11: The Sisters Goodwyn",
+      "published_at": "2026-06-29T17:22:55+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/mage-the-ascension-the-victorian-age-book-3-chapter-11-the-s",
+      "description": "Welcome to book three of Mage the Victorian Age! In this episode, there's some wild stuff. I can't even. Thank you to Bookwyrm Games for sponsoring Dork Tales this month! Use code DORKTALES to save 15% at https://www.bookwyrmgames.com! Orders over $100 also enjoy free shipping! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage *** Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Evelyn Taylor *** Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktalescha... Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! *** Music credits: Tracks from Joel Steudler Heartwarming Magic Adventure Antics Abound Licensed under a Humble Bundle Collection Music From Dark Fantasy Studio Hidden in the Dark Paradox These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vission of the Ancients Conspiracy Unravel Outdoor Marketplace Bazaar Another Round Requiem Choir These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net We also use licensed music from Audio Hero, Ovani Studios, GameDev Market, and Phat Phrog Studios, including: Archive of Sad Days Anyone Can Solve This Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! https://www.tabletopaudio.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1782753772064-fe25d9fa-e758-4cb6-a3d7-b8970b5fb628.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a42a9f06c42755eb69c7fa9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127951098",
+      "itunes_duration": "2:13:16",
+      "speakers": [
+        "Victorian Age"
+      ],
+      "topics": [
+        "ascension",
+        "book",
+        "chapter",
+        "sisters",
+        "goodwyn"
+      ]
+    },
     {
       "key": "f4bc73d214bb751935aaa72559b1521ddde4c012",
       "title": "ColdIron | Episode 2: Death in Prospect",
@@ -44,6 +66,28 @@
         "coldiron",
         "death",
         "prospect"
+      ]
+    },
+    {
+      "key": "005267a9764a42d612f5849e0f17ca67d782066f",
+      "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 10: The Eligible Mr. Blackwood",
+      "published_at": "2026-06-19T14:00:00+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/ca-skip-navigation-search-create-avatar-image-mage-the-ascen",
+      "description": "Welcome to book three of Mage the Victorian Age! In this episode, Darcie goes on a date and hopefully there's no human sacrifice this time! Thank you to Bookwyrm Games for sponsoring Dork Tales this month! Use code DORKTALES to save 15% at https://www.bookwyrmgames.com! Orders over $100 also enjoy free shipping! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage *** Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Evelyn Taylor *** Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktalescha... Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! *** Music credits: Tracks from Joel Steudler Heartwarming Magic Adventure Antics Abound Licensed under a Humble Bundle Collection Music From Dark Fantasy Studio Hidden in the Dark Paradox These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vision of the Ancients Conspiracy Unravel Market in the Desert These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! https://www.tabletopaudio.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1782758060348-c09dfe34-1d4d-4bb5-b991-bd0a4007fea4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a42bac36c42755eb6a2ca14/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91918879",
+      "itunes_duration": "1:49:24",
+      "speakers": [
+        "Victorian Age",
+        "Blackwood Welcome"
+      ],
+      "topics": [
+        "ascension",
+        "book",
+        "chapter",
+        "blackwood"
       ]
     },
     {
@@ -128,6 +172,26 @@
         "aboard",
         "empress",
         "express"
+      ]
+    },
+    {
+      "key": "af934ad210336f1e95c1760c73fa650ed2db27ee",
+      "title": "Mage the Ascension the Victorian Age | Book 3: An Intermission",
+      "published_at": "2026-05-30T07:00:00+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/mage-the-ascension-the-victorian-age-book-3-an-intermission",
+      "description": "In this episode, we discuss how to handle things when they finally get on the train. Thank you to Bookwyrm Games for sponsoring Dork Tales this month! Use code DORKTALES to save 15% at https://www.bookwyrmgames.com! Orders over $100 also enjoy free shipping! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage *** Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Evelyn Taylor *** Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktalescha... Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! *** Music credits: Tracks from Joel Steudler Heartwarming Magic Adventure Antics Abound Licensed under a Humble Bundle Collection Music From Dark Fantasy Studio Hidden in the Dark The Mirror These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vision of the Ancients Consumed Arendelle Andante Guitar Etheric Etropy B Plot Thickens These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! https://www.tabletopaudio.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1782753335859-0ad6478f-84db-4fdc-b777-e66dc939037c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a42a95771668e37061be48c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56016566",
+      "itunes_duration": "1:06:39",
+      "speakers": [
+        "Victorian Age"
+      ],
+      "topics": [
+        "ascension",
+        "book",
+        "intermission"
       ]
     },
     {
@@ -7894,11 +7958,14 @@
 
 ## Episodes (newest first)
 
+- 2026-06-29 — Mage the Ascension the Victorian Age | Book 3, Chapter 11: The Sisters Goodwyn — speakers: Victorian Age
 - 2026-06-25 — ColdIron | Episode 2: Death in Prospect — speakers: Prospect Welcome
+- 2026-06-19 — Mage the Ascension the Victorian Age | Book 3, Chapter 10: The Eligible Mr. Blackwood — speakers: Victorian Age, Blackwood Welcome
 - 2026-06-15 — ColdIron | Episode 1: Beyond the Hellgate — speakers: Hellgate Welcome
 - 2026-06-12 — Mage the Ascension the Victorian Age | Book 3, Chapter 9: The Crossroad of Prophets and Thieves — speakers: Victorian Age, Thieves Welcome
 - 2026-06-10 — ColdIron | Session 0: Meet the Cast — speakers: Cast Welcome
 - 2026-06-04 — Mage the Ascension the Victorian Age | Book 3, Chapter 8: All Aboard the Empress Express
+- 2026-05-30 — Mage the Ascension the Victorian Age | Book 3: An Intermission — speakers: Victorian Age
 - 2026-05-29 — Mage the Ascension the Victorian Age | Book 3, Chapter 7: Mark of the Desert Priest
 - 2026-05-22 — Mage the Ascension the Victorian Age | Book 3, Chapter 6: In The Shadow of Pharaohs — speakers: Victorian Age, Pharaohs Welcome
 - 2026-05-20 — Mage the Ascension the Victorian Age | Book 3, Chapter 5: A Most Awkward River Cruise — speakers: Samuel Blackwood
