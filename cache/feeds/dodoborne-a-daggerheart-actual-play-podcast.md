@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-06-28T14:18:21+00:00`
-- checked_at: `2026-06-28T14:18:21+00:00`
-- etag: `W/"712f32d4c9173c52e4be6590e19fe545"`
-- last_modified: `Sun, 28 Jun 2026 10:37:58 GMT`
+- fetched_at: `2026-06-29T05:02:08+00:00`
+- checked_at: `2026-06-29T05:02:08+00:00`
+- etag: `W/"3f1eb7a1a14065eb5bb6ac70aa3d881d"`
+- last_modified: `Mon, 29 Jun 2026 03:37:05 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,9 +16,9 @@
   "source_url": "https://feeds.transistor.fm/dodoborne",
   "title": "DodoBorne: A Daggerheart Actual Play Podcast",
   "link": "https://dodoborne.transistor.fm/",
-  "description": "DodoBorne is an improvised comedy storytelling podcast where five friends dive into Daggerheart, the tabletop roleplaying game from Darrington Press. Whether you're looking for adventure, romance, mystery, or nonsense, DodoBorne offers a welcoming mix of humor, heart, and collaborative storytelling that we hope will keep you coming back for more. With Season 3 serving as a fresh starting point for new viewers, there's never been a better time to join the flock! New episodes air every other Tuesday.",
-  "image_url": "https://img.transistorcdn.com/9P8N8H3H_WbbIpbtDA4daAUQIBfqbrUq6Vjr0XcCbuE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yOGMy/NzMxZjI2NzQ2MGQ0/NjM4MGU3OGJlYWYy/YjczZi5wbmc.jpg",
-  "fetched_at": "2026-06-28T14:18:21+00:00",
+  "description": "DodoBorne is an improvised comedy storytelling podcast where five friends dive into Daggerheart, the tabletop roleplaying game from Darrington Press. Whether you're looking for adventure, romance, mystery, or nonsense, DodoBorne offers a welcoming mix of humor, heart, and collaborative storytelling that we hope will keep you coming back for more. With Season 3 serving as a fresh starting point for new viewers, there's never been a better time to join the flock! New episodes air every other Monday.",
+  "image_url": "https://img.transistorcdn.com/8gaSb-T8iGE_guMXbKf58wsPBhrF7Cw7aXpzwEf7pAM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMjY0/MDdmZTkzNWEyMWNh/YzFlNmM0ZTVmY2I2/ODE4My5wbmc.jpg",
+  "fetched_at": "2026-06-29T05:02:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -32,7 +32,7 @@
       "title": "3.1 Cut To!",
       "published_at": "2026-06-17T01:00:00+00:00",
       "link": "https://share.transistor.fm/s/5769de05",
-      "description": "Join our Patreon for episode talk backs, GM insights, deleted scenes, and more! Well hello there again friends and otherwise! We’ve returned to our story about a few small-town heroes venturing into the great big world of Althea. With a new team and a fresh start, our dodos are ready to tackle the day. But little do they know the day is ready to tackle them back! Find out what awaits our dodos (old and new) in this thrilling premiere! This episode is sponsored by our friends at Demiplane. Check out their digital tools for Daggerheart and other tabletop RPGs at Demiplane.com Follow us on Bluesky , Instagram , or join our Discord for more Dodoborne! Music in this episode created by: Daniel Bukin Isaac Allen Burns Raine B Listen to the music from this episode and other Dodotunes HERE \"Daggerheart (Main Theme Soundtrack)\" by Taylor Ash & Lindsay Dills Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. Learn more at Dodoborne.com Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Join our Patreon for episode talk backs, GM insights, deleted scenes, and more! Well hello there again friends and otherwise! We’ve returned to our story about a few small-town heroes venturing into the great big world of Althea. With a new team and a fresh start, our dodos are ready to tackle the day. But little do they know the day is ready to tackle them back! Find out what awaits our dodos (old and new) in this thrilling premiere! This episode is sponsored by our friends at Demiplane. Check out their digital tools for Daggerheart and other tabletop RPGs at Demiplane.com Follow us on Bluesky , Instagram , or join our Discord for more Dodoborne! Music in this episode created by: Daniel Bukin Isaac Allen Burns Raine B Listen to the music from this episode and other Dodotunes HERE \"Daggerheart (Main Theme Soundtrack)\" by Taylor Ash & Lindsay Dills Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. Learn more at Dodoborne.com Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/5769de05/d96a69e5.mp3",
       "enclosure_type": "audio/mpeg",
@@ -46,11 +46,11 @@
       "title": "Bonus: The Polaris University Squawk-back Episode",
       "published_at": "2026-06-04T11:22:54+00:00",
       "link": "https://share.transistor.fm/s/733abbeb",
-      "description": "Join the Dodos as we discuss everything from our limited series, Polaris University . The mystery Favorite moments Highs and lows Theories Questions from you, our amazing Squawk Squad! Thank you for all your support. We hope you had as much fun listening as we did making it! See you in Dodoborne Season 3! 👀 Music in this Polaris University was created by Daniel Bukin, Raine B, and the Beekeeper. Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Join the Dodos as we discuss everything from our limited series, Polaris University . The mystery Favorite moments Highs and lows Theories Questions from you, our amazing Squawk Squad! Thank you for all your support. We hope you had as much fun listening as we did making it! See you in Dodoborne Season 3! 👀 Music in this Polaris University was created by Daniel Bukin, Raine B, and the Beekeeper. Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/RanShjrDxwrAQb-qtavgqBFIgxvyrrSqUMTNUTl06sw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82Y2E5/NDc5ZTBhZjE2Zjk5/N2IwMjQwY2FhOTEx/MmE4Yy5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/733abbeb/3d2995e5.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "74659846",
+      "enclosure_length": "49794688",
       "itunes_duration": "3108",
       "speakers": [],
       "topics": [
@@ -64,14 +64,15 @@
       "title": "Polaris University 1.7: Resurrection",
       "published_at": "2026-06-02T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/1a411eeb",
-      "description": "We've found it! The one behind all the tricks and trickery. In this thrilling conclusion to our little side adventure, the team must work together to stop the experiment before it consumes them all. But will their combined powers be enough? Will a scheme that could only be hatched in the magical mishap metropolis of Polaris come to fruition? Will Ilya, of all people, be able to survive this fight? Find out now! Vivi's persistence pays off. Hickory's kicks come into play. Rainy's guts get insulted. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ We've found it! The one behind all the tricks and trickery. In this thrilling conclusion to our little side adventure, the team must work together to stop the experiment before it consumes them all. But will their combined powers be enough? Will a scheme that could only be hatched in the magical mishap metropolis of Polaris come to fruition? Will Ilya, of all people, be able to survive this fight? Find out now! Vivi's persistence pays off. Hickory's kicks come into play. Rainy's guts get insulted. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/-yhrW6fwcAaPq60Hhxt517IhvevjyakeRrTHEQHq3h0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iZjdh/Y2VlYTBkNmNkY2M5/MWRiMjI2MWJlYmM5/Mjc0Mi5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/1a411eeb/0a383a83.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "84840736",
+      "enclosure_length": "56581079",
       "itunes_duration": "3532",
       "speakers": [
-        "Polaris University"
+        "Polaris University",
+        "Resurrection Season"
       ],
       "topics": [
         "polaris",
@@ -84,14 +85,15 @@
       "title": "Polaris University 1.6: Revelations",
       "published_at": "2026-05-26T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/8c32c2da",
-      "description": "The plots converge! Our students are creeping ever closer to the answers they seek and are soon about to discover who is behind all of this. After detaining the mysterious individual in broad daylight, the trio must figure out where to go from here and how to solve the final mystery. Will they be victorious, or will they wind up as cute little Gamatochis just like their dear professor? Find out! Hickory builds the team. Rainy keeps the peace. Vivi faces the past. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ The plots converge! Our students are creeping ever closer to the answers they seek and are soon about to discover who is behind all of this. After detaining the mysterious individual in broad daylight, the trio must figure out where to go from here and how to solve the final mystery. Will they be victorious, or will they wind up as cute little Gamatochis just like their dear professor? Find out! Hickory builds the team. Rainy keeps the peace. Vivi faces the past. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/I4p7HbMGDvuxFhhY3caN1F5eH-MlSjQik7sgUMEipgg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84NDgx/MTM1NWUwM2U5YmEz/NmEwYWU1MTUwMGMy/MWNkYy5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/8c32c2da/2feef434.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "69424544",
+      "enclosure_length": "46304296",
       "itunes_duration": "2890",
       "speakers": [
-        "Polaris University"
+        "Polaris University",
+        "Revelations Season"
       ],
       "topics": [
         "polaris",
@@ -104,14 +106,15 @@
       "title": "Polaris University 1.5: Frescos",
       "published_at": "2026-05-19T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/23c27a8d",
-      "description": "As the true colors of one Lysander Bellor start to solidify, the gang decides to get some air. Hickory feeds the local wildlife. Vivi gets a new perspective. Rainy shoots her shot. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ As the true colors of one Lysander Bellor start to solidify, the gang decides to get some air. Hickory feeds the local wildlife. Vivi gets a new perspective. Rainy shoots her shot. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/pBkY4n3fEp8dfefsg1uL9-oq7cnZzjZ3KUlu8Pl1bsg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNDlh/MTc5ZjNiZDc4NWQ5/MzYzOGFmNmRiZWVk/ZDI2My5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/23c27a8d/071ed528.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42249038",
       "itunes_duration": "2636",
       "speakers": [
-        "Lysander Bellor"
+        "Polaris University",
+        "Frescos Season"
       ],
       "topics": [
         "polaris",
@@ -124,14 +127,15 @@
       "title": "Polaris University 1.4: Threads",
       "published_at": "2026-05-12T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/faf6ec07",
-      "description": "As this web is woven thicker and thicker, our students unravel more mysteries, including one that was definitely not meant for their ears. Hickory gets career advice. Rainy is interrogated. Vivi decodes a message. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ As this web is woven thicker and thicker, our students unravel more mysteries, including one that was definitely not meant for their ears. Hickory gets career advice. Rainy is interrogated. Vivi decodes a message. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/g4SMy8KVWM3nfhSMlixULi4zaLeqEAcnGX2_U35awbw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYjUy/NGRhOGQ0NDI5ZTBh/NzU4NWExYzk3M2Uy/N2FhYS5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/faf6ec07/33a549d9.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40386789",
       "itunes_duration": "2520",
       "speakers": [
-        "Polaris University"
+        "Polaris University",
+        "Threads Season"
       ],
       "topics": [
         "polaris",
@@ -144,15 +148,15 @@
       "title": "Polaris University 1.3: Secrets",
       "published_at": "2026-05-05T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/9ded91cf",
-      "description": "Whew, what a day it’s been! Our students need time to recover after the intense discovery they made yesterday. Little do they know that whoever “Zelda’d” the poor professor isn’t the only one keeping secrets! Hickory has a rendezvous. Rainy tries her best. Vivi is hot to trot. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Whew, what a day it’s been! Our students need time to recover after the intense discovery they made yesterday. Little do they know that whoever “Zelda’d” the poor professor isn’t the only one keeping secrets! Hickory has a rendezvous. Rainy tries her best. Vivi is hot to trot. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/3f9uXhNWuxU9Hckqr04nJBH74WMwYyNrAn2v4TVgzCg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMjE1/M2RhZDNhMmVkY2Uy/YzE1NTZmNWFjYjY4/OTk1Zi5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/9ded91cf/7d938967.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "66491608",
+      "enclosure_length": "44350333",
       "itunes_duration": "2767",
       "speakers": [
         "Polaris University",
-        "Secrets Whew"
+        "Secrets Season"
       ],
       "topics": [
         "polaris",
@@ -165,13 +169,16 @@
       "title": "Polaris University 1.2: Discovery",
       "published_at": "2026-04-28T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/d9fe378a",
-      "description": "Gadzooks and Jinkies! A body has been found! While I can assure you it wasn't Hickory in the Lab with the Lead Pipe, I CAN assure you that a mystery is afoot! Our students must put their heads and antennae together to figure out what happened to their professor. What secrets lie in wait? What strange things will be found? Find out now! Rainy causes a kerfuffle. Hickory is confused. Vivi has mixed results with her magic. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Gadzooks and Jinkies! A body has been found! While I can assure you it wasn't Hickory in the Lab with the Lead Pipe, I CAN assure you that a mystery is afoot! Our students must put their heads and antennae together to figure out what happened to their professor. What secrets lie in wait? What strange things will be found? Find out now! Rainy causes a kerfuffle. Hickory is confused. Vivi has mixed results with her magic. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/-MU_jVzCUTb2rUPvEzUNInN2ISXi8e768UPUf94oPwQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMzEy/NjRjODM3ZGQxM2Fk/MDYzODNjYTJmOGU4/ODczNi5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/d9fe378a/a195c27b.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "68994602",
+      "enclosure_length": "46016738",
       "itunes_duration": "2872",
-      "speakers": [],
+      "speakers": [
+        "Polaris University",
+        "Discovery Season"
+      ],
       "topics": [
         "polaris",
         "university",
@@ -183,15 +190,15 @@
       "title": "Polaris University 1.1: Detention",
       "published_at": "2026-04-21T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/9f961bb9",
-      "description": "Welcome to Polaris University! Join us as we follow our three favorite students: Rainy, Hickory, and Vivi, as they navigate school life at the most prestigious bastions of learning in Althea! Watch out though! Because something lurks, observing, and waiting. Vivi takes notes. Rainy gets to work. Hickory definitely does magic. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Welcome to Polaris University! Join us as we follow our three favorite students: Rainy, Hickory, and Vivi, as they navigate school life at the most prestigious bastions of learning in Althea! Watch out though! Because something lurks, observing, and waiting. Vivi takes notes. Rainy gets to work. Hickory definitely does magic. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/46rXxRRRJ1V7lcnp0WsDVFD1Hff8DxiX9KzWkUHiWJ4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iYjc2/ZmM1N2IzMmYzM2Fi/OGY0ZWVkYjQzZjg5/MmQ5YS5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/9f961bb9/86348afe.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "64630079",
+      "enclosure_length": "43095204",
       "itunes_duration": "2689",
       "speakers": [
         "Polaris University",
-        "Detention Welcome"
+        "Detention Season"
       ],
       "topics": [
         "polaris",
@@ -204,7 +211,7 @@
       "title": "2.18 The Season Two Squawk-back Episode (Bonus)",
       "published_at": "2026-04-07T07:05:00+00:00",
       "link": "https://share.transistor.fm/s/783ac276",
-      "description": "Eyyyy, it's (another) DodoBorne talkback episode! This time we discuss all things season two: Favorite moments NPCs Highs and Lows Theories Questions from you, our awesome Squawk Squad! Thank you all for your support throughout our second season. We have some truly exciting plans ahead, and we can’t wait to show you what’s next. We say it all the time, but we really couldn't do this without you. We'll see you soon! Squawk! Special Squawkback Intro created by our friends Barbamouche and MusclesDynamite, who you can find on the Dodoborne Discord channel Music from season 2 episodes created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Eyyyy, it's (another) DodoBorne talkback episode! This time we discuss all things season two: Favorite moments NPCs Highs and Lows Theories Questions from you, our awesome Squawk Squad! Thank you all for your support throughout our second season. We have some truly exciting plans ahead, and we can’t wait to show you what’s next. We say it all the time, but we really couldn't do this without you. We'll see you soon! Squawk! Special Squawkback Intro created by our friends Barbamouche and MusclesDynamite, who you can find on the Dodoborne Discord channel Music from season 2 episodes created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/783ac276/98d80db1.mp3",
       "enclosure_type": "audio/mpeg",
@@ -221,11 +228,11 @@
       "title": "2.17 Casus Belli: Part 2",
       "published_at": "2026-02-24T08:00:00+00:00",
       "link": "https://share.transistor.fm/s/f84ab1cf",
-      "description": "It's the thrilling conclusion of Season 2, and what a finale it is! Percival returns! The relic calls! The battle continues! Will the dodo's stop the signal of war being shot out by the mad Walter Zeshthon, or will these banners officially burn? Find out now! Kapi gets his first kill. Pistachio loses someone, but gains a brand new something. Crank is gone. Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ It's the thrilling conclusion of Season 2, and what a finale it is! Percival returns! The relic calls! The battle continues! Will the dodo's stop the signal of war being shot out by the mad Walter Zeshthon, or will these banners officially burn? Find out now! Kapi gets his first kill. Pistachio loses someone, but gains a brand new something. Crank is gone. Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/f84ab1cf/205bf60a.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "68097192",
+      "enclosure_length": "45443015",
       "itunes_duration": "2834",
       "speakers": [
         "Casus Belli"
@@ -240,11 +247,11 @@
       "title": "2.16 Casus Belli: Part 1",
       "published_at": "2026-02-17T08:00:00+00:00",
       "link": "https://share.transistor.fm/s/dda1495c",
-      "description": "Death is coming! The Sage's Relic looms large once again. Wired to some mysterious contraption, it calls to all who have ears to hear, and it desires a fresh hand to grasp it. The machinations of the younger Balthazar have come to light, and our dodo's must stop them before something terrible happens. Can war be averted? Or have the flames of war growing great and glowing greater consumed too much of man's souls to be stopped? Kapi whips out his weapon. Pistachio adds another dodo to the book. Crank is.... definitely someone else. Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Death is coming! The Sage's Relic looms large once again. Wired to some mysterious contraption, it calls to all who have ears to hear, and it desires a fresh hand to grasp it. The machinations of the younger Balthazar have come to light, and our dodo's must stop them before something terrible happens. Can war be averted? Or have the flames of war growing great and glowing greater consumed too much of man's souls to be stopped? Kapi whips out his weapon. Pistachio adds another dodo to the book. Crank is.... definitely someone else. Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/dda1495c/8ae03f41.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "71793973",
+      "enclosure_length": "47905212",
       "itunes_duration": "2988",
       "speakers": [
         "Casus Belli"
@@ -259,14 +266,14 @@
       "title": "2.15 A Descent",
       "published_at": "2026-02-03T08:01:00+00:00",
       "link": "https://share.transistor.fm/s/149360a5",
-      "description": "Down the stairs they go, into an abyss both physical AND emotional. What secrets are wiating in the basement of the warehouse? Answers will be revealed, plots uncovered, and lore dropped! Will Callie actually break up with Ingeborg? Find out! Kapi goes off on his own again. Pistachio makes discoveries. Crank is.... maybe someone else? Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Down the stairs they go, into an abyss both physical AND emotional. What secrets are wiating in the basement of the warehouse? Answers will be revealed, plots uncovered, and lore dropped! Will Callie actually break up with Ingeborg? Find out! Kapi goes off on his own again. Pistachio makes discoveries. Crank is.... maybe someone else? Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/149360a5/c8357903.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "72471615",
-      "itunes_duration": "3017",
+      "enclosure_length": "48357852",
+      "itunes_duration": "3016",
       "speakers": [
-        "Descent Down"
+        "Descent Season"
       ],
       "topics": [
         "descent"
@@ -277,13 +284,15 @@
       "title": "2.14 A Door is Opened",
       "published_at": "2026-01-13T08:00:00+00:00",
       "link": "https://share.transistor.fm/s/aa8a3c35",
-      "description": "Into the warehouse! Our group sneaks and stealths into the warehouse of the Zesthon family, which proves to hide many secrets and oddities. Familiar faces will be seen AND felt, as darkness closes in on our heroes. Pistachio loses their patience. Kapi goes toe to toe. Crank discovers his purpose. Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Into the warehouse! Our group sneaks and stealths into the warehouse of the Zesthon family, which proves to hide many secrets and oddities. Familiar faces will be seen AND felt, as darkness closes in on our heroes. Pistachio loses their patience. Kapi goes toe to toe. Crank discovers his purpose. Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/aa8a3c35/305d9f05.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "75093693",
+      "enclosure_length": "50107019",
       "itunes_duration": "3126",
-      "speakers": [],
+      "speakers": [
+        "Opened Season"
+      ],
       "topics": [
         "door"
       ]
@@ -297,7 +306,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/861c8d06/a2148ebf.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "69880209",
+      "enclosure_length": "46631287",
       "itunes_duration": "2909",
       "speakers": [],
       "topics": [
@@ -315,7 +324,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/d2b84c54/ed5f65c1.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "66545221",
+      "enclosure_length": "44409407",
       "itunes_duration": "2770",
       "speakers": [],
       "topics": [
@@ -331,7 +340,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/4c915cb4/ac489907.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "71573781",
+      "enclosure_length": "47761430",
       "itunes_duration": "2979",
       "speakers": [],
       "topics": [
@@ -348,7 +357,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/f94315c6/8007edfa.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "11392528",
+      "enclosure_length": "7640712",
       "itunes_duration": "472",
       "speakers": [
         "Official Patreon Tiers"
@@ -367,7 +376,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/ff479fb2/87c3d8d2.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "72018418",
+      "enclosure_length": "48055677",
       "itunes_duration": "2998",
       "speakers": [],
       "topics": [
@@ -384,7 +393,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/3d59c9b9/b02051a0.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "61641350",
+      "enclosure_length": "41138458",
       "itunes_duration": "2565",
       "speakers": [],
       "topics": [
@@ -401,7 +410,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/e7a21d3f/e715756d.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "67529474",
+      "enclosure_length": "45063921",
       "itunes_duration": "2811",
       "speakers": [
         "Day Off After"
@@ -419,7 +428,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/36281cd6/859c97f9.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "64364031",
+      "enclosure_length": "42931913",
       "itunes_duration": "2677",
       "speakers": [],
       "topics": [
@@ -435,7 +444,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/956e88d4/34432f94.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "60988927",
+      "enclosure_length": "40698762",
       "itunes_duration": "2538",
       "speakers": [
         "Gentle Reader"
@@ -454,7 +463,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/b3c191c7/81ef2343.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "63800979",
+      "enclosure_length": "42567038",
       "itunes_duration": "2655",
       "speakers": [],
       "topics": [
@@ -471,7 +480,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/babad101/523fdaba.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "66733015",
+      "enclosure_length": "44530617",
       "itunes_duration": "2777",
       "speakers": [],
       "topics": [
@@ -489,7 +498,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/c679024b/6dd9cbd6.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "66559906",
+      "enclosure_length": "44416088",
       "itunes_duration": "2770",
       "speakers": [],
       "topics": [
@@ -505,7 +514,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/50472b47/70589d29.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "72571827",
+      "enclosure_length": "48418061",
       "itunes_duration": "3020",
       "speakers": [
         "Duck Walks Into"
@@ -525,7 +534,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/a1a5e247/d292b20c.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "55827473",
+      "enclosure_length": "37218436",
       "itunes_duration": "2320",
       "speakers": [
         "Daniel Bukin"
@@ -546,7 +555,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/51186542/c360e72e.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "63840412",
+      "enclosure_length": "42580834",
       "itunes_duration": "2655",
       "speakers": [],
       "topics": [
@@ -563,7 +572,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/2d8bd47d/3fcbce38.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "71788280",
+      "enclosure_length": "47903980",
       "itunes_duration": "2988",
       "speakers": [],
       "topics": [
@@ -581,7 +590,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/c7d0856f/5da7d945.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "71891219",
+      "enclosure_length": "47972944",
       "itunes_duration": "2992",
       "speakers": [
         "Highcliff Hassle"
@@ -601,7 +610,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/0a47b679/f324f3ee.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "108618526",
+      "enclosure_length": "72451975",
       "itunes_duration": "4522",
       "speakers": [],
       "topics": [
@@ -618,7 +627,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/ed122135/92e7f703.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "79815656",
+      "enclosure_length": "53254680",
       "itunes_duration": "3323",
       "speakers": [
         "unexpected assailants"
@@ -638,7 +647,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/a191bf7b/2a4a2d4c.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "68452711",
+      "enclosure_length": "45678751",
       "itunes_duration": "2849",
       "speakers": [],
       "topics": [
@@ -655,7 +664,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/0bafd4e3/09f8bd5f.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "67804419",
+      "enclosure_length": "45246165",
       "itunes_duration": "2822",
       "speakers": [],
       "topics": [
@@ -672,7 +681,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/f9c4b615/c0200783.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "68336936",
+      "enclosure_length": "45596415",
       "itunes_duration": "2844",
       "speakers": [
         "Brackenroad Apple Festival"
@@ -691,7 +700,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/8bed8a33/58135367.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "44791118",
+      "enclosure_length": "29911675",
       "itunes_duration": "1864",
       "speakers": [],
       "topics": [
@@ -708,7 +717,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/c8b20940/722ececd.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "68502193",
+      "enclosure_length": "45713016",
       "itunes_duration": "2851",
       "speakers": [],
       "topics": []
@@ -722,7 +731,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/1e3fee73/a0279193.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "68384115",
+      "enclosure_length": "45634442",
       "itunes_duration": "2846",
       "speakers": [],
       "topics": [
@@ -738,7 +747,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/943ad37b/d73edc9d.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "66270857",
+      "enclosure_length": "44236790",
       "itunes_duration": "2759",
       "speakers": [],
       "topics": [
@@ -755,7 +764,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/78676db6/8883924c.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "66431473",
+      "enclosure_length": "44332497",
       "itunes_duration": "2765",
       "speakers": [],
       "topics": [
@@ -772,7 +781,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/de05b57e/c37cc2c6.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "66233049",
+      "enclosure_length": "44210050",
       "itunes_duration": "2757",
       "speakers": [],
       "topics": [
@@ -790,7 +799,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/69cecf82/e6f770f1.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "69729113",
+      "enclosure_length": "46541415",
       "itunes_duration": "2903",
       "speakers": [
         "Isaac Allen Burns"
@@ -809,7 +818,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/92c0f49e/969547aa.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "71290060",
+      "enclosure_length": "47579622",
       "itunes_duration": "2968",
       "speakers": [],
       "topics": [
@@ -826,7 +835,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/853c0303/7e4d0bd9.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "51866905",
+      "enclosure_length": "34635003",
       "itunes_duration": "2159",
       "speakers": [
         "Rope Danger"
@@ -845,7 +854,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/43729940/3c7bcfe1.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "71765055",
+      "enclosure_length": "47891855",
       "itunes_duration": "2987",
       "speakers": [],
       "topics": [
@@ -862,7 +871,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/cec7b399/d7c60072.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "64017453",
+      "enclosure_length": "42730455",
       "itunes_duration": "2665",
       "speakers": [],
       "topics": [
@@ -879,7 +888,7 @@
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/502fce98/9ba7ed40.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "55148501",
+      "enclosure_length": "36819267",
       "itunes_duration": "2295",
       "speakers": [],
       "topics": [
@@ -891,13 +900,15 @@
       "title": "1.1 The Sexy Dying Turnip",
       "published_at": "2024-11-12T12:00:00+00:00",
       "link": "https://share.transistor.fm/s/a158ec89",
-      "description": "Kapi bullies the new recruits. Crank interacts with humans seemingly for the first time. Pistachio has a traumatic experience with a turnip. DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 has video and is a great place to start your Daggerheart Journey! Season 3 is not only video, but we approached it in a way that both longtime listeners and people discovering Dodoborne for the first time can enjoy. The video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM Isaac Allen Burns! Check out the Season 3 video premiere by clicking HERE! _____________________________________ Kapi bullies the new recruits. Crank interacts with humans seemingly for the first time. Pistachio has a traumatic experience with a turnip. DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/a158ec89/e3aca1be.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "57060675",
+      "enclosure_length": "38096546",
       "itunes_duration": "2375",
-      "speakers": [],
+      "speakers": [
+        "Daggerheart Journey"
+      ],
       "topics": [
         "sexy",
         "dying",
@@ -909,11 +920,11 @@
       "title": "0. Prologue: A Fritter, a Sweater, and a Hat",
       "published_at": "2024-11-11T11:30:54+00:00",
       "link": "https://share.transistor.fm/s/03f066be",
-      "description": "Say hello to Pistachio the Faun, Kapi the Firbolg, and Crank the Clank as they go about their day in the apple orchard town of Brackenroad. We’ll make a few friends, read some books, and maybe get a bite to eat! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
+      "description": "Season 3 has video and is a great place to start your Daggerheart Journey! Season 3 is not only video, but we approached it in a way that both longtime listeners and people discovering Dodoborne for the first time can enjoy. The video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM Isaac Allen Burns! Check out the Season 3 video premiere by clicking HERE! _____________________________________ Say hello to Pistachio the Faun, Kapi the Firbolg, and Crank the Clank as they go about their day in the apple orchard town of Brackenroad. We’ll make a few friends, read some books, and maybe get a bite to eat! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters Prince of Lurkmenistan Ash of the mountain Howlfin Kalem Taylor Steven Medbury CactuarDavid Skooli Perseverance Fey MinecraftParker Josh M Lina G. Keith Stocks Loni Vogler sixla Racheylovesyou MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado World of Gariva Valerie Mariana sleepyyz Devon CondorBleu Tungsten The Bright Niclas Wallin JayRizz Laekeycakes unbeknownst Tales by Daggerlight Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jesse Jones Colecago Maria Welch CEO Zorak but now with the free midlife crisis DLC Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez Moose full of nonny ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/03f066be/b2dfd952.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "50726270",
+      "enclosure_length": "33862221",
       "itunes_duration": "2111",
       "speakers": [],
       "topics": [
@@ -931,18 +942,18 @@
 
 - 2026-06-17 — 3.1 Cut To!
 - 2026-06-04 — Bonus: The Polaris University Squawk-back Episode
-- 2026-06-02 — Polaris University 1.7: Resurrection — speakers: Polaris University
-- 2026-05-26 — Polaris University 1.6: Revelations — speakers: Polaris University
-- 2026-05-19 — Polaris University 1.5: Frescos — speakers: Lysander Bellor
-- 2026-05-12 — Polaris University 1.4: Threads — speakers: Polaris University
-- 2026-05-05 — Polaris University 1.3: Secrets — speakers: Polaris University, Secrets Whew
-- 2026-04-28 — Polaris University 1.2: Discovery
-- 2026-04-21 — Polaris University 1.1: Detention — speakers: Polaris University, Detention Welcome
+- 2026-06-02 — Polaris University 1.7: Resurrection — speakers: Polaris University, Resurrection Season
+- 2026-05-26 — Polaris University 1.6: Revelations — speakers: Polaris University, Revelations Season
+- 2026-05-19 — Polaris University 1.5: Frescos — speakers: Polaris University, Frescos Season
+- 2026-05-12 — Polaris University 1.4: Threads — speakers: Polaris University, Threads Season
+- 2026-05-05 — Polaris University 1.3: Secrets — speakers: Polaris University, Secrets Season
+- 2026-04-28 — Polaris University 1.2: Discovery — speakers: Polaris University, Discovery Season
+- 2026-04-21 — Polaris University 1.1: Detention — speakers: Polaris University, Detention Season
 - 2026-04-07 — 2.18 The Season Two Squawk-back Episode (Bonus)
 - 2026-02-24 — 2.17 Casus Belli: Part 2 — speakers: Casus Belli
 - 2026-02-17 — 2.16 Casus Belli: Part 1 — speakers: Casus Belli
-- 2026-02-03 — 2.15 A Descent — speakers: Descent Down
-- 2026-01-13 — 2.14 A Door is Opened
+- 2026-02-03 — 2.15 A Descent — speakers: Descent Season
+- 2026-01-13 — 2.14 A Door is Opened — speakers: Opened Season
 - 2025-12-30 — 2.13 ...And a Whole Lotta Faerie Dust.
 - 2025-12-16 — 2.12 A Little Bit of Trust...
 - 2025-12-02 — 2.11 A Port of Whine
@@ -977,5 +988,5 @@
 - 2024-12-24 — 1.4 The Good, the Bad, and the Incompetent
 - 2024-12-10 — 1.3 The Usual, Myles
 - 2024-11-26 — 1.2 The Unstoppable Mr. Crank
-- 2024-11-12 — 1.1 The Sexy Dying Turnip
+- 2024-11-12 — 1.1 The Sexy Dying Turnip — speakers: Daggerheart Journey
 - 2024-11-11 — 0. Prologue: A Fritter, a Sweater, and a Hat

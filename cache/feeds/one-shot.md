@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-06-22T05:33:46+00:00`
-- checked_at: `2026-06-22T05:33:46+00:00`
-- last_modified: `Mon, 22 Jun 2026 04:15:07 GMT`
+- fetched_at: `2026-06-29T05:02:08+00:00`
+- checked_at: `2026-06-29T05:02:08+00:00`
+- last_modified: `Mon, 29 Jun 2026 04:09:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/8e75fc9d6dbbc2142cca11c14acfdea1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-22T05:33:46+00:00",
+  "fetched_at": "2026-06-29T05:02:08+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "73daf7e4fa5a8ba6b1017c9752ee0de7ea2fc9ef",
+      "title": "655. Force of Extinction, Episode 2",
+      "published_at": "2026-06-29T04:09:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY Three survivors traverse the dangerous wasteland of New York City in search of the Tree of Life. SHOW NOTES Force of Extinction One Shot News & Updates One Shot Patreon One Shot TWITCH Ultimate RPG Villain Backstory Guide Follow the cast here! Dillin Apelyan Edward Spence Candace McAfee Drakoniques ----------------------------------------------------- Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Absynth, Elision Rewired, Wicked Cinema High Octane, Rhythm Scott Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN3924230288.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3925",
+      "speakers": [
+        "New York City",
+        "James D'Amato"
+      ],
+      "topics": [
+        "force",
+        "extinction"
+      ]
+    },
     {
       "key": "1ab10836b0aead2b651bd9970dfb6c3f6983f4a6",
       "title": "654. Force of Extinction, Episode 1",
@@ -13371,6 +13391,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-29 — 655. Force of Extinction, Episode 2 — speakers: New York City, James D'Amato
 - 2026-06-22 — 654. Force of Extinction, Episode 1 — speakers: Edward Spence, James D'Amato
 - 2026-06-15 — 653. This Wretched House, Episode 2 — speakers: One Shot, James D'Amato
 - 2026-06-08 — 652. This Wretched House, Episode 1 — speakers: James D'Amato

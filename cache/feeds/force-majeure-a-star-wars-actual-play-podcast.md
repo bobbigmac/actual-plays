@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-06-27T11:05:18+00:00`
-- checked_at: `2026-06-27T11:05:18+00:00`
-- etag: `"ccb3cf48d19593cb28e28850c3fe8a73"`
-- last_modified: `Mon, 22 Jun 2026 19:50:33 GMT`
+- fetched_at: `2026-06-29T05:02:08+00:00`
+- checked_at: `2026-06-29T05:02:08+00:00`
+- etag: `"8887f8a0624b4d12f674371cca5c28a1"`
+- last_modified: `Mon, 29 Jun 2026 04:34:54 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! Twitter / Facebook / Instagram: @forcemajeurepod Website: www.forcemajurepod.com",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-06-27T11:05:18+00:00",
+  "fetched_at": "2026-06-29T05:02:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "a20b5f52cff968e7a3943cd4ab9a4019b29b45a1",
+      "title": "A Shot At Redemption E11 - The Jallo Farmstead",
+      "published_at": "2026-06-29T04:30:00+00:00",
+      "link": "https://forcemajeurepod.libsyn.com/a-shot-at-redemption-e11-the-jallo-farmstead",
+      "description": "The Jallo farmstead, on the edge of the valley where Jackran's Redemption slumbers fitfully, has gone dark. There is no answer from the farmsteaders. Smoke can be seen rising from the main house. What lies waiting there for our heroes? Cast! Adam Beltaine is your GM, and can be found on Bluesky as @maddambeltaine.bsky.social Lou plays Tryk C Rangavoon, and can be found on Bluesky at @magpiehound.bsky.social Mikey plays Jax Vorn, and can be found on Bluesky at @weaselpunk.bsky.social Tom plays Kip Kazian and can be found on Bluesky at @tcpatrick.bsky.social as well as GMing the wonderful Dice Company podcast Geoff plays Kalro Vatts, and sensibly has no social media presence Follow us on social media! All our links can now be found here: linktr.ee/albertthellama Support Albert the Llama Enterprises! If you like what we do and have some spare money, we have both a Patreon and a Ko-Fi account. We are extremely grateful for your support. https://www.patreon.com/forcemajeurepod ko-fi.com/forcemajeurepod Intro and Supplemental Music: Composed by Sly Fox Audio - check out more of her stuff on soundcloud.com/slyfoxaudio Additional Music: \"Visitation (music only Patreon exclusive)\" by Tabletop Audio All used with gratitude under the Creative Commons licence",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/forcemajeurepod/Redemption_E11.mp3?dest-id=604132",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53081803",
+      "itunes_duration": "45:35",
+      "speakers": [],
+      "topics": [
+        "shot",
+        "redemption",
+        "jallo",
+        "farmstead"
+      ]
+    },
     {
       "key": "bee3c06c0684372502a14d2d9a7c8346387eeb49",
       "title": "A Shot At Redemption E10 - Three Weeks Later",
@@ -4471,6 +4490,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-29 — A Shot At Redemption E11 - The Jallo Farmstead
 - 2026-06-15 — A Shot At Redemption E10 - Three Weeks Later — speakers: Three Weeks Later Time
 - 2026-06-01 — A Shot At Redemption E09 - Jiggety Jig
 - 2026-05-18 — A Shot At Redemption E08 - The Hatchery
