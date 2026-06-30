@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-06-23T20:25:24+00:00`
-- checked_at: `2026-06-23T20:25:24+00:00`
-- etag: `"djEuMi4wOjE3ODIyNDEyMzk1NDQ="`
+- fetched_at: `2026-06-30T20:21:39+00:00`
+- checked_at: `2026-06-30T20:21:39+00:00`
+- etag: `"djEuMi4wOjE3ODI4NDYwMzk0MTQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-06-23T20:25:24+00:00",
+  "fetched_at": "2026-06-30T20:21:39+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "02eaf0cf1663ffcd8be261e5df9c605ac22685d6",
+      "title": "Action Surge Episode 57",
+      "published_at": "2026-06-30T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-57",
+      "description": "See it through, you coward. First of all, we have to give Doug his flowers. Not just for this episode, but for this whole arc so far. He has done an incredible job, and once we finish talking about Ben's ridiculous spending habits, we finally get the chance to do just that. We explore the pain Kelnys experienced, the anger that came with it, and how grief manifests in different people. We might expect that rage from Raidion, even from Elowen, but the idea of Kelnys losing his cool? That's unnerving. It's also incredibly real. We also pick apart the idea of free will, or the lack of it, and how that applies to some of those around the table. Can they walk away? Technically, yes. But sometimes you simply know too much to turn your back on it. Finally, we talk about making choices, and why both Ben and Raidion choosing not to join the others in the hut was probably the best decision he could have made. Would Raidion have made things worse? Well, we can't know for certain... but yes. The answer is yes. Would Elowen have helped him make it worse? The answer is also yes. -- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a3a51b2f98cd5f3ac3a21fb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "158115424",
+      "itunes_duration": "1:05:52",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "dee64aa9a41eb2a5d29991f65775ad1d0de50d95",
       "title": "Ep. 57 The Everfire",
@@ -3013,6 +3037,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-30 — Action Surge Episode 57 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-23 — Ep. 57 The Everfire — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-18 — Action Surge | Witchspire one-shot — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-16 — Action Surge Episode 56 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
