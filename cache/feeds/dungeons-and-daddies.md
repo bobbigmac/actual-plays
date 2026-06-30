@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-06-16T17:23:34+00:00`
-- checked_at: `2026-06-16T17:23:34+00:00`
-- etag: `"djEuMi4wOjE3ODE2MjYyNTQyMjQ="`
+- fetched_at: `2026-06-30T17:17:27+00:00`
+- checked_at: `2026-06-30T17:17:27+00:00`
+- etag: `"djEuMi4wOjE3ODI4MzUyMzk0MjU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-06-16T17:23:34+00:00",
+  "fetched_at": "2026-06-30T17:17:27+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -32,6 +32,29 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "4912e379cbfe772d02c22207fa1d87726cbebe71",
+      "title": "S4 Ep. 11 - A Song of Fire and Ice",
+      "published_at": "2026-06-30T16:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "ai psychosis signs is ai psychosis okay ai psychosis cute sorry i meant cure this kyeboard has no backspace i meant keyboatd This episode contains Profanity, Violence, Sexual Content and discussion of Suicide. If you are struggling or need extra support, please see the resources below: • A warmline is a phone number you call to have a conversation with someone who can provide support during hard times. Find a warmline at WARMLINE.ORG • If you are in crisis and a warmline can’t provide the level of support you need, you can reach the Suicide & Crisis Lifeline by calling or texting 988 or using the chat box at 988lifeline.org • Here is a tool to find international crisis phone and chat lines To sign up to follow our sourcebook Backerkit Campaign starting July 21st (and to secure a sick bumpersticker), go to bookmedaddy.com Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1782801567807-45777730-a09c-4bdd-b766-ed71acab247e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/6a436601c2fe1c7f49004fc4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "103512715",
+      "itunes_duration": "1:11:25",
+      "speakers": [
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "song",
+        "fire"
+      ]
+    },
     {
       "key": "9e64ee7b7bf7cbc65bcd648defcdaa698cad4693",
       "title": "S4 Ep. 10 - The Handalorian and BroGoo",
@@ -4748,6 +4771,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-30 — S4 Ep. 11 - A Song of Fire and Ice — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-06-16 — S4 Ep. 10 - The Handalorian and BroGoo — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-06-02 — S4 Ep. 9 - Stepmothership - From the Makers of Anthony Burch’s World Championship Russian Roulette — speakers: Anthony Burch, Russian Roulette, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-05-19 — S4 Ep. 8 - The Rentalist — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
