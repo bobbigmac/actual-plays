@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-06-29T20:17:17+00:00`
-- checked_at: `2026-06-29T20:17:17+00:00`
-- etag: `"djEuMi4wOjE3ODI3NTgxNTk3MTQ="`
+- fetched_at: `2026-07-01T15:14:15+00:00`
+- checked_at: `2026-07-01T15:14:15+00:00`
+- etag: `"djEuMi4wOjE3ODI4MjQ0MzkzODg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/show-cover.png",
-  "fetched_at": "2026-06-29T20:17:17+00:00",
+  "fetched_at": "2026-07-01T15:14:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "058fa98fe79039635169cb886b35a14e3691111f",
+      "title": "ColdIron | Episode 3: Beneath the Walls",
+      "published_at": "2026-06-30T13:00:00+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/coldiron-episode-3-beneath-the-walls",
+      "description": "Welcome to our ColdIron: our new homebrew campaign! In this episode, the party takes a job rescuing cats from catacombs. Kelly Clark as Dungeon Master Cast Amy Godfrey as Carrion Slaughterhouse Robin Holford as Trixxi Blastemoff Katrina McGie as Taliina'a Christine Rattray as Bell St. Claire Caitlan Vinkle as ZOE === Music credits: Tim Kulig kindly composed the following tracks for this campaign: Tumbleweeds Campaign Outro Find him at https://www.timkulig.com Licensed under Creative Commons: By Attribution 4.0 creativecommons.org/licenses/by/4.0/ IMDB: https://www.imdb.com/name/nm0997280/?... The Following licensed tracks by Monument Studios were used: High Noon Outlander Harps Exuberant NPC Idle Guitars Tavern Fiddle Dark Hybrid Ambience Western Saloon With Music Epic Chase Cathedral of Frost Anxiety State Tense Encounter https://www.monumentstudios.net It also includes the following music from Joel Steudler, licensed through a Humble Music collection: Heavily Armed Comedic Capers Additional Licensed tracks by Ovani Sound and Phat Phrog Studio may also used. For background ambience we used sounds from Tabletop Audio. Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life. https://www.tabletopaudio.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1782753930887-83e7a5cb-4b00-4b94-a6cf-3cf2d8fecfae.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a42ad613fa89e3338af0e06/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "142198305",
+      "itunes_duration": "2:49:16",
+      "speakers": [
+        "Walls Welcome"
+      ],
+      "topics": [
+        "coldiron",
+        "wall"
+      ]
+    },
     {
       "key": "639341a871b7a00891fc6a6391f62143885abaa6",
       "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 11: The Sisters Goodwyn",
@@ -7958,6 +7977,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-30 — ColdIron | Episode 3: Beneath the Walls — speakers: Walls Welcome
 - 2026-06-29 — Mage the Ascension the Victorian Age | Book 3, Chapter 11: The Sisters Goodwyn — speakers: Victorian Age
 - 2026-06-25 — ColdIron | Episode 2: Death in Prospect — speakers: Prospect Welcome
 - 2026-06-19 — Mage the Ascension the Victorian Age | Book 3, Chapter 10: The Eligible Mr. Blackwood — speakers: Victorian Age, Blackwood Welcome
