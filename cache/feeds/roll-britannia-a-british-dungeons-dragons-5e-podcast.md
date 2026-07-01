@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-06-24T09:52:39+00:00`
-- checked_at: `2026-06-24T09:52:39+00:00`
-- etag: `"djEuMi4wOjE3ODIyODQ0Mzk0NDU="`
+- fetched_at: `2026-07-01T10:17:03+00:00`
+- checked_at: `2026-07-01T10:17:03+00:00`
+- etag: `"djEuMi4wOjE3ODI4ODkyMzk3MDE="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-06-24T09:52:39+00:00",
+  "fetched_at": "2026-07-01T10:17:03+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "09c111fb69203fc0c8c6f72336718d0764b8102c",
+      "title": "Ep. 012: Age of Astra - All Gloves Are Off | #DND",
+      "published_at": "2026-07-01T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the agents push onward into territory that feels increasingly unfamiliar, where every discovery seems to cast a longer shadow than the last. The Dice continue to blur the line between coincidence and design, and in this DnD chapter, even the simplest choices carry an unsettling weight. Some paths only reveal where they lead once it’s far too late to turn back. What has been waiting for them all this time? Which piece of the puzzle still doesn’t fit? And when the truth finally reveals itself… will anyone be ready for it? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1782421556053-47277c6c-ef14-4d1e-901b-0973e156c6f6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6a3d98920ad3211686aebdb9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "115384337",
+      "itunes_duration": "48:02",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "gloves"
+      ]
+    },
     {
       "key": "b2c1baf200c4b65e3bf210b1ed0303758de51be0",
       "title": "Ep. 011: Age of Astra - Give Me Your Hat | #DND",
@@ -7873,6 +7890,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-01 — Ep. 012: Age of Astra - All Gloves Are Off | #DND
 - 2026-06-24 — Ep. 011: Age of Astra - Give Me Your Hat | #DND
 - 2026-06-17 — Ep. 010: Age of Astra - Hot or Poo | #DND
 - 2026-06-10 — Ep. 009: Age of Astra - It Appears We Are Trapped | #DND
