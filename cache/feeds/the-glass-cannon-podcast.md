@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-07-01T04:56:11+00:00`
-- checked_at: `2026-07-01T04:56:11+00:00`
-- last_modified: `Wed, 01 Jul 2026 04:00:00 GMT`
+- fetched_at: `2026-07-02T04:32:41+00:00`
+- checked_at: `2026-07-02T04:32:41+00:00`
+- last_modified: `Thu, 02 Jul 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-01T04:56:11+00:00",
+  "fetched_at": "2026-07-02T04:32:41+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "49e84f458327bcc6ac4f4e4721e2d1418280a924",
+      "title": "The Megacorp Way | Gen Con 2026 Gauntlet Prep Part 5 | Traveller",
+      "published_at": "2026-07-02T04:00:00+00:00",
+      "link": null,
+      "description": "After Matthew discovers the fate of his convicted felon, he turns it over to Skid and Joe, who create the final two PCs for the GCN's Traveller Gauntlets at Gen Con 2026! Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6d79cf0e-7569-11f1-aa93-97637967a05b/image/af01ab64defc57f0450780fbc0852e9c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1256445229.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5613",
+      "speakers": [
+        "Gen Con Gauntlet"
+      ],
+      "topics": [
+        "megacorp",
+        "gauntlet",
+        "prep",
+        "traveller"
+      ]
+    },
     {
       "key": "e8dfbec3822c3888ac34b2c01f69ca00d510eaf8",
       "title": "HUMINT | We Shouldn't Be Alive E4 | Twilight: 2000",
@@ -294,6 +315,25 @@
       ]
     },
     {
+      "key": "367f2e557f59872d065181f349df4e5dd9ad14c4",
+      "title": "Blades in the Dark | GCN Naish Rally",
+      "published_at": "2026-06-15T04:00:00+00:00",
+      "link": null,
+      "description": "It's 18 years after the events of Haunted City. Juliet and Valkos have opened a school for next generation of scoundrels, but will their lessons be enough to safeguard the youth through the blackouts plaguing Duskwall? The Remnant becomes a family affair in this reunion episode of Haunted City, featuring the talents of Ross Bryant, Josephine McAdam and Abubakar Salim, with Game Master Jared Logan. Watch the video here: https://youtube.com/live/ZXmy0xIY7Rs Help us unlock what's next. Subscribe today at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4d2d6004-6410-11f1-85bc-d7f6f79bd2f7/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9594405861.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9442",
+      "speakers": [],
+      "topics": [
+        "blade",
+        "dark",
+        "naish",
+        "rally"
+      ]
+    },
+    {
       "key": "1a5439230bfaba30e9da2c448a9090974a1faabf",
       "title": "Hits and Crits | Blood of the Wild S1 E26 | Pathfinder 2E Quest for the Frozen Flame",
       "published_at": "2026-06-15T04:00:00+00:00",
@@ -318,20 +358,20 @@
       ]
     },
     {
-      "key": "367f2e557f59872d065181f349df4e5dd9ad14c4",
-      "title": "Blades in the Dark | GCN Naish Rally",
-      "published_at": "2026-06-15T04:00:00+00:00",
+      "key": "ea0836e55637c31db16d256972fe8c8118b95e14",
+      "title": "Delta Green | GCN Naish Rally",
+      "published_at": "2026-06-12T04:00:00+00:00",
       "link": null,
-      "description": "It's 18 years after the events of Haunted City. Juliet and Valkos have opened a school for next generation of scoundrels, but will their lessons be enough to safeguard the youth through the blackouts plaguing Duskwall? The Remnant becomes a family affair in this reunion episode of Haunted City, featuring the talents of Ross Bryant, Josephine McAdam and Abubakar Salim, with Game Master Jared Logan. Watch the video here: https://youtube.com/live/ZXmy0xIY7Rs Help us unlock what's next. Subscribe today at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/4d2d6004-6410-11f1-85bc-d7f6f79bd2f7/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9594405861.mp3",
+      "description": "The cast of Get in the Trunk's Impossible Landscapes Campaign reunites with some new characters and some old habits in this incredible one shot from the amazing folks at Arc Dream Publishing. When a strange event unfolds at an iconic national park, a Delta Green task force races to the scene to determine the potential unnatural impact before any official authorities can arrive. Watch the video here: ⁠https://youtube.com/live/WlEGKz9Ag2M Help us unlock what's next. Subscribe today at ⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/46969ae2-6359-11f1-ae6c-77b154f07af4/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3705182171.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "9442",
+      "itunes_duration": "10954",
       "speakers": [],
       "topics": [
-        "blade",
-        "dark",
+        "delta",
+        "green",
         "naish",
         "rally"
       ]
@@ -360,22 +400,23 @@
       ]
     },
     {
-      "key": "ea0836e55637c31db16d256972fe8c8118b95e14",
-      "title": "Delta Green | GCN Naish Rally",
-      "published_at": "2026-06-12T04:00:00+00:00",
+      "key": "965d7a3bdc03d407e965405481bf138124836703",
+      "title": "St. Elsewhere | Call of Cthulhu Live! | St. Paul 2026 | Modern Call of Cthulhu",
+      "published_at": "2026-06-11T04:00:00+00:00",
       "link": null,
-      "description": "The cast of Get in the Trunk's Impossible Landscapes Campaign reunites with some new characters and some old habits in this incredible one shot from the amazing folks at Arc Dream Publishing. When a strange event unfolds at an iconic national park, a Delta Green task force races to the scene to determine the potential unnatural impact before any official authorities can arrive. Watch the video here: ⁠https://youtube.com/live/WlEGKz9Ag2M Help us unlock what's next. Subscribe today at ⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/46969ae2-6359-11f1-ae6c-77b154f07af4/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3705182171.mp3",
+      "description": "A group of strangers brought together by a clandestine organization known as Quiet Horizon investigates the disappearance of a field team whose last known contact came from an isolated gas station in the middle of nowhere. Cast: Sydney Amanuel, Ross Bryant, Matthew Capodicasa, Jared Logan, Erik Mona, Joe O'Brien, and Troy Lavallee. Watch the video here: ⁠ https://youtu.be/Z_0Emd54V2c Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠ Indianapolis, IN | 7/30/2026 Indianapolis, IN | 7/31/2026 New Orleans, LA | 9/2/2026 Atlanta, GA | 9/3/2026 Madison, WI | 10/15/2026 Philadelphia, PA | 12/4/2026 Philadelphia, PA | 12/5/2026 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/162a9104-6419-11f1-89aa-9b552da9a9bb/image/28daaad0004154d0a4a5e22711873a38.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7876095177.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "10954",
-      "speakers": [],
+      "itunes_duration": "9581",
+      "speakers": [
+        "Quiet Horizon"
+      ],
       "topics": [
-        "delta",
-        "green",
-        "naish",
-        "rally"
+        "cthulhu",
+        "paul",
+        "modern"
       ]
     },
     {
@@ -397,26 +438,6 @@
         "brindlewood",
         "naish",
         "rally"
-      ]
-    },
-    {
-      "key": "965d7a3bdc03d407e965405481bf138124836703",
-      "title": "St. Elsewhere | Call of Cthulhu Live! | St. Paul 2026 | Modern Call of Cthulhu",
-      "published_at": "2026-06-11T04:00:00+00:00",
-      "link": null,
-      "description": "A group of strangers brought together by a clandestine organization known as Quiet Horizon investigates the disappearance of a field team whose last known contact came from an isolated gas station in the middle of nowhere. Cast: Sydney Amanuel, Ross Bryant, Matthew Capodicasa, Jared Logan, Erik Mona, Joe O'Brien, and Troy Lavallee. Watch the video here: ⁠ https://youtu.be/Z_0Emd54V2c Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠ Indianapolis, IN | 7/30/2026 Indianapolis, IN | 7/31/2026 New Orleans, LA | 9/2/2026 Atlanta, GA | 9/3/2026 Madison, WI | 10/15/2026 Philadelphia, PA | 12/4/2026 Philadelphia, PA | 12/5/2026 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/162a9104-6419-11f1-89aa-9b552da9a9bb/image/28daaad0004154d0a4a5e22711873a38.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7876095177.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "9581",
-      "speakers": [
-        "Quiet Horizon"
-      ],
-      "topics": [
-        "cthulhu",
-        "paul",
-        "modern"
       ]
     },
     {
@@ -530,6 +551,24 @@
       ]
     },
     {
+      "key": "77d718b29217196dc1045fd52fb990a7dda94585",
+      "title": "Advanced D&D | GCN Naish Rally",
+      "published_at": "2026-06-08T04:00:00+00:00",
+      "link": null,
+      "description": "The quaint village of Hommlet seems idyllic on its surface, but shadowy forces conspire to bring about its ruin! Skid Maher goes back to his Dungeon Mastering roots to run Alicia Marie, Jason Charles Miller, Jared Logan, and Rob Kerkovich through the Gary Gygax-penned Advanced Dungeons & Dragons module: The Village of Hommlet! Help us unlock what's next. Subscribe today at ⁠⁠⁠jointhenaish.com⁠⁠⁠ . Watch the video here: ⁠⁠⁠ https://youtube.com/live/d0jR2qp4Bqs Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/360ddc54-6042-11f1-b755-3710963b14ad/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3699805819.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6203",
+      "speakers": [],
+      "topics": [
+        "advanced",
+        "naish",
+        "rally"
+      ]
+    },
+    {
       "key": "be78bdc10fd3aacf2a04b1baafd2b0e462fd9e0d",
       "title": "Muttering Over a Pyramid | Blood of the Wild S1 E25 | Pathfinder 2E Quest for the Frozen Flame",
       "published_at": "2026-06-08T04:00:00+00:00",
@@ -554,19 +593,21 @@
       ]
     },
     {
-      "key": "77d718b29217196dc1045fd52fb990a7dda94585",
-      "title": "Advanced D&D | GCN Naish Rally",
-      "published_at": "2026-06-08T04:00:00+00:00",
+      "key": "8e7de32307d3e6d75d3be11ab21b8f7bcc1c4d70",
+      "title": "Twilight: 2000 | GCN Naish Rally",
+      "published_at": "2026-06-05T04:00:00+00:00",
       "link": null,
-      "description": "The quaint village of Hommlet seems idyllic on its surface, but shadowy forces conspire to bring about its ruin! Skid Maher goes back to his Dungeon Mastering roots to run Alicia Marie, Jason Charles Miller, Jared Logan, and Rob Kerkovich through the Gary Gygax-penned Advanced Dungeons & Dragons module: The Village of Hommlet! Help us unlock what's next. Subscribe today at ⁠⁠⁠jointhenaish.com⁠⁠⁠ . Watch the video here: ⁠⁠⁠ https://youtube.com/live/d0jR2qp4Bqs Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/360ddc54-6042-11f1-b755-3710963b14ad/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3699805819.mp3",
+      "description": "In this We Shouldn't Be Alive spinoff, we get a glimpse into what's happening in the United States of America after the fallout of the World War III that never was. Ross Bryant, Jared Logan, and Skid Maher play in this one shot Refereed by Joe O'Brien. In a post-nuclear America, the difference between friend and foe is not so easy to discern. Help us unlock what's next. Subscribe today at ⁠⁠jointhenaish.com⁠⁠ . Watch the video here: ⁠⁠ https://youtube.com/live/jwPR9htT2v8 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/782a377a-6035-11f1-abab-0b13726c7526/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6518322759.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6203",
-      "speakers": [],
+      "itunes_duration": "9648",
+      "speakers": [
+        "United States"
+      ],
       "topics": [
-        "advanced",
+        "twilight",
         "naish",
         "rally"
       ]
@@ -595,21 +636,22 @@
       ]
     },
     {
-      "key": "8e7de32307d3e6d75d3be11ab21b8f7bcc1c4d70",
-      "title": "Twilight: 2000 | GCN Naish Rally",
-      "published_at": "2026-06-05T04:00:00+00:00",
+      "key": "a994868521b4ab1cf60e1431173e0d5916a6d351",
+      "title": "Regency Cthulhu | GCN Naish Rally",
+      "published_at": "2026-06-04T04:00:00+00:00",
       "link": null,
-      "description": "In this We Shouldn't Be Alive spinoff, we get a glimpse into what's happening in the United States of America after the fallout of the World War III that never was. Ross Bryant, Jared Logan, and Skid Maher play in this one shot Refereed by Joe O'Brien. In a post-nuclear America, the difference between friend and foe is not so easy to discern. Help us unlock what's next. Subscribe today at ⁠⁠jointhenaish.com⁠⁠ . Watch the video here: ⁠⁠ https://youtube.com/live/jwPR9htT2v8 Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/782a377a-6035-11f1-abab-0b13726c7526/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6518322759.mp3",
+      "description": "The year is 1813. Sir Alastair Linville is finally returning home to his estate in Northamptonshire, England, after business dealings in Barbados. But he has been much changed by his travels. It's a horrific homecoming in Jane Austen's England with Rob Kerkovich, Paula Deming, Kate Stamas, Seth Skorkowsky, and your Call of Cthulhu Keeper Jared Logan. Help us unlock what's next. Subscribe today at ⁠jointhenaish.com⁠ . Watch the video here: https://youtube.com/live/8Rlrx6fWuQ0 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0b5e03a8-5f70-11f1-aead-97dd9a9fe7bc/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3588138569.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "9648",
+      "itunes_duration": "8566",
       "speakers": [
-        "United States"
+        "Alastair Linville"
       ],
       "topics": [
-        "twilight",
+        "regency",
+        "cthulhu",
         "naish",
         "rally"
       ]
@@ -636,27 +678,6 @@
         "cthulhu",
         "dallas",
         "modern"
-      ]
-    },
-    {
-      "key": "a994868521b4ab1cf60e1431173e0d5916a6d351",
-      "title": "Regency Cthulhu | GCN Naish Rally",
-      "published_at": "2026-06-04T04:00:00+00:00",
-      "link": null,
-      "description": "The year is 1813. Sir Alastair Linville is finally returning home to his estate in Northamptonshire, England, after business dealings in Barbados. But he has been much changed by his travels. It's a horrific homecoming in Jane Austen's England with Rob Kerkovich, Paula Deming, Kate Stamas, Seth Skorkowsky, and your Call of Cthulhu Keeper Jared Logan. Help us unlock what's next. Subscribe today at ⁠jointhenaish.com⁠ . Watch the video here: https://youtube.com/live/8Rlrx6fWuQ0 Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/0b5e03a8-5f70-11f1-aead-97dd9a9fe7bc/image/1cf5eb126d3b7240a3645a550914f128.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3588138569.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "8566",
-      "speakers": [
-        "Alastair Linville"
-      ],
-      "topics": [
-        "regency",
-        "cthulhu",
-        "naish",
-        "rally"
       ]
     },
     {
@@ -1183,27 +1204,6 @@
       ]
     },
     {
-      "key": "21d9c8e6d39f5afeb36816fdc726f1be36b52e0c",
-      "title": "Star Wars Age of Rebellion Part 1",
-      "published_at": "2026-05-05T04:00:00+00:00",
-      "link": null,
-      "description": "The cast rejoin the fight against the Empire and meet a new, hairy friend as our Star Wars adventure from New Game, Who Dis? continues! GM'd by Matthew Capodicasa and featuring Joe O'Brien, Troy Lavallee, Skid Maher, and Rob Kerkovich. This episode originally premiered in 2023 as part of Glass Cannon Labs. Watch the video here: https://youtu.be/ZA99HHCgU8g Cast: Rob Kerkovich, Troy Lavallee, Skid Maher, Joe O'Brien, and Matthew Capodicasa Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/9f8e5dc8-4802-11f1-98f3-87a9f85c1ed1/image/3aebc19dd9384111c46ceaf7b9041396.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8816638750.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7068",
-      "speakers": [
-        "Star Wars Age",
-        "Star Wars"
-      ],
-      "topics": [
-        "star",
-        "wars",
-        "rebellion"
-      ]
-    },
-    {
       "key": "4690cdf7944ec960495c4a08525d8ce70645aa8c",
       "title": "The Fury of King Lot, Part 2 | Pendragon: Under an Iron Sky | Chaosium",
       "published_at": "2026-05-05T04:00:00+00:00",
@@ -1223,6 +1223,27 @@
         "pendragon",
         "iron",
         "chaosium"
+      ]
+    },
+    {
+      "key": "21d9c8e6d39f5afeb36816fdc726f1be36b52e0c",
+      "title": "Star Wars Age of Rebellion Part 1",
+      "published_at": "2026-05-05T04:00:00+00:00",
+      "link": null,
+      "description": "The cast rejoin the fight against the Empire and meet a new, hairy friend as our Star Wars adventure from New Game, Who Dis? continues! GM'd by Matthew Capodicasa and featuring Joe O'Brien, Troy Lavallee, Skid Maher, and Rob Kerkovich. This episode originally premiered in 2023 as part of Glass Cannon Labs. Watch the video here: https://youtu.be/ZA99HHCgU8g Cast: Rob Kerkovich, Troy Lavallee, Skid Maher, Joe O'Brien, and Matthew Capodicasa Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9f8e5dc8-4802-11f1-98f3-87a9f85c1ed1/image/3aebc19dd9384111c46ceaf7b9041396.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8816638750.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7068",
+      "speakers": [
+        "Star Wars Age",
+        "Star Wars"
+      ],
+      "topics": [
+        "star",
+        "wars",
+        "rebellion"
       ]
     },
     {
@@ -4011,6 +4032,24 @@
       ]
     },
     {
+      "key": "bd647d478d6948ad0c4bb8c49d5a73f67a421240",
+      "title": "Call of Cthulhu Live! – New Life (Indianapolis 2025)",
+      "published_at": "2025-08-28T04:00:00+00:00",
+      "link": null,
+      "description": "The Glass Cannon Network was back at the Athenaeum in Indianapolis during Gen Con 2025 with a cast of GCN all-stars ready to once again take on a modern Call of Cthulhu nightmare one shot. In this scenario custom written by Scott Dorward, a ragtag group of criminals learn about the location of a mysterious vault that belonged to a 1920s gangster, but what they find inside is anything but rewarding. Watch the video here: https://youtu.be/o3sW2RRRNfA Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7aff223e-8369-11f0-a101-ff8317acc335/image/cf14076619f95f62a456ff31aa0d16cc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6450054257.mp3?updated=1756315835",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9849",
+      "speakers": [],
+      "topics": [
+        "cthulhu",
+        "life",
+        "indianapolis"
+      ]
+    },
+    {
       "key": "1365379c48c9e9adbae6156df821034fe9059440",
       "title": "Glass Cannon Radio #31 - Violence in RPGs/Crunch Factor/Unwritten Rules",
       "published_at": "2025-08-28T04:00:00+00:00",
@@ -4032,24 +4071,6 @@
         "factor",
         "unwritten",
         "rules"
-      ]
-    },
-    {
-      "key": "bd647d478d6948ad0c4bb8c49d5a73f67a421240",
-      "title": "Call of Cthulhu Live! – New Life (Indianapolis 2025)",
-      "published_at": "2025-08-28T04:00:00+00:00",
-      "link": null,
-      "description": "The Glass Cannon Network was back at the Athenaeum in Indianapolis during Gen Con 2025 with a cast of GCN all-stars ready to once again take on a modern Call of Cthulhu nightmare one shot. In this scenario custom written by Scott Dorward, a ragtag group of criminals learn about the location of a mysterious vault that belonged to a 1920s gangster, but what they find inside is anything but rewarding. Watch the video here: https://youtu.be/o3sW2RRRNfA Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/7aff223e-8369-11f0-a101-ff8317acc335/image/cf14076619f95f62a456ff31aa0d16cc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6450054257.mp3?updated=1756315835",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "9849",
-      "speakers": [],
-      "topics": [
-        "cthulhu",
-        "life",
-        "indianapolis"
       ]
     },
     {
@@ -4098,6 +4119,28 @@
       ]
     },
     {
+      "key": "e60952639f33f13b7845139d8d8cec5c52859e6d",
+      "title": "Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E",
+      "published_at": "2025-08-21T04:00:00+00:00",
+      "link": null,
+      "description": "In the aftermath of a massacre, the surviving townspeople must make some impossible decisions. Watch the video here: https://youtu.be/H29UZs0xeUY Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/234c6056-7dd8-11f0-914f-b30b77cebd33/image/815084e02f8516f43d71b6c30c5872f1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1678382462.mp3?updated=1755703286",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7873",
+      "speakers": [],
+      "topics": [
+        "mettle",
+        "honor",
+        "glass",
+        "cannon",
+        "ascension",
+        "indianapolis",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "8a4fc7c96434b0313ef49796bb75efab6cedfed6",
       "title": "Glass Cannon Radio #30 – Special Guest John Harper/Game Design/Crime Fiction",
       "published_at": "2025-08-21T04:00:00+00:00",
@@ -4123,28 +4166,6 @@
         "game",
         "design",
         "crime"
-      ]
-    },
-    {
-      "key": "e60952639f33f13b7845139d8d8cec5c52859e6d",
-      "title": "Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E",
-      "published_at": "2025-08-21T04:00:00+00:00",
-      "link": null,
-      "description": "In the aftermath of a massacre, the surviving townspeople must make some impossible decisions. Watch the video here: https://youtu.be/H29UZs0xeUY Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/234c6056-7dd8-11f0-914f-b30b77cebd33/image/815084e02f8516f43d71b6c30c5872f1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1678382462.mp3?updated=1755703286",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7873",
-      "speakers": [],
-      "topics": [
-        "mettle",
-        "honor",
-        "glass",
-        "cannon",
-        "ascension",
-        "indianapolis",
-        "pathfinder"
       ]
     },
     {
@@ -4594,6 +4615,28 @@
       ]
     },
     {
+      "key": "698c3e7f50e27081ea55d0d3f7b6f842dd57d3f1",
+      "title": "Phantom Punch | Glass Cannon Live! Ascension Part 8 | Toronto 2025 | Pathfinder 2E",
+      "published_at": "2025-07-10T04:00:00+00:00",
+      "link": null,
+      "description": "At a feast to celebrate the Prince's visit, a heinous act rouses restless spirits. Watch the video here: ⁠⁠⁠⁠ https://youtu.be/eryS3FOiFFU Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5b90c0ca-5cd0-11f0-84f7-03aee642a26d/image/779a3b14f46da6289eae80709444cd27.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7724252759.mp3?updated=1752071646",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8157",
+      "speakers": [],
+      "topics": [
+        "phantom",
+        "punch",
+        "glass",
+        "cannon",
+        "ascension",
+        "toronto",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "5f24cf0337c5f75f09022390246e3ae01337a1cf",
       "title": "Glass Cannon Radio #24 – Superman (2025)/Superhero RPGs/Andor Finale",
       "published_at": "2025-07-10T04:00:00+00:00",
@@ -4618,24 +4661,23 @@
       ]
     },
     {
-      "key": "698c3e7f50e27081ea55d0d3f7b6f842dd57d3f1",
-      "title": "Phantom Punch | Glass Cannon Live! Ascension Part 8 | Toronto 2025 | Pathfinder 2E",
-      "published_at": "2025-07-10T04:00:00+00:00",
+      "key": "8a9aa6244e74e6ace76ff808621d5d0975d45bf0",
+      "title": "Once Bitten, Ice Shy | The Glass Cannon Podcast Gatewalkers E92 | Pathfinder 2E",
+      "published_at": "2025-07-04T04:00:00+00:00",
       "link": null,
-      "description": "At a feast to celebrate the Prince's visit, a heinous act rouses restless spirits. Watch the video here: ⁠⁠⁠⁠ https://youtu.be/eryS3FOiFFU Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/5b90c0ca-5cd0-11f0-84f7-03aee642a26d/image/779a3b14f46da6289eae80709444cd27.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7724252759.mp3?updated=1752071646",
+      "description": "The heroes begin their journey across the arctic wasteland known as the High Ice. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ ⁠⁠⁠ ⁠ https://youtu.be/rV6aSg1--n4 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1476940641.mp3?updated=1751563411",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "8157",
+      "itunes_duration": "6887",
       "speakers": [],
       "topics": [
-        "phantom",
-        "punch",
+        "bitten",
         "glass",
         "cannon",
-        "ascension",
-        "toronto",
+        "podcast",
+        "gatewalker",
         "pathfinder"
       ]
     },
@@ -4664,24 +4706,24 @@
       ]
     },
     {
-      "key": "8a9aa6244e74e6ace76ff808621d5d0975d45bf0",
-      "title": "Once Bitten, Ice Shy | The Glass Cannon Podcast Gatewalkers E92 | Pathfinder 2E",
-      "published_at": "2025-07-04T04:00:00+00:00",
+      "key": "844a181747a141de804ff909cb42554de9aa2145",
+      "title": "Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-07-03T04:00:00+00:00",
       "link": null,
-      "description": "The heroes begin their journey across the arctic wasteland known as the High Ice. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ ⁠⁠⁠ ⁠ https://youtu.be/rV6aSg1--n4 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1476940641.mp3?updated=1751563411",
+      "description": "The investigators make their way to Walton-on-the-Naze in search of Misr House. Watch the video here: ⁠⁠https://youtu.be/KMdlFIRM82s For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/15210dd0-5365-11f0-9494-432c2cc37bb8/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7346316478.mp3?updated=1751037254",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6887",
+      "itunes_duration": "10777",
       "speakers": [],
       "topics": [
-        "bitten",
-        "glass",
-        "cannon",
-        "podcast",
-        "gatewalker",
-        "pathfinder"
+        "island",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
       ]
     },
     {
@@ -4707,27 +4749,6 @@
         "best",
         "fictional",
         "president"
-      ]
-    },
-    {
-      "key": "844a181747a141de804ff909cb42554de9aa2145",
-      "title": "Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-07-03T04:00:00+00:00",
-      "link": null,
-      "description": "The investigators make their way to Walton-on-the-Naze in search of Misr House. Watch the video here: ⁠⁠https://youtu.be/KMdlFIRM82s For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/15210dd0-5365-11f0-9494-432c2cc37bb8/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7346316478.mp3?updated=1751037254",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "10777",
-      "speakers": [],
-      "topics": [
-        "island",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
       ]
     },
     {
@@ -4824,32 +4845,6 @@
       ]
     },
     {
-      "key": "ab5531ac81149fa94b351891399d308a3e2edd36",
-      "title": "Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-06-27T04:00:00+00:00",
-      "link": null,
-      "description": "An attempt to break into Henson Manufacturing goes quickly awry. Watch the video here: ⁠ https://youtu.be/ja-2nOpaZVc ⁠⁠⁠ For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/f1f97042-4c5a-11f0-90c3-7374f999d197/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1873340630.mp3?updated=1750261971",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "8102",
-      "speakers": [
-        "Hidden Lines",
-        "Cthulhu Masks",
-        "Henson Manufacturing"
-      ],
-      "topics": [
-        "hidden",
-        "lines",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
-      ]
-    },
-    {
       "key": "296e5799d408a34255c588eb6cc4765675df46e8",
       "title": "Yurty Rotten Scoundrels | The Glass Cannon Podcast Gatewalkers E91 | Pathfinder 2E",
       "published_at": "2025-06-27T04:00:00+00:00",
@@ -4875,20 +4870,24 @@
       ]
     },
     {
-      "key": "6402200aaabbdbff3ad0715d53cb9aae2ad0a27f",
-      "title": "Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-06-26T04:00:00+00:00",
+      "key": "ab5531ac81149fa94b351891399d308a3e2edd36",
+      "title": "Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-06-27T04:00:00+00:00",
       "link": null,
-      "description": "With a new companion in tow, the investigators look into Henson Manufacturing. Watch the video here: ⁠https://youtu.be/S5IvIPGehU8 For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/d0287fc6-4c5a-11f0-a806-a349d24a68f5/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6873814941.mp3?updated=1750261919",
+      "description": "An attempt to break into Henson Manufacturing goes quickly awry. Watch the video here: ⁠ https://youtu.be/ja-2nOpaZVc ⁠⁠⁠ For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f1f97042-4c5a-11f0-90c3-7374f999d197/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1873340630.mp3?updated=1750261971",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7758",
-      "speakers": [],
+      "itunes_duration": "8102",
+      "speakers": [
+        "Hidden Lines",
+        "Cthulhu Masks",
+        "Henson Manufacturing"
+      ],
       "topics": [
-        "safe",
-        "house",
+        "hidden",
+        "lines",
         "time",
         "chaos",
         "cthulhu",
@@ -4918,6 +4917,28 @@
         "zombie",
         "gaming",
         "beat"
+      ]
+    },
+    {
+      "key": "6402200aaabbdbff3ad0715d53cb9aae2ad0a27f",
+      "title": "Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-06-26T04:00:00+00:00",
+      "link": null,
+      "description": "With a new companion in tow, the investigators look into Henson Manufacturing. Watch the video here: ⁠https://youtu.be/S5IvIPGehU8 For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d0287fc6-4c5a-11f0-a806-a349d24a68f5/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6873814941.mp3?updated=1750261919",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7758",
+      "speakers": [],
+      "topics": [
+        "safe",
+        "house",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
       ]
     },
     {
@@ -5034,28 +5055,6 @@
       ]
     },
     {
-      "key": "5b830a3a861098fe7e6690b10bc6ababcd57a0f7",
-      "title": "Glass Cannon Radio #21 – The Alien Franchise/Railroading PCs/Great Gamblers",
-      "published_at": "2025-06-19T04:00:00+00:00",
-      "link": null,
-      "description": "Joe and Jared breakdown the Alien: Earth trailer and give their thoughts on the franchise in general. Plus, is railroading the wrong way to run an adventure? 0:00 Intro 2:30 Vegas Games 40:00 Alien: Earth 59:00 Alien Franchise 1:25:45 Railroading 1:56:00 Listener Award Watch the video here: ⁠ https://youtu.be/ZcluFugz5g8 Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/78aa79b8-4cbc-11f0-b0ca-f362db80ac74/image/84a45230b86b492b21418b413b25c180.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4018014662.mp3?updated=1750303582",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7428",
-      "speakers": [],
-      "topics": [
-        "glass",
-        "cannon",
-        "radio",
-        "alien",
-        "franchise",
-        "great",
-        "gamblers"
-      ]
-    },
-    {
       "key": "cf530540913888535b55e4aa666f1f9e21ac2b07",
       "title": "Law and Orders | Time For Chaos S2 E9 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-06-19T04:00:00+00:00",
@@ -5076,6 +5075,28 @@
         "cthulhu",
         "masks",
         "nyarlathotep"
+      ]
+    },
+    {
+      "key": "5b830a3a861098fe7e6690b10bc6ababcd57a0f7",
+      "title": "Glass Cannon Radio #21 – The Alien Franchise/Railroading PCs/Great Gamblers",
+      "published_at": "2025-06-19T04:00:00+00:00",
+      "link": null,
+      "description": "Joe and Jared breakdown the Alien: Earth trailer and give their thoughts on the franchise in general. Plus, is railroading the wrong way to run an adventure? 0:00 Intro 2:30 Vegas Games 40:00 Alien: Earth 59:00 Alien Franchise 1:25:45 Railroading 1:56:00 Listener Award Watch the video here: ⁠ https://youtu.be/ZcluFugz5g8 Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/78aa79b8-4cbc-11f0-b0ca-f362db80ac74/image/84a45230b86b492b21418b413b25c180.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4018014662.mp3?updated=1750303582",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7428",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "radio",
+        "alien",
+        "franchise",
+        "great",
+        "gamblers"
       ]
     },
     {
@@ -5287,6 +5308,28 @@
       ]
     },
     {
+      "key": "cd5292e5a095b28b62a643956e061e82c20294af",
+      "title": "The Lunatic Is in My Head | Time For Chaos S1 E20 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-06-06T04:00:00+00:00",
+      "link": null,
+      "description": "With several lives across the city hanging in the balance, a horror from the skies hunts its prey as Season One of Time For Chaos reaches its epic conclusion! Watch the video here: ⁠⁠⁠⁠⁠ https://youtu.be/UgDY3K9WZCc For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1de838de-3d86-11f0-842c-bffdc7edcad8/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3738380924.mp3?updated=1748632457",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "16513",
+      "speakers": [],
+      "topics": [
+        "lunatic",
+        "head",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
+    {
       "key": "207db954276f5709e92bed56f3be2ddfd1a4b5a2",
       "title": "Doctor Roust Us | The Glass Cannon Podcast Gatewalkers E88 | Pathfinder 2E",
       "published_at": "2025-06-06T04:00:00+00:00",
@@ -5308,28 +5351,6 @@
         "podcast",
         "gatewalkers",
         "pathfinder"
-      ]
-    },
-    {
-      "key": "cd5292e5a095b28b62a643956e061e82c20294af",
-      "title": "The Lunatic Is in My Head | Time For Chaos S1 E20 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-06-06T04:00:00+00:00",
-      "link": null,
-      "description": "With several lives across the city hanging in the balance, a horror from the skies hunts its prey as Season One of Time For Chaos reaches its epic conclusion! Watch the video here: ⁠⁠⁠⁠⁠ https://youtu.be/UgDY3K9WZCc For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/1de838de-3d86-11f0-842c-bffdc7edcad8/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3738380924.mp3?updated=1748632457",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "16513",
-      "speakers": [],
-      "topics": [
-        "lunatic",
-        "head",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
       ]
     },
     {
@@ -5500,30 +5521,6 @@
       ]
     },
     {
-      "key": "0e76cdebae6128946aeae7cb4bf195e3d0da6c1f",
-      "title": "Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-05-29T04:00:00+00:00",
-      "link": null,
-      "description": "New leads force the team to split up to cover more ground. Watch the video here: ⁠⁠⁠⁠ https://youtu.be/ENAiWBcKW2k For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠chaosium.com⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/19bc28aa-3684-11f0-9b63-67ad6f63fb16/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1942834008.mp3?updated=1747861092",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7724",
-      "speakers": [
-        "Spot Hidden",
-        "Cthulhu Masks",
-        "Nyarlathotep New"
-      ],
-      "topics": [
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
-      ]
-    },
-    {
       "key": "d6e8f1db3858e4e42ca083f5402b4143d750d2cf",
       "title": "Glass Cannon Radio #19 – What Makes a Great Roleplayer? / Best Sports Movies of All Time / Obscure Obsessions",
       "published_at": "2025-05-29T04:00:00+00:00",
@@ -5552,6 +5549,30 @@
         "movies",
         "time",
         "obscure"
+      ]
+    },
+    {
+      "key": "0e76cdebae6128946aeae7cb4bf195e3d0da6c1f",
+      "title": "Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-05-29T04:00:00+00:00",
+      "link": null,
+      "description": "New leads force the team to split up to cover more ground. Watch the video here: ⁠⁠⁠⁠ https://youtu.be/ENAiWBcKW2k For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠chaosium.com⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/19bc28aa-3684-11f0-9b63-67ad6f63fb16/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1942834008.mp3?updated=1747861092",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7724",
+      "speakers": [
+        "Spot Hidden",
+        "Cthulhu Masks",
+        "Nyarlathotep New"
+      ],
+      "topics": [
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
       ]
     },
     {
@@ -5862,6 +5883,31 @@
       ]
     },
     {
+      "key": "c0eca9ed29c0da89d273b9432f59975065e686b2",
+      "title": "The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-05-15T04:00:00+00:00",
+      "link": null,
+      "description": "The investigators enter Augustus Larkin's hotel room unannounced. Watch the video here: ⁠ https://youtu.be/Nw4cZi9aR3M For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠chaosium.com⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/18f4ee60-2f69-11f0-a0d0-6ff7a3610494/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2259200747.mp3?updated=1747144526",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9091",
+      "speakers": [
+        "Augustus Larkin"
+      ],
+      "topics": [
+        "devil",
+        "snake",
+        "juice",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
+    {
       "key": "5fb065c9666cae2456ad47e43e010954c621e497",
       "title": "Glass Cannon Radio #17 – The Blacktongue Thief / Going Rogue in RPGs / Nerd Rant",
       "published_at": "2025-05-15T04:00:00+00:00",
@@ -5885,31 +5931,6 @@
         "rpgs",
         "nerd",
         "rant"
-      ]
-    },
-    {
-      "key": "c0eca9ed29c0da89d273b9432f59975065e686b2",
-      "title": "The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-05-15T04:00:00+00:00",
-      "link": null,
-      "description": "The investigators enter Augustus Larkin's hotel room unannounced. Watch the video here: ⁠ https://youtu.be/Nw4cZi9aR3M For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠chaosium.com⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/18f4ee60-2f69-11f0-a0d0-6ff7a3610494/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2259200747.mp3?updated=1747144526",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "9091",
-      "speakers": [
-        "Augustus Larkin"
-      ],
-      "topics": [
-        "devil",
-        "snake",
-        "juice",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
       ]
     },
     {
@@ -8363,6 +8384,23 @@
       ]
     },
     {
+      "key": "aed8f618acef08b7473fb3fbd57bc33d24a1a07b",
+      "title": "Cannon Fodder 5/15/24",
+      "published_at": "2024-05-15T04:00:00+00:00",
+      "link": "https://youtu.be/qiur8t--8po",
+      "description": "We're going long this week as Troy and Joe reveal a bunch of upcoming shows and then turn their attention to a monster episode of the GCP where at least one character's life, if not more, hangs in the balance. In We Are Stupid, a major oversight on a Recovery Check, and in Listener Mail: tips for your first gaming convention! Watch the video here: https://youtu.be/qiur8t--8po For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7360619393.mp3?updated=1715733926",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5597",
+      "speakers": [],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
       "key": "2940caa2b28525919e2245d860f5a92734147429",
       "title": "Strange Aeons Episode 89 – I Wanna Dream Again",
       "published_at": "2024-05-15T04:00:00+00:00",
@@ -8379,23 +8417,6 @@
         "aeons",
         "wanna",
         "dream"
-      ]
-    },
-    {
-      "key": "aed8f618acef08b7473fb3fbd57bc33d24a1a07b",
-      "title": "Cannon Fodder 5/15/24",
-      "published_at": "2024-05-15T04:00:00+00:00",
-      "link": "https://youtu.be/qiur8t--8po",
-      "description": "We're going long this week as Troy and Joe reveal a bunch of upcoming shows and then turn their attention to a monster episode of the GCP where at least one character's life, if not more, hangs in the balance. In We Are Stupid, a major oversight on a Recovery Check, and in Listener Mail: tips for your first gaming convention! Watch the video here: https://youtu.be/qiur8t--8po For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7360619393.mp3?updated=1715733926",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5597",
-      "speakers": [],
-      "topics": [
-        "cannon",
-        "fodder"
       ]
     },
     {
@@ -9405,25 +9426,6 @@
       ]
     },
     {
-      "key": "81062e2b72e948432300ca17639ad0e16b2b071d",
-      "title": "Cannon Fodder 11/22/23",
-      "published_at": "2023-11-22T05:00:00+00:00",
-      "link": "https://youtu.be/UzUp2YaTMvg",
-      "description": "Happy Thanksgiving, Naish! The guys discuss what they are thankful for and then get right back to business! An awesome Black Friday Sale on GCN Merch, the premiere of Faster, Purple Worm, Kill! Kill!, and of course a thorough breakdown of Campaign 2 Episode 10! In We Are Stupid...it's creature awareness, blindness, attacks of opportunity, and some spell updates from the Pathfinder Remaster. Watch the video here: https://youtu.be/UzUp2YaTMvg For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD8612751933.mp3?updated=1714157055",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3257",
-      "speakers": [
-        "Cannon Fodder"
-      ],
-      "topics": [
-        "cannon",
-        "fodder"
-      ]
-    },
-    {
       "key": "f39920cf669d9a89ff5720a04eaaa0345a8186fe",
       "title": "Strange Aeons Episode 85 – Another Mun Bites the Dust",
       "published_at": "2023-11-22T05:00:00+00:00",
@@ -9442,6 +9444,25 @@
         "aeons",
         "bites",
         "dust"
+      ]
+    },
+    {
+      "key": "81062e2b72e948432300ca17639ad0e16b2b071d",
+      "title": "Cannon Fodder 11/22/23",
+      "published_at": "2023-11-22T05:00:00+00:00",
+      "link": "https://youtu.be/UzUp2YaTMvg",
+      "description": "Happy Thanksgiving, Naish! The guys discuss what they are thankful for and then get right back to business! An awesome Black Friday Sale on GCN Merch, the premiere of Faster, Purple Worm, Kill! Kill!, and of course a thorough breakdown of Campaign 2 Episode 10! In We Are Stupid...it's creature awareness, blindness, attacks of opportunity, and some spell updates from the Pathfinder Remaster. Watch the video here: https://youtu.be/UzUp2YaTMvg For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD8612751933.mp3?updated=1714157055",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3257",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
       ]
     },
     {
@@ -11195,23 +11216,6 @@
       ]
     },
     {
-      "key": "4630a56055a60700f9745d5c5d85c1f82f42f990",
-      "title": "Friends of the Pod – Pathfinder 2E",
-      "published_at": "2023-02-01T05:01:00+00:00",
-      "link": "https://blubrry.com/the_glass_cannon/93530579/friends-of-the-pod-pathfinder-2e/",
-      "description": "With all of the shake ups in the tabletop industry as of late, we went live last week with the Pathfinder Society Scenario Inheritor's Rite to show fans new and old how much fun Pathfinder 2E is and how simple it is to jump right in and play! ﻿ For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at patreon.com/glasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD3829405594.mp3?updated=1692726580",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "16789",
-      "speakers": [],
-      "topics": [
-        "friend",
-        "pathfinder"
-      ]
-    },
-    {
       "key": "04282c6d13692676a896fbfbd0393d2791e43683",
       "title": "Cannon Fodder 2/1/23",
       "published_at": "2023-02-01T05:01:00+00:00",
@@ -11228,6 +11232,23 @@
       "topics": [
         "cannon",
         "fodder"
+      ]
+    },
+    {
+      "key": "4630a56055a60700f9745d5c5d85c1f82f42f990",
+      "title": "Friends of the Pod – Pathfinder 2E",
+      "published_at": "2023-02-01T05:01:00+00:00",
+      "link": "https://blubrry.com/the_glass_cannon/93530579/friends-of-the-pod-pathfinder-2e/",
+      "description": "With all of the shake ups in the tabletop industry as of late, we went live last week with the Pathfinder Society Scenario Inheritor's Rite to show fans new and old how much fun Pathfinder 2E is and how simple it is to jump right in and play! ﻿ For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at patreon.com/glasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD3829405594.mp3?updated=1692726580",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "16789",
+      "speakers": [],
+      "topics": [
+        "friend",
+        "pathfinder"
       ]
     },
     {
@@ -11387,6 +11408,94 @@
       ]
     },
     {
+      "key": "6a1025f1e9e7c45b4bcdb03324a7415e9319d6d0",
+      "title": "Vengeance and Voltage | Haunted City S1 E25 | Blades in the Dark",
+      "published_at": "2022-12-30T05:00:00+00:00",
+      "link": null,
+      "description": "A confrontation with Una Farros leads the Remnant to decide the fate of Duskvol. Watch the video here: https://youtu.be/mNwhyjCGcF8 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/81dd3f10-7584-11f1-a18c-677ccf861a82/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2674953184.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7355",
+      "speakers": [],
+      "topics": [
+        "vengeance",
+        "voltage",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "2fffb25a46ddd6d56d56aed4eb842087d0593c83",
+      "title": "A Downtime Dalliance | Haunted City S1 E24 | Blades in the Dark",
+      "published_at": "2022-12-23T05:00:00+00:00",
+      "link": null,
+      "description": "Things get intimate in the underground grotto. Watch the video here: https://youtu.be/oKsAnx5Ljns Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/240a5486-7584-11f1-9c81-5f579fdeacb0/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1039842405.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7400",
+      "speakers": [
+        "Ljns Ac"
+      ],
+      "topics": [
+        "downtime",
+        "dalliance",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "c0a33d8bde868e7f09b747e602a752ebe3ad8170",
+      "title": "Tunnels and Terror | Haunted City S1 E23 | Blades in the Dark",
+      "published_at": "2022-12-16T05:00:00+00:00",
+      "link": null,
+      "description": "A horde of hollows hounds The Remnant down in the dark. Watch the video here: https://youtu.be/Fi72oy-3bNY Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f917c470-7583-11f1-b4b7-ff70e9f1bd9e/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2976141417.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7388",
+      "speakers": [
+        "Haunted City"
+      ],
+      "topics": [
+        "tunnels",
+        "terror",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "03677c3fde3f69625028b706f43f3fea4d5b1978",
+      "title": "Downtime Directives | Haunted City S1 E22 | Blades in the Dark",
+      "published_at": "2022-12-09T05:00:00+00:00",
+      "link": null,
+      "description": "Even while looking for work, the Remnant leaves bodies in the street. Watch the video here: https://youtu.be/LqFYFZDe6Hk Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/beaac36e-7583-11f1-a123-e3d1569f9268/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2039497885.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7377",
+      "speakers": [],
+      "topics": [
+        "downtime",
+        "directive",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
       "key": "0693180a4c632855135a5165e897ed78e2f8c521",
       "title": "Strange Aeons Episode 56 – Lurid Dreaming",
       "published_at": "2022-12-06T05:01:00+00:00",
@@ -11406,6 +11515,49 @@
       ]
     },
     {
+      "key": "84e13be4c9a61254928ac69b2fa42b04d8cde227",
+      "title": "The Imperial City Part Three | Haunted City S1 E21 | Blades in the Dark",
+      "published_at": "2022-12-02T05:00:00+00:00",
+      "link": null,
+      "description": "The crew is tasked with pulling a score within a score in the Emperor's Cabinet of Curiosities. Watch the video here: https://youtu.be/umyeOczlNN8 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1842f55a-7583-11f1-bb83-a33a259ad9d9/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP5492580896.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7202",
+      "speakers": [],
+      "topics": [
+        "imperial",
+        "city",
+        "haunted",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "a952aef04f6a2b603321cbb1a0e0897543a29ec1",
+      "title": "The Imperial City Part Two | Haunted City S1 E20 | Blades in the Dark",
+      "published_at": "2022-11-25T05:00:00+00:00",
+      "link": null,
+      "description": "The crew seeks out Imperial City's seedier side and indulges their baser impulses. Watch the video here: https://youtu.be/k0tVFJMeLdE Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/94e3fce0-7582-11f1-8e17-a312f2e1124d/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3678080041.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6654",
+      "speakers": [
+        "Haunted City",
+        "Imperial City"
+      ],
+      "topics": [
+        "imperial",
+        "city",
+        "haunted",
+        "blade",
+        "dark"
+      ]
+    },
+    {
       "key": "73033bfdd6614edb1ebd336d65fa0507d332de98",
       "title": "Strange Aeons Episode 55 – Last Christmas",
       "published_at": "2022-11-22T05:01:00+00:00",
@@ -11421,6 +11573,53 @@
         "strange",
         "aeons",
         "christmas"
+      ]
+    },
+    {
+      "key": "52a2443642458364ee52c9e497bc3ac6fc982f11",
+      "title": "The Imperial City Part One | Haunted City S1 E19 | Blades in the Dark",
+      "published_at": "2022-11-18T05:00:00+00:00",
+      "link": null,
+      "description": "The crew arrives in Imperial City and finds it is a very different sort of place than Duskvol. Watch the video here: https://youtu.be/EnhaK4HvNgs Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/615f29e4-7582-11f1-bb14-fb4814d316e0/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3365241516.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6838",
+      "speakers": [
+        "Haunted City",
+        "Imperial City"
+      ],
+      "topics": [
+        "imperial",
+        "city",
+        "haunted",
+        "blades",
+        "dark"
+      ]
+    },
+    {
+      "key": "c1af7d59fdfe48067dcb9f034f744f5825419cc0",
+      "title": "Chuk Shall Rise | Haunted City S1 E18 | Blades in the Dark",
+      "published_at": "2022-11-11T05:00:00+00:00",
+      "link": null,
+      "description": "Chuk's Crew Part 2: The score draws to an explosive close. Who will get stabbed in the back? Watch the video here: https://youtu.be/ktD7DhRdDVw Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/33eb8d72-7582-11f1-8ede-8b091221cd12/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4959523204.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8046",
+      "speakers": [
+        "Chuk Shall Rise",
+        "Haunted City",
+        "Dark Chuk"
+      ],
+      "topics": [
+        "chuk",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
       ]
     },
     {
@@ -11443,6 +11642,30 @@
       ]
     },
     {
+      "key": "b8d16cb564ebc9847e18c3cd4b564fa865eec2a0",
+      "title": "The Rise of Chuk | Haunted City S1 E17 | Blades in the Dark",
+      "published_at": "2022-11-04T04:00:00+00:00",
+      "link": null,
+      "description": "Chuk's Crew Part 1: Chuk recruits his own crew of Bravos and takes on a vicious gang. Watch the video here: https://youtu.be/7gxAx1dQ3EE Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9765f1a0-7580-11f1-9469-ebc10cad2dd4/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2613334553.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7508",
+      "speakers": [
+        "Haunted City",
+        "Dark Chuk"
+      ],
+      "topics": [
+        "rise",
+        "chuk",
+        "haunted",
+        "city",
+        "blades",
+        "dark"
+      ]
+    },
+    {
       "key": "b195965cadea58b3f8d29ad5f27c78b8657dfd30",
       "title": "Strange Aeons Episode 53 – Master of Poppets",
       "published_at": "2022-11-01T04:01:00+00:00",
@@ -11459,6 +11682,27 @@
         "aeons",
         "master",
         "poppets"
+      ]
+    },
+    {
+      "key": "3d027ea943988df6eac8b52735d60f937a31240b",
+      "title": "Downtime Dissension Part Two | Haunted City S1 E16 | Blades in the Dark",
+      "published_at": "2022-10-28T04:00:00+00:00",
+      "link": null,
+      "description": "Wherein the future of The Remnant is decided and the crew ally themselves with the undead. Watch the video here: https://youtu.be/yrVP7gS-YfU Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5b3128c6-7580-11f1-9539-47a8054e8cb5/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4315661267.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6108",
+      "speakers": [],
+      "topics": [
+        "downtime",
+        "dissension",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
       ]
     },
     {
@@ -11484,6 +11728,27 @@
       ]
     },
     {
+      "key": "af5e83c04484f14ac091ce5216a1ccd129e75a6d",
+      "title": "Downtime Dissension Part One | Haunted City S1 E15 | Blades in the Dark",
+      "published_at": "2022-10-21T04:00:00+00:00",
+      "link": null,
+      "description": "The Remnant is at a breaking point and must deal with discord within their ranks. Watch the video here: https://youtu.be/TujMvFZphk0 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1f2dfe44-7580-11f1-9ccc-9f31f7884007/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9580424159.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6257",
+      "speakers": [],
+      "topics": [
+        "downtime",
+        "dissension",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
       "key": "31b480cb32ed0343e9933e32611a79cebbf5ff0a",
       "title": "Strange Aeons Episode 51 – Wait in the Truck",
       "published_at": "2022-10-18T04:01:00+00:00",
@@ -11501,6 +11766,28 @@
         "strange",
         "aeons",
         "truck"
+      ]
+    },
+    {
+      "key": "5ebb7c854afbed39a572f0fc63bbdca12a409506",
+      "title": "Art and Annihilation | Haunted City S1 E14 | Blades in the Dark",
+      "published_at": "2022-10-14T04:00:00+00:00",
+      "link": null,
+      "description": "A simple job to steal a work of art becomes complicated...and deadly. Watch the video here: https://youtu.be/Lksz15VEsFU Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e943357e-757f-11f1-85c3-dfdf237bbd0c/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4574238054.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8126",
+      "speakers": [
+        "Haunted City"
+      ],
+      "topics": [
+        "annihilation",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
       ]
     },
     {
@@ -12493,6 +12780,27 @@
       ]
     },
     {
+      "key": "71a3c8123a6269ff831ba0bf6c808c284d23532e",
+      "title": "Downtime Dynasty | Haunted City S1 E13 | Blades in the Dark",
+      "published_at": "2022-05-20T04:00:00+00:00",
+      "link": null,
+      "description": "The crew communes with The Builder, and Seljak reconnects with family. Watch the video here: https://youtu.be/TK1A_FlnxtQ Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/975b839c-757f-11f1-936f-efdea3eaa1d8/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2298401720.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7009",
+      "speakers": [],
+      "topics": [
+        "downtime",
+        "dynasty",
+        "haunted",
+        "city",
+        "blades",
+        "dark"
+      ]
+    },
+    {
       "key": "7860d1ae9893c45cac0275193b87a201c04d25ce",
       "title": "A Couple Things Happened | The Glass Cannon Podcast Giantslayer E326 Part 3 | Pathfinder 1E",
       "published_at": "2022-05-17T04:03:00+00:00",
@@ -12559,6 +12867,29 @@
       ]
     },
     {
+      "key": "c32998307f252fa2197b481f0d5e1d6c38160382",
+      "title": "Gangs and Ghosts | Haunted City S1 E12 | Blades in the Dark",
+      "published_at": "2022-05-13T04:00:00+00:00",
+      "link": null,
+      "description": "The crew takes on their rival, a nasty spirit trafficker. Watch the video here: https://youtu.be/gup5R1zJPpI Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6599724c-757f-11f1-80ec-2fd86cdea9b9/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4104433907.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6970",
+      "speakers": [
+        "Haunted City"
+      ],
+      "topics": [
+        "gang",
+        "ghosts",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
       "key": "8bb8e05dfae4b82081a639bfad16d66d8db65d79",
       "title": "Rain of Terror | The Glass Cannon Podcast Giantslayer E325 | Pathfinder 1E",
       "published_at": "2022-05-10T04:01:00+00:00",
@@ -12580,6 +12911,30 @@
         "podcast",
         "giantslayer",
         "pathfinder"
+      ]
+    },
+    {
+      "key": "678c951eed92bede4fa22251db7d7ef7f4978ec7",
+      "title": "Downtime Domination | Haunted City S1 E11 | Blades in the Dark",
+      "published_at": "2022-05-06T04:00:00+00:00",
+      "link": null,
+      "description": "The crew's long-term project comes to fruition, and a new crew member moves in. Watch the video here: https://youtu.be/-UnWRQn6k9A Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/32299b58-757f-11f1-8722-4b93519a6dcc/image/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1122241669.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6728",
+      "speakers": [
+        "Downtime Domination",
+        "Haunted City"
+      ],
+      "topics": [
+        "downtime",
+        "domination",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
       ]
     },
     {
@@ -20939,6 +21294,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-02 — The Megacorp Way | Gen Con 2026 Gauntlet Prep Part 5 | Traveller — speakers: Gen Con Gauntlet
 - 2026-07-01 — HUMINT | We Shouldn't Be Alive E4 | Twilight: 2000
 - 2026-06-30 — Winter Phase, 512 A.D. | Pendragon: Under an Iron Sky | Chaosium — speakers: King Sauvage
 - 2026-06-29 — GCN News Minute June 29, 2026 — speakers: News Minute June
@@ -20952,23 +21308,23 @@
 - 2026-06-17 — Cover Me | We Shouldn't Be Alive E2 | Twilight: 2000 — speakers: Cover Me
 - 2026-06-16 — The Swine King, Part 1 | Pendragon: Under an Iron Sky | Chaosium — speakers: Iron Sky, Chaosium Hark
 - 2026-06-15 — GCN News Minute June 15, 2026 — speakers: Gen Con
-- 2026-06-15 — Hits and Crits | Blood of the Wild S1 E26 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame Combat
 - 2026-06-15 — Blades in the Dark | GCN Naish Rally
-- 2026-06-12 — The Folly of Ser Ydris | The Glass Cannon Podcast Shadowdark E30 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-06-15 — Hits and Crits | Blood of the Wild S1 E26 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame Combat
 - 2026-06-12 — Delta Green | GCN Naish Rally
-- 2026-06-11 — Brindlewood Bay | GCN Naish Rally — speakers: Brindlewood Bay, Naish Rally When
+- 2026-06-12 — The Folly of Ser Ydris | The Glass Cannon Podcast Shadowdark E30 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-06-11 — St. Elsewhere | Call of Cthulhu Live! | St. Paul 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
+- 2026-06-11 — Brindlewood Bay | GCN Naish Rally — speakers: Brindlewood Bay, Naish Rally When
 - 2026-06-10 — You're on Your Own | We Shouldn't Be Alive E1 | Twilight: 2000 — speakers: Joe O'Brien, Ross Bryant, Mary Lou, Jared Logan, Skid Maher
 - 2026-06-10 — Mythic Bastionland | GCN Naish Rally — speakers: Mythic Bastionland, Troy Lavallee
 - 2026-06-09 — Winter Phase, 511 A.D. | Pendragon: Under an Iron Sky | Chaosium — speakers: Lady Gwenhilt
 - 2026-06-09 — Shadowdark | GCN Naish Rally — speakers: Joe O'Brien, Paula Deming, Sydney Amanuel, Kate Stamas, Rob Kerkovich
 - 2026-06-08 — GCN News Minute June 8, 2026 — speakers: News Minute June
-- 2026-06-08 — Muttering Over a Pyramid | Blood of the Wild S1 E25 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-06-08 — Advanced D&D | GCN Naish Rally
-- 2026-06-05 — Gede from the Machine | The Glass Cannon Podcast Shadowdark E29 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-06-08 — Muttering Over a Pyramid | Blood of the Wild S1 E25 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-06-05 — Twilight: 2000 | GCN Naish Rally — speakers: United States
-- 2026-06-04 — Bitter Sweet Symphony | Call of Cthulhu Live! | Dallas 2026 | Modern Call of Cthulhu — speakers: Sweet Symphony, Quiet Horizon
+- 2026-06-05 — Gede from the Machine | The Glass Cannon Podcast Shadowdark E29 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-06-04 — Regency Cthulhu | GCN Naish Rally — speakers: Alastair Linville
+- 2026-06-04 — Bitter Sweet Symphony | Call of Cthulhu Live! | Dallas 2026 | Modern Call of Cthulhu — speakers: Sweet Symphony, Quiet Horizon
 - 2026-06-03 — Mothership | GCN Naish Rally — speakers: Troy Lavallee
 - 2026-06-02 — The Queen's Wedding, Part 2 | Pendragon: Under an Iron Sky | Chaosium
 - 2026-06-01 — GCN News Minute June 1, 2026 — speakers: News Minute June
@@ -20993,8 +21349,8 @@
 - 2026-05-08 — Foul Rag and Bone Shop | The Glass Cannon Podcast Shadowdark E25 | Shadowdark RPG — speakers: Bone Shop, Shadowdark Rpg, Myre Castle
 - 2026-05-07 — Losing Nemo | Call of Cthulhu Live! | Los Angeles Night Two 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
 - 2026-05-06 — Star Wars Age of Rebellion Part 2 — speakers: Star Wars Age
-- 2026-05-05 — Star Wars Age of Rebellion Part 1 — speakers: Star Wars Age, Star Wars
 - 2026-05-05 — The Fury of King Lot, Part 2 | Pendragon: Under an Iron Sky | Chaosium — speakers: King Aurther
+- 2026-05-05 — Star Wars Age of Rebellion Part 1 — speakers: Star Wars Age, Star Wars
 - 2026-05-04 — GCN News Minute May 4, 2026
 - 2026-05-04 — I'll Remember This, Blessed One | Blood of the Wild S1 E20 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-05-01 — Horizon 271 | Call of Cthulhu Live! | Los Angeles Night One 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
@@ -21121,12 +21477,12 @@
 - 2025-09-04 — Glass Cannon Radio #32 – Monster Psychology 101/Best Movie Monsters/Book Club
 - 2025-08-30 — Forget It, Jake | Time For Chaos S3 E8 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-08-29 — Whiny the Elders | The Glass Cannon Podcast Gatewalkers E100 | Pathfinder 2E
-- 2025-08-28 — Glass Cannon Radio #31 - Violence in RPGs/Crunch Factor/Unwritten Rules
 - 2025-08-28 — Call of Cthulhu Live! – New Life (Indianapolis 2025)
+- 2025-08-28 — Glass Cannon Radio #31 - Violence in RPGs/Crunch Factor/Unwritten Rules
 - 2025-08-23 — Sophrosyne | Time For Chaos S3 E7 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jack Brady
 - 2025-08-22 — HR Buffs N' Stuff | The Glass Cannon Podcast Gatewalkers E99 | Pathfinder 2E
-- 2025-08-21 — Glass Cannon Radio #30 – Special Guest John Harper/Game Design/Crime Fiction — speakers: John Harper Game Design, John Harper
 - 2025-08-21 — Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E
+- 2025-08-21 — Glass Cannon Radio #30 – Special Guest John Harper/Game Design/Crime Fiction — speakers: John Harper Game Design, John Harper
 - 2025-08-16 — Bared Fang | Time For Chaos S3 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Bared Fang
 - 2025-08-15 — The Fissure Queen | The Glass Cannon Podcast Gatewalkers E98 | Pathfinder 2E — speakers: Nameless Spires
 - 2025-08-14 — Glass Cannon Radio #29 – Improv/Mythic Bastionland/Conspiracy Theories — speakers: Mary Lou
@@ -21146,27 +21502,27 @@
 - 2025-07-15 — Enter the GCN Gauntlet — speakers: Skid Maher, Matthew Capodi
 - 2025-07-12 — Batter My Heart | Time For Chaos S3 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: Batter My Heart, Cthulhu Masks, Black Pharaoh, Misr House
 - 2025-07-11 — Owl's Moving Castle | The Glass Cannon Podcast Gatewalkers E93 | Pathfinder 2E — speakers: Moving Castle
-- 2025-07-10 — Glass Cannon Radio #24 – Superman (2025)/Superhero RPGs/Andor Finale — speakers: James Gunn
 - 2025-07-10 — Phantom Punch | Glass Cannon Live! Ascension Part 8 | Toronto 2025 | Pathfinder 2E
-- 2025-07-04 — Death Be Not Proud | Time For Chaos S2 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Misr House
+- 2025-07-10 — Glass Cannon Radio #24 – Superman (2025)/Superhero RPGs/Andor Finale — speakers: James Gunn
 - 2025-07-04 — Once Bitten, Ice Shy | The Glass Cannon Podcast Gatewalkers E92 | Pathfinder 2E
-- 2025-07-03 — Glass Cannon Radio #23 – Captain America/Indie RPGs/Best Fictional President
+- 2025-07-04 — Death Be Not Proud | Time For Chaos S2 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Misr House
 - 2025-07-03 — Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-07-03 — Glass Cannon Radio #23 – Captain America/Indie RPGs/Best Fictional President
 - 2025-07-02 — One Little Room | Time For Chaos S2 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: One Little Room, Cthulhu Masks, Nyarlathotep After
 - 2025-07-01 — Smoke on the Water | Time For Chaos S2 E17 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-30 — Exhibit A | Time For Chaos S2 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
 - 2025-06-28 — Kingdom Come | Glass Cannon Live! Ascension Part 7 | Ann Arbor 2025 | Pathfinder 2E — speakers: Rosewood Vale
-- 2025-06-27 — Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Hidden Lines, Cthulhu Masks, Henson Manufacturing
 - 2025-06-27 — Yurty Rotten Scoundrels | The Glass Cannon Podcast Gatewalkers E91 | Pathfinder 2E — speakers: Yurty Rotten Scoundrels
-- 2025-06-26 — Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-06-27 — Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Hidden Lines, Cthulhu Masks, Henson Manufacturing
 - 2025-06-26 — Glass Cannon Radio #22 – Nerd Bracket Finals/Zombie Gaming/Beat McD
+- 2025-06-26 — Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-25 — Two Little Ducks | Time For Chaos S2 E13 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-24 — The Prodigal Son | Time For Chaos S2 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep Content Warning
 - 2025-06-23 — Old Habits | Time For Chaos S2 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Old Habits, Cthulhu Masks, Nyarlathotep Content Warning
 - 2025-06-20 — We Did Extinction | The Glass Cannon Podcast Gatewalkers E90 | Pathfinder 2E
 - 2025-06-20 — Lupus In Fabula | Time For Chaos S2 E10 | Call of Cthulhu Masks of Nyarlathotep
-- 2025-06-19 — Glass Cannon Radio #21 – The Alien Franchise/Railroading PCs/Great Gamblers
 - 2025-06-19 — Law and Orders | Time For Chaos S2 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
+- 2025-06-19 — Glass Cannon Radio #21 – The Alien Franchise/Railroading PCs/Great Gamblers
 - 2025-06-18 — Four Great Beasts | Time For Chaos S2 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Four Great Beasts, Cthulhu Masks, Empire Spices
 - 2025-06-17 — Spice It Up! | Time For Chaos S2 E7 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-16 — Hearts and Clubs | Time For Chaos S2 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
@@ -21176,8 +21532,8 @@
 - 2025-06-11 — Artist In Residence | Time For Chaos S2 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jackson Elias
 - 2025-06-10 — Cruise Line Visit Getaway | Time For Chaos S2 E2 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-09 — The Temptation of St. Anthony | Time For Chaos S2 E1 | Call of Cthulhu Masks of Nyarlathotep
-- 2025-06-06 — Doctor Roust Us | The Glass Cannon Podcast Gatewalkers E88 | Pathfinder 2E — speakers: Roust Us
 - 2025-06-06 — The Lunatic Is in My Head | Time For Chaos S1 E20 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-06-06 — Doctor Roust Us | The Glass Cannon Podcast Gatewalkers E88 | Pathfinder 2E — speakers: Roust Us
 - 2025-06-05 — Glass Cannon Radio #20 – Is Fudging Rolls Okay? / Age of Vikings RPG / Nerdiest Hobbies Bracket — speakers: Skid Maher
 - 2025-06-05 — Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Carlyle Mansion
 - 2025-06-04 — Maniac Mansion | Time For Chaos S1 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Maniac Mansion, Cthulhu Masks, Carlyle Mansion
@@ -21185,8 +21541,8 @@
 - 2025-06-02 — And One Was a Soldier | Time For Chaos S1 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
 - 2025-05-30 — Inveigle with Lox | The Glass Cannon Podcast Gatewalkers E87 | Pathfinder 2E
 - 2025-05-30 — Ill Met By Moonlight | Time For Chaos S1 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
-- 2025-05-29 — Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Spot Hidden, Cthulhu Masks, Nyarlathotep New
 - 2025-05-29 — Glass Cannon Radio #19 – What Makes a Great Roleplayer? / Best Sports Movies of All Time / Obscure Obsessions — speakers: Glass Cannon Radio, What Makes, Great Roleplayer, Best Sports Movies, All Time
+- 2025-05-29 — Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Spot Hidden, Cthulhu Masks, Nyarlathotep New
 - 2025-05-28 — Death House | Time For Chaos S1 E13 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-05-27 — Harlem Shuffle | Time For Chaos S1 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Harlem Shuffle, Cthulhu Masks
 - 2025-05-26 — Let's Scream Together | Time For Chaos S1 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Scream Together, Cthulhu Masks, Police Station
@@ -21200,8 +21556,8 @@
 - 2025-05-17 — Along Came a Rider | Glass Cannon Live! Ascension Part 6 | Portland 2025 | Pathfinder 2E — speakers: Rosewood Vale
 - 2025-05-16 — Lake Titicaca | Time For Chaos S1 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Lake Titicaca, Cthulhu Masks
 - 2025-05-16 — Loosey Balls | The Glass Cannon Podcast Gatewalkers E85 | Pathfinder 2E — speakers: Loosey Balls
-- 2025-05-15 — Glass Cannon Radio #17 – The Blacktongue Thief / Going Rogue in RPGs / Nerd Rant — speakers: Christopher Buehlman
 - 2025-05-15 — The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: Augustus Larkin
+- 2025-05-15 — Glass Cannon Radio #17 – The Blacktongue Thief / Going Rogue in RPGs / Nerd Rant — speakers: Christopher Buehlman
 - 2025-05-14 — First Kiss | Time For Chaos S1 E3 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-05-13 — Pisco Sour | Time For Chaos S1 E2 | Call of Cthulhu Masks of Nyarlathotep — speakers: Pisco Sour, Cthulhu Masks
 - 2025-05-12 — Dramatis Personae | Time For Chaos S1 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: Dramatis Personae, Ross Bryant, Noura Ibrahim, Kate Stamas, Rob Kerko
@@ -21314,8 +21670,8 @@
 - 2024-05-24 — Missing Moments | The Glass Cannon Podcast Gatewalkers E36 | Pathfinder 2E
 - 2024-05-22 — Strange Aeons Episode 90 – Father Bubbles
 - 2024-05-17 — Come Snail Away | The Glass Cannon Podcast Gatewalkers E35 | Pathfinder 2E — speakers: Come Snail Away
-- 2024-05-15 — Strange Aeons Episode 89 – I Wanna Dream Again
 - 2024-05-15 — Cannon Fodder 5/15/24
+- 2024-05-15 — Strange Aeons Episode 89 – I Wanna Dream Again
 - 2024-05-10 — You've Got Snail | The Glass Cannon Podcast Gatewalkers E34 | Pathfinder 2E — speakers: Got Snail
 - 2024-05-08 — Cannon Fodder 5/8/24 — speakers: Cannon Fodder, Gen Con, Joe kick
 - 2024-05-03 — Hungry Dart | The Glass Cannon Podcast Gatewalkers E33 | Pathfinder 2E — speakers: Hungry Dart
@@ -21364,8 +21720,8 @@
 - 2023-12-06 — Cannon Fodder 12/6/23 — speakers: Cannon Fodder
 - 2023-12-01 — Shoots and Ladder | The Glass Cannon Podcast Gatewalkers E11 | Pathfinder 2E
 - 2023-11-29 — Cannon Fodder 11/29/23 — speakers: Cannon Fodder
-- 2023-11-22 — Cannon Fodder 11/22/23 — speakers: Cannon Fodder
 - 2023-11-22 — Strange Aeons Episode 85 – Another Mun Bites the Dust — speakers: Another Mun Bites
+- 2023-11-22 — Cannon Fodder 11/22/23 — speakers: Cannon Fodder
 - 2023-11-17 — Dancers in the Dark | The Glass Cannon Podcast Gatewalkers E10 | Pathfinder 2E
 - 2023-11-15 — Cannon Fodder 11/15/23 — speakers: Cannon Fodder
 - 2023-11-10 — Bachman-Turner Overshirt | The Glass Cannon Podcast Gatewalkers E9 | Pathfinder 2E — speakers: Turner Overshirt
@@ -21453,8 +21809,8 @@
 - 2023-02-14 — Strange Aeons Episode 62 – The Ghast and the Curious
 - 2023-02-08 — Cannon Fodder 2/8/23 — speakers: Cannon Fodder
 - 2023-02-07 — Strange Aeons Episode 61 – A Mid-forest Night's Dream — speakers: Verduran Forest
-- 2023-02-01 — Friends of the Pod – Pathfinder 2E
 - 2023-02-01 — Cannon Fodder 2/1/23 — speakers: Cannon Fodder
+- 2023-02-01 — Friends of the Pod – Pathfinder 2E
 - 2023-01-31 — Strange Aeons Episode 60 – That's My Juice Now
 - 2023-01-25 — Cannon Fodder 1/25/23 — speakers: Cannon Fodder
 - 2023-01-24 — Strange Aeons Episode 59 – Tricorne Flakes — speakers: Tricorne Flakes Just
@@ -21463,12 +21819,24 @@
 - 2023-01-11 — Cannon Fodder 1/11/23 — speakers: Cannon Fodder, Glass Cannon Labs
 - 2023-01-10 — Strange Aeons Episode 57 – The Adventures of Pepsi and Chickenpoon
 - 2023-01-04 — Cannon Fodder 1/4/23 — speakers: Cannon Fodder, Joe kick, Glass Cannon Labs
+- 2022-12-30 — Vengeance and Voltage | Haunted City S1 E25 | Blades in the Dark
+- 2022-12-23 — A Downtime Dalliance | Haunted City S1 E24 | Blades in the Dark — speakers: Ljns Ac
+- 2022-12-16 — Tunnels and Terror | Haunted City S1 E23 | Blades in the Dark — speakers: Haunted City
+- 2022-12-09 — Downtime Directives | Haunted City S1 E22 | Blades in the Dark
 - 2022-12-06 — Strange Aeons Episode 56 – Lurid Dreaming
+- 2022-12-02 — The Imperial City Part Three | Haunted City S1 E21 | Blades in the Dark
+- 2022-11-25 — The Imperial City Part Two | Haunted City S1 E20 | Blades in the Dark — speakers: Haunted City, Imperial City
 - 2022-11-22 — Strange Aeons Episode 55 – Last Christmas
+- 2022-11-18 — The Imperial City Part One | Haunted City S1 E19 | Blades in the Dark — speakers: Haunted City, Imperial City
+- 2022-11-11 — Chuk Shall Rise | Haunted City S1 E18 | Blades in the Dark — speakers: Chuk Shall Rise, Haunted City, Dark Chuk
 - 2022-11-08 — Strange Aeons Episode 54 – Help Wanted — speakers: Sellen Starling
+- 2022-11-04 — The Rise of Chuk | Haunted City S1 E17 | Blades in the Dark — speakers: Haunted City, Dark Chuk
 - 2022-11-01 — Strange Aeons Episode 53 – Master of Poppets
+- 2022-10-28 — Downtime Dissension Part Two | Haunted City S1 E16 | Blades in the Dark
 - 2022-10-25 — Strange Aeons Episode 52 – Foam at the Neck Mouth — speakers: Neck Mouth
+- 2022-10-21 — Downtime Dissension Part One | Haunted City S1 E15 | Blades in the Dark
 - 2022-10-18 — Strange Aeons Episode 51 – Wait in the Truck — speakers: Sellen Starling
+- 2022-10-14 — Art and Annihilation | Haunted City S1 E14 | Blades in the Dark — speakers: Haunted City
 - 2022-10-04 — Strange Aeons Episode 50 – Beach Bodies
 - 2022-09-27 — Strange Aeons Episode 49 – Riverside Drive — speakers: Riverside Drive
 - 2022-09-20 — Strange Aeons Episode 48 – All Hail the Water Rat! — speakers: life look
@@ -21520,10 +21888,13 @@
 - 2022-05-25 — Strange Aeons Episode 3 – Unconscious and Dying
 - 2022-05-24 — Strange Aeons Episode 2 – As If You Didn't Know — speakers: Join Tr
 - 2022-05-23 — Strange Aeons Episode 1 – The Green Loser
+- 2022-05-20 — Downtime Dynasty | Haunted City S1 E13 | Blades in the Dark
 - 2022-05-17 — A Couple Things Happened | The Glass Cannon Podcast Giantslayer E326 Part 3 | Pathfinder 1E
 - 2022-05-17 — A Couple Things Happened | The Glass Cannon Podcast Giantslayer E326 Part 2 | Pathfinder 1E
 - 2022-05-17 — A Couple Things Happened | The Glass Cannon Podcast Giantslayer E326 Part 1 | Pathfinder 1E
+- 2022-05-13 — Gangs and Ghosts | Haunted City S1 E12 | Blades in the Dark — speakers: Haunted City
 - 2022-05-10 — Rain of Terror | The Glass Cannon Podcast Giantslayer E325 | Pathfinder 1E — speakers: Ironcloud Keep
+- 2022-05-06 — Downtime Domination | Haunted City S1 E11 | Blades in the Dark — speakers: Downtime Domination, Haunted City
 - 2022-05-03 — Every Death You Snake | The Glass Cannon Podcast Giantslayer E324 | Pathfinder 1E
 - 2022-04-29 — Just Your Basic B&E | Haunted City S1 E10 | Blades in the Dark — speakers: Haunted City
 - 2022-04-22 — Introducing Ekeprag Wodi | Haunted City S1 E9 | Blades in the Dark — speakers: Ekeprag Wodi
