@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-07-01T15:14:15+00:00`
-- checked_at: `2026-07-01T15:14:15+00:00`
-- etag: `"djEuMi4wOjE3ODI4MjQ0MzkzODg="`
+- fetched_at: `2026-07-03T14:33:29+00:00`
+- checked_at: `2026-07-03T14:33:29+00:00`
+- etag: `"djEuMi4wOjE3ODMwODM2Mzk0OTE="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/show-cover.png",
-  "fetched_at": "2026-07-01T15:14:15+00:00",
+  "fetched_at": "2026-07-03T14:33:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "1a58ee525b782b8a8e9e844dc4a415dc3cb3cea9",
+      "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 12: The Man Next Door",
+      "published_at": "2026-07-03T13:00:00+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/mage-the-ascension-the-victorian-age-book-3-chapter-12-the-m",
+      "description": "Welcome to book three of Mage the Victorian Age! In this episode, the Doves get a new neighbor who may cause some trouble. Thank you to Bookwyrm Games for sponsoring Dork Tales this month! Use code DORKTALES to save 15% at https://www.bookwyrmgames.com! Orders over $100 also enjoy free shipping! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage *** Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Evelyn Taylor *** Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktalescha... Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! *** Music credits: Tracks from Joel Steudler Heartwarming Magic Adventure Antics Abound Licensed under a Humble Bundle Collection Music From Dark Fantasy Studio Hidden in the Dark Paradox Nightfall Complexe Mind These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vision of the Ancients Conspiracy Unravel Horror Piano Forthright Untenable Piano Solo These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net We also use licensed music from Audio Hero, Ovani Studios, GameDev Market, and Phat Phrog Studios, including: Archive of Sad Days Anyone Can Solve This Classical Villanous Charnel Hymn Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! https://www.tabletopaudio.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1782754708062-7f43f6d7-dbb4-47ed-a863-3cd7ae8a3b37.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a42b525c2fe1c7f49c70355/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105752169",
+      "itunes_duration": "2:05:52",
+      "speakers": [
+        "Victorian Age"
+      ],
+      "topics": [
+        "ascension",
+        "book",
+        "chapter",
+        "door"
+      ]
+    },
     {
       "key": "058fa98fe79039635169cb886b35a14e3691111f",
       "title": "ColdIron | Episode 3: Beneath the Walls",
@@ -7977,6 +7998,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-03 — Mage the Ascension the Victorian Age | Book 3, Chapter 12: The Man Next Door — speakers: Victorian Age
 - 2026-06-30 — ColdIron | Episode 3: Beneath the Walls — speakers: Walls Welcome
 - 2026-06-29 — Mage the Ascension the Victorian Age | Book 3, Chapter 11: The Sisters Goodwyn — speakers: Victorian Age
 - 2026-06-25 — ColdIron | Episode 2: Death in Prospect — speakers: Prospect Welcome

@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-06-24T17:21:13+00:00`
-- checked_at: `2026-06-24T17:21:13+00:00`
-- etag: `W/"1518b648fc6446bfa7c1b573060e792e"`
-- last_modified: `Wed, 24 Jun 2026 17:00:00 GMT`
+- fetched_at: `2026-07-03T14:33:29+00:00`
+- checked_at: `2026-07-03T14:33:29+00:00`
+- etag: `W/"8a50e23136cb2a56c5b27a432774c3b3"`
+- last_modified: `Fri, 03 Jul 2026 09:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,34 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-06-24T17:21:13+00:00",
+  "fetched_at": "2026-07-03T14:33:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "2085c54a54027a9134b8c091bf45e86ebfcdc531",
+      "title": "Force of Extinction One-Shot Arc Bark",
+      "published_at": "2026-07-03T09:00:00+00:00",
+      "link": "https://audioboom.com/posts/8923574",
+      "description": "Our 12 Sided crew discuss how they felt their jaunt into the world of Axis went, diving deeper into some of the rules and mechanics of the Force of Extinction system, why Jasper hates information hidden behind puzzles, and our crew piece together some hidden lore from their two-shot. -- If you enjoyed this episode and want to try out the Force of Extinction system for yourself, you can support it over on BackerKit now! Quick to learn and built for role play and epic moments, help us reach our goal by backing one of our Pledge Tiers, and get your hands on so many exclusive Force of Extinction goodies. From source books, monster decks and remote play sessions, all the way up to an overnight holiday escape in a castle! If you want to see Force of Extinction in action elsewhere, consider checking out: Transplanar's most recent arc Our one-shot GM'd by former Rotator Edward Spence over on Youtube Our one-shot with Roll from the Hip GM'd by Jasper William Cartwright",
+      "image_url": "https://audioboom.com/i/43693043.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8923574.mp3?modified=1783018952&sid=5167570&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3633",
+      "speakers": [
+        "Extinction One"
+      ],
+      "topics": [
+        "force",
+        "extinction",
+        "shot",
+        "bark"
+      ]
+    },
     {
       "key": "88da8e8e5b6b4e7918abd13157b72ac708b199eb",
       "title": "Force of Extinction One-Shot Ep 2 - Frozen in Time",
@@ -2756,6 +2777,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-03 — Force of Extinction One-Shot Arc Bark — speakers: Extinction One
 - 2026-06-24 — Force of Extinction One-Shot Ep 2 - Frozen in Time — speakers: Extinction One
 - 2026-06-16 — Force of Extinction One-Shot Ep 1 - Sun, Sand and Laxatives — speakers: Extinction One, Laxatives When
 - 2026-06-12 — Rotating Heroes x Force of Extinction Crossover - Session 0 — speakers: Join Jasper
