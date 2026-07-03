@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-06-26T17:11:04+00:00`
-- checked_at: `2026-06-26T17:11:04+00:00`
-- last_modified: `Fri, 26 Jun 2026 16:07:50 GMT`
+- fetched_at: `2026-07-03T16:46:48+00:00`
+- checked_at: `2026-07-03T16:46:48+00:00`
+- last_modified: `Fri, 03 Jul 2026 16:07:26 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-26T17:11:04+00:00",
+  "fetched_at": "2026-07-03T16:46:48+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,27 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "e2b1bbfe9730ac4babb9d7ec2219c420132c7581",
+      "title": "Mythic Bastionland #5",
+      "published_at": "2026-07-03T16:00:00+00:00",
+      "link": null,
+      "description": "Welcome back to Mythic Bastionland and the realm of Saltmere Reach... The knights venture to the rumoured vale of laughing woods seeking seers guidance and within it's grotto, blessed were they, a potent gift of seers fungus. Within their spirit journey they endeavour to uncover the past of Lord Manus, the iron knight who holds the seat of power in the North. Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Check out Mythic Bastionland: https://chrismcdee.itch.io/mythic-bastionland Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: @AngoryTom Dominic Allen: @apocplayers Danann McAleer: @apocplayers Harry: https://www.twitch.tv/hrry Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR8342567300.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3772",
+      "speakers": [
+        "Mythic Bastionland",
+        "Saltmere Reach",
+        "Tom Bates"
+      ],
+      "topics": [
+        "mythic",
+        "bastionland"
+      ]
+    },
     {
       "key": "1cb68fb79d8b2d46ebc8720f8204ddae5906a15d",
       "title": "Mythic Bastionland #4",
@@ -3035,24 +3056,22 @@
       ]
     },
     {
-      "key": "cd447fcdfcfeec04fe6283bb0510fbe54ec1f480",
-      "title": "MÖRK BORG: The Goblin Grinder #1",
+      "key": "1eca22755a0101b7dd1965525d648220ad5556b4",
+      "title": "Call of Cthulhu: The Disintegrator #2",
       "published_at": "2023-09-09T17:00:00+00:00",
       "link": null,
-      "description": "Welcome to Mystery Quest! Today we are joined by a new group of adventurers who are being dragged kicking a screaming through the grim fantasy world that is MÖRK BORG. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "The investigators have made their way to The White Point Hotel where they are going to witness a demonstration of a mysterious new weapon that can supposedly destroy all matter. They must now work out whether the weapon is an elaborate hoax or if it is indeed the super weapon that has been promised. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR6788187947.mp3?updated=1707495427",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR3581887226.mp3?updated=1707495579",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3521",
+      "itunes_duration": "4387",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
-        "borg",
-        "goblin",
-        "grinder"
+        "cthulhu",
+        "disintegrator"
       ]
     },
     {
@@ -3076,22 +3095,24 @@
       ]
     },
     {
-      "key": "1eca22755a0101b7dd1965525d648220ad5556b4",
-      "title": "Call of Cthulhu: The Disintegrator #2",
+      "key": "cd447fcdfcfeec04fe6283bb0510fbe54ec1f480",
+      "title": "MÖRK BORG: The Goblin Grinder #1",
       "published_at": "2023-09-09T17:00:00+00:00",
       "link": null,
-      "description": "The investigators have made their way to The White Point Hotel where they are going to witness a demonstration of a mysterious new weapon that can supposedly destroy all matter. They must now work out whether the weapon is an elaborate hoax or if it is indeed the super weapon that has been promised. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Welcome to Mystery Quest! Today we are joined by a new group of adventurers who are being dragged kicking a screaming through the grim fantasy world that is MÖRK BORG. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR3581887226.mp3?updated=1707495579",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR6788187947.mp3?updated=1707495427",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4387",
+      "itunes_duration": "3521",
       "speakers": [
+        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
-        "cthulhu",
-        "disintegrator"
+        "borg",
+        "goblin",
+        "grinder"
       ]
     },
     {
@@ -3120,6 +3141,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-03 — Mythic Bastionland #5 — speakers: Mythic Bastionland, Saltmere Reach, Tom Bates
 - 2026-06-26 — Mythic Bastionland #4 — speakers: Mythic Bastionland, Saltmere Reach, Tom Bates
 - 2026-06-19 — Mythic Bastionland #3 — speakers: Mythic Bastionland, Saltmere Reach, Tom Bates
 - 2026-06-12 — Mythic Bastionland #2 — speakers: Mythic Bastionland, Saltmere Reach, Tom Bates
@@ -3267,7 +3289,7 @@
 - 2023-09-30 — MÖRK BORG: The Goblin Grinder #4 — speakers: Tom Bates
 - 2023-09-23 — MÖRK BORG: The Goblin Grinder #3 — speakers: Tom Bates
 - 2023-09-16 — MÖRK BORG: The Goblin Grinder #2 — speakers: Tom Bates
-- 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates
-- 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Mystery Quest, Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #2 — speakers: Tom Bates
+- 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Mystery Quest, Tom Bates
+- 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #3 — speakers: Tom Bates
