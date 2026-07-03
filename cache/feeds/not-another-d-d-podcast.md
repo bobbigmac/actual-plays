@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-06-26T04:42:48+00:00`
-- checked_at: `2026-06-26T04:42:48+00:00`
-- last_modified: `Thu, 25 Jun 2026 22:32:13 GMT`
+- fetched_at: `2026-07-03T09:37:26+00:00`
+- checked_at: `2026-07-03T09:37:26+00:00`
+- last_modified: `Fri, 03 Jul 2026 02:28:27 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-06-26T04:42:48+00:00",
+  "fetched_at": "2026-07-03T09:37:26+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,33 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "c15ffd48336f6f41d042d8d1a76a4abb5488d4b2",
+      "title": "D&D Court: Falling Corpses and Legal Loopholes (w/ SungWon Cho!)",
+      "published_at": "2026-07-02T04:00:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/a0b4c307-a2ce-4ab1-ad24-d03649d8232d",
+      "description": "AD-FREE EP FOR $5+ PATRONS! Dungeon Court is back in session, featuring the newly minted Justice, SungWon Cho !) Join Justices Murphy, Axford, Tanner, and Cho, along with Brandliff Jake, as they convene to pass judgement on your trials at the table! CREDITS: Sound Mixing and Editing by Trevor Lyon Dungeon Court Theme Song by Sam Weiller See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/ef/76/49/c7/ef7649c7-5366-4823-9ca0-f3d35acb16c5/49768375a8531002d8d648d6a6dc6e11d381617f680cb9e62525e558da82053ccd399b3e32a3f86d9dd402d915d003d0a58418950c61e972805102087b10003b.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/a0b4c307-a2ce-4ab1-ad24-d03649d8232d.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63874612",
+      "itunes_duration": "01:06:32",
+      "speakers": [
+        "Legal Loopholes",
+        "SungWon Cho",
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "court",
+        "corpses",
+        "legal",
+        "loopholes",
+        "sungwon"
+      ]
+    },
     {
       "key": "8942a74a10687d6aa647191533e8ed3e6188dfae",
       "title": "Gangs of Neo Galaderon - Ep. 10: The South Avenue Jimmies",
@@ -11150,6 +11177,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-02 — D&D Court: Falling Corpses and Legal Loopholes (w/ SungWon Cho!) — speakers: Legal Loopholes, SungWon Cho, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-06-25 — Gangs of Neo Galaderon - Ep. 10: The South Avenue Jimmies — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-06-18 — Gangs of Neo Galaderon - Ep. 9: Pietro & Carley Quinn — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-06-11 — D&D Court: Forgotten Traps, Sci-Fi Shenanigans & The Dice Christ Data Dilemma — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner

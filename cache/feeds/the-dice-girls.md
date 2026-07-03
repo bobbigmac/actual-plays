@@ -3,9 +3,11 @@
 - slug: `the-dice-girls`
 - source: `https://thedicegirls.podbean.com/feed.xml`
 - fetched_at: `2026-06-23T04:32:22+00:00`
-- checked_at: `2026-06-23T04:32:22+00:00`
+- checked_at: `2026-07-03T09:37:26+00:00`
 - etag: `"a54be30dbb3d2b4d038b50eabbab26ec"`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: The read operation timed out
 
 <!-- FEED_JSON -->
 ```json
@@ -3261,7 +3263,17 @@
         "spoon"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-07-03T09:37:26+00:00",
+    "status": "error",
+    "checked_at": "2026-07-03T09:37:26+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "The read operation timed out"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
