@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-06-26T09:53:21+00:00`
-- checked_at: `2026-06-26T09:53:21+00:00`
-- etag: `"c3b7f37ef07e728bb5e866a505d00b53"`
-- last_modified: `Thu, 25 Jun 2026 17:13:17 GMT`
+- fetched_at: `2026-07-04T04:05:17+00:00`
+- checked_at: `2026-07-04T04:05:17+00:00`
+- etag: `"2b2478df798a6d88644832953dbed9bd"`
+- last_modified: `Sat, 04 Jul 2026 01:51:29 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-06-26T09:53:21+00:00",
+  "fetched_at": "2026-07-04T04:05:17+00:00",
   "owners": [
     "Austin Walker"
   ],
