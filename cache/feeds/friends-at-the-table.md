@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-07-04T04:05:17+00:00`
-- checked_at: `2026-07-04T04:05:17+00:00`
-- etag: `"2b2478df798a6d88644832953dbed9bd"`
-- last_modified: `Sat, 04 Jul 2026 01:51:29 GMT`
+- fetched_at: `2026-07-04T09:02:14+00:00`
+- checked_at: `2026-07-04T09:02:14+00:00`
+- etag: `"edd4c4011810afe1acc3f3440a5c15a4"`
+- last_modified: `Sat, 04 Jul 2026 04:17:55 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-07-04T04:05:17+00:00",
+  "fetched_at": "2026-07-04T09:02:14+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "0f054ee678b349d547a70e3317d6af717693beda",
+      "title": "Perpetua 44: Escape the Rumbling Castle! 04",
+      "published_at": "2026-07-04T04:17:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-44-escape-the-rumbling-castle-04",
+      "description": "As the crew of the Little Snail and the Sourcerot investigators continue to delve the depths of the Castle Eschatonica, new voices are heard in the air. For those in the western half of the castle, the voices are brusque and severe, shaped to fit the prepared phrases necessary for a most hospitable war. But in the east, the voices lilt and shine, like dewy petals in a breeze. Is such a sound an invitation or something more nefarious… This week on perpetua: Escape the Rumbling Castle! 04 Perpetua Guide [In Progress v.06] Some Feedback [Page 66 of 68] TheUnforgivenIII So uhhhh does anyone have any tips for the minigame in the antechamber? I'm hitting all the buttons right, but I keep losing, and I want the best outcome. Alukard83 I don't think the outcome actually matters. You just get like, a little buff if you win. CarlsSr Well you're definitely not hitting ALL the buttons right TheUnforgivenIII I'm. Hitting. ALL. The BUTTONS. RIGHT.!!!! xXZelgadyskXx So I got stuck on this one for a WHILE until we spent like five hours testing it out together on IRC. Here're my tips: Accuracy is more important than speed. If you miss more than three button presses, you're GOING to come into second, no matter how fast you go. Pick your dominant hand (so if you're right handed, use the face buttons, if you're left handed, use the d-pad). Speed IS still important. If your party leader doesn't have at least 15 by the time one of the other characters has 18, you're just not going to win. Reset and start over. For me, whistling a song that's the right pace really helped. I did \"Row Row Row Your Boat\" but as if \"Your Boat\" never happens. Just: Row Row Row Row Row Row Row, et cetera, you know? Finally, don't worry about it. You just get like a little buff I think. CarlsSr I think I'm the one all hitting buttons, buddy. Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), Janine Hawkins ( @bleatingheart ), Sylvi Bullet ( @sylvibullet ), Keith J Carberry ( @keithjcarberry ) and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_44_Escape_the_Rumbling_Castle_04.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "118429528",
+      "itunes_duration": "01:37:09",
+      "speakers": [
+        "Rumbling Castle",
+        "Little Snail",
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "rumbling",
+        "castle"
+      ]
+    },
     {
       "key": "51d8bd5581d249149a6f9694333fa2ae21ad3e14",
       "title": "Marielda 10th Anniversary Soundtrack Vinyl Available to Pre-Order Now!",
@@ -11543,6 +11565,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-04 — Perpetua 44: Escape the Rumbling Castle! 04 — speakers: Rumbling Castle, Little Snail, Austin Walker
 - 2026-06-25 — Marielda 10th Anniversary Soundtrack Vinyl Available to Pre-Order Now! — speakers: Uklan Tel, Austin Walker
 - 2026-06-19 — Perpetua 43: Escape the Rumbling Castle! 03 — speakers: Austin Walker
 - 2026-05-29 — Perpetua 42: Escape the Rumbling Castle! 02 — speakers: Rumbling Castle, Austin Walker
