@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-06-23T10:05:21+00:00`
-- checked_at: `2026-06-23T10:05:21+00:00`
-- etag: `"440a09126dfc1bd919d0bdce18fbf106"`
+- fetched_at: `2026-07-06T22:40:31+00:00`
+- checked_at: `2026-07-06T22:40:31+00:00`
+- etag: `"8f8ad98f7abfb13e214ed18fffc2e627"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-06-23T10:05:21+00:00",
+  "fetched_at": "2026-07-06T22:40:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "f68978de6840ca4152b41d6846d1b9917d68a007",
+      "title": "Black Powder & Brimstone: Valorous Hands part 3",
+      "published_at": "2026-07-06T22:34:58+00:00",
+      "link": "https://fandible.com/black-powder-brimstone-valorous-hands-part-3/",
+      "description": "Mission gained, the hands of Valor embark on a thier next job in the swamps. The post Black Powder & Brimstone: Valorous Hands part 3 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/458_BPB_ValorousHands/Fan_810_BPB_ValorousHandsp3.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36096201",
+      "itunes_duration": "38:42",
+      "speakers": [
+        "Black Powder",
+        "Valorous Hands"
+      ],
+      "topics": [
+        "black",
+        "powder",
+        "brimstone",
+        "hands"
+      ]
+    },
     {
       "key": "b59e538c8833aa37b3fb50e550435482cf8f8df1",
       "title": "Black Powder & Brimstone: Valorous Hands part 2",
@@ -11358,28 +11380,6 @@
       "topics": [
         "pugmire"
       ]
-    },
-    {
-      "key": "54f6c850dd431834bfca06ed97924ce907027d3d",
-      "title": "Rotted Capes Ep 10: Patriotic Enslavement 2 of 2",
-      "published_at": "2016-07-22T14:33:13+00:00",
-      "link": "https://fandible.com/rotted-capes-ep-10-patriotic-enslavement-2-2/",
-      "description": "Returning to the Military Enclave, the superpowered prisoners discover they weren’t the only people dealing with a zombie issue. Intro Music: Hitman by Kevin Macleod Rotted Capes Episodes Other Games The post Rotted Capes Ep 10: Patriotic Enslavement 2 of 2 appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/187_RC_PatrioticEnslavement/Fan_306_RC_PatrioticEnslavement2of2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "56992717",
-      "itunes_duration": "1:57:33",
-      "speakers": [
-        "Patriotic Enslavement",
-        "Military Enclave"
-      ],
-      "topics": [
-        "rotted",
-        "capes",
-        "patriotic",
-        "enslavement"
-      ]
     }
   ]
 }
@@ -11388,6 +11388,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-06 — Black Powder & Brimstone: Valorous Hands part 3 — speakers: Black Powder, Valorous Hands
 - 2026-06-23 — Black Powder & Brimstone: Valorous Hands part 2 — speakers: Black Powder, Valorous Hands
 - 2026-06-16 — Black Powder & Brimstone: Valorous Hands part 1 — speakers: Black Powder, Valorous Hands
 - 2026-06-09 — Rotted Capes Episode 20: Broken Chains part 4 — speakers: Broken Chains, Moziak Base
@@ -11987,4 +11988,3 @@
 - 2016-08-12 — Bubblegumshoe: Veronica Base, Casefile #001 2 of 2 — speakers: Veronica Base
 - 2016-08-05 — Bubblegumshoe: Veronica Base, Casefile #001 1 of 2 — speakers: Veronica Base
 - 2016-07-29 — Pugmire: The Cat’s Mau
-- 2016-07-22 — Rotted Capes Ep 10: Patriotic Enslavement 2 of 2 — speakers: Patriotic Enslavement, Military Enclave
