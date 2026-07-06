@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-06-29T05:02:08+00:00`
-- checked_at: `2026-06-29T05:02:08+00:00`
-- last_modified: `Mon, 29 Jun 2026 04:05:00 GMT`
+- fetched_at: `2026-07-06T04:43:44+00:00`
+- checked_at: `2026-07-06T04:43:44+00:00`
+- last_modified: `Mon, 06 Jul 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-06-29T05:02:08+00:00",
+  "fetched_at": "2026-07-06T04:43:44+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "4b98ed660b3ef91bd33a067e8b0452d17c4afde1",
+      "title": "Guilt of the Grave World | 021: All Dogs Go to Vesk 6",
+      "published_at": "2026-07-06T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-021-all-dogs-go-to-vesk-6/",
+      "description": "This week the crew of the Nova Rush takes a break as we focus in more clearly on the story of one Xeldan Gutteryoung. Follow the soldier’s footsteps through the emancipation of Pulonis and meeting with Captain Heathaeyun for the first time in this fun one-on-one with Gibert on this week’s Cosmic Crit!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3826/guilt-of-the-grave-world-021-all-dogs-go-to-vesk-6.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59687027",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Grave World",
+        "All Dogs Go",
+        "Nova Rush"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "vesk"
+      ]
+    },
     {
       "key": "a613a940da0727b4ee8470fdc2e03ab9d0cd12fc",
       "title": "Guilt of the Grave World | 020: Undead Man Walking",
@@ -9002,6 +9025,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-06 — Guilt of the Grave World | 021: All Dogs Go to Vesk 6 — speakers: Grave World, All Dogs Go, Nova Rush
 - 2026-06-29 — Guilt of the Grave World | 020: Undead Man Walking — speakers: Grave World, Nova Rush
 - 2026-06-22 — Guilt of the Grave World | 019: Glass Effect: Eox — speakers: Grave World, Glass Effect, Eox While, Nova Rush
 - 2026-06-15 — Guilt of the Grave World | 018: Rotting Hill — speakers: Grave World

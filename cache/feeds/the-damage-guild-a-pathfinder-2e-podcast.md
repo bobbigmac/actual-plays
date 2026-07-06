@@ -2,9 +2,9 @@
 
 - slug: `the-damage-guild-a-pathfinder-2e-podcast`
 - source: `https://www.thedamageguild.com/feed/podcast2`
-- fetched_at: `2026-06-23T20:25:24+00:00`
-- checked_at: `2026-06-23T20:25:24+00:00`
-- last_modified: `Mon, 22 Jun 2026 05:02:27 GMT`
+- fetched_at: `2026-07-06T04:43:44+00:00`
+- checked_at: `2026-07-06T04:43:44+00:00`
+- last_modified: `Mon, 06 Jul 2026 04:01:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedamageguild.com",
   "description": "Do you like jokes, adventure, killing things, and friendship? Of course you do! The Damage Guild is an actual-play Pathfinder 2nd Edition (PF2E) podcast with a focus on collaborative storytelling, character-driven narrative, and improv comedy shenanigans, delivered in a family-friendly style and set in a homebrew world. Join us for new episodes every other Monday, so you can kiss those weekend blues goodbye and get pumped to slay the dragon of your everyday life!",
   "image_url": "https://thedamageguild.com/wp-content/uploads/dgp_pf2e_podcast_artwork.jpg",
-  "fetched_at": "2026-06-23T20:25:24+00:00",
+  "fetched_at": "2026-07-06T04:43:44+00:00",
   "owners": [
     "Sean Abrams",
     "Thayne Bohman",
@@ -31,6 +31,28 @@
     "ttrpg/pathfinder"
   ],
   "episodes": [
+    {
+      "key": "bdabc683c7d64ce85e288e33595978dea751baae",
+      "title": "Episode 51 – It’s Kite Night",
+      "published_at": "2026-07-06T04:01:00+00:00",
+      "link": "https://thedamageguild.com/pf2e-episodes/episode-51-2/",
+      "description": "The goblin king’s minions bring the full weight of their strength to bear. Kardain throws shade. Zara turtles. Verrol finally accomplishes something .",
+      "image_url": null,
+      "enclosure_url": "https://media.blubrry.com/damageguild/media.blubrry.com/3739398/content.blubrry.com/3739398/dgp_pf2e_episode51a.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52023390",
+      "itunes_duration": null,
+      "speakers": [
+        "Sean Abrams",
+        "Thayne Bohman",
+        "Bryan Staudt",
+        "Jay Staudt"
+      ],
+      "topics": [
+        "kite",
+        "night"
+      ]
+    },
     {
       "key": "99a89e4714742216f85373055b7744309b4f0a35",
       "title": "Episode 50 – Green There, Done That",
@@ -1148,6 +1170,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-06 — Episode 51 – It’s Kite Night — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-06-22 — Episode 50 – Green There, Done That — speakers: Kardain Hodors, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-06-08 — Episode 49 – Gobrilla Warfare — speakers: Gobrilla Warfare, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-05-25 — Episode 48 – We’re Inn the Money — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
