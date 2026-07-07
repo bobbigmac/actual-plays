@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-07-02T04:32:41+00:00`
-- checked_at: `2026-07-02T04:32:41+00:00`
-- etag: `"7609e3a37cbab3909d28010e3be7681a"`
-- last_modified: `Thu, 02 Jul 2026 01:25:07 GMT`
+- fetched_at: `2026-07-07T20:17:41+00:00`
+- checked_at: `2026-07-07T20:17:41+00:00`
+- etag: `"aaee91251b8600c9c138b3d11a2c3198"`
+- last_modified: `Tue, 07 Jul 2026 07:10:05 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-07-02T04:32:41+00:00",
+  "fetched_at": "2026-07-07T20:17:41+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "85246f67bad07fdfce31f2959290d04f8e5ca1e8",
+      "title": "The Fog Campaign - Episode 78",
+      "published_at": "2026-07-07T07:08:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-78",
+      "description": "Sure, we're fighting a cosmic worm horror, but also it's time to talk about what Cat Action will be taken on Blaine's turn. For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more be sure to head to nerdpokerpod.com",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-078-20260624-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "139674368",
+      "itunes_duration": "58:12",
+      "speakers": [
+        "Cat Action",
+        "Brian Posehn"
+      ],
+      "topics": [
+        "campaign"
+      ]
+    },
     {
       "key": "c3d2d99c325c5a22b83fd67d9225e6f80cd322a5",
       "title": "The Fog Campaign - Episode 77",
@@ -9013,6 +9032,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-07 — The Fog Campaign - Episode 78 — speakers: Cat Action, Brian Posehn
 - 2026-07-02 — The Fog Campaign - Episode 77 — speakers: Brian Posehn
 - 2026-06-25 — The Fog Campaign - Episode 76 — speakers: Brian Posehn
 - 2026-06-18 — The Fog Campaign - Episode 75 — speakers: Brian Posehn
