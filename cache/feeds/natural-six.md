@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-06-30T20:21:39+00:00`
-- checked_at: `2026-06-30T20:21:39+00:00`
-- etag: `"djEuMi4wOjE3ODI4NDYwMzk0MTQ="`
+- fetched_at: `2026-07-08T03:48:33+00:00`
+- checked_at: `2026-07-08T03:48:33+00:00`
+- etag: `"djEuMi4wOjE3ODM0NjM5Njc2Nzg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-06-30T20:21:39+00:00",
+  "fetched_at": "2026-07-08T03:48:33+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "fe53bf9aa51923e4138902a6ff6833e122b521a0",
+      "title": "Ep. 58 The White Stag",
+      "published_at": "2026-07-07T22:39:11+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-58-the-white-stag",
+      "description": "Some things are easier to understand when carried side by side. An arm can be offered, a path can be shared, and an understanding that bonds don’t always need to be explained to be felt. The forest has its own ways of understanding too, and sometimes the greatest gift is simply being taught how to hear it when it answers. While some words can be carried through roots, others are left nestled among its branches, because the trees have always known that what grows apart doesn't have to grow alone. Yet it was never meant to be a place to remain, and even the strongest roots cannot stop a journey from moving forward, and when the path leads beyond the familiar, those willing to follow it may discover that knowing where you stand is not the same as knowing what lies beyond. After all, understanding the world around you is one thing, but seeing how much of the adventure still remains beyond your comprehension? That’s another thing entirely. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a4d8011c130c408c2e3624b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "354868031",
+      "itunes_duration": "2:27:48",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "white",
+        "stag"
+      ]
+    },
     {
       "key": "02eaf0cf1663ffcd8be261e5df9c605ac22685d6",
       "title": "Action Surge Episode 57",
@@ -3037,6 +3061,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-07 — Ep. 58 The White Stag — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-30 — Action Surge Episode 57 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-23 — Ep. 57 The Everfire — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-18 — Action Surge | Witchspire one-shot — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
