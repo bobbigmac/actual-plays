@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-07-07T20:17:41+00:00`
-- checked_at: `2026-07-07T20:17:41+00:00`
-- last_modified: `Tue, 07 Jul 2026 17:23:23 GMT`
+- fetched_at: `2026-07-08T08:46:30+00:00`
+- checked_at: `2026-07-08T08:46:30+00:00`
+- last_modified: `Wed, 08 Jul 2026 08:00:26 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-07T20:17:41+00:00",
+  "fetched_at": "2026-07-08T08:46:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "112fb8a6bfb0a1d0b8923c555c7929774702dc7d",
+      "title": "C03 - Ep. 47 - Under Oondar Fire - Crying Bloody Mirror-der",
+      "published_at": "2026-07-08T08:00:00+00:00",
+      "link": null,
+      "description": "Brutaliteam meets a golden deity and an old grammy and her kids while climbing Chimirrora keep. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new merch at store.stinkydragonpod.com - Dice, Player Character Tees, Blankets, Hoodies, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4d6e5ec4-dadb-11f0-a213-a38f5a9ba1ed/image/dd5cf5d2c76ef64c0ec2e42a421975ae.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS1339134718.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5460",
+      "speakers": [
+        "Under Oondar Fire",
+        "Crying Bloody Mirror"
+      ],
+      "topics": [
+        "oondar",
+        "fire",
+        "crying",
+        "bloody",
+        "mirror"
+      ]
+    },
     {
       "key": "647d683fd88a10cf712d562608094e4072769de3",
       "title": "C03 - Ep. 46 - Under Oondar Fire - Smoke and Chimirroras",
@@ -4337,6 +4360,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-08 — C03 - Ep. 47 - Under Oondar Fire - Crying Bloody Mirror-der — speakers: Under Oondar Fire, Crying Bloody Mirror
 - 2026-06-24 — C03 - Ep. 46 - Under Oondar Fire - Smoke and Chimirroras
 - 2026-06-10 — C03 - Ep. 45 - Under Oondar Fire - What's Mine is Yours — speakers: Chimirrora Keep
 - 2026-05-27 — C03 - Ep. 44 - Under Oondar Fire - Croak and Dagger Boxing — speakers: Under Oondar Fire, Dagger Boxing Brutaliteam
