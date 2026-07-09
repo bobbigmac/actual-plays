@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-06-25T15:18:52+00:00`
-- checked_at: `2026-06-25T15:18:52+00:00`
-- etag: `"146f8ff8a592cb407efe18e0e56c3110"`
-- last_modified: `Thu, 25 Jun 2026 11:00:19 GMT`
+- fetched_at: `2026-07-09T15:36:41+00:00`
+- checked_at: `2026-07-09T15:36:41+00:00`
+- etag: `"e55069933c84a46a3826d687e4596d14"`
+- last_modified: `Thu, 09 Jul 2026 11:00:18 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-06-25T15:18:52+00:00",
+  "fetched_at": "2026-07-09T15:36:41+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "2ce44d25e04ef3bd0ac1bd5ad903058412946f62",
+      "title": "The Adventure Zone Royale: Episode 28",
+      "published_at": "2026-07-09T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-royale-episode-28-ufd8CdCE",
+      "description": "The remaining aspirants' attempt to take the contest into their own hands does not go unnoticed... or unpunished. As the island begins to reject them, the elite eight must scramble to find out what's really going on and escape with their lives. Royale Theme: “Wizard Disco” by Louie Zong: https://louiezong.bandcamp.com/album/wizard-disco Original Music by Griffin McElroy Additional Music in this Episode: \"Blato\" by Shay Brahem x Fachhochschule Dortmund: https://freemusicarchive.org/music/shay-braheem/ ; “A Month of Dust” by Schemawound http://schemawound.com/ ; \"tribute to eddy\" by Jean Toba: https://jeantoba.blogspot.com/; “Oneiri” by Kai Engel http://www.kai-engel.com/; \"Skin Writhes Anxious\" and \"VIII\" by ROZKOL: https://rozkol.bandcamp.com/; \"Sound the Alarms\" by Kirk Osamayo: https://freemusicarchive.org/music/kirk-osamayo/; \"Grande Vista\" by Jason Shaw: https://audionautix.com/; and \"Foresight\" by Serat: https://blear-moon.com . Asian Pacific Environmental Network: https://apen4ej.org/our-work/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
+      "image_url": "https://image.simplecastcdn.com/images/9ba52d4c-4e8c-4203-a3de-be89969671f2/d857b852-ba71-4968-b8b0-bdb6ea3b2ce8/3000x3000/tazroyalecoverlg.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/b5395376-dfa7-42ad-a670-147b48789d29/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=b5395376-dfa7-42ad-a670-147b48789d29&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65504321",
+      "itunes_duration": "00:56:15",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "royale"
+      ]
+    },
     {
       "key": "a2bc897ebac7608ddbab0f2ddc4882e84de3560e",
       "title": "The Adventure Zone Royale: Episode 27",
@@ -8028,6 +8046,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-09 — The Adventure Zone Royale: Episode 28
 - 2026-06-25 — The Adventure Zone Royale: Episode 27
 - 2026-06-11 — The Adventure Zone Royale: Episode 26
 - 2026-05-28 — The Adventure Zone Royale: Episode 25
