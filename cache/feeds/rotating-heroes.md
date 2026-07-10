@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-07-03T14:33:29+00:00`
-- checked_at: `2026-07-03T14:33:29+00:00`
-- etag: `W/"8a50e23136cb2a56c5b27a432774c3b3"`
-- last_modified: `Fri, 03 Jul 2026 09:00:00 GMT`
+- fetched_at: `2026-07-10T15:04:53+00:00`
+- checked_at: `2026-07-10T15:04:53+00:00`
+- etag: `W/"c5bfd01829678c13b11fa2ccc3a7fd7d"`
+- last_modified: `Fri, 10 Jul 2026 09:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,31 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-07-03T14:33:29+00:00",
+  "fetched_at": "2026-07-10T15:04:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "eb2eb7023eaaeca9374d30a06d315a6fb8e9c092",
+      "title": "Axis Arc 3 Ep 1 - Three Wise Bros PART 1",
+      "published_at": "2026-07-10T09:00:00+00:00",
+      "link": "https://audioboom.com/posts/8924893",
+      "description": "Welcome to the first episode of this definitely-not-chrtismas themed Rotating Heroes Arc in July! Our hero Shaddy has been entrusted with an important mission by his parents to prevent a large corporate takeover that threatens the stock value of the Turlett family business. Accompanied by his brother Yernal, and some unintentional holiday cheer, Shaddy sets off once again to save the day. Your cast this Christmas Arc has been Edward Spence as your guesting GM Jon Mackey as Shaddy and Jasper William Cartwright as Yernal --- Last chance to support the brand new Force of Extinction Backerkit Here! GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
+      "image_url": "https://audioboom.com/i/43730830.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8924893.mp3?modified=1783444380&sid=5167570&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2624",
+      "speakers": [],
+      "topics": [
+        "axis",
+        "wise",
+        "bros"
+      ]
+    },
     {
       "key": "2085c54a54027a9134b8c091bf45e86ebfcdc531",
       "title": "Force of Extinction One-Shot Arc Bark",
@@ -2777,6 +2795,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-10 — Axis Arc 3 Ep 1 - Three Wise Bros PART 1
 - 2026-07-03 — Force of Extinction One-Shot Arc Bark — speakers: Extinction One
 - 2026-06-24 — Force of Extinction One-Shot Ep 2 - Frozen in Time — speakers: Extinction One
 - 2026-06-16 — Force of Extinction One-Shot Ep 1 - Sun, Sand and Laxatives — speakers: Extinction One, Laxatives When
