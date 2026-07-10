@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-07-03T09:37:26+00:00`
-- checked_at: `2026-07-03T09:37:26+00:00`
-- last_modified: `Fri, 03 Jul 2026 02:28:27 GMT`
+- fetched_at: `2026-07-10T04:18:15+00:00`
+- checked_at: `2026-07-10T04:18:15+00:00`
+- last_modified: `Thu, 09 Jul 2026 22:08:17 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-07-03T09:37:26+00:00",
+  "fetched_at": "2026-07-10T04:18:15+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,30 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "1bc2f4063fa2a2d6f072178688db106941ac8c64",
+      "title": "Gangs of Neo Galaderon - Ep. 11: Thin Jim",
+      "published_at": "2026-07-09T22:00:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/d456c202-cb1b-4c33-ab47-4d79302a244a",
+      "description": "The Kill Screens take on Thin Jim and his Jimmies! Atom's love life gets messy, Aux finds religion, and Slug has strong opinions about health potion flavors. Support us at Patreon.com/Naddpod to get access to the after-show and a bunch of other Naddpod content! Music / Sound Effects Include: \"Neo Galaderon\" by Emily Axford \"The Red Fen\" by Emily Axford \"Aux\" by Emily Axford \"Cyberskitch\" by Emily Axford \"Slug\" by Emily Axford \"Jimmy's Tavern\" by Emily Axford \"Zone 3\" by Emily Axford \"The Twinkling Lights of Galaderon\" by Emily Axford See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/68/7c/5d/f2/687c5df2-b360-4451-b09c-749745800d24/fc94d6583d62c59c45d7d2138435fb4b020d8a09ba442d7e6f2bcca0cfc81991db2ffd9bbb9886cbf69d157e986c0b0c40b49669779787f4e160392503f97734.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/d456c202-cb1b-4c33-ab47-4d79302a244a.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74329025",
+      "itunes_duration": "01:17:25",
+      "speakers": [
+        "Thin Jim",
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "gang",
+        "galaderon",
+        "thin"
+      ]
+    },
     {
       "key": "c15ffd48336f6f41d042d8d1a76a4abb5488d4b2",
       "title": "D&D Court: Falling Corpses and Legal Loopholes (w/ SungWon Cho!)",
@@ -11177,6 +11201,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-09 — Gangs of Neo Galaderon - Ep. 11: Thin Jim — speakers: Thin Jim, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-07-02 — D&D Court: Falling Corpses and Legal Loopholes (w/ SungWon Cho!) — speakers: Legal Loopholes, SungWon Cho, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-06-25 — Gangs of Neo Galaderon - Ep. 10: The South Avenue Jimmies — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-06-18 — Gangs of Neo Galaderon - Ep. 9: Pietro & Carley Quinn — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
