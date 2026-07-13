@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-07-03T14:33:29+00:00`
-- checked_at: `2026-07-03T14:33:29+00:00`
-- etag: `"djEuMi4wOjE3ODMwODM2Mzk0OTE="`
+- fetched_at: `2026-07-13T19:52:17+00:00`
+- checked_at: `2026-07-13T19:52:17+00:00`
+- etag: `"djEuMi4wOjE3ODM5Njk1OTIxOTU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/show-cover.png",
-  "fetched_at": "2026-07-03T14:33:29+00:00",
+  "fetched_at": "2026-07-13T19:52:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "49e696f1c3e04fa04b16a3d6ee21048d4ca36382",
+      "title": "ColdIron | Episode 4: A Bazaar Painted Red",
+      "published_at": "2026-07-13T19:00:22+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/coldiron-episode-4-a-bazaar-painted-red",
+      "description": "Welcome to our ColdIron: our new homebrew campaign! In this episode, the party makes some plans and are rudely interrupted. Kelly Clark as Dungeon Master Cast Amy Godfrey as Carrion Slaughterhouse Robin Holford as Trixxi Blastemoff Katrina McGie as Taliina'a Christine Rattray as Bell St. Claire Caitlan Vinkle as ZOE === Music credits: Tim Kulig kindly composed the following tracks for this campaign: Tumbleweeds Campaign Outro Find him at https://www.timkulig.com Licensed under Creative Commons: By Attribution 4.0 creativecommons.org/licenses/by/4.0/ IMDB: https://www.imdb.com/name/nm0997280/?... The following licensed tracks by Monument Studios were used: High Noon Tavern Fiddle Market Bazaar Dark Hybrid Ambience Western Saloon With Music https://www.monumentstudios.net Arcane Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/ It also includes the following music from Joel Steudler licensed through a Humble Music collection: Heavily Armed The following licensed music from Ovani Sound were used: Salamander The following licensed track from RedEarth was used: Tip the Scales Licensed from part of the Battle Litany collection from GameDev Market. Additional Licensed tracks by Ovani Sound and Phat Phrog Studio may also used. For background ambience we used sounds from Tabletop Audio. Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life. https://www.tabletopaudio.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1783969191321-97fa9830-24e9-4594-b4c5-915a332ff091.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a5535c875790d5f01795b02/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "166357786",
+      "itunes_duration": "2:53:17",
+      "speakers": [
+        "Bazaar Painted Red Welcome"
+      ],
+      "topics": [
+        "coldiron",
+        "bazaar",
+        "painted"
+      ]
+    },
     {
       "key": "1a58ee525b782b8a8e9e844dc4a415dc3cb3cea9",
       "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 12: The Man Next Door",
@@ -7998,6 +8018,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-13 — ColdIron | Episode 4: A Bazaar Painted Red — speakers: Bazaar Painted Red Welcome
 - 2026-07-03 — Mage the Ascension the Victorian Age | Book 3, Chapter 12: The Man Next Door — speakers: Victorian Age
 - 2026-06-30 — ColdIron | Episode 3: Beneath the Walls — speakers: Walls Welcome
 - 2026-06-29 — Mage the Ascension the Victorian Age | Book 3, Chapter 11: The Sisters Goodwyn — speakers: Victorian Age
