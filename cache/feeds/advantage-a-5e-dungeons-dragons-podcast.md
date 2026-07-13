@@ -2,8 +2,8 @@
 
 - slug: `advantage-a-5e-dungeons-dragons-podcast`
 - source: `https://feeds.soundcloud.com/users/soundcloud:users:251064485/sounds.rss`
-- fetched_at: `2026-07-13T19:52:17+00:00`
-- checked_at: `2026-07-13T19:52:17+00:00`
+- fetched_at: `2026-07-13T22:13:15+00:00`
+- checked_at: `2026-07-13T22:13:15+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "http://advantagednd.com",
   "description": "Advantage is a homebrew, actual-play, 5th Edtion Dungeons & Dragons audio drama focusing on storytelling and character development, and a member of the Darkmore Podcast Network.",
   "image_url": "https://i1.sndcdn.com/avatars-000281953157-ea71wc-original.jpg",
-  "fetched_at": "2026-07-13T19:52:17+00:00",
+  "fetched_at": "2026-07-13T22:13:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "aa7b761c0d69e8eb59820755d455d1311d477f50",
+      "title": "3.24 | Battle Of The Dao",
+      "published_at": "2026-07-13T21:55:28+00:00",
+      "link": "https://soundcloud.com/advantagednd/3-24-battle-of-the-dao",
+      "description": "Check out dragonmindttrpgs Check out our friends from Aurita Mission podcasts.apple.com/gb/podcast/auri…on/id1753466372 patreon.com/advantagednd Darkmore Podcast Network discord.gg/qbCMYsd darkmorepodcasts.com Credits Editing by Stephen Music by Blake Bost, and Ormin Audio, Omar Jafree, Claude Houde, and Tunetank Logo and Maps by Daniel Grayling Character Art by Emmaline Kelly Website by Labor of Love Graphics Elaris Gaeldrim by Zach Weaver Grimton Steadyhand by Yessy Lemus Irshen Bhethethnosh by Stephen Sivils Agnar Elf-Breaker by Sarah Zimmerman Dungeon Master by Joe Love",
+      "image_url": "https://i1.sndcdn.com/avatars-000281953157-ea71wc-original.jpg",
+      "enclosure_url": "https://feeds.soundcloud.com/stream/2360153336-advantagednd-3-24-battle-of-the-dao.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111123927",
+      "itunes_duration": "00:55:11",
+      "speakers": [
+        "Aurita Mission"
+      ],
+      "topics": [
+        "battle"
+      ]
+    },
     {
       "key": "528bbcfd35a2278fb8b5511524017b8bd02648e9",
       "title": "3.23 | Fields of the Kadin",
@@ -3097,6 +3115,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-13 — 3.24 | Battle Of The Dao — speakers: Aurita Mission
 - 2026-03-31 — 3.23 | Fields of the Kadin — speakers: Kadin Check, Aurita Mission
 - 2026-01-25 — Anniversary | Year 9
 - 2025-12-09 — 3.22 | The Realm Of Eemental Silt
