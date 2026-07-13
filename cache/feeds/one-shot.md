@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-07-06T04:43:44+00:00`
-- checked_at: `2026-07-06T04:43:44+00:00`
-- last_modified: `Mon, 06 Jul 2026 04:15:03 GMT`
+- fetched_at: `2026-07-13T09:49:18+00:00`
+- checked_at: `2026-07-13T09:49:18+00:00`
+- last_modified: `Mon, 13 Jul 2026 04:16:20 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/8e75fc9d6dbbc2142cca11c14acfdea1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-06T04:43:44+00:00",
+  "fetched_at": "2026-07-13T09:49:18+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "3cf107334a7bcad4994bf212ddc8bd5f7eb0415f",
+      "title": "657. Rom Com Drama Bomb⁠, Episode 1",
+      "published_at": "2026-07-13T04:13:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY A story of unrequited love, overbearing family, and a literal ticking time bomb. SHOW NOTES Rom Com Drama Bomb One Shot News & Updates One Shot Patreon One Shot TWITCH VOTE FOR ONE SHOT: LAST TRAIN TO BREMEN (Best Streaming Content) Follow the cast here! Dillin Apelyan Katie Marovich Shenuque Tissera ----------------------------------------------------- Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Waverunner, Shanek Becker Wicked Curiousities, Dresden The Flamingo Midnight Warrior, Lunareh Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN5584633025.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4332",
+      "speakers": [
+        "Rom Com Drama Bomb",
+        "James D'Amato"
+      ],
+      "topics": [
+        "drama"
+      ]
+    },
     {
       "key": "f071d37a8c26c3c40ddcab8f7ac1ca2625692051",
       "title": "656. Force of Extinction, Episode 3",
@@ -546,7 +565,7 @@
       "title": "633. Last Train to Bremen, Episode 4",
       "published_at": "2026-01-05T05:11:00+00:00",
       "link": null,
-      "description": "EPISODE SUMMARY The first-ever One Shot musical! The band is falling apart - losing their last dice, and their souls, as the Devil himself approaches the train car. SHOW NOTES Last Train to Bremen One Shot News & Updates One Shot Patreon One Shot TWITCH Back my upcoming game! BROADSIDE - ALL THAT REMAINS (streaming) BROADSIDE - ALL THAT REMAINS (Buy the album) Follow the cast here! ⁠ Dillin ⁠ as Cocky ⁠ Lauren Drake ⁠ as Cat ⁠ Camilla Franklin ⁠ as Hound ⁠ Helix ⁠⁠ as Mule ⁠ Noah Samuels ⁠ on guitar RPG Major podcast ----------------------------------------------------- Story Pirates Changemakers Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè ⁠⁠⁠ and ⁠⁠⁠Helix⁠⁠⁠ . Episode Illustrations by ⁠⁠⁠Camilla Franklin.⁠ Guitar by Noah Samuels Fiddle by Jon Andrew Franklin. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "EPISODE SUMMARY The ENNIE nominated One Shot musical! The band is falling apart - losing their last dice, and their souls, as the Devil himself approaches the train car. SHOW NOTES Last Train to Bremen One Shot News & Updates One Shot Patreon One Shot TWITCH Back my upcoming game! BROADSIDE - ALL THAT REMAINS (streaming) BROADSIDE - ALL THAT REMAINS (Buy the album) Follow the cast here! ⁠ Dillin ⁠ as Cocky ⁠ Lauren Drake ⁠ as Cat ⁠ Camilla Franklin ⁠ as Hound ⁠ Helix ⁠⁠ as Mule ⁠ Noah Samuels ⁠ on guitar RPG Major podcast ----------------------------------------------------- Story Pirates Changemakers Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè ⁠⁠⁠ and ⁠⁠⁠Helix⁠⁠⁠ . Episode Illustrations by ⁠⁠⁠Camilla Franklin.⁠ Guitar by Noah Samuels Fiddle by Jon Andrew Franklin. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/f4f594b0-e9cb-11f0-b161-c3357c18e811/image/8e5d01781c169e40377aa549fc9815d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/OSPN8759089235.mp3?updated=1767572721",
       "enclosure_type": "audio/mpeg",
@@ -567,7 +586,7 @@
       "title": "632. Last Train to Bremen, Episode 3",
       "published_at": "2025-12-29T20:06:00+00:00",
       "link": null,
-      "description": "EPISODE SUMMARY The first-ever One Shot musical! The members of Broadside start running out of dice, and of time, one by one as they reveal their worst secrets. SHOW NOTES Last Train to Bremen One Shot News & Updates One Shot Patreon One Shot TWITCH Back my upcoming game! Follow the cast here! ⁠ Dillin ⁠ as Cocky ⁠ Lauren Drake ⁠ as Cat ⁠ Camilla Franklin ⁠ as Hound ⁠ Helix ⁠⁠ as Mule ⁠ Noah Samuels ⁠ on guitar RPG Major podcast ----------------------------------------------------- Story Pirates Changemakers Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠Shaghik Manè ⁠⁠ and ⁠⁠Helix⁠⁠ . Episode Illustrations by ⁠⁠Camilla Franklin.⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "EPISODE SUMMARY The ENNIE nominated One Shot musical! The members of Broadside start running out of dice, and of time, one by one as they reveal their worst secrets. SHOW NOTES Last Train to Bremen One Shot News & Updates One Shot Patreon One Shot TWITCH Back my upcoming game! Follow the cast here! ⁠ Dillin ⁠ as Cocky ⁠ Lauren Drake ⁠ as Cat ⁠ Camilla Franklin ⁠ as Hound ⁠ Helix ⁠⁠ as Mule ⁠ Noah Samuels ⁠ on guitar RPG Major podcast ----------------------------------------------------- Story Pirates Changemakers Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠Shaghik Manè ⁠⁠ and ⁠⁠Helix⁠⁠ . Episode Illustrations by ⁠⁠Camilla Franklin.⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/deec46c0-e4f1-11f0-bf8b-073d1b654063/image/6fb8dc42e23df90961c9bd5a5356df2e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/OSPN1445178691.mp3?updated=1767043144",
       "enclosure_type": "audio/mpeg",
@@ -588,7 +607,7 @@
       "title": "631. Last Train to Bremen, Episode 2",
       "published_at": "2025-12-22T04:22:00+00:00",
       "link": null,
-      "description": "EPISODE SUMMARY The first-ever One Shot musical! Broadside pass the time on their last-ditch escape with a game of dice, but the heat of the game brings up the past and all the sins that put them on this train to begin with. SHOW NOTES ⁠ Last Train to Bremen ⁠ ⁠ One Shot News & Updates ⁠ ⁠ One Shot Patreon ⁠ ⁠ One Shot TWITCH ⁠ ⁠ The Ultimate RPG Villain Backstory Guide ⁠ ⁠ BROADSIDE - ALL THAT REMAINS PREORDER ⁠ Back my Upcoming Game! Follow the cast here! ⁠ Dillin ⁠ as Cocky ⁠ Lauren Drake ⁠ as Cat ⁠ Camilla Franklin ⁠ as Hound ⁠ Helix ⁠⁠ as Mule ⁠ Noah Samuels ⁠ on guitar RPG Major podcast ----------------------------------------------------- Story Pirates Changemakers Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Editing and sound design by ⁠⁠⁠⁠⁠⁠Shaghik Manè ⁠ and ⁠Helix⁠ . Episode Illustrations by ⁠Camilla Franklin.⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "EPISODE SUMMARY The ENNIE nominated One Shot musical! Broadside pass the time on their last-ditch escape with a game of dice, but the heat of the game brings up the past and all the sins that put them on this train to begin with. SHOW NOTES ⁠ Last Train to Bremen ⁠ ⁠ One Shot News & Updates ⁠ ⁠ One Shot Patreon ⁠ ⁠ One Shot TWITCH ⁠ ⁠ The Ultimate RPG Villain Backstory Guide ⁠ ⁠ BROADSIDE - ALL THAT REMAINS PREORDER ⁠ Back my Upcoming Game! Follow the cast here! ⁠ Dillin ⁠ as Cocky ⁠ Lauren Drake ⁠ as Cat ⁠ Camilla Franklin ⁠ as Hound ⁠ Helix ⁠⁠ as Mule ⁠ Noah Samuels ⁠ on guitar RPG Major podcast ----------------------------------------------------- Story Pirates Changemakers Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Editing and sound design by ⁠⁠⁠⁠⁠⁠Shaghik Manè ⁠ and ⁠Helix⁠ . Episode Illustrations by ⁠Camilla Franklin.⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/d5b38a8c-deed-11f0-9194-b7dc7c938680/image/8e5d01781c169e40377aa549fc9815d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/OSPN4084910923.mp3?updated=1766377867",
       "enclosure_type": "audio/mpeg",
@@ -607,15 +626,17 @@
     {
       "key": "e133586b4e8f89568fb6005fec7fa820108c0ce6",
       "title": "630. Last Train to Bremen, Episode 1",
-      "published_at": "2025-12-15T04:36:00+00:00",
+      "published_at": "2025-12-15T18:22:00+00:00",
       "link": null,
-      "description": "EPISODE SUMMARY The first-ever One Shot musical! Years ago, the band Broadside made a deal with the devil for their success. Now he’s coming to collect. Before we find out what happens, we have to create the band and explore their past. SHOW NOTES Last Train to Bremen One Shot News & Updates One Shot Patreon One Shot TWITCH The Ultimate RPG Villain Backstory Guide BROADSIDE - ALL THAT REMAINS PREORDER Follow the cast here! Dillin as Cocky Lauren Drake as Cat Camilla Franklin as Hound Helix ⁠ as Mule Noah Samuels on guitar RPG Major podcast ----------------------------------------------------- Story Pirates Changemakers Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Editing and sound design by ⁠⁠⁠⁠⁠Shaghik Manè and Helix . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "EPISODE SUMMARY The ENNIE nominated One Shot musical! Years ago, the band Broadside made a deal with the devil for their success. Now he’s coming to collect. Before we find out what happens, we have to create the band and explore their past. SHOW NOTES Last Train to Bremen One Shot News & Updates One Shot Patreon One Shot TWITCH The Ultimate RPG Villain Backstory Guide BROADSIDE - ALL THAT REMAINS PREORDER Follow the cast here! Dillin as Cocky Lauren Drake as Cat Camilla Franklin as Hound Helix ⁠ as Mule Noah Samuels on guitar RPG Major podcast ----------------------------------------------------- Story Pirates Changemakers Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Editing and sound design by ⁠⁠⁠⁠⁠Shaghik Manè and Helix . Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/ab4b4d9e-d96f-11f0-aaf9-4bb2670791e7/image/b30708ad560e1485060088f16701c1a2.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/OSPN8984132243.mp3?updated=1765773900",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3607",
       "speakers": [
+        "Last Train",
+        "One Shot",
         "James D'Amato"
       ],
       "topics": [
@@ -13412,6 +13433,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-13 — 657. Rom Com Drama Bomb⁠, Episode 1 — speakers: Rom Com Drama Bomb, James D'Amato
 - 2026-07-06 — 656. Force of Extinction, Episode 3 — speakers: New York, Rat King, James D'Amato
 - 2026-06-29 — 655. Force of Extinction, Episode 2 — speakers: New York City, James D'Amato
 - 2026-06-22 — 654. Force of Extinction, Episode 1 — speakers: Edward Spence, James D'Amato
@@ -13441,7 +13463,7 @@
 - 2026-01-05 — 633. Last Train to Bremen, Episode 4 — speakers: Last Train, One Shot, James D'Amato
 - 2025-12-29 — 632. Last Train to Bremen, Episode 3 — speakers: Last Train, One Shot, James D'Amato
 - 2025-12-22 — 631. Last Train to Bremen, Episode 2 — speakers: Last Train, One Shot, James D'Amato
-- 2025-12-15 — 630. Last Train to Bremen, Episode 1 — speakers: James D'Amato
+- 2025-12-15 — 630. Last Train to Bremen, Episode 1 — speakers: Last Train, One Shot, James D'Amato
 - 2025-12-10 — 629. Can You Host, Episode 2 — speakers: James D'Amato
 - 2025-12-01 — 628. Can You Host, Episode 1 — speakers: James D'Amato
 - 2025-11-17 — 627. Hinterlight, Episode 3 — speakers: James D'Amato
