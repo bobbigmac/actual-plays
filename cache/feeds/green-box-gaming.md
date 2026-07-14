@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-07-07T15:18:38+00:00`
-- checked_at: `2026-07-07T15:18:38+00:00`
-- etag: `"b411cb06127bb1969d2e2c531aa1ce15"`
-- last_modified: `Mon, 06 Jul 2026 13:00:45 GMT`
+- fetched_at: `2026-07-14T14:16:11+00:00`
+- checked_at: `2026-07-14T14:16:11+00:00`
+- etag: `"861f619395dc5c331e1786deaf1f7e8e"`
+- last_modified: `Tue, 14 Jul 2026 13:00:33 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-07-07T15:18:38+00:00",
+  "fetched_at": "2026-07-14T14:16:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ebb122fdb6b1fe65cd9735ed4a8696ea3b6cc083",
+      "title": "Ep17 | Delta Green: Puppet Shows and Shadow Plays - End with a Bang",
+      "published_at": "2026-07-14T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/2953277",
+      "description": "In the finale of our Puppet Shows and Shadow Plays game, the team brings this manhunt to a conclusion and fins their lives with Delta Green are just getting started! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/2953277/green-box-gaming/2026_06_30_04_44_57_b8d08606-9053-4405-a45b-55554e3cb0b4.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76896965",
+      "itunes_duration": "4805",
+      "speakers": [
+        "Shadow Plays game"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "puppet",
+        "shows",
+        "shadow",
+        "plays",
+        "bang"
+      ]
+    },
     {
       "key": "0c141e51af9f4c8467f36546791ae106ab25dd05",
       "title": "Ep16 | Delta Green: Puppet Shows and Shadow Plays - Bringing the Fight",
@@ -4135,6 +4159,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-14 — Ep17 | Delta Green: Puppet Shows and Shadow Plays - End with a Bang — speakers: Shadow Plays game
 - 2026-07-06 — Ep16 | Delta Green: Puppet Shows and Shadow Plays - Bringing the Fight
 - 2026-06-30 — Ep15 | Delta Green: Puppet Shows and Shadow Plays - Target Acquired
 - 2026-06-23 — Ep8 | Thousand Year Old Vampire w/ Dace - Welcome Home — speakers: Thousand Year Old Vampire, Welcome Home Mort
