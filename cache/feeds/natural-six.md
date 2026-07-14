@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-07-08T03:48:33+00:00`
-- checked_at: `2026-07-08T03:48:33+00:00`
-- etag: `"djEuMi4wOjE3ODM0NjM5Njc2Nzg="`
+- fetched_at: `2026-07-14T19:46:13+00:00`
+- checked_at: `2026-07-14T19:46:13+00:00`
+- etag: `"djEuMi4wOjE3ODQwNTU2Mzk0MzE="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-07-08T03:48:33+00:00",
+  "fetched_at": "2026-07-14T19:46:13+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "4371c7e5cb708ee5f9ade71004c09972827500d9",
+      "title": "Action Surge Episode 58",
+      "published_at": "2026-07-14T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-58",
+      "description": "Was that the shortest episode yet? Maybe, but we’ve still got plenty to talk about. Was this some of the darkest imagery yet? Yes, probably. But it was also the perfect place to end the episode. Harry gives us some insight into how he wrote and assigned these little vignettes, and how exposing it can be to share something like this at the table. It’s been a while since Harry has given this much story time, and he kept the Spoiler Chat channel in our Discord server working overtime. We talk about how TV and film influence Harry’s storytelling, especially in this episode. Was our money on the 1989 movie adaptation of Roald Dahl’s classic The BFG being one of the inspirations? No. Were we surprised? Also no. Finally, we discuss some of the things Raidion has seen, and what they mean for him, how we’re so totally over messages on trees, and why hand waving is both beautiful and important, and totally ok to do. -- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a4d801fc130c408c2e3662e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113194095",
+      "itunes_duration": "47:09",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "fe53bf9aa51923e4138902a6ff6833e122b521a0",
       "title": "Ep. 58 The White Stag",
@@ -3061,6 +3085,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-14 — Action Surge Episode 58 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-07-07 — Ep. 58 The White Stag — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-30 — Action Surge Episode 57 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-23 — Ep. 57 The Everfire — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
