@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-07-13T15:14:19+00:00`
-- checked_at: `2026-07-13T15:14:19+00:00`
-- etag: `W/"a342d0f6454390a23a724f5c10e75ad5"`
-- last_modified: `Mon, 13 Jul 2026 15:03:39 GMT`
+- fetched_at: `2026-07-14T03:39:00+00:00`
+- checked_at: `2026-07-14T03:39:00+00:00`
+- etag: `W/"41bb5e5a6f1202fe7512ce6c8b6d7caf"`
+- last_modified: `Tue, 14 Jul 2026 00:45:18 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://dodoborne.transistor.fm/",
   "description": "DodoBorne is an improvised comedy storytelling podcast where five friends dive into Daggerheart, the tabletop roleplaying game from Darrington Press. Whether you're looking for adventure, romance, mystery, or nonsense, DodoBorne offers a welcoming mix of humor, heart, and collaborative storytelling that we hope will keep you coming back for more. With Season 3 serving as a fresh starting point for new viewers, there's never been a better time to join the flock! New episodes air every other Monday.",
   "image_url": "https://img.transistorcdn.com/8gaSb-T8iGE_guMXbKf58wsPBhrF7Cw7aXpzwEf7pAM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMjY0/MDdmZTkzNWEyMWNh/YzFlNmM0ZTVmY2I2/ODE4My5wbmc.jpg",
-  "fetched_at": "2026-07-13T15:14:19+00:00",
+  "fetched_at": "2026-07-14T03:39:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,25 @@
     "ttrpg/daggerheart"
   ],
   "episodes": [
+    {
+      "key": "24769ddc472693b1eaafc2366882efb304d61bb5",
+      "title": "3.3 Coerced Compliance",
+      "published_at": "2026-07-13T23:00:00+00:00",
+      "link": "https://share.transistor.fm/s/c0aa0680",
+      "description": "DAGGERHEART HOPE AND FEAR GIVEAWAY Dodoborne and Heart of Daggers have teamed up to give away a Deluxe Edition and a Core Edition of the upcoming Hope & Fear Daggerheart expansion, plus some awesome new Dodoborne merch! Comment ' Hope and Fear ' on THIS YOUTUBE VIDEO , or Visit HeartofDaggers.com to learn other ways to win! Winners will be selected July 20th, 2026. ____________________________________________ Our heroes have just been summoned to the Adventuring Guild for some missions! The job is never finished, it seems. But an unfamiliar face awaits, ready to make their work even harder. Are the dodos willing to rise to meet this new challenge? Find out now! This episode is sponsored by Heart of Daggers! Heart of Daggers gives Daggerheart players and GMs a full online toolkit for free, including the character creator, encounter manager, adventure builder, campaign manager, homebrew vault, and more! Check it out at HeartofDaggers.com Join the Flock on our Patreon for episode talk backs, GM insights, deleted scenes, and more! Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. System: Daggerheart Genre: Fantasy Actual Play New episodes every other Monday Learn more at Dodoborne.com Character sheets and user interface in Dodoborne powered by Demiplane.com Music in this episode created by: Daniel Bukin Isaac Allen Burns Rowan Collins Listen to the music from this episode and other Dodotunes HERE ! ★ Support this podcast on Patreon ★",
+      "image_url": "https://img.transistorcdn.com/D-RImh_9812uQoJM4xeVaWtbA5MWoL6dj2HIBgiV7no/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hOTRm/NmM5NTgwM2MwNzA3/MTlmMDVkNzEwZjk5/NTJjNy5wbmc.jpg",
+      "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/c0aa0680/12ffb8de.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38142291",
+      "itunes_duration": "2379",
+      "speakers": [
+        "Coerced Compliance"
+      ],
+      "topics": [
+        "coerced",
+        "compliance"
+      ]
+    },
     {
       "key": "3ed3c166b4fc1121fc59f01505a70cb676bd5457",
       "title": "3.2 Couple of Milkshakes",
@@ -960,6 +979,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-13 — 3.3 Coerced Compliance — speakers: Coerced Compliance
 - 2026-06-29 — 3.2 Couple of Milkshakes
 - 2026-06-17 — 3.1 Cut To!
 - 2026-06-04 — Bonus: The Polaris University Squawk-back Episode
