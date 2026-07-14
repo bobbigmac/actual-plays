@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-06-30T17:17:27+00:00`
-- checked_at: `2026-06-30T17:17:27+00:00`
-- etag: `"djEuMi4wOjE3ODI4MzUyMzk0MjU="`
+- fetched_at: `2026-07-14T16:40:12+00:00`
+- checked_at: `2026-07-14T16:40:12+00:00`
+- etag: `"djEuMi4wOjE3ODQwNDQ4Mzk1NTk="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-06-30T17:17:27+00:00",
+  "fetched_at": "2026-07-14T16:40:12+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -33,6 +33,29 @@
   ],
   "episodes": [
     {
+      "key": "993e673496c072cf668adf3f61305afadfd2848a",
+      "title": "S4 Ep. 12 - Daddlestar Grandpaptica",
+      "published_at": "2026-07-14T16:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "spaceship owner manual This episode contains Profanity, Violence, and Sexual Content. 🚨🚨 Our sourcebook crowdfund campaign starts NEXT WEEK on July 21st with a livestream! 🚨🚨 Go to bookmedaddy.com and enter your email address to follow the campaign (and receive a sweet bumper sticker in the process). Everyone who reserves their pledge and backs the campaign with $5 before launch will receive the exclusive double-sided collector coin. Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1784007806516-798dbc27-ead9-40bb-93b0-97e2594c298f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/6a55ce53659a63f69c7cb479/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78545815",
+      "itunes_duration": "1:21:49",
+      "speakers": [
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "daddlestar",
+        "grandpaptica"
+      ]
+    },
+    {
       "key": "4912e379cbfe772d02c22207fa1d87726cbebe71",
       "title": "S4 Ep. 11 - A Song of Fire and Ice",
       "published_at": "2026-06-30T16:00:00+00:00",
@@ -41,8 +64,8 @@
       "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1782801567807-45777730-a09c-4bdd-b766-ed71acab247e.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/6a436601c2fe1c7f49004fc4/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "103512715",
-      "itunes_duration": "1:11:25",
+      "enclosure_length": "67396754",
+      "itunes_duration": "1:10:12",
       "speakers": [
         "Anthony Burch",
         "Matt Arnold",
@@ -4771,6 +4794,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-14 — S4 Ep. 12 - Daddlestar Grandpaptica — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-06-30 — S4 Ep. 11 - A Song of Fire and Ice — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-06-16 — S4 Ep. 10 - The Handalorian and BroGoo — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-06-02 — S4 Ep. 9 - Stepmothership - From the Makers of Anthony Burch’s World Championship Russian Roulette — speakers: Anthony Burch, Russian Roulette, Matt Arnold, Freddie Wong, Beth May, Will Campos
