@@ -2,9 +2,9 @@
 
 - slug: `flail-to-the-face-a-compatible-with-m-rk-borg-actual-play-podcast`
 - source: `https://anchor.fm/s/e221626c/podcast/rss`
-- fetched_at: `2026-06-26T09:53:21+00:00`
-- checked_at: `2026-06-26T09:53:21+00:00`
-- etag: `W/"6a818-1+ngzsT3gXSYbcG0qYGgAu5p+1M"`
+- fetched_at: `2026-07-15T14:13:36+00:00`
+- checked_at: `2026-07-15T14:13:36+00:00`
+- etag: `W/"6c5df-QrHV8ldGTM6s3Me0I8nwozjojVg"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://discord.gg/ye4VzTv9",
   "description": "Flail to the Face is a \"Compatible with Mörk Borg\" Actual Play Podcast, focusing on playing and promoting third party content and their creators.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37838387/37838387-1756395980208-7d45de7e84c02.jpg",
-  "fetched_at": "2026-06-26T09:53:21+00:00",
+  "fetched_at": "2026-07-15T14:13:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -31,8 +31,8 @@
       "title": "Season Two, Episode Ten: Hot Honey Divulgence",
       "published_at": "2026-06-26T09:00:00+00:00",
       "link": "https://podcasters.spotify.com/pod/show/flailtotheface/episodes/Season-Two--Episode-Ten-Hot-Honey-Divulgence-e3l2khk",
-      "description": "In this episode, the M.I.L.F. Agents took down the Malefactor, Lt Boyers, and brought him back to HōL. After some intense interrogations, they got some very crucial information, but at what cost? And where are they headed now? Find out in this episode of Flail to the Face! This episode of Flail to the face features the game Human Occupied Landfill by Todd Shaughnessy, Daniel Thron, Chris Elliott, HellSpawn by Richard Markert and Lee Iovis, Wasteland Degenerates by Scott C. McDonald & MÖRK ORG by Chris Lowry of Beyond Cataclysm With: Thomas Genno-Stumme playing Dalton Walls. Tom Gambino playing Collette Stellarno. Charles Paschke playing Donnie. Special guest Zach Rebey of Weird Alchemy Games as Buster Mullens. And Kevin Welch as the FlailMeister. Season 2 theme music is Void Construct by Alex Grohl. Editing by Kevin Welch. Cover Art by Tom Gambino with assets from UnitSix. Video Editing by Dan Finney SFX courtesy of Epidemic Sound & Pixabay. Whispers of the Dying Lands: https://open.spotify.com/show/7yFvPcYtVa2jP5nCI1QqCS?si=a93f011397354f8d HellSpawn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠hellspawnrpg.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ Wasteland Degenerates: ⁠⁠⁠⁠⁠⁠Wasteland Degenerates⁠⁠⁠⁠⁠⁠ MÖRK ORG: MÖRK ORG (MÖRK BORG) - Beyond Cataclysm Weird Alchemy Games: Weird Alchemy - itch.io Dan Finney : ⁠⁠⁠⁠⁠⁠⁠OVERLAND EMPIRE⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Find us on whatever social media platform you use: Facebook Twitter Instagram BlueSky #FlailToTheFace #mörkborg #actualplay #podcast #ttrpg #hol #HumanOccupiedLandfill #Hellspawn #WastelandDegenerates # MÖRK ORG",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37838387/37838387-1756395980208-7d45de7e84c02.jpg",
+      "description": "In this episode, the M.I.L.F. Agents took down the Malefactor, Lt Boyers, and brought him back to HōL. After some intense interrogations, they got some very crucial information, but at what cost? And where are they headed now? Find out in this episode of Flail to the Face! This episode of Flail to the face features the games Human Occupied Landfill by Todd Shaughnessy, Daniel Thron, Chris Elliott, HellSpawn by Richard Markert and Lee Iovis, Wasteland Degenerates by Scott C. McDonald & MÖRK ORG by Chris Lowry of Beyond Cataclysm With: Thomas Genno-Stumme playing Dalton Walls. Tom Gambino playing Collette Stellarno. Charles Paschke playing Donnie. Special guest Zach Rebey of Weird Alchemy Games as Buster Mullens. And Kevin Welch as the FlailMeister. Season 2 theme music is Void Construct by Alex Grohl. Editing by Kevin Welch. Cover Art by Tom Gambino with assets from UnitSix. Video Editing by Dan Finney SFX courtesy of Epidemic Sound & Pixabay. Whispers of the Dying Lands: https://open.spotify.com/show/7yFvPcYtVa2jP5nCI1QqCS?si=a93f011397354f8d HellSpawn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠hellspawnrpg.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ Wasteland Degenerates: ⁠⁠⁠⁠⁠⁠Wasteland Degenerates⁠⁠⁠⁠⁠⁠ MÖRK ORG: MÖRK ORG (MÖRK BORG) - Beyond Cataclysm Weird Alchemy Games: Weird Alchemy - itch.io Dan Finney : ⁠⁠⁠⁠⁠⁠⁠OVERLAND EMPIRE⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Find us on whatever social media platform you use: Facebook Twitter Instagram BlueSky #FlailToTheFace #mörkborg #actualplay #podcast #ttrpg #hol #HumanOccupiedLandfill #Hellspawn #WastelandDegenerates # MÖRK ORG",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37838387/37838387-1782472881261-beadf64fc1f6b.jpg",
       "enclosure_url": "https://anchor.fm/s/e221626c/podcast/play/121769972/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-21%2F0117075c-4641-0da6-5b8a-d0625505b82b.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109915151",
