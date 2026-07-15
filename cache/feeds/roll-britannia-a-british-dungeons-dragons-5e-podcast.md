@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-07-08T08:46:30+00:00`
-- checked_at: `2026-07-08T08:46:30+00:00`
-- etag: `"djEuMi4wOjE3ODM0OTQwMzk5Mzg="`
+- fetched_at: `2026-07-15T08:37:41+00:00`
+- checked_at: `2026-07-15T08:37:41+00:00`
+- etag: `"djEuMi4wOjE3ODQwOTk0MzkzMjQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-07-08T08:46:30+00:00",
+  "fetched_at": "2026-07-15T08:37:41+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,43 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "212a128555b8926c8d6bc435b647517dc4ed6155",
+      "title": "BONUS: Age of Astra - Meet Patch Kairos, Again. | #DND",
+      "published_at": "2026-07-15T07:10:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, a decision made in secret begins to echo far beyond the room it was made in. Beneath layers of protocol and silence, something new opens its eyes, shaped by impossible choices and guided by principles that have yet to be tested. In this origin story, the Dice have not yet been rolled… but the outcome may already have been set. Why would someone risk everything to create him? What happens when mercy is pushed beyond its limits? And was Patch ever really meant to have a choice? Grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1784073344844-456d5371-ae6a-41f3-b88a-9fddaa082f17.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6a56cbbb039f51de13364b41/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "12005877",
+      "itunes_duration": "12:30",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "meet",
+        "patch",
+        "kairos"
+      ]
+    },
+    {
+      "key": "ec069f05f6b1bde8b8e489c10d5d10c6ac130d35",
+      "title": "Ep. 014: Age of Astra - Straight Down The Tube | #DND",
+      "published_at": "2026-07-15T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the agents move deeper into a mystery that seems determined to grow stranger with every step. The Dice continue to reveal fragments rather than answers, and in this DnD chapter, the feeling that something important is just out of sight becomes impossible to ignore. Every lead points somewhere, but not necessarily where it should. What is hiding at the centre of it all? Which assumptions are about to be challenged? And when the next revelation arrives, will it bring clarity… or only more questions? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1783811359253-93cda53c-5d54-4fcc-a038-366707d88c07.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6a52cdfcd2dde6b09a6beb01/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "130065929",
+      "itunes_duration": "54:09",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "straight",
+        "tube"
+      ]
+    },
     {
       "key": "eaea5b98aee32cd111273d47cd993feadadaeab6",
       "title": "Ep. 013: Age of Astra - I Need Answer, Then I Leave | #DND",
@@ -304,7 +341,7 @@
     },
     {
       "key": "dad45243c49edb0181e9af8e7fd10dba51c686f5",
-      "title": "BONUS: Age of Astra - Meet Patch Kiaros | #DND",
+      "title": "BONUS: Age of Astra - Meet Patch Kairos | #DND",
       "published_at": "2026-04-15T06:45:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this Dungeons and Dragons episode, a steady pair of hands prepares for whatever comes next, where routine feels less like habit and more like survival. Beneath calm precision and quiet focus, the Dice begin to hint at something heavier carried just out of sight in this introduction. Not every healer is untouched by what they’ve seen. What keeps Patch so controlled when everything else isn’t? How much does he really carry from one mission to the next? And when things go wrong… who keeps the fixer together? Grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -318,7 +355,7 @@
         "astra",
         "meet",
         "patch",
-        "kiaros"
+        "kairos"
       ]
     },
     {
@@ -7907,6 +7944,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-15 — BONUS: Age of Astra - Meet Patch Kairos, Again. | #DND
+- 2026-07-15 — Ep. 014: Age of Astra - Straight Down The Tube | #DND
 - 2026-07-08 — Ep. 013: Age of Astra - I Need Answer, Then I Leave | #DND
 - 2026-07-01 — Ep. 012: Age of Astra - All Gloves Are Off | #DND
 - 2026-06-24 — Ep. 011: Age of Astra - Give Me Your Hat | #DND
@@ -7923,7 +7962,7 @@
 - 2026-04-15 — Ep. 001: Age of Astra - Where is that Bloody Hat?! | #DND — speakers: Bloody Hat
 - 2026-04-15 — BONUS: Age of Astra - Meet Snik Unbord | #DND
 - 2026-04-15 — BONUS: Age of Astra - Meet Sig Rivet | #DND
-- 2026-04-15 — BONUS: Age of Astra - Meet Patch Kiaros | #DND
+- 2026-04-15 — BONUS: Age of Astra - Meet Patch Kairos | #DND
 - 2026-04-15 — BONUS: Age of Astra - Meet Ivan Tuzakyrblad | #DND
 - 2026-04-08 — Ep. 324 :Roll Britannia | Idols of the Neon Dark pt.2 |#DND — speakers: Roll Britannia, Neon Dark
 - 2026-04-08 — Ep. 324: Roll Britannia | Idols of the Neon Dark pt.1 | #DND
