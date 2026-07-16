@@ -3,10 +3,12 @@
 - slug: `happy-jacks-rpg-one-shots`
 - source: `https://www.happyjacks.org/feed/oneshots/`
 - fetched_at: `2026-07-14T08:30:03+00:00`
-- checked_at: `2026-07-14T08:30:03+00:00`
+- checked_at: `2026-07-16T16:44:00+00:00`
 - etag: `"f3108cfa85bee3e21c86992f7fb673c0"`
 - last_modified: `Tue, 14 Jul 2026 07:17:34 GMT`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: `HTTP 503` — Service Unavailable
 
 <!-- FEED_JSON -->
 ```json
@@ -1828,7 +1830,17 @@
         "shadowcon"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-07-16T16:44:00+00:00",
+    "status": "error",
+    "checked_at": "2026-07-16T16:44:00+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 503,
+      "message": "Service Unavailable"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
