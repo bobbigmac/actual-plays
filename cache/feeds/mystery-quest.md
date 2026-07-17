@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-07-10T17:12:05+00:00`
-- checked_at: `2026-07-10T17:12:05+00:00`
-- last_modified: `Fri, 10 Jul 2026 16:07:14 GMT`
+- fetched_at: `2026-07-17T16:35:49+00:00`
+- checked_at: `2026-07-17T16:35:49+00:00`
+- last_modified: `Fri, 17 Jul 2026 16:07:31 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-10T17:12:05+00:00",
+  "fetched_at": "2026-07-17T16:35:49+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -27,12 +27,33 @@
   ],
   "episodes": [
     {
+      "key": "be560134558ca75921330a48bfc26455171de84f",
+      "title": "Mythic Bastionland #7",
+      "published_at": "2026-07-17T16:00:00+00:00",
+      "link": null,
+      "description": "Welcome back to Mythic Bastionland and the realm of Saltmere Reach... The knights fulfil their duty to sir Graeme reaching a lonely peninsula at the end of the world. In the shell of their mentor's humble home awaits a myth, the crown of whispered legend. Is their journey at its end, or with this fateful revelation is there one more tale to tell... Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Check out Mythic Bastionland: https://chrismcdee.itch.io/mythic-bastionland Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: @AngoryTom Dominic Allen: @apocplayers Danann McAleer: @apocplayers Harry: https://www.twitch.tv/hrry Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2363636471.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4150",
+      "speakers": [
+        "Mythic Bastionland",
+        "Saltmere Reach",
+        "Tom Bates"
+      ],
+      "topics": [
+        "mythic",
+        "bastionland"
+      ]
+    },
+    {
       "key": "e663b66eed5b28a4247724d49e5358ddd9bbe3e2",
       "title": "Mythic Bastionland #6",
       "published_at": "2026-07-10T16:00:00+00:00",
       "link": null,
       "description": "Welcome back to Mythic Bastionland and the realm of Saltmere Reach... With a storm brewing our company enter Bergen Keep, the seat of power long held by the storied Iron Knight. Though the old Knight seems an imposter and oath breaker their past is paved with acts of honour, yet rejection of the seers can bring only ill fortune to the realm... Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Check out Mythic Bastionland: https://chrismcdee.itch.io/mythic-bastionland Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: @AngoryTom Dominic Allen: @apocplayers Danann McAleer: @apocplayers Harry: https://www.twitch.tv/hrry Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/dd7cfa68-e24a-11f0-9e56-abca9052d5d0/image/7f3fe3bf4ad534233d4d87c11c71e7ca.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": null,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR9517934483.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -3075,24 +3096,23 @@
       ]
     },
     {
-      "key": "cd447fcdfcfeec04fe6283bb0510fbe54ec1f480",
-      "title": "MÖRK BORG: The Goblin Grinder #1",
+      "key": "5af1955d46892f46225b91f7465ec627c5ecc018",
+      "title": "Call of Cthulhu: The Disintegrator #1",
       "published_at": "2023-09-09T17:00:00+00:00",
       "link": null,
-      "description": "Welcome to Mystery Quest! Today we are joined by a new group of adventurers who are being dragged kicking a screaming through the grim fantasy world that is MÖRK BORG. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests. Today we are plunging into the murky depths of Call of Cthulhu on an adventure called The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR6788187947.mp3?updated=1707495427",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2871946006.mp3?updated=1707495263",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3521",
+      "itunes_duration": "4347",
       "speakers": [
         "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
-        "borg",
-        "goblin",
-        "grinder"
+        "cthulhu",
+        "disintegrator"
       ]
     },
     {
@@ -3107,26 +3127,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4387",
       "speakers": [
-        "Tom Bates"
-      ],
-      "topics": [
-        "cthulhu",
-        "disintegrator"
-      ]
-    },
-    {
-      "key": "5af1955d46892f46225b91f7465ec627c5ecc018",
-      "title": "Call of Cthulhu: The Disintegrator #1",
-      "published_at": "2023-09-09T17:00:00+00:00",
-      "link": null,
-      "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests. Today we are plunging into the murky depths of Call of Cthulhu on an adventure called The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2871946006.mp3?updated=1707495263",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4347",
-      "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -3152,6 +3152,27 @@
         "cthulhu",
         "disintegrator"
       ]
+    },
+    {
+      "key": "cd447fcdfcfeec04fe6283bb0510fbe54ec1f480",
+      "title": "MÖRK BORG: The Goblin Grinder #1",
+      "published_at": "2023-09-09T17:00:00+00:00",
+      "link": null,
+      "description": "Welcome to Mystery Quest! Today we are joined by a new group of adventurers who are being dragged kicking a screaming through the grim fantasy world that is MÖRK BORG. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR6788187947.mp3?updated=1707495427",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3521",
+      "speakers": [
+        "Mystery Quest",
+        "Tom Bates"
+      ],
+      "topics": [
+        "borg",
+        "goblin",
+        "grinder"
+      ]
     }
   ]
 }
@@ -3160,6 +3181,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-17 — Mythic Bastionland #7 — speakers: Mythic Bastionland, Saltmere Reach, Tom Bates
 - 2026-07-10 — Mythic Bastionland #6 — speakers: Tom Bates
 - 2026-07-03 — Mythic Bastionland #5 — speakers: Mythic Bastionland, Saltmere Reach, Tom Bates
 - 2026-06-26 — Mythic Bastionland #4 — speakers: Mythic Bastionland, Saltmere Reach, Tom Bates
@@ -3309,7 +3331,7 @@
 - 2023-09-30 — MÖRK BORG: The Goblin Grinder #4 — speakers: Tom Bates
 - 2023-09-23 — MÖRK BORG: The Goblin Grinder #3 — speakers: Tom Bates
 - 2023-09-16 — MÖRK BORG: The Goblin Grinder #2 — speakers: Tom Bates
-- 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates
-- 2023-09-09 — Call of Cthulhu: The Disintegrator #2 — speakers: Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Mystery Quest, Tom Bates
+- 2023-09-09 — Call of Cthulhu: The Disintegrator #2 — speakers: Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #3 — speakers: Tom Bates
+- 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates
