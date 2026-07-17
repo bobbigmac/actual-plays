@@ -2,9 +2,9 @@
 
 - slug: `flail-to-the-face-a-compatible-with-m-rk-borg-actual-play-podcast`
 - source: `https://anchor.fm/s/e221626c/podcast/rss`
-- fetched_at: `2026-07-17T10:58:53+00:00`
-- checked_at: `2026-07-17T10:58:53+00:00`
-- etag: `W/"6c5df-QrHV8ldGTM6s3Me0I8nwozjojVg"`
+- fetched_at: `2026-07-17T14:05:48+00:00`
+- checked_at: `2026-07-17T14:05:48+00:00`
+- etag: `W/"6e2fc-gTKIn/wj0NE9Fs7L4oJyOuEH4XY"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://discord.gg/ye4VzTv9",
   "description": "Flail to the Face is a \"Compatible with Mörk Borg\" Actual Play Podcast, focusing on playing and promoting third party content and their creators.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37838387/37838387-1756395980208-7d45de7e84c02.jpg",
-  "fetched_at": "2026-07-17T10:58:53+00:00",
+  "fetched_at": "2026-07-17T14:05:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/mork-borg"
   ],
   "episodes": [
+    {
+      "key": "ee828745876c9942e31bd83ef798b9aae1ae7b45",
+      "title": "Season Two, Episode Eleven: T.G.I.F.",
+      "published_at": "2026-07-17T09:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/flailtotheface/episodes/Season-Two--Episode-Eleven-T-G-I-F-e3m0dge",
+      "description": "In this episode, our M.I.L.F. Agents have found themselves in a Corpo-Hell, with much more than just a Malefactor to contend with... What does any of this mean? Find out as Flail to the Face plays MÖRK ORG! This episode of Flail to the Face features the games Human Occupied Landfill by Todd Shaughnessy, Daniel Thron, Chris Elliott, HellSpawn by Richard Markert and Lee Iovis, & MÖRK ORG by Chris Lowry of Beyond Cataclysm With: Thomas Genno-Stumme playing Dalton Walls & Ronald McDowds Tom Gambino playing Collette Stellarno & Fumnunya Charles Paschke playing Donnie & Jevin, it's like kevin, with a J Special guest Zach Rebey of Weird Alchemy Games as Buster Mullens & Bicheal Milk And Kevin Welch as the FlailMeister. Season 2 theme music is Void Construct by Alex Grohl. Editing by Kevin Welch. Cover Art by Tom Gambino with assets from UnitSix. Video Editing by Dan Finney SFX courtesy of Epidemic Sound & Pixabay. Whispers of the Dying Lands: https://open.spotify.com/show/7yFvPcYtVa2jP5nCI1QqCS?si=a93f011397354f8d HellSpawn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠hellspawnrpg.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ MÖRK ORG: ⁠MÖRK ORG (MÖRK BORG) - Beyond Cataclysm⁠ Weird Alchemy Games: ⁠Weird Alchemy - itch.io⁠ Dan Finney : ⁠⁠⁠⁠⁠⁠⁠⁠OVERLAND EMPIRE⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Find us on whatever social media platform you use: Facebook Twitter Instagram BlueSky #FlailToTheFace #mörkborg #actualplay #podcast #ttrpg #hol #HumanOccupiedLandfill #Hellspawn # MÖRK ORG",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37838387/37838387-1784271656769-aa20f32b3f981.jpg",
+      "enclosure_url": "https://anchor.fm/s/e221626c/podcast/play/122745806/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-12%2F7272606a-61a7-0cf5-1690-cc7c706e2b5a.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "112583283",
+      "itunes_duration": "01:09:10",
+      "speakers": [
+        "than just"
+      ],
+      "topics": [
+        "season"
+      ]
+    },
     {
       "key": "917c66bd95c626524f473b750416c86e532b9d83",
       "title": "Season Two, Episode Ten: Hot Honey Divulgence",
@@ -1170,6 +1188,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-17 — Season Two, Episode Eleven: T.G.I.F. — speakers: than just
 - 2026-06-26 — Season Two, Episode Ten: Hot Honey Divulgence — speakers: Lt Boyers
 - 2026-06-05 — Season Two, Episode Nine: Full Yellow Jacket
 - 2026-05-15 — Season Two, Episode Eight: A Bug's Strife — speakers: Season Two

@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-07-15T14:13:36+00:00`
-- checked_at: `2026-07-15T14:13:36+00:00`
-- etag: `"djEuMi4wOjE3ODM5NzczMzQ1MTU="`
+- fetched_at: `2026-07-17T14:05:48+00:00`
+- checked_at: `2026-07-17T14:05:48+00:00`
+- etag: `"djEuMi4wOjE3ODQyOTMyMzk0NDA="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/show-cover.png",
-  "fetched_at": "2026-07-15T14:13:36+00:00",
+  "fetched_at": "2026-07-17T14:05:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "aee530bcdde3746908dcaac2d92b5cd462a32c61",
+      "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 13: A Gentle Confinement",
+      "published_at": "2026-07-17T13:00:00+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/mage-the-ascension-the-victorian-age-book-3-chapter-13-a-gen",
+      "description": "Welcome to book three of Mage the Victorian Age! In this episode, Chastity gets locked up for a while and the trip continues. Thank you to Bookwyrm Games for sponsoring Dork Tales this month! Use code DORKTALES to save 15% at https://www.bookwyrmgames.com! Orders over $100 also enjoy free shipping! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage *** Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Evelyn Taylor *** Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktalescha... Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! *** Music credits: Tracks from Joel Steudler Heartwarming Magic Adventure Antics Abound Licensed under a Humble Bundle Collection Music From Dark Fantasy Studio Hidden in the Dark Paradox Nightfall Complexe Mind These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vision of the Ancients Conspiracy Unravel Horror Piano Forthright Untenable Piano Solo These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net We also use licensed music from Audio Hero, Ovani Studios, GameDev Market, and Phat Phrog Studios, including: Archive of Sad Days Anyone Can Solve This Classical Villanous Charnel Hymn Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! https://www.tabletopaudio.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1783968190905-8603af83-d517-44c4-88d9-f7fc677d7023.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a5535d408f5afd13420a529/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116390765",
+      "itunes_duration": "2:01:14",
+      "speakers": [
+        "Victorian Age",
+        "Gentle Confinement Welcome"
+      ],
+      "topics": [
+        "ascension",
+        "book",
+        "chapter",
+        "gentle",
+        "confinement"
+      ]
+    },
     {
       "key": "49e696f1c3e04fa04b16a3d6ee21048d4ca36382",
       "title": "ColdIron | Episode 4: A Bazaar Painted Red",
@@ -8018,6 +8041,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-17 — Mage the Ascension the Victorian Age | Book 3, Chapter 13: A Gentle Confinement — speakers: Victorian Age, Gentle Confinement Welcome
 - 2026-07-13 — ColdIron | Episode 4: A Bazaar Painted Red — speakers: Bazaar Painted Red Welcome
 - 2026-07-03 — Mage the Ascension the Victorian Age | Book 3, Chapter 12: The Man Next Door — speakers: Victorian Age
 - 2026-06-30 — ColdIron | Episode 3: Beneath the Walls — speakers: Walls Welcome
