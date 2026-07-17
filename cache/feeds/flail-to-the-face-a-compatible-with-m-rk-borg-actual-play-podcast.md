@@ -2,9 +2,9 @@
 
 - slug: `flail-to-the-face-a-compatible-with-m-rk-borg-actual-play-podcast`
 - source: `https://anchor.fm/s/e221626c/podcast/rss`
-- fetched_at: `2026-07-17T08:30:04+00:00`
-- checked_at: `2026-07-17T08:30:04+00:00`
-- etag: `W/"6c5df-273cghajfxP5RaIa1PATYfQ4pjE"`
+- fetched_at: `2026-07-17T10:58:53+00:00`
+- checked_at: `2026-07-17T10:58:53+00:00`
+- etag: `W/"6c5df-QrHV8ldGTM6s3Me0I8nwozjojVg"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://discord.gg/ye4VzTv9",
   "description": "Flail to the Face is a \"Compatible with Mörk Borg\" Actual Play Podcast, focusing on playing and promoting third party content and their creators.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37838387/37838387-1756395980208-7d45de7e84c02.jpg",
-  "fetched_at": "2026-07-17T08:30:04+00:00",
+  "fetched_at": "2026-07-17T10:58:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
