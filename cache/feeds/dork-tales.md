@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-07-17T14:05:48+00:00`
-- checked_at: `2026-07-17T14:05:48+00:00`
-- etag: `"djEuMi4wOjE3ODQyOTMyMzk0NDA="`
+- fetched_at: `2026-07-20T19:58:37+00:00`
+- checked_at: `2026-07-20T19:58:37+00:00`
+- etag: `"djEuMi4wOjE3ODQ1NjkzNTIyMTc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/show-cover.png",
-  "fetched_at": "2026-07-17T14:05:48+00:00",
+  "fetched_at": "2026-07-20T19:58:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "2b77e0ac4d3f7a479d771446775c51ceb24f132b",
+      "title": "ColdIron | Episode 5: Son of a Gun",
+      "published_at": "2026-07-20T17:39:26+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/coldiron-episode-5-son-of-a-gun",
+      "description": "Welcome to our ColdIron: our new homebrew campaign! In this episode, the party makes some plans and are rudely interrupted. Kelly Clark as Dungeon Master Cast Amy Godfrey as Carrion Slaughterhouse Robin Holford as Trixxi Blastemoff Katrina McGie as Taliina'a Christine Rattray as Bell St. Claire Caitlan Vinkle as ZOE === Music credits: Tim Kulig kindly composed the following tracks for this campaign: Tumbleweeds Campaign Outro Find him at https://www.timkulig.com Licensed under Creative Commons: By Attribution 4.0 creativecommons.org/licenses/by/4.0/ IMDB: https://www.imdb.com/name/nm0997280/?... The following licensed tracks by Monument Studios were used: High Noon Outlander Harps Dark Hybrid Ambience Nocturne Town on Fire At Arms Tense encounter Horror Action Scene Setter https://www.monumentstudios.net Arcane Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/ It also includes the following music from Joel Steudler licensed through a Humble Music collection: Heavily Armed The following licensed music from Ovani Sound were used: Salamander The Mourning Cafe De Bard The following licensed track from RedEarth was used: Tip the Scales Licensed from part of the Battle Litany collection from GameDev Market. Additional Licensed tracks by Ovani Sound and Phat Phrog Studio may also used. For background ambience we used sounds from Tabletop Audio. Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life. https://www.tabletopaudio.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1784569152597-5f4ba199-840d-4949-8cc2-614e88a09e37.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a5e5d4e8327d8bdc756e87b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "151129443",
+      "itunes_duration": "2:37:25",
+      "speakers": [
+        "Gun Welcome"
+      ],
+      "topics": [
+        "coldiron"
+      ]
+    },
     {
       "key": "aee530bcdde3746908dcaac2d92b5cd462a32c61",
       "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 13: A Gentle Confinement",
@@ -8041,6 +8059,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-20 — ColdIron | Episode 5: Son of a Gun — speakers: Gun Welcome
 - 2026-07-17 — Mage the Ascension the Victorian Age | Book 3, Chapter 13: A Gentle Confinement — speakers: Victorian Age, Gentle Confinement Welcome
 - 2026-07-13 — ColdIron | Episode 4: A Bazaar Painted Red — speakers: Bazaar Painted Red Welcome
 - 2026-07-03 — Mage the Ascension the Victorian Age | Book 3, Chapter 12: The Man Next Door — speakers: Victorian Age
