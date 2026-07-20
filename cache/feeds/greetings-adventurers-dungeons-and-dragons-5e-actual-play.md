@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-07-20T14:35:06+00:00`
-- checked_at: `2026-07-20T14:35:06+00:00`
-- etag: `"djEuMi4wOjE3ODQ1NTE5Nzc2NzU="`
+- fetched_at: `2026-07-20T16:45:35+00:00`
+- checked_at: `2026-07-20T16:45:35+00:00`
+- etag: `"djEuMi4wOjE3ODQ1NTk2MzkzOTc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-07-20T14:35:06+00:00",
+  "fetched_at": "2026-07-20T16:45:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "84718b1176c499d7fe6a1f33d474b49da03727b3",
+      "title": "Campaign 2: Episode 191 - A Sausage Like My Father's",
+      "published_at": "2026-07-20T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-191-a-sausage-like-my-father",
+      "description": "Tackling the Red Lantern District's Spike won't be a simple task, with the crew having to neutralise multiple snipers at the same time. With Selene having to navigate a hardcore S&M armour-polishing club, Screech grappling to the top of a sausage boutique and the Oriole doing god-knows-what, the launch of the city-wide resistance is mere minutes away. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by Zack Meyman ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1784551656091-a0cb64c9-eeb4-46fa-8cc6-404b3e221249.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a5e1a2976f8ee25bb5abf36/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77234087",
+      "itunes_duration": "53:37",
+      "speakers": [],
+      "topics": [
+        "campaign",
+        "sausage",
+        "father"
+      ]
+    },
     {
       "key": "d863e7c99755b6e9a14deea73b0246e1ebac00e7",
       "title": "Campaign 2: Episode 190 - We Need to Talk About the Oriole",
@@ -12479,6 +12497,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-20 — Campaign 2: Episode 191 - A Sausage Like My Father's
 - 2026-07-13 — Campaign 2: Episode 190 - We Need to Talk About the Oriole — speakers: Talk About
 - 2026-07-06 — Campaign 2: Bonus Episode - Terror Island! Part 2 — speakers: Terror Island, Geekly Inc, Hour Chari
 - 2026-06-29 — Campaign 2: Bonus Episode - Terror Island! Part 1 — speakers: Terror Island, Geekly Inc, Hour Charity Stream
