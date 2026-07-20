@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-07-13T09:49:18+00:00`
-- checked_at: `2026-07-13T09:49:18+00:00`
-- last_modified: `Mon, 13 Jul 2026 04:05:00 GMT`
+- fetched_at: `2026-07-20T04:07:37+00:00`
+- checked_at: `2026-07-20T04:07:37+00:00`
+- last_modified: `Mon, 20 Jul 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-07-13T09:49:18+00:00",
+  "fetched_at": "2026-07-20T04:07:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "70f08576bd07d68988c18d9f4cf5f2318298a8c3",
+      "title": "Guilt of the Grave World | 023: Kangaroo Quartering",
+      "published_at": "2026-07-20T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-023-kangaroo-quartering/",
+      "description": "Back on the planet of Eox the crew of the Nova Rush rest in the zephyrous shelter, while zombies are destroyed by large undead beasts outside. Can they make a break for it and survive an attack from these former beasts of burden? Find out the answer to the riddles “What hops, tramples and impales in the pale Eoxian sunlight?” on this week’s Cosmic Crit!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3834/guilt-of-the-grave-world-023-kangaroo-quartering.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91369717",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Grave World",
+        "Kangaroo Quartering Back",
+        "Nova Rush"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "kangaroo",
+        "quartering"
+      ]
+    },
     {
       "key": "c155cc90d1343645cef0a81816ab019ff8775dd7",
       "title": "Guilt of the Grave World | 022: The Hellcat in the Hat",
@@ -9048,6 +9072,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-20 — Guilt of the Grave World | 023: Kangaroo Quartering — speakers: Grave World, Kangaroo Quartering Back, Nova Rush
 - 2026-07-13 — Guilt of the Grave World | 022: The Hellcat in the Hat — speakers: Grave World, Hat Last, Heathaeyun Delacourt
 - 2026-07-06 — Guilt of the Grave World | 021: All Dogs Go to Vesk 6 — speakers: Grave World, All Dogs Go, Nova Rush
 - 2026-06-29 — Guilt of the Grave World | 020: Undead Man Walking — speakers: Grave World, Nova Rush
