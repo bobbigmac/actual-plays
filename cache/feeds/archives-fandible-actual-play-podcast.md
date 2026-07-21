@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-07-06T22:40:31+00:00`
-- checked_at: `2026-07-06T22:40:31+00:00`
-- etag: `"8f8ad98f7abfb13e214ed18fffc2e627"`
+- fetched_at: `2026-07-21T03:50:00+00:00`
+- checked_at: `2026-07-21T03:50:00+00:00`
+- etag: `"d5c7eca52b714d667e5a69b4b5e190d6"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-07-06T22:40:31+00:00",
+  "fetched_at": "2026-07-21T03:50:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "4fc9566f17224db7b0bde4ec3c9ff67d66f74a21",
+      "title": "Kenku Bin Wizards: Saving the Wastes part 1",
+      "published_at": "2026-07-21T01:13:43+00:00",
+      "link": "https://fandible.com/kenku-bin-wizards-saving-the-wastes-part-1/",
+      "description": "Two Kenku Wizards undertake a mission to save the wastes. The post Kenku Bin Wizards: Saving the Wastes part 1 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/459_KBW_SavingtheWastes/811_KBW_SavingtheWastespart1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22946591",
+      "itunes_duration": "30:40",
+      "speakers": [
+        "Kenku Bin Wizards"
+      ],
+      "topics": [
+        "kenku",
+        "wizards",
+        "wastes"
+      ]
+    },
     {
       "key": "f68978de6840ca4152b41d6846d1b9917d68a007",
       "title": "Black Powder & Brimstone: Valorous Hands part 3",
@@ -11364,22 +11384,6 @@
         "base",
         "casefile"
       ]
-    },
-    {
-      "key": "41a95b85376fcccc3b27a3960e378a47f83ef9d2",
-      "title": "Pugmire: The Cat’s Mau",
-      "published_at": "2016-07-29T15:16:48+00:00",
-      "link": "https://fandible.com/pugmire-the-cats-mau/",
-      "description": "On a quest to strengthen relations between Pugmire and the Monarchies of Mau, the Good Dogs must face off against a horrifying enemy. The post Pugmire: The Cat’s Mau appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/188_PM_TheCatsMau/Fan_307_PM_TheCatsMau.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "51765666",
-      "itunes_duration": "1:46:40",
-      "speakers": [],
-      "topics": [
-        "pugmire"
-      ]
     }
   ]
 }
@@ -11388,6 +11392,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-21 — Kenku Bin Wizards: Saving the Wastes part 1 — speakers: Kenku Bin Wizards
 - 2026-07-06 — Black Powder & Brimstone: Valorous Hands part 3 — speakers: Black Powder, Valorous Hands
 - 2026-06-23 — Black Powder & Brimstone: Valorous Hands part 2 — speakers: Black Powder, Valorous Hands
 - 2026-06-16 — Black Powder & Brimstone: Valorous Hands part 1 — speakers: Black Powder, Valorous Hands
@@ -11987,4 +11992,3 @@
 - 2016-08-19 — Shadowrun: Prime Ep 8 part 1 of 2
 - 2016-08-12 — Bubblegumshoe: Veronica Base, Casefile #001 2 of 2 — speakers: Veronica Base
 - 2016-08-05 — Bubblegumshoe: Veronica Base, Casefile #001 1 of 2 — speakers: Veronica Base
-- 2016-07-29 — Pugmire: The Cat’s Mau
