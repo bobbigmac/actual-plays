@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-07-14T19:46:13+00:00`
-- checked_at: `2026-07-14T19:46:13+00:00`
-- etag: `"djEuMi4wOjE3ODQwNTU2Mzk0MzE="`
+- fetched_at: `2026-07-21T19:54:48+00:00`
+- checked_at: `2026-07-21T19:54:48+00:00`
+- etag: `"djEuMi4wOjE3ODQ2NjA0MzkzODg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-07-14T19:46:13+00:00",
+  "fetched_at": "2026-07-21T19:54:48+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "afd0d7b07c3d75ac01e758e420598100c423163a",
+      "title": "Ep. 59 The Dragon Rider",
+      "published_at": "2026-07-21T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-59-the-dragon-rider",
+      "description": "Help is always harder to ask for when it bears its teeth. Some things are easier to believe in from a distance, but when the world has little interest in offering answers gently, what should have been hope in the sky becomes a fight to survive beneath it. Sometimes the impossible arrives just in time, and when the past is no longer something remembered, but something standing right in front of you, it’s one thing to find that it’s survived without you, and another to discover it’s been carrying on in ways you never imagined. Yet futures can be lost almost as soon as they are named, and the sky has a way of taking back what it gives. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a5ddde976f8ee25bb447b9f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "183702674",
+      "itunes_duration": "3:11:21",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "dragon",
+        "rider"
+      ]
+    },
     {
       "key": "4371c7e5cb708ee5f9ade71004c09972827500d9",
       "title": "Action Surge Episode 58",
@@ -3085,6 +3109,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-21 — Ep. 59 The Dragon Rider — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-07-14 — Action Surge Episode 58 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-07-07 — Ep. 58 The White Stag — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-06-30 — Action Surge Episode 57 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
