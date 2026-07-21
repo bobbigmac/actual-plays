@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-07-14T14:16:11+00:00`
-- checked_at: `2026-07-14T14:16:11+00:00`
-- etag: `"861f619395dc5c331e1786deaf1f7e8e"`
-- last_modified: `Tue, 14 Jul 2026 13:00:33 GMT`
+- fetched_at: `2026-07-21T14:26:27+00:00`
+- checked_at: `2026-07-21T14:26:27+00:00`
+- etag: `"90685bce77bb6a8a4fa723662ffc26ee"`
+- last_modified: `Tue, 21 Jul 2026 13:01:28 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-07-14T14:16:11+00:00",
+  "fetched_at": "2026-07-21T14:26:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "7aa0da13a8dc2a33c6f23ea9ea93702da684e6c6",
+      "title": "Ep1 | Delta Green: Convergence - Just a Boy...",
+      "published_at": "2026-07-21T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/2994625",
+      "description": "The team gets up close and personal with the mission from the very beginning! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/2994625/green-box-gaming/2026_07_15_22_21_52_9d38aa42-945d-4adf-b914-f8f952ee5930.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80193409",
+      "itunes_duration": "5012",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "convergence"
+      ]
+    },
     {
       "key": "ebb122fdb6b1fe65cd9735ed4a8696ea3b6cc083",
       "title": "Ep17 | Delta Green: Puppet Shows and Shadow Plays - End with a Bang",
@@ -4159,6 +4177,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-21 — Ep1 | Delta Green: Convergence - Just a Boy...
 - 2026-07-14 — Ep17 | Delta Green: Puppet Shows and Shadow Plays - End with a Bang — speakers: Shadow Plays game
 - 2026-07-06 — Ep16 | Delta Green: Puppet Shows and Shadow Plays - Bringing the Fight
 - 2026-06-30 — Ep15 | Delta Green: Puppet Shows and Shadow Plays - Target Acquired
