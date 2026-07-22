@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-07-15T08:37:41+00:00`
-- checked_at: `2026-07-15T08:37:41+00:00`
-- etag: `"djEuMi4wOjE3ODQwOTk0MzkzMjQ="`
+- fetched_at: `2026-07-22T08:47:00+00:00`
+- checked_at: `2026-07-22T08:47:00+00:00`
+- etag: `"djEuMi4wOjE3ODQ3MDM2Mzk0ODI="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-07-15T08:37:41+00:00",
+  "fetched_at": "2026-07-22T08:47:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "ea4da11c43f02a05752f047d9f7557c28bd92ebe",
+      "title": "Ep. 015: Age of Astra - The Stone Drops To The Ground | #DND",
+      "published_at": "2026-07-22T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the agents reach a point where uncertainty is no longer a problem to solve but a place to stand. The Dice seem to linger on every decision, stretching moments longer than they should as this DnD mystery continues to unfold. What once felt distant now feels close enough to touch, though no one can quite agree on what they're reaching for. Which truths have been hiding in the gaps all along? What happens when the pieces finally start fitting together? And when the path forward becomes clear, will anyone actually want to follow it? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1784152228502-9a1ba184-27b3-458c-ae4d-2dd31ec04389.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6a5800f8c0080f2be702201a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "115705271",
+      "itunes_duration": "48:10",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "stone",
+        "ground"
+      ]
+    },
     {
       "key": "212a128555b8926c8d6bc435b647517dc4ed6155",
       "title": "BONUS: Age of Astra - Meet Patch Kairos, Again. | #DND",
@@ -7944,6 +7962,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — Ep. 015: Age of Astra - The Stone Drops To The Ground | #DND
 - 2026-07-15 — BONUS: Age of Astra - Meet Patch Kairos, Again. | #DND
 - 2026-07-15 — Ep. 014: Age of Astra - Straight Down The Tube | #DND
 - 2026-07-08 — Ep. 013: Age of Astra - I Need Answer, Then I Leave | #DND
