@@ -2,9 +2,9 @@
 
 - slug: `dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast`
 - source: `https://rss.art19.com/dumbgeons-and-dragons`
-- fetched_at: `2026-07-22T08:47:00+00:00`
-- checked_at: `2026-07-22T08:47:00+00:00`
-- last_modified: `Wed, 22 Jul 2026 07:00:02 GMT`
+- fetched_at: `2026-07-23T03:48:28+00:00`
+- checked_at: `2026-07-23T03:48:28+00:00`
+- last_modified: `Wed, 22 Jul 2026 23:30:09 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.dumbdragons.com/",
   "description": "Dumbgeons & Dragons is a funny, rules-light Dungeons & Dragons actual play podcast where friends tell epic stories full of heart, chaos, and ridiculous choices. Whether you’re new to D&D, just learning the ropes, or a longtime fan who loves a lighthearted adventure, you’ll feel right at home at our table. Campaign 2 (Seasons 3 & 4) begins in the gritty city of Vintersmouth—a place of secrets, schemes, and spontaneous street magic. This season is the perfect place to jump in, with a fresh cast of characters and a mystery that pulls them deep into a city on the edge. Start with Episode 301: Let’s Begin Again! Featuring fast-paced storytelling, character-driven arcs, improv comedy, and zero gatekeeping, Dumbgeons & Dragons is your cozy-but-chaotic fantasy fix. New episodes every Wednesday. Support the show and get bonus episodes at patreon.com/dumbdragoncast More info, recaps, and character bios at dumbdragons.com",
   "image_url": "https://content.production.cdn.art19.com/images/f3/8f/9a/30/f38f9a30-68d2-46ca-87f1-4261dbe574e5/dc447b9659ef194b4fefd29c9bde8d0344f5519fb86dfca67d4122b062044b0c6c10ebfc0dca39f8ec2ecc2b5d2894d6ae621c12620cea9f553a42508c664e65.jpeg",
-  "fetched_at": "2026-07-22T08:47:00+00:00",
+  "fetched_at": "2026-07-23T03:48:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "2710b28f13e75e2b3687bcb5875459039a783077",
+      "title": "Taking a Path That's Bear-ly There (Campaign 2 – S4E62)",
+      "published_at": "2026-07-22T23:30:00+00:00",
+      "link": "https://art19.com/shows/dumbgeons-and-dragons/episodes/35703c93-14a3-4bdd-b06b-e51aa75525a1",
+      "description": "In this week's episode... Continuing along the path to Lingersville, the group has a close encounter with an spore-aticly infected bear! Puns. 🎲 Dumbgeons & Dragons is a beginner-friendly, rules-light actual play podcast where Canadian friends create inclusive D&D adventures full of improv comedy, supportive storytelling, and zero gatekeeping. ✨ Campaign 2 - Perfect for New Listeners: Fresh characters, new world, cozy table vibes that feel like playing with friends who actually want you there. - - - - - - - - - - 💖 SUPPORT THE SHOW 🔥 Join 200+ Patrons for bonus episodes, early access, and exclusive content! → Patreon.com/dumbdragoncast (7-day free trial + merch after 3 months!) 🐉 WE NEED YOUR HELP! We're reshaping our Patreon and want to hear from YOU, patrons and free members alike. Fill out our survey by June 30th for a chance to win 3 months free at the Supporting Producer tier + access to our exclusive July 18th live show . → Gift a loved one a Patreon membership: patreon.com/dumbdragoncast/gift - - - - - - - - - - 🛍️ Merch Store: dumbdragons.dashery.com 📱 All Our Links: linktr.ee/dumbdragons - - - - - - - - - - 🎭 CAST & CREW Players: Amy More, Carla Maxted, Tom Laird and Kyle Claset DM: Russ More Dialogue Editing & Sound Design: Russ More Music & Sound Effects: Epidemic Sound, BOOM Library, Sound Ideas Cover Art: Matt Garbutt (@artmonkeymg on Instagram) - - - - - - - - - - 📈 FOR ADVERTISERS & PARTNERS Advertise: fableandfolly.com/advertise See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/3d/47/ce/7c/3d47ce7c-418c-4252-8361-bcd047df95b8/41c0f3a85a1d1580f247d86389a8ee8cdac6feacee41df710a90d5a4959d7bc15d00bdec089415a5c525c6137382aaacfd3fcddf1ad038e531c9a6e485d072c9.jpeg",
+      "enclosure_url": "https://swap.fm/track/WgbGgxzM3MFRwjmX5fnx/op3.dev/e/pscrb.fm/rss/p/rss.art19.com/episodes/35703c93-14a3-4bdd-b06b-e51aa75525a1.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33052212",
+      "itunes_duration": "00:34:25",
+      "speakers": [],
+      "topics": [
+        "path",
+        "bear",
+        "campaign"
+      ]
+    },
     {
       "key": "beb366b6ac8831b0040c6335635cd923fbea5d22",
       "title": "Are the Trees Alive? (Campaign 2 – S4E61)",
@@ -6944,6 +6962,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — Taking a Path That's Bear-ly There (Campaign 2 – S4E62)
 - 2026-07-10 — Are the Trees Alive? (Campaign 2 – S4E61)
 - 2026-06-24 — We're PREPPING for an Adventure! (Campaign 2 – S4E60)
 - 2026-06-11 — A History of Lingersville (Campaign 2 – S4E59)
