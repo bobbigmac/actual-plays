@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-07-17T16:35:49+00:00`
-- checked_at: `2026-07-17T16:35:49+00:00`
-- last_modified: `Fri, 17 Jul 2026 16:07:31 GMT`
+- fetched_at: `2026-07-24T16:58:57+00:00`
+- checked_at: `2026-07-24T16:58:57+00:00`
+- last_modified: `Fri, 24 Jul 2026 16:34:33 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-17T16:35:49+00:00",
+  "fetched_at": "2026-07-24T16:58:57+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,24 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "c520be2a0955a3dd9162f4e45051fd16b1d9c02c",
+      "title": "Obscure: Found Footage RPG #1",
+      "published_at": "2026-07-24T16:00:00+00:00",
+      "link": null,
+      "description": "Welcome to Mystery Quest where this series we play Obscure, the found footage TTRPG by Sunzenaut. The crew of paranormal investigation show, Phenomen-X UK investigate the abandoned St Sanchez Asylum as they film their pilot episode. Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Check out Obscure by Sunzenaut here: https://sunzenaut.itch.io/obscure Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: @AngoryTom Lydia: https://www.twitch.tv/squidgame Tom Bates: @TomBates Alex Smith: @hatfilms Briony: https://www.twitch.tv/brionykay Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2125842784.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4495",
+      "speakers": [
+        "Tom Bates"
+      ],
+      "topics": [
+        "footage"
+      ]
+    },
     {
       "key": "be560134558ca75921330a48bfc26455171de84f",
       "title": "Mythic Bastionland #7",
@@ -423,7 +441,7 @@
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR7798505399.mp3?updated=1773409927",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4527",
+      "itunes_duration": "4526",
       "speakers": [
         "Blade Runner Rpg",
         "Blade Runner",
@@ -3096,26 +3114,6 @@
       ]
     },
     {
-      "key": "5af1955d46892f46225b91f7465ec627c5ecc018",
-      "title": "Call of Cthulhu: The Disintegrator #1",
-      "published_at": "2023-09-09T17:00:00+00:00",
-      "link": null,
-      "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests. Today we are plunging into the murky depths of Call of Cthulhu on an adventure called The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2871946006.mp3?updated=1707495263",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4347",
-      "speakers": [
-        "Mystery Quest",
-        "Tom Bates"
-      ],
-      "topics": [
-        "cthulhu",
-        "disintegrator"
-      ]
-    },
-    {
       "key": "1eca22755a0101b7dd1965525d648220ad5556b4",
       "title": "Call of Cthulhu: The Disintegrator #2",
       "published_at": "2023-09-09T17:00:00+00:00",
@@ -3135,17 +3133,18 @@
       ]
     },
     {
-      "key": "f59f5404ce8f71329b5db089bf3fce96db416506",
-      "title": "Call of Cthulhu: The Disintegrator #3",
+      "key": "5af1955d46892f46225b91f7465ec627c5ecc018",
+      "title": "Call of Cthulhu: The Disintegrator #1",
       "published_at": "2023-09-09T17:00:00+00:00",
       "link": null,
-      "description": "Our investigators find themselves at breakfast awaiting the demonstration of the mysterious weapon known as The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests. Today we are plunging into the murky depths of Call of Cthulhu on an adventure called The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2230576272.mp3?updated=1707495872",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2871946006.mp3?updated=1707495263",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4517",
+      "itunes_duration": "4347",
       "speakers": [
+        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -3173,6 +3172,25 @@
         "goblin",
         "grinder"
       ]
+    },
+    {
+      "key": "f59f5404ce8f71329b5db089bf3fce96db416506",
+      "title": "Call of Cthulhu: The Disintegrator #3",
+      "published_at": "2023-09-09T17:00:00+00:00",
+      "link": null,
+      "description": "Our investigators find themselves at breakfast awaiting the demonstration of the mysterious weapon known as The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2230576272.mp3?updated=1707495872",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4517",
+      "speakers": [
+        "Tom Bates"
+      ],
+      "topics": [
+        "cthulhu",
+        "disintegrator"
+      ]
     }
   ]
 }
@@ -3181,6 +3199,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-24 — Obscure: Found Footage RPG #1 — speakers: Tom Bates
 - 2026-07-17 — Mythic Bastionland #7 — speakers: Mythic Bastionland, Saltmere Reach, Tom Bates
 - 2026-07-10 — Mythic Bastionland #6 — speakers: Tom Bates
 - 2026-07-03 — Mythic Bastionland #5 — speakers: Mythic Bastionland, Saltmere Reach, Tom Bates
@@ -3331,7 +3350,7 @@
 - 2023-09-30 — MÖRK BORG: The Goblin Grinder #4 — speakers: Tom Bates
 - 2023-09-23 — MÖRK BORG: The Goblin Grinder #3 — speakers: Tom Bates
 - 2023-09-16 — MÖRK BORG: The Goblin Grinder #2 — speakers: Tom Bates
-- 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Mystery Quest, Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #2 — speakers: Tom Bates
-- 2023-09-09 — Call of Cthulhu: The Disintegrator #3 — speakers: Tom Bates
+- 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Mystery Quest, Tom Bates
 - 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates
+- 2023-09-09 — Call of Cthulhu: The Disintegrator #3 — speakers: Tom Bates
