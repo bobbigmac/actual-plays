@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-07-20T19:58:37+00:00`
-- checked_at: `2026-07-20T19:58:37+00:00`
-- etag: `"djEuMi4wOjE3ODQ1NjkzNTIyMTc="`
+- fetched_at: `2026-07-24T19:49:50+00:00`
+- checked_at: `2026-07-24T19:49:50+00:00`
+- etag: `"djEuMi4wOjE3ODQ5MTY1MTI3NzQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/show-cover.png",
-  "fetched_at": "2026-07-20T19:58:37+00:00",
+  "fetched_at": "2026-07-24T19:49:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "5143a7f908fe7bf9965fa7a1a033e3564e000adf",
+      "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 14: The First of Many",
+      "published_at": "2026-07-24T17:06:04+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/mage-the-ascension-the-victorian-age-book-3-chapter-14-the-f",
+      "description": "Welcome to book three of Mage the Victorian Age! In this episode, the Doves investigate a murder most foul. Thank you to Bookwyrm Games for sponsoring Dork Tales this month! Use code DORKTALES to save 15% at https://www.bookwyrmgames.com! Orders over $100 also enjoy free shipping! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage *** Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Evelyn Taylor *** Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktalescha... Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! *** Music credits: Tracks from Joel Steudler Heartwarming Magic Adventure Antics Abound Licensed under a Humble Bundle Collection Music From Dark Fantasy Studio Hidden in the Dark Paradox Nightfall These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vision of the Ancients Conspiracy Unravel Forthright Piano These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net We also use licensed music from Audio Hero, Ovani Studios, GameDev Market, and Phat Phrog Studios, including: Charnel Hymn Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! https://www.tabletopaudio.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1784912753529-fbddeed4-395a-4afb-a304-ca1935e77506.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a639b7d8c6152b11f9bbba9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99618063",
+      "itunes_duration": "1:43:46",
+      "speakers": [
+        "Victorian Age",
+        "Many Welcome"
+      ],
+      "topics": [
+        "ascension",
+        "book",
+        "chapter"
+      ]
+    },
     {
       "key": "2b77e0ac4d3f7a479d771446775c51ceb24f132b",
       "title": "ColdIron | Episode 5: Son of a Gun",
@@ -8059,6 +8080,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-24 — Mage the Ascension the Victorian Age | Book 3, Chapter 14: The First of Many — speakers: Victorian Age, Many Welcome
 - 2026-07-20 — ColdIron | Episode 5: Son of a Gun — speakers: Gun Welcome
 - 2026-07-17 — Mage the Ascension the Victorian Age | Book 3, Chapter 13: A Gentle Confinement — speakers: Victorian Age, Gentle Confinement Welcome
 - 2026-07-13 — ColdIron | Episode 4: A Bazaar Painted Red — speakers: Bazaar Painted Red Welcome
