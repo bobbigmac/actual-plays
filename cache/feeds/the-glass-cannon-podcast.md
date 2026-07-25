@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-07-24T08:44:56+00:00`
-- checked_at: `2026-07-24T08:44:56+00:00`
-- last_modified: `Fri, 24 Jul 2026 04:00:00 GMT`
+- fetched_at: `2026-07-25T08:26:07+00:00`
+- checked_at: `2026-07-25T08:26:07+00:00`
+- last_modified: `Sat, 25 Jul 2026 08:00:42 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-24T08:44:56+00:00",
+  "fetched_at": "2026-07-25T08:26:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,11 +26,36 @@
   ],
   "episodes": [
     {
+      "key": "e713baa82233657e8b8a205318d87d7f64b07e21",
+      "title": "Murder Most Foul | Time For Chaos S4 E3 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2026-07-25T04:00:00+00:00",
+      "link": null,
+      "description": "As the investigators leave civilization behind and venture into the unforgiving Australian outback, their first night beneath the stars is interrupted by a haunting encounter. For a limited time, use code \"TFC4\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Get BONUS CONTENT every week at ⁠ ⁠⁠http://jointhenaish.com⁠⁠ ⁠, including Overtime For Chaos, our exclusive Time For Chaos companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Watch the video here: ⁠⁠⁠https://youtu.be/lfTXVj4I2LE Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/39e3be2e-8771-11f1-afec-ebe05b4c5c76/image/9a46764ad95b56bcef2569def1883772.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1665785236.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7736",
+      "speakers": [
+        "Murder Most Foul",
+        "Cthulhu Masks"
+      ],
+      "topics": [
+        "murder",
+        "foul",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
+    {
       "key": "03ead607f5485c48eb5f564462dc6bc457314456",
       "title": "Wizards and Thieves | The Glass Cannon Podcast Shadowdark E36 | Shadowdark RPG",
       "published_at": "2026-07-24T04:00:00+00:00",
       "link": null,
-      "description": "The island tower’s darkest secrets finally come to light. Watch the video here:⁠ ⁠⁠ https://youtu.be/V0yRPeSNOL8 Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ If you're attending Gen Con 2026, then check out everything being offered by Norse Foundry. Pick up an officially licensed Gen Con mystery boulder or Gen Con metal dice as well as participate in Norse Foundry's gaming room—just search Titanskeep on the Gen Con schedule of events. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "The island tower’s darkest secrets finally come to light. Watch the video here:⁠ ⁠⁠ https://youtu.be/V0yRPeSNOL8 Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ If you're attending Gen Con 2026, then check out everything being offered by Norse Foundry. Pick up an officially licensed Gen Con mystery boulder or Gen Con metal dice as well as participate in Norse Foundry's gaming room—just search Titanskeep on the Gen Con schedule of events. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Jared Logan, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/8345f23a-86a9-11f1-b07f-db2ba7dfedb5/image/0b3dae0cddcb3924e6cf00bcb8ddd2b9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8595512853.mp3",
       "enclosure_type": "audio/mpeg",
@@ -21728,29 +21753,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "64dfc247a468dde96f632410fd3587999b70f12a",
-      "title": "The Killing Choke Part II – Choker's Wild | The Glass Cannon Podcast Giantslayer E16 | Pathfinder 1E",
-      "published_at": "2015-09-15T04:01:00+00:00",
-      "link": "http://www.glasscannonpodcast.com/episodes/2015/9/14/episode-16-the-killing-choke-part-ii-chokers-wild",
-      "description": "Lorc and company race to find his adopted son and a long sought after piece of the puzzle comes to light. But first, they must survive a bout with a lung-searing cloud of alchemical smoke and the savage beastmistress within! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/8e85e710-4113-11ee-b12c-c3ccc0d1017c/image/4e61800c9ee0450c25947c3cccc0b3c8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD5110492286.mp3?updated=1707328790",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4587",
-      "speakers": [],
-      "topics": [
-        "killing",
-        "choke",
-        "choker",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21759,6 +21761,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-25 — Murder Most Foul | Time For Chaos S4 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Murder Most Foul, Cthulhu Masks
 - 2026-07-24 — Wizards and Thieves | The Glass Cannon Podcast Shadowdark E36 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-07-22 — There Are Lots of Ways to Die Now | We Shouldn't Be Alive E7 | Twilight: 2000 — speakers: Die Now
 - 2026-07-20 — GCN News Minute July 20, 2026 — speakers: Gen Con
@@ -22758,4 +22761,3 @@
 - 2015-10-06 — Fortune Favors the Boulder | The Glass Cannon Podcast Giantslayer E19 | Pathfinder 1E — speakers: Fortune Favors
 - 2015-09-29 — Frum Here, Too Infirm Is He | The Glass Cannon Podcast Giantslayer E18 | Pathfinder 1E
 - 2015-09-22 — J'son Rise, J'son Set | The Glass Cannon Podcast Giantslayer E17 | Pathfinder 1E — speakers: J'son Rise, J'son Set
-- 2015-09-15 — The Killing Choke Part II – Choker's Wild | The Glass Cannon Podcast Giantslayer E16 | Pathfinder 1E
