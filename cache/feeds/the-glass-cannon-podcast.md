@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-07-26T22:15:13+00:00`
-- checked_at: `2026-07-26T22:15:13+00:00`
-- last_modified: `Sun, 26 Jul 2026 20:59:54 GMT`
+- fetched_at: `2026-07-27T04:06:21+00:00`
+- checked_at: `2026-07-27T04:06:21+00:00`
+- last_modified: `Mon, 27 Jul 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-26T22:15:13+00:00",
+  "fetched_at": "2026-07-27T04:06:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "a6974341b61af5e953b75ec2436232af66c41569",
+      "title": "Razor Stones | Blood of the Wild S1 E32 | Pathfinder 2E Quest for the Frozen Flame",
+      "published_at": "2026-07-27T04:00:00+00:00",
+      "link": null,
+      "description": "The Tip of the Spear rescues a treasure from a hideous humanoid. Access every available episode of Blood of the Wild along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f5864f86-808a-11f1-b2ea-1329591bea58/image/f6a9c4938e7166216c2b3c61e94dabb3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP5303319215.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4113",
+      "speakers": [
+        "Razor Stones"
+      ],
+      "topics": [
+        "razor",
+        "stones",
+        "blood",
+        "wild",
+        "pathfinder",
+        "quest",
+        "frozen",
+        "flame"
+      ]
+    },
     {
       "key": "e713baa82233657e8b8a205318d87d7f64b07e21",
       "title": "Murder Most Foul | Time For Chaos S4 E3 | Call of Cthulhu Masks of Nyarlathotep",
@@ -21729,30 +21754,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "7f2ab3165f42f583e194e89ee918f0937dd8a92a",
-      "title": "J'son Rise, J'son Set | The Glass Cannon Podcast Giantslayer E17 | Pathfinder 1E",
-      "published_at": "2015-09-22T04:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/9391435/episode-17-json-rise-json-set/",
-      "description": "As the heroes mourn a devastating loss, revenge opens the door to a bloodbath. Meanwhile, a chance encounter with a cryptic stranger brings disturbing news from the front, and an old friend returns just in the nick of time! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD5664887839.mp3?updated=1707328797",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4339",
-      "speakers": [
-        "J'son Rise",
-        "J'son Set"
-      ],
-      "topics": [
-        "rise",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21761,6 +21762,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-27 — Razor Stones | Blood of the Wild S1 E32 | Pathfinder 2E Quest for the Frozen Flame — speakers: Razor Stones
 - 2026-07-25 — Murder Most Foul | Time For Chaos S4 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Murder Most Foul, Cthulhu Masks
 - 2026-07-24 — Wizards and Thieves | The Glass Cannon Podcast Shadowdark E36 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-07-22 — There Are Lots of Ways to Die Now | We Shouldn't Be Alive E7 | Twilight: 2000 — speakers: Die Now
@@ -22760,4 +22762,3 @@
 - 2015-10-13 — We're Off to Feed the Lizard | The Glass Cannon Podcast Giantslayer E20 | Pathfinder 1E
 - 2015-10-06 — Fortune Favors the Boulder | The Glass Cannon Podcast Giantslayer E19 | Pathfinder 1E — speakers: Fortune Favors
 - 2015-09-29 — Frum Here, Too Infirm Is He | The Glass Cannon Podcast Giantslayer E18 | Pathfinder 1E
-- 2015-09-22 — J'son Rise, J'son Set | The Glass Cannon Podcast Giantslayer E17 | Pathfinder 1E — speakers: J'son Rise, J'son Set

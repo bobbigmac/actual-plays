@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-07-25T19:37:07+00:00`
-- checked_at: `2026-07-25T19:37:07+00:00`
-- etag: `"8ef01aaeceb97a6b245c8997f9c1a9e6"`
-- last_modified: `Sat, 25 Jul 2026 17:10:05 GMT`
+- fetched_at: `2026-07-27T04:06:21+00:00`
+- checked_at: `2026-07-27T04:06:21+00:00`
+- etag: `"9aced69c9e939d6adf821cdbe2dcce9a"`
+- last_modified: `Sun, 26 Jul 2026 23:38:20 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! Twitter / Facebook / Instagram: @forcemajeurepod Website: www.forcemajurepod.com",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-07-25T19:37:07+00:00",
+  "fetched_at": "2026-07-27T04:06:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "45239f56a831182349ce752d7fad4435c9bdde3d",
+      "title": "A Shot At Redemption E13 - Tryk or Treat",
+      "published_at": "2026-07-26T23:30:00+00:00",
+      "link": "https://forcemajeurepod.libsyn.com/a-shot-at-redemption-e13-tryk-or-treat",
+      "description": "While Kip has a worrying chat, and Kalro and Jax go to get ready to speak to the Mayor, our favourite Monkey-Lizard gets chance to poke about unsupervised. Nothing can possibly go wrong! Cast! Adam Beltaine is your GM, and can be found on Bluesky as @maddambeltaine.bsky.social Lou plays Tryk C Rangavoon, and can be found on Bluesky at @magpiehound.bsky.social Mikey plays Jax Vorn, and can be found on Bluesky at @weaselpunk.bsky.social Tom plays Kip Kazian and can be found on Bluesky at @tcpatrick.bsky.social as well as GMing the wonderful Dice Company podcast Geoff plays Kalro Vatts, and sensibly has no social media presence Follow us on social media! All our links can now be found here: linktr.ee/albertthellama Support Albert the Llama Enterprises! If you like what we do and have some spare money, we have both a Patreon and a Ko-Fi account. We are extremely grateful for your support. https://www.patreon.com/forcemajeurepod ko-fi.com/forcemajeurepod Intro and Supplemental Music: Composed by Sly Fox Audio - check out more of her stuff on soundcloud.com/slyfoxaudio Additional Music: \"Frontier Town (music only Patreon exclusive)\" \"Generation Ship\" both by Tabletop Audio \"Apocalypse Blues\" \"Peek-aboo\" both by Alexander Nakerada (creatorchords.com) \"Mysterious String Quartet\" by Silverman Sounds All used with gratitude under the Creative Commons licence",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/forcemajeurepod/Redemption_E13.mp3?dest-id=604132",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56078485",
+      "itunes_duration": "44:22",
+      "speakers": [],
+      "topics": [
+        "shot",
+        "redemption",
+        "tryk",
+        "treat"
+      ]
+    },
     {
       "key": "5a16e3675020e8730a864662974735c546450da8",
       "title": "A Shot At Redemption E12 - The Sinner",
@@ -4510,6 +4529,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-26 — A Shot At Redemption E13 - Tryk or Treat
 - 2026-07-13 — A Shot At Redemption E12 - The Sinner — speakers: Adam Beltaine
 - 2026-06-29 — A Shot At Redemption E11 - The Jallo Farmstead
 - 2026-06-15 — A Shot At Redemption E10 - Three Weeks Later — speakers: Three Weeks Later Time
