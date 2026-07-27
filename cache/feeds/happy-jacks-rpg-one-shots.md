@@ -3,12 +3,13 @@
 - slug: `happy-jacks-rpg-one-shots`
 - source: `https://www.happyjacks.org/feed/oneshots/`
 - fetched_at: `2026-07-25T22:12:22+00:00`
-- checked_at: `2026-07-26T22:15:13+00:00`
+- checked_at: `2026-07-27T10:11:20+00:00`
 - etag: `"18d2d8abb55724734e9b60342c30391a"`
 - last_modified: `Sat, 25 Jul 2026 21:50:14 GMT`
 - max_episodes_per_feed: `1000`
-- status: `error`
+- status: `disabled`
 - last_error: `HTTP 500` — Internal Server Error
+- disabled_reason: 3 consecutive failures
 
 <!-- FEED_JSON -->
 ```json
@@ -1833,13 +1834,16 @@
   ],
   "fetch": {
     "error_since": "2026-07-26T22:15:13+00:00",
-    "status": "error",
-    "checked_at": "2026-07-26T22:15:13+00:00",
-    "consecutive_failures": 1,
+    "status": "disabled",
+    "checked_at": "2026-07-27T10:11:20+00:00",
+    "consecutive_failures": 3,
     "error": {
       "status": 500,
       "message": "Internal Server Error"
-    }
+    },
+    "disabled": true,
+    "disabled_at": "2026-07-27T10:11:20+00:00",
+    "disabled_reason": "3 consecutive failures"
   }
 }
 ```

@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-07-24T08:44:56+00:00`
-- checked_at: `2026-07-24T08:44:56+00:00`
-- etag: `"36d1261130f998f06067810dc7d8a07c"`
-- last_modified: `Fri, 24 Jul 2026 04:46:51 GMT`
+- fetched_at: `2026-07-27T10:11:20+00:00`
+- checked_at: `2026-07-27T10:11:20+00:00`
+- etag: `"63928808e1a3b06ba9989bc78a9f53db"`
+- last_modified: `Mon, 27 Jul 2026 07:23:32 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-07-24T08:44:56+00:00",
+  "fetched_at": "2026-07-27T10:11:20+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ee41c2f871f82e04a3efded1e59e4bb49b767ec7",
+      "title": "Perpetua 45: Escape the Rumbling Castle! 05",
+      "published_at": "2026-07-27T07:22:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-45-escape-the-rumbling-castle-05",
+      "description": "Conflict and complication at the edge of Eschatonica! In the Creed of Oracles' fortress courtyard, Antistrophe, Nicky, and Jonathan find out just how far the protocols of war go. And for those on the other side of the vast castle, progress will come only with mastery of another world's language and ritual… This week on Perpetua: Escape the Rumbling Castle! 05 Perpetua Guide [In Progress v.06] Spoiler-free Ten Hint Puzzle Guide This new section is inspired by the community addendum that xXzelgadyskXx did for the Alteros masquerade puzzle. As always, I want to try to preserve some sense of mystery for people using this guide, so I'll give a series of ten progressively more direct hints, but won't ever give the direct solution. Springsong Mural Puzzle The large mural depicting Sprinsong's legendary Heroes of the Spark is more than meets the eye. Just be careful, because if you make too many wrong moves, the ostrich-like automatons will activate and defend the secrets here! Hint 1 There's more to the mural than meets the eye. Look closely at the symbols AND the middle… Hint 2 Some of the floor tiles in this room look different than the others. Hint 3 Remember how you dealt with the flowers in the previous room? 'Springsong' is more than just a name. Hint 4 Springsong and Perpetua have different, but corresponding elements. You have to map them one to one if you want to crack this puzzle. Don't look at the next clue if you want to figure this one out yourself! Hint 5 Symbol Springsong Element Perpetua Element 3 Curved Sideways S's Breeze Air Downward Zigzags Spark Bolt Crescent Night Dark Triangle Mountain Earth Open Square Hearth Fire Teardrop Spring Ice Open Circle Sun Light Quatrefoil (Clover) Nature Poison Hint 6 In the story hidden in the Flower Room, you can learn that while the evil sorcerer of Springsong used all the elements (except Spark/Bolt) to harm the world, he took complete control of Spring (Ice), Night (Dark), and Nature (Poison). Hint 7 You'll have to use the magic of the remaining elements (Air, Bolt, Earth, Fire, Light) to complete this puzzle. Remember that in Springsong, you must perform in order to use magic! Hint 8 Don't just look at the Mural, use the \"Study\" action on the heroes depicted there. What can you learn from their names? Hint 9 By combining the elements together you can create different letter runes. Pay attention to the combinatory effect! By the way, the letter Z doesn't seem to exist in Springsong. Hint 10 The heroes of Springsong must be very naive if this is the password to their secret vault... Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), Janine Hawkins ( @bleatingheart ), Sylvi Bullet ( @sylvibullet ), Keith J Carberry ( @keithjcarberry ) and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_45_Escape_the_Rumbling_Castle_05.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117819656",
+      "itunes_duration": "01:40:44",
+      "speakers": [
+        "Rumbling Castle",
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "rumbling",
+        "castle"
+      ]
+    },
     {
       "key": "0f054ee678b349d547a70e3317d6af717693beda",
       "title": "Perpetua 44: Escape the Rumbling Castle! 04",
@@ -11565,6 +11586,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-27 — Perpetua 45: Escape the Rumbling Castle! 05 — speakers: Rumbling Castle, Austin Walker
 - 2026-07-04 — Perpetua 44: Escape the Rumbling Castle! 04 — speakers: Rumbling Castle, Little Snail, Austin Walker
 - 2026-06-25 — Marielda 10th Anniversary Soundtrack Vinyl Available to Pre-Order Now! — speakers: Uklan Tel, Austin Walker
 - 2026-06-19 — Perpetua 43: Escape the Rumbling Castle! 03 — speakers: Austin Walker
