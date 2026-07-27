@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-07-24T19:49:50+00:00`
-- checked_at: `2026-07-24T19:49:50+00:00`
-- etag: `"djEuMi4wOjE3ODQ5MTY1MTI3NzQ="`
+- fetched_at: `2026-07-27T17:13:56+00:00`
+- checked_at: `2026-07-27T17:13:56+00:00`
+- etag: `"djEuMi4wOjE3ODUxNjQ0Mzk1MTY="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/show-cover.png",
-  "fetched_at": "2026-07-24T19:49:50+00:00",
+  "fetched_at": "2026-07-27T17:13:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "f70dab301e95569e8984cb09b25686cfba2f83d1",
+      "title": "ColdIron | Episode 6: Garters & Gunplay",
+      "published_at": "2026-07-27T15:00:00+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/coldiron-episode-6-garters-gunplay",
+      "description": "Welcome to our ColdIron: our new homebrew campaign! In this episode, the party finds Tali and confronts Sable. Kelly Clark as Dungeon Master Cast Amy Godfrey as Carrion Slaughterhouse Robin Holford as Trixxi Blastemoff Katrina McGie as Taliina'a Christine Rattray as Bell St. Claire Caitlan Vinkle as ZOE === Music credits: Tim Kulig kindly composed the following tracks for this campaign: Tumbleweeds Campaign Outro Find him at https://www.timkulig.com Licensed under Creative Commons: By Attribution 4.0 creativecommons.org/licenses/by/4.0/ IMDB: https://www.imdb.com/name/nm0997280/?... The following licensed tracks by Monument Studios were used: High Noon Outlander Harps Dark Hybrid Ambience Nocturne Town on Fire Tense Atmos Horror Action Scene Setter https://www.monumentstudios.net Arcane Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/ It also includes the following music from Joel Steudler licensed through a Humble Music collection: Heavily Armed The following licensed music from Ovani Sound and Game Dev Marketplace were used: Nordic Breakbones Enemy Territory Ominous Remember Remember Additional Licensed tracks by Ovani Sound and Phat Phrog Studio may also used. For background ambience we used sounds from Tabletop Audio. Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life. https://www.tabletopaudio.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1784913082992-2982547c-8398-48fb-b683-6a2a03484d75.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a63a953d198963142914475/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "130213929",
+      "itunes_duration": "2:15:38",
+      "speakers": [],
+      "topics": [
+        "coldiron",
+        "garters",
+        "gunplay"
+      ]
+    },
     {
       "key": "5143a7f908fe7bf9965fa7a1a033e3564e000adf",
       "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 14: The First of Many",
@@ -8080,6 +8098,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-27 — ColdIron | Episode 6: Garters & Gunplay
 - 2026-07-24 — Mage the Ascension the Victorian Age | Book 3, Chapter 14: The First of Many — speakers: Victorian Age, Many Welcome
 - 2026-07-20 — ColdIron | Episode 5: Son of a Gun — speakers: Gun Welcome
 - 2026-07-17 — Mage the Ascension the Victorian Age | Book 3, Chapter 13: A Gentle Confinement — speakers: Victorian Age, Gentle Confinement Welcome
