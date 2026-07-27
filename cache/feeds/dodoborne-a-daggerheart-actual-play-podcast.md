@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-07-27T04:06:21+00:00`
-- checked_at: `2026-07-27T04:06:21+00:00`
-- etag: `W/"e3654da4933534cb0124c84e28777fdd"`
-- last_modified: `Mon, 27 Jul 2026 03:42:05 GMT`
+- fetched_at: `2026-07-27T15:17:07+00:00`
+- checked_at: `2026-07-27T15:17:07+00:00`
+- etag: `W/"8725d1e7414c93670ff7d657eaade462"`
+- last_modified: `Mon, 27 Jul 2026 12:49:12 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://dodoborne.transistor.fm/",
   "description": "DodoBorne is an improvised comedy storytelling podcast where five friends dive into Daggerheart, the tabletop roleplaying game from Darrington Press. Whether you're looking for adventure, romance, mystery, or nonsense, DodoBorne offers a welcoming mix of humor, heart, and collaborative storytelling that we hope will keep you coming back for more. With Season 3 serving as a fresh starting point for new viewers, there's never been a better time to join the flock! New episodes air every other Monday.",
   "image_url": "https://img.transistorcdn.com/8gaSb-T8iGE_guMXbKf58wsPBhrF7Cw7aXpzwEf7pAM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMjY0/MDdmZTkzNWEyMWNh/YzFlNmM0ZTVmY2I2/ODE4My5wbmc.jpg",
-  "fetched_at": "2026-07-27T04:06:21+00:00",
+  "fetched_at": "2026-07-27T15:17:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -52,7 +52,7 @@
       "published_at": "2026-06-29T23:00:00+00:00",
       "link": "https://share.transistor.fm/s/023d76b7",
       "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ A shadow in the alley. An old friend (acquaintance?) in the streets. What a bustling market! Our dodos take a light stroll down the lane for sweets and treats and try desperately to ignore the growing tension in the air. Will it simply go away? Or will it snap! Find out now! This episode is sponsored by Heart of Daggers! Heart of Daggers gives Daggerheart players and GMs a full online toolkit for free, including the character creator, encounter manager, adventure builder, campaign manager, homebrew vault, and more! Check it out at HeartofDaggers.com Join the Flock on our Patreon for episode talk backs, GM insights, deleted scenes, and more! Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. System: Daggerheart Genre: Fantasy Actual Play New episodes every other Monday Learn more at Dodoborne.com Character sheets and user interface in Dodoborne powered by Demiplane.com Music in this episode created by: Daniel Bukin Isaac Allen Burns Rowan Collins Listen to the music from this episode and other Dodotunes HERE ! ★ Support this podcast on Patreon ★",
-      "image_url": "https://img.transistorcdn.com/_1Q553k-9ZTnaq6A4o3rpM5TAHykAIBRbygsOv8ysAw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85Nzc2/NzE1ZjU0M2E2YzYy/NjY2MDkxZDIwOGVk/M2ZlYS5wbmc.jpg",
+      "image_url": "https://img.transistorcdn.com/ST8BUefHD32Nx9OvMWTFoJeA8xS6C6DTQY3RTsTYkoA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kZWU5/NmUyZDQxNWE2ODQ0/N2YzYmVmMTg5MGQ3/YmQ0ZS5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/023d76b7/9459181a.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37830352",
@@ -71,7 +71,7 @@
       "published_at": "2026-06-17T01:00:00+00:00",
       "link": "https://share.transistor.fm/s/5769de05",
       "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Join our Patreon for episode talk backs, GM insights, deleted scenes, and more! Well hello there again friends and otherwise! We’ve returned to our story about a few small-town heroes venturing into the great big world of Althea. With a new team and a fresh start, our dodos are ready to tackle the day. But little do they know the day is ready to tackle them back! Find out what awaits our dodos (old and new) in this thrilling premiere! This episode is sponsored by our friends at Demiplane. Check out their digital tools for Daggerheart and other tabletop RPGs at Demiplane.com Follow us on Bluesky , Instagram , or join our Discord for more Dodoborne! Music in this episode created by: Daniel Bukin Isaac Allen Burns Raine B Listen to the music from this episode and other Dodotunes HERE \"Daggerheart (Main Theme Soundtrack)\" by Taylor Ash & Lindsay Dills Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. Learn more at Dodoborne.com ★ Support this podcast on Patreon ★",
-      "image_url": null,
+      "image_url": "https://img.transistorcdn.com/C3ejvToY8T_ikMZWiNMa_L7cGoHuAYmK2tN0oL9P8Nw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MWVm/YjJmMzliMjMwZTRi/NTRmMjM1YWY0OTMy/NTczYS5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/5769de05/d96a69e5.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44492413",

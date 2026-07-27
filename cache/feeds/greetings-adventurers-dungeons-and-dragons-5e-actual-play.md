@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-07-20T16:45:35+00:00`
-- checked_at: `2026-07-20T16:45:35+00:00`
-- etag: `"djEuMi4wOjE3ODQ1NTk2MzkzOTc="`
+- fetched_at: `2026-07-27T15:17:07+00:00`
+- checked_at: `2026-07-27T15:17:07+00:00`
+- etag: `"djEuMi4wOjE3ODUxNjQ0Mzk1MTQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-07-20T16:45:35+00:00",
+  "fetched_at": "2026-07-27T15:17:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "ac39c350cf619b6f6b05a19996f5e3a7ed1dd2d8",
+      "title": "Campaign 2: Episode 192 - Super Spike Assault Part 1",
+      "published_at": "2026-07-27T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-192-super-spike-assault-part-12",
+      "description": "All of us are in place and ready to take down the Spike in the Red Lantern District! Hopefully the dreaded OT don't hide any more surprises and we can aid other resistance members after our job is done. We also don't really know how these jokers work so inherently everything will be a surprise, which is fun. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by Killurmonkey Art ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1785155147615-4a4f7ecd-2140-4c35-8235-34f52d8ed734.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a674f3370e4dee289bde762/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104132811",
+      "itunes_duration": "1:12:18",
+      "speakers": [
+        "Red Lantern District"
+      ],
+      "topics": [
+        "campaign",
+        "super",
+        "spike",
+        "assault"
+      ]
+    },
     {
       "key": "84718b1176c499d7fe6a1f33d474b49da03727b3",
       "title": "Campaign 2: Episode 191 - A Sausage Like My Father's",
@@ -12497,6 +12518,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-27 — Campaign 2: Episode 192 - Super Spike Assault Part 1 — speakers: Red Lantern District
 - 2026-07-20 — Campaign 2: Episode 191 - A Sausage Like My Father's
 - 2026-07-13 — Campaign 2: Episode 190 - We Need to Talk About the Oriole — speakers: Talk About
 - 2026-07-06 — Campaign 2: Bonus Episode - Terror Island! Part 2 — speakers: Terror Island, Geekly Inc, Hour Chari
