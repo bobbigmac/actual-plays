@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-07-21T19:54:48+00:00`
-- checked_at: `2026-07-21T19:54:48+00:00`
-- etag: `"djEuMi4wOjE3ODQ2NjA0MzkzODg="`
+- fetched_at: `2026-07-28T19:55:13+00:00`
+- checked_at: `2026-07-28T19:55:13+00:00`
+- etag: `"djEuMi4wOjE3ODUyNjUyMzk0NDg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-07-21T19:54:48+00:00",
+  "fetched_at": "2026-07-28T19:55:13+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "fb23f953ca4bbf0bc06fc1eef95912358a677467",
+      "title": "Action Surge Episode 59",
+      "published_at": "2026-07-28T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-59",
+      "description": "Well...we've had to turn to drinking. Or, in Ben's case, a full sugar Red Bull and two paracetamol. We kick things off by talking about the combat, and why both Ben and Raidion were convinced we'd finally found the dragons we'd been searching for. They hadn't, obviously, but in Ben's defence, we were told the White Stag would lead us to dragons...and there they were! Then we get on to that moment. It was a reunion none of us were expecting, and even Doug wasn't entirely sure what he was seeing. We talk about the life they might have experienced, the challenges they faced, and what it means when, all of a sudden, Kelnys turns up. A happy reunion? Well...that probably depends on how you look at it. Then we dive into the theories of it all! What does this world actually mean? How can it even exist? How is everything connected? We don't get many answers, only more questions, which seems to be becoming a running theme. ...and the best part? All of this only exists because, a few episodes ago, Doug made something up at the table. Funny how these things work out, isn't it?-- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a5ddde5e3a16a6488a38d56/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127059980",
+      "itunes_duration": "52:55",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "afd0d7b07c3d75ac01e758e420598100c423163a",
       "title": "Ep. 59 The Dragon Rider",
@@ -3109,6 +3133,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-28 — Action Surge Episode 59 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-07-21 — Ep. 59 The Dragon Rider — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-07-14 — Action Surge Episode 58 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-07-07 — Ep. 58 The White Stag — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
