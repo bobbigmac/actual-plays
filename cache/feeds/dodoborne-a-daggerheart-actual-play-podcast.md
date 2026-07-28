@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-07-27T22:29:25+00:00`
-- checked_at: `2026-07-27T22:29:25+00:00`
-- etag: `W/"e58c71e051a191ee4337b94dd03a253b"`
-- last_modified: `Mon, 27 Jul 2026 20:47:25 GMT`
+- fetched_at: `2026-07-28T03:40:53+00:00`
+- checked_at: `2026-07-28T03:40:53+00:00`
+- etag: `W/"ae6aa7987bd51ecf041b679b5bbc290e"`
+- last_modified: `Mon, 27 Jul 2026 23:55:07 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://dodoborne.transistor.fm/",
   "description": "DodoBorne is an improvised comedy storytelling podcast where five friends dive into Daggerheart, the tabletop roleplaying game from Darrington Press. Whether you're looking for adventure, romance, mystery, or nonsense, DodoBorne offers a welcoming mix of humor, heart, and collaborative storytelling that we hope will keep you coming back for more. With Season 3 serving as a fresh starting point for new viewers, there's never been a better time to join the flock! New episodes air every other Monday.",
   "image_url": "https://img.transistorcdn.com/8gaSb-T8iGE_guMXbKf58wsPBhrF7Cw7aXpzwEf7pAM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMjY0/MDdmZTkzNWEyMWNh/YzFlNmM0ZTVmY2I2/ODE4My5wbmc.jpg",
-  "fetched_at": "2026-07-27T22:29:25+00:00",
+  "fetched_at": "2026-07-28T03:40:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,25 @@
     "ttrpg/daggerheart"
   ],
   "episodes": [
+    {
+      "key": "3719cd089f833b423cedbdfd5c6cd59c13beb048",
+      "title": "3.4 Cove of Compulsion",
+      "published_at": "2026-07-27T23:05:00+00:00",
+      "link": "https://share.transistor.fm/s/cec0f8b0",
+      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Deep in a riverside cove, our dodos find themselves entranced with beautiful song. Little do they know, while they are charmed by beautiful visions from the depths of their psyche, terrible beasties from the deep threaten to swallow them whole! Will our heroes be able to stave off the alluring music? Will their Odyssey be sent off course by the sirens that await them? Will the GM survive all the crits? Find out now! Join the Flock on our Patreon for episode talk backs, GM insights, deleted scenes, and more! Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. System: Daggerheart Genre: Fantasy Actual Play New episodes every other Monday Learn more at Dodoborne.com Character sheets and user interface in Dodoborne powered by Demiplane.com Music in this episode created by: Daniel Bukin Raine B The Beekeeper Listen to the music from this episode and other Dodotunes HERE ! ★ Support this podcast on Patreon ★",
+      "image_url": "https://img.transistorcdn.com/sGa9uzuZLqSnAb3bbwl8CFGYWl_xKoepcaGlJfmhZ_Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNzNj/YzQ5ZmIwYzA1OGMx/ZTQxM2JiMWZlM2Vi/MWIzNS5wbmc.jpg",
+      "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/cec0f8b0/ee80b8d4.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46518373",
+      "itunes_duration": "2902",
+      "speakers": [
+        "Compulsion Season"
+      ],
+      "topics": [
+        "cove",
+        "compulsion"
+      ]
+    },
     {
       "key": "24769ddc472693b1eaafc2366882efb304d61bb5",
       "title": "3.3 Coerced Compliance",
@@ -978,6 +997,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-27 — 3.4 Cove of Compulsion — speakers: Compulsion Season
 - 2026-07-13 — 3.3 Coerced Compliance — speakers: Coerced Compliance Season
 - 2026-06-29 — 3.2 Couple of Milkshakes — speakers: Milkshakes Season
 - 2026-06-17 — 3.1 Cut To!
