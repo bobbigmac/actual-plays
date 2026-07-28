@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-07-21T14:26:27+00:00`
-- checked_at: `2026-07-21T14:26:27+00:00`
-- etag: `"90685bce77bb6a8a4fa723662ffc26ee"`
-- last_modified: `Tue, 21 Jul 2026 13:01:28 GMT`
+- fetched_at: `2026-07-28T14:42:08+00:00`
+- checked_at: `2026-07-28T14:42:08+00:00`
+- etag: `"eb8d846c3024ae82eea4b851d78b18f1"`
+- last_modified: `Tue, 28 Jul 2026 13:00:29 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-07-21T14:26:27+00:00",
+  "fetched_at": "2026-07-28T14:42:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "0372f129ab2a79cbd1226dd624b5924775f3af25",
+      "title": "Ep2 | Delta Green: Convergence - Shattered Worlds",
+      "published_at": "2026-07-28T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/3010408",
+      "description": "As the investigation begins, it becomes clear that the human impact of this case is alive and well in those around Billie Ray. ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/3010408/green-box-gaming/2026_07_21_17_32_19_b6731285-3578-4ad0-b3c7-3ff21bf4b1b7.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73127391",
+      "itunes_duration": "4570",
+      "speakers": [
+        "Delta Green"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "convergence",
+        "shattered",
+        "worlds"
+      ]
+    },
     {
       "key": "7aa0da13a8dc2a33c6f23ea9ea93702da684e6c6",
       "title": "Ep1 | Delta Green: Convergence - Just a Boy...",
@@ -4177,6 +4199,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-28 — Ep2 | Delta Green: Convergence - Shattered Worlds — speakers: Delta Green
 - 2026-07-21 — Ep1 | Delta Green: Convergence - Just a Boy...
 - 2026-07-14 — Ep17 | Delta Green: Puppet Shows and Shadow Plays - End with a Bang — speakers: Shadow Plays game
 - 2026-07-06 — Ep16 | Delta Green: Puppet Shows and Shadow Plays - Bringing the Fight
