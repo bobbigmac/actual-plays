@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-07-14T16:40:12+00:00`
-- checked_at: `2026-07-14T16:40:12+00:00`
-- etag: `"djEuMi4wOjE3ODQwNDQ4Mzk1NTk="`
+- fetched_at: `2026-07-28T16:52:41+00:00`
+- checked_at: `2026-07-28T16:52:41+00:00`
+- etag: `"djEuMi4wOjE3ODUyNTQ0Mzk0NDc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-07-14T16:40:12+00:00",
+  "fetched_at": "2026-07-28T16:52:41+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -32,6 +32,28 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "b988eebfc45018801a97ac4f0e60cd3cc493c71c",
+      "title": "S4 Ep. 13 - For Al Mankind",
+      "published_at": "2026-07-28T16:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "socrates ethos logos what is other one called This episode contains Profanity, Violence, and Sexual Content. 🚨🚨 Our sourcebook crowdfund campaign is LIVE now through August 14th! 🚨🚨 Go to bookmedaddy.com to pledge and get your hands on a sourcebook and many other cool pledge perks. Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1785202042027-4f1f94f4-0432-4338-82ee-a0e2834a06e6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/6a68080835a551238aa46f9a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100433413",
+      "itunes_duration": "1:09:14",
+      "speakers": [
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "mankind"
+      ]
+    },
     {
       "key": "993e673496c072cf668adf3f61305afadfd2848a",
       "title": "S4 Ep. 12 - Daddlestar Grandpaptica",
@@ -4794,6 +4816,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-28 — S4 Ep. 13 - For Al Mankind — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-07-14 — S4 Ep. 12 - Daddlestar Grandpaptica — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-06-30 — S4 Ep. 11 - A Song of Fire and Ice — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-06-16 — S4 Ep. 10 - The Handalorian and BroGoo — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos

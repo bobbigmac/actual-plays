@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-07-28T14:42:08+00:00`
-- checked_at: `2026-07-28T14:42:08+00:00`
-- last_modified: `Tue, 28 Jul 2026 14:20:37 GMT`
+- fetched_at: `2026-07-28T16:52:41+00:00`
+- checked_at: `2026-07-28T16:52:41+00:00`
+- last_modified: `Tue, 28 Jul 2026 16:03:27 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/8e75fc9d6dbbc2142cca11c14acfdea1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-28T14:42:08+00:00",
+  "fetched_at": "2026-07-28T16:52:41+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "9cebb36658b966daa25868069585957ec06820dc",
+      "title": "659. Band-Aids & Bullet Holes⁠, Episode 1",
+      "published_at": "2026-07-28T14:53:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY This John Wick-inspired deck builder has players switching roles and escalating the chaos with simple, fast-paced mechanics. Come listen to a bunch of folks from around the Many Sided Media network play this chaotic roleplaying game! SHOW NOTES Band-Aids & Bullet Holes One Shot News & Updates One Shot Patreon One Shot TWITCH VOTE FOR ONE SHOT: LAST TRAIN TO BREMEN (Best Streaming Content) Follow the cast here! Dillin Apelyan Sam Dunnewold Brian Flaherty Kenzie Tartaglione Kendo Smith ----------------------------------------------------- Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN2096353299.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3455",
+      "speakers": [
+        "John Wick-inspired",
+        "James D'Amato"
+      ],
+      "topics": [
+        "band",
+        "aids",
+        "bullet"
+      ]
+    },
     {
       "key": "ec68dcd85e7ea243aa1667671433d3c9ec4cd3d7",
       "title": "658. Rom Com Drama Bomb⁠, Episode 2",
@@ -13451,6 +13472,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-28 — 659. Band-Aids & Bullet Holes⁠, Episode 1 — speakers: John Wick-inspired, James D'Amato
 - 2026-07-20 — 658. Rom Com Drama Bomb⁠, Episode 2 — speakers: James D'Amato
 - 2026-07-13 — 657. Rom Com Drama Bomb⁠, Episode 1 — speakers: Rom Com Drama Bomb, James D'Amato
 - 2026-07-06 — 656. Force of Extinction, Episode 3 — speakers: New York, Rat King, James D'Amato
