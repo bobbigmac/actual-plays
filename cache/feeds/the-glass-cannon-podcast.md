@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-07-27T04:06:21+00:00`
-- checked_at: `2026-07-27T04:06:21+00:00`
-- last_modified: `Mon, 27 Jul 2026 04:00:00 GMT`
+- fetched_at: `2026-07-28T09:08:18+00:00`
+- checked_at: `2026-07-28T09:08:18+00:00`
+- last_modified: `Tue, 28 Jul 2026 08:50:50 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-27T04:06:21+00:00",
+  "fetched_at": "2026-07-28T09:08:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "993a7bbb8dcca346e47eb1c917272eef15ab597f",
+      "title": "GCN News Minute July 27, 2026",
+      "published_at": "2026-07-27T15:00:00+00:00",
+      "link": null,
+      "description": "It's Gen Con week, which means a ton of content for you—whether you're attending in person or not! If you're attending in person, then head here to get tickets to our many, many events: https://www.glasscannonnetwork.com/gencon Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/03b7023e-89c4-11f1-bd8d-27de433620ba/image/9ef0a0596145f05100196c1adc2e8b75.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2327238368.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "332",
+      "speakers": [
+        "Gen Con"
+      ],
+      "topics": [
+        "news",
+        "minute",
+        "july"
+      ]
+    },
     {
       "key": "a6974341b61af5e953b75ec2436232af66c41569",
       "title": "Razor Stones | Blood of the Wild S1 E32 | Pathfinder 2E Quest for the Frozen Flame",
@@ -21732,28 +21752,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "a2c40c6d24fde1dfa3e2965a3248ea3e2805f266",
-      "title": "Frum Here, Too Infirm Is He | The Glass Cannon Podcast Giantslayer E18 | Pathfinder 1E",
-      "published_at": "2015-09-29T04:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/9391436/episode-18-frum-here-too-infirm-is-he/",
-      "description": "The companions find their spirits bolstered by the return of perpetually pickled Patrol Sergeant Omast Frum. But they'll need all the help they can get against wave after wave of bloodthirsty orcs storming the city gates of Trunau! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD8307616497.mp3?updated=1707328804",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4525",
-      "speakers": [],
-      "topics": [
-        "frum",
-        "infirm",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21762,6 +21760,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-27 — GCN News Minute July 27, 2026 — speakers: Gen Con
 - 2026-07-27 — Razor Stones | Blood of the Wild S1 E32 | Pathfinder 2E Quest for the Frozen Flame — speakers: Razor Stones
 - 2026-07-25 — Murder Most Foul | Time For Chaos S4 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Murder Most Foul, Cthulhu Masks
 - 2026-07-24 — Wizards and Thieves | The Glass Cannon Podcast Shadowdark E36 | Shadowdark RPG — speakers: Shadowdark Rpg
@@ -22761,4 +22760,3 @@
 - 2015-10-20 — Lorc Out Below | The Glass Cannon Podcast Giantslayer E21 | Pathfinder 1E
 - 2015-10-13 — We're Off to Feed the Lizard | The Glass Cannon Podcast Giantslayer E20 | Pathfinder 1E
 - 2015-10-06 — Fortune Favors the Boulder | The Glass Cannon Podcast Giantslayer E19 | Pathfinder 1E — speakers: Fortune Favors
-- 2015-09-29 — Frum Here, Too Infirm Is He | The Glass Cannon Podcast Giantslayer E18 | Pathfinder 1E
