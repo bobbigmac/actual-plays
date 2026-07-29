@@ -2,9 +2,9 @@
 
 - slug: `we-fix-space-junk`
 - source: `https://feeds.megaphone.fm/wefixspacejunk`
-- fetched_at: `2026-07-29T11:35:37+00:00`
-- checked_at: `2026-07-29T11:35:37+00:00`
-- last_modified: `Wed, 29 Jul 2026 10:48:38 GMT`
+- fetched_at: `2026-07-29T14:33:34+00:00`
+- checked_at: `2026-07-29T14:33:34+00:00`
+- last_modified: `Wed, 29 Jul 2026 14:25:19 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://battlebird.productions",
   "description": "'We Fix Space Junk' follows seasoned smuggler Kilner and reluctant fugitive Samantha as they travel the galaxy, dodging bullets and meeting strange and wonderful beings as they carry out odd jobs on the fringes of the law. A female-led sci-fi comedy sitcom set in the far future, in a high-tech, dystopian world, We Fix Space Junk draws on the sci-fi of the past, following in the footsteps of Harry Harrison and of Douglas Adams' Hitchhiker's Guide to the Galaxy. Equal parts love-letter to sci-fi and satire of the present-day, Space Junk is lovingly produced by Beth Crane and Hedley Knights of Battle Bird Productions. To support the show visit patreon.com/BattleBirdProd or visit Battlebird.productions",
   "image_url": "https://megaphone.imgix.net/podcasts/8c376dd8-0f0d-11ec-8651-57ea866800e0/image/8d5a72f1090250cbefae2050b1329e32fb962b991327db690dac1bffa8d2ba047cdd30974dd1f9bdc451659cd75d302dfd61aded64e62bb1377d9d88df6be606.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-29T11:35:37+00:00",
+  "fetched_at": "2026-07-29T14:33:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "fiction/audiobook"
   ],
   "episodes": [
+    {
+      "key": "52b6159859f94d50d56d59c735156883ed1c8091",
+      "title": "A Couple of Quick Announcements... (Including Live Show!)",
+      "published_at": "2026-07-29T12:30:00+00:00",
+      "link": null,
+      "description": "Hello! We hope you enjoyed listening to Season 4 (or as some of the cool kids are calling it, Season 7). It was a real labour of love and we're so glad it's finally out in the world. We're here with a couple of quick announcements! First, we're going to be doing a live show! We're back at London Podcast Festival for Audio Drama Day on the 6th September at 2:30pm. We're in a bigger venue than usual which is a little daunting, but we're looking forward to it! We'll have our core cast plus some special guests, including the wonderful Layla Katib from Victoriocity! Other shows that day include An Audience with Magenta and Bernard, Camlaan, Audio Drama Done Quick and Headliners Wooden Overcoats, so a chance to see a whole host of Audio Drama Royalty! Tickets for our show are just £16 and we'll be about afterwards with merch, so come say hi! You can find a link for tickets in the show notes! The second thing is that we're going to be taking a formal break from We Fix Space Junk now Season 4 is out. The reason it took so long to bring Season 4 out in the first place was because we're both incredibly burnt out and we need time and space to recover. We've been working on Space Junk alongside full-time work for the last eight years - and even when we've not been actively working, it's still been lurking at the top of our to-do piles and was never far from our thoughts. And that can take a bit of a toll. The thing about burnout is that it sucks all the joy out of the things you love doing, and we don't want Space Junk to become something we resent. We deserve time and space away from the show and you deserve a show made by people working at their best. So We Fix Space Junk is going to go on formal hiatus for a year. I'm going to start working on scripts for Season 5 in July next year with a refreshed brain, fresh ideas and the enthusiasm to make the next season of a show we love. In the mean time, we're going to be working on some other creative projects, so keep your eyes out for those. So, we hope to see some of you in September at our live show and for the rest - Kilner and Samantha will be back! Buy live show tickets at https://www.kingsplace.co.uk/whats-on/podcast/we-fix-space-junk-2/ or on the Kings Place website! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d724ffe2-8b43-11f1-98f2-6b5513103dff/image/75aae8f9238cae6337dc6e7db9397e0c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO8178768578.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "132",
+      "speakers": [],
+      "topics": [
+        "couple",
+        "quick",
+        "announcements"
+      ]
+    },
     {
       "key": "e7cbb31f6fdb885cf36fddaa788165c92a493458",
       "title": "S04 E08 - S.O.S.",
@@ -1544,6 +1562,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-29 — A Couple of Quick Announcements... (Including Live Show!)
 - 2026-06-29 — S04 E08 - S.O.S.
 - 2026-06-15 — S04 E07 - Sylbie
 - 2026-06-01 — S04 E06 - The Explorer
