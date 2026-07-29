@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-07-22T08:47:00+00:00`
-- checked_at: `2026-07-22T08:47:00+00:00`
-- etag: `"djEuMi4wOjE3ODQ3MDM2Mzk0ODI="`
+- fetched_at: `2026-07-29T09:12:47+00:00`
+- checked_at: `2026-07-29T09:12:47+00:00`
+- etag: `"djEuMi4wOjE3ODUzMDg0Mzk1Mzg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-07-22T08:47:00+00:00",
+  "fetched_at": "2026-07-29T09:12:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "1a58c23f736a2327ba5ead9d7d0f5d052675eb9d",
+      "title": "Ep. 016: Age of Astra - A Local Delicacy | #DND",
+      "published_at": "2026-07-29T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the agents press onward through a mystery that seems to shift shape whenever they get too close. The Dice fall in curious ways, revealing just enough to keep moving whilst leaving the most important questions unanswered. In this DnD chapter, every discovery feels connected to something larger, though the pattern remains frustratingly incomplete. What have the agents overlooked so far? Which answers are hiding behind the obvious ones? And when the truth finally steps into view, will they recognise it for what it is? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1785017272307-2ceedf74-e604-4233-bdec-6785470abdea.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6a65345d614bacdaceae7e86/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "144090321",
+      "itunes_duration": "59:59",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "local",
+        "delicacy"
+      ]
+    },
     {
       "key": "ea4da11c43f02a05752f047d9f7557c28bd92ebe",
       "title": "Ep. 015: Age of Astra - The Stone Drops To The Ground | #DND",
@@ -7962,6 +7980,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-29 — Ep. 016: Age of Astra - A Local Delicacy | #DND
 - 2026-07-22 — Ep. 015: Age of Astra - The Stone Drops To The Ground | #DND
 - 2026-07-15 — BONUS: Age of Astra - Meet Patch Kairos, Again. | #DND
 - 2026-07-15 — Ep. 014: Age of Astra - Straight Down The Tube | #DND
