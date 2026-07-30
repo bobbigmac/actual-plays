@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-07-23T11:21:22+00:00`
-- checked_at: `2026-07-23T11:21:22+00:00`
-- etag: `"f442e1a611a4d4185a2277f58121f677"`
-- last_modified: `Thu, 23 Jul 2026 11:00:18 GMT`
+- fetched_at: `2026-07-30T11:22:47+00:00`
+- checked_at: `2026-07-30T11:22:47+00:00`
+- etag: `"86409d6b6a1643e8557fad52837622de"`
+- last_modified: `Fri, 24 Jul 2026 18:49:01 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-07-23T11:21:22+00:00",
+  "fetched_at": "2026-07-30T11:22:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -31,7 +31,7 @@
       "title": "The Adventure Zone Royale: Episode 29",
       "published_at": "2026-07-23T11:00:00+00:00",
       "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-royale-episode-29-_8ee0HYZ",
-      "description": "The Trial of Enchantment, Part 1 With the truth finally out in the open, the aspirants are less willing than ever to participate in the battle royale. But whatever has come to light, the contest still goes on, with two more trials to overcome and only one winner. Royale Theme: “Wizard Disco” by Louie Zong: https://louiezong.bandcamp.com/album/wizard-disco Original Music by Griffin McElroy Additional Music in this Episode: \"Fireball\", \"Night Sky\", and \"Simple Song\" by Jar of Flies: https://jaroffliesofficial.bandcamp.com/; and Taffy Machine\" by Kate Kody: https://freemusicarchive.org/music/kate-kody/. Asian Pacific Environmental Network: https://apen4ej.org/our-work/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
+      "description": "The Trial of Enchantment, Part 1 With the truth finally out in the open, the aspirants are less willing than ever to participate in the battle royale. But whatever has come to light, the contest still goes on, with more trials to overcome and only one winner. Royale Theme: “Wizard Disco” by Louie Zong: https://louiezong.bandcamp.com/album/wizard-disco Original Music by Griffin McElroy Additional Music in this Episode: \"Fireball\", \"Night Sky\", and \"Simple Song\" by Jar of Flies: https://jaroffliesofficial.bandcamp.com/; and Taffy Machine\" by Kate Kody: https://freemusicarchive.org/music/kate-kody/. Asian Pacific Environmental Network: https://apen4ej.org/our-work/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
       "image_url": null,
       "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/804b5a56-38f1-4b04-8baa-25b86ebde92c/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=804b5a56-38f1-4b04-8baa-25b86ebde92c&feed=cYQVc__c",
       "enclosure_type": "audio/mpeg",
