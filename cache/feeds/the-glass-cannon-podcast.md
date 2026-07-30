@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-07-29T09:12:47+00:00`
-- checked_at: `2026-07-29T09:12:47+00:00`
-- last_modified: `Wed, 29 Jul 2026 08:57:59 GMT`
+- fetched_at: `2026-07-30T09:06:12+00:00`
+- checked_at: `2026-07-30T09:06:12+00:00`
+- last_modified: `Thu, 30 Jul 2026 05:39:41 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-29T09:12:47+00:00",
+  "fetched_at": "2026-07-30T09:06:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,34 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "0f67ddf8351183544dc40ed0154a34cd482882bf",
+      "title": "Session Zero | Get in the Trunk Music from a Darkened Room E0 | Delta Green",
+      "published_at": "2026-07-30T04:00:00+00:00",
+      "link": null,
+      "description": "Handler Joe O'Brien guides Ross Bryant, Sydney Amanuel, Mary Lou, and Jared Logan through character creation for the legendary Delta Green scenario Music from a Darkened Room . Get in the Trunk: Music from a Darkened Room will initially be available exclusively at jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ starting August 12, 2026. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d94f6f02-8b5f-11f1-a8b1-d73602e5d25c/image/9e8a65be4cc4a051dd2709847ba6045b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4151954607.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6971",
+      "speakers": [
+        "Joe O'Brien",
+        "Ross Bryant",
+        "Sydney Amanuel",
+        "Mary Lou",
+        "Jared Logan"
+      ],
+      "topics": [
+        "session",
+        "zero",
+        "trunk",
+        "music",
+        "room",
+        "delta",
+        "green"
+      ]
+    },
     {
       "key": "7298555ea79f2e1dab420b1234cae78b7ca82208",
       "title": "The Sound of Rain | We Shouldn't Be Alive E8 | Twilight: 2000",
@@ -21727,27 +21755,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "20a7d4617104686f2f7266a9253b74cb687e1e1e",
-      "title": "We're Off to Feed the Lizard | The Glass Cannon Podcast Giantslayer E20 | Pathfinder 1E",
-      "published_at": "2015-10-13T04:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/9391438/episode-20-were-off-to-feed-the-lizard/",
-      "description": "Troy makes a shocking admission and a giant monitor lizard tries to make a meal out of Barron, as the battle at the gates of Trunau comes to an explosive conclusion! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD4302215887.mp3?updated=1707328817",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4355",
-      "speakers": [],
-      "topics": [
-        "lizard",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21756,6 +21763,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-30 — Session Zero | Get in the Trunk Music from a Darkened Room E0 | Delta Green — speakers: Joe O'Brien, Ross Bryant, Sydney Amanuel, Mary Lou, Jared Logan
 - 2026-07-29 — The Sound of Rain | We Shouldn't Be Alive E8 | Twilight: 2000 — speakers: British Intelligence
 - 2026-07-27 — GCN News Minute July 27, 2026 — speakers: Gen Con
 - 2026-07-27 — Razor Stones | Blood of the Wild S1 E32 | Pathfinder 2E Quest for the Frozen Flame — speakers: Razor Stones
@@ -22755,4 +22763,3 @@
 - 2015-11-03 — Cavern on the Green | The Glass Cannon Podcast Giantslayer E23 | Pathfinder 1E
 - 2015-10-27 — Blame It On the Chain | The Glass Cannon Podcast Giantslayer E22 | Pathfinder 1E
 - 2015-10-20 — Lorc Out Below | The Glass Cannon Podcast Giantslayer E21 | Pathfinder 1E
-- 2015-10-13 — We're Off to Feed the Lizard | The Glass Cannon Podcast Giantslayer E20 | Pathfinder 1E
