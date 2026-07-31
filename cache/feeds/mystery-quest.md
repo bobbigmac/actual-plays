@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-07-24T16:58:57+00:00`
-- checked_at: `2026-07-24T16:58:57+00:00`
-- last_modified: `Fri, 24 Jul 2026 16:34:33 GMT`
+- fetched_at: `2026-07-31T16:59:01+00:00`
+- checked_at: `2026-07-31T16:59:01+00:00`
+- last_modified: `Fri, 31 Jul 2026 16:08:15 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-24T16:58:57+00:00",
+  "fetched_at": "2026-07-31T16:59:01+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,24 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "6758846e0b4357ceb3a41e90f979c2d2b6b65067",
+      "title": "Obscure: Found Footage RPG #2",
+      "published_at": "2026-07-31T16:00:00+00:00",
+      "link": null,
+      "description": "Welcome back to Obscure, the found footage TTRPG by Sunzenaut. The crew of Phenomen-X UK make their way deep inside the abandoned St Sanchez Asylum and the findings of their investigation already have the makings for a great pilot episode. As host, Sharon Fright, traverses the facility's ventilation ducts she has an encounter that really sucks. Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Check out Obscure by Sunzenaut here: https://sunzenaut.itch.io/obscure Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: @AngoryTom Lydia: https://www.twitch.tv/squidgame Tom Bates: @TomBates Alex Smith: @hatfilms Briony: https://www.twitch.tv/brionykay Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR7434477087.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3268",
+      "speakers": [
+        "Tom Bates"
+      ],
+      "topics": [
+        "footage"
+      ]
+    },
     {
       "key": "c520be2a0955a3dd9162f4e45051fd16b1d9c02c",
       "title": "Obscure: Found Footage RPG #1",
@@ -3199,6 +3217,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-31 — Obscure: Found Footage RPG #2 — speakers: Tom Bates
 - 2026-07-24 — Obscure: Found Footage RPG #1 — speakers: Tom Bates
 - 2026-07-17 — Mythic Bastionland #7 — speakers: Mythic Bastionland, Saltmere Reach, Tom Bates
 - 2026-07-10 — Mythic Bastionland #6 — speakers: Tom Bates
