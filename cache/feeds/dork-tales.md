@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-07-27T17:13:56+00:00`
-- checked_at: `2026-07-27T17:13:56+00:00`
-- etag: `"djEuMi4wOjE3ODUxNjQ0Mzk1MTY="`
+- fetched_at: `2026-07-31T14:39:38+00:00`
+- checked_at: `2026-07-31T14:39:38+00:00`
+- etag: `"djEuMi4wOjE3ODU1MDY0NDAwMzM="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/show-cover.png",
-  "fetched_at": "2026-07-27T17:13:56+00:00",
+  "fetched_at": "2026-07-31T14:39:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "2363fd57b52b661ece0d3cbe1002a158cbda9602",
+      "title": "Mage the Ascension the Victorian Age | Book 3, Chapter 15: The Pharaoh of Lies",
+      "published_at": "2026-07-31T14:00:00+00:00",
+      "link": "https://shows.acast.com/dorktales/episodes/mage-the-ascension-the-victorian-age-book-3-chapter-15-the-p",
+      "description": "Welcome to book three of Mage the Victorian Age! In this episode, the Doves head into Damascus and make a potent new ally. Thank you to Bookwyrm Games for sponsoring Dork Tales this month! Use code DORKTALES to save 15% at https://www.bookwyrmgames.com! Orders over $100 also enjoy free shipping! #magetheascension #victorianage #magevictorianage #onyxpath #actualplay #worldofdarkness #mage *** Kelly Clark as Storyteller Starring Amy Godfrey as Chastity Prudence Goodwin Robin Holford as Darcie Harkness Jen Peters as Josephine Carrington Christine Rattray as Evelyn Taylor *** Visit our website ► https://dorktales.ca Watch us LIVE on Twitch ► https://twitch.tv/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktalescha... Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! *** Music credits: Tracks from Joel Steudler Heartwarming Magic Adventure Antics Abound Licensed under a Humble Bundle Collection Music From Dark Fantasy Studio Hidden in the Dark Paradox These songs are Licensed under a Premium License http://www.darkfantasystudio.com Music from Monument Studios: Vision of the Ancients Conspiracy Unravel Forthright Piano Plot Thickens These songs are licensed as part of the All in One Bundle https://www.monumentstudios.net We also use licensed music from Audio Hero, Ovani Studios, GameDev Market, and Phat Phrog Studios, including: Classical Villanous Memory House Temple Like what you heard? For background ambiance, we used sounds from Tabletop Audio for this session, just like we have for off-camera games for years! Tabletop Audio is a site with a full toolkit of songs, special effects, and soundboards to bring your adventures to life! https://www.tabletopaudio.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a21c455ac951431d77c4db4/1784912810323-e3ef2981-ba7f-4845-9349-b96c0fafc7b1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a21c455ac951431d77c4db4/e/6a639be9fa6cc1e030809583/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "151651892",
+      "itunes_duration": "2:37:58",
+      "speakers": [
+        "Victorian Age",
+        "Lies Welcome"
+      ],
+      "topics": [
+        "ascension",
+        "book",
+        "chapter",
+        "pharaoh",
+        "lies"
+      ]
+    },
     {
       "key": "f70dab301e95569e8984cb09b25686cfba2f83d1",
       "title": "ColdIron | Episode 6: Garters & Gunplay",
@@ -8098,6 +8121,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-31 — Mage the Ascension the Victorian Age | Book 3, Chapter 15: The Pharaoh of Lies — speakers: Victorian Age, Lies Welcome
 - 2026-07-27 — ColdIron | Episode 6: Garters & Gunplay
 - 2026-07-24 — Mage the Ascension the Victorian Age | Book 3, Chapter 14: The First of Many — speakers: Victorian Age, Many Welcome
 - 2026-07-20 — ColdIron | Episode 5: Son of a Gun — speakers: Gun Welcome
