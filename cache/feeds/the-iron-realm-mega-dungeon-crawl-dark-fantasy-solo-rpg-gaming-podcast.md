@@ -2,9 +2,9 @@
 
 - slug: `the-iron-realm-mega-dungeon-crawl-dark-fantasy-solo-rpg-gaming-podcast`
 - source: `https://feeds.feedburner.com/TheIronRealm`
-- fetched_at: `2026-08-01T16:17:04+00:00`
-- checked_at: `2026-08-01T16:17:04+00:00`
-- last_modified: `Mon, 20 Jul 2026 09:06:43 GMT`
+- fetched_at: `2026-08-01T19:37:26+00:00`
+- checked_at: `2026-08-01T19:37:26+00:00`
+- last_modified: `Sat, 1 Aug 2026 17:21:23 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://theironrealm.blogspot.com/",
   "description": "Dramatic RPG adventure in a massive Mega Dungeon. Free gaming aids provided. Dark Fantasy Fiction in the classic RPG style. Listen or play!",
   "image_url": "https://archive.org/download/TheIronRealm/IronRealm_1400.jpg",
-  "fetched_at": "2026-08-01T16:17:04+00:00",
+  "fetched_at": "2026-08-01T19:37:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
