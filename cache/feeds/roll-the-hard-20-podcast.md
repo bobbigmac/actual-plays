@@ -2,9 +2,9 @@
 
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
-- fetched_at: `2026-06-17T22:53:47+00:00`
-- checked_at: `2026-06-17T22:53:47+00:00`
-- etag: `W/"5ff4f0fee690d25f6c3f524b35362719"`
+- fetched_at: `2026-08-01T08:35:33+00:00`
+- checked_at: `2026-08-01T08:35:33+00:00`
+- etag: `W/"7d92193352d8e8532f546f97dc4e58bb"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollthehard20podcast.com/podcast-episode/",
   "description": "Dungeons and Dragons weekly actual play and discussions",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/9d3b0539-1955-4096-946d-2fe71cf34e12/TheHardTwenty-DeltaGreen-Greens+2.jpg?format=1500w",
-  "fetched_at": "2026-06-17T22:53:47+00:00",
+  "fetched_at": "2026-08-01T08:35:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,121 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "5f603550ed36e73be77ea8cdd1bbbbb2a1c935fa",
+      "title": "DELTA GREEN: ENRAPTURED (EP 5)",
+      "published_at": "2026-07-25T23:36:26+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/7/25/delta-green-enraptured-ep-5",
+      "description": "The Agents follow up on Tissle’s storage unit. Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1785022578200-DL7XBV40I8DM8YTMIA3X/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/6a65484488ee2d075abb3f85/1785022550417/en+5+-+7%3A24%3A26%2C+7.22+PM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102211839",
+      "itunes_duration": "53:14",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "enraptured"
+      ]
+    },
+    {
+      "key": "f353bd2352309f635975016a04b0d4fed3674281",
+      "title": "DELTA GREEN: ENRAPTURED (EP 4)",
+      "published_at": "2026-07-18T12:51:13+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/7/18/delta-green-enraptured-ep-4",
+      "description": "The Agents investigate the home of their #1 suspect, Wayne Tissle. Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1784379061971-NJRJEDRSJXGI9MJSLAR0/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/6a5b7634659795335616e759/1784379023007/en+4+-+7%3A18%3A26%2C+8.15+AM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97734660",
+      "itunes_duration": "50:54",
+      "speakers": [
+        "Wayne Tissle"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "enraptured"
+      ]
+    },
+    {
+      "key": "331ae33ff0e997de2dda10e4bbf3fc5d412b59af",
+      "title": "DELTA GREEN: ENRAPTURED (EP 3)",
+      "published_at": "2026-07-12T00:10:53+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/7/11/delta-green-enraptured-ep-3",
+      "description": "The Agents question the owner of Dingy’s Diner… Jane Conway’s place of employment. Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1783815035978-DK6T8NI88C2ZFZT1FUX6/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/6a52db303316f12fd53d624f/1783815019775/en+3+-+7%3A10%3A26%2C+6.35+PM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100869354",
+      "itunes_duration": null,
+      "speakers": [
+        "Jane Conway"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "enraptured"
+      ]
+    },
+    {
+      "key": "c19cb6c739c9dc4b962ed115b30a1ae71787172d",
+      "title": "DELTA GREEN: ENRAPTURED (EP 2)",
+      "published_at": "2026-07-05T18:42:56+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/7/5/delta-green-enraptured-ep-2",
+      "description": "The Agents inspect the home of recently missing Deputy Aroyos and his family. Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1783276959660-JDO88SVZQASH37DDYW9S/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/6a4aa512ced1c66486dea1a2/1783276943180/en+2+-+7%3A3%3A26%2C+7.28+AM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "109618912",
+      "itunes_duration": "57:05",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "enraptured"
+      ]
+    },
+    {
+      "key": "23df980dfb98ae65af2ed20f5d26dfcc2ed9aaf5",
+      "title": "DELTA GREEN: ENRAPTURED (EP 1)",
+      "published_at": "2026-06-27T21:34:41+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/6/27/delta-green-enraptured-ep-1",
+      "description": "The Agents are sent to Trudeau, New Mexico to investigate a population decline. Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1782596096284-0DUO0Z80UHZ40UKFIN5X/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/6a40419a6e27560da1fe1ff5/1782596005746/en+1+-+6%3A26%3A26%2C+9.00+PM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102491035",
+      "itunes_duration": "53:23",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "enraptured"
+      ]
+    },
+    {
+      "key": "83fc88d919b2c3eaf9fa3f3f4e1b75bbee3433be",
+      "title": "DELTA GREEN: (INTERLUDE) COLD PRESS / FULL TILT",
+      "published_at": "2026-06-19T23:19:19+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/6/19/delta-green-interlude-cold-press-full-tilt",
+      "description": "Adesso begins working with the Exorcist & Ichi is sent to track down a familiar enemy. Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1781911120180-Q9OLZQVDUBHTH8RIYKVT/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/6a35ce134bbeff408b63dd60/1781911077087/CP+FT+-+6%3A19%3A26%2C+5.45+PM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "167492886",
+      "itunes_duration": "1:27:14",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "interlude",
+        "cold",
+        "press",
+        "tilt"
+      ]
+    },
     {
       "key": "614f535b8752aff78a4b01de22947dc8d7b31842",
       "title": "DELTA GREEN: PLAYTHINGS (EP 12: AFTER ACTION REPORT)",
@@ -5573,116 +5688,6 @@
         "rider",
         "storm"
       ]
-    },
-    {
-      "key": "4c1b2e62b6b4ee78441536cf948c87ddf7255cd2",
-      "title": "RIDERS ON THE STORM EP 32: NO BAALZ ALLOWED",
-      "published_at": "2019-03-01T01:14:11+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/2/28/riders-on-the-storm-ep-32-no-baalz-allowed",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow oursocial media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 ROLL THE HARD 20 PODCAST https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a roll-the-hard-20-podcast https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Music and Sound by Syrinscape. https://store.syrinscape.com/what-is-syrinscape/?att 4 The app putting sound into the hands of gamers.",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909193445-VBCIB4CXDJRNSUSS6IVL/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c78851f71c10bfb2de16722/1551402687051/Riders+on+the+Storm+EP+32+no+baalz+allowed.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "73797926",
-      "itunes_duration": "51:15",
-      "speakers": [],
-      "topics": [
-        "rider",
-        "storm",
-        "baalz",
-        "allowed"
-      ]
-    },
-    {
-      "key": "933ac0e9b31007775c0458912df56cf814139aac",
-      "title": "RIDERS ON THE STORM EP 31: WE'RE BAAAACK!",
-      "published_at": "2019-02-23T04:32:38+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/2/22/riders-on-the-storm-ep-31-were-baaaack",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 ROLL THE HARD 20 PODCAST https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a roll-the-hard-20-podcast https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Music and Sound by Syrinscape. https://store.syrinscape.com/what-is-syrinscape/?att 4 The app putting sound into the hands of gamers.",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909205208-K73WEULNDCRQKRNVZEZI/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c70cb234785d303f1bac500/1550896139529/Riders+on+the+Storm+EP+31+were+back.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "69589913",
-      "itunes_duration": "48:19",
-      "speakers": [],
-      "topics": [
-        "rider",
-        "storm",
-        "baaaack"
-      ]
-    },
-    {
-      "key": "cb1963788d1a41bb81f5158017393eee1c0656f9",
-      "title": "RIDERS ON THE STORM EP 30: BAH-TU DA BONE!",
-      "published_at": "2019-02-09T01:22:59+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/2/8/riders-on-the-storm-ep-30-bah-tu-da-bone",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 ROLL THE HARD 20 PODCAST https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a roll-the-hard-20-podcast https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909220561-7MHQACL6VKG38BO40Q7C/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c5e295d4e17b65729b48ed5/1549675084261/Riders+on+the+Storm+EP+30+Bah+Tu+Da+Bone.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "84069691",
-      "itunes_duration": "58:23",
-      "speakers": [],
-      "topics": [
-        "rider",
-        "storm",
-        "bone"
-      ]
-    },
-    {
-      "key": "8476d212c8a0044daf82f1cbbcdf519050b657d2",
-      "title": "RIDERS ON THE STORM EP 29: IRE OF THE SERPENT BEASTS",
-      "published_at": "2019-01-29T02:15:26+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/1/28/riders-on-the-storm-ep-29-ire-of-the-serpent-beasts",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 ROLL THE HARD 20 PODCAST https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a roll-the-hard-20-podcast https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909233528-2C656K5BS1U67S6ZW0AJ/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c4fb55b42bfc1226f2f83e0/1548727784450/Riders+on+the+Storm+EP+29.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "81797665",
-      "itunes_duration": "56:48",
-      "speakers": [],
-      "topics": [
-        "rider",
-        "storm",
-        "beast"
-      ]
-    },
-    {
-      "key": "4da013ab5f050d48e28bf51fca5a59bf233ab6b8",
-      "title": "RIDERS ON THE STORM EP 28: IN-FLIGHT ENTERTAINMENT",
-      "published_at": "2019-01-21T20:16:07+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/1/21/riders-on-the-storm-ep-28-in-flight-entertainment",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 ROLL THE HARD 20 PODCAST https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a roll-the-hard-20-podcast",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909245308-KFE3W0JATLZZABVPM8O9/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c4626ef4d7a9ccfd0d0d3b1/1548101609810/Riders+on+the+Storm+EP+28.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "77757044",
-      "itunes_duration": "54:00",
-      "speakers": [],
-      "topics": [
-        "rider",
-        "storm",
-        "flight",
-        "entertainment"
-      ]
-    },
-    {
-      "key": "5c16f75b72cb74047c764e3a369f1f273031a36e",
-      "title": "RIDERS ON THE STORM EP 27: THE SOUL CRUCIBLE",
-      "published_at": "2019-01-14T16:50:33+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/1/14/riders-on-the-storm-ep-27-the-soul-crucible",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 ROLL THE HARD 20 PODCAST https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a roll-the-hard-20-podcast",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909258479-QPELG5KOR7MRR2C8VIVI/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c3cbbca70a6ad9840d65290/1547484470188/Riders+on+the+Storm+EP+27.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "109820574",
-      "itunes_duration": "1:16:15",
-      "speakers": [],
-      "topics": [
-        "rider",
-        "storm",
-        "soul"
-      ]
     }
   ]
 }
@@ -5691,6 +5696,12 @@
 
 ## Episodes (newest first)
 
+- 2026-07-25 — DELTA GREEN: ENRAPTURED (EP 5)
+- 2026-07-18 — DELTA GREEN: ENRAPTURED (EP 4) — speakers: Wayne Tissle
+- 2026-07-12 — DELTA GREEN: ENRAPTURED (EP 3) — speakers: Jane Conway
+- 2026-07-05 — DELTA GREEN: ENRAPTURED (EP 2)
+- 2026-06-27 — DELTA GREEN: ENRAPTURED (EP 1)
+- 2026-06-19 — DELTA GREEN: (INTERLUDE) COLD PRESS / FULL TILT
 - 2026-05-02 — DELTA GREEN: PLAYTHINGS (EP 12: AFTER ACTION REPORT) — speakers: Hard Slingers
 - 2026-04-24 — DELTA GREEN: PLAYTHINGS (EP 11: THE FINALE)
 - 2026-04-19 — DELTA GREEN: PLAYTHINGS (EP 10)
@@ -5985,9 +5996,3 @@
 - 2019-03-11 — ROLL THE HARD 20 PODCAST: CATCHING UP WITH BRIAN AND KUSH
 - 2019-03-08 — ROLL THE HARD 20 PODCAST: INTERVIEW WITH SAMWISE
 - 2019-03-08 — RIDERS ON THE STORM EP 33: OUT WITH THE OLD
-- 2019-03-01 — RIDERS ON THE STORM EP 32: NO BAALZ ALLOWED
-- 2019-02-23 — RIDERS ON THE STORM EP 31: WE'RE BAAAACK!
-- 2019-02-09 — RIDERS ON THE STORM EP 30: BAH-TU DA BONE!
-- 2019-01-29 — RIDERS ON THE STORM EP 29: IRE OF THE SERPENT BEASTS
-- 2019-01-21 — RIDERS ON THE STORM EP 28: IN-FLIGHT ENTERTAINMENT
-- 2019-01-14 — RIDERS ON THE STORM EP 27: THE SOUL CRUCIBLE
