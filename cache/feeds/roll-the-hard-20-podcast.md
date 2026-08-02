@@ -2,9 +2,9 @@
 
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
-- fetched_at: `2026-08-01T08:35:33+00:00`
-- checked_at: `2026-08-01T08:35:33+00:00`
-- etag: `W/"7d92193352d8e8532f546f97dc4e58bb"`
+- fetched_at: `2026-08-02T10:52:13+00:00`
+- checked_at: `2026-08-02T10:52:13+00:00`
+- etag: `W/"123ce534bbe292cf0029cc5b3c476976"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollthehard20podcast.com/podcast-episode/",
   "description": "Dungeons and Dragons weekly actual play and discussions",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/9d3b0539-1955-4096-946d-2fe71cf34e12/TheHardTwenty-DeltaGreen-Greens+2.jpg?format=1500w",
-  "fetched_at": "2026-08-01T08:35:33+00:00",
+  "fetched_at": "2026-08-02T10:52:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "95e70c5d7e3a546cc14bd9410c0015883cd6890e",
+      "title": "DELTA GREEN: ENRAPTURED (EP 6)",
+      "published_at": "2026-08-01T13:03:22+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/8/1/delta-green-enraptured-ep-6",
+      "description": "The Agents finally meet the mysterious Deacon Linus. Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1785589388156-20BAH2W97JB0NE173IS0/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/6a6dee728ac2ba252d901025/1785589373826/en+6+-+7%3A31%3A26%2C+6.09+PM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99408168",
+      "itunes_duration": "51:46",
+      "speakers": [
+        "Deacon Linus"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "enraptured"
+      ]
+    },
     {
       "key": "5f603550ed36e73be77ea8cdd1bbbbb2a1c935fa",
       "title": "DELTA GREEN: ENRAPTURED (EP 5)",
@@ -5671,23 +5691,6 @@
         "podcast",
         "samwise"
       ]
-    },
-    {
-      "key": "78743b154c9de7e7f8d0470d566e0cbdb5340d1f",
-      "title": "RIDERS ON THE STORM EP 33: OUT WITH THE OLD",
-      "published_at": "2019-03-08T03:49:05+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/3/7/riders-on-the-storm-ep-33-out-with-the-old",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow oursocial media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 ROLL THE HARD 20 PODCAST https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a roll-the-hard-20-podcast https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Music and Sound by Syrinscape. https://store.syrinscape.com/what-is-syrinscape/?att 4 The app putting sound into the hands of gamers.",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909179195-MAQSIPAUDWGJRHY7AI5Z/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c81e37bf4e1fccc7ff2566c/1552016689366/Riders+on+the+Storm+EP+33.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "81667261",
-      "itunes_duration": "56:42",
-      "speakers": [],
-      "topics": [
-        "rider",
-        "storm"
-      ]
     }
   ]
 }
@@ -5696,6 +5699,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-01 — DELTA GREEN: ENRAPTURED (EP 6) — speakers: Deacon Linus
 - 2026-07-25 — DELTA GREEN: ENRAPTURED (EP 5)
 - 2026-07-18 — DELTA GREEN: ENRAPTURED (EP 4) — speakers: Wayne Tissle
 - 2026-07-12 — DELTA GREEN: ENRAPTURED (EP 3) — speakers: Jane Conway
@@ -5995,4 +5999,3 @@
 - 2019-03-17 — RIDERS ON THE STORM EP 34: DES NO I AND I IN TEAMWORK
 - 2019-03-11 — ROLL THE HARD 20 PODCAST: CATCHING UP WITH BRIAN AND KUSH
 - 2019-03-08 — ROLL THE HARD 20 PODCAST: INTERVIEW WITH SAMWISE
-- 2019-03-08 — RIDERS ON THE STORM EP 33: OUT WITH THE OLD
