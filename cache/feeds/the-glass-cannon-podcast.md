@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-08-01T08:35:33+00:00`
-- checked_at: `2026-08-01T08:35:33+00:00`
-- last_modified: `Sat, 01 Aug 2026 04:00:00 GMT`
+- fetched_at: `2026-08-03T10:08:09+00:00`
+- checked_at: `2026-08-03T10:08:09+00:00`
+- last_modified: `Mon, 03 Aug 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-01T08:35:33+00:00",
+  "fetched_at": "2026-08-03T10:08:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,52 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "089d60a8c22cd5b1109e54daf844971684a830f6",
+      "title": "Call of Cthulhu: Innsmouth | Chaosium | Gen Con 2026",
+      "published_at": "2026-08-03T04:00:00+00:00",
+      "link": null,
+      "description": "Chaosium's Executive Producer for RPGs Brian Holland runs an opening session of the brand new Call of Cthulhu: Innsmouth sandbox campaign setting. As a criminal gang seeks to lay low after a heist gone terribly wrong, they find the town of Innsmouth to be anything but safe. This one-shot shows how a group could kickoff this incredible sandbox adventure by putting the players fully in the driver's seat and letting the story emerge through the choices of their characters. Get a discounted copy of Call of Cthulhu: Innsmouth right now by going to Chaosium.com and using code TFC4 for 15% off! Get your 7-day Free Trial to thousands of hours of exclusive TTRPG content at https://jointhenaish.com/ Watch the video here: https://youtu.be/jdDjCcHlScw Cast: Sydney Amanuel, Rob Kerkovich, Joe O'Brien, Kate Stamas, and Brian Holland (GM) This show was sponsored by Chaosium. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dde83b82-89db-11f1-ac81-c3a4be02294e/image/33cc2dea6af0edb9a29125ba452c2631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6844832259.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8334",
+      "speakers": [
+        "Gen Con",
+        "Brian Holland"
+      ],
+      "topics": [
+        "cthulhu",
+        "innsmouth",
+        "chaosium"
+      ]
+    },
+    {
+      "key": "c41651153d86f9c5f8f323d43c7479a89f64ca3e",
+      "title": "A True Friend | Blood of the Wild S1 E33 | Pathfinder 2E Quest for the Frozen Flame",
+      "published_at": "2026-08-03T04:00:00+00:00",
+      "link": null,
+      "description": "Red Cat Cave yields more of its secrets; your friendly GM lays down the law. Access every available episode of Blood of the Wild along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2239d34a-808b-11f1-840e-7b350f0a7b34/image/f6a9c4938e7166216c2b3c61e94dabb3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1407061798.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4265",
+      "speakers": [
+        "True Friend",
+        "Frozen Flame Red Cat"
+      ],
+      "topics": [
+        "friend",
+        "blood",
+        "wild",
+        "pathfinder",
+        "quest",
+        "frozen",
+        "flame"
+      ]
+    },
     {
       "key": "6114ef0a9b3776415be2e2ce7137b46b32418e47",
       "title": "Bumps in the Night | Time For Chaos S4 E4 | Call of Cthulhu Masks of Nyarlathotep",
@@ -21711,52 +21757,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "493f647428baf9e254d0fc2a6c9bc2999cc6e9e0",
-      "title": "No Egrets | The Glass Cannon Podcast Giantslayer E24 | Pathfinder 1E",
-      "published_at": "2015-11-10T05:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/9391442/episode-24-no-egrets/",
-      "description": "Delving deeper into the caverns beneath Bloodmarch Hill, the party encounters a very different kind of danger. Will the pursuit of their quarry continue, or will they succumb to a fate worse than death? For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD3181722947.mp3?updated=1707328944",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4952",
-      "speakers": [
-        "No Egrets",
-        "Bloodmarch Hill"
-      ],
-      "topics": [
-        "egrets",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "4a6b6e39c4c02d07ba2c62d41b80a9a13ba2bb64",
-      "title": "Cavern on the Green | The Glass Cannon Podcast Giantslayer E23 | Pathfinder 1E",
-      "published_at": "2015-11-03T05:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/9391441/episode-23-cavern-on-the-green/",
-      "description": "After a long delayed rest, our heroes track their unknown quarry into the mouth of an ancient cave. What terrors will they encounter beneath Bloodmarch Hill? For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD5321680322.mp3?updated=1707328936",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4767",
-      "speakers": [],
-      "topics": [
-        "cavern",
-        "green",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21765,6 +21765,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-03 — Call of Cthulhu: Innsmouth | Chaosium | Gen Con 2026 — speakers: Gen Con, Brian Holland
+- 2026-08-03 — A True Friend | Blood of the Wild S1 E33 | Pathfinder 2E Quest for the Frozen Flame — speakers: True Friend, Frozen Flame Red Cat
 - 2026-08-01 — Bumps in the Night | Time For Chaos S4 E4 | Call of Cthulhu Masks of Nyarlathotep
 - 2026-07-31 — It Knows Your Name | The Glass Cannon Podcast Shadowdark E37 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-07-30 — Session Zero | Get in the Trunk Music from a Darkened Room E0 | Delta Green — speakers: Joe O'Brien, Ross Bryant, Sydney Amanuel, Mary Lou, Jared Logan
@@ -22763,5 +22765,3 @@
 - 2015-12-01 — Skreed Between the Lines | The Glass Cannon Podcast Giantslayer E27 | Pathfinder 1E
 - 2015-11-24 — Assassin Skreed 2 | The Glass Cannon Podcast Giantslayer E26 | Pathfinder 1E — speakers: Assassin Skreed
 - 2015-11-17 — Assassin Skreed | The Glass Cannon Podcast Giantslayer E25 | Pathfinder 1E — speakers: Assassin Skreed
-- 2015-11-10 — No Egrets | The Glass Cannon Podcast Giantslayer E24 | Pathfinder 1E — speakers: No Egrets, Bloodmarch Hill
-- 2015-11-03 — Cavern on the Green | The Glass Cannon Podcast Giantslayer E23 | Pathfinder 1E
