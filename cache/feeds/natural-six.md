@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-07-28T19:55:13+00:00`
-- checked_at: `2026-07-28T19:55:13+00:00`
-- etag: `"djEuMi4wOjE3ODUyNjUyMzk0NDg="`
+- fetched_at: `2026-08-04T20:00:19+00:00`
+- checked_at: `2026-08-04T20:00:19+00:00`
+- etag: `"djEuMi4wOjE3ODU4NzAwMzk0NTM="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-07-28T19:55:13+00:00",
+  "fetched_at": "2026-08-04T20:00:19+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a8e5022e55358e32598d41a0a94d4b09a2846c79",
+      "title": "Ep. 60 Hanging By A Thread",
+      "published_at": "2026-08-04T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-60-hanging-by-a-thread",
+      "description": "When something is taken, the distance between sense and desperation quickly disappears. Yet some dangers will always be worth running towards, even if every step carries you further from the ground you thought you knew. As the world begins to offer answers, each one leaves questions stranger than the last. But when enough loose thread leads in the same direction, coincidence can start to feel like the least believable explanation. Still, there are only so many miles the body can give before exhaustion begins to pull at everything else, making it impossible to know where one thread ends and suspicion begins. Some theories demand proof, but others only need one more pull before everything starts to unravel. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a6f67e7f7c2060a1fb37707/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "172844930",
+      "itunes_duration": "3:00:02",
+      "speakers": [
+        "Thread When",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "thread"
+      ]
+    },
     {
       "key": "fb23f953ca4bbf0bc06fc1eef95912358a677467",
       "title": "Action Surge Episode 59",
@@ -3133,6 +3157,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-04 — Ep. 60 Hanging By A Thread — speakers: Thread When, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-07-28 — Action Surge Episode 59 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-07-21 — Ep. 59 The Dragon Rider — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-07-14 — Action Surge Episode 58 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
