@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-08-03T10:08:09+00:00`
-- checked_at: `2026-08-03T10:08:09+00:00`
-- last_modified: `Mon, 03 Aug 2026 04:00:00 GMT`
+- fetched_at: `2026-08-04T09:12:52+00:00`
+- checked_at: `2026-08-04T09:12:52+00:00`
+- last_modified: `Tue, 04 Aug 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-03T10:08:09+00:00",
+  "fetched_at": "2026-08-04T09:12:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "82f3c37cc5bca45fad296f1ae3af79a4cb63f133",
+      "title": "Pendragon: The Boy King Part 1 | Chaosium | Gen Con 2026",
+      "published_at": "2026-08-04T04:00:00+00:00",
+      "link": null,
+      "description": "Skid leads the creation of a new band of sworn blades as The Glass Cannon Network embarks on Chaosium's new Pendragon adventure—The Boy King! Get a discounted copy of Pendragon: The Boy King right now by going to Chaosium.com and using code PENCANNON3 for 15% off! Get your 7-day Free Trial to thousands of hours of exclusive TTRPG content at https://jointhenaish.com/ Watch the video here: https://youtu.be/f3nVAXN4Ck4 Cast: Rob Kerkovich, Mary Lou, Jason Charles Miller, Joe O'Brien, and Skid Maher (GM) This show was sponsored by Chaosium. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4a41fd5e-89dc-11f1-a720-0739f2963ffa/image/33cc2dea6af0edb9a29125ba452c2631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9833985366.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8090",
+      "speakers": [
+        "Boy King",
+        "Gen Con"
+      ],
+      "topics": [
+        "pendragon",
+        "king",
+        "chaosium"
+      ]
+    },
     {
       "key": "089d60a8c22cd5b1109e54daf844971684a830f6",
       "title": "Call of Cthulhu: Innsmouth | Chaosium | Gen Con 2026",
@@ -21733,30 +21754,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "490c07950b1f543d0aeb827e9f02360e510693ae",
-      "title": "Assassin Skreed | The Glass Cannon Podcast Giantslayer E25 | Pathfinder 1E",
-      "published_at": "2015-11-17T05:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/9391443/episode-25-assassin-skreed/",
-      "description": "The heroes have tracked the merciless Skreed down to a mysterious cavern deep below Bloodmarch Hill. But the villain has allies at his side in the dark. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD3520920964.mp3?updated=1707328952",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4015",
-      "speakers": [
-        "Assassin Skreed"
-      ],
-      "topics": [
-        "assassin",
-        "skreed",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21765,6 +21762,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-04 — Pendragon: The Boy King Part 1 | Chaosium | Gen Con 2026 — speakers: Boy King, Gen Con
 - 2026-08-03 — Call of Cthulhu: Innsmouth | Chaosium | Gen Con 2026 — speakers: Gen Con, Brian Holland
 - 2026-08-03 — A True Friend | Blood of the Wild S1 E33 | Pathfinder 2E Quest for the Frozen Flame — speakers: True Friend, Frozen Flame Red Cat
 - 2026-08-01 — Bumps in the Night | Time For Chaos S4 E4 | Call of Cthulhu Masks of Nyarlathotep
@@ -22764,4 +22762,3 @@
 - 2015-12-08 — Cave of Mutilation | The Glass Cannon Podcast Giantslayer E28 | Pathfinder 1E
 - 2015-12-01 — Skreed Between the Lines | The Glass Cannon Podcast Giantslayer E27 | Pathfinder 1E
 - 2015-11-24 — Assassin Skreed 2 | The Glass Cannon Podcast Giantslayer E26 | Pathfinder 1E — speakers: Assassin Skreed
-- 2015-11-17 — Assassin Skreed | The Glass Cannon Podcast Giantslayer E25 | Pathfinder 1E — speakers: Assassin Skreed
