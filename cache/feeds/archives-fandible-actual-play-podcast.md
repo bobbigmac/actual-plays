@@ -3,9 +3,11 @@
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
 - fetched_at: `2026-07-28T03:40:53+00:00`
-- checked_at: `2026-07-28T03:40:53+00:00`
+- checked_at: `2026-08-04T14:42:16+00:00`
 - etag: `"8eac694c97e5ac5b0a31a5f26de443fc"`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: <urlopen error timed out>
 
 <!-- FEED_JSON -->
 ```json
@@ -11384,7 +11386,17 @@
         "casefile"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-08-04T14:42:16+00:00",
+    "status": "error",
+    "checked_at": "2026-08-04T14:42:16+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "<urlopen error timed out>"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
