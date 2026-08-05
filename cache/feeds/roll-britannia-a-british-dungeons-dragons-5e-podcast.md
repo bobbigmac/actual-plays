@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-07-29T09:12:47+00:00`
-- checked_at: `2026-07-29T09:12:47+00:00`
-- etag: `"djEuMi4wOjE3ODUzMDg0Mzk1Mzg="`
+- fetched_at: `2026-08-05T09:09:51+00:00`
+- checked_at: `2026-08-05T09:09:51+00:00`
+- etag: `"djEuMi4wOjE3ODU5MTMyMzk0ODA="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-07-29T09:12:47+00:00",
+  "fetched_at": "2026-08-05T09:09:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "128dac5e92ec56c5cb4ea877e61436a0938a80c0",
+      "title": "Ep. 017: Age of Astra - The Signal is Different | #DND",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the agents find themselves closer than ever to the heart of the mystery, yet certainty remains stubbornly out of reach. The Dice seem to favour questions over answers as old assumptions begin to wobble and new possibilities emerge from the shadows. In this DnD chapter, every step forward feels significant, even if no one is quite sure why. What if the story they've been following isn't the real one? Which clue changes everything once it's seen in the right light? And when the truth finally reveals itself, will it answer the mystery… or deepen it? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1785365901609-ee8e0f85-40c8-4831-93b9-879f7d097411.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6a6a865aa585d3be78a36bb6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "135276463",
+      "itunes_duration": "56:19",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "signal"
+      ]
+    },
     {
       "key": "1a58c23f736a2327ba5ead9d7d0f5d052675eb9d",
       "title": "Ep. 016: Age of Astra - A Local Delicacy | #DND",
@@ -7980,6 +7997,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — Ep. 017: Age of Astra - The Signal is Different | #DND
 - 2026-07-29 — Ep. 016: Age of Astra - A Local Delicacy | #DND
 - 2026-07-22 — Ep. 015: Age of Astra - The Stone Drops To The Ground | #DND
 - 2026-07-15 — BONUS: Age of Astra - Meet Patch Kairos, Again. | #DND

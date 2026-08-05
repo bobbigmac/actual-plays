@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-08-04T09:12:52+00:00`
-- checked_at: `2026-08-04T09:12:52+00:00`
-- last_modified: `Tue, 04 Aug 2026 04:00:00 GMT`
+- fetched_at: `2026-08-05T09:09:51+00:00`
+- checked_at: `2026-08-05T09:09:51+00:00`
+- last_modified: `Wed, 05 Aug 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-04T09:12:52+00:00",
+  "fetched_at": "2026-08-05T09:09:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,44 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "cca24542dcb1c0b260a3e254b3eee99c2dea2456",
+      "title": "Carpenter | We Shouldn't Be Alive E9 | Twilight: 2000",
+      "published_at": "2026-08-05T04:00:00+00:00",
+      "link": null,
+      "description": "A British Intelligence Agent shares his knowledge of the state of the war and what options are left to those who survive. Watch the video here: ⁠ https://youtu.be/bqe36Fsq4PE Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including the Mission Debrief, our exclusive We Shouldn't Be Alive companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/eccba5e0-9029-11f1-9f37-6f9513fae6c3/image/fea8f4bdf27af8a040cd8ab5e74ceac2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP5073486983.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5622",
+      "speakers": [],
+      "topics": [
+        "carpenter",
+        "twilight"
+      ]
+    },
+    {
+      "key": "7f50be32243827fc8e7b6fd04bf5eda300d1bb31",
+      "title": "Pendragon: The Boy King Part 2 | Chaosium | Gen Con 2026",
+      "published_at": "2026-08-05T04:00:00+00:00",
+      "link": null,
+      "description": "The newly knighted warriors accompany their sworn lord to Londinium, where rumor speaks of a sword in a stone! Get a discounted copy of Pendragon: The Boy King right now by going to Chaosium.com and using code PENCANNON3 for 15% off! Get your 7-day Free Trial to thousands of hours of exclusive TTRPG content at https://jointhenaish.com/ Watch the video here: https://youtu.be/VHnhgj0A_as Cast: Rob Kerkovich, Mary Lou, Jason Charles Miller, Joe O'Brien, and Skid Maher (GM) This show was sponsored by Chaosium. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1704729a-89dd-11f1-bb4f-a39476e871a9/image/33cc2dea6af0edb9a29125ba452c2631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2829151801.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7377",
+      "speakers": [
+        "Boy King",
+        "Gen Con"
+      ],
+      "topics": [
+        "pendragon",
+        "king",
+        "chaosium"
+      ]
+    },
     {
       "key": "82f3c37cc5bca45fad296f1ae3af79a4cb63f133",
       "title": "Pendragon: The Boy King Part 1 | Chaosium | Gen Con 2026",
@@ -44,6 +82,27 @@
         "pendragon",
         "king",
         "chaosium"
+      ]
+    },
+    {
+      "key": "a51e61562fbbd4969a8e04d5682e13952db31af1",
+      "title": "GCN News Minute August 3, 2026",
+      "published_at": "2026-08-03T14:00:00+00:00",
+      "link": null,
+      "description": "Gen Con 2026 is over, but the content keeps coming! Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d32f6bc6-9010-11f1-a05f-db2f5d21bda2/image/9ef0a0596145f05100196c1adc2e8b75.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9529252690.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "288",
+      "speakers": [
+        "News Minute August",
+        "Gen Con"
+      ],
+      "topics": [
+        "news",
+        "minute",
+        "august"
       ]
     },
     {
@@ -168,7 +227,7 @@
       "title": "The Sound of Rain | We Shouldn't Be Alive E8 | Twilight: 2000",
       "published_at": "2026-07-29T04:00:00+00:00",
       "link": null,
-      "description": "The party attempts to extract a British Intelligence agent from a Soviet labor camp. Watch the video here: https://youtu.be/jVWhsv2g2MY The party attempts to extract a British Intelligence agent from a Soviet labor camp.Get BONUS CONTENT at ⁠http://jointhenaish.com⁠, including the Mission Debrief, our exclusive We Shouldn't Be Alive companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. SEVEN-PART PACT is from Possum Creek, an imprint of Steve Jackson Games. Please support them: https://www.kickstarter.com/projects/sjgames/seven-part-pact Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including the Mission Debrief, our exclusive We Shouldn't Be Alive companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "The party attempts to extract a British Intelligence agent from a Soviet labor camp. Watch the video here: https://youtu.be/jVWhsv2g2MY SEVEN-PART PACT is from Possum Creek, an imprint of Steve Jackson Games. Please support them: https://www.kickstarter.com/projects/sjgames/seven-part-pact Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including the Mission Debrief, our exclusive We Shouldn't Be Alive companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/58a4a7f0-8a01-11f1-b524-9b6e8205fc80/image/fea8f4bdf27af8a040cd8ab5e74ceac2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4660047283.mp3",
       "enclosure_type": "audio/mpeg",
@@ -21687,73 +21746,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "546d97e71f6c124698fe3a75a09bb94916e01db9",
-      "title": "Cave of Mutilation | The Glass Cannon Podcast Giantslayer E28 | Pathfinder 1E",
-      "published_at": "2015-12-08T05:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/9391446/episode-28-cave-of-mutilation/",
-      "description": "With a battered and bound Skreed in tow, the adventurers seek a way out of the caverns beneath Bloodmarch Hill. But will curiosity get the better of them as they stumble into even greater danger? For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD3809870183.mp3?updated=1707329237",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4701",
-      "speakers": [],
-      "topics": [
-        "mutilation",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "db94ab9d0cfe73da9d79530edca23db42730f8d2",
-      "title": "Skreed Between the Lines | The Glass Cannon Podcast Giantslayer E27 | Pathfinder 1E",
-      "published_at": "2015-12-01T05:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/9391445/episode-27-skreed-between-the-lines/",
-      "description": "With the mastermind behind the Trunau attacks finally subdued, the party gets their chance to pry what clues they can of the larger plot. But a threat still lurks in the darkness that could make this ancient underground tomb our heroes' final resting place as well! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD1575283336.mp3?updated=1707328966",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3996",
-      "speakers": [],
-      "topics": [
-        "skreed",
-        "lines",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "9a5f39875b8f6fbf2ba10efc6eb549217026c33a",
-      "title": "Assassin Skreed 2 | The Glass Cannon Podcast Giantslayer E26 | Pathfinder 1E",
-      "published_at": "2015-11-24T05:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/9391444/episode-26-assassin-skreed-2/",
-      "description": "The battle concludes as the party draws upon all their might in an attempt to cast down their adversary. But will they even stand a chance against this seemingly invincible foe? For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD9248918051.mp3?updated=1707328959",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4000",
-      "speakers": [
-        "Assassin Skreed"
-      ],
-      "topics": [
-        "assassin",
-        "skreed",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21762,7 +21754,10 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — Carpenter | We Shouldn't Be Alive E9 | Twilight: 2000
+- 2026-08-05 — Pendragon: The Boy King Part 2 | Chaosium | Gen Con 2026 — speakers: Boy King, Gen Con
 - 2026-08-04 — Pendragon: The Boy King Part 1 | Chaosium | Gen Con 2026 — speakers: Boy King, Gen Con
+- 2026-08-03 — GCN News Minute August 3, 2026 — speakers: News Minute August, Gen Con
 - 2026-08-03 — Call of Cthulhu: Innsmouth | Chaosium | Gen Con 2026 — speakers: Gen Con, Brian Holland
 - 2026-08-03 — A True Friend | Blood of the Wild S1 E33 | Pathfinder 2E Quest for the Frozen Flame — speakers: True Friend, Frozen Flame Red Cat
 - 2026-08-01 — Bumps in the Night | Time For Chaos S4 E4 | Call of Cthulhu Masks of Nyarlathotep
@@ -22759,6 +22754,3 @@
 - 2015-12-29 — A River Puns Through It | The Glass Cannon Podcast Giantslayer E31 | Pathfinder 1E — speakers: Chelish Devil
 - 2015-12-22 — Nobody Expects the Thomas Exposition! | The Glass Cannon Podcast Giantslayer E30 | Pathfinder 1E
 - 2015-12-15 — Ivory Hall & Oates | The Glass Cannon Podcast Giantslayer E29 | Pathfinder 1E
-- 2015-12-08 — Cave of Mutilation | The Glass Cannon Podcast Giantslayer E28 | Pathfinder 1E
-- 2015-12-01 — Skreed Between the Lines | The Glass Cannon Podcast Giantslayer E27 | Pathfinder 1E
-- 2015-11-24 — Assassin Skreed 2 | The Glass Cannon Podcast Giantslayer E26 | Pathfinder 1E — speakers: Assassin Skreed

@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-07-28T03:40:53+00:00`
-- checked_at: `2026-08-04T17:05:38+00:00`
-- etag: `"8eac694c97e5ac5b0a31a5f26de443fc"`
+- fetched_at: `2026-08-05T09:09:51+00:00`
+- checked_at: `2026-08-05T09:09:51+00:00`
+- etag: `"cc5517b97aae864d2286b2b6fc66ea64"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-07-28T03:40:53+00:00",
+  "fetched_at": "2026-08-05T09:09:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "7d72278ee3fbff682db3efabcee69d1a699d8ffc",
+      "title": "Kenku Bin Wizards: Saving the Wastes part 3",
+      "published_at": "2026-08-05T03:41:21+00:00",
+      "link": "https://fandible.com/kenku-bin-wizards-saving-the-wastes-part-3/",
+      "description": "Finding the mayor, the kenku plan thier pignapping. The post Kenku Bin Wizards: Saving the Wastes part 3 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/459_KBW_SavingtheWastes/813_KBW_SavingtheWastespart3.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30902884",
+      "itunes_duration": "42:26",
+      "speakers": [
+        "Kenku Bin Wizards"
+      ],
+      "topics": [
+        "kenku",
+        "wizards",
+        "wastes"
+      ]
+    },
     {
       "key": "1757ec02a8bb399e5983538ec8dc748168a2cc95",
       "title": "Kenku Bin Wizards: Saving the Wastes part 2",
@@ -11362,27 +11382,6 @@
       "topics": [
         "prime"
       ]
-    },
-    {
-      "key": "fb708dbafdabc0478caea40b724bc07090ac8bce",
-      "title": "Bubblegumshoe: Veronica Base, Casefile #001 2 of 2",
-      "published_at": "2016-08-12T15:07:58+00:00",
-      "link": "https://fandible.com/bubblegumshoe-veronica-base-casefile-001-2-2/",
-      "description": "As the mystery grows deeper, and Settler's Day approaches, the teen sleuths discover just how much they're willing to sacrifice to help a friend. Cooties are nothing when friendship is on the line. The post Bubblegumshoe: Veronica Base, Casefile #001 2 of 2 appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/189_BGS_VeronicaBase001/Fan_309_BGS_VeronicaBase001p2of2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "58214974",
-      "itunes_duration": "2:01:13",
-      "speakers": [
-        "Veronica Base"
-      ],
-      "topics": [
-        "bubblegumshoe",
-        "veronica",
-        "base",
-        "casefile"
-      ]
     }
   ]
 }
@@ -11391,6 +11390,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — Kenku Bin Wizards: Saving the Wastes part 3 — speakers: Kenku Bin Wizards
 - 2026-07-28 — Kenku Bin Wizards: Saving the Wastes part 2 — speakers: Kenku Bin Wizards
 - 2026-07-21 — Kenku Bin Wizards: Saving the Wastes part 1 — speakers: Kenku Bin Wizards
 - 2026-07-06 — Black Powder & Brimstone: Valorous Hands part 3 — speakers: Black Powder, Valorous Hands
@@ -11990,4 +11990,3 @@
 - 2016-09-02 — Age of Sigmar: Agents of the Gods — speakers: Gods Tasked
 - 2016-08-26 — Shadowrun: Prime Ep 8 part 2 of 2
 - 2016-08-19 — Shadowrun: Prime Ep 8 part 1 of 2
-- 2016-08-12 — Bubblegumshoe: Veronica Base, Casefile #001 2 of 2 — speakers: Veronica Base
