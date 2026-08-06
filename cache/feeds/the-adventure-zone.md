@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-07-30T11:22:47+00:00`
-- checked_at: `2026-07-30T11:22:47+00:00`
-- etag: `"86409d6b6a1643e8557fad52837622de"`
-- last_modified: `Fri, 24 Jul 2026 18:49:01 GMT`
+- fetched_at: `2026-08-06T11:34:56+00:00`
+- checked_at: `2026-08-06T11:34:56+00:00`
+- etag: `"aa3dcdc9bc564b75d087d0d5aed6e20e"`
+- last_modified: `Thu, 06 Aug 2026 11:00:17 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-07-30T11:22:47+00:00",
+  "fetched_at": "2026-08-06T11:34:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "34ba804eb4b8537d9834ce1c4710de0cacbf0f13",
+      "title": "The Adventure Zone Royale: Episode 30",
+      "published_at": "2026-08-06T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-royale-episode-30-Vk7BDXZ2",
+      "description": "The final battle is at hand. The remaining aspirants give their all for glory and their own survival. Royale Theme: “Wizard Disco” by Louie Zong: https://louiezong.bandcamp.com/album/wizard-disco Original Music by Griffin McElroy Additional Music in this Episode: \"Fireball\" by Jar of Flies: https://jaroffliesofficial.bandcamp.com/; \"The Fae\" by Mark Lingard: https://freemusicarchive.org/music/mark-lingard/; Welcome Home\" and \"Something's Not Right\" by Kirk Osamayo: https://freemusicarchive.org/music/kirk-osamayo/; \"Aisles\" by Jahzzar: http://www.betterwithmusic.com/; \"VIII\" by ROZKOL: https://rozkol.bandcamp.com/; \"Haunts\" by Triple5 Here: https://freemusicarchive.org/music/triple5-here/'; \"The Redemption in Her Amrs” by Schemawound: http://schemawound.com/; and Taffy Machine\" by Kate Kody: https://freemusicarchive.org/music/kate-kody/. Native Women Lead: https://www.nativewomenlead.org/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
+      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/4147657f-fb7e-4f03-ae06-06e68ad04fc4/3000x3000/tazroyalecoverresizedforsite.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/63eae600-76d0-4ffa-8fa3-0b49fa8ad560/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=63eae600-76d0-4ffa-8fa3-0b49fa8ad560&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86827425",
+      "itunes_duration": "01:25:27",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "royale"
+      ]
+    },
     {
       "key": "328b6190dda8b978a463a977f70d017e40d11d6f",
       "title": "The Adventure Zone Royale: Episode 29",
@@ -8064,6 +8082,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-06 — The Adventure Zone Royale: Episode 30
 - 2026-07-23 — The Adventure Zone Royale: Episode 29
 - 2026-07-09 — The Adventure Zone Royale: Episode 28
 - 2026-06-25 — The Adventure Zone Royale: Episode 27
