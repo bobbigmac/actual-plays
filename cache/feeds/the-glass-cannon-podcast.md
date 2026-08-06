@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-08-05T09:09:51+00:00`
-- checked_at: `2026-08-05T09:09:51+00:00`
-- last_modified: `Wed, 05 Aug 2026 04:00:00 GMT`
+- fetched_at: `2026-08-06T09:09:38+00:00`
+- checked_at: `2026-08-06T09:09:38+00:00`
+- last_modified: `Thu, 06 Aug 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-05T09:09:51+00:00",
+  "fetched_at": "2026-08-06T09:09:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "667cadf740da4fe96884707e59cbac2cc388cfec",
+      "title": "Justice League Unlimited The Roleplaying Game | D20 Culture | Gen Con 2026",
+      "published_at": "2026-08-06T04:00:00+00:00",
+      "link": null,
+      "description": "With Metropolis under siege, three newly minted heroes must jump into action to face a hidden threat. Support the launch of Justice League Unlimited Roleplaying Game today at https://bit.ly/3RIuvOD Justice League Unlimited The Roleplaying Game, published by D20 Culture and co-authored by renowned DC creator Mark Waid, is a narrative driven tabletop roleplaying game that will invite players to forge their own legends within the expansive DC universe. Players can either create a unique hero or assume the identity of established characters. Get your 7-day Free Trial to thousands of hours of exclusive TTRPG content at https://jointhenaish.com/ Watch the video here: https://youtu.be/IBi6fCopyP0 Cast: Sydney Amanuel, Matthew Capodicasa, Mary Lou, and Jared Logan (GM) Special thanks to the team at D20 Culture for sponsoring this video! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6102d9cc-89dd-11f1-9994-27b46db0ef50/image/33cc2dea6af0edb9a29125ba452c2631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1420060689.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8073",
+      "speakers": [
+        "Gen Con"
+      ],
+      "topics": [
+        "justice",
+        "league",
+        "unlimited",
+        "roleplaying",
+        "game",
+        "culture"
+      ]
+    },
     {
       "key": "cca24542dcb1c0b260a3e254b3eee99c2dea2456",
       "title": "Carpenter | We Shouldn't Be Alive E9 | Twilight: 2000",
@@ -21723,29 +21746,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "2b277ffc050bd745b90179c6362c9de73b45a971",
-      "title": "Ivory Hall & Oates | The Glass Cannon Podcast Giantslayer E29 | Pathfinder 1E",
-      "published_at": "2015-12-15T05:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/9391447/episode-29-ivory-hall-oates/",
-      "description": "The Glass Cannon boys take a moment to reflect on the events of Book One of the Giantslayer campaign (and drop a little knowledge on the world of Golarion) before launching into the exciting events of Book Two! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD6187843777.mp3?updated=1707329354",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5076",
-      "speakers": [],
-      "topics": [
-        "ivory",
-        "hall",
-        "oates",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21754,6 +21754,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-06 — Justice League Unlimited The Roleplaying Game | D20 Culture | Gen Con 2026 — speakers: Gen Con
 - 2026-08-05 — Carpenter | We Shouldn't Be Alive E9 | Twilight: 2000
 - 2026-08-05 — Pendragon: The Boy King Part 2 | Chaosium | Gen Con 2026 — speakers: Boy King, Gen Con
 - 2026-08-04 — Pendragon: The Boy King Part 1 | Chaosium | Gen Con 2026 — speakers: Boy King, Gen Con
@@ -22753,4 +22754,3 @@
 - 2016-01-05 — Stop, Croc and Roll | The Glass Cannon Podcast Giantslayer E32 | Pathfinder 1E
 - 2015-12-29 — A River Puns Through It | The Glass Cannon Podcast Giantslayer E31 | Pathfinder 1E — speakers: Chelish Devil
 - 2015-12-22 — Nobody Expects the Thomas Exposition! | The Glass Cannon Podcast Giantslayer E30 | Pathfinder 1E
-- 2015-12-15 — Ivory Hall & Oates | The Glass Cannon Podcast Giantslayer E29 | Pathfinder 1E
