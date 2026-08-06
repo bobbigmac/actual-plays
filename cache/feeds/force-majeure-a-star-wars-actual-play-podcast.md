@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-07-27T04:06:21+00:00`
-- checked_at: `2026-07-27T04:06:21+00:00`
-- etag: `"9aced69c9e939d6adf821cdbe2dcce9a"`
-- last_modified: `Sun, 26 Jul 2026 23:38:20 GMT`
+- fetched_at: `2026-08-06T14:37:59+00:00`
+- checked_at: `2026-08-06T14:37:59+00:00`
+- etag: `"dff504001e6071279f862db4a2635b7e"`
+- last_modified: `Wed, 05 Aug 2026 16:35:50 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! Twitter / Facebook / Instagram: @forcemajeurepod Website: www.forcemajurepod.com",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-07-27T04:06:21+00:00",
+  "fetched_at": "2026-08-06T14:37:59+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "1719916064d46bb07df8a25963c2c8e5fb0e1a60",
+      "title": "Bring Down the Sky - Coming Soon!",
+      "published_at": "2026-08-04T23:30:00+00:00",
+      "link": "https://forcemajeurepod.libsyn.com/bring-down-the-sky-coming-soon",
+      "description": "Coming on the 2nd September - Bring Down the Sky! A Mecha Hack actual play podcast from Albert the Llama Enterprises! Join the heroic pilots of Fireteam: sabre Harmony as they fight for honour, freedom and survival in the war-torn galaxy of Lodestar Alpha! Subscribe wherever you get your podcasts! Episode Music: \"Combat Two\" by Alexander Nakarada ( https://www.creatorchords.com ) Used with gratitude under the Creative Commons licence",
+      "image_url": "https://static.libsyn.com/p/assets/b/9/d/6/b9d60dc79d3897afd959afa2a1bf1c87/Bring_Down_The_Sky_-_Albert.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/forcemajeurepod/BDtS_Promo_-_FM_and_DM.mp3?dest-id=604132",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "2675435",
+      "itunes_duration": "01:54",
+      "speakers": [
+        "Mecha Hack"
+      ],
+      "topics": []
+    },
     {
       "key": "45239f56a831182349ce752d7fad4435c9bdde3d",
       "title": "A Shot At Redemption E13 - Tryk or Treat",
@@ -4529,6 +4545,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-04 — Bring Down the Sky - Coming Soon! — speakers: Mecha Hack
 - 2026-07-26 — A Shot At Redemption E13 - Tryk or Treat
 - 2026-07-13 — A Shot At Redemption E12 - The Sinner — speakers: Adam Beltaine
 - 2026-06-29 — A Shot At Redemption E11 - The Jallo Farmstead
