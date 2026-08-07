@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-07-31T16:59:01+00:00`
-- checked_at: `2026-07-31T16:59:01+00:00`
-- last_modified: `Fri, 31 Jul 2026 16:08:15 GMT`
+- fetched_at: `2026-08-07T16:10:59+00:00`
+- checked_at: `2026-08-07T16:10:59+00:00`
+- last_modified: `Fri, 07 Aug 2026 16:00:40 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-31T16:59:01+00:00",
+  "fetched_at": "2026-08-07T16:10:59+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,25 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "9b99a26937092303c2dcb666a22258a7177aafc2",
+      "title": "Obscure: Found Footage RPG #3",
+      "published_at": "2026-08-07T16:00:00+00:00",
+      "link": null,
+      "description": "Welcome back to Obscure, the found footage TTRPG by Sunzenaut. Exploring deeper inside St Sanchez asylum the institutes dark legacy is only matched by the horror of the creature that now pursues the crew. Can they get out alive with the footage? Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Check out Obscure by Sunzenaut here: https://sunzenaut.itch.io/obscure Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: @AngoryTom Lydia: https://www.twitch.tv/squidgame Tom Bates: @TomBates Alex Smith: @hatfilms Briony: https://www.twitch.tv/brionykay Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR5543428782.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5668",
+      "speakers": [
+        "St Sanchez",
+        "Tom Bates"
+      ],
+      "topics": [
+        "footage"
+      ]
+    },
     {
       "key": "6758846e0b4357ceb3a41e90f979c2d2b6b65067",
       "title": "Obscure: Found Footage RPG #2",
@@ -3217,6 +3236,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-07 — Obscure: Found Footage RPG #3 — speakers: St Sanchez, Tom Bates
 - 2026-07-31 — Obscure: Found Footage RPG #2 — speakers: Tom Bates
 - 2026-07-24 — Obscure: Found Footage RPG #1 — speakers: Tom Bates
 - 2026-07-17 — Mythic Bastionland #7 — speakers: Mythic Bastionland, Saltmere Reach, Tom Bates
