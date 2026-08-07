@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-07-31T14:39:38+00:00`
-- checked_at: `2026-07-31T14:39:38+00:00`
-- etag: `W/"08e8b122495c8532ffff06c72d2fe424"`
-- last_modified: `Fri, 31 Jul 2026 09:00:00 GMT`
+- fetched_at: `2026-08-07T10:13:23+00:00`
+- checked_at: `2026-08-07T10:13:23+00:00`
+- etag: `W/"834042c94b8bd404dd57d26f2b556a9c"`
+- last_modified: `Fri, 07 Aug 2026 09:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,31 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-07-31T14:39:38+00:00",
+  "fetched_at": "2026-08-07T10:13:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "48956058a35bf409298fb1e6f7842dd0f3c8b209",
+      "title": "Axis Arc 3 Ep 3 - ELF PART 1",
+      "published_at": "2026-08-07T09:00:00+00:00",
+      "link": "https://audioboom.com/posts/8931560",
+      "description": "Our Bros come face to face with every Turlett’s worst nightmare, a workers union. However it soon becomes clear that their mission may be more closely aligned with the goals of ELF than they first thought. --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code SHADDY50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
+      "image_url": "https://audioboom.com/i/43730830.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8931560.mp3?modified=1784803705&sid=5167570&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2831",
+      "speakers": [
+        "worst nightmare"
+      ],
+      "topics": [
+        "axis"
+      ]
+    },
     {
       "key": "041ed4916fddbc73a757bbd9cc8bee97376e0078",
       "title": "Axis Arc 3 Ep 2 - Shooting Stars PART 2",
@@ -2853,6 +2871,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-07 — Axis Arc 3 Ep 3 - ELF PART 1 — speakers: worst nightmare
 - 2026-07-31 — Axis Arc 3 Ep 2 - Shooting Stars PART 2 — speakers: Axis Arc, Shooting Stars
 - 2026-07-24 — Axis Arc 3 Ep 2 - Shooting Stars PART 1 — speakers: Axis Arc, Shooting Stars
 - 2026-07-17 — Axis Arc 3 Ep 1 - Three Wise Bros PART 2
