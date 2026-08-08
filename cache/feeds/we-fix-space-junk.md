@@ -2,9 +2,9 @@
 
 - slug: `we-fix-space-junk`
 - source: `https://feeds.megaphone.fm/wefixspacejunk`
-- fetched_at: `2026-07-29T14:33:34+00:00`
-- checked_at: `2026-07-29T14:33:34+00:00`
-- last_modified: `Wed, 29 Jul 2026 14:25:19 GMT`
+- fetched_at: `2026-08-08T02:23:50+00:00`
+- checked_at: `2026-08-08T02:23:50+00:00`
+- last_modified: `Wed, 05 Aug 2026 23:07:08 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://battlebird.productions",
   "description": "'We Fix Space Junk' follows seasoned smuggler Kilner and reluctant fugitive Samantha as they travel the galaxy, dodging bullets and meeting strange and wonderful beings as they carry out odd jobs on the fringes of the law. A female-led sci-fi comedy sitcom set in the far future, in a high-tech, dystopian world, We Fix Space Junk draws on the sci-fi of the past, following in the footsteps of Harry Harrison and of Douglas Adams' Hitchhiker's Guide to the Galaxy. Equal parts love-letter to sci-fi and satire of the present-day, Space Junk is lovingly produced by Beth Crane and Hedley Knights of Battle Bird Productions. To support the show visit patreon.com/BattleBirdProd or visit Battlebird.productions",
   "image_url": "https://megaphone.imgix.net/podcasts/8c376dd8-0f0d-11ec-8651-57ea866800e0/image/8d5a72f1090250cbefae2050b1329e32fb962b991327db690dac1bffa8d2ba047cdd30974dd1f9bdc451659cd75d302dfd61aded64e62bb1377d9d88df6be606.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-29T14:33:34+00:00",
+  "fetched_at": "2026-08-08T02:23:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "fiction/audiobook"
   ],
   "episodes": [
+    {
+      "key": "e7f7cd8092488d7d2e7a4c0f7900a521c8f07d9e",
+      "title": "Introducing... Jack Valentine, Vampire Detective",
+      "published_at": "2026-08-05T23:00:00+00:00",
+      "link": null,
+      "description": "Hello! Before I introduce you to my dear friend Jack, a quick reminder that if you’re about on September 6th we’re doing a live show at the London Podcast Festival as part of Audio Drama Day! We’re on at 2:30 and tickets are just £16! This may well be our last live show - and will definitely be our last one for a long while - so if you want to see us on stage, now’s the time! And now, on to Jack! So while we were working on season 4 we were also, behind the scenes, working on a whole new show. Introducing: Jack Valentine, Vampire Detective, by Josie Jaffrey. A prequel to her Jack Valentine book series, Jack Valentine Vampire Detective follows Jack Valentine, a detective with the Seekers, a vampire police force operating in Oxford, as she deals with a series of grisly murders that seem a little too familiar… It’s directed by Jen Sugden of Victoriocity and recorded, sound designed and mastered by us here at Battle Bird Productions, with a theme tune by the one and only Hedley Knights. It features Grace Kelly Miller from No Small Rolls as Jack alongside a whole host of other voices, some new and some you’ll definitely recognise. It’s available on all podcatchers and there are five episodes ready for you to sink your teeth into! Listen on for episode one: Dead Man’s Hand! Content Warnings: Murder Death Violence Description of corpses Forensic Investigation Blood Drinking Alcohol Use Drugging Mentions of Adultery Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d6731946-90cd-11f1-a87f-63c475a8afaa/image/99765e86ba9c3a40b35e3983589ba574.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO7012141413.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2482",
+      "speakers": [
+        "Jack Valentine",
+        "Vampire Detective"
+      ],
+      "topics": [
+        "jack",
+        "valentine",
+        "vampire",
+        "detective"
+      ]
+    },
     {
       "key": "52b6159859f94d50d56d59c735156883ed1c8091",
       "title": "A Couple of Quick Announcements... (Including Live Show!)",
@@ -1562,6 +1584,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — Introducing... Jack Valentine, Vampire Detective — speakers: Jack Valentine, Vampire Detective
 - 2026-07-29 — A Couple of Quick Announcements... (Including Live Show!)
 - 2026-06-29 — S04 E08 - S.O.S.
 - 2026-06-15 — S04 E07 - Sylbie
