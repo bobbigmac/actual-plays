@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-08-07T05:05:27+00:00`
-- checked_at: `2026-08-07T05:05:27+00:00`
-- last_modified: `Fri, 07 Aug 2026 04:00:00 GMT`
+- fetched_at: `2026-08-08T04:30:57+00:00`
+- checked_at: `2026-08-08T04:30:57+00:00`
+- last_modified: `Sat, 08 Aug 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-07T05:05:27+00:00",
+  "fetched_at": "2026-08-08T04:30:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "f20d3653c6524af123c5b9dad5f4a0928679e2ea",
+      "title": "If Only We Knew | Time For Chaos S4 E5 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2026-08-08T04:00:00+00:00",
+      "link": null,
+      "description": "The trail to Robert Huston grows stranger by the mile as the investigators uncover unsettling evidence that they are chasing more than a missing expedition. For a limited time, use code \"TFC4\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠ ⁠, including Overtime For Chaos, our exclusive Time For Chaos companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Watch the video here: ⁠⁠⁠⁠⁠ https://youtu.be/n6uaCpMG9v4 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b7da8766-928b-11f1-9160-c3208377c77d/image/01b40cf78d1740fff23fac1d9165ce94.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6611192981.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7274",
+      "speakers": [
+        "Robert Huston"
+      ],
+      "topics": [
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
     {
       "key": "a988da6f5fbd02d3428035940ab6ce18fbc9a458",
       "title": "The Roomkeepers | The Glass Cannon Podcast Shadowdark E38 | Shadowdark RPG",
@@ -21722,30 +21744,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "288b82efa749f1e43c09ab318eb6b4c31e79ced0",
-      "title": "A River Puns Through It | The Glass Cannon Podcast Giantslayer E31 | Pathfinder 1E",
-      "published_at": "2015-12-29T05:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/9391449/episode-31-a-river-puns-through-it/",
-      "description": "Avast ye mateys! The party sets sail aboard the Chelish Devil. Their destination? Adventure! Will these landlubbers take to boating like a duck to water or will they go overboard when they smell something...fishy? For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD9294761843.mp3?updated=1707329573",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4446",
-      "speakers": [
-        "Chelish Devil"
-      ],
-      "topics": [
-        "river",
-        "puns",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21754,6 +21752,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-08 — If Only We Knew | Time For Chaos S4 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Robert Huston
 - 2026-08-07 — The Roomkeepers | The Glass Cannon Podcast Shadowdark E38 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-08-06 — Justice League Unlimited The Roleplaying Game | D20 Culture | Gen Con 2026 — speakers: Gen Con
 - 2026-08-05 — Carpenter | We Shouldn't Be Alive E9 | Twilight: 2000
@@ -22753,4 +22752,3 @@
 - 2016-01-19 — Hate the Drake! | The Glass Cannon Podcast Giantslayer E34 | Pathfinder 1E
 - 2016-01-12 — A Dick in the Boat | The Glass Cannon Podcast Giantslayer E33 | Pathfinder 1E
 - 2016-01-05 — Stop, Croc and Roll | The Glass Cannon Podcast Giantslayer E32 | Pathfinder 1E
-- 2015-12-29 — A River Puns Through It | The Glass Cannon Podcast Giantslayer E31 | Pathfinder 1E — speakers: Chelish Devil

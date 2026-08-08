@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-08-07T05:05:27+00:00`
-- checked_at: `2026-08-07T05:05:27+00:00`
-- etag: `"5e1977e4882c223b97aecf1f6b914144"`
-- last_modified: `Fri, 07 Aug 2026 02:50:13 GMT`
+- fetched_at: `2026-08-08T04:30:57+00:00`
+- checked_at: `2026-08-08T04:30:57+00:00`
+- etag: `"960c025bc4a64772bca1097505179b5b"`
+- last_modified: `Sat, 08 Aug 2026 02:38:08 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-08-07T05:05:27+00:00",
+  "fetched_at": "2026-08-08T04:30:57+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "690470494ca40d1248edcd69fe749413d16a597c",
+      "title": "Perpetua 46: Escape the Rumbling Castle! 06",
+      "published_at": "2026-08-08T02:37:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-46-escape-the-rumbling-castle-06",
+      "description": "Confrontations with Villains need not be catastrophic. Some hostile encounters, including those against enemy bosses, can be de-escalated through conversation or completed through clever use of Objective action. Parties specializing in tools of foresight can leverage their navigational upperhand to outmaneuver potentially deadly encounters all together. Some clashes—especially those with reality-shaking stakes—seem written into the fabric of Perpetua itself. But even these, despite the long odds, have many possible resolutions. This week on Perpetua: Escape the Rumbling Castle! 06 Perpetua Guide [In Progress v.06] Some Feedback [Page 68 of 68] CarlsSr So uh, has anyone won the big fight in Eschatonica? TheUnforgivenIII Holeeeeeyyyyy $#!+!!! HOT SHOT CARLS SR (more like JUNIOR) FINALLY HAS TO ASK US LOWLY NOOBS A QUESTION. Not such a big shot one-liner now are you. Finally got brought down to your knees by the Creed of Oracles and their holy knights, huh? Doom_Tree_Anne Okay, Unforgiven, let's dial it back a little bit. Not everyone is perfect. In fact, you even got something wrong in your post. They're not \"holy knights,\" which you would know if you had played Armidirge II: Marcellina's Tears (which came out in the US and UK as Armidirge 2: Holy Reign). About halfway through the game, right after the destruction of the East Cathedral, Beri calls Carcenia \"one of those high-and-mighty holy knights of the Creed\" and Carcenia says \"Tsk. There haven't been holy knights for six hundred years. We are saints, revived!\" In any case, I had a pretty hard time with that fight until I just let Antistrophe take the lead. You can really build him perfectly for the one-on-one fights! FriendOfNei Agreed on Antistrophe there, though if you mean the second fight with the Creed, there's a lot of other options. The key (I think) is making sure to get the second party involved as soon as possible. Otherwise you can really get overwhelmed, especially by Ushala with all that multi-target light damage she can do. CarlsSr Wait. You thought I was talking about THAT fight? Lololol, you really are all lost. Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), Janine Hawkins ( @bleatingheart ), Sylvi Bullet ( @sylvibullet ), Keith J Carberry ( @keithjcarberry ) and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_46_Escape_the_Rumbling_Castle_06.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "140708216",
+      "itunes_duration": "02:06:45",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "rumbling",
+        "castle"
+      ]
+    },
     {
       "key": "ee41c2f871f82e04a3efded1e59e4bb49b767ec7",
       "title": "Perpetua 45: Escape the Rumbling Castle! 05",
@@ -11586,6 +11606,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-08 — Perpetua 46: Escape the Rumbling Castle! 06 — speakers: Austin Walker
 - 2026-07-27 — Perpetua 45: Escape the Rumbling Castle! 05 — speakers: Rumbling Castle, Austin Walker
 - 2026-07-04 — Perpetua 44: Escape the Rumbling Castle! 04 — speakers: Rumbling Castle, Little Snail, Austin Walker
 - 2026-06-25 — Marielda 10th Anniversary Soundtrack Vinyl Available to Pre-Order Now! — speakers: Uklan Tel, Austin Walker
