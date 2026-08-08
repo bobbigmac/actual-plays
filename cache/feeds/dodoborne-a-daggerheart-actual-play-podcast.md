@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-08-07T16:10:59+00:00`
-- checked_at: `2026-08-07T16:10:59+00:00`
-- etag: `W/"c851b9739220a689a642433deba63d2e"`
-- last_modified: `Fri, 07 Aug 2026 14:26:09 GMT`
+- fetched_at: `2026-08-08T13:15:19+00:00`
+- checked_at: `2026-08-08T13:15:19+00:00`
+- etag: `W/"a4d72e47bfefc2fd69a56e32948bb7f9"`
+- last_modified: `Sat, 08 Aug 2026 10:37:22 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://dodoborne.transistor.fm/",
   "description": "DodoBorne is an improvised comedy storytelling podcast where five friends dive into Daggerheart, the tabletop roleplaying game from Darrington Press. Whether you're looking for adventure, romance, mystery, or nonsense, DodoBorne offers a welcoming mix of humor, heart, and collaborative storytelling that we hope will keep you coming back for more. With Season 3 serving as a fresh starting point for new viewers, there's never been a better time to join the flock! New episodes air every other Monday.",
   "image_url": "https://img.transistorcdn.com/8gaSb-T8iGE_guMXbKf58wsPBhrF7Cw7aXpzwEf7pAM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMjY0/MDdmZTkzNWEyMWNh/YzFlNmM0ZTVmY2I2/ODE4My5wbmc.jpg",
-  "fetched_at": "2026-08-07T16:10:59+00:00",
+  "fetched_at": "2026-08-08T13:15:19+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -32,14 +32,14 @@
       "title": "3.4 Cove of Compulsion",
       "published_at": "2026-07-27T23:05:00+00:00",
       "link": "https://share.transistor.fm/s/cec0f8b0",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Deep in a riverside cove, our dodos find themselves entranced with beautiful song. Little do they know, while they are charmed by beautiful visions from the depths of their psyche, terrible beasties from the deep threaten to swallow them whole! Will our heroes be able to stave off the alluring music? Will their Odyssey be sent off course by the sirens that await them? Will the GM survive all the crits? Find out now! Join the Flock on our Patreon for episode talk backs, GM insights, deleted scenes, and more! Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. System: Daggerheart Genre: Fantasy Actual Play New episodes every other Monday Learn more at Dodoborne.com Character sheets and user interface in Dodoborne powered by Demiplane.com Music in this episode created by: Daniel Bukin Raine B The Beekeeper Listen to the music from this episode and other Dodotunes HERE ! ★ Support this podcast on Patreon ★",
+      "description": "Deep in a riverside cove, our dodos find themselves entranced with beautiful song. Little do they know, while they are charmed by beautiful visions from the depths of their psyche, terrible beasties from the deep threaten to swallow them whole! Will our heroes be able to stave off the alluring music? Will their Odyssey be sent off course by the sirens that await them? Will the GM survive all the crits? Find out now! Join the Flock on our Patreon for episode talk backs, GM insights, deleted scenes, and more! Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. System: Daggerheart Genre: Fantasy Actual Play New episodes every other Monday Learn more at Dodoborne.com Character sheets and user interface in Dodoborne powered by Demiplane.com Music in this episode created by: Daniel Bukin Raine B The Beekeeper Listen to the music from this episode and other Dodotunes HERE ! ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/sGa9uzuZLqSnAb3bbwl8CFGYWl_xKoepcaGlJfmhZ_Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNzNj/YzQ5ZmIwYzA1OGMx/ZTQxM2JiMWZlM2Vi/MWIzNS5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/cec0f8b0/ee80b8d4.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46518373",
       "itunes_duration": "2902",
       "speakers": [
-        "Compulsion Season"
+        "beautiful song"
       ],
       "topics": [
         "cove",
@@ -51,14 +51,14 @@
       "title": "3.3 Coerced Compliance",
       "published_at": "2026-07-13T23:00:00+00:00",
       "link": "https://share.transistor.fm/s/c0aa0680",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Our heroes have just been summoned to the Adventuring Guild for some missions! The job is never finished, it seems. But an unfamiliar face awaits, ready to make their work even harder. Are the dodos willing to rise to meet this new challenge? Find out now! This episode is sponsored by Heart of Daggers! Heart of Daggers gives Daggerheart players and GMs a full online toolkit for free, including the character creator, encounter manager, adventure builder, campaign manager, homebrew vault, and more! Check it out at HeartofDaggers.com Join the Flock on our Patreon for episode talk backs, GM insights, deleted scenes, and more! Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. System: Daggerheart Genre: Fantasy Actual Play New episodes every other Monday Learn more at Dodoborne.com Character sheets and user interface in Dodoborne powered by Demiplane.com Music in this episode created by: Daniel Bukin Isaac Allen Burns Rowan Collins Listen to the music from this episode and other Dodotunes HERE ! ★ Support this podcast on Patreon ★",
+      "description": "Our heroes have just been summoned to the Adventuring Guild for some missions! The job is never finished, it seems. But an unfamiliar face awaits, ready to make their work even harder. Are the dodos willing to rise to meet this new challenge? Find out now! This episode is sponsored by Heart of Daggers! Heart of Daggers gives Daggerheart players and GMs a full online toolkit for free, including the character creator, encounter manager, adventure builder, campaign manager, homebrew vault, and more! Check it out at HeartofDaggers.com Join the Flock on our Patreon for episode talk backs, GM insights, deleted scenes, and more! Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. System: Daggerheart Genre: Fantasy Actual Play New episodes every other Monday Learn more at Dodoborne.com Character sheets and user interface in Dodoborne powered by Demiplane.com Music in this episode created by: Daniel Bukin Isaac Allen Burns Rowan Collins Listen to the music from this episode and other Dodotunes HERE ! ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/D-RImh_9812uQoJM4xeVaWtbA5MWoL6dj2HIBgiV7no/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hOTRm/NmM5NTgwM2MwNzA3/MTlmMDVkNzEwZjk5/NTJjNy5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/c0aa0680/12ffb8de.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38142291",
       "itunes_duration": "2379",
       "speakers": [
-        "Coerced Compliance Season"
+        "Adventuring Guild"
       ],
       "topics": [
         "coerced",
@@ -70,15 +70,13 @@
       "title": "3.2 Couple of Milkshakes",
       "published_at": "2026-06-29T23:00:00+00:00",
       "link": "https://share.transistor.fm/s/023d76b7",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ A shadow in the alley. An old friend (acquaintance?) in the streets. What a bustling market! Our dodos take a light stroll down the lane for sweets and treats and try desperately to ignore the growing tension in the air. Will it simply go away? Or will it snap! Find out now! This episode is sponsored by Heart of Daggers! Heart of Daggers gives Daggerheart players and GMs a full online toolkit for free, including the character creator, encounter manager, adventure builder, campaign manager, homebrew vault, and more! Check it out at HeartofDaggers.com Join the Flock on our Patreon for episode talk backs, GM insights, deleted scenes, and more! Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. System: Daggerheart Genre: Fantasy Actual Play New episodes every other Monday Learn more at Dodoborne.com Character sheets and user interface in Dodoborne powered by Demiplane.com Music in this episode created by: Daniel Bukin Isaac Allen Burns Rowan Collins Listen to the music from this episode and other Dodotunes HERE ! ★ Support this podcast on Patreon ★",
+      "description": "A shadow in the alley. An old friend (acquaintance?) in the streets. What a bustling market! Our dodos take a light stroll down the lane for sweets and treats and try desperately to ignore the growing tension in the air. Will it simply go away? Or will it snap! Find out now! This episode is sponsored by Heart of Daggers! Heart of Daggers gives Daggerheart players and GMs a full online toolkit for free, including the character creator, encounter manager, adventure builder, campaign manager, homebrew vault, and more! Check it out at HeartofDaggers.com Join the Flock on our Patreon for episode talk backs, GM insights, deleted scenes, and more! Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. System: Daggerheart Genre: Fantasy Actual Play New episodes every other Monday Learn more at Dodoborne.com Character sheets and user interface in Dodoborne powered by Demiplane.com Music in this episode created by: Daniel Bukin Isaac Allen Burns Rowan Collins Listen to the music from this episode and other Dodotunes HERE ! ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/ST8BUefHD32Nx9OvMWTFoJeA8xS6C6DTQY3RTsTYkoA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kZWU5/NmUyZDQxNWE2ODQ0/N2YzYmVmMTg5MGQ3/YmQ0ZS5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/023d76b7/9459181a.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37830352",
       "itunes_duration": "2361",
-      "speakers": [
-        "Milkshakes Season"
-      ],
+      "speakers": [],
       "topics": [
         "couple",
         "milkshake"
@@ -89,7 +87,7 @@
       "title": "3.1 Cut To!",
       "published_at": "2026-06-17T01:00:00+00:00",
       "link": "https://share.transistor.fm/s/5769de05",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Join our Patreon for episode talk backs, GM insights, deleted scenes, and more! Well hello there again friends and otherwise! We’ve returned to our story about a few small-town heroes venturing into the great big world of Althea. With a new team and a fresh start, our dodos are ready to tackle the day. But little do they know the day is ready to tackle them back! Find out what awaits our dodos (old and new) in this thrilling premiere! This episode is sponsored by our friends at Demiplane. Check out their digital tools for Daggerheart and other tabletop RPGs at Demiplane.com Follow us on Bluesky , Instagram , or join our Discord for more Dodoborne! Music in this episode created by: Daniel Bukin Isaac Allen Burns Raine B Listen to the music from this episode and other Dodotunes HERE \"Daggerheart (Main Theme Soundtrack)\" by Taylor Ash & Lindsay Dills Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. Learn more at Dodoborne.com ★ Support this podcast on Patreon ★",
+      "description": "Join our Patreon for episode talk backs, GM insights, deleted scenes, and more! Well hello there again friends and otherwise! We’ve returned to our story about a few small-town heroes venturing into the great big world of Althea. With a new team and a fresh start, our dodos are ready to tackle the day. But little do they know the day is ready to tackle them back! Find out what awaits our dodos (old and new) in this thrilling premiere! This episode is sponsored by our friends at Demiplane. Check out their digital tools for Daggerheart and other tabletop RPGs at Demiplane.com Follow us on Bluesky , Instagram , or join our Discord for more Dodoborne! Music in this episode created by: Daniel Bukin Isaac Allen Burns Raine B Listen to the music from this episode and other Dodotunes HERE \"Daggerheart (Main Theme Soundtrack)\" by Taylor Ash & Lindsay Dills Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. Learn more at Dodoborne.com ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/C3ejvToY8T_ikMZWiNMa_L7cGoHuAYmK2tN0oL9P8Nw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MWVm/YjJmMzliMjMwZTRi/NTRmMjM1YWY0OTMy/NTczYS5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/5769de05/d96a69e5.mp3",
       "enclosure_type": "audio/mpeg",
@@ -103,7 +101,7 @@
       "title": "Bonus: The Polaris University Squawk-back Episode",
       "published_at": "2026-06-04T11:22:54+00:00",
       "link": "https://share.transistor.fm/s/733abbeb",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Join the Dodos as we discuss everything from our limited series, Polaris University . The mystery Favorite moments Highs and lows Theories Questions from you, our amazing Squawk Squad! Thank you for all your support. We hope you had as much fun listening as we did making it! See you in Dodoborne Season 3! 👀 Music in this Polaris University was created by Daniel Bukin, Raine B, and the Beekeeper. Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "Join the Dodos as we discuss everything from our limited series, Polaris University . The mystery Favorite moments Highs and lows Theories Questions from you, our amazing Squawk Squad! Thank you for all your support. We hope you had as much fun listening as we did making it! See you in Dodoborne Season 3! 👀 Music in this Polaris University was created by Daniel Bukin, Raine B, and the Beekeeper. Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/RanShjrDxwrAQb-qtavgqBFIgxvyrrSqUMTNUTl06sw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82Y2E5/NDc5ZTBhZjE2Zjk5/N2IwMjQwY2FhOTEx/MmE4Yy5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/733abbeb/3d2995e5.mp3",
       "enclosure_type": "audio/mpeg",
@@ -121,15 +119,14 @@
       "title": "Polaris University 1.7: Resurrection",
       "published_at": "2026-06-02T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/1a411eeb",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ We've found it! The one behind all the tricks and trickery. In this thrilling conclusion to our little side adventure, the team must work together to stop the experiment before it consumes them all. But will their combined powers be enough? Will a scheme that could only be hatched in the magical mishap metropolis of Polaris come to fruition? Will Ilya, of all people, be able to survive this fight? Find out now! Vivi's persistence pays off. Hickory's kicks come into play. Rainy's guts get insulted. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "We've found it! The one behind all the tricks and trickery. In this thrilling conclusion to our little side adventure, the team must work together to stop the experiment before it consumes them all. But will their combined powers be enough? Will a scheme that could only be hatched in the magical mishap metropolis of Polaris come to fruition? Will Ilya, of all people, be able to survive this fight? Find out now! Vivi's persistence pays off. Hickory's kicks come into play. Rainy's guts get insulted. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/-yhrW6fwcAaPq60Hhxt517IhvevjyakeRrTHEQHq3h0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iZjdh/Y2VlYTBkNmNkY2M5/MWRiMjI2MWJlYmM5/Mjc0Mi5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/1a411eeb/0a383a83.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56581079",
       "itunes_duration": "3532",
       "speakers": [
-        "Polaris University",
-        "Resurrection Season"
+        "Polaris University"
       ],
       "topics": [
         "polaris",
@@ -142,15 +139,14 @@
       "title": "Polaris University 1.6: Revelations",
       "published_at": "2026-05-26T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/8c32c2da",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ The plots converge! Our students are creeping ever closer to the answers they seek and are soon about to discover who is behind all of this. After detaining the mysterious individual in broad daylight, the trio must figure out where to go from here and how to solve the final mystery. Will they be victorious, or will they wind up as cute little Gamatochis just like their dear professor? Find out! Hickory builds the team. Rainy keeps the peace. Vivi faces the past. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "The plots converge! Our students are creeping ever closer to the answers they seek and are soon about to discover who is behind all of this. After detaining the mysterious individual in broad daylight, the trio must figure out where to go from here and how to solve the final mystery. Will they be victorious, or will they wind up as cute little Gamatochis just like their dear professor? Find out! Hickory builds the team. Rainy keeps the peace. Vivi faces the past. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/I4p7HbMGDvuxFhhY3caN1F5eH-MlSjQik7sgUMEipgg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84NDgx/MTM1NWUwM2U5YmEz/NmEwYWU1MTUwMGMy/MWNkYy5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/8c32c2da/2feef434.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46304296",
       "itunes_duration": "2890",
       "speakers": [
-        "Polaris University",
-        "Revelations Season"
+        "Polaris University"
       ],
       "topics": [
         "polaris",
@@ -163,15 +159,14 @@
       "title": "Polaris University 1.5: Frescos",
       "published_at": "2026-05-19T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/23c27a8d",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ As the true colors of one Lysander Bellor start to solidify, the gang decides to get some air. Hickory feeds the local wildlife. Vivi gets a new perspective. Rainy shoots her shot. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "As the true colors of one Lysander Bellor start to solidify, the gang decides to get some air. Hickory feeds the local wildlife. Vivi gets a new perspective. Rainy shoots her shot. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/pBkY4n3fEp8dfefsg1uL9-oq7cnZzjZ3KUlu8Pl1bsg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNDlh/MTc5ZjNiZDc4NWQ5/MzYzOGFmNmRiZWVk/ZDI2My5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/23c27a8d/071ed528.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42249038",
       "itunes_duration": "2636",
       "speakers": [
-        "Polaris University",
-        "Frescos Season"
+        "Lysander Bellor"
       ],
       "topics": [
         "polaris",
@@ -184,15 +179,14 @@
       "title": "Polaris University 1.4: Threads",
       "published_at": "2026-05-12T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/faf6ec07",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ As this web is woven thicker and thicker, our students unravel more mysteries, including one that was definitely not meant for their ears. Hickory gets career advice. Rainy is interrogated. Vivi decodes a message. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "As this web is woven thicker and thicker, our students unravel more mysteries, including one that was definitely not meant for their ears. Hickory gets career advice. Rainy is interrogated. Vivi decodes a message. Music in this episode created by Daniel Bukin, Raine B, and the Beekeeper Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/g4SMy8KVWM3nfhSMlixULi4zaLeqEAcnGX2_U35awbw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYjUy/NGRhOGQ0NDI5ZTBh/NzU4NWExYzk3M2Uy/N2FhYS5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/faf6ec07/33a549d9.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40386789",
       "itunes_duration": "2520",
       "speakers": [
-        "Polaris University",
-        "Threads Season"
+        "Polaris University"
       ],
       "topics": [
         "polaris",
@@ -205,7 +199,7 @@
       "title": "Polaris University 1.3: Secrets",
       "published_at": "2026-05-05T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/9ded91cf",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Whew, what a day it’s been! Our students need time to recover after the intense discovery they made yesterday. Little do they know that whoever “Zelda’d” the poor professor isn’t the only one keeping secrets! Hickory has a rendezvous. Rainy tries her best. Vivi is hot to trot. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "Whew, what a day it’s been! Our students need time to recover after the intense discovery they made yesterday. Little do they know that whoever “Zelda’d” the poor professor isn’t the only one keeping secrets! Hickory has a rendezvous. Rainy tries her best. Vivi is hot to trot. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/3f9uXhNWuxU9Hckqr04nJBH74WMwYyNrAn2v4TVgzCg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMjE1/M2RhZDNhMmVkY2Uy/YzE1NTZmNWFjYjY4/OTk1Zi5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/9ded91cf/7d938967.mp3",
       "enclosure_type": "audio/mpeg",
@@ -213,7 +207,7 @@
       "itunes_duration": "2767",
       "speakers": [
         "Polaris University",
-        "Secrets Season"
+        "Secrets Whew"
       ],
       "topics": [
         "polaris",
@@ -226,16 +220,13 @@
       "title": "Polaris University 1.2: Discovery",
       "published_at": "2026-04-28T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/d9fe378a",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Gadzooks and Jinkies! A body has been found! While I can assure you it wasn't Hickory in the Lab with the Lead Pipe, I CAN assure you that a mystery is afoot! Our students must put their heads and antennae together to figure out what happened to their professor. What secrets lie in wait? What strange things will be found? Find out now! Rainy causes a kerfuffle. Hickory is confused. Vivi has mixed results with her magic. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "Gadzooks and Jinkies! A body has been found! While I can assure you it wasn't Hickory in the Lab with the Lead Pipe, I CAN assure you that a mystery is afoot! Our students must put their heads and antennae together to figure out what happened to their professor. What secrets lie in wait? What strange things will be found? Find out now! Rainy causes a kerfuffle. Hickory is confused. Vivi has mixed results with her magic. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/-MU_jVzCUTb2rUPvEzUNInN2ISXi8e768UPUf94oPwQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMzEy/NjRjODM3ZGQxM2Fk/MDYzODNjYTJmOGU4/ODczNi5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/d9fe378a/a195c27b.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46016738",
       "itunes_duration": "2872",
-      "speakers": [
-        "Polaris University",
-        "Discovery Season"
-      ],
+      "speakers": [],
       "topics": [
         "polaris",
         "university",
@@ -247,7 +238,7 @@
       "title": "Polaris University 1.1: Detention",
       "published_at": "2026-04-21T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/9f961bb9",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Welcome to Polaris University! Join us as we follow our three favorite students: Rainy, Hickory, and Vivi, as they navigate school life at the most prestigious bastions of learning in Althea! Watch out though! Because something lurks, observing, and waiting. Vivi takes notes. Rainy gets to work. Hickory definitely does magic. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "Welcome to Polaris University! Join us as we follow our three favorite students: Rainy, Hickory, and Vivi, as they navigate school life at the most prestigious bastions of learning in Althea! Watch out though! Because something lurks, observing, and waiting. Vivi takes notes. Rainy gets to work. Hickory definitely does magic. Music in this episode created by Daniel Bukin Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": "https://img.transistorcdn.com/46rXxRRRJ1V7lcnp0WsDVFD1Hff8DxiX9KzWkUHiWJ4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iYjc2/ZmM1N2IzMmYzM2Fi/OGY0ZWVkYjQzZjg5/MmQ5YS5wbmc.jpg",
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/9f961bb9/86348afe.mp3",
       "enclosure_type": "audio/mpeg",
@@ -255,7 +246,7 @@
       "itunes_duration": "2689",
       "speakers": [
         "Polaris University",
-        "Detention Season"
+        "Detention Welcome"
       ],
       "topics": [
         "polaris",
@@ -268,7 +259,7 @@
       "title": "2.18 The Season Two Squawk-back Episode (Bonus)",
       "published_at": "2026-04-07T07:05:00+00:00",
       "link": "https://share.transistor.fm/s/783ac276",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Eyyyy, it's (another) DodoBorne talkback episode! This time we discuss all things season two: Favorite moments NPCs Highs and Lows Theories Questions from you, our awesome Squawk Squad! Thank you all for your support throughout our second season. We have some truly exciting plans ahead, and we can’t wait to show you what’s next. We say it all the time, but we really couldn't do this without you. We'll see you soon! Squawk! Special Squawkback Intro created by our friends Barbamouche and MusclesDynamite, who you can find on the Dodoborne Discord channel Music from season 2 episodes created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "Eyyyy, it's (another) DodoBorne talkback episode! This time we discuss all things season two: Favorite moments NPCs Highs and Lows Theories Questions from you, our awesome Squawk Squad! Thank you all for your support throughout our second season. We have some truly exciting plans ahead, and we can’t wait to show you what’s next. We say it all the time, but we really couldn't do this without you. We'll see you soon! Squawk! Special Squawkback Intro created by our friends Barbamouche and MusclesDynamite, who you can find on the Dodoborne Discord channel Music from season 2 episodes created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/783ac276/98d80db1.mp3",
       "enclosure_type": "audio/mpeg",
@@ -285,7 +276,7 @@
       "title": "2.17 Casus Belli: Part 2",
       "published_at": "2026-02-24T08:00:00+00:00",
       "link": "https://share.transistor.fm/s/f84ab1cf",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ It's the thrilling conclusion of Season 2, and what a finale it is! Percival returns! The relic calls! The battle continues! Will the dodo's stop the signal of war being shot out by the mad Walter Zeshthon, or will these banners officially burn? Find out now! Kapi gets his first kill. Pistachio loses someone, but gains a brand new something. Crank is gone. Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "It's the thrilling conclusion of Season 2, and what a finale it is! Percival returns! The relic calls! The battle continues! Will the dodo's stop the signal of war being shot out by the mad Walter Zeshthon, or will these banners officially burn? Find out now! Kapi gets his first kill. Pistachio loses someone, but gains a brand new something. Crank is gone. Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/f84ab1cf/205bf60a.mp3",
       "enclosure_type": "audio/mpeg",
@@ -304,7 +295,7 @@
       "title": "2.16 Casus Belli: Part 1",
       "published_at": "2026-02-17T08:00:00+00:00",
       "link": "https://share.transistor.fm/s/dda1495c",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Death is coming! The Sage's Relic looms large once again. Wired to some mysterious contraption, it calls to all who have ears to hear, and it desires a fresh hand to grasp it. The machinations of the younger Balthazar have come to light, and our dodo's must stop them before something terrible happens. Can war be averted? Or have the flames of war growing great and glowing greater consumed too much of man's souls to be stopped? Kapi whips out his weapon. Pistachio adds another dodo to the book. Crank is.... definitely someone else. Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "Death is coming! The Sage's Relic looms large once again. Wired to some mysterious contraption, it calls to all who have ears to hear, and it desires a fresh hand to grasp it. The machinations of the younger Balthazar have come to light, and our dodo's must stop them before something terrible happens. Can war be averted? Or have the flames of war growing great and glowing greater consumed too much of man's souls to be stopped? Kapi whips out his weapon. Pistachio adds another dodo to the book. Crank is.... definitely someone else. Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/dda1495c/8ae03f41.mp3",
       "enclosure_type": "audio/mpeg",
@@ -323,14 +314,14 @@
       "title": "2.15 A Descent",
       "published_at": "2026-02-03T08:01:00+00:00",
       "link": "https://share.transistor.fm/s/149360a5",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Down the stairs they go, into an abyss both physical AND emotional. What secrets are wiating in the basement of the warehouse? Answers will be revealed, plots uncovered, and lore dropped! Will Callie actually break up with Ingeborg? Find out! Kapi goes off on his own again. Pistachio makes discoveries. Crank is.... maybe someone else? Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "Down the stairs they go, into an abyss both physical AND emotional. What secrets are wiating in the basement of the warehouse? Answers will be revealed, plots uncovered, and lore dropped! Will Callie actually break up with Ingeborg? Find out! Kapi goes off on his own again. Pistachio makes discoveries. Crank is.... maybe someone else? Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/149360a5/c8357903.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48357852",
       "itunes_duration": "3016",
       "speakers": [
-        "Descent Season"
+        "Descent Down"
       ],
       "topics": [
         "descent"
@@ -341,15 +332,13 @@
       "title": "2.14 A Door is Opened",
       "published_at": "2026-01-13T08:00:00+00:00",
       "link": "https://share.transistor.fm/s/aa8a3c35",
-      "description": "Season 3 now has video! Season 3 video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM, Isaac Allen Burns! Video episodes can be found on Youtube , Spotify , and Apple Podcasts . Check out the Season 3 video premiere by clicking HERE! _____________________________________ Into the warehouse! Our group sneaks and stealths into the warehouse of the Zesthon family, which proves to hide many secrets and oddities. Familiar faces will be seen AND felt, as darkness closes in on our heroes. Pistachio loses their patience. Kapi goes toe to toe. Crank discovers his purpose. Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "Into the warehouse! Our group sneaks and stealths into the warehouse of the Zesthon family, which proves to hide many secrets and oddities. Familiar faces will be seen AND felt, as darkness closes in on our heroes. Pistachio loses their patience. Kapi goes toe to toe. Crank discovers his purpose. Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/aa8a3c35/305d9f05.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50107019",
       "itunes_duration": "3126",
-      "speakers": [
-        "Opened Season"
-      ],
+      "speakers": [],
       "topics": [
         "door"
       ]
@@ -957,15 +946,13 @@
       "title": "1.1 The Sexy Dying Turnip",
       "published_at": "2024-11-12T12:00:00+00:00",
       "link": "https://share.transistor.fm/s/a158ec89",
-      "description": "Season 3 has video and is a great place to start your Daggerheart Journey! Season 3 is not only video, but we approached it in a way that both longtime listeners and people discovering Dodoborne for the first time can enjoy. The video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM Isaac Allen Burns! Check out the Season 3 video premiere by clicking HERE! _____________________________________ Kapi bullies the new recruits. Crank interacts with humans seemingly for the first time. Pistachio has a traumatic experience with a turnip. DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "Kapi bullies the new recruits. Crank interacts with humans seemingly for the first time. Pistachio has a traumatic experience with a turnip. DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/a158ec89/e3aca1be.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38096546",
       "itunes_duration": "2375",
-      "speakers": [
-        "Daggerheart Journey"
-      ],
+      "speakers": [],
       "topics": [
         "sexy",
         "dying",
@@ -977,7 +964,7 @@
       "title": "0. Prologue: A Fritter, a Sweater, and a Hat",
       "published_at": "2024-11-11T11:30:54+00:00",
       "link": "https://share.transistor.fm/s/03f066be",
-      "description": "Season 3 has video and is a great place to start your Daggerheart Journey! Season 3 is not only video, but we approached it in a way that both longtime listeners and people discovering Dodoborne for the first time can enjoy. The video episodes have art, animations, and callouts to enhance your viewing experience, and you'll still be able to learn the Daggerheart Ttrpg with interstitials from your GM Isaac Allen Burns! Check out the Season 3 video premiere by clicking HERE! _____________________________________ Say hello to Pistachio the Faun, Kapi the Firbolg, and Crank the Clank as they go about their day in the apple orchard town of Brackenroad. We’ll make a few friends, read some books, and maybe get a bite to eat! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
+      "description": "Say hello to Pistachio the Faun, Kapi the Firbolg, and Crank the Clank as they go about their day in the apple orchard town of Brackenroad. We’ll make a few friends, read some books, and maybe get a bite to eat! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a brand-new tabletop roleplaying game by Darrington Press. ★ Support this podcast on Patreon ★",
       "image_url": null,
       "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/03f066be/b2dfd952.mp3",
       "enclosure_type": "audio/mpeg",
@@ -997,23 +984,23 @@
 
 ## Episodes (newest first)
 
-- 2026-07-27 — 3.4 Cove of Compulsion — speakers: Compulsion Season
-- 2026-07-13 — 3.3 Coerced Compliance — speakers: Coerced Compliance Season
-- 2026-06-29 — 3.2 Couple of Milkshakes — speakers: Milkshakes Season
+- 2026-07-27 — 3.4 Cove of Compulsion — speakers: beautiful song
+- 2026-07-13 — 3.3 Coerced Compliance — speakers: Adventuring Guild
+- 2026-06-29 — 3.2 Couple of Milkshakes
 - 2026-06-17 — 3.1 Cut To!
 - 2026-06-04 — Bonus: The Polaris University Squawk-back Episode
-- 2026-06-02 — Polaris University 1.7: Resurrection — speakers: Polaris University, Resurrection Season
-- 2026-05-26 — Polaris University 1.6: Revelations — speakers: Polaris University, Revelations Season
-- 2026-05-19 — Polaris University 1.5: Frescos — speakers: Polaris University, Frescos Season
-- 2026-05-12 — Polaris University 1.4: Threads — speakers: Polaris University, Threads Season
-- 2026-05-05 — Polaris University 1.3: Secrets — speakers: Polaris University, Secrets Season
-- 2026-04-28 — Polaris University 1.2: Discovery — speakers: Polaris University, Discovery Season
-- 2026-04-21 — Polaris University 1.1: Detention — speakers: Polaris University, Detention Season
+- 2026-06-02 — Polaris University 1.7: Resurrection — speakers: Polaris University
+- 2026-05-26 — Polaris University 1.6: Revelations — speakers: Polaris University
+- 2026-05-19 — Polaris University 1.5: Frescos — speakers: Lysander Bellor
+- 2026-05-12 — Polaris University 1.4: Threads — speakers: Polaris University
+- 2026-05-05 — Polaris University 1.3: Secrets — speakers: Polaris University, Secrets Whew
+- 2026-04-28 — Polaris University 1.2: Discovery
+- 2026-04-21 — Polaris University 1.1: Detention — speakers: Polaris University, Detention Welcome
 - 2026-04-07 — 2.18 The Season Two Squawk-back Episode (Bonus)
 - 2026-02-24 — 2.17 Casus Belli: Part 2 — speakers: Casus Belli
 - 2026-02-17 — 2.16 Casus Belli: Part 1 — speakers: Casus Belli
-- 2026-02-03 — 2.15 A Descent — speakers: Descent Season
-- 2026-01-13 — 2.14 A Door is Opened — speakers: Opened Season
+- 2026-02-03 — 2.15 A Descent — speakers: Descent Down
+- 2026-01-13 — 2.14 A Door is Opened
 - 2025-12-30 — 2.13 ...And a Whole Lotta Faerie Dust.
 - 2025-12-16 — 2.12 A Little Bit of Trust...
 - 2025-12-02 — 2.11 A Port of Whine
@@ -1048,5 +1035,5 @@
 - 2024-12-24 — 1.4 The Good, the Bad, and the Incompetent
 - 2024-12-10 — 1.3 The Usual, Myles
 - 2024-11-26 — 1.2 The Unstoppable Mr. Crank
-- 2024-11-12 — 1.1 The Sexy Dying Turnip — speakers: Daggerheart Journey
+- 2024-11-12 — 1.1 The Sexy Dying Turnip
 - 2024-11-11 — 0. Prologue: A Fritter, a Sweater, and a Hat
