@@ -2,9 +2,9 @@
 
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
-- fetched_at: `2026-08-02T10:52:13+00:00`
-- checked_at: `2026-08-02T10:52:13+00:00`
-- etag: `W/"123ce534bbe292cf0029cc5b3c476976"`
+- fetched_at: `2026-08-09T13:18:30+00:00`
+- checked_at: `2026-08-09T13:18:30+00:00`
+- etag: `W/"86a764c8e1bdc3b2dbc510ebec632f39"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollthehard20podcast.com/podcast-episode/",
   "description": "Dungeons and Dragons weekly actual play and discussions",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/9d3b0539-1955-4096-946d-2fe71cf34e12/TheHardTwenty-DeltaGreen-Greens+2.jpg?format=1500w",
-  "fetched_at": "2026-08-02T10:52:13+00:00",
+  "fetched_at": "2026-08-09T13:18:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "b7e236c155b2f933b02c7cc46cc1beecaf0eb12f",
+      "title": "DELTA GREEN: ENRAPTURED (EP 7: THE FINALE)",
+      "published_at": "2026-08-06T13:31:16+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/8/6/delta-green-enraptured-ep-7-the-finale",
+      "description": "The Agents go to investigate the fissure in the jagged ridge. Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1786023067583-458KASL7HSSPOMVBC5VQ/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/6a748bc4fc4a09054a164ce0/1786023058082/en+7+-+8%3A6%3A26%2C+8.42+AM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "146045728",
+      "itunes_duration": "1:16:03",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "enraptured",
+        "finale"
+      ]
+    },
     {
       "key": "95e70c5d7e3a546cc14bd9410c0015883cd6890e",
       "title": "DELTA GREEN: ENRAPTURED (EP 6)",
@@ -5673,24 +5692,6 @@
         "brian",
         "kush"
       ]
-    },
-    {
-      "key": "f8207613f6f85546b6eef26e27485bfc8d337de6",
-      "title": "ROLL THE HARD 20 PODCAST: INTERVIEW WITH SAMWISE",
-      "published_at": "2019-03-08T04:04:41+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/3/7/roll-the-hard-20-podcast-interview-with-samwise",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow oursocial media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 ROLL THE HARD 20 PODCAST https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a roll-the-hard-20-podcast https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Music and Sound by Syrinscape. https://store.syrinscape.com/what-is-syrinscape/?att 4 The app putting sound into the hands of gamers.",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909165519-6P49QQRSA1JA3Y4W31SI/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c81e85b104c7bdfab2302b7/1552017664770/interview+with+a+samwise.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "83748698",
-      "itunes_duration": "58:08",
-      "speakers": [],
-      "topics": [
-        "roll",
-        "podcast",
-        "samwise"
-      ]
     }
   ]
 }
@@ -5699,6 +5700,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-06 — DELTA GREEN: ENRAPTURED (EP 7: THE FINALE)
 - 2026-08-01 — DELTA GREEN: ENRAPTURED (EP 6) — speakers: Deacon Linus
 - 2026-07-25 — DELTA GREEN: ENRAPTURED (EP 5)
 - 2026-07-18 — DELTA GREEN: ENRAPTURED (EP 4) — speakers: Wayne Tissle
@@ -5998,4 +6000,3 @@
 - 2019-03-23 — RIDERS ON THE STORM EP 35: GETTIN' SWAMPED
 - 2019-03-17 — RIDERS ON THE STORM EP 34: DES NO I AND I IN TEAMWORK
 - 2019-03-11 — ROLL THE HARD 20 PODCAST: CATCHING UP WITH BRIAN AND KUSH
-- 2019-03-08 — ROLL THE HARD 20 PODCAST: INTERVIEW WITH SAMWISE
