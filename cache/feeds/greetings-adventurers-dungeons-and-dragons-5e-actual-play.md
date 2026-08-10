@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-08-10T13:48:05+00:00`
-- checked_at: `2026-08-10T13:48:05+00:00`
-- etag: `"djEuMi4wOjE3ODYzNjExNDgxMzk="`
+- fetched_at: `2026-08-10T16:11:03+00:00`
+- checked_at: `2026-08-10T16:11:03+00:00`
+- etag: `"djEuMi4wOjE3ODYzNzQwMzkzNzg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-08-10T13:48:05+00:00",
+  "fetched_at": "2026-08-10T16:11:03+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "2abb3ac5a87d4d2fea2f6cae0a5e17bf6fae4a29",
+      "title": "Campaign 2: Episode 194 - Six More Weeks of Winter",
+      "published_at": "2026-08-10T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-194-six-more-weeks-of-winter",
+      "description": "The team have just destroyed the Spike in the Red Lantern district, but their celebrations are immediately cut short when Ratma calls for aid, splitting the party once more and sending Screech and R'Oarc back towards the docks. Worryingly, the newlyweds quickly realise that they've been subjected to a strange magical phenomenon, and find themselves in a classic time loop situation. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by Killurmonkey Art ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1786360888961-b3b26926-bc1d-4b1d-991a-5eb06b5576eb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a79b53cc399196b5135c231/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90167207",
+      "itunes_duration": "1:02:36",
+      "speakers": [
+        "Six More Weeks",
+        "Red Lantern"
+      ],
+      "topics": [
+        "campaign",
+        "week",
+        "winter"
+      ]
+    },
     {
       "key": "9c2786c6d6ec0feda7064ec6af15463d6a20a8a0",
       "title": "Campaign 2: Episode 193 - Super Spike Assault Part 2",
@@ -12537,6 +12558,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — Campaign 2: Episode 194 - Six More Weeks of Winter — speakers: Six More Weeks, Red Lantern
 - 2026-08-03 — Campaign 2: Episode 193 - Super Spike Assault Part 2
 - 2026-07-27 — Campaign 2: Episode 192 - Super Spike Assault Part 1 — speakers: Red Lantern District
 - 2026-07-20 — Campaign 2: Episode 191 - A Sausage Like My Father's
