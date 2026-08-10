@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-08-03T10:08:09+00:00`
-- checked_at: `2026-08-03T10:08:09+00:00`
-- last_modified: `Mon, 03 Aug 2026 04:05:00 GMT`
+- fetched_at: `2026-08-10T04:57:23+00:00`
+- checked_at: `2026-08-10T04:57:23+00:00`
+- last_modified: `Mon, 10 Aug 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-08-03T10:08:09+00:00",
+  "fetched_at": "2026-08-10T04:57:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,31 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "ebaccc287682b741f63f245558059ffbc369ff3b",
+      "title": "Guilt of the Grave World | 026: Lights, Cameras, Traction",
+      "published_at": "2026-08-10T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-026-lights-cameras-traction/",
+      "description": "After surviving the Atraskian shelf wasteland for the last few days the heroes of the Nova Rush make their way to the underground city led by a mysterious benefactor. Will they be able to convince someone of Elebrian birth to come with them on their mission or will their mission like their Uber driver be Dead on Arrival? Will the latest edition of the Absalom Station News have a funny Family Circus cartoon in it this week? Find out all of that AND MORE on this week’s episode of Cosmic Crit!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3840/guilt-of-the-grave-world-026-lights-cameras-traction.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75136936",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Grave World",
+        "Traction After",
+        "Nova Rush"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "light",
+        "cameras",
+        "traction"
+      ]
+    },
     {
       "key": "b40d0258c55b58882f5295ef3a8e250510088308",
       "title": "Guilt of the Grave World | 025: Dead Drop Gorgeous",
@@ -9118,6 +9143,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — Guilt of the Grave World | 026: Lights, Cameras, Traction — speakers: Grave World, Traction After, Nova Rush
 - 2026-08-03 — Guilt of the Grave World | 025: Dead Drop Gorgeous — speakers: Grave World, Nova Rush, Corpse Fleet
 - 2026-07-27 — Guilt of the Grave World | 024: Home on the Range Penalty — speakers: Grave World
 - 2026-07-20 — Guilt of the Grave World | 023: Kangaroo Quartering — speakers: Grave World, Kangaroo Quartering Back, Nova Rush

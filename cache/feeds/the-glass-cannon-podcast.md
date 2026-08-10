@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-08-08T04:30:57+00:00`
-- checked_at: `2026-08-08T04:30:57+00:00`
-- last_modified: `Sat, 08 Aug 2026 04:00:00 GMT`
+- fetched_at: `2026-08-10T04:57:23+00:00`
+- checked_at: `2026-08-10T04:57:23+00:00`
+- last_modified: `Mon, 10 Aug 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-08T04:30:57+00:00",
+  "fetched_at": "2026-08-10T04:57:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,50 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "5ed35e29a1537a7338ec3ee1aef9a70ee0306c09",
+      "title": "Saber-Toothed | Blood of the Wild S1 E34 | Pathfinder 2E Quest for the Frozen Flame",
+      "published_at": "2026-08-10T04:00:00+00:00",
+      "link": null,
+      "description": "The scouts contend with the guardian of the cave. Access every available episode of Blood of the Wild along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8179f8c6-91ac-11f1-ae2a-eb3239b4fe23/image/f6a9c4938e7166216c2b3c61e94dabb3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1451901250.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3992",
+      "speakers": [
+        "Frozen Flame"
+      ],
+      "topics": [
+        "saber",
+        "blood",
+        "wild",
+        "pathfinder",
+        "quest",
+        "frozen",
+        "flame"
+      ]
+    },
+    {
+      "key": "af00c9588416b41399d28af4b1a89f4821b231ac",
+      "title": "GCN News Minute August 10, 2026",
+      "published_at": "2026-08-10T04:00:00+00:00",
+      "link": null,
+      "description": "Big news about two new shows dropping this week and some important updates on the live tour! Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/09a8c854-92a6-11f1-9954-dbec2e7c0222/image/9ef0a0596145f05100196c1adc2e8b75.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP5265696870.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "421",
+      "speakers": [
+        "News Minute August"
+      ],
+      "topics": [
+        "news",
+        "minute",
+        "august"
+      ]
+    },
     {
       "key": "f20d3653c6524af123c5b9dad5f4a0928679e2ea",
       "title": "If Only We Knew | Time For Chaos S4 E5 | Call of Cthulhu Masks of Nyarlathotep",
@@ -21700,50 +21744,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "30a84ecf33c537450a8f71dee6570f7bf95eb3f2",
-      "title": "A Dick in the Boat | The Glass Cannon Podcast Giantslayer E33 | Pathfinder 1E",
-      "published_at": "2016-01-12T05:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/9391451/episode-33-a-dick-in-the-boat/",
-      "description": "After narrowly surviving what appears to be a deliberate attempt on his life, Lorc and the rest of the party put on their detective hats as they attempt to uncover the identity of the saboteur aboard the Chelish Devil! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD8107087585.mp3?updated=1707329932",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4157",
-      "speakers": [],
-      "topics": [
-        "dick",
-        "boat",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "33cae87b35d39c23b4c4a4656fb127a20d8291a4",
-      "title": "Stop, Croc and Roll | The Glass Cannon Podcast Giantslayer E32 | Pathfinder 1E",
-      "published_at": "2016-01-05T05:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/9391450/episode-32-stop-croc-and-roll/",
-      "description": "A suspicious accident sends Lorc plunging from the deck into the icy waters below as deadly denizens of the river race to tear him limb from limb. Meanwhile his companions call on allies old and new to try and save their friend from a watery grave! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD3362160697.mp3?updated=1707329711",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4247",
-      "speakers": [],
-      "topics": [
-        "croc",
-        "roll",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21752,6 +21752,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — Saber-Toothed | Blood of the Wild S1 E34 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
+- 2026-08-10 — GCN News Minute August 10, 2026 — speakers: News Minute August
 - 2026-08-08 — If Only We Knew | Time For Chaos S4 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Robert Huston
 - 2026-08-07 — The Roomkeepers | The Glass Cannon Podcast Shadowdark E38 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-08-06 — Justice League Unlimited The Roleplaying Game | D20 Culture | Gen Con 2026 — speakers: Gen Con
@@ -22750,5 +22752,3 @@
 - 2016-02-02 — Gorilla Warfare | The Glass Cannon Podcast Giantslayer E36 | Pathfinder 1E — speakers: Gorilla Warfare
 - 2016-01-26 — Drake-ing Bad | The Glass Cannon Podcast Giantslayer E35 | Pathfinder 1E
 - 2016-01-19 — Hate the Drake! | The Glass Cannon Podcast Giantslayer E34 | Pathfinder 1E
-- 2016-01-12 — A Dick in the Boat | The Glass Cannon Podcast Giantslayer E33 | Pathfinder 1E
-- 2016-01-05 — Stop, Croc and Roll | The Glass Cannon Podcast Giantslayer E32 | Pathfinder 1E
