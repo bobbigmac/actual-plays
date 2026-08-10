@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-08-06T14:37:59+00:00`
-- checked_at: `2026-08-06T14:37:59+00:00`
-- etag: `"dff504001e6071279f862db4a2635b7e"`
-- last_modified: `Wed, 05 Aug 2026 16:35:50 GMT`
+- fetched_at: `2026-08-10T02:37:05+00:00`
+- checked_at: `2026-08-10T02:37:05+00:00`
+- etag: `"cca118fb4d64d215786e149369314bad"`
+- last_modified: `Sun, 09 Aug 2026 23:38:11 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! Twitter / Facebook / Instagram: @forcemajeurepod Website: www.forcemajurepod.com",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-08-06T14:37:59+00:00",
+  "fetched_at": "2026-08-10T02:37:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "387ae37f93bf1d6cf011b02e9f6b8971228a00be",
+      "title": "A Shot At Redemption E14 - At Least Four Problems",
+      "published_at": "2026-08-09T23:30:00+00:00",
+      "link": "https://forcemajeurepod.libsyn.com/a-shot-at-redemption-e14-at-least-four-problems",
+      "description": "Our heroes reconvene aboard the Twilight Ember to hash out the recent revelations and come up with the sorts of plans that are inevitable when you've not slept in 24 hours and have spent most of that time living on your nerves... Cast! Adam Beltaine is your GM, and can be found on Bluesky as @maddambeltaine.bsky.social Lou plays Tryk C Rangavoon, and can be found on Bluesky at @magpiehound.bsky.social Mikey plays Jax Vorn, and can be found on Bluesky at @weaselpunk.bsky.social Tom plays Kip Kazian and can be found on Bluesky at @tcpatrick.bsky.social as well as GMing the wonderful Dice Company podcast Geoff plays Kalro Vatts, and sensibly has no social media presence Follow us on social media! All our links can now be found here: linktr.ee/albertthellama Support Albert the Llama Enterprises! If you like what we do and have some spare money, we have both a Patreon and a Ko-Fi account. We are extremely grateful for your support. https://www.patreon.com/forcemajeurepod ko-fi.com/forcemajeurepod Intro and Supplemental Music: Composed by Sly Fox Audio - check out more of her stuff on soundcloud.com/slyfoxaudio Additional Music: \"Visitation (music only Patreon exclusive)\" by Tabletop Audio \"Mysterious String Quartet\" by Silverman Sounds All used with gratitude under the Creative Commons licence",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/forcemajeurepod/Redemption_E14.mp3?dest-id=604132",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60067126",
+      "itunes_duration": "45:43",
+      "speakers": [],
+      "topics": [
+        "shot",
+        "redemption",
+        "problems"
+      ]
+    },
     {
       "key": "1719916064d46bb07df8a25963c2c8e5fb0e1a60",
       "title": "Bring Down the Sky - Coming Soon!",
@@ -4545,6 +4563,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-09 — A Shot At Redemption E14 - At Least Four Problems
 - 2026-08-04 — Bring Down the Sky - Coming Soon! — speakers: Mecha Hack
 - 2026-07-26 — A Shot At Redemption E13 - Tryk or Treat
 - 2026-07-13 — A Shot At Redemption E12 - The Sinner — speakers: Adam Beltaine
