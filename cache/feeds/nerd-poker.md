@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-08-04T20:00:19+00:00`
-- checked_at: `2026-08-04T20:00:19+00:00`
-- etag: `"d78c52ec46f67196957db7e70c1621dd"`
-- last_modified: `Tue, 04 Aug 2026 19:51:30 GMT`
+- fetched_at: `2026-08-11T19:28:25+00:00`
+- checked_at: `2026-08-11T19:28:25+00:00`
+- etag: `"e24dcfb25f9e26d3a8a8b2fb0005fe3a"`
+- last_modified: `Sat, 08 Aug 2026 23:54:15 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-08-04T20:00:19+00:00",
+  "fetched_at": "2026-08-11T19:28:25+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -35,10 +35,10 @@
       "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-82",
       "description": "Will the Ding Dong Danglers die or will they survive to see another ding dong day?! For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more, be sure to head to nerdpokerpod.com",
       "image_url": null,
-      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-082-20260728-SKv01.mp3?dest-id=510364",
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-082-20260728-SKv02.mp3?dest-id=510364",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "112622528",
-      "itunes_duration": "46:56",
+      "enclosure_length": "116923328",
+      "itunes_duration": "48:44",
       "speakers": [
         "Ding Dong Danglers",
         "Brian Posehn"
@@ -54,10 +54,10 @@
       "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-81",
       "description": "Everyone is running out of spell slots, and some of them are going down every turn. Someone crit! Also: we are very sorry for the late delivery; touring and SDCC interfered with our schedule. For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more, be sure to head to nerdpokerpod.com",
       "image_url": null,
-      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-081-20260728-SKv01.mp3?dest-id=510364",
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-081-20260728-SKv02.mp3?dest-id=510364",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "112638848",
-      "itunes_duration": "46:56",
+      "enclosure_length": "116941568",
+      "itunes_duration": "48:44",
       "speakers": [
         "Brian Posehn"
       ],

@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-08-04T20:00:19+00:00`
-- checked_at: `2026-08-04T20:00:19+00:00`
-- etag: `"djEuMi4wOjE3ODU4NzAwMzk0NTM="`
+- fetched_at: `2026-08-11T19:28:25+00:00`
+- checked_at: `2026-08-11T19:28:25+00:00`
+- etag: `"djEuMi4wOjE3ODY0NzQ4Mzk1MDE="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-08-04T20:00:19+00:00",
+  "fetched_at": "2026-08-11T19:28:25+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "439409af2a6ffb5ab4252b790220af3c87e860e4",
+      "title": "Action Surge Episode 60",
+      "published_at": "2026-08-11T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-60",
+      "description": "Go get ’em! The gloves are off in this episode of Action Surge as Harry, and eventually Aoife, leave the rest of the team unsupervised for the most conspiracy fueled Action Surge to date. With Ben at the helm, the remaining cast dig into their theories and, instead of connecting the dots, they reach for the red string, trying to piece together not just the bigger picture, but everything in between. From potential inter-party conspiracies to how you tame a dragon, even the Natural Six community is drafted in to help unravel what might be the most confusing puzzle we’ve faced so far. Did we reach a conclusion? No. Did we accidentally invent several more conspiracies along the way? Absolutely. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a6f68b8bfc42315fe440edd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89889190",
+      "itunes_duration": "1:02:24",
+      "speakers": [
+        "Action Surge",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "a8e5022e55358e32598d41a0a94d4b09a2846c79",
       "title": "Ep. 60 Hanging By A Thread",
@@ -3157,6 +3182,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-11 — Action Surge Episode 60 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-08-04 — Ep. 60 Hanging By A Thread — speakers: Thread When, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-07-28 — Action Surge Episode 59 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-07-21 — Ep. 59 The Dragon Rider — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
