@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-07-28T16:52:41+00:00`
-- checked_at: `2026-07-28T16:52:41+00:00`
-- etag: `"djEuMi4wOjE3ODUyNTQ0Mzk0NDc="`
+- fetched_at: `2026-08-11T16:12:45+00:00`
+- checked_at: `2026-08-11T16:12:45+00:00`
+- etag: `"djEuMi4wOjE3ODY0NjQwMzk1MDY="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-07-28T16:52:41+00:00",
+  "fetched_at": "2026-08-11T16:12:45+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -32,6 +32,55 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "11f5287b77109d5f6541d71224da2cf5e208f233",
+      "title": "S4 Ep. 14 - The Most Dangerous Midway Game",
+      "published_at": "2026-08-11T16:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "space murder legal or not legal This episode contains Profanity, Violence, and Sexual Content. 🚨🚨 For the final day of our sourcebook crowdfund campaign, we are having an all day livestream on Friday August 14th! 🚨🚨 Join the Dads at 12pm PT on Friday, August 14th at bookmedaddy.com - the livestream will go on as long as the Backerkit pledge train continues. Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1786417552125-8d3dd78c-0400-4a05-89c3-7247636ca4e2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/6a7ab0b6cfc0396cc1d561e1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104427379",
+      "itunes_duration": "1:11:59",
+      "speakers": [
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "midway",
+        "game"
+      ]
+    },
+    {
+      "key": "402eeb09273bee21fb377340f0c9b74ca623760e",
+      "title": "[BONUS] Oceans Dad-leven: Not a BDSM Sourcebook One Shot",
+      "published_at": "2026-08-04T16:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "The Dads tackle a one shot from our brand new sourcebook! This episode contains Profanity, Violence, and Sexual Content. Do you want to play Oceans Dad-leven yourself? Or just want more deep Dad lore? Our crowdfund campaign for our sourcebook is still going strong. Go to bookmedaddy.com to pledge and get your hands on a sourcebook and many other cool pledge perks. ✨ Master the mysterious art of Daddy Magic and 30+ incredibly useful spells like Skip Therapy and Speak Japanese. 🚐 Customize your own minivan. You CAN use it in combat. We strongly advise against this. 🍔 Visit fully franchised Bull-E-Wugs locations and uncover secret Bull-E-Wugs-branded secrets. 🗺️ Travel through exotic fantasy locales like Ballsdeep, Roqueporte, and Meth Bay. ⚔️ Choose from dad-flavored class options like Hippie Dad, Business Dad, and Gamer Dad. 🔮 Customize your character with Daddy-Magic-infused subclasses like Garden Witch, Math Witch, and Prosecutor. ℹ️ Describe your character with ten tables worth of Dad Fact prompts. 📱 Use dozens of mundane and magical items, from cell phones to the Deck of Daddy Things. 🤝 Learn feats inspired by your favorite dads as well as new abilities like Blade Landing and Hand Sense. 🧩 Solve a secret puzzle so devious it could only have come from the mind of Scam Likely. Check it all out at bookmedaddy.com ! Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Burt Harry is Matt Arnold Dave Palazzo is Will Campos Eddie Brainstorm is Beth May Brooke Stone is Freddie Wong Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Sourcebook & Campaign Team Game Design & Writing: Martzi Campos, Sean Bouchard Writing: Anthony Burch, Will Campos, Beth May, Freddie Wong, Matt Arnold, Jesse Vigil and Miles Gonzales Managing Editor: Annissa Omran Layout Design: Rich Lescouflair Cover Art: Jeff Himmelman Interior Dad Design and NPC Art: Chandler Candela, Ryan Boyes Interior Artwork: Tami Wicinas, Sonderflex Studio DM Screen Artwork: Alex Moore Promo Animation: Egg Troop (Omar Romolino, Chandler Candela, and Ryan Boyes) Theme song is “Alright” by Maxton Waller This crowdfunding campaign was made possible by Ashley Blood, Kortney Terry, Natalie Roman, and our Patrons. Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1785799533925-8304a5f9-e1fd-4960-a25e-f2ea140a5a50.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/6a7165f362888a8235e128ff/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116879559",
+      "itunes_duration": "1:20:44",
+      "speakers": [
+        "Oceans Dad",
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "oceans",
+        "bdsm",
+        "sourcebook",
+        "shot"
+      ]
+    },
     {
       "key": "b988eebfc45018801a97ac4f0e60cd3cc493c71c",
       "title": "S4 Ep. 13 - For Al Mankind",
@@ -4816,6 +4865,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-11 — S4 Ep. 14 - The Most Dangerous Midway Game — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2026-08-04 — [BONUS] Oceans Dad-leven: Not a BDSM Sourcebook One Shot — speakers: Oceans Dad, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-07-28 — S4 Ep. 13 - For Al Mankind — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-07-14 — S4 Ep. 12 - Daddlestar Grandpaptica — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-06-30 — S4 Ep. 11 - A Song of Fire and Ice — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
