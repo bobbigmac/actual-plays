@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-08-04T14:42:16+00:00`
-- checked_at: `2026-08-04T14:42:16+00:00`
-- etag: `"7d726a2953d972792b9c901732052b4b"`
-- last_modified: `Tue, 04 Aug 2026 13:00:33 GMT`
+- fetched_at: `2026-08-11T13:45:54+00:00`
+- checked_at: `2026-08-11T13:45:54+00:00`
+- etag: `"f5886b6eae769ab5ddb2fe7cf3f7a7aa"`
+- last_modified: `Tue, 11 Aug 2026 13:00:36 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-08-04T14:42:16+00:00",
+  "fetched_at": "2026-08-11T13:45:54+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "0f2333dd31412fbe2d6635271df9387b58cc895f",
+      "title": "Ep4 | Delta Green: Convergence - The \"Cleaner\"",
+      "published_at": "2026-08-11T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/3045777",
+      "description": "As H-cell tries to get a finger on the pulse of the local law enforcement, they discover that they may not be the only ones with eyes for the unusual in this town. ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/3045777/green-box-gaming/2026_08_04_09_40_12_db370468-511b-4d7f-a6dd-b359151ac65c.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78434637",
+      "itunes_duration": "4902",
+      "speakers": [
+        "Delta Green"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "convergence",
+        "cleaner"
+      ]
+    },
     {
       "key": "0888e967d349de28e9b1f760a1e413436503079c",
       "title": "Ep3 | Delta Green: Convergence - Watched",
@@ -4219,6 +4240,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-11 — Ep4 | Delta Green: Convergence - The "Cleaner" — speakers: Delta Green
 - 2026-08-04 — Ep3 | Delta Green: Convergence - Watched — speakers: Delta Green
 - 2026-07-28 — Ep2 | Delta Green: Convergence - Shattered Worlds — speakers: Delta Green
 - 2026-07-21 — Ep1 | Delta Green: Convergence - Just a Boy...
