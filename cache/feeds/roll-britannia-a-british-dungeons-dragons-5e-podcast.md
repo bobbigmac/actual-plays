@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-08-05T09:09:51+00:00`
-- checked_at: `2026-08-05T09:09:51+00:00`
-- etag: `"djEuMi4wOjE3ODU5MTMyMzk0ODA="`
+- fetched_at: `2026-08-12T07:55:19+00:00`
+- checked_at: `2026-08-12T07:55:19+00:00`
+- etag: `"djEuMi4wOjE3ODY1MTgwMzk1Mzc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-08-05T09:09:51+00:00",
+  "fetched_at": "2026-08-12T07:55:19+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "bb7aeedbb278ecdfa5dbf06251e9c7cdade01d91",
+      "title": "Ep. 018: Age of Astra - Accepted Elf, Not Reject Elf | #DND",
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the agents venture further into the unknown, where every answer seems to arrive wrapped inside a new question. The Dice continue to pull at loose threads, and in this DnD chapter, the feeling that something important is about to change becomes impossible to ignore. The pieces are moving, even if no one can yet see the whole board. What has been quietly set in motion behind the scenes? Which truth is closest to being uncovered? And when the next piece falls into place, what picture will it reveal? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1786229971635-2a77b7d1-c803-441c-a6a6-257df1fa1148.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6a77b57ac3e1347e8b226082/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124661166",
+      "itunes_duration": "51:54",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "accepted"
+      ]
+    },
     {
       "key": "128dac5e92ec56c5cb4ea877e61436a0938a80c0",
       "title": "Ep. 017: Age of Astra - The Signal is Different | #DND",
@@ -7997,6 +8014,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — Ep. 018: Age of Astra - Accepted Elf, Not Reject Elf | #DND
 - 2026-08-05 — Ep. 017: Age of Astra - The Signal is Different | #DND
 - 2026-07-29 — Ep. 016: Age of Astra - A Local Delicacy | #DND
 - 2026-07-22 — Ep. 015: Age of Astra - The Stone Drops To The Ground | #DND
