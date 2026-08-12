@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-08-11T19:28:25+00:00`
-- checked_at: `2026-08-11T19:28:25+00:00`
-- etag: `"e24dcfb25f9e26d3a8a8b2fb0005fe3a"`
-- last_modified: `Sat, 08 Aug 2026 23:54:15 GMT`
+- fetched_at: `2026-08-12T02:47:35+00:00`
+- checked_at: `2026-08-12T02:47:35+00:00`
+- etag: `"2de942cc371d72787a6d191ff4202c69"`
+- last_modified: `Tue, 11 Aug 2026 23:34:09 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-08-11T19:28:25+00:00",
+  "fetched_at": "2026-08-12T02:47:35+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "a18786f3056a14a28c290036dedf4cd130d674b5",
+      "title": "The Fog Campaign - Episode 83",
+      "published_at": "2026-08-11T23:31:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-83",
+      "description": "It's time to run a campaign victory lap by raiding a worm-filled house, and set up our next campaign... The Cavern Campaign, starting next week! For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more, be sure to head to nerdpokerpod.com",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-083-20260807-SKv02.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "159541568",
+      "itunes_duration": "01:06:29",
+      "speakers": [
+        "Brian Posehn"
+      ],
+      "topics": [
+        "campaign"
+      ]
+    },
     {
       "key": "b944cd3b0f029bb52f684a0baad5b15f338a7e75",
       "title": "The Fog Campaign - Episode 82",
@@ -9105,6 +9123,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-11 — The Fog Campaign - Episode 83 — speakers: Brian Posehn
 - 2026-08-04 — The Fog Campaign - Episode 82 — speakers: Ding Dong Danglers, Brian Posehn
 - 2026-07-30 — The Fog Campaign - Episode 81 — speakers: Brian Posehn
 - 2026-07-22 — The Fog Campaign - Episode 80 — speakers: Brian Posehn

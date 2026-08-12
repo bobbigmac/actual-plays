@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-08-05T09:09:51+00:00`
-- checked_at: `2026-08-10T16:11:03+00:00`
-- etag: `"cc5517b97aae864d2286b2b6fc66ea64"`
+- fetched_at: `2026-08-12T02:47:35+00:00`
+- checked_at: `2026-08-12T02:47:35+00:00`
+- etag: `"c524887f1d29eff078a88fa05afe8cc4"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-08-05T09:09:51+00:00",
+  "fetched_at": "2026-08-12T02:47:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "68ae5cbe595bb83a4208c63c494cdd6eefdd7110",
+      "title": "Dungeons & Dragons: The Long Road part 1",
+      "published_at": "2026-08-12T02:01:03+00:00",
+      "link": "https://fandible.com/dungeons-dragons-the-long-road-part-1/",
+      "description": "Two adventurers prepare to get a job that is hopefully worth the pay. The post Dungeons & Dragons: The Long Road part 1 appeared first on Fandible Actual Play Podcast .",
+      "image_url": null,
+      "enclosure_url": null,
+      "enclosure_type": null,
+      "enclosure_length": null,
+      "itunes_duration": null,
+      "speakers": [],
+      "topics": [
+        "dungeon",
+        "dragons",
+        "long",
+        "road"
+      ]
+    },
     {
       "key": "7d72278ee3fbff682db3efabcee69d1a699d8ffc",
       "title": "Kenku Bin Wizards: Saving the Wastes part 3",
@@ -11366,22 +11385,6 @@
       "topics": [
         "prime"
       ]
-    },
-    {
-      "key": "3cad512613b91168b6bad7f82992cb7da50a0063",
-      "title": "Shadowrun: Prime Ep 8 part 1 of 2",
-      "published_at": "2016-08-19T14:25:10+00:00",
-      "link": "https://fandible.com/shadowrun-ep-10-kindness-strangers-1-2/",
-      "description": "Stranded in hostile territory and collecting enemies by the second, the Shadowrunners turn to people you can't exactly call \"contacts\" for help. The post Shadowrun: Prime Ep 8 part 1 of 2 appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/190_SR_TheKindnessOfStrangers/Fan_310_SR_TheKindnessOfStrangers1of2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "51761960",
-      "itunes_duration": "1:46:39",
-      "speakers": [],
-      "topics": [
-        "prime"
-      ]
     }
   ]
 }
@@ -11390,6 +11393,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — Dungeons & Dragons: The Long Road part 1
 - 2026-08-05 — Kenku Bin Wizards: Saving the Wastes part 3 — speakers: Kenku Bin Wizards
 - 2026-07-28 — Kenku Bin Wizards: Saving the Wastes part 2 — speakers: Kenku Bin Wizards
 - 2026-07-21 — Kenku Bin Wizards: Saving the Wastes part 1 — speakers: Kenku Bin Wizards
@@ -11989,4 +11993,3 @@
 - 2016-09-09 — Timewatch: The Hero Engine
 - 2016-09-02 — Age of Sigmar: Agents of the Gods — speakers: Gods Tasked
 - 2016-08-26 — Shadowrun: Prime Ep 8 part 2 of 2
-- 2016-08-19 — Shadowrun: Prime Ep 8 part 1 of 2
