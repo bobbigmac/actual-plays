@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-08-11T16:12:45+00:00`
-- checked_at: `2026-08-11T16:12:45+00:00`
-- last_modified: `Tue, 11 Aug 2026 16:04:36 GMT`
+- fetched_at: `2026-08-12T05:07:14+00:00`
+- checked_at: `2026-08-12T05:07:14+00:00`
+- last_modified: `Wed, 12 Aug 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-11T16:12:45+00:00",
+  "fetched_at": "2026-08-12T05:07:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,44 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "d30a292b857454a4c9c5a3b0d093922e4fbbb83b",
+      "title": "Deadfall | We Shouldn't Be Alive E10 | Twilight: 2000",
+      "published_at": "2026-08-12T04:00:00+00:00",
+      "link": null,
+      "description": "A car accident puts the party in a difficult position. Watch the video here: ⁠⁠ https://youtu.be/zyk8JigktvU ⁠ Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including the Mission Debrief, our exclusive We Shouldn't Be Alive companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/40aec4da-959d-11f1-afb0-8b9c5c8699f4/image/fea8f4bdf27af8a040cd8ab5e74ceac2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4830307325.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5394",
+      "speakers": [],
+      "topics": [
+        "deadfall",
+        "twilight"
+      ]
+    },
+    {
+      "key": "ad92e46cf314cd484326d77bb0f4d0c3597249f7",
+      "title": "Time Without Tide Part 1 | Chaosium | Friends of the Pod",
+      "published_at": "2026-08-12T04:00:00+00:00",
+      "link": null,
+      "description": "Four brave delvers journey out into the mysterious Land of Fog to earn some moon dust and bring light to the darkness. Support \"Time Without Tide\" on Backerkit with the GCN referral link: https://www.backerkit.com/c/projects/chaosium/time-without-tide-mirth-misery-in-a-world-of-fog?ref=GCN Watch the video here: ⁠⁠⁠ https://youtu.be/G6Y-0F5k9BE Cast: Sydney Amanuel, Matthew Capodicasa, Paula Deming, Chris Grace, and Jared Logan Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3db7e4a4-9599-11f1-a9ed-7b683fea02ed/image/7848f9f84e95ddcc964e79996e4c134e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8358938834.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7106",
+      "speakers": [
+        "Pod Four"
+      ],
+      "topics": [
+        "time",
+        "tide",
+        "chaosium",
+        "friends"
+      ]
+    },
     {
       "key": "5ed35e29a1537a7338ec3ee1aef9a70ee0306c09",
       "title": "Saber-Toothed | Blood of the Wild S1 E34 | Pathfinder 2E Quest for the Frozen Flame",
@@ -21702,48 +21740,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "8d15a9f727d1be03ee4349fb647d094d15dba5ef",
-      "title": "Drake-ing Bad | The Glass Cannon Podcast Giantslayer E35 | Pathfinder 1E",
-      "published_at": "2016-01-26T05:01:00+00:00",
-      "link": "http://www.glasscannonpodcast.com/episodes/2016/1/16/episode-35-drake-ing-bad",
-      "description": "Having tracked the Alpha Drake to its filthy riverside lair, the party embarks on a desperate attempt to rescue Gormlaith's new best friend, Reggie the war horse. But perhaps an even greater danger awaits them back on board. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/8cf11f14-4113-11ee-b12c-cb45b8372396/image/4e61800c9ee0450c25947c3cccc0b3c8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD4463835174.mp3?updated=1707330175",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3883",
-      "speakers": [],
-      "topics": [
-        "drake",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "5a1ef4f19c6d7463198827e901fe31fcf1c2dcea",
-      "title": "Hate the Drake! | The Glass Cannon Podcast Giantslayer E34 | Pathfinder 1E",
-      "published_at": "2016-01-19T05:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/9391452/episode-34-hate-the-drake/",
-      "description": "When a trio of river monsters descends on the crew, pandemonium ensues as a battle breaks out on the upper deck! But it's a race against time when the largest of these winged river denizens absconds with some precious cargo. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD4384595843.mp3?updated=1707330056",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3773",
-      "speakers": [],
-      "topics": [
-        "drake",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21752,6 +21748,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — Deadfall | We Shouldn't Be Alive E10 | Twilight: 2000
+- 2026-08-12 — Time Without Tide Part 1 | Chaosium | Friends of the Pod — speakers: Pod Four
 - 2026-08-10 — Saber-Toothed | Blood of the Wild S1 E34 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-08-10 — GCN News Minute August 10, 2026 — speakers: News Minute August
 - 2026-08-08 — If Only We Knew | Time For Chaos S4 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Robert Huston
@@ -22750,5 +22748,3 @@
 - 2016-02-16 — Taug of War | The Glass Cannon Podcast Giantslayer E38 | Pathfinder 1E
 - 2016-02-09 — The No Pants Flute Dance | The Glass Cannon Podcast Giantslayer E37 | Pathfinder 1E
 - 2016-02-02 — Gorilla Warfare | The Glass Cannon Podcast Giantslayer E36 | Pathfinder 1E — speakers: Gorilla Warfare
-- 2016-01-26 — Drake-ing Bad | The Glass Cannon Podcast Giantslayer E35 | Pathfinder 1E
-- 2016-01-19 — Hate the Drake! | The Glass Cannon Podcast Giantslayer E34 | Pathfinder 1E
