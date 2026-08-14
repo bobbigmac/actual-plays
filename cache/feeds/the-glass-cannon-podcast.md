@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-08-13T16:11:55+00:00`
-- checked_at: `2026-08-13T16:11:55+00:00`
-- last_modified: `Thu, 13 Aug 2026 16:07:12 GMT`
+- fetched_at: `2026-08-14T05:07:26+00:00`
+- checked_at: `2026-08-14T05:07:26+00:00`
+- last_modified: `Fri, 14 Aug 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-13T16:11:55+00:00",
+  "fetched_at": "2026-08-14T05:07:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "2647efe08aea8659f98e36bb5a4ec5d18f53af13",
+      "title": "Take a Chance on Me | The Glass Cannon Podcast Shadowdark E39 | Shadowdark RPG",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "link": null,
+      "description": "With Saint's trial looming, the heroes scramble to help tip the scales of justice in Saint's favor. Watch the video here:⁠ ⁠⁠ https://youtu.be/uW1FCnk-S2c Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Jared Logan, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f32e810c-972f-11f1-8927-ef1561df34ef/image/05092b18ec3a554b1957b24724cac916.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7433216153.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5138",
+      "speakers": [
+        "Shadowdark Rpg"
+      ],
+      "topics": [
+        "chance",
+        "glass",
+        "cannon",
+        "podcast",
+        "shadowdark"
+      ]
+    },
     {
       "key": "d30a292b857454a4c9c5a3b0d093922e4fbbb83b",
       "title": "Deadfall | We Shouldn't Be Alive E10 | Twilight: 2000",
@@ -21716,30 +21738,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "cecf7eb6c66e8415cd00f028ab17e24d063ea54d",
-      "title": "Gorilla Warfare | The Glass Cannon Podcast Giantslayer E36 | Pathfinder 1E",
-      "published_at": "2016-02-02T05:01:00+00:00",
-      "link": "http://www.glasscannonpodcast.com/episodes/2016/2/1/episode-36-gorilla-warfare",
-      "description": "A living nightmare unfolds below deck as the heroes face off against the simian Bakkara, the horror from the Mwangi Expanse! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/8cdc3464-4113-11ee-b12c-6f676dcb1771/image/4e61800c9ee0450c25947c3cccc0b3c8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD5206472234.mp3?updated=1707330218",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4043",
-      "speakers": [
-        "Gorilla Warfare"
-      ],
-      "topics": [
-        "gorilla",
-        "warfare",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21748,6 +21746,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-14 — Take a Chance on Me | The Glass Cannon Podcast Shadowdark E39 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-08-12 — Deadfall | We Shouldn't Be Alive E10 | Twilight: 2000
 - 2026-08-12 — Time Without Tide Part 1 | Chaosium | Friends of the Pod — speakers: Pod Four
 - 2026-08-10 — Saber-Toothed | Blood of the Wild S1 E34 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
@@ -22747,4 +22746,3 @@
 - 2016-02-23 — The Immolation Game | The Glass Cannon Podcast Giantslayer E39 | Pathfinder 1E
 - 2016-02-16 — Taug of War | The Glass Cannon Podcast Giantslayer E38 | Pathfinder 1E
 - 2016-02-09 — The No Pants Flute Dance | The Glass Cannon Podcast Giantslayer E37 | Pathfinder 1E
-- 2016-02-02 — Gorilla Warfare | The Glass Cannon Podcast Giantslayer E36 | Pathfinder 1E — speakers: Gorilla Warfare
