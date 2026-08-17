@@ -2,9 +2,9 @@
 
 - slug: `the-damage-guild-a-pathfinder-2e-podcast`
 - source: `https://www.thedamageguild.com/feed/podcast2`
-- fetched_at: `2026-08-03T10:08:09+00:00`
-- checked_at: `2026-08-03T10:08:09+00:00`
-- last_modified: `Mon, 03 Aug 2026 04:01:00 GMT`
+- fetched_at: `2026-08-17T04:05:39+00:00`
+- checked_at: `2026-08-17T04:05:39+00:00`
+- last_modified: `Mon, 17 Aug 2026 04:01:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedamageguild.com",
   "description": "Do you like jokes, adventure, killing things, and friendship? Of course you do! The Damage Guild is an actual-play Pathfinder 2nd Edition (PF2E) podcast with a focus on collaborative storytelling, character-driven narrative, and improv comedy shenanigans, delivered in a family-friendly style and set in a homebrew world. Join us for new episodes every other Monday, so you can kiss those weekend blues goodbye and get pumped to slay the dragon of your everyday life!",
   "image_url": "https://thedamageguild.com/wp-content/uploads/dgp_pf2e_podcast_artwork.jpg",
-  "fetched_at": "2026-08-03T10:08:09+00:00",
+  "fetched_at": "2026-08-17T04:05:39+00:00",
   "owners": [
     "Sean Abrams",
     "Thayne Bohman",
@@ -31,6 +31,27 @@
     "ttrpg/pathfinder"
   ],
   "episodes": [
+    {
+      "key": "c753e01cedfc369527c32089ecf7d1cf80b6f471",
+      "title": "Episode 54 – Who’s the Moss?",
+      "published_at": "2026-08-17T04:01:00+00:00",
+      "link": "https://thedamageguild.com/pf2e-episodes/episode-54-2/",
+      "description": "Our heroes interrogate a potential new ally. Zara makes business inquiries. Kardain discusses foreign policy. Verrol speaks from beyond .",
+      "image_url": null,
+      "enclosure_url": "https://media.blubrry.com/damageguild/media.blubrry.com/3739398/mc.blubrry.com/3739398/dgp_pf2e_episode54.mp3?awCollectionId=3739398&awEpisodeId=12121911&aw_0_azn.pgenre=Leisure&aw_0_1st.ri=blubrry&aw_0_azn.pcountry=US&aw_0_azn.planguage=en-us&cat_exclude=IAB1-8%2CIAB1-9%2CIAB7-41%2CIAB8-5%2CIAB8-18%2CIAB11-4%2CIAB23%2CIAB24%2CIAB25%2CIAB26&aw_0_cnt.rss=https%3A%2F%2Fwww.thedamageguild.com%2Ffeed%2Fpodcast2",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57216567",
+      "itunes_duration": "59:36",
+      "speakers": [
+        "Sean Abrams",
+        "Thayne Bohman",
+        "Bryan Staudt",
+        "Jay Staudt"
+      ],
+      "topics": [
+        "moss"
+      ]
+    },
     {
       "key": "1e6904f1de31151ff109e17dfc311b099028c9b6",
       "title": "Episode 53 – Let Nature Take Its Corpse",
@@ -1215,6 +1236,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — Episode 54 – Who’s the Moss? — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-08-03 — Episode 53 – Let Nature Take Its Corpse — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-07-20 — Episode 52 – On a King and a Prayer — speakers: Goblin King, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-07-06 — Episode 51 – It’s Kite Night — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
