@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-08-17T13:09:04+00:00`
-- checked_at: `2026-08-17T13:09:04+00:00`
-- etag: `"djEuMi4wOjE3ODY5NjM3OTQ3NDg="`
+- fetched_at: `2026-08-17T15:44:13+00:00`
+- checked_at: `2026-08-17T15:44:13+00:00`
+- etag: `"djEuMi4wOjE3ODY5Nzg4Mzk0OTg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-08-17T13:09:04+00:00",
+  "fetched_at": "2026-08-17T15:44:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "36664f1b40afe5a301f429e789561ac925a4c4c2",
+      "title": "Campaign 2: Episode 195 - Michael Hates Us",
+      "published_at": "2026-08-17T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-195-michael-hates-us",
+      "description": "Michael P DiMauro has had enough, and decides to get exceedingly meta and personal in order to punish Mike and Nika for their shenanigans after 14 years of being trolled by his players. Welcome to Wrexham. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by Killurmonkey Art ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1786963663793-c31a4b53-11f7-45cf-9155-372ea66d3283.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a82e7526e5b5bfda66edd64/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79197146",
+      "itunes_duration": "54:59",
+      "speakers": [],
+      "topics": [
+        "campaign",
+        "michael"
+      ]
+    },
     {
       "key": "2abb3ac5a87d4d2fea2f6cae0a5e17bf6fae4a29",
       "title": "Campaign 2: Episode 194 - Six More Weeks of Winter",
@@ -12558,6 +12575,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — Campaign 2: Episode 195 - Michael Hates Us
 - 2026-08-10 — Campaign 2: Episode 194 - Six More Weeks of Winter — speakers: Six More Weeks, Red Lantern
 - 2026-08-03 — Campaign 2: Episode 193 - Super Spike Assault Part 2
 - 2026-07-27 — Campaign 2: Episode 192 - Super Spike Assault Part 1 — speakers: Red Lantern District
