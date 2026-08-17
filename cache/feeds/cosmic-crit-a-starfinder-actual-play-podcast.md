@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-08-10T04:57:23+00:00`
-- checked_at: `2026-08-10T04:57:23+00:00`
-- last_modified: `Mon, 10 Aug 2026 04:05:00 GMT`
+- fetched_at: `2026-08-17T07:18:58+00:00`
+- checked_at: `2026-08-17T07:18:58+00:00`
+- last_modified: `Mon, 17 Aug 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-08-10T04:57:23+00:00",
+  "fetched_at": "2026-08-17T07:18:58+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "4ab7e04492754382bc61baa70fcfb8bc42865cb3",
+      "title": "Guilt of the Grave World | 027: Magic Carpet Died",
+      "published_at": "2026-08-17T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-027-magic-carpet-died/",
+      "description": "This week the fearsome [Name Censored] attack the party! Can the 5 of them survive the hated [Name Censored]’s attacks or will they fall victim to their bite! Find on this week’s extremely inappropriate and PG-13 episodes of Cosmic Crit!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3842/guilt-of-the-grave-world-027-magic-carpet-died.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95639477",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Magic Carpet Died"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "magic",
+        "carpet"
+      ]
+    },
     {
       "key": "ebaccc287682b741f63f245558059ffbc369ff3b",
       "title": "Guilt of the Grave World | 026: Lights, Cameras, Traction",
@@ -9143,6 +9165,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — Guilt of the Grave World | 027: Magic Carpet Died — speakers: Magic Carpet Died
 - 2026-08-10 — Guilt of the Grave World | 026: Lights, Cameras, Traction — speakers: Grave World, Traction After, Nova Rush
 - 2026-08-03 — Guilt of the Grave World | 025: Dead Drop Gorgeous — speakers: Grave World, Nova Rush, Corpse Fleet
 - 2026-07-27 — Guilt of the Grave World | 024: Home on the Range Penalty — speakers: Grave World
