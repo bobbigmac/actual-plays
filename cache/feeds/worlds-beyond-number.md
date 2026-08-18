@@ -2,10 +2,10 @@
 
 - slug: `worlds-beyond-number`
 - source: `https://feeds.simplecast.com/IAPnSSRO`
-- fetched_at: `2026-08-18T09:51:29+00:00`
-- checked_at: `2026-08-18T09:51:29+00:00`
-- etag: `"b4ef05ba17bd879b7a77689c4114c930"`
-- last_modified: `Tue, 18 Aug 2026 09:00:18 GMT`
+- fetched_at: `2026-08-18T15:49:06+00:00`
+- checked_at: `2026-08-18T15:49:06+00:00`
+- etag: `"aeda1a5e7d7a685433f9c8ad2d715d50"`
+- last_modified: `Tue, 18 Aug 2026 14:59:53 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://worlds-beyond-number.simplecast.com",
   "description": "An epic, improvised storytelling podcast where Brennan Lee Mulligan, Erika Ishii, Aabria Iyengar, and Lou Wilson hang out together, play games, build worlds, and make stories.",
   "image_url": "https://image.simplecastcdn.com/images/c89bbbb6-e942-4583-ad73-4877d9c0b2f6/dfae107c-3b1e-4c37-acf7-a48a1ff6e445/3000x3000/wbn-album-logo-art-2024-3000x3000.jpg?aid=rss_feed",
-  "fetched_at": "2026-08-18T09:51:29+00:00",
+  "fetched_at": "2026-08-18T15:49:06+00:00",
   "owners": [
     "Brennan Lee Mulligan",
     "Aabria Iyengar",
@@ -36,7 +36,7 @@
       "title": "Talkback for Solari Arc 1",
       "published_at": "2026-08-18T09:00:00+00:00",
       "link": "https://worlds-beyond-number.simplecast.com/episodes/talkback-for-solari-arc-1-0Enj7xLS",
-      "description": "Aabria, Brennan, Erika, and Lou gather to answer your questions about Arc 1 of Solari. For more chats like this, join us on our Patreon! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "description": "Aabria, Brennan, Erika, and Lou gather to answer your questions about Arc 1 of Solari. For more chats like this, join us on our Patreon! We are: Brennan Lee Mulligan Erika Ishii Aabria Iyengar Lou Wilson Solari was produced by Worlds Beyond Number Edit and Sound Design by Jino Jang-Hansen at Big Giant Head Score by Will Savino https://wsavino.com/ Director of Operations: Melanie Bowman Social Media Manager: Shannon H Lorekeeper and Transcriptionist: Jack Morgan E.F. Lavandowska Recording Engineer: Rainie Toll Character Art by Nikolas Draper-Ivey www.instagram.com/nikolasdraperivey/ Cover Art by Lu Tomkiewicz www.instagram.com/_fromlu/ This campaign uses the Stillfleet TTRPG system, created by Wythe Marschall and developed by Stillfleet Studio https://stillfleet.com/collections/stillfleet You can find transcripts of all our episodes on our Patreon. Just navigate to the post for the episode and the transcript will be attached. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "image_url": "https://image.simplecastcdn.com/images/52465498-1509-439a-8bae-5a0586d07e7b/1c5bb068-53ac-4ab3-b20c-29b1a8faa84b/3000x3000/solari_album_art.jpg?aid=rss_feed",
       "enclosure_url": "https://afp-970414-injected.calisto.simplecastaudio.com/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/a23b44d5-4191-48f8-8614-5d0d4960d475/audio/128/default.mp3?aid=rss_feed&awCollectionId=796e3e14-8749-4922-8d84-ba47ea7afc1c&awEpisodeId=a23b44d5-4191-48f8-8614-5d0d4960d475&feed=IAPnSSRO",
       "enclosure_type": "audio/mpeg",
