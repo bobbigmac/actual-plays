@@ -2,10 +2,10 @@
 
 - slug: `worlds-beyond-number`
 - source: `https://feeds.simplecast.com/IAPnSSRO`
-- fetched_at: `2026-08-04T09:12:52+00:00`
-- checked_at: `2026-08-04T09:12:52+00:00`
-- etag: `"0c338f0d244418674cdec616c1d2f088"`
-- last_modified: `Tue, 04 Aug 2026 09:00:18 GMT`
+- fetched_at: `2026-08-18T09:51:29+00:00`
+- checked_at: `2026-08-18T09:51:29+00:00`
+- etag: `"b4ef05ba17bd879b7a77689c4114c930"`
+- last_modified: `Tue, 18 Aug 2026 09:00:18 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://worlds-beyond-number.simplecast.com",
   "description": "An epic, improvised storytelling podcast where Brennan Lee Mulligan, Erika Ishii, Aabria Iyengar, and Lou Wilson hang out together, play games, build worlds, and make stories.",
   "image_url": "https://image.simplecastcdn.com/images/c89bbbb6-e942-4583-ad73-4877d9c0b2f6/dfae107c-3b1e-4c37-acf7-a48a1ff6e445/3000x3000/wbn-album-logo-art-2024-3000x3000.jpg?aid=rss_feed",
-  "fetched_at": "2026-08-04T09:12:52+00:00",
+  "fetched_at": "2026-08-18T09:51:29+00:00",
   "owners": [
     "Brennan Lee Mulligan",
     "Aabria Iyengar",
@@ -31,6 +31,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "22c99fb546c96c764ca61b4ea73e7f0f3fba72a9",
+      "title": "Talkback for Solari Arc 1",
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "link": "https://worlds-beyond-number.simplecast.com/episodes/talkback-for-solari-arc-1-0Enj7xLS",
+      "description": "Aabria, Brennan, Erika, and Lou gather to answer your questions about Arc 1 of Solari. For more chats like this, join us on our Patreon! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/52465498-1509-439a-8bae-5a0586d07e7b/1c5bb068-53ac-4ab3-b20c-29b1a8faa84b/3000x3000/solari_album_art.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-970414-injected.calisto.simplecastaudio.com/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/a23b44d5-4191-48f8-8614-5d0d4960d475/audio/128/default.mp3?aid=rss_feed&awCollectionId=796e3e14-8749-4922-8d84-ba47ea7afc1c&awEpisodeId=a23b44d5-4191-48f8-8614-5d0d4960d475&feed=IAPnSSRO",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54667702",
+      "itunes_duration": "00:50:58",
+      "speakers": [
+        "Brennan Lee Mulligan",
+        "Aabria Iyengar",
+        "Erika Ishii",
+        "Lou Wilson"
+      ],
+      "topics": [
+        "talkback",
+        "solari"
+      ]
+    },
     {
       "key": "2574014bd8b007d22f167fbcba41fa0414db8020",
       "title": "Solari: Episode 11 - Pact",
@@ -2131,6 +2153,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-18 — Talkback for Solari Arc 1 — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-08-04 — Solari: Episode 11 - Pact — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-07-21 — Solari: Episode 10 - Prelude Part 3 — speakers: Content Warning, Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-07-07 — Solari: Episode 9 - Prelude Part 2 — speakers: Content Warning, Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
