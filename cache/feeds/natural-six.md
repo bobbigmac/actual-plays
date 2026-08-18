@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-08-11T19:28:25+00:00`
-- checked_at: `2026-08-11T19:28:25+00:00`
-- etag: `"djEuMi4wOjE3ODY0NzQ4Mzk1MDE="`
+- fetched_at: `2026-08-18T21:41:39+00:00`
+- checked_at: `2026-08-18T21:41:39+00:00`
+- etag: `"djEuMi4wOjE3ODcwNzk2Mzk0MDA="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-08-11T19:28:25+00:00",
+  "fetched_at": "2026-08-18T21:41:39+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "974a93fb7d4d15016b1ef59fb6f54c681e220452",
+      "title": "Ep. 61 The Corpsewyrm",
+      "published_at": "2026-08-18T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-61-the-corpse-wyrm",
+      "description": "There are times when doing the right thing can leave you on the wrong side of the odds. One absence can outweigh even the best intentions, and even the most careful choices can leave you feeling the least prepared. When protecting one thing means leaving another exposed, the sting of your decision can be measured by what it costs. Traps are no less dangerous simply because they’re expected, and when cruelty is patient enough to work stitch by stitch, the thread you’ve been following may be the very thing holding the horror together. And when trust, people and plans begin to unravel all at once, survival is no longer measured by winning the fight, but by holding together long enough for desperation to answer the call. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a82f877c2cc087689d5dcdc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "197438484",
+      "itunes_duration": "3:25:39",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "corpsewyrm"
+      ]
+    },
     {
       "key": "439409af2a6ffb5ab4252b790220af3c87e860e4",
       "title": "Action Surge Episode 60",
@@ -3182,6 +3205,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-18 — Ep. 61 The Corpsewyrm — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-08-11 — Action Surge Episode 60 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-08-04 — Ep. 60 Hanging By A Thread — speakers: Thread When, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-07-28 — Action Surge Episode 59 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
