@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-08-12T07:55:19+00:00`
-- checked_at: `2026-08-12T07:55:19+00:00`
-- etag: `"djEuMi4wOjE3ODY1MTgwMzk1Mzc="`
+- fetched_at: `2026-08-19T09:51:52+00:00`
+- checked_at: `2026-08-19T09:51:52+00:00`
+- etag: `"djEuMi4wOjE3ODcxMjI4Mzk1Njg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-08-12T07:55:19+00:00",
+  "fetched_at": "2026-08-19T09:51:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "a31bc00f940e68ad18fbb0b591807ce6f4a5552a",
+      "title": "Ep. 019: Age of Astra - Sicky Little Sticky Hands | #DND",
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the agents trade careful observation for a far riskier conversation behind closed doors. Plans become increasingly questionable, the Dice bring some unexpectedly sweet consequences, and in this DnD chapter, one frightened man is pushed towards a choice he desperately wants no part in. Some doors are difficult to open… and even harder to close again. How far can the agents push before trust finally breaks? What price does “The Choice” really demand? And have they just endangered the very person they need most? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1786941999032-b9f64435-f025-466b-ac2c-c85528c419c2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6a8292ef4394d6874bf95e2d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121625350",
+      "itunes_duration": "50:38",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "sicky",
+        "little",
+        "sticky",
+        "hands"
+      ]
+    },
     {
       "key": "bb7aeedbb278ecdfa5dbf06251e9c7cdade01d91",
       "title": "Ep. 018: Age of Astra - Accepted Elf, Not Reject Elf | #DND",
@@ -8014,6 +8034,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — Ep. 019: Age of Astra - Sicky Little Sticky Hands | #DND
 - 2026-08-12 — Ep. 018: Age of Astra - Accepted Elf, Not Reject Elf | #DND
 - 2026-08-05 — Ep. 017: Age of Astra - The Signal is Different | #DND
 - 2026-07-29 — Ep. 016: Age of Astra - A Local Delicacy | #DND
