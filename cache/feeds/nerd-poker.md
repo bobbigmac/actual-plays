@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-08-12T02:47:35+00:00`
-- checked_at: `2026-08-12T02:47:35+00:00`
-- etag: `"2de942cc371d72787a6d191ff4202c69"`
-- last_modified: `Tue, 11 Aug 2026 23:34:09 GMT`
+- fetched_at: `2026-08-19T01:55:17+00:00`
+- checked_at: `2026-08-19T01:55:17+00:00`
+- etag: `"c2a42e26f23c49a48d01d2bd68c242ed"`
+- last_modified: `Tue, 18 Aug 2026 23:24:07 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-08-12T02:47:35+00:00",
+  "fetched_at": "2026-08-19T01:55:17+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "c7d6218671c8afdaec9eaf2fc00b65e4893e3d9a",
+      "title": "The Cavern Campaign - Episode 1",
+      "published_at": "2026-08-18T23:21:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-cavern-campaign-episode-1",
+      "description": "We officially meet the new crew, as they gear up for an adventure deep beneath the Underdark, to the Lost City of Blith, where there is an entire civilization's worth of loot, but all who enter are rumored to become cursed with de-evolution. Who will the leader, er, Brian's character be? For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more, be sure to head to nerdpokerpod.com",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S8-001-20260813-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "167421248",
+      "itunes_duration": "01:09:46",
+      "speakers": [
+        "Brian Posehn"
+      ],
+      "topics": [
+        "cavern",
+        "campaign"
+      ]
+    },
     {
       "key": "a18786f3056a14a28c290036dedf4cd130d674b5",
       "title": "The Fog Campaign - Episode 83",
@@ -9123,6 +9142,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-18 — The Cavern Campaign - Episode 1 — speakers: Brian Posehn
 - 2026-08-11 — The Fog Campaign - Episode 83 — speakers: Brian Posehn
 - 2026-08-04 — The Fog Campaign - Episode 82 — speakers: Ding Dong Danglers, Brian Posehn
 - 2026-07-30 — The Fog Campaign - Episode 81 — speakers: Brian Posehn

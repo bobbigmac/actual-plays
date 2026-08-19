@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-08-12T02:47:35+00:00`
-- checked_at: `2026-08-12T02:47:35+00:00`
-- etag: `"c524887f1d29eff078a88fa05afe8cc4"`
+- fetched_at: `2026-08-19T01:55:17+00:00`
+- checked_at: `2026-08-19T01:55:17+00:00`
+- etag: `"9c0416e901248560da9b3ce0b7c191bd"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-08-12T02:47:35+00:00",
+  "fetched_at": "2026-08-19T01:55:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "266834d693f7c8411ba4a8245beac17d1ee31386",
+      "title": "Dungeons & Dragons: The Long Road part 2",
+      "published_at": "2026-08-19T01:06:45+00:00",
+      "link": "https://fandible.com/dungeons-dragons-the-long-road-part-2/",
+      "description": "Happy for a free gift but concerned of someone using their names, the adventurers search for more townsfolk who can answer their questions, and possibly find gainful employment The post Dungeons & Dragons: The Long Road part 2 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/460_DND_TheLongRoad/Fan_815_DnD_TheLongRoadpart2.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48526298",
+      "itunes_duration": "49:40",
+      "speakers": [],
+      "topics": [
+        "dungeon",
+        "dragons",
+        "long",
+        "road"
+      ]
+    },
     {
       "key": "68ae5cbe595bb83a4208c63c494cdd6eefdd7110",
       "title": "Dungeons & Dragons: The Long Road part 1",
@@ -11369,22 +11388,6 @@
         "agent",
         "gods"
       ]
-    },
-    {
-      "key": "fff793af7a2eede5c6710be15c59b6212764946f",
-      "title": "Shadowrun: Prime Ep 8 part 2 of 2",
-      "published_at": "2016-08-26T14:20:44+00:00",
-      "link": "https://fandible.com/shadowrun-ep-10-kindness-strangers-2-2/",
-      "description": "In Charity, New Jersey, any celebration with people, drinking and fireworks is a dicey affair. As opposing criminal factions seek to establish dominance during the festivities, a group of Shadowrunners, led by one of Charity's own, show up to teach people how they party in Seattle. The post Shadowrun: Prime Ep 8 part 2 of 2 appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/190_SR_TheKindnessOfStrangers/Fan_311_SR_TheKindnessOfStrangers2of2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "53812259",
-      "itunes_duration": "1:50:55",
-      "speakers": [],
-      "topics": [
-        "prime"
-      ]
     }
   ]
 }
@@ -11393,6 +11396,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — Dungeons & Dragons: The Long Road part 2
 - 2026-08-12 — Dungeons & Dragons: The Long Road part 1
 - 2026-08-05 — Kenku Bin Wizards: Saving the Wastes part 3 — speakers: Kenku Bin Wizards
 - 2026-07-28 — Kenku Bin Wizards: Saving the Wastes part 2 — speakers: Kenku Bin Wizards
@@ -11992,4 +11996,3 @@
 - 2016-09-16 — Paranoia: I’ll See You At Disneyland
 - 2016-09-09 — Timewatch: The Hero Engine
 - 2016-09-02 — Age of Sigmar: Agents of the Gods — speakers: Gods Tasked
-- 2016-08-26 — Shadowrun: Prime Ep 8 part 2 of 2
