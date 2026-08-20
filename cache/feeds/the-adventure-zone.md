@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-08-06T11:34:56+00:00`
-- checked_at: `2026-08-06T11:34:56+00:00`
-- etag: `"aa3dcdc9bc564b75d087d0d5aed6e20e"`
-- last_modified: `Thu, 06 Aug 2026 11:00:17 GMT`
+- fetched_at: `2026-08-20T13:14:20+00:00`
+- checked_at: `2026-08-20T13:14:20+00:00`
+- etag: `"c71ab8ec7369acc9bd7af9806bc52fb9"`
+- last_modified: `Thu, 20 Aug 2026 11:00:20 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-08-06T11:34:56+00:00",
+  "fetched_at": "2026-08-20T13:14:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "f19ef643d55a84d31da6dbd774f32fd13ef07b2d",
+      "title": "The The Adventure Zone Zone: Royale Wrap-Up!",
+      "published_at": "2026-08-20T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-the-adventure-zone-zone-royale-wrap-up-4iksVnoh",
+      "description": "This week we’re answering your questions about The Adventure Zone: Royale! Royale Theme: “Wizard Disco” by Louie Zong: https://louiezong.bandcamp.com/album/wizard-disco Original Music by Griffin McElroy Additional Music in this Episode: \"The Fae\" by Mark Lingard: https://freemusicarchive.org/music/mark-lingard/. Native Women Lead: https://www.nativewomenlead.org/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
+      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/8a3c91ac-cb64-4de9-832f-28421536ba4c/3000x3000/tazroyalecoverresizedforsite.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/db1f83e7-f8e8-4979-9e7f-14768c5293ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=db1f83e7-f8e8-4979-9e7f-14768c5293ef&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65603924",
+      "itunes_duration": "01:03:31",
+      "speakers": [
+        "Wizard Dis"
+      ],
+      "topics": [
+        "adventure",
+        "zone",
+        "royale",
+        "wrap"
+      ]
+    },
     {
       "key": "34ba804eb4b8537d9834ce1c4710de0cacbf0f13",
       "title": "The Adventure Zone Royale: Episode 30",
@@ -8082,6 +8103,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-20 — The The Adventure Zone Zone: Royale Wrap-Up! — speakers: Wizard Dis
 - 2026-08-06 — The Adventure Zone Royale: Episode 30
 - 2026-07-23 — The Adventure Zone Royale: Episode 29
 - 2026-07-09 — The Adventure Zone Royale: Episode 28
