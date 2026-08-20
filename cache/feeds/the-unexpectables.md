@@ -2,10 +2,10 @@
 
 - slug: `the-unexpectables`
 - source: `https://feeds.libsyn.com/105383/rss`
-- fetched_at: `2026-06-13T19:55:42+00:00`
-- checked_at: `2026-06-13T19:55:42+00:00`
-- etag: `"e0251e11c2450d511f39ed849fb7757b"`
-- last_modified: `Sat, 13 Jun 2026 19:01:18 GMT`
+- fetched_at: `2026-08-20T21:51:17+00:00`
+- checked_at: `2026-08-20T21:51:17+00:00`
+- etag: `"f77144226bdc367f56f9b29c4db51197"`
+- last_modified: `Wed, 12 Aug 2026 18:52:02 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://101club.libsyn.com/website",
   "description": "Follow the travels and tribulations of Task the Kobold Ranger, Greckles the Kenku Rogue, Panic the Tiefling Bard, and Borky the Orc Barbarian, as they traverse the dangerous and mysterious lands of Alivast, and the Capital City that hosts a bungle of characters, magic and villains.",
   "image_url": "https://static.libsyn.com/p/assets/6/9/c/7/69c7492dcb405690/sweet_dragon_logo.png",
-  "fetched_at": "2026-06-13T19:55:42+00:00",
+  "fetched_at": "2026-08-20T21:51:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,257 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "d2c1d1c8a926a6cd818aa3dbfbda7c30989949d9",
+      "title": "Stone Cold Steal Hostron - The Unexpectables II Episode 159",
+      "published_at": "2026-08-12T18:37:00+00:00",
+      "link": "https://101club.libsyn.com/stone-cold-steal-hostron-the-unexpectables-ii-episode-159",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_159_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110171168",
+      "itunes_duration": "02:11:06",
+      "speakers": [
+        "Stone Cold Steal Hostron"
+      ],
+      "topics": [
+        "stone",
+        "cold",
+        "steal",
+        "hostron",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "23b01ad9edaeb92983c93c8ab1ce428b8c142e36",
+      "title": "A Dino Crisis - Fool's Gelt Episode 11",
+      "published_at": "2026-08-05T18:50:00+00:00",
+      "link": "https://101club.libsyn.com/a-dino-crisis-fools-gelt-episode-11",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_Episode_11_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "152000452",
+      "itunes_duration": "03:00:53",
+      "speakers": [
+        "Dino Crisis"
+      ],
+      "topics": [
+        "dino",
+        "crisis",
+        "fool",
+        "gelt"
+      ]
+    },
+    {
+      "key": "4de10e288312b5387231d6e5b8981ac7158c1a95",
+      "title": "Blood From a Stone - The Unexpectables II Episode 158",
+      "published_at": "2026-08-05T18:50:00+00:00",
+      "link": "https://101club.libsyn.com/blood-from-a-stone-the-unexpectables-ii-episode-158",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_158_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138967265",
+      "itunes_duration": "02:45:22",
+      "speakers": [],
+      "topics": [
+        "blood",
+        "stone",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "6dba2dd3691ed0bae3a9a32e8cad17ea00095648",
+      "title": "The World May Never Know - The Unexpectables II Episode 157",
+      "published_at": "2026-07-28T05:08:00+00:00",
+      "link": "https://101club.libsyn.com/the-world-may-never-know-the-unexpectables-ii-episode-157",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_157_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132401111",
+      "itunes_duration": "02:37:33",
+      "speakers": [],
+      "topics": [
+        "world",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "78b28d6c8365e47921f07b4b274b2391ce43c10d",
+      "title": "Lancer One-Shot: Warriors of the Sun Part 3",
+      "published_at": "2026-07-20T19:09:00+00:00",
+      "link": "https://101club.libsyn.com/lancer-one-shot-warriors-of-the-sun-part-3",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Lancer_One_Shot_Part_3_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "214620493",
+      "itunes_duration": "04:15:26",
+      "speakers": [
+        "Lancer One-Shot"
+      ],
+      "topics": [
+        "lancer",
+        "shot",
+        "warrior"
+      ]
+    },
+    {
+      "key": "0b9fc7c451fade37165c9eec823475179d3795ba",
+      "title": "First Steps: A Halo One-Shot",
+      "published_at": "2026-07-20T19:09:00+00:00",
+      "link": "https://101club.libsyn.com/first-steps-a-halo-one-shot",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Halo_First_Steps_One_Shot_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "287038025",
+      "itunes_duration": "05:41:39",
+      "speakers": [
+        "First Steps",
+        "Halo One"
+      ],
+      "topics": [
+        "steps",
+        "halo",
+        "shot"
+      ]
+    },
+    {
+      "key": "1d6692ac94ecb982d90db5e5e27f0dddba33b518",
+      "title": "Statues Of Limitations - The Unexpectables II Episode 156",
+      "published_at": "2026-07-20T19:09:00+00:00",
+      "link": "https://101club.libsyn.com/statues-of-limitations-the-unexpectables-ii-episode-156",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/The_Unexpectables_II_Episode_156_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "141412805",
+      "itunes_duration": "02:48:17",
+      "speakers": [],
+      "topics": [
+        "statue",
+        "limitations",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "1aa00af3b1cd8f106913888a192125a8835728bf",
+      "title": "Lost & Found - Fool's Gelt Episode 10",
+      "published_at": "2026-07-20T19:09:00+00:00",
+      "link": "https://101club.libsyn.com/lost-found-fools-gelt-episode-10",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_Ep_10_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "162645413",
+      "itunes_duration": "03:13:34",
+      "speakers": [],
+      "topics": [
+        "lost",
+        "found",
+        "fool",
+        "gelt"
+      ]
+    },
+    {
+      "key": "3f1da12e06bb328d8567ce7ec0c0bd3d2b83bbc7",
+      "title": "No Stone Unturned - The Unexpectables II Episode 155",
+      "published_at": "2026-07-06T16:04:00+00:00",
+      "link": "https://101club.libsyn.com/no-stone-unturned-the-unexpectables-ii-episode-155",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_155_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "136994116",
+      "itunes_duration": "02:43:01",
+      "speakers": [
+        "No Stone Unturned"
+      ],
+      "topics": [
+        "stone",
+        "unturned",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "97b1577d7bf625d4fab0173c8e15f0985db2b58f",
+      "title": "Return to Rampoon City - The Prince Division LIVE",
+      "published_at": "2026-07-06T16:01:00+00:00",
+      "link": "https://101club.libsyn.com/return-to-rampoon-city-the-prince-division-live",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Prince_Division_Return_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "172265784",
+      "itunes_duration": "03:25:01",
+      "speakers": [
+        "Rampoon City"
+      ],
+      "topics": [
+        "rampoon",
+        "city",
+        "prince",
+        "division"
+      ]
+    },
+    {
+      "key": "737fc67d752c643c318593c31e08079a81112346",
+      "title": "Voices from the Void - Fool's Gelt Episode 9",
+      "published_at": "2026-07-06T16:00:00+00:00",
+      "link": "https://101club.libsyn.com/voices-from-the-void-fools-gelt-episode-9",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_9_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "126116644",
+      "itunes_duration": "02:30:05",
+      "speakers": [],
+      "topics": [
+        "voice",
+        "void",
+        "fool",
+        "gelt"
+      ]
+    },
+    {
+      "key": "ee24a4346fbeb7e0ae8fc79f335b5f9adea47029",
+      "title": "What's Your Sign? - The Unexpectables II Episode 154",
+      "published_at": "2026-06-22T19:35:00+00:00",
+      "link": "https://101club.libsyn.com/whats-your-sign-the-unexpectables-ii-episode-154",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/The_Unexpectables_II_Episode_154_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "128762136",
+      "itunes_duration": "02:33:13",
+      "speakers": [],
+      "topics": [
+        "sign",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "faca7817bae59bfad320c4b3818ca763567ce548",
+      "title": "Dodge This - Fool's Gelt Episode 8",
+      "published_at": "2026-06-22T19:32:00+00:00",
+      "link": "https://101club.libsyn.com/dodge-this-fools-gelt-episode-8",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_8_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "167285101",
+      "itunes_duration": "03:19:05",
+      "speakers": [],
+      "topics": [
+        "dodge",
+        "fool",
+        "gelt"
+      ]
+    },
     {
       "key": "def01159e556803602c076cbf13926db6cce8f27",
       "title": "Lunatics Unleashed - The Unexpectables II Episode 153",
@@ -11239,6 +11490,19 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — Stone Cold Steal Hostron - The Unexpectables II Episode 159 — speakers: Stone Cold Steal Hostron
+- 2026-08-05 — A Dino Crisis - Fool's Gelt Episode 11 — speakers: Dino Crisis
+- 2026-08-05 — Blood From a Stone - The Unexpectables II Episode 158
+- 2026-07-28 — The World May Never Know - The Unexpectables II Episode 157
+- 2026-07-20 — Lancer One-Shot: Warriors of the Sun Part 3 — speakers: Lancer One-Shot
+- 2026-07-20 — First Steps: A Halo One-Shot — speakers: First Steps, Halo One
+- 2026-07-20 — Statues Of Limitations - The Unexpectables II Episode 156
+- 2026-07-20 — Lost & Found - Fool's Gelt Episode 10
+- 2026-07-06 — No Stone Unturned - The Unexpectables II Episode 155 — speakers: No Stone Unturned
+- 2026-07-06 — Return to Rampoon City - The Prince Division LIVE — speakers: Rampoon City
+- 2026-07-06 — Voices from the Void - Fool's Gelt Episode 9
+- 2026-06-22 — What's Your Sign? - The Unexpectables II Episode 154
+- 2026-06-22 — Dodge This - Fool's Gelt Episode 8
 - 2026-06-13 — Lunatics Unleashed - The Unexpectables II Episode 153 — speakers: Unexpectables II
 - 2026-06-13 — Alone in the Dark - Fool's Gelt Episode 7
 - 2026-05-29 — Salmon Max - The Unexpectables II Episode 152 — speakers: Unexpectables II
