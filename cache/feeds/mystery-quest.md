@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-08-14T16:07:42+00:00`
-- checked_at: `2026-08-14T16:07:42+00:00`
-- last_modified: `Fri, 14 Aug 2026 16:00:45 GMT`
+- fetched_at: `2026-08-21T18:59:48+00:00`
+- checked_at: `2026-08-21T18:59:48+00:00`
+- last_modified: `Fri, 21 Aug 2026 16:07:39 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-14T16:07:42+00:00",
+  "fetched_at": "2026-08-21T18:59:48+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,25 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "6cb3ba20c0671fd5846537a2b9e62fb1dbcacc03",
+      "title": "Mothership: Decagone #2",
+      "published_at": "2026-08-21T16:00:00+00:00",
+      "link": null,
+      "description": "Welcome back to Mothership and the scenario, Decagone. Our spacers find themselves trapped in a temporal loop in the deep sea research lab of Moroi Technology. Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Get Mothership here: https://www.tuesdayknightgames.com/pages/mothership-rpg?srsltid=AfmBOorfpmeJ8DUa2gEmLTVECMntTMcp3uX6qceCLK-dEjzC1CJ9Ghxw Check out Decagone here: https://slowquest.itch.io/decagone Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: ⁠ @AngoryTom ⁠ Harry: @hrry Ravs: @ravs_ Sips: @Sips Trott: @HighRollersDnD Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR6221694557.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3593",
+      "speakers": [
+        "Tom Bates"
+      ],
+      "topics": [
+        "mothership",
+        "decagone"
+      ]
+    },
     {
       "key": "9fe2ac1417c203711a982ac463471a57fe623070",
       "title": "Mothership: Decagone #1",
@@ -3255,6 +3274,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-21 — Mothership: Decagone #2 — speakers: Tom Bates
 - 2026-08-14 — Mothership: Decagone #1 — speakers: Tom Bates
 - 2026-08-07 — Obscure: Found Footage RPG #3 — speakers: St Sanchez, Tom Bates
 - 2026-07-31 — Obscure: Found Footage RPG #2 — speakers: Tom Bates
