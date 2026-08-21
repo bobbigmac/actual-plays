@@ -2,9 +2,9 @@
 
 - slug: `we-fix-space-junk`
 - source: `https://feeds.megaphone.fm/wefixspacejunk`
-- fetched_at: `2026-08-08T02:23:50+00:00`
-- checked_at: `2026-08-08T02:23:50+00:00`
-- last_modified: `Wed, 05 Aug 2026 23:07:08 GMT`
+- fetched_at: `2026-08-21T21:42:24+00:00`
+- checked_at: `2026-08-21T21:42:24+00:00`
+- last_modified: `Mon, 10 Aug 2026 23:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://battlebird.productions",
   "description": "'We Fix Space Junk' follows seasoned smuggler Kilner and reluctant fugitive Samantha as they travel the galaxy, dodging bullets and meeting strange and wonderful beings as they carry out odd jobs on the fringes of the law. A female-led sci-fi comedy sitcom set in the far future, in a high-tech, dystopian world, We Fix Space Junk draws on the sci-fi of the past, following in the footsteps of Harry Harrison and of Douglas Adams' Hitchhiker's Guide to the Galaxy. Equal parts love-letter to sci-fi and satire of the present-day, Space Junk is lovingly produced by Beth Crane and Hedley Knights of Battle Bird Productions. To support the show visit patreon.com/BattleBirdProd or visit Battlebird.productions",
   "image_url": "https://megaphone.imgix.net/podcasts/8c376dd8-0f0d-11ec-8651-57ea866800e0/image/8d5a72f1090250cbefae2050b1329e32fb962b991327db690dac1bffa8d2ba047cdd30974dd1f9bdc451659cd75d302dfd61aded64e62bb1377d9d88df6be606.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-08T02:23:50+00:00",
+  "fetched_at": "2026-08-21T21:42:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,22 @@
     "fiction/audiobook"
   ],
   "episodes": [
+    {
+      "key": "8eda58580d7aca32fb4b4929f0e7d447a8bedd55",
+      "title": "Introducing... The Strata",
+      "published_at": "2026-08-10T23:00:00+00:00",
+      "link": null,
+      "description": "Hello! I’m dropping in to introduce an audio drama that’s been going for some time: The Strata, by Mark R Healy. Set in a sprawling, dystopian metropolis in a sci-fi future, The Strata follows Rust, an ageing mechanically-augmented courier forced into business with an underworld ganglord in order to pay for treatment to keep his rapidly-failing body alive. He narrates his tale in a manner that is pure film-noir and as a fan of flawed protagonists, I enjoyed following his story. Rust as a narrator is one part Reacher, one part Philip Marlowe, with a little Ron Perlman thrown in there for vocal tone. Episode one starts as his mostly-robotic body is starting to fail, and he’s growing desperate; but how far is he willing to go to stay alive? Listen on for Episode One of The Strata, and you can find The Strata anywhere you listen to podcasts! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a7f4605c-90d7-11f1-a6a4-63ef0ef416f2/image/154fffd520bf77dc30a387966d1850d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO3403175883.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2116",
+      "speakers": [],
+      "topics": [
+        "strata"
+      ]
+    },
     {
       "key": "e7f7cd8092488d7d2e7a4c0f7900a521c8f07d9e",
       "title": "Introducing... Jack Valentine, Vampire Detective",
@@ -1584,6 +1600,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — Introducing... The Strata
 - 2026-08-05 — Introducing... Jack Valentine, Vampire Detective — speakers: Jack Valentine, Vampire Detective
 - 2026-07-29 — A Couple of Quick Announcements... (Including Live Show!)
 - 2026-06-29 — S04 E08 - S.O.S.
