@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-08-21T04:04:21+00:00`
-- checked_at: `2026-08-21T04:04:21+00:00`
-- last_modified: `Fri, 21 Aug 2026 04:00:00 GMT`
+- fetched_at: `2026-08-22T07:02:24+00:00`
+- checked_at: `2026-08-22T07:02:24+00:00`
+- last_modified: `Sat, 22 Aug 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-21T04:04:21+00:00",
+  "fetched_at": "2026-08-22T07:02:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "76d74c130f0d48720aeb0657f379ba2679f76314",
+      "title": "An Ecstasy of Fumbling | Time For Chaos S4 E7 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2026-08-22T04:00:00+00:00",
+      "link": null,
+      "description": "After another terrifying night in the desert, the investigators stumble into a dig site where nothing is quite as it seems. For a limited time, use code \"TFC4\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠ ⁠, including Overtime For Chaos, our exclusive Time For Chaos companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Watch the video here: ⁠ https://youtu.be/E6q_91O59_8 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1675a66a-9cc4-11f1-904e-ff2768e3ef37/image/890a3bf3989180810a7f258a4cb71b52.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7590379773.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7036",
+      "speakers": [],
+      "topics": [
+        "ecstasy",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
     {
       "key": "7c616ba2bcb119d5f7bf50b211a3dab5f1b0581a",
       "title": "New Tomorrow | The Glass Cannon Podcast Shadowdark E40 | Shadowdark RPG",
@@ -21716,28 +21737,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "d5e6b40e518f90c9819af5ed282d8f53bcc63946",
-      "title": "Frankly My Dear, I Just Blew a Dam | The Glass Cannon Podcast Giantslayer E43 | Pathfinder 1E",
-      "published_at": "2016-03-22T04:01:00+00:00",
-      "link": "http://www.glasscannonpodcast.com/episodes/2016/3/21/episode-43-frankly-my-dear-i-just-blew-a-dam",
-      "description": "The heroes turn their attention to the obstacle blocking their path, secure in the knowledge that the traitor has been silenced. But has the danger on board truly passed? For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/8c4a756a-4113-11ee-b12c-7f58bae8a0f5/image/4e61800c9ee0450c25947c3cccc0b3c8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7697667825.mp3?updated=1707331700",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3618",
-      "speakers": [],
-      "topics": [
-        "dear",
-        "blew",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21746,6 +21745,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-22 — An Ecstasy of Fumbling | Time For Chaos S4 E7 | Call of Cthulhu Masks of Nyarlathotep
 - 2026-08-21 — New Tomorrow | The Glass Cannon Podcast Shadowdark E40 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-08-19 — Time Without Tide Part 2 | Chaosium | Friends of the Pod — speakers: Lonely Pharefl
 - 2026-08-19 — Between Two Poles | We Shouldn't Be Alive E11 | Twilight: 2000 — speakers: Between Two Poles
@@ -22745,4 +22745,3 @@
 - 2016-04-12 — Marsh Madness | The Glass Cannon Podcast Giantslayer E46 | Pathfinder 1E
 - 2016-04-05 — The Marshin' Chronicles | The Glass Cannon Podcast Giantslayer E45 | Pathfinder 1E
 - 2016-03-29 — Rumble Singeskin | The Glass Cannon Podcast Giantslayer E44 | Pathfinder 1E
-- 2016-03-22 — Frankly My Dear, I Just Blew a Dam | The Glass Cannon Podcast Giantslayer E43 | Pathfinder 1E
