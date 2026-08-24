@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-08-24T13:16:40+00:00`
-- checked_at: `2026-08-24T13:16:40+00:00`
-- etag: `"djEuMi4wOjE3ODc1NzYyNjg1MjU="`
+- fetched_at: `2026-08-24T15:58:04+00:00`
+- checked_at: `2026-08-24T15:58:04+00:00`
+- etag: `"djEuMi4wOjE3ODc1ODM2Mzk0NTE="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-08-24T13:16:40+00:00",
+  "fetched_at": "2026-08-24T15:58:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "1872fd2ca73950848d0288399df067d178b087bd",
+      "title": "Campaign 2: Episode 196 - Michael Hates Tim and Jennifer",
+      "published_at": "2026-08-24T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-196-michael-hates-tim-and-jennifer",
+      "description": "While R'orc and Screech are off in their own time loop vortex T'Chuck and Selene are similarly ensorcelled. Things go from bad to worse to weird to the extent that our heroes sorta assume they are in a game and that things are not as they appear... Also there are so many Mikes. Welcome to Wrexham again. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by artisticflair2004 ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1787575768960-e92c7ed0-9ff6-46ee-8ff9-af631e78fd42.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a8c3fcc50d01eac0b1f6c17/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101101213",
+      "itunes_duration": "1:10:11",
+      "speakers": [],
+      "topics": [
+        "campaign",
+        "michael",
+        "hates",
+        "jennifer"
+      ]
+    },
     {
       "key": "36664f1b40afe5a301f429e789561ac925a4c4c2",
       "title": "Campaign 2: Episode 195 - Michael Hates Us",
@@ -12575,6 +12594,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-24 — Campaign 2: Episode 196 - Michael Hates Tim and Jennifer
 - 2026-08-17 — Campaign 2: Episode 195 - Michael Hates Us
 - 2026-08-10 — Campaign 2: Episode 194 - Six More Weeks of Winter — speakers: Six More Weeks, Red Lantern
 - 2026-08-03 — Campaign 2: Episode 193 - Super Spike Assault Part 2

@@ -3,11 +3,9 @@
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
 - fetched_at: `2026-08-19T01:55:17+00:00`
-- checked_at: `2026-08-24T13:16:40+00:00`
+- checked_at: `2026-08-24T15:58:04+00:00`
 - etag: `"9c0416e901248560da9b3ce0b7c191bd"`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: <urlopen error timed out>
 
 <!-- FEED_JSON -->
 ```json
@@ -11391,17 +11389,7 @@
         "gods"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-08-24T13:16:40+00:00",
-    "status": "error",
-    "checked_at": "2026-08-24T13:16:40+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "<urlopen error timed out>"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
