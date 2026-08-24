@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-08-17T07:18:58+00:00`
-- checked_at: `2026-08-17T07:18:58+00:00`
-- last_modified: `Mon, 17 Aug 2026 06:43:17 GMT`
+- fetched_at: `2026-08-24T07:31:11+00:00`
+- checked_at: `2026-08-24T07:31:11+00:00`
+- last_modified: `Mon, 17 Aug 2026 12:47:57 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/8e75fc9d6dbbc2142cca11c14acfdea1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-17T07:18:58+00:00",
+  "fetched_at": "2026-08-24T07:31:11+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -32,7 +32,7 @@
       "title": "662. Monsters Ate My Homework⁠, Episode 1",
       "published_at": "2026-08-17T04:03:00+00:00",
       "link": null,
-      "description": "EPISODE SUMMARY A group of regular students notice strange behavior from their classmates and teachers and attempt to uncover the reasons why in Monsters Ate My Homework by Amaan HK. SHOW NOTES Monsters Ate My Homework One Shot News & Updates One Shot Patreon One Shot TWITCH Follow the cast here! Dillin Apelyan Cassandra Apelyan Cassie (aka Lamia) Haley Whipjack Fae ----------------------------------------------------- Northfield Supporting Neighbors Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Always Something, Fantoms The Tale of the Jack O Lantern, MaterialGurl Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "EPISODE SUMMARY A group of regular students notice strange behavior from their classmates and teachers and attempt to uncover the reasons why in Monsters Ate My Homework by Amaan HK. SHOW NOTES Monsters Ate My Homework One Shot News & Updates One Shot Patreon One Shot TWITCH Follow the cast here! Dillin Apelyan Cassandra Apelyan Cassie (aka Lamia) Haley Whipjack Fae ----------------------------------------------------- Help Restore a Village Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Always Something, Fantoms The Tale of the Jack O Lantern, MaterialGurl Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
       "enclosure_url": "https://traffic.megaphone.fm/OSPN6580912960.mp3",
       "enclosure_type": "audio/mpeg",
