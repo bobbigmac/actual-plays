@@ -3,9 +3,11 @@
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
 - fetched_at: `2026-08-24T07:31:11+00:00`
-- checked_at: `2026-08-24T07:31:11+00:00`
+- checked_at: `2026-08-25T19:01:12+00:00`
 - last_modified: `Mon, 17 Aug 2026 12:47:57 GMT`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>
 
 <!-- FEED_JSON -->
 ```json
@@ -13525,7 +13527,17 @@
         "partiers"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-08-25T19:01:12+00:00",
+    "status": "error",
+    "checked_at": "2026-08-25T19:01:12+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

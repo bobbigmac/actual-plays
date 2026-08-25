@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-08-18T21:41:39+00:00`
-- checked_at: `2026-08-18T21:41:39+00:00`
-- etag: `"djEuMi4wOjE3ODcwNzk2Mzk0MDA="`
+- fetched_at: `2026-08-25T19:01:12+00:00`
+- checked_at: `2026-08-25T19:01:12+00:00`
+- etag: `"djEuMi4wOjE3ODc2ODQ0Mzk0NDM="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-08-18T21:41:39+00:00",
+  "fetched_at": "2026-08-25T19:01:12+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a6702909807f25bb0fa80a9c2ff63d4a24ea7341",
+      "title": "Action Surge Episode 61",
+      "published_at": "2026-08-25T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-61",
+      "description": "TBC --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a82f8c66e5b5bfda6772753/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47550798",
+      "itunes_duration": "49:31",
+      "speakers": [
+        "https discord",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "974a93fb7d4d15016b1ef59fb6f54c681e220452",
       "title": "Ep. 61 The Corpsewyrm",
@@ -3205,6 +3230,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-25 — Action Surge Episode 61 — speakers: https discord, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-08-18 — Ep. 61 The Corpsewyrm — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-08-11 — Action Surge Episode 60 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-08-04 — Ep. 60 Hanging By A Thread — speakers: Thread When, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
