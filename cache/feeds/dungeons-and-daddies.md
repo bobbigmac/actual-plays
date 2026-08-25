@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-08-11T16:12:45+00:00`
-- checked_at: `2026-08-11T16:12:45+00:00`
-- etag: `"djEuMi4wOjE3ODY0NjQwMzk1MDY="`
+- fetched_at: `2026-08-25T16:02:52+00:00`
+- checked_at: `2026-08-25T16:02:52+00:00`
+- etag: `"djEuMi4wOjE3ODc2NzM2Mzk0NzM="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-08-11T16:12:45+00:00",
+  "fetched_at": "2026-08-25T16:02:52+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -32,6 +32,29 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "2d695be8135cec733cac13e7a872427f75d55663",
+      "title": "S4 Ep. 15 - Alien vs Spredditor",
+      "published_at": "2026-08-25T16:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "“What’s a subtle sign you’re a bad grandfather? EDIT: Downvotes? Really?” This episode contains Profanity, Violence, and Sexual Content. Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1787617190643-a99241e2-d310-4cea-bba0-7a51025e1a10.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/6a8d18142fe0b9d0784e3aaa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101515356",
+      "itunes_duration": "1:09:58",
+      "speakers": [
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "alien",
+        "spredditor"
+      ]
+    },
     {
       "key": "11f5287b77109d5f6541d71224da2cf5e208f233",
       "title": "S4 Ep. 14 - The Most Dangerous Midway Game",
@@ -4865,6 +4888,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-25 — S4 Ep. 15 - Alien vs Spredditor — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-08-11 — S4 Ep. 14 - The Most Dangerous Midway Game — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-08-04 — [BONUS] Oceans Dad-leven: Not a BDSM Sourcebook One Shot — speakers: Oceans Dad, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-07-28 — S4 Ep. 13 - For Al Mankind — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
