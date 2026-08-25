@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-08-21T04:04:21+00:00`
-- checked_at: `2026-08-21T04:04:21+00:00`
-- etag: `"17606d6b7cd57ad41feabcd2e4b4332f"`
-- last_modified: `Fri, 21 Aug 2026 03:05:23 GMT`
+- fetched_at: `2026-08-25T04:03:15+00:00`
+- checked_at: `2026-08-25T04:03:15+00:00`
+- etag: `"b732150b1972d7546d8735d786b192cb"`
+- last_modified: `Tue, 25 Aug 2026 03:38:13 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-08-21T04:04:21+00:00",
+  "fetched_at": "2026-08-25T04:03:15+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "f218e892e60f33e219d5b741223bf75b8c0583f0",
+      "title": "Perpetua 47: Escape from the Rumbling Castle! 07",
+      "published_at": "2026-08-25T03:37:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-47-escape-from-the-rumbling-castle-07",
+      "description": "With a single step, a world shattered and the stars faltered. Those who witnessed the destruction must face the future and pick up the pieces, but first they must escape the Dragon Path and return home—or at least near it. To do that, though, they'll need to capture Jonathan's airship, the Adventure Beckons, from the Creed of Oracles… This week on Perpetua: Escape the Rumbling Castle! 07 Perpetua Guide [In Progress v.06] NPCs & Monsters [PNMS] Creed of Oracles Infantry [NMCOIN] Typical Traits: Gritty, Grim Type : Humanoid Hunter Level : 10 Rank : Soldier Stats : DEX 10, INS 8, MIG 10, WLP 6 Attacks : Holy Salvo, Forceful Flurry Special Abilities : Summon Platemail Elemental Affinities : RES: Physical | VUL: Dark, Poison In-Game Description : With blessed light armor, rifle, and bayonet, Infantry make up the bulk of the Oracle's ranks. The rank-and-file soldier in the Creed of Oracles. If you decide to rush across the open courtyard when you first arrive to area of the castle, you can fight an infinite number of these guys. They aren't especially hardy, but their Holy Salvo is built specifically to knock out sturdy physical characters, so don't underestimate them! Starter Tip : If you can do it, try to dispel their summoned platemail, it'll make fighting them toe to toe a lot easier. Hovering Pyroclastic Typical Traits : Precise, Devoted, Short-fused Type : Humanoid Support Level : 10 Rank : Soldier Stats : DEX 8, INS 8, MIG 6, WLP 10 Attacks : Ignition, Volcanic Charge Special Abilities : Flying, Bracing Ash Elemental Affinities : RES: AIr, Earth [Can gain Fire] | VUL: Dark, Ice, [Starts with Fire] In-Game Description : A soldier in the robes and armor of the Creed of Oracles with flamethrower and a number of volcanic explosives at their belt. These floating demolitionists punch through your elemental defenses and their volcanic charges are like sticky grenades that give a boost to anything that hits your side of the field. Most importantly: They can cover themselves in a magical ash that will boost their might and give them a Fire resistance. Once they do this, they sort of become solid all-arounders, so it's best to knock them out before they can do that. Starter Tip : Hit them with Dark or Ice damage to bring them down to melee range! Fares, Devout Chef Traits : Tricky, Inventive, Religious, Adaptable Type : Humanoid Saboteur Level : 10 Rank : Soldier Stats : DEX 8, INS 8, MIG 8, WLP 8 Attacks : Poison Vial Special Abilities : Bottled Vigour, Enervating Powder Elemental Affinities : RES: Earth, Fire, Light| VUL: Air, Dark, Ice In-Game Description : A chef of the Creed of Oracles. Master of the Kitchen and Pantry. This guy SUCKS! I don't even mean in combat, he's fine to fight. But as a character, I hate how he can draw you into conflict. There's basically only one way through his conversation tree that doesn't draw you either into combat with him immediately (with reinforcements coming soon after) or up into the Barracks where his friends are. Personally, I prefer to just knock him out ASAP and then sneak up to the hidden passage a few rooms away. Starter Tip: If he manages to poison you, don't forget to use your IP for an Antitote. Poisoned doesn't do damage over times like in some games, instead it saps BOTH your Might and Willpower, so whether it hits a bruiser or a mage, you're in trouble! Ushala, Conduit Traits : Mysterious, Possessed, Sacrificial Type : Demon Mage Level : 10 Rank : Soldier Stats : DEX 10, INS 8, MIG 10, WLP 6 Attacks : Heaven's Light, Heaven's Glory, Heaven's Call Special Abilities : Flying, Pressure Gauge Elemental Affinities : IMM: Light | RES: Physical, Poison | VUL: Dark | Pressure Points: Dagger, Sword In-Game Description : A member of the Creed who temporary gives their body up to be possessed by the spirit of the holy Oracles. So, as far as I know, there's two versions of Ushala you can fight. The above is the \"standard\" one, which is what happens when the Gem Scene goes the way it almost always does. But I've heard that if you manage to get the gem away from the Draconic Elf safely, then Ushala can become possessed (by who? My theory is Lucena) and then she gets a second, much harder phase. Which is saying something, because even this version of her is NO JOKE. Starter Tip : If you can, hit her with Shaken and Poisoned (the status condition, NOT the damage type). All three of her attacks are based on WLP, so it helps to knock that down as far as possible. Sarithe, Shieldmaiden [NMSRSH] Traits : Courageous, Devout, Charismatic, Armored Type : Humanoid Sentinel Level : 10 Rank : Champion (4) Stats : DEX 8, INS 8, MIG 10, WLP 8 Attacks: Face Me!, Intercepting Javelin Special Abilities: Elemental Shield, Head up, Soldier!, Not this time!, Get behind me!, Strong Will, Honest Heart!, Pressure Gauge Elemental Affinities: IMM: | RES: Light, (Can gain Air, Earth, Fire, Ice) | VUL: Bolt, Dark, Poison | Pressure Points: Flail, Firearm, Spear, Heavy Weapon In-Game Description: A knight in elementally-charged armor, wielding a tower shield and a javelin that hums with power. Despite being fully kitted out in heavy armor, Sarithe's abilities seem designed to make her a strong support character. She keeps her crew safe not only by taking hits for them, but also by healing them, stopping Opportunities (critical hits), and granting them multiple elemental resistances. Starter Tip: Because she has a pressure gauge (from the Armidirge games), she doesn't take extra damage from the elements she's weak against. Instead, if you can hit her six times with something she's vulnerable to (including her pressure point weapon types), she'll get staggered and she loses all of her actions for the rest of the round. Be sure to take advantage of this!! Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), Janine Hawkins ( @bleatingheart ), Sylvi Bullet ( @sylvibullet ), Keith J Carberry ( @keithjcarberry ) and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_47_Escape_the_Rumbling_Castle_07.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "159308264",
+      "itunes_duration": "02:14:12",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "escape",
+        "rumbling",
+        "castle"
+      ]
+    },
     {
       "key": "690470494ca40d1248edcd69fe749413d16a597c",
       "title": "Perpetua 46: Escape the Rumbling Castle! 06",
@@ -11606,6 +11627,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-25 — Perpetua 47: Escape from the Rumbling Castle! 07 — speakers: Austin Walker
 - 2026-08-08 — Perpetua 46: Escape the Rumbling Castle! 06 — speakers: Austin Walker
 - 2026-07-27 — Perpetua 45: Escape the Rumbling Castle! 05 — speakers: Rumbling Castle, Austin Walker
 - 2026-07-04 — Perpetua 44: Escape the Rumbling Castle! 04 — speakers: Rumbling Castle, Little Snail, Austin Walker
