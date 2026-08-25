@@ -2,9 +2,9 @@
 
 - slug: `we-fix-space-junk`
 - source: `https://feeds.megaphone.fm/wefixspacejunk`
-- fetched_at: `2026-08-24T21:46:58+00:00`
-- checked_at: `2026-08-24T21:46:58+00:00`
-- last_modified: `Mon, 24 Aug 2026 19:41:40 GMT`
+- fetched_at: `2026-08-25T01:55:11+00:00`
+- checked_at: `2026-08-25T01:55:11+00:00`
+- last_modified: `Mon, 24 Aug 2026 23:07:06 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://battlebird.productions",
   "description": "'We Fix Space Junk' follows seasoned smuggler Kilner and reluctant fugitive Samantha as they travel the galaxy, dodging bullets and meeting strange and wonderful beings as they carry out odd jobs on the fringes of the law. A female-led sci-fi comedy sitcom set in the far future, in a high-tech, dystopian world, We Fix Space Junk draws on the sci-fi of the past, following in the footsteps of Harry Harrison and of Douglas Adams' Hitchhiker's Guide to the Galaxy. Equal parts love-letter to sci-fi and satire of the present-day, Space Junk is lovingly produced by Beth Crane and Hedley Knights of Battle Bird Productions. To support the show visit patreon.com/BattleBirdProd or visit Battlebird.productions",
   "image_url": "https://megaphone.imgix.net/podcasts/8c376dd8-0f0d-11ec-8651-57ea866800e0/image/8d5a72f1090250cbefae2050b1329e32fb962b991327db690dac1bffa8d2ba047cdd30974dd1f9bdc451659cd75d302dfd61aded64e62bb1377d9d88df6be606.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-24T21:46:58+00:00",
+  "fetched_at": "2026-08-25T01:55:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "fiction/audiobook"
   ],
   "episodes": [
+    {
+      "key": "15818469db4ae9576335add8d1e377fca94089bc",
+      "title": "Introducing... Mockery Manor!",
+      "published_at": "2026-08-24T23:00:00+00:00",
+      "link": null,
+      "description": "Hello! I’m here today to introduce you to a podcast I love: Mockery Manor. Created by Lindsay Sharman and Laurence Owen, Mockery Manor is a mystery thriller set in an 80s theme park. (Coincidentally, we’re also both performing at London Podcast Festival on the 6th September, so you can come and see both of us in a single day!) Mockery Manor follows twins JJ and Bette as they find themselves embroiled in a series of bloody and increasingly personal murders. It’s a show that really scratches that deep-lore itch, and if you’re a theme park fan, there are references galore. Whether you’re travelling on the Heart of Darkness River Adventure in Empireland or eating at the Unidentified Frying Objects Diner in Roswell, Mockery Manor has it all. And by all, I do mean a rapidly increasing body-count. And, of course, each land has its own theme music and scores, lovingly composed by Laurence Owen, and the music the characters listen to throughout is all original - although some of it seemed so familiar it had me googling! Mockery Manor Season 4 begins releasing today! There are three seasons out already but much like Space Junk, it’s best if you start with episode one. You can find and listen to Mockery Manor in all the usual podcast places (except Spotify). Thanks, and enjoy! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/977c8e40-9ff3-11f1-994b-23bb437a9b11/image/48b49e2396b867f768ccebbc478f8558.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO6103811213.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1606",
+      "speakers": [
+        "Lindsay Sharma"
+      ],
+      "topics": [
+        "mockery",
+        "manor"
+      ]
+    },
     {
       "key": "8eda58580d7aca32fb4b4929f0e7d447a8bedd55",
       "title": "Introducing... The Strata",
@@ -1600,6 +1619,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-24 — Introducing... Mockery Manor! — speakers: Lindsay Sharma
 - 2026-08-10 — Introducing... The Strata
 - 2026-08-05 — Introducing... Jack Valentine, Vampire Detective — speakers: Jack Valentine, Vampire Detective
 - 2026-07-29 — A Couple of Quick Announcements... (Including Live Show!)
