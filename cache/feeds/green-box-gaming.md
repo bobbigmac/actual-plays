@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-08-18T13:11:31+00:00`
-- checked_at: `2026-08-18T13:11:31+00:00`
-- etag: `"8f49422958d5b828e2ff54bf8435f5fb"`
-- last_modified: `Tue, 18 Aug 2026 13:00:58 GMT`
+- fetched_at: `2026-08-25T13:14:21+00:00`
+- checked_at: `2026-08-25T13:14:21+00:00`
+- etag: `"0d0228e2624c06361c2d11705a7958b4"`
+- last_modified: `Tue, 25 Aug 2026 13:00:46 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-08-18T13:11:31+00:00",
+  "fetched_at": "2026-08-25T13:14:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "2d6344eeb581abd68f0dd906d00ff7be6f0809ce",
+      "title": "Ep6 | Delta Green: Convergence - Reservoir Bog",
+      "published_at": "2026-08-25T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/3076392",
+      "description": "The crew sets their eyes on the town reservoir and dips their toes into this investigation proper. ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/3076392/green-box-gaming/2026_08_18_05_36_40_9f992566-ad1f-4a9b-b359-4613ee6a4d9d.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83064371",
+      "itunes_duration": "5191",
+      "speakers": [
+        "Delta Green"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "convergence",
+        "reservoir"
+      ]
+    },
     {
       "key": "a3729f84c37e0e9412114337e242096a7a5b7132",
       "title": "Ep5 | Delta Green: Convergence - Big Man on Campus",
@@ -4259,6 +4280,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-25 — Ep6 | Delta Green: Convergence - Reservoir Bog — speakers: Delta Green
 - 2026-08-18 — Ep5 | Delta Green: Convergence - Big Man on Campus
 - 2026-08-11 — Ep4 | Delta Green: Convergence - The "Cleaner" — speakers: Delta Green
 - 2026-08-04 — Ep3 | Delta Green: Convergence - Watched — speakers: Delta Green
