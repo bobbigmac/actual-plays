@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-08-25T21:46:51+00:00`
-- checked_at: `2026-08-25T21:46:51+00:00`
-- last_modified: `Tue, 25 Aug 2026 20:43:07 GMT`
+- fetched_at: `2026-08-26T04:05:33+00:00`
+- checked_at: `2026-08-26T04:05:33+00:00`
+- last_modified: `Wed, 26 Aug 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-25T21:46:51+00:00",
+  "fetched_at": "2026-08-26T04:05:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "fa1d9b93b9b6c5e5394b4489f25091e9a430913e",
+      "title": "Fever Dreams | We Shouldn't Be Alive E12 | Twilight: 2000",
+      "published_at": "2026-08-26T04:00:00+00:00",
+      "link": null,
+      "description": "The party faces infected wounds and the reality of their dwindling supplies. Watch the video here: https://youtu.be/cXuXCXjqRtw Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including the Mission Debrief, our exclusive We Shouldn't Be Alive companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e3a0a9ce-a0bf-11f1-8301-33eb4edfc01a/image/fea8f4bdf27af8a040cd8ab5e74ceac2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8952645170.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5396",
+      "speakers": [
+        "Fever Dreams"
+      ],
+      "topics": [
+        "fever",
+        "dream",
+        "twilight"
+      ]
+    },
     {
       "key": "8d2d1fe0f29d3aa93678b2d6134ca71854c240ff",
       "title": "GCN News Minute August 24, 2026",
@@ -21716,28 +21736,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "36a73be1a8f19cd29c061ddd1d88bb9c5b3b7915",
-      "title": "Marsh Madness | The Glass Cannon Podcast Giantslayer E46 | Pathfinder 1E",
-      "published_at": "2016-04-12T04:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/14114063/episode-46-marsh-madness/",
-      "description": "Flush with confidence after their battle with the hydra, the companions stumble upon one of the madder denizens of Ghostlight Marsh. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD9358603750.mp3?updated=1707332173",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4366",
-      "speakers": [],
-      "topics": [
-        "marsh",
-        "madness",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21746,6 +21744,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-26 — Fever Dreams | We Shouldn't Be Alive E12 | Twilight: 2000 — speakers: Fever Dreams
 - 2026-08-24 — GCN News Minute August 24, 2026 — speakers: News Minute August
 - 2026-08-24 — Hex-Crawlin' | Blood of the Wild S1 E36 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-08-22 — An Ecstasy of Fumbling | Time For Chaos S4 E7 | Call of Cthulhu Masks of Nyarlathotep
@@ -22745,4 +22744,3 @@
 - 2016-05-03 — Gentlemen Prefer Blinds | The Glass Cannon Podcast Giantslayer E49 | Pathfinder 1E
 - 2016-04-26 — Honk If You're Thorny | The Glass Cannon Podcast Giantslayer E48 | Pathfinder 1E
 - 2016-04-19 — Circle Jerks | The Glass Cannon Podcast Giantslayer E47 | Pathfinder 1E — speakers: Circle Jerks, Ghostlight Lantern
-- 2016-04-12 — Marsh Madness | The Glass Cannon Podcast Giantslayer E46 | Pathfinder 1E
