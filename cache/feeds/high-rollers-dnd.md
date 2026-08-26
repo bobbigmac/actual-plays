@@ -2,9 +2,9 @@
 
 - slug: `high-rollers-dnd`
 - source: `https://feeds.megaphone.fm/NSR8625352094`
-- fetched_at: `2026-06-23T10:05:21+00:00`
-- checked_at: `2026-06-23T10:05:21+00:00`
-- last_modified: `Tue, 23 Jun 2026 09:56:01 GMT`
+- fetched_at: `2026-08-26T20:07:15+00:00`
+- checked_at: `2026-08-26T20:07:15+00:00`
+- last_modified: `Tue, 25 Aug 2026 10:31:41 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://highrollersdnd.libsyn.com/website",
   "description": "Welcome to High Rollers, a live-play Dungeons & Dragons podcast! Join Dungeon Master Mark Hulmes and his players as they explore Altheya: The Dragon Empire on Europe's biggest independent TTRPG stream. Episodes go live Tuesdays and Thursdays, or watch live every Sunday at 5pm UK Time on twitch.tv/highrollersdnd or youtube.com/highrollersdnd!",
   "image_url": "https://megaphone.imgix.net/podcasts/b072907c-ca95-11eb-b4a3-f71bfb3de22d/image/PodcastV1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-23T10:05:21+00:00",
+  "fetched_at": "2026-08-26T20:07:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,323 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "38a843528e6f363a314dfd78db018132b1b365ac",
+      "title": "Glitter and Peridot | Altheya: The Dragon Empire #115 (Part 1)",
+      "published_at": "2026-08-25T09:45:00+00:00",
+      "link": null,
+      "description": "Ophelia, Gruff and Xantheus are unmasked by Peridot and Glitter in the Diadem hideout! How are they getting out of this mess? Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR5958096705.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4892",
+      "speakers": [],
+      "topics": [
+        "glitter",
+        "peridot",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
+    {
+      "key": "efafe86a4410dd7e9b0bc688f626c202604ac82c",
+      "title": "Stealth and Deception | Altheya: The Dragon Empire #114 (Part 2)",
+      "published_at": "2026-08-20T07:00:00+00:00",
+      "link": null,
+      "description": "Xantheus and Ophelia continue their charade as they delve deeper into Diadem operations while the rest of the party search for more clues! Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR6708158969.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4688",
+      "speakers": [],
+      "topics": [
+        "stealth",
+        "deception",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
+    {
+      "key": "75270951d57b401c71906f887ad8ff47529b9207",
+      "title": "Stealth and Deception | Altheya: The Dragon Empire #114 (Part 1)",
+      "published_at": "2026-08-18T09:20:00+00:00",
+      "link": null,
+      "description": "High Rollers face off against many of their greatest foes at once. Stealth, Deception, Remembering Inventory, Fake Names and, worst of all, Corridors. Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR3689657347.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5520",
+      "speakers": [
+        "High Rollers"
+      ],
+      "topics": [
+        "stealth",
+        "deception",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
+    {
+      "key": "3d15801856748c93d437cc4da1460005eac0ca03",
+      "title": "Operation Opal | Altheya: The Dragon Empire #113 (Part 2)",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "link": null,
+      "description": "Ophelia and Xantheus grapple with their choices after using the Soul Cage and have to make amends with the party! Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2593578518.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4963",
+      "speakers": [],
+      "topics": [
+        "operation",
+        "opal",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
+    {
+      "key": "481196e61c2d5ad8d8c7dfb15f1f135e696f733c",
+      "title": "Operation Opal | Altheya: The Dragon Empire #113 (Part 1)",
+      "published_at": "2026-08-11T07:00:00+00:00",
+      "link": null,
+      "description": "The heroes prepare for Operation Opal (disguising themselves to get into the Diadem's Opal Lounge) but Ophelia and Xantheus have some assistance with a little Soul Cage! Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR9588315597.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4734",
+      "speakers": [
+        "Operation Opal",
+        "Opal Lounge"
+      ],
+      "topics": [
+        "operation",
+        "opal",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
+    {
+      "key": "d5aa9c617360885feac63615ae6be0d3eb390ac0",
+      "title": "The Watchtower | Altheya: The Dragon Empire #112 (Part 2)",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "link": null,
+      "description": "Xantheus faces danger once again when he tries to collect his garments from Narcissa and the party share information with Malcom Tombs and Watchtower! Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR6851526608.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4609",
+      "speakers": [],
+      "topics": [
+        "watchtower",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
+    {
+      "key": "9c8735f44c18091c55b8dc857e6f10b30db007a0",
+      "title": "The Watchtower | Altheya: The Dragon Empire #112 (Part 1)",
+      "published_at": "2026-07-28T13:13:00+00:00",
+      "link": null,
+      "description": "Paranoid and terrified after the attack at the Academia, the heroes return to safety in Emberissa's estate to catch up and make plans to meet with Malcom Tombs! Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR4528182309.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3827",
+      "speakers": [],
+      "topics": [
+        "watchtower",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
+    {
+      "key": "fef7cec90ec9b5e0666fa2cfa2b29f33b0304c8c",
+      "title": "Fury of the Tarnished | Altheya: The Dragon Empire #111 (Part 2)",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "link": null,
+      "description": "Xantheus' desperate fight continues in the Academia as the rest of the party race to his aid! Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR5744922386.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3875",
+      "speakers": [],
+      "topics": [
+        "fury",
+        "tarnished",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
+    {
+      "key": "74e07b4b5186581b333952bfb13215df185a60d8",
+      "title": "Fury of the Tarnished | Altheya: The Dragon Empire #111 (Part 1)",
+      "published_at": "2026-07-21T07:00:00+00:00",
+      "link": null,
+      "description": "The party is once again split as Xantheus is ambushed by two high ranking Diadem agents. Can he survive long enough for help to arrive?! Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR5329112091.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4827",
+      "speakers": [],
+      "topics": [
+        "fury",
+        "tarnished",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
+    {
+      "key": "78e46a8fe48ffaded0277efdfa80b620d7132ec3",
+      "title": "Academia Investigations | Altheya: The Dragon Empire #110 (Part 2)",
+      "published_at": "2026-07-16T07:00:00+00:00",
+      "link": null,
+      "description": "The party investigate the Professor's office to try to discover where he ran off to... and uncover a familiar tale along the way! Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2936155031.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4333",
+      "speakers": [
+        "Academia Investigations"
+      ],
+      "topics": [
+        "academia",
+        "investigations",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
+    {
+      "key": "6aa7cdfd49d25a9bf0394a48a2c5931a17d74fb6",
+      "title": "Academia Investigations | Altheya: The Dragon Empire #110 (Part 1)",
+      "published_at": "2026-07-14T07:00:00+00:00",
+      "link": null,
+      "description": "The heroes head for the grand imperial Academia in Kelscariss to spill the story of the Professor in the Azarr Steppe! Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR6817550396.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5737",
+      "speakers": [
+        "Academia Investigations"
+      ],
+      "topics": [
+        "academia",
+        "investigations",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
+    {
+      "key": "fd011a32ab17893b4af380a701b67afab9871f8a",
+      "title": "The Ascension Alleycats | Altheya: The Dragon Empire #109",
+      "published_at": "2026-07-07T17:00:00+00:00",
+      "link": null,
+      "description": "The gang attend their first training session with the Ascension Alleycats and discover some unlikely pairings in the team! Enjoy a Layout Map of the districts of Kelscariss here: https://www.patreon.com/HighRollers/posts/altheya-map-very-161846601?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR8182307230.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7517",
+      "speakers": [
+        "some unlikely"
+      ],
+      "topics": [
+        "ascension",
+        "alleycats",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
+    {
+      "key": "229cf81e43d020600fdfa8b537ad37b68a5f4b0c",
+      "title": "Deep Dreams in Kelscariss | Altheya: The Dragon Empire #108 (Part 2)",
+      "published_at": "2026-07-02T07:00:00+00:00",
+      "link": null,
+      "description": "More dreams mean more deep conversations in the party as they make plans for the next three days! Enjoy a Layout Map of the districts of Kelscariss here: https://www.patreon.com/HighRollers/posts/altheya-map-very-161846601?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR1748057806.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4301",
+      "speakers": [
+        "Deep Dreams"
+      ],
+      "topics": [
+        "deep",
+        "dreams",
+        "kelscariss",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
+    {
+      "key": "ef5ce6624877567315427ea8175e5c2adad8ff3c",
+      "title": "Deep Dreams in Kelscariss | Altheya: The Dragon Empire #108 (Part 1)",
+      "published_at": "2026-06-30T07:00:00+00:00",
+      "link": null,
+      "description": "The heroes meet up with Emberissa and Eldrak in Kelscariss for a nice long rest... but long rests always bring ominous dreams! Enjoy a Layout Map of the districts of Kelscariss here: https://www.patreon.com/HighRollers/posts/altheya-map-very-161846601?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR6539941534.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5158",
+      "speakers": [
+        "Deep Dreams"
+      ],
+      "topics": [
+        "deep",
+        "dreams",
+        "kelscariss",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
+    {
+      "key": "811b61d3ba99282546bd67dd2f3f9867eb768ebe",
+      "title": "Coach Gruff and Father Varis | Altheya: The Dragon Empire #107 (Part 2)",
+      "published_at": "2026-06-25T07:00:00+00:00",
+      "link": null,
+      "description": "Ophelia invites the team into the Ossean Embassy of Kelscariss to meet all the ambassadors of the Grave Father! Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR7949967227.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4707",
+      "speakers": [],
+      "topics": [
+        "coach",
+        "gruff",
+        "father",
+        "varis",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
     {
       "key": "9cbece68fae23ea8080556ff59bf7401c9b95dd4",
       "title": "Coach Gruff and Father Varis | Altheya: The Dragon Empire #107 (Part 1)",
@@ -14628,6 +14945,21 @@
 
 ## Episodes (newest first)
 
+- 2026-08-25 — Glitter and Peridot | Altheya: The Dragon Empire #115 (Part 1)
+- 2026-08-20 — Stealth and Deception | Altheya: The Dragon Empire #114 (Part 2)
+- 2026-08-18 — Stealth and Deception | Altheya: The Dragon Empire #114 (Part 1) — speakers: High Rollers
+- 2026-08-13 — Operation Opal | Altheya: The Dragon Empire #113 (Part 2)
+- 2026-08-11 — Operation Opal | Altheya: The Dragon Empire #113 (Part 1) — speakers: Operation Opal, Opal Lounge
+- 2026-07-30 — The Watchtower | Altheya: The Dragon Empire #112 (Part 2)
+- 2026-07-28 — The Watchtower | Altheya: The Dragon Empire #112 (Part 1)
+- 2026-07-23 — Fury of the Tarnished | Altheya: The Dragon Empire #111 (Part 2)
+- 2026-07-21 — Fury of the Tarnished | Altheya: The Dragon Empire #111 (Part 1)
+- 2026-07-16 — Academia Investigations | Altheya: The Dragon Empire #110 (Part 2) — speakers: Academia Investigations
+- 2026-07-14 — Academia Investigations | Altheya: The Dragon Empire #110 (Part 1) — speakers: Academia Investigations
+- 2026-07-07 — The Ascension Alleycats | Altheya: The Dragon Empire #109 — speakers: some unlikely
+- 2026-07-02 — Deep Dreams in Kelscariss | Altheya: The Dragon Empire #108 (Part 2) — speakers: Deep Dreams
+- 2026-06-30 — Deep Dreams in Kelscariss | Altheya: The Dragon Empire #108 (Part 1) — speakers: Deep Dreams
+- 2026-06-25 — Coach Gruff and Father Varis | Altheya: The Dragon Empire #107 (Part 2)
 - 2026-06-23 — Coach Gruff and Father Varis | Altheya: The Dragon Empire #107 (Part 1)
 - 2026-06-16 — Kelscariss, City of Dragons | Altheya: The Dragon Empire #106
 - 2026-06-11 — Fallen Flames | Altheya: The Dragon Empire #105 (Part 2) — speakers: Fallen Flames
