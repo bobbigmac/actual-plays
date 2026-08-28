@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-08-21T13:13:53+00:00`
-- checked_at: `2026-08-21T13:13:53+00:00`
-- etag: `W/"f3409ec4462ee246ad8f17bdf2a621fb"`
-- last_modified: `Fri, 21 Aug 2026 09:00:00 GMT`
+- fetched_at: `2026-08-28T15:28:13+00:00`
+- checked_at: `2026-08-28T15:28:13+00:00`
+- etag: `W/"9ad506778ca445aacb7a962c7802b9d3"`
+- last_modified: `Fri, 28 Aug 2026 09:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,32 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-08-21T13:13:53+00:00",
+  "fetched_at": "2026-08-28T15:28:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "ab4e95f34490c22b105cb10e0c9879b1cc46ff56",
+      "title": "Axis Arc 3 Ep 4 - The True Meaning of Axis PART 2",
+      "published_at": "2026-08-28T09:00:00+00:00",
+      "link": "https://audioboom.com/posts/8943322",
+      "description": "In the explosive finale of Arc 3 Shaddy must look deep within himself to find the true meaning of Axis if he stands any chance of saving the day. Be sure to stick around for the epilogue after the credits roll! --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code SHADDY50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
+      "image_url": "https://audioboom.com/i/43730830.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8943322.mp3?modified=1787215902&sid=5167570&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3617",
+      "speakers": [
+        "Axis Arc"
+      ],
+      "topics": [
+        "axis",
+        "meaning"
+      ]
+    },
     {
       "key": "b4a81892082780ac4819142d0975c9571ad93392",
       "title": "Axis Arc 3 Ep 4 - The True Meaning of Axis PART 1",
@@ -2908,6 +2927,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-28 — Axis Arc 3 Ep 4 - The True Meaning of Axis PART 2 — speakers: Axis Arc
 - 2026-08-21 — Axis Arc 3 Ep 4 - The True Meaning of Axis PART 1 — speakers: Axis Arc
 - 2026-08-14 — Axis Arc 3 Ep 3 - ELF PART 2 — speakers: worst nightmare
 - 2026-08-07 — Axis Arc 3 Ep 3 - ELF PART 1 — speakers: worst nightmare

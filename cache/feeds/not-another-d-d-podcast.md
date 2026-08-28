@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-08-21T04:04:21+00:00`
-- checked_at: `2026-08-21T04:04:21+00:00`
-- last_modified: `Thu, 20 Aug 2026 23:57:58 GMT`
+- fetched_at: `2026-08-28T15:28:13+00:00`
+- checked_at: `2026-08-28T15:28:13+00:00`
+- last_modified: `Fri, 28 Aug 2026 04:21:02 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-08-21T04:04:21+00:00",
+  "fetched_at": "2026-08-28T15:28:13+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,28 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "09b930994d3a5d361c6aa5bf89d1e6ad87678a11",
+      "title": "Surprise Round! - God's NFT",
+      "published_at": "2026-08-28T04:00:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/653c32d1-8c16-4c5b-884b-99913cf4a802",
+      "description": "Welcome to Surprise Round! A show inspired by our love of unhinged hypotheticals. On today's episode, Discussion Master Murphy leads the Question Qrew through a series of wide-mouthed scenarios that may or MAY NOT feature the Grinch. CREDITS: Sound Mixing and Editing by Trevor Lyon See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/45/15/61/90/45156190-04eb-4af6-b46d-6453356c4406/72f5a1dafc31f7c9c35cbe5e47f95ae703b96bd33685a29db9612530a974d5118bb986998da5bfd5f0d334599c76f1133e0663d5a27d605fa374d6a79c21ecfe.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/653c32d1-8c16-4c5b-884b-99913cf4a802.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72376737",
+      "itunes_duration": "01:15:23",
+      "speakers": [
+        "Surprise Round",
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "round"
+      ]
+    },
     {
       "key": "27447a67b89f6c48b3fe1c18dfb128a5a75ff1ef",
       "title": "D&D Court: Wrongful Rezzing, Scared Barbarians and the Legend of the Lost D20 (w/ Zac Oyama!)",
@@ -11373,6 +11395,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-28 — Surprise Round! - God's NFT — speakers: Surprise Round, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-08-20 — D&D Court: Wrongful Rezzing, Scared Barbarians and the Legend of the Lost D20 (w/ Zac Oyama!) — speakers: Wrongful Rezzing, Scared Barbarians, Zac Oyama, Justices Murphy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-08-14 — D&D Court: Reaction Snatchers, Grappling Gripes and the Super Rude Druid (w/ Danielle Radford!) — speakers: Grappling Gripes, Danielle Radford, Justices Murphy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-08-06 — D&D Court: Big Moves, Vibes Combat, and the Tale of Maximum Groin (w/ Branson Reese!) — speakers: Vibes Combat, Branson Reese, Justices Murphy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
