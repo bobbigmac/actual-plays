@@ -2,9 +2,9 @@
 
 - slug: `flail-to-the-face-a-compatible-with-m-rk-borg-actual-play-podcast`
 - source: `https://anchor.fm/s/e221626c/podcast/rss`
-- fetched_at: `2026-08-07T21:57:52+00:00`
-- checked_at: `2026-08-07T21:57:52+00:00`
-- etag: `W/"6fe1d-Gq3egLkj1LVfEa81A5m0aSYa22s"`
+- fetched_at: `2026-08-29T01:46:50+00:00`
+- checked_at: `2026-08-29T01:46:50+00:00`
+- etag: `W/"71ecc-r5g08kTRuVcxRe7QwDs9BbmZDao"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://discord.gg/ye4VzTv9",
   "description": "Flail to the Face is a \"Compatible with Mörk Borg\" Actual Play Podcast, focusing on playing and promoting third party content and their creators.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37838387/37838387-1756395980208-7d45de7e84c02.jpg",
-  "fetched_at": "2026-08-07T21:57:52+00:00",
+  "fetched_at": "2026-08-29T01:46:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/mork-borg"
   ],
   "episodes": [
+    {
+      "key": "39e93329b3924106025850a8f593dbd9a707cfa7",
+      "title": "Season Two, Episode Thirteen: Clockin' Out",
+      "published_at": "2026-08-28T09:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/flailtotheface/episodes/Season-Two--Episode-Thirteen-Clockin-Out-e3nfvef",
+      "description": "In this episode, our M.I.L.F. Agents/interns are battling one unBEARable roadblock after another in their quest to find the Malefactor, rescue JeffJustJeff, and retrieve the Anderson Contract! Can they get any or all of this done? Find out as Flail to the Face plays MÖRK ORG! This episode of Flail to the Face features the games Human Occupied Landfill by Todd Shaughnessy, Daniel Thron, Chris Elliott, HellSpawn by Richard Markert and Lee Iovis, & MÖRK ORG by Chris Lowry and Dave Emmerson of Beyond Cataclysm With: Thomas Genno-Stumme playing Dalton Walls & Ronald McDowds Tom Gambino playing Collette Stellarno & Fumnunya Charles Paschke playing Donnie & Jevin, it's like kevin, with a J Special guest Zach Rebey of Weird Alchemy Games as Buster Mullens & Bicheal Milk And Kevin Welch as the FlailMeister. Season 2 theme music is Void Construct by Alex Grohl. Editing by Kevin Welch. Cover Art by Tom Gambino with assets from UnitSix. Video Editing by Dan Finney SFX courtesy of Epidemic Sound & Pixabay. Whispers of the Dying Lands: https://open.spotify.com/show/7yFvPcYtVa2jP5nCI1QqCS?si=a93f011397354f8d UNIVERSE ZERO: Spotify https://open.spotify.com/show/0iYPlkUd0S2wN8QddH1a7L?si=s_MhCA83RX2D8P3Asucvqg&utm_source=copy-link&sci=spotify%3Acard-config%3A2EU1OFxmjr5D6i7MG2XXSm YouTube https://youtube.com/@gravityfail87?si=JR89AYETAvl7Trpc Socials instagram and tiktok @universezerottrpg @GravityFail87 everywhere else HellSpawn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠hellspawnrpg.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ MÖRK ORG: ⁠⁠⁠MÖRK ORG (MÖRK BORG) - Beyond Cataclysm⁠⁠⁠ Weird Alchemy Games: ⁠⁠⁠Weird Alchemy - itch.io⁠⁠⁠ Dan Finney : ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠OVERLAND EMPIRE⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Find us on whatever social media platform you use: Facebook Twitter Instagram BlueSky #FlailToTheFace #mörkborg #actualplay #podcast #ttrpg #hol #HumanOccupiedLandfill #Hellspawn # MÖRK ORG",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37838387/37838387-1787918527341-4f826adf93f0c.jpg",
+      "enclosure_url": "https://anchor.fm/s/e221626c/podcast/play/124304271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-16%2Ff6299819-d197-f8e3-668c-2fd68aaf6500.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "112633104",
+      "itunes_duration": "01:11:39",
+      "speakers": [
+        "Season Two"
+      ],
+      "topics": [
+        "season",
+        "thirteen",
+        "clockin"
+      ]
+    },
     {
       "key": "0c03bfff1676e9ed6b2f1f97bd379b587a116b54",
       "title": "Season Two, Episode Twelve: Payable On Death",
@@ -1205,6 +1225,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-28 — Season Two, Episode Thirteen: Clockin' Out — speakers: Season Two
 - 2026-08-07 — Season Two, Episode Twelve: Payable On Death
 - 2026-07-17 — Season Two, Episode Eleven: T.G.I.F. — speakers: than just
 - 2026-06-26 — Season Two, Episode Ten: Hot Honey Divulgence — speakers: Lt Boyers
