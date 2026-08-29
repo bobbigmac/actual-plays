@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-08-28T15:28:13+00:00`
-- checked_at: `2026-08-28T15:28:13+00:00`
-- last_modified: `Fri, 28 Aug 2026 04:00:00 GMT`
+- fetched_at: `2026-08-29T10:11:25+00:00`
+- checked_at: `2026-08-29T10:11:25+00:00`
+- last_modified: `Sat, 29 Aug 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-28T15:28:13+00:00",
+  "fetched_at": "2026-08-29T10:11:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "f5a711bd1f1577f3e2a65d8983253c86344ee81a",
+      "title": "The Land Down Under | Time For Chaos S4 E8 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2026-08-29T04:00:00+00:00",
+      "link": null,
+      "description": "The investigators descend into an ancient subterranean city. For a limited time, use code \"TFC4\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠ ⁠, including Overtime For Chaos, our exclusive Time For Chaos companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Watch the video here: https://youtu.be/nMk8ZHVhci8 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/836c3cbc-a0c4-11f1-a0a5-bf0858941033/image/5e5fc1520e49cd8f950adfab2ec5bef9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4829306695.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7834",
+      "speakers": [
+        "Cthulhu Masks"
+      ],
+      "topics": [
+        "land",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
     {
       "key": "ac2d7affbe3c96b65acac6a9cef126b58dae3f92",
       "title": "Material Witness | The Glass Cannon Podcast Shadowdark E41 | Shadowdark RPG",
@@ -21714,27 +21737,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "ab25cfb18383071837937e7c33a45e07602b5562",
-      "title": "Honk If You're Thorny | The Glass Cannon Podcast Giantslayer E48 | Pathfinder 1E",
-      "published_at": "2016-04-26T04:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/14114065/episode-48-honk-if-youre-thorny/",
-      "description": "Our heroes step through the stone portal into the mysteriously lush and beautiful Vault of Thorns, but they soon find its vines and sweet smelling blossoms conceal an insidious evil! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD8668787961.mp3?updated=1707332432",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5080",
-      "speakers": [],
-      "topics": [
-        "thorny",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21743,6 +21745,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-29 — The Land Down Under | Time For Chaos S4 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
 - 2026-08-28 — Material Witness | The Glass Cannon Podcast Shadowdark E41 | Shadowdark RPG — speakers: Shadowdark Rpg, Gideon Black
 - 2026-08-26 — Fever Dreams | We Shouldn't Be Alive E12 | Twilight: 2000 — speakers: Fever Dreams
 - 2026-08-24 — GCN News Minute August 24, 2026 — speakers: News Minute August
@@ -22742,4 +22745,3 @@
 - 2016-05-17 — The Bear and the Maiden Fair | The Glass Cannon Podcast Giantslayer E51 | Pathfinder 1E
 - 2016-05-10 — Flies, You Fools! | The Glass Cannon Podcast Giantslayer E50 | Pathfinder 1E
 - 2016-05-03 — Gentlemen Prefer Blinds | The Glass Cannon Podcast Giantslayer E49 | Pathfinder 1E
-- 2016-04-26 — Honk If You're Thorny | The Glass Cannon Podcast Giantslayer E48 | Pathfinder 1E
