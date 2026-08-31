@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-08-24T04:09:06+00:00`
-- checked_at: `2026-08-24T04:09:06+00:00`
-- last_modified: `Mon, 24 Aug 2026 04:05:00 GMT`
+- fetched_at: `2026-08-31T05:44:14+00:00`
+- checked_at: `2026-08-31T05:44:14+00:00`
+- last_modified: `Mon, 31 Aug 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-08-24T04:09:06+00:00",
+  "fetched_at": "2026-08-31T05:44:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "0188c1348f1cd2f7652b8cc91bb3f30415bed3da",
+      "title": "Guilt of the Grave World | 029: Teen Laser Wolf",
+      "published_at": "2026-08-31T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-029-teen-laser-wolf/",
+      "description": "On the Eoxian TV show Sabotage Souffle the crew of the Nova Rush divide into two teams to cook a dish for a mystery guest judge. But first the heroes will need to hunt and kill their own protein- three Tashtari aka Laser Wolves. With the monsters supersized for the TV audience do they stand a chance in this cut-throat kitchen? Find out on this week’s Cosmic Crit!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3846/guilt-of-the-grave-world-029-teen-laser-wolf.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95569130",
+      "itunes_duration": "0:00",
+      "speakers": [],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "teen",
+        "laser",
+        "wolf"
+      ]
+    },
     {
       "key": "fd4ea5e36880dc890fe360ae5354a6c9a77c26fb",
       "title": "Guilt of the Grave World | 028: Teen Titans Zo!",
@@ -9185,6 +9206,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-31 — Guilt of the Grave World | 029: Teen Laser Wolf
 - 2026-08-24 — Guilt of the Grave World | 028: Teen Titans Zo!
 - 2026-08-17 — Guilt of the Grave World | 027: Magic Carpet Died — speakers: Magic Carpet Died
 - 2026-08-10 — Guilt of the Grave World | 026: Lights, Cameras, Traction — speakers: Grave World, Traction After, Nova Rush
