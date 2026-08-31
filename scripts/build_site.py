@@ -1109,6 +1109,194 @@ def _build_graph_data(
     return {"nodes": list(node_by_id.values()), "edges": edges}
 
 
+def _infer_publish_day(episodes: list[dict[str, Any]]) -> str | None:
+    """
+    Infer the most common day-of-week from the most recent ~20 episodes.
+    Returns day name (e.g. 'Wednesday') or None if not enough data.
+    """
+    from collections import Counter
+
+    recent = []
+    for ep in episodes:
+        ts = ep.get("published_at") or ""
+        if ts:
+            recent.append(ts)
+        if len(recent) >= 20:
+            break
+    if len(recent) < 5:
+        return None
+    days = Counter()
+    for ts in recent:
+        try:
+            dt = datetime.fromisoformat(ts)
+            days[dt.strftime("%A")] += 1
+        except Exception:
+            continue
+    if not days:
+        return None
+    top_day, top_count = days.most_common(1)[0]
+    # Only return if there's a clear pattern (>50% of recent episodes)
+    if top_count / max(len(recent), 1) > 0.5:
+        return top_day
+    return None
+
+
+def _build_digest(
+    *,
+    feeds: list[dict[str, Any]],
+    all_episodes_index: list[dict[str, Any]],
+    site_cfg: dict[str, Any],
+) -> dict[str, Any]:
+    """
+    Build a compact digest.json for external consumers (e.g. ceefaxish teletext).
+    Contains: shows with categories + inferred publish day, upcoming shows,
+    recent episodes, recent guests, category groupings.
+    """
+    from collections import Counter, defaultdict
+    from datetime import datetime, timezone
+
+    now = datetime.now(timezone.utc)
+    day_names = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+    today_idx = now.weekday()
+
+    # Build show summaries
+    shows: list[dict[str, Any]] = []
+    for feed in feeds:
+        slug = str(feed.get("slug") or "")
+        title = str(feed.get("title") or slug)
+        eps = feed.get("episodes") or []
+        if not eps:
+            shows.append({
+                "slug": slug,
+                "title": title,
+                "categories": feed.get("categories") or [],
+                "owners": feed.get("owners") or [],
+                "episode_count": 0,
+                "latest_date": None,
+                "publish_day": None,
+                "supplemental": bool(feed.get("supplemental")),
+            })
+            continue
+        # Sort episodes by date desc
+        sorted_eps = sorted(eps, key=lambda e: e.get("published_at") or "", reverse=True)
+        latest_date = (sorted_eps[0].get("published_at") or "")[:10]
+        publish_day = _infer_publish_day(sorted_eps)
+        shows.append({
+            "slug": slug,
+            "title": title,
+            "categories": feed.get("categories") or [],
+            "owners": feed.get("owners") or [],
+            "episode_count": len(eps),
+            "latest_date": latest_date,
+            "publish_day": publish_day,
+            "supplemental": bool(feed.get("supplemental")),
+        })
+
+    # Upcoming shows: shows with a publish_day that is today or in the next 7 days,
+    # and whose latest episode is older than 3 days (i.e. due for a new one).
+    upcoming: list[dict[str, Any]] = []
+    for show in shows:
+        if not show["publish_day"] or show["supplemental"]:
+            continue
+        day_idx = day_names.index(show["publish_day"])
+        # Days until next publish day
+        delta = (day_idx - today_idx) % 7
+        # Check if latest episode is old enough to expect a new one
+        latest = show.get("latest_date")
+        if latest:
+            try:
+                latest_dt = datetime.fromisoformat(latest).replace(tzinfo=timezone.utc)
+                age_days = (now - latest_dt).days
+                if age_days < 2:
+                    continue  # Just published, not "upcoming"
+            except Exception:
+                pass
+        upcoming.append({
+            "slug": show["slug"],
+            "title": show["title"],
+            "publish_day": show["publish_day"],
+            "days_until": delta,
+            "latest_date": show["latest_date"],
+            "categories": show["categories"],
+        })
+    upcoming.sort(key=lambda s: s["days_until"])
+
+    # Recent episodes (latest 30 across all shows, excluding supplemental)
+    recent_eps = []
+    for ep in all_episodes_index:
+        feed_slug = ep.get("feed_slug") or ""
+        feed = next((f for f in feeds if f.get("slug") == feed_slug), None)
+        if feed and feed.get("supplemental"):
+            continue
+        recent_eps.append({
+            "title": ep.get("title") or "",
+            "date": (ep.get("published_at") or "")[:10],
+            "feed_slug": feed_slug,
+            "feed_title": ep.get("feed_title") or "",
+            "speakers": ep.get("speakers") or [],
+            "duration": ep.get("duration_seconds"),
+        })
+        if len(recent_eps) >= 30:
+            break
+
+    # Recent guests: most frequent speakers in recent 200 episodes,
+    # excluding owners of the specific feed (hosts don't count as guests on their own show).
+    # Speaker data is noisy (name variants, tagging errors) so we keep a low threshold.
+    owners_by_feed_slug: dict[str, set[str]] = {}
+    for feed in feeds:
+        slug = str(feed.get("slug") or "")
+        owners_by_feed_slug[slug] = {str(o).lower() for o in (feed.get("owners") or [])}
+    guest_counts: Counter = Counter()
+    for ep in all_episodes_index[:200]:
+        feed_slug = ep.get("feed_slug") or ""
+        feed = next((f for f in feeds if f.get("slug") == feed_slug), None)
+        if feed and feed.get("supplemental"):
+            continue
+        feed_owners = owners_by_feed_slug.get(feed_slug, set())
+        for sp in (ep.get("speakers") or []):
+            if str(sp).lower() not in feed_owners:
+                guest_counts[str(sp)] += 1
+    recent_guests = [
+        {"name": name, "appearances": count}
+        for name, count in guest_counts.most_common(15)
+        if count >= 2  # Only show guests with 2+ recent appearances
+    ]
+
+    # Category groupings
+    category_groups: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for show in shows:
+        if show["supplemental"]:
+            continue
+        for cat in show["categories"]:
+            category_groups[cat].append({
+                "slug": show["slug"],
+                "title": show["title"],
+                "episode_count": show["episode_count"],
+                "latest_date": show["latest_date"],
+                "publish_day": show["publish_day"],
+            })
+    # Sort each category by episode count desc
+    categories_sorted = {}
+    for cat in sorted(category_groups.keys(), key=lambda c: len(category_groups[c]), reverse=True):
+        categories_sorted[cat] = sorted(
+            category_groups[cat],
+            key=lambda s: s["episode_count"],
+            reverse=True,
+        )
+
+    return {
+        "generated_at": now.isoformat(),
+        "site_title": site_cfg.get("title") or "Podcast Index",
+        "total_shows": len([s for s in shows if not s["supplemental"]]),
+        "total_episodes": sum(s["episode_count"] for s in shows),
+        "shows": shows,
+        "upcoming": upcoming,
+        "recent_episodes": recent_eps,
+        "recent_guests": recent_guests,
+        "categories": categories_sorted,
+    }
+
+
 def main() -> int:
     args = _parse_args()
 
@@ -1678,6 +1866,16 @@ def main() -> int:
         index_json.append(row)
     write_json(dist_dir / "index.json", index_json)
     write_json(dist_dir / "site.json", site_cfg)
+
+    # Emit digest.json for external consumers (ceefaxish teletext, etc.)
+    digest = _build_digest(feeds=feeds, all_episodes_index=all_episodes_index, site_cfg=site_cfg)
+    write_json(dist_dir / "digest.json", digest)
+    print(
+        f"[digest] {digest['total_shows']} shows, {digest['total_episodes']} episodes, "
+        f"{len(digest['upcoming'])} upcoming, {len(digest['recent_guests'])} recent guests, "
+        f"{len(digest['categories'])} categories",
+        file=sys.stderr,
+    )
 
     graph_data = _build_graph_data(feeds=feeds, all_episodes_index=all_episodes_index, base_path=base_path)
     graph_json = json.dumps(graph_data, ensure_ascii=False, separators=(",", ":"))
