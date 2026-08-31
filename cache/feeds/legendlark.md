@@ -2,10 +2,10 @@
 
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
-- fetched_at: `2026-08-14T03:01:14+00:00`
-- checked_at: `2026-08-14T03:01:14+00:00`
+- fetched_at: `2026-08-31T20:52:13+00:00`
+- checked_at: `2026-08-31T20:52:13+00:00`
 - etag: `W/"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ"`
-- last_modified: `Thu, 13 Aug 2026 22:37:06 GMT`
+- last_modified: `Thu, 27 Aug 2026 21:53:25 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss",
   "description": "..🚂🚃🚋🚃🚃🚋🚋🚋🚃...... A train pulls into the station. A circus raises its tents. Welcome, one and all, to NEVERNOWHERE— a place where your memories are currency, every dream is reality, and crime really does pay. LegendLark is a narrative comedy TTRPG podcast. Updates every 2nd Thursday! www.legendlark.com",
   "image_url": "https://megaphone.imgix.net/podcasts/38353ab8-2938-11f1-b716-1b70c557bb65/image/5002d6217f82605e3208708900cb0514.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-14T03:01:14+00:00",
+  "fetched_at": "2026-08-31T20:52:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "1c2be0ca3e74e0988539ba28f38cad323ee5dc29",
+      "title": "NEVERNOWHERE 28. War! in the Sea of Stars",
+      "published_at": "2026-08-27T21:24:00+00:00",
+      "link": null,
+      "description": "This band of half-wit, scruffy-looking nerf herders has their loot in hand, but can they escape with it? As the rebels and empire clash all around them, Bingo changes form, Friedrich communicates via blink, and Valerian makes a vlog. 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ff741548-a25c-11f1-8262-b7b0e04b8160/image/2ba5de32b4e835ecf988f30654996903.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR9823426716.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3995",
+      "speakers": [],
+      "topics": [
+        "nevernowhere",
+        "stars"
+      ]
+    },
     {
       "key": "ae8a8ad63630d0b0aa43efe58f2b9acdd09530b1",
       "title": "NEVERNOWHERE 27. Flashbacks in the Sea of Stars",
@@ -4195,6 +4212,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-27 — NEVERNOWHERE 28. War! in the Sea of Stars
 - 2026-08-13 — NEVERNOWHERE 27. Flashbacks in the Sea of Stars
 - 2026-07-30 — NEVERNOWHERE 26. Imprisoned in the Sea of Stars
 - 2026-07-17 — NEVERNOWHERE 25. Sailing in the Sea of Stars

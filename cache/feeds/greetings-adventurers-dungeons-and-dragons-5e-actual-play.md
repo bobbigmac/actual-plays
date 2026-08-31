@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-08-31T14:01:01+00:00`
-- checked_at: `2026-08-31T14:01:01+00:00`
-- etag: `"djEuMi4wOjE3ODgxODI5MTMzODc="`
+- fetched_at: `2026-08-31T20:52:13+00:00`
+- checked_at: `2026-08-31T20:52:13+00:00`
+- etag: `"djEuMi4wOjE3ODgxODg0MzkzNzk="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-08-31T14:01:01+00:00",
+  "fetched_at": "2026-08-31T20:52:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "103f5ade5842cad0a51106029d2e223609864db9",
+      "title": "Campaign 2: Bonus Episode - Floor Cuttings",
+      "published_at": "2026-08-31T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-bonus-episode-floor-cuttings",
+      "description": "A collection of segments that didn't make it into the main show, but were nevertheless too entertaining to never publish. This collection features material from the last 8 months. If you enjoy this, then head on over to patreon.com/dndpodcast where every episode has clips like these at the end. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1788182432577-70840a30-89f5-4ac1-81ba-9e998da23e67.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a958181cb03bea43d59d3e3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63958403",
+      "itunes_duration": "44:24",
+      "speakers": [
+        "Floor Cuttings"
+      ],
+      "topics": [
+        "campaign",
+        "floor",
+        "cuttings"
+      ]
+    },
     {
       "key": "1872fd2ca73950848d0288399df067d178b087bd",
       "title": "Campaign 2: Episode 196 - Michael Hates Tim and Jennifer",
@@ -12594,6 +12614,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-31 — Campaign 2: Bonus Episode - Floor Cuttings — speakers: Floor Cuttings
 - 2026-08-24 — Campaign 2: Episode 196 - Michael Hates Tim and Jennifer
 - 2026-08-17 — Campaign 2: Episode 195 - Michael Hates Us
 - 2026-08-10 — Campaign 2: Episode 194 - Six More Weeks of Winter — speakers: Six More Weeks, Red Lantern
