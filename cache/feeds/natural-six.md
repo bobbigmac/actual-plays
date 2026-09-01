@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-08-25T19:01:12+00:00`
-- checked_at: `2026-08-25T19:01:12+00:00`
-- etag: `"djEuMi4wOjE3ODc2ODQ0Mzk0NDM="`
+- fetched_at: `2026-09-01T23:21:34+00:00`
+- checked_at: `2026-09-01T23:21:34+00:00`
+- etag: `"djEuMi4wOjE3ODgyODkyMzkzOTI="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-08-25T19:01:12+00:00",
+  "fetched_at": "2026-09-01T23:21:34+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "cbe5a89593f694e6458120a45e9f36366c5db4e3",
+      "title": "Ep. 62 Just A Wasp",
+      "published_at": "2026-09-01T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-62-just-a-wasp",
+      "description": "A well placed arrow can slip through even the toughest of defenses. Such a wound can prove fatal for even the mightiest of warriors. Amongst unfamiliar shapes and hostile threads what choice does one have but to hold onto those that matter most to them? However, squeeze too hard and you'll cause more harm than none. Those who once held all the cards, may find themselves holding none. Our origins and our journeys are inexplicably bonded with those we might call family. When the journey has been long and the path has been difficult, it is easier to look forward, than back. After all, forwards is the only direction we can move. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a94cab51348fdc761320e64/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "210525204",
+      "itunes_duration": "3:39:17",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "wasp"
+      ]
+    },
     {
       "key": "a6702909807f25bb0fa80a9c2ff63d4a24ea7341",
       "title": "Action Surge Episode 61",
@@ -3230,6 +3253,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-01 — Ep. 62 Just A Wasp — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-08-25 — Action Surge Episode 61 — speakers: https discord, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-08-18 — Ep. 61 The Corpsewyrm — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-08-11 — Action Surge Episode 60 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle

@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-08-19T01:55:17+00:00`
-- checked_at: `2026-08-24T15:58:04+00:00`
-- etag: `"9c0416e901248560da9b3ce0b7c191bd"`
+- fetched_at: `2026-09-01T23:21:34+00:00`
+- checked_at: `2026-09-01T23:21:34+00:00`
+- etag: `"db20bf453dc050b3fd7e379b7138e8c2"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-08-19T01:55:17+00:00",
+  "fetched_at": "2026-09-01T23:21:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "a7c26367a2f6515a736001c42840c45f2fe3b2cf",
+      "title": "Dungeons & Dragons: The Long Road part 3",
+      "published_at": "2026-09-01T21:55:01+00:00",
+      "link": "https://fandible.com/dungeons-dragons-the-long-road-part-3/",
+      "description": "Employment found, the heroes continue on thier journey. The post Dungeons & Dragons: The Long Road part 3 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/460_DND_TheLongRoad/Fan_816_DnD_TheLongRoadpart3.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55029603",
+      "itunes_duration": "57:18",
+      "speakers": [],
+      "topics": [
+        "dungeon",
+        "dragons",
+        "long",
+        "road"
+      ]
+    },
     {
       "key": "266834d693f7c8411ba4a8245beac17d1ee31386",
       "title": "Dungeons & Dragons: The Long Road part 2",
@@ -11368,26 +11387,6 @@
         "hero",
         "engine"
       ]
-    },
-    {
-      "key": "68ddf350d3195cb1e1729a2be5049baa3f209537",
-      "title": "Age of Sigmar: Agents of the Gods",
-      "published_at": "2016-09-02T14:51:27+00:00",
-      "link": "https://fandible.com/age-sigmar-agents-gods/",
-      "description": "Tasked by their gods to fight a dire threat, the warriors head to a realm were the forces of chaos are holding magic itself hostage. The post Age of Sigmar: Agents of the Gods appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/191_AOS_AgentsOfTheGods/Fan_312_AOS_AgentsOfTheGods.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "66412077",
-      "itunes_duration": "2:17:10",
-      "speakers": [
-        "Gods Tasked"
-      ],
-      "topics": [
-        "sigmar",
-        "agent",
-        "gods"
-      ]
     }
   ]
 }
@@ -11396,6 +11395,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-01 — Dungeons & Dragons: The Long Road part 3
 - 2026-08-19 — Dungeons & Dragons: The Long Road part 2
 - 2026-08-12 — Dungeons & Dragons: The Long Road part 1
 - 2026-08-05 — Kenku Bin Wizards: Saving the Wastes part 3 — speakers: Kenku Bin Wizards
@@ -11995,4 +11995,3 @@
 - 2016-09-23 — Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 1 of 2 — speakers: Scary Zombies
 - 2016-09-16 — Paranoia: I’ll See You At Disneyland
 - 2016-09-09 — Timewatch: The Hero Engine
-- 2016-09-02 — Age of Sigmar: Agents of the Gods — speakers: Gods Tasked
