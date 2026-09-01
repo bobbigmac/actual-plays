@@ -146,8 +146,8 @@
       "etag": "\"4897032ceb742832ccad5ea8b88d2d53\""
     },
     "advantage-a-5e-dungeons-dragons-podcast": {
-      "last_checked_at": "2026-09-01T00:39:36+00:00",
-      "last_checked_unix": 1788223180,
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252269,
       "consecutive_failures": 0
     },
     "aint-slayed-nobody-call-of-cthulhu-actual-play": {
@@ -156,8 +156,8 @@
       "etag": "\"djEuMi4wOjE3ODAwNTA2Mzk0NDc=\""
     },
     "analog-science-fiction-fact": {
-      "last_checked_at": "2026-09-01T00:39:36+00:00",
-      "last_checked_unix": 1788223179,
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252268,
       "etag": "\"0c35b1e967de07856cc929c66ae03ab5\"",
       "last_modified": "Sun, 12 Jul 2026 03:14:49 GMT"
     },
@@ -250,20 +250,20 @@
       "etag": "\"djEuMi4wOjE3ODc2NzM2Mzk0NzM=\""
     },
     "worlds-beyond-number": {
-      "last_checked_at": "2026-09-01T00:39:36+00:00",
-      "last_checked_unix": 1788223179,
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252268,
       "etag": "\"aeda1a5e7d7a685433f9c8ad2d715d50\"",
       "last_modified": "Tue, 18 Aug 2026 14:59:53 GMT"
     },
     "dndark": {
-      "last_checked_at": "2026-09-01T00:39:36+00:00",
-      "last_checked_unix": 1788223179
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252269
     },
     "dodoborne-a-daggerheart-actual-play-podcast": {
-      "last_checked_at": "2026-09-01T00:39:36+00:00",
-      "last_checked_unix": 1788223179,
-      "etag": "W/\"4c6b1f6a86a14ff91d1168b76f3a0221\"",
-      "last_modified": "Mon, 31 Aug 2026 11:59:08 GMT"
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252269,
+      "etag": "W/\"f59fb442405cb39fb413e49d2e1a3fe5\"",
+      "last_modified": "Tue, 01 Sep 2026 01:15:11 GMT"
     },
     "dragons-greed-gaming-presents-blade-runner-the-roleplaying-game": {
       "last_checked_at": "2026-06-18T15:55:30+00:00",
@@ -308,8 +308,8 @@
       "last_modified": "Sun, 23 Aug 2026 23:35:40 GMT"
     },
     "friends-at-the-table": {
-      "last_checked_at": "2026-09-01T00:39:36+00:00",
-      "last_checked_unix": 1788223180,
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252270,
       "etag": "\"b732150b1972d7546d8735d786b192cb\"",
       "last_modified": "Tue, 25 Aug 2026 03:38:13 GMT"
     },
@@ -375,9 +375,9 @@
       "last_modified": "Wed, 17 Jun 2026 22:53:53 GMT"
     },
     "high-rollers-dnd": {
-      "last_checked_at": "2026-08-27T14:18:17+00:00",
-      "last_checked_unix": 1787840301,
-      "last_modified": "Thu, 27 Aug 2026 07:07:59 GMT"
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252270,
+      "last_modified": "Tue, 01 Sep 2026 07:08:12 GMT"
     },
     "how-we-roll-podcast": {
       "last_checked_at": "2026-06-18T15:55:30+00:00",
@@ -409,8 +409,8 @@
       "last_modified": "Sat, 06 Dec 2025 17:09:19 GMT"
     },
     "legendlark": {
-      "last_checked_at": "2026-09-01T00:39:36+00:00",
-      "last_checked_unix": 1788223181,
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252271,
       "etag": "W/\"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ\"",
       "consecutive_failures": 0,
       "last_modified": "Thu, 27 Aug 2026 21:53:25 GMT"
@@ -440,8 +440,8 @@
       "last_modified": "Mon, 02 Mar 2026 20:53:47 GMT"
     },
     "one-shot-onslaught-a-d-d-5e-actual-play-podcast": {
-      "last_checked_at": "2026-09-01T00:39:36+00:00",
-      "last_checked_unix": 1788223181,
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252271,
       "last_modified": "Thu, 30 Jul 2026 14:36:30 GMT"
     },
     "order-of-shana-the-women-running-dungeon-crawl-classics-rpg": {
@@ -463,8 +463,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "archives-fandible-actual-play-podcast": {
-      "last_checked_at": "2026-09-01T00:39:36+00:00",
-      "last_checked_unix": 1788223181,
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252271,
       "etag": "\"9c0416e901248560da9b3ce0b7c191bd\"",
       "consecutive_failures": 0
     },
@@ -486,17 +486,17 @@
       "consecutive_failures": 0
     },
     "role-radio-a-5e-actual-play-dungeons-dragons-podcast": {
-      "last_checked_at": "2026-09-01T00:39:36+00:00",
-      "last_checked_unix": 1788223181
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252271
     },
     "roll-britannia-a-british-dungeons-dragons-5e-podcast": {
-      "last_checked_at": "2026-09-01T00:39:36+00:00",
-      "last_checked_unix": 1788223181,
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252272,
       "etag": "\"djEuMi4wOjE3ODgxMjM5NzMwMTM=\""
     },
     "roll-the-hard-20-podcast": {
-      "last_checked_at": "2026-09-01T00:39:36+00:00",
-      "last_checked_unix": 1788223181,
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252272,
       "etag": "W/\"2cc7b4035b3607741718fcefe0233b88\"",
       "consecutive_failures": 0
     },
@@ -576,8 +576,8 @@
       "last_modified": "Fri, 29 May 2026 14:51:13 GMT"
     },
     "the-adventure-zone": {
-      "last_checked_at": "2026-09-01T00:39:36+00:00",
-      "last_checked_unix": 1788223181,
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252272,
       "etag": "\"c71ab8ec7369acc9bd7af9806bc52fb9\"",
       "last_modified": "Thu, 20 Aug 2026 11:00:20 GMT"
     },
@@ -623,9 +623,9 @@
       "etag": "W/\"49394-93rvOhz/mk4TnDZc3ZR9MzxFgjI\""
     },
     "the-glass-cannon-podcast": {
-      "last_checked_at": "2026-08-31T05:44:14+00:00",
-      "last_checked_unix": 1788155064,
-      "last_modified": "Mon, 31 Aug 2026 04:00:00 GMT"
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252272,
+      "last_modified": "Mon, 31 Aug 2026 14:00:00 GMT"
     },
     "the-heresies-of-radulf-burntwine": {
       "last_checked_at": "2026-06-17T22:53:47+00:00",
@@ -727,8 +727,8 @@
       "last_modified": "Mon, 24 Aug 2026 23:07:06 GMT"
     },
     "who-lives-who-dice": {
-      "last_checked_at": "2026-09-01T00:39:36+00:00",
-      "last_checked_unix": 1788223181,
+      "last_checked_at": "2026-09-01T08:44:25+00:00",
+      "last_checked_unix": 1788252276,
       "etag": "\"38cf2556dc0e6bb49281209eb5974297\"",
       "last_modified": "Sun, 03 May 2026 08:52:08 GMT"
     },
@@ -739,5 +739,5 @@
       "etag": "W/\"b031b-LD7/U/lZqze7YJg7MAgKzhv4Rjg\""
     }
   },
-  "updated_at": "2026-09-01T00:39:36+00:00"
+  "updated_at": "2026-09-01T08:44:25+00:00"
 }
