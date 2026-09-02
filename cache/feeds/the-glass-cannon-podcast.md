@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-09-01T23:21:34+00:00`
-- checked_at: `2026-09-01T23:21:34+00:00`
-- last_modified: `Tue, 01 Sep 2026 20:03:52 GMT`
+- fetched_at: `2026-09-02T04:42:24+00:00`
+- checked_at: `2026-09-02T04:42:24+00:00`
+- last_modified: `Wed, 02 Sep 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-01T23:21:34+00:00",
+  "fetched_at": "2026-09-02T04:42:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "9356590d16d280232e9300b2d19512a43ddc96a2",
+      "title": "Snakes Are Everywhere | We Shouldn't Be Alive E13 | Twilight: 2000",
+      "published_at": "2026-09-02T04:00:00+00:00",
+      "link": null,
+      "description": "Elements of the Solinski Zespo come into focus. Watch the video here: ⁠ https://youtu.be/HDmmCnj_-RM Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including the Mission Debrief, our exclusive We Shouldn't Be Alive companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/47a339f8-a612-11f1-91f1-434bc0537566/image/fea8f4bdf27af8a040cd8ab5e74ceac2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7978767178.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5963",
+      "speakers": [
+        "Solinski Zespo"
+      ],
+      "topics": [
+        "snake",
+        "alive",
+        "twilight"
+      ]
+    },
     {
       "key": "166e15bef7b3632da09d73b70626a5a1e2c86518",
       "title": "GCN News Minute August 31, 2026",
@@ -21716,29 +21736,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "c588669745dfb728bddba5a6109e34a702fdc716",
-      "title": "The Bear and the Maiden Fair | The Glass Cannon Podcast Giantslayer E51 | Pathfinder 1E",
-      "published_at": "2016-05-17T04:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/14114068/episode-51-the-bear-and-the-maiden-fair/",
-      "description": "With scant time to come to terms with recent events, the group encounters a new furry friend and a strange creature lodged in an ancient tree. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD4140401372.mp3?updated=1707346915",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3579",
-      "speakers": [],
-      "topics": [
-        "bear",
-        "maiden",
-        "fair",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21747,6 +21744,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — Snakes Are Everywhere | We Shouldn't Be Alive E13 | Twilight: 2000 — speakers: Solinski Zespo
 - 2026-08-31 — GCN News Minute August 31, 2026 — speakers: News Minute August
 - 2026-08-31 — Shaggy's Fight | Blood of the Wild S1 E37 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame Shaggy
 - 2026-08-29 — The Land Down Under | Time For Chaos S4 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
@@ -22746,4 +22744,3 @@
 - 2016-06-07 — Mulch Ado About Nothing | The Glass Cannon Podcast Giantslayer E54 | Pathfinder 1E — speakers: Mulch Ado
 - 2016-05-31 — Doom and Bloom | The Glass Cannon Podcast Giantslayer E53 | Pathfinder 1E
 - 2016-05-24 — Tendril Mercies | The Glass Cannon Podcast Giantslayer E52 | Pathfinder 1E — speakers: Tendril Mercies
-- 2016-05-17 — The Bear and the Maiden Fair | The Glass Cannon Podcast Giantslayer E51 | Pathfinder 1E
