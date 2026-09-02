@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-08-30T21:17:19+00:00`
-- checked_at: `2026-08-30T21:17:19+00:00`
-- etag: `"djEuMi4wOjE3ODgxMjM5NzMwMTM="`
+- fetched_at: `2026-09-02T11:26:05+00:00`
+- checked_at: `2026-09-02T11:26:05+00:00`
+- etag: `"djEuMi4wOjE3ODgzMzI0Mzk3NzQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-08-30T21:17:19+00:00",
+  "fetched_at": "2026-09-02T11:26:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "2211642088ec2d27f89251686baba7d54b2399c1",
+      "title": "Ep. 021: Age of Astra - We Are Currently Subterranean | #DND",
+      "published_at": "2026-09-02T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the agents descend beneath Valtbury and discover that some secrets were buried for very good reasons. Strange experiments, uncomfortable evidence, and the Dice begin turning suspicion into something far more sinister. In this DnD chapter, the difference between saving a world and remaking one becomes terrifyingly thin. Who has really been behind the monsters all along? How far can someone go in the name of the greater good? And what has just woken up in the darkness? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1788123591767-c8dad5fa-eede-4792-b45e-ff225846e725.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6a949a71cb03bea43d20fcfe/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105854716",
+      "itunes_duration": "44:04",
+      "speakers": [],
+      "topics": [
+        "astra"
+      ]
+    },
     {
       "key": "c3b25d0ea980022b7b96a270923538c19444e921",
       "title": "Ep. 020: Age of Astra - All Access, V.I.P. | #DND",
@@ -8051,6 +8067,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — Ep. 021: Age of Astra - We Are Currently Subterranean | #DND
 - 2026-08-26 — Ep. 020: Age of Astra - All Access, V.I.P. | #DND
 - 2026-08-19 — Ep. 019: Age of Astra - Sicky Little Sticky Hands | #DND
 - 2026-08-12 — Ep. 018: Age of Astra - Accepted Elf, Not Reject Elf | #DND
