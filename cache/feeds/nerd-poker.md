@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-08-26T02:00:53+00:00`
-- checked_at: `2026-08-26T02:00:53+00:00`
-- etag: `"dab5c3d0fb1bcc6aaadc04ebfc52a400"`
-- last_modified: `Wed, 26 Aug 2026 00:03:05 GMT`
+- fetched_at: `2026-09-03T11:22:24+00:00`
+- checked_at: `2026-09-03T11:22:24+00:00`
+- etag: `"8bc629c11cfd1dffeebaabde4276d92e"`
+- last_modified: `Thu, 03 Sep 2026 06:46:46 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-08-26T02:00:53+00:00",
+  "fetched_at": "2026-09-03T11:22:24+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ca27a6aef8fcff2a3a0bb090db1341f21e8bdc2a",
+      "title": "The Cavern Campaign - Episode 3",
+      "published_at": "2026-09-03T06:45:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-cavern-campaign-episode-3",
+      "description": "Time to get past this narrow series of traps and get out of this stupid underground tower. Who puts a tower underground, a Baldur's Gate 3 NPC? For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more, be sure to head to nerdpokerpod.com",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S8-003-20260813-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "135549248",
+      "itunes_duration": "56:29",
+      "speakers": [
+        "Brian Posehn"
+      ],
+      "topics": [
+        "cavern",
+        "campaign"
+      ]
+    },
     {
       "key": "cd26d164c424c21aaf95e22e85c9bc6c6269a16c",
       "title": "The Cavern Campaign - Episode 2",
@@ -9161,6 +9180,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-03 — The Cavern Campaign - Episode 3 — speakers: Brian Posehn
 - 2026-08-25 — The Cavern Campaign - Episode 2 — speakers: Brian Posehn
 - 2026-08-18 — The Cavern Campaign - Episode 1 — speakers: Brian Posehn
 - 2026-08-11 — The Fog Campaign - Episode 83 — speakers: Brian Posehn

@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-08-20T13:14:20+00:00`
-- checked_at: `2026-08-20T13:14:20+00:00`
-- etag: `"c71ab8ec7369acc9bd7af9806bc52fb9"`
-- last_modified: `Thu, 20 Aug 2026 11:00:20 GMT`
+- fetched_at: `2026-09-03T11:22:24+00:00`
+- checked_at: `2026-09-03T11:22:24+00:00`
+- etag: `"44526ecc42e6b652a7b93b2ab3d30add"`
+- last_modified: `Thu, 03 Sep 2026 11:00:18 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-08-20T13:14:20+00:00",
+  "fetched_at": "2026-09-03T11:22:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "fa530ca94990647ba0ac18019e6efaefd270c3d3",
+      "title": "The Adventure Zone Versus Hercules: Live in Austin!",
+      "published_at": "2026-09-03T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-versus-hercules-live-in-austin-Gh0h5Awt",
+      "description": "Who puts the glad in gladiator? Phileaux, Godwin, and Winnie-the-Pooh, obviously. The Dracula-slaying trio are tasked by the privileged son of Zeus to slay the beast of the underworld: Cerberus. But faced with golden apples, monsters, and way more rivers than we have time for, will they have enough stretched pennies to make it in time? Midwest Food Bank: https://midwestfoodbank.org/disaster-relief/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
+      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/a7ae55a3-c5af-4676-b159-1c1e668b59c9/3000x3000/cropped_1788362548087.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/45b39c60-e102-4d86-ad5f-ab9ab1729fda/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=45b39c60-e102-4d86-ad5f-ab9ab1729fda&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101007697",
+      "itunes_duration": "01:35:02",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "versus",
+        "hercules",
+        "austin"
+      ]
+    },
     {
       "key": "f19ef643d55a84d31da6dbd774f32fd13ef07b2d",
       "title": "The The Adventure Zone Zone: Royale Wrap-Up!",
@@ -8103,6 +8123,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-03 — The Adventure Zone Versus Hercules: Live in Austin!
 - 2026-08-20 — The The Adventure Zone Zone: Royale Wrap-Up! — speakers: Wizard Dis
 - 2026-08-06 — The Adventure Zone Royale: Episode 30
 - 2026-07-23 — The Adventure Zone Royale: Episode 29
