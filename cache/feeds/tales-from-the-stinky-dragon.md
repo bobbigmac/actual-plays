@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-08-31T20:52:13+00:00`
-- checked_at: `2026-08-31T20:52:13+00:00`
-- last_modified: `Mon, 31 Aug 2026 17:29:29 GMT`
+- fetched_at: `2026-09-04T20:49:16+00:00`
+- checked_at: `2026-09-04T20:49:16+00:00`
+- last_modified: `Wed, 02 Sep 2026 08:00:04 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-31T20:52:13+00:00",
+  "fetched_at": "2026-09-04T20:49:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "dfa4f7e7d3213362a61532bc90e9b207887e5a45",
+      "title": "C03 - Ep. 51 - Under Oondar Fire - All Is Not Last",
+      "published_at": "2026-09-02T08:00:00+00:00",
+      "link": null,
+      "description": "Brutaliteam finds themselves staring down the exit to Chimirrora Keep with dangerous factions on their heels. Support us directly on Patreon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new merch at store.stinkydragonpod.com - Dice, Player Character Tees, Blankets, Hoodies, and more! Follow us on our socials - @stinkydragonpod ! Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4e3541d8-dadb-11f0-a213-57d6cd7c840e/image/dd5cf5d2c76ef64c0ec2e42a421975ae.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/485/traffic.megaphone.fm/GLSS7760802481.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6063",
+      "speakers": [
+        "Chimirrora Keep"
+      ],
+      "topics": [
+        "oondar",
+        "fire"
+      ]
+    },
     {
       "key": "bafbf120d64f2a10b7984fb0b6df7d4e47a69d55",
       "title": "C03 - Ep. 50 - Under Oondar Fire - Chalice in Oondarland",
@@ -4418,6 +4437,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — C03 - Ep. 51 - Under Oondar Fire - All Is Not Last — speakers: Chimirrora Keep
 - 2026-08-19 — C03 - Ep. 50 - Under Oondar Fire - Chalice in Oondarland
 - 2026-08-05 — C03 - Ep. 49 - Under Oondar Fire - Bask in Reflected Gory
 - 2026-07-22 — C03 - Ep. 48 - Under Oondar Fire - Hot Cross Bunlap
