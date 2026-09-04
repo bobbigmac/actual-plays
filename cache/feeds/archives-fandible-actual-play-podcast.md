@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-09-01T23:21:34+00:00`
-- checked_at: `2026-09-01T23:21:34+00:00`
-- etag: `"db20bf453dc050b3fd7e379b7138e8c2"`
+- fetched_at: `2026-09-04T23:04:34+00:00`
+- checked_at: `2026-09-04T23:04:34+00:00`
+- etag: `"27498c6ee5cd4c7717af71ae819c27c1"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-09-01T23:21:34+00:00",
+  "fetched_at": "2026-09-04T23:04:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -69,11 +69,11 @@
       "published_at": "2026-08-12T02:01:03+00:00",
       "link": "https://fandible.com/dungeons-dragons-the-long-road-part-1/",
       "description": "Two adventurers prepare to get a job that is hopefully worth the pay. The post Dungeons & Dragons: The Long Road part 1 appeared first on Fandible Actual Play Podcast .",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
-      "itunes_duration": null,
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/460_DND_TheLongRoad/Fan_814_DnD_TheLongRoadpart1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46307961",
+      "itunes_duration": "46:44",
       "speakers": [],
       "topics": [
         "dungeon",

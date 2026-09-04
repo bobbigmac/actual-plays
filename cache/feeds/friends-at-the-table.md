@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-09-04T16:26:50+00:00`
-- checked_at: `2026-09-04T16:26:50+00:00`
-- etag: `"6d838d8417a823c7e59f6c26f8936754"`
-- last_modified: `Fri, 04 Sep 2026 16:18:44 GMT`
+- fetched_at: `2026-09-04T23:04:34+00:00`
+- checked_at: `2026-09-04T23:04:34+00:00`
+- etag: `"ee708a8123fa42b1e236964cec9911b8"`
+- last_modified: `Fri, 04 Sep 2026 21:46:24 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-09-04T16:26:50+00:00",
+  "fetched_at": "2026-09-04T23:04:34+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "6da250c8b978927cdbff83e3d176a73e0fdae6a0",
+      "title": "Perpetua 48: Escape from the Rumbling Castle! 08",
+      "published_at": "2026-09-04T21:46:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-48-escape-from-the-rumbling-castle-08",
+      "description": "All aboard the Adventure Beckons! Drawn back together after a disastrous time apart, a reunited team of Eschatonica explorers must fight their way to escape. But the Creed of Oracle's most determined soldiers haven't given up on taking Jonathan's new airship back yet… This week on Perpetua: Escape the Rumbling Castle! 08 Perpetua Guide [In Progress v.06] Some Feedback [Page 69 of 71] FriendofNei So what was everyone's favorite part of Eschatonica? For me, it was getting to mix up the two parties and see how their abilities worked together. Antistrophe, Nicky, and Jonathan are a real powerhouse team! Doom_Tree_Anne I loved mixing the parties too, but more for the special conversations you can get! I hope Brontë can spend more time with Veile and Elena later in the game. TheDiamondRanger Why? Do they get cool bonuses? Doom_Tree_Anne Haha, no, I just like to see them together n.n;;;;;; TheUnforgivenIII The Redolencia and Ichoria Celestial Echoes were fuggin bad ass. I gotta go play those games, they seem metal as hell. Doom_Tree_Anne Oh, they are quite metal indeed! I'd say that was my favorite part as well. Especially getting to see the Agonies rendered in the Perpetua style! What a treat for a long time fan! Alukard83 I loved the Agonies, but I wish they got to stick around long term. I think my favorite part was the exploration. I loved mapping out all the hallways and dead ends. TheUnforgivenIII Why would you like like to map out a dead end. It's a dead end. Dumbass. Lol page 69 btw TheDiamondRanger Why is that Lol? CarlsSr Log off until you're old enough to post. Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), Janine Hawkins ( @bleatingheart ), Sylvi Bullet ( @sylvibullet ), Keith J Carberry ( @keithjcarberry ) and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_48_Escape_the_Rumbling_Castle_08.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "163693432",
+      "itunes_duration": "02:24:25",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "rumbling",
+        "castle"
+      ]
+    },
     {
       "key": "f218e892e60f33e219d5b741223bf75b8c0583f0",
       "title": "Perpetua 47: Escape from the Rumbling Castle! 07",
@@ -11627,6 +11647,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-04 — Perpetua 48: Escape from the Rumbling Castle! 08 — speakers: Austin Walker
 - 2026-08-25 — Perpetua 47: Escape from the Rumbling Castle! 07 — speakers: Austin Walker
 - 2026-08-08 — Perpetua 46: Escape the Rumbling Castle! 06 — speakers: Austin Walker
 - 2026-07-27 — Perpetua 45: Escape the Rumbling Castle! 05 — speakers: Rumbling Castle, Austin Walker
