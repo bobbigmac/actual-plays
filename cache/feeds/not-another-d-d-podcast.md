@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-08-28T15:28:13+00:00`
-- checked_at: `2026-08-28T15:28:13+00:00`
-- last_modified: `Fri, 28 Aug 2026 04:21:02 GMT`
+- fetched_at: `2026-09-04T11:25:39+00:00`
+- checked_at: `2026-09-04T11:25:39+00:00`
+- last_modified: `Fri, 04 Sep 2026 08:41:40 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-08-28T15:28:13+00:00",
+  "fetched_at": "2026-09-04T11:25:39+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,36 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "24a58bcd9c5c8d5cafd64bb54bad956f3c2745b8",
+      "title": "Mario Party Tabletop - Part 1 (w/ SungWon Cho & Mike Trapp!)",
+      "published_at": "2026-09-04T06:30:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/753c32c6-498d-4639-980b-40ea957f6dcb",
+      "description": "Here We Go! Join Mario Master Sungwon Cho as he leads Jonathan Shell (Caldwell), Donna Kong (Emily), Toadly (Murph) and Wet Bones (Trapp) through a series of madcap mini games inspired by the classic Mario Parties of the 64 Era! To follow along at home, use the map linked here! CREDITS Sound Mixing and Editing by Faris Monshi See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/57/96/e9/0c/5796e90c-d984-49ea-b109-9b6bcdc5cfad/861c14c22bacb8e10b264354ed76937ea0f790bb132a9a6cabf81095d24e2f88bbf96200199fb42116be6d6ec68103359c0c91868ae162712430213c37020627.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/753c32c6-498d-4639-980b-40ea957f6dcb.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61571657",
+      "itunes_duration": "01:04:08",
+      "speakers": [
+        "Mario Master",
+        "Sungwon Cho",
+        "Jonathan Shell",
+        "Donna Kong",
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "mario",
+        "party",
+        "tabletop",
+        "sungwon",
+        "mike",
+        "trapp"
+      ]
+    },
     {
       "key": "09b930994d3a5d361c6aa5bf89d1e6ad87678a11",
       "title": "Surprise Round! - God's NFT",
@@ -11395,6 +11425,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-04 — Mario Party Tabletop - Part 1 (w/ SungWon Cho & Mike Trapp!) — speakers: Mario Master, Sungwon Cho, Jonathan Shell, Donna Kong, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-08-28 — Surprise Round! - God's NFT — speakers: Surprise Round, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-08-20 — D&D Court: Wrongful Rezzing, Scared Barbarians and the Legend of the Lost D20 (w/ Zac Oyama!) — speakers: Wrongful Rezzing, Scared Barbarians, Zac Oyama, Justices Murphy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-08-14 — D&D Court: Reaction Snatchers, Grappling Gripes and the Super Rude Druid (w/ Danielle Radford!) — speakers: Grappling Gripes, Danielle Radford, Justices Murphy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
