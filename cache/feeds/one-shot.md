@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-08-31T05:44:14+00:00`
-- checked_at: `2026-08-31T05:44:14+00:00`
-- last_modified: `Mon, 31 Aug 2026 04:02:00 GMT`
+- fetched_at: `2026-09-07T12:43:06+00:00`
+- checked_at: `2026-09-07T12:43:06+00:00`
+- last_modified: `Mon, 07 Sep 2026 11:27:31 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/8e75fc9d6dbbc2142cca11c14acfdea1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-31T05:44:14+00:00",
+  "fetched_at": "2026-09-07T12:43:06+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "236bb92ccc00b25e0c05494fbd00516405cb4881",
+      "title": "665. A Fool’s Errand⁠, Episode 1",
+      "published_at": "2026-09-07T11:25:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY Using a deck of Tarot cards and the collaborative world-building section of A Fool’s Errand, we create our Big Oops and its fallout. SHOW NOTES A Fool’s Errand One Shot News & Updates One Shot Patreon One Shot TWITCH Follow the cast here! Dillin Apelyan J Strautman B Marsollier Apollo Pierce Rahrah ----------------------------------------------------- Help Restore a Village in North Gaza Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Joystick, Ian Kelosky Cache Car, Transmuter Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN4791161804.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5194",
+      "speakers": [
+        "James D'Amato"
+      ],
+      "topics": [
+        "fool"
+      ]
+    },
     {
       "key": "45e620becd4acd4d7473a537ac3c31c3ede3ed55",
       "title": "664. Monsters Ate My Homework⁠, Episode 3",
@@ -13569,6 +13587,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — 665. A Fool’s Errand⁠, Episode 1 — speakers: James D'Amato
 - 2026-08-31 — 664. Monsters Ate My Homework⁠, Episode 3 — speakers: James D'Amato
 - 2026-08-28 — 663. Monsters Ate My Homework⁠, Episode 2 — speakers: Monsters Ate My Homework, James D'Amato
 - 2026-08-17 — 662. Monsters Ate My Homework⁠, Episode 1 — speakers: Monsters Ate My Homework, James D'Amato
