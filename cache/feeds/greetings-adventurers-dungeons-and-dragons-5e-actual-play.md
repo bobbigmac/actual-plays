@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-09-07T12:43:06+00:00`
-- checked_at: `2026-09-07T12:43:06+00:00`
-- etag: `"djEuMi4wOjE3ODg3NzMxMzI5NDk="`
+- fetched_at: `2026-09-07T19:13:15+00:00`
+- checked_at: `2026-09-07T19:13:15+00:00`
+- etag: `"djEuMi4wOjE3ODg3OTMyMzkzOTI="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-09-07T12:43:06+00:00",
+  "fetched_at": "2026-09-07T19:13:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "da0a489d19a06e199a54770e90a3156cd4634722",
+      "title": "Campaign 2: Episode 197 - Kaiju, Perfected",
+      "published_at": "2026-09-07T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-197-kaiju-perfected",
+      "description": "Now that our heroes are free from the time loop they can finally respond to Ratma's plea to support the docks. Magic is feeling extremely chalky so anything could happen on this night. But whether they are ready or not, whatever gets in their way must needs be destroyed or all is lost. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by Sander Goldman ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1788772964172-eda103dd-4f4a-4877-b45a-ce33f6d9ec01.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6a9e830cf8f4d42589c9209f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113999292",
+      "itunes_duration": "1:19:09",
+      "speakers": [],
+      "topics": [
+        "campaign",
+        "kaiju"
+      ]
+    },
     {
       "key": "103f5ade5842cad0a51106029d2e223609864db9",
       "title": "Campaign 2: Bonus Episode - Floor Cuttings",
@@ -12614,6 +12631,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — Campaign 2: Episode 197 - Kaiju, Perfected
 - 2026-08-31 — Campaign 2: Bonus Episode - Floor Cuttings — speakers: Floor Cuttings
 - 2026-08-24 — Campaign 2: Episode 196 - Michael Hates Tim and Jennifer
 - 2026-08-17 — Campaign 2: Episode 195 - Michael Hates Us
