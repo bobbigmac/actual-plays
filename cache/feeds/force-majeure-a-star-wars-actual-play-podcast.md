@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-09-06T15:31:54+00:00`
-- checked_at: `2026-09-06T15:31:54+00:00`
-- etag: `"ec4c9062cb4263ce231e3fe67ad13052"`
-- last_modified: `Sun, 06 Sep 2026 12:34:19 GMT`
+- fetched_at: `2026-09-07T04:50:29+00:00`
+- checked_at: `2026-09-07T04:50:29+00:00`
+- etag: `"de36519dfe0be0269715bd11c6df2d27"`
+- last_modified: `Sun, 06 Sep 2026 23:37:51 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! linktr.ee/albertthellama",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-09-06T15:31:54+00:00",
+  "fetched_at": "2026-09-07T04:50:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "c5f4af382b195d19f5de46827e7ff0857996f0cc",
+      "title": "A Shot At Redemption E16 - The Wars to Come",
+      "published_at": "2026-09-06T23:30:00+00:00",
+      "link": "https://forcemajeurepod.libsyn.com/a-shot-at-redemption-e16-the-wars-to-come",
+      "description": "Exhausted, but with still so much to do, our heroes desperately try to get some rest and do some planning before things escalate any further... Cast! Adam Beltaine is your GM, and can be found on Bluesky as @maddambeltaine.bsky.social Lou plays Tryk C Rangavoon, and can be found on Bluesky at @magpiehound.bsky.social Mikey plays Jax Vorn, and can be found on Bluesky at @weaselpunk.bsky.social Tom plays Kip Kazian and can be found on Bluesky at @tcpatrick.bsky.social as well as GMing the wonderful Dice Company podcast Geoff plays Kalro Vatts, and sensibly has no social media presence Follow us on social media! All our links can now be found here: linktr.ee/albertthellama Support Albert the Llama Enterprises! If you like what we do and have some spare money, we have both a Patreon and a Ko-Fi account. We are extremely grateful for your support. https://www.patreon.com/forcemajeurepod ko-fi.com/forcemajeurepod Intro and Supplemental Music: Composed by Sly Fox Audio - check out more of her stuff on soundcloud.com/slyfoxaudio Additional Music: \"Frontier Town (music only Patreon exclusive)\" by Tabletop Audio \"Apocalypse Blues\" \"Pre-Apocalypse\" \"He's A Parrot\" all by Alexander Nakarada ( www.creatorchords.com ) \"Moments\" \"Mysterious String Quartet\" both by Silverman Sounds \"Cursed Stories\" by Myuu (Nicholas Gasparini / The Dark Piano) All used with gratitude under the Creative Commons licence",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/forcemajeurepod/Redemption_E16.mp3?dest-id=604132",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58096552",
+      "itunes_duration": "47:16",
+      "speakers": [
+        "some pla"
+      ],
+      "topics": [
+        "shot",
+        "redemption",
+        "wars"
+      ]
+    },
     {
       "key": "1be4b433981f0d865ebebd59552c951672ee0e4d",
       "title": "A Shot At Redemption E15 - Clever Girl",
@@ -4582,6 +4602,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-06 — A Shot At Redemption E16 - The Wars to Come — speakers: some pla
 - 2026-08-23 — A Shot At Redemption E15 - Clever Girl
 - 2026-08-09 — A Shot At Redemption E14 - At Least Four Problems
 - 2026-08-04 — Bring Down the Sky - Coming Soon! — speakers: Mecha Hack

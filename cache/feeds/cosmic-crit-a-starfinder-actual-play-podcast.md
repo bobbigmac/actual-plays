@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-08-31T05:44:14+00:00`
-- checked_at: `2026-08-31T05:44:14+00:00`
-- last_modified: `Mon, 31 Aug 2026 04:05:00 GMT`
+- fetched_at: `2026-09-07T04:50:29+00:00`
+- checked_at: `2026-09-07T04:50:29+00:00`
+- last_modified: `Mon, 07 Sep 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-08-31T05:44:14+00:00",
+  "fetched_at": "2026-09-07T04:50:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "797137e1412742351eeddfb44baa81ea555ae2f4",
+      "title": "Guilt of the Grave World | 030: Fast Food Alienation",
+      "published_at": "2026-09-07T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-030-fast-food-alienation/",
+      "description": "With the Laser wolves dealt with and harvested into meat chunks, the lunks of the Nova Rush step foot in the next segment of the show “Gravedigging Get-em”. But while they search for spices can they keep crew morale up despite stealing and fighting one another in this cut-throat kitchen? Who lives and what spices are grenaded on this week’s Cosmic Crit!?",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3848/guilt-of-the-grave-world-030-fast-food-alienation.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106347329",
+      "itunes_duration": "0:00",
+      "speakers": [],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "fast",
+        "food",
+        "alienation"
+      ]
+    },
     {
       "key": "0188c1348f1cd2f7652b8cc91bb3f30415bed3da",
       "title": "Guilt of the Grave World | 029: Teen Laser Wolf",
@@ -9206,6 +9227,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — Guilt of the Grave World | 030: Fast Food Alienation
 - 2026-08-31 — Guilt of the Grave World | 029: Teen Laser Wolf
 - 2026-08-24 — Guilt of the Grave World | 028: Teen Titans Zo!
 - 2026-08-17 — Guilt of the Grave World | 027: Magic Carpet Died — speakers: Magic Carpet Died
