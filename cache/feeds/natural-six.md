@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-09-01T23:21:34+00:00`
-- checked_at: `2026-09-01T23:21:34+00:00`
-- etag: `"djEuMi4wOjE3ODgyODkyMzkzOTI="`
+- fetched_at: `2026-09-08T21:14:07+00:00`
+- checked_at: `2026-09-08T21:14:07+00:00`
+- etag: `"djEuMi4wOjE3ODg4OTQwMzk0MTA="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-09-01T23:21:34+00:00",
+  "fetched_at": "2026-09-08T21:14:07+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "456abb47a656064f372c8d6c971357ba09e60386",
+      "title": "Action Surge Episode 62",
+      "published_at": "2026-09-08T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-62",
+      "description": "After two sessions of non stop combat, it’s time to take a breather and unpack everything that’s happened. Harry, Ben and Alex dig into the emotional and mechanical depths of combat...by comparing it to football. Obviously. Harry unleashes a 60ft cone of combat mechanics upon the party, discussing breath weapons, spell slots, DOMF, and vials of super secret wasp juice. This combat had it all, baby. Even when Harry dashes off, everyone somehow stays on task and keeps talking about the battle. It’s almost scary how little nonsense and mischief they get up to. Is Ben ok???? Finally, to wrap up all this serious D&D conversation, Aoife and Doug reckon with their joint ‘healer’ roles within the party, while Ben recalls an annoying fan. You know, important stuff. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6a9220ed1348fdc761c41308/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56314566",
+      "itunes_duration": "58:39",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "cbe5a89593f694e6458120a45e9f36366c5db4e3",
       "title": "Ep. 62 Just A Wasp",
@@ -3253,6 +3277,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-08 — Action Surge Episode 62 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-09-01 — Ep. 62 Just A Wasp — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-08-25 — Action Surge Episode 61 — speakers: https discord, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-08-18 — Ep. 61 The Corpsewyrm — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
