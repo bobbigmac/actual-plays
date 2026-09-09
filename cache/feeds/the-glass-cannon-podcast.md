@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-09-08T21:14:07+00:00`
-- checked_at: `2026-09-08T21:14:07+00:00`
-- last_modified: `Tue, 08 Sep 2026 17:04:21 GMT`
+- fetched_at: `2026-09-09T04:49:56+00:00`
+- checked_at: `2026-09-09T04:49:56+00:00`
+- last_modified: `Wed, 09 Sep 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-08T21:14:07+00:00",
+  "fetched_at": "2026-09-09T04:49:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,23 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "32d576114be6f020b19f917c81950b95e95533a2",
+      "title": "The Hot Zone | We Shouldn't Be Alive E14 | Twilight: 2000",
+      "published_at": "2026-09-09T04:00:00+00:00",
+      "link": null,
+      "description": "The PCs find threats in Leżajsk that they were not expecting. Watch the video here: ⁠⁠ https://youtu.be/f3vEnwswAoE Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including the Mission Debrief, our exclusive We Shouldn't Be Alive companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/c6cc127c-ab99-11f1-be52-232ae25e3119/image/fea8f4bdf27af8a040cd8ab5e74ceac2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6903508655.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4955",
+      "speakers": [],
+      "topics": [
+        "zone",
+        "twilight"
+      ]
+    },
     {
       "key": "ac0989f90c3b78d07c4a8725866a45f2ed81d8ff",
       "title": "GCN News Minute September 7, 2026",
@@ -21718,30 +21735,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "32262f7b3fc9e5de47c5a1ede879055949e947a6",
-      "title": "Elementally, Mud Dear Watson | The Glass Cannon Podcast Giantslayer E56 | Pathfinder 1E",
-      "published_at": "2016-06-21T04:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/14560367/episode-56-elementally-mud-dear-watson/",
-      "description": "With the Vault of Thorns behind them, the adventurers begin their trek back to the Chelish Devil. Little do they know, however, that Ghostlight Marsh has one last surprise in store for them. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD1698302698.mp3?updated=1707347835",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5275",
-      "speakers": [
-        "Mud Dear Watson"
-      ],
-      "topics": [
-        "dear",
-        "watson",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21750,6 +21743,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-09 — The Hot Zone | We Shouldn't Be Alive E14 | Twilight: 2000
 - 2026-09-07 — GCN News Minute September 7, 2026 — speakers: News Minute September, Labor Day
 - 2026-09-07 — Baby Hunter | Blood of the Wild S1 E38 | Pathfinder 2E Quest for the Frozen Flame — speakers: Baby Hunter
 - 2026-09-05 — Haunters of the Dark | Time For Chaos S4 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep Deep
@@ -22749,4 +22743,3 @@
 - 2016-07-12 — Grate Expectations | The Glass Cannon Podcast Giantslayer E59 | Pathfinder 1E — speakers: Redlake Fort
 - 2016-07-05 — How Della Got Her Groove Back | The Glass Cannon Podcast Giantslayer E58 | Pathfinder 1E
 - 2016-06-28 — Pyre When Ready | The Glass Cannon Podcast Giantslayer E57 | Pathfinder 1E
-- 2016-06-21 — Elementally, Mud Dear Watson | The Glass Cannon Podcast Giantslayer E56 | Pathfinder 1E — speakers: Mud Dear Watson
