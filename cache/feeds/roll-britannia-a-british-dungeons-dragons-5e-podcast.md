@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-09-02T11:26:05+00:00`
-- checked_at: `2026-09-02T11:26:05+00:00`
-- etag: `"djEuMi4wOjE3ODgzMzI0Mzk3NzQ="`
+- fetched_at: `2026-09-09T11:31:29+00:00`
+- checked_at: `2026-09-09T11:31:29+00:00`
+- etag: `"djEuMi4wOjE3ODg5MzcyMzk1NTc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-09-02T11:26:05+00:00",
+  "fetched_at": "2026-09-09T11:31:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,8 +27,25 @@
   ],
   "episodes": [
     {
+      "key": "3968ebe5a3cc7d00dba21bc7f247eff35f69ec3e",
+      "title": "Ep. 346: Age of Astra - It's About To Get Busier | #DND",
+      "published_at": "2026-09-09T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, diplomacy gives way to violence as the agents discover their quarry has more than words waiting for them. The Dice unleash strange powers, stranger opponents, and some deeply questionable teamwork as this DnD confrontation erupts into chaos. In the confines of the lab, however, the greatest threat might not be the thing standing directly in front of them. Can the agents keep their target from slipping away? What exactly have they been fighting beneath Valtbury? And what else might Krivold have waiting in the shadows? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1788380730043-49d9c863-df5a-423e-aab9-a3ef9aad02e3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6a988647a389b713ae7b42ec/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45882723",
+      "itunes_duration": "47:47",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "busier"
+      ]
+    },
+    {
       "key": "2211642088ec2d27f89251686baba7d54b2399c1",
-      "title": "Ep. 021: Age of Astra - We Are Currently Subterranean | #DND",
+      "title": "Ep. 345: Age of Astra - We Are Currently Subterranean | #DND",
       "published_at": "2026-09-02T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the agents descend beneath Valtbury and discover that some secrets were buried for very good reasons. Strange experiments, uncomfortable evidence, and the Dice begin turning suspicion into something far more sinister. In this DnD chapter, the difference between saving a world and remaking one becomes terrifyingly thin. Who has really been behind the monsters all along? How far can someone go in the name of the greater good? And what has just woken up in the darkness? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -44,7 +61,7 @@
     },
     {
       "key": "c3b25d0ea980022b7b96a270923538c19444e921",
-      "title": "Ep. 020: Age of Astra - All Access, V.I.P. | #DND",
+      "title": "Ep. 344: Age of Astra - All Access, V.I.P. | #DND",
       "published_at": "2026-08-26T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, quiet questions give way to dangerous decisions as the agents venture somewhere they were never meant to find. Beneath the polished surface of Valtbury, the Dice reveal machinery, secrets, and a system whose foundations suddenly seem far less secure. In this DnD chapter, following orders and doing what feels right may no longer be the same thing. What really lies beneath the Choice? How far will the agents go to change a world that isn’t theirs? And what happens when ASTRA discovers what they’ve done? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -61,7 +78,7 @@
     },
     {
       "key": "a31bc00f940e68ad18fbb0b591807ce6f4a5552a",
-      "title": "Ep. 019: Age of Astra - Sicky Little Sticky Hands | #DND",
+      "title": "Ep. 343: Age of Astra - Sicky Little Sticky Hands | #DND",
       "published_at": "2026-08-19T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the agents trade careful observation for a far riskier conversation behind closed doors. Plans become increasingly questionable, the Dice bring some unexpectedly sweet consequences, and in this DnD chapter, one frightened man is pushed towards a choice he desperately wants no part in. Some doors are difficult to open… and even harder to close again. How far can the agents push before trust finally breaks? What price does “The Choice” really demand? And have they just endangered the very person they need most? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -81,7 +98,7 @@
     },
     {
       "key": "bb7aeedbb278ecdfa5dbf06251e9c7cdade01d91",
-      "title": "Ep. 018: Age of Astra - Accepted Elf, Not Reject Elf | #DND",
+      "title": "Ep. 342: Age of Astra - Accepted Elf, Not Reject Elf | #DND",
       "published_at": "2026-08-12T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the agents venture further into the unknown, where every answer seems to arrive wrapped inside a new question. The Dice continue to pull at loose threads, and in this DnD chapter, the feeling that something important is about to change becomes impossible to ignore. The pieces are moving, even if no one can yet see the whole board. What has been quietly set in motion behind the scenes? Which truth is closest to being uncovered? And when the next piece falls into place, what picture will it reveal? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -98,7 +115,7 @@
     },
     {
       "key": "128dac5e92ec56c5cb4ea877e61436a0938a80c0",
-      "title": "Ep. 017: Age of Astra - The Signal is Different | #DND",
+      "title": "Ep. 341: Age of Astra - The Signal is Different | #DND",
       "published_at": "2026-08-05T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the agents find themselves closer than ever to the heart of the mystery, yet certainty remains stubbornly out of reach. The Dice seem to favour questions over answers as old assumptions begin to wobble and new possibilities emerge from the shadows. In this DnD chapter, every step forward feels significant, even if no one is quite sure why. What if the story they've been following isn't the real one? Which clue changes everything once it's seen in the right light? And when the truth finally reveals itself, will it answer the mystery… or deepen it? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -115,7 +132,7 @@
     },
     {
       "key": "1a58c23f736a2327ba5ead9d7d0f5d052675eb9d",
-      "title": "Ep. 016: Age of Astra - A Local Delicacy | #DND",
+      "title": "Ep. 340: Age of Astra - A Local Delicacy | #DND",
       "published_at": "2026-07-29T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the agents press onward through a mystery that seems to shift shape whenever they get too close. The Dice fall in curious ways, revealing just enough to keep moving whilst leaving the most important questions unanswered. In this DnD chapter, every discovery feels connected to something larger, though the pattern remains frustratingly incomplete. What have the agents overlooked so far? Which answers are hiding behind the obvious ones? And when the truth finally steps into view, will they recognise it for what it is? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -133,7 +150,7 @@
     },
     {
       "key": "ea4da11c43f02a05752f047d9f7557c28bd92ebe",
-      "title": "Ep. 015: Age of Astra - The Stone Drops To The Ground | #DND",
+      "title": "Ep. 339: Age of Astra - The Stone Drops To The Ground | #DND",
       "published_at": "2026-07-22T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the agents reach a point where uncertainty is no longer a problem to solve but a place to stand. The Dice seem to linger on every decision, stretching moments longer than they should as this DnD mystery continues to unfold. What once felt distant now feels close enough to touch, though no one can quite agree on what they're reaching for. Which truths have been hiding in the gaps all along? What happens when the pieces finally start fitting together? And when the path forward becomes clear, will anyone actually want to follow it? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -170,7 +187,7 @@
     },
     {
       "key": "ec069f05f6b1bde8b8e489c10d5d10c6ac130d35",
-      "title": "Ep. 014: Age of Astra - Straight Down The Tube | #DND",
+      "title": "Ep. 338: Age of Astra - Straight Down The Tube | #DND",
       "published_at": "2026-07-15T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the agents move deeper into a mystery that seems determined to grow stranger with every step. The Dice continue to reveal fragments rather than answers, and in this DnD chapter, the feeling that something important is just out of sight becomes impossible to ignore. Every lead points somewhere, but not necessarily where it should. What is hiding at the centre of it all? Which assumptions are about to be challenged? And when the next revelation arrives, will it bring clarity… or only more questions? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -188,7 +205,7 @@
     },
     {
       "key": "eaea5b98aee32cd111273d47cd993feadadaeab6",
-      "title": "Ep. 013: Age of Astra - I Need Answer, Then I Leave | #DND",
+      "title": "Ep. 337: Age of Astra - I Need Answer, Then I Leave | #DND",
       "published_at": "2026-07-08T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the agents find themselves staring at pieces of a puzzle that refuse to stay still. What seemed distant now feels uncomfortably close, as the Dice guide them through a DnD chapter filled with half-truths, uneasy choices, and the growing sense that someone already knows how this story is supposed to end. The deeper they look, the harder it becomes to tell whether they are uncovering a mystery… or walking into one. Who is really a step ahead of the agents? What truths are still hiding in plain sight? And when the final piece appears, will it answer anything at all? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -205,7 +222,7 @@
     },
     {
       "key": "09c111fb69203fc0c8c6f72336718d0764b8102c",
-      "title": "Ep. 012: Age of Astra - All Gloves Are Off | #DND",
+      "title": "Ep. 336: Age of Astra - All Gloves Are Off | #DND",
       "published_at": "2026-07-01T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the agents push onward into territory that feels increasingly unfamiliar, where every discovery seems to cast a longer shadow than the last. The Dice continue to blur the line between coincidence and design, and in this DnD chapter, even the simplest choices carry an unsettling weight. Some paths only reveal where they lead once it’s far too late to turn back. What has been waiting for them all this time? Which piece of the puzzle still doesn’t fit? And when the truth finally reveals itself… will anyone be ready for it? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -222,7 +239,7 @@
     },
     {
       "key": "b2c1baf200c4b65e3bf210b1ed0303758de51be0",
-      "title": "Ep. 011: Age of Astra - Give Me Your Hat | #DND",
+      "title": "Ep. 335: Age of Astra - Give Me Your Hat | #DND",
       "published_at": "2026-06-24T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the agents find themselves pulled further from certainty as old questions refuse to stay buried and new ones arrive uninvited. The Dice seem determined to complicate matters, turning every answer into another mystery in this DnD chapter. Whatever lies ahead, it feels closer now than ever before. What happens when the truth becomes impossible to ignore? Which secrets were never meant to be uncovered? And when the next door opens… who will be brave enough to step through it? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -238,7 +255,7 @@
     },
     {
       "key": "5c0b5ccd556873f0ac70de7bb0a50b078a4530c6",
-      "title": "Ep. 010: Age of Astra - Hot or Poo | #DND",
+      "title": "Ep. 334: Age of Astra - Hot or Poo | #DND",
       "published_at": "2026-06-17T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the agents stand at the edge of something they can no longer avoid. What began as questions now feels like consequence, as the Dice fall with a weight that lingers in every decision in this chapter. The path forward is there… but it doesn’t look safe. What happens when there’s no turning back? Who is ready for what comes next? And when the final choice appears… will they take it? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -254,7 +271,7 @@
     },
     {
       "key": "014349b6d453ae8ff89ca752f63d86f3cebee1c9",
-      "title": "Ep. 009: Age of Astra - It Appears We Are Trapped | #DND",
+      "title": "Ep. 333: Age of Astra - It Appears We Are Trapped | #DND",
       "published_at": "2026-06-10T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the agents step into the aftermath of everything they’ve uncovered, where answers feel closer but far less comforting. The Dice carry a quiet weight now, as choices begin to matter more than discoveries in this DnD chapter. What was once hidden is no longer the only danger… what comes next might be worse. What do you do once the truth is in your hands? Who can still be trusted when everything has shifted? And when the next move decides everything… who’s willing to make it? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -270,7 +287,7 @@
     },
     {
       "key": "40460f5ed2f07abadf6d297e0d4a8d2adcc4e79a",
-      "title": "Ep. 008: Age of Astra - I've Got A Tie And Everything | #DND",
+      "title": "Ep. 332: Age of Astra - I've Got A Tie And Everything | #DND",
       "published_at": "2026-06-03T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the pressure finally begins to tip as everything the agents have uncovered starts to close in around them. The Dice fall with a sense of consequence that can’t be ignored, and the space for doubt grows dangerously thin in this DnD chapter. What was hidden is no longer staying quiet. When the truth is fully revealed, who controls it? What breaks when the balance finally shifts? And once the line is crossed… can they ever step back? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -305,7 +322,7 @@
     },
     {
       "key": "feafd8553afed4e16932909b3ddec21b814ccdcb",
-      "title": "Ep. 007: Age of Astra - He Is Dead | #DND",
+      "title": "Ep. 331: Age of Astra - He Is Dead | #DND",
       "published_at": "2026-05-27T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the pieces begin to settle into place, though none of them sit quite comfortably. The agents edge closer to something that feels inevitable, as the Dice fall with a sense of finality that’s hard to ignore in this DnD chapter. Whatever has been building is no longer content to stay hidden. What happens when the truth can’t be contained any longer? Who is truly prepared for what comes next? And when everything shifts… who will still be standing? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -321,7 +338,7 @@
     },
     {
       "key": "54fc7140bd5f318c7f8147e9ec3625ad6abcc5d0",
-      "title": "Ep. 006: Age of Astra - Not Completely Organic | #DND",
+      "title": "Ep. 330: Age of Astra - Not Completely Organic | #DND",
       "published_at": "2026-05-20T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the agents find themselves with fewer places left to hide as the truth begins to press in from all sides. What once felt uncertain now feels deliberate, as the Dice fall with a weight that’s hard to ignore in this DnD chapter. Lines are drawn, whether they’re ready or not. Who has been pulling the threads all along? What happens when there’s nowhere left to turn? And when the moment finally arrives… who makes the first move? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -338,7 +355,7 @@
     },
     {
       "key": "6166abae952fff4c399a001d94f9160ae4fc93e8",
-      "title": "Ep. 005: Age of Astra - Bad Monster, Bad Monster | #DND",
+      "title": "Ep. 329: Age of Astra - Bad Monster, Bad Monster | #DND",
       "published_at": "2026-05-13T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the tension tightens as the agents move closer to something that no longer wants to stay hidden. Small details begin to matter, silences grow heavier, and the Dice seem to nudge events toward a turning point that can’t be avoided. In this DnD chapter, the truth isn’t just dangerous… it feels protected. What happens when the wrong question finally gets answered? Who is still holding the real power here? And when everything comes into the light, what won’t survive it? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -355,7 +372,7 @@
     },
     {
       "key": "62d07099fb6d187278458975bc03cadf20b78a58",
-      "title": "Ep. 004: Age of Astra - Middle Aged Children | #DND",
+      "title": "Ep. 328: Age of Astra - Middle Aged Children | #DND",
       "published_at": "2026-05-06T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the cracks widen as the agents push further into a world that feels carefully constructed. Conversations circle, truths bend, and the Dice seem to land just shy of certainty, as if something is quietly steering events from the edges. In this DnD chapter, every step forward feels watched… and possibly expected. Who benefits from keeping the truth buried? How deep does the deception really go? And when the mask finally slips, what’s left underneath? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -372,7 +389,7 @@
     },
     {
       "key": "82e22e95591a9abdd55712311a45f16ce3e89f1d",
-      "title": "Ep. 003: Age of Astra - Hammers, Clubs, The Occasional Dagger! | #DND",
+      "title": "Ep. 327: Age of Astra - Hammers, Clubs, The Occasional Dagger! | #DND",
       "published_at": "2026-04-29T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the calm façade begins to crack as questions linger a little too long and answers come far too easily. The agents press deeper into a situation that doesn’t quite add up, where names slip, tensions rise, and the Dice seem to favour unease over clarity. In this DnD tale, the truth is close… but it’s being carefully kept just out of reach. Who is really in control of what’s happening here? What is being hidden behind polite smiles? And when the truth finally surfaces, will it change everything? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -392,7 +409,7 @@
     },
     {
       "key": "78daaeb9083f3453e924def06722b52445558405",
-      "title": "Ep. 002: Age of Astra - We're here from Astra | #DND",
+      "title": "Ep. 326: Age of Astra - We're here from Astra | #DND",
       "published_at": "2026-04-22T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, the agents step onto a world that looks far too perfect, where polished streets and calm smiles hide something just out of reach. The Dice feel uneasy as questions are brushed aside, names slip at the wrong moment, and a simple DnD mission starts to twist into something far more deliberate. Beneath the surface, the truth waits… but it doesn’t seem eager to be found. Why does a distress signal lead to silence instead of panic? What are they being steered away from? And who is really telling the truth in this perfect world? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -408,7 +425,7 @@
     },
     {
       "key": "876e3be1e6c2cc8d0a87ad04d6485f228303e821",
-      "title": "Ep. 001: Age of Astra - Where is that Bloody Hat?! | #DND",
+      "title": "Ep. 325: Age of Astra - Where is that Bloody Hat?! | #DND",
       "published_at": "2026-04-15T07:00:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week’s Dungeons and Dragons episode, a new story begins far from familiar shores, where the stars themselves feel just a little too quiet. Four strangers are pulled together by a call that shouldn’t exist, armed with barely more than instinct, training, and the roll of the Dice. In this DnD tale of unknown worlds and uneasy alliances, the mission is simple… until it isn’t. What sends a distress signal from a world no one has ever seen? Why were these particular agents chosen? And what waits on the other side of that first step into the unknown? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) and led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -8067,29 +8084,30 @@
 
 ## Episodes (newest first)
 
-- 2026-09-02 — Ep. 021: Age of Astra - We Are Currently Subterranean | #DND
-- 2026-08-26 — Ep. 020: Age of Astra - All Access, V.I.P. | #DND
-- 2026-08-19 — Ep. 019: Age of Astra - Sicky Little Sticky Hands | #DND
-- 2026-08-12 — Ep. 018: Age of Astra - Accepted Elf, Not Reject Elf | #DND
-- 2026-08-05 — Ep. 017: Age of Astra - The Signal is Different | #DND
-- 2026-07-29 — Ep. 016: Age of Astra - A Local Delicacy | #DND
-- 2026-07-22 — Ep. 015: Age of Astra - The Stone Drops To The Ground | #DND
+- 2026-09-09 — Ep. 346: Age of Astra - It's About To Get Busier | #DND
+- 2026-09-02 — Ep. 345: Age of Astra - We Are Currently Subterranean | #DND
+- 2026-08-26 — Ep. 344: Age of Astra - All Access, V.I.P. | #DND
+- 2026-08-19 — Ep. 343: Age of Astra - Sicky Little Sticky Hands | #DND
+- 2026-08-12 — Ep. 342: Age of Astra - Accepted Elf, Not Reject Elf | #DND
+- 2026-08-05 — Ep. 341: Age of Astra - The Signal is Different | #DND
+- 2026-07-29 — Ep. 340: Age of Astra - A Local Delicacy | #DND
+- 2026-07-22 — Ep. 339: Age of Astra - The Stone Drops To The Ground | #DND
 - 2026-07-15 — BONUS: Age of Astra - Meet Patch Kairos, Again. | #DND
-- 2026-07-15 — Ep. 014: Age of Astra - Straight Down The Tube | #DND
-- 2026-07-08 — Ep. 013: Age of Astra - I Need Answer, Then I Leave | #DND
-- 2026-07-01 — Ep. 012: Age of Astra - All Gloves Are Off | #DND
-- 2026-06-24 — Ep. 011: Age of Astra - Give Me Your Hat | #DND
-- 2026-06-17 — Ep. 010: Age of Astra - Hot or Poo | #DND
-- 2026-06-10 — Ep. 009: Age of Astra - It Appears We Are Trapped | #DND
-- 2026-06-03 — Ep. 008: Age of Astra - I've Got A Tie And Everything | #DND
+- 2026-07-15 — Ep. 338: Age of Astra - Straight Down The Tube | #DND
+- 2026-07-08 — Ep. 337: Age of Astra - I Need Answer, Then I Leave | #DND
+- 2026-07-01 — Ep. 336: Age of Astra - All Gloves Are Off | #DND
+- 2026-06-24 — Ep. 335: Age of Astra - Give Me Your Hat | #DND
+- 2026-06-17 — Ep. 334: Age of Astra - Hot or Poo | #DND
+- 2026-06-10 — Ep. 333: Age of Astra - It Appears We Are Trapped | #DND
+- 2026-06-03 — Ep. 332: Age of Astra - I've Got A Tie And Everything | #DND
 - 2026-06-03 — BONUS: Age of Astra - Meet Albert T. Bungle | #DND
-- 2026-05-27 — Ep. 007: Age of Astra - He Is Dead | #DND
-- 2026-05-20 — Ep. 006: Age of Astra - Not Completely Organic | #DND
-- 2026-05-13 — Ep. 005: Age of Astra - Bad Monster, Bad Monster | #DND
-- 2026-05-06 — Ep. 004: Age of Astra - Middle Aged Children | #DND
-- 2026-04-29 — Ep. 003: Age of Astra - Hammers, Clubs, The Occasional Dagger! | #DND
-- 2026-04-22 — Ep. 002: Age of Astra - We're here from Astra | #DND
-- 2026-04-15 — Ep. 001: Age of Astra - Where is that Bloody Hat?! | #DND — speakers: Bloody Hat
+- 2026-05-27 — Ep. 331: Age of Astra - He Is Dead | #DND
+- 2026-05-20 — Ep. 330: Age of Astra - Not Completely Organic | #DND
+- 2026-05-13 — Ep. 329: Age of Astra - Bad Monster, Bad Monster | #DND
+- 2026-05-06 — Ep. 328: Age of Astra - Middle Aged Children | #DND
+- 2026-04-29 — Ep. 327: Age of Astra - Hammers, Clubs, The Occasional Dagger! | #DND
+- 2026-04-22 — Ep. 326: Age of Astra - We're here from Astra | #DND
+- 2026-04-15 — Ep. 325: Age of Astra - Where is that Bloody Hat?! | #DND — speakers: Bloody Hat
 - 2026-04-15 — BONUS: Age of Astra - Meet Snik Unbord | #DND
 - 2026-04-15 — BONUS: Age of Astra - Meet Sig Rivet | #DND
 - 2026-04-15 — BONUS: Age of Astra - Meet Patch Kairos | #DND
