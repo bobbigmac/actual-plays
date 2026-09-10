@@ -2,9 +2,9 @@
 
 - slug: `high-rollers-dnd`
 - source: `https://feeds.megaphone.fm/NSR8625352094`
-- fetched_at: `2026-09-08T16:42:24+00:00`
-- checked_at: `2026-09-08T16:42:24+00:00`
-- last_modified: `Tue, 08 Sep 2026 13:57:59 GMT`
+- fetched_at: `2026-09-10T11:30:08+00:00`
+- checked_at: `2026-09-10T11:30:08+00:00`
+- last_modified: `Thu, 10 Sep 2026 07:07:03 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://highrollersdnd.libsyn.com/website",
   "description": "Welcome to High Rollers, a live-play Dungeons & Dragons podcast! Join Dungeon Master Mark Hulmes and his players as they explore Altheya: The Dragon Empire on Europe's biggest independent TTRPG stream. Episodes go live Tuesdays and Thursdays, or watch live every Sunday at 5pm UK Time on twitch.tv/highrollersdnd or youtube.com/highrollersdnd!",
   "image_url": "https://megaphone.imgix.net/podcasts/b072907c-ca95-11eb-b4a3-f71bfb3de22d/image/PodcastV1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-08T16:42:24+00:00",
+  "fetched_at": "2026-09-10T11:30:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "f224c0cd893f0b6024a53467ff1f77c7be9926eb",
+      "title": "The Moral Choice | Altheya: The Dragon Empire #117 (Part 2)",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "link": null,
+      "description": "Xantheus and Ophelia learn more about the Diadem's deadly tattoos which leads to a discussion on morals! Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠v Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR1759269704.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4976",
+      "speakers": [],
+      "topics": [
+        "moral",
+        "choice",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
     {
       "key": "8798599dc94424f00b2d20e69fe76756e157f44c",
       "title": "The Moral Choice | Altheya: The Dragon Empire #117 (Part 1)",
@@ -15025,6 +15045,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-10 — The Moral Choice | Altheya: The Dragon Empire #117 (Part 2)
 - 2026-09-08 — The Moral Choice | Altheya: The Dragon Empire #117 (Part 1)
 - 2026-09-03 — Bound in Blood | Altheya: The Dragon Empire #116 (Part 2)
 - 2026-09-01 — Bound in Blood | Altheya: The Dragon Empire #116 (Part 1) — speakers: Opal Loung
