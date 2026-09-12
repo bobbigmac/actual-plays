@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-09-11T04:47:48+00:00`
-- checked_at: `2026-09-11T04:47:48+00:00`
-- last_modified: `Fri, 11 Sep 2026 04:00:00 GMT`
+- fetched_at: `2026-09-12T04:42:02+00:00`
+- checked_at: `2026-09-12T04:42:02+00:00`
+- last_modified: `Sat, 12 Sep 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-11T04:47:48+00:00",
+  "fetched_at": "2026-09-12T04:42:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "664ffb18324a65e0c3c0334c18b81bcab335fc2e",
+      "title": "Inner Circle | Time For Chaos S4 E10 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2026-09-12T04:00:00+00:00",
+      "link": null,
+      "description": "In the mid-season finale, the investigators recover after their meeting with a mind-altering new ally before the city's darkest secrets are set in motion. For a limited time, use code \"TFC4\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including Overtime For Chaos, our exclusive Time For Chaos companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Watch the video here: ⁠ https://youtu.be/DcmIWMMWGRU Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/27701eea-adf5-11f1-ba89-7b65f36ccec9/image/1d20bef59912efd9ac79e7b282aae3ae.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3152698052.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8853",
+      "speakers": [],
+      "topics": [
+        "circle",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
     {
       "key": "a6d798b1ba1b72e83d69aa429c370f8bbbbacb86",
       "title": "Out of Order | The Glass Cannon Podcast Shadowdark E43 | Shadowdark RPG",
@@ -115,7 +136,7 @@
       "title": "Haunters of the Dark | Time For Chaos S4 E9 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2026-09-05T04:00:00+00:00",
       "link": null,
-      "description": "Deep beneath the earth, the investigators attempt to learn more about Huston's machinations while encountering some of the city's strange denizens. For a limited time, use code \"TFC4\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including Overtime For Chaos, our exclusive Time For Chaos companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Watch the video here: ⁠https://youtu.be/tJRtzKyhh3U Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Deep beneath the earth, the investigators attempt to learn more about Huston's machinations while encountering some of the city's strange denizens. For a limited time, use code \"TFC4\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including Overtime For Chaos, our exclusive Time For Chaos companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Watch the video here: ⁠ https://youtu.be/tJRtzKyhh3U Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/18a58f16-a86a-11f1-a7b2-2b3f7ba46ae7/image/5f18fe02ca79b50654a4ff55d876a287.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4490138178.mp3",
       "enclosure_type": "audio/mpeg",
@@ -21714,28 +21735,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "56f0274f6510e6c690e2f03b04d5699f9311c781",
-      "title": "How Della Got Her Groove Back | The Glass Cannon Podcast Giantslayer E58 | Pathfinder 1E",
-      "published_at": "2016-07-05T04:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/14918606/episode-58-how-della-got-her-groove-back/",
-      "description": "With Lorc nowhere to be seen, a hill giant and his band of murderous orcs spring a deadly trap on our unsuspecting heroes! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD6340917117.mp3?updated=1707347991",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3799",
-      "speakers": [],
-      "topics": [
-        "della",
-        "groove",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21744,6 +21743,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-12 — Inner Circle | Time For Chaos S4 E10 | Call of Cthulhu Masks of Nyarlathotep
 - 2026-09-11 — Out of Order | The Glass Cannon Podcast Shadowdark E43 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-09-09 — The Hot Zone | We Shouldn't Be Alive E14 | Twilight: 2000
 - 2026-09-07 — GCN News Minute September 7, 2026 — speakers: News Minute September, Labor Day
@@ -22743,4 +22743,3 @@
 - 2016-07-26 — Mist Connections | The Glass Cannon Podcast Giantslayer E61 | Pathfinder 1E — speakers: Mist Connections
 - 2016-07-19 — Silence of the BLAMs | The Glass Cannon Podcast Giantslayer E60 | Pathfinder 1E
 - 2016-07-12 — Grate Expectations | The Glass Cannon Podcast Giantslayer E59 | Pathfinder 1E — speakers: Redlake Fort
-- 2016-07-05 — How Della Got Her Groove Back | The Glass Cannon Podcast Giantslayer E58 | Pathfinder 1E
