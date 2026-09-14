@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-09-07T04:50:29+00:00`
-- checked_at: `2026-09-07T04:50:29+00:00`
-- last_modified: `Mon, 07 Sep 2026 04:05:00 GMT`
+- fetched_at: `2026-09-14T05:03:46+00:00`
+- checked_at: `2026-09-14T05:03:46+00:00`
+- last_modified: `Mon, 14 Sep 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-09-07T04:50:29+00:00",
+  "fetched_at": "2026-09-14T05:03:46+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "e08b5ac339bd13d49dedae94fb0ca7999f377cbc",
+      "title": "Guilt of the Grave World | 031: Two Broke Grills",
+      "published_at": "2026-09-14T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-031-two-broke-grills/",
+      "description": "In the next segment of the Sabotage Souffle Eoxian TV show the party divided must begin the arduous task of retrieving protein and cooking with their ill-gotten spices. But things are about to heat up before they eat up, as the ring of fire activates! Will it be too hot in the kitchen or will the party survive the flame-broiling? Find out on this week’s “Cosmic Crit”!!!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3850/guilt-of-the-grave-world-031-two-broke-grills.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91975997",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Grave World",
+        "Sabotage Souffle Eoxian"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "broke",
+        "grill"
+      ]
+    },
     {
       "key": "797137e1412742351eeddfb44baa81ea555ae2f4",
       "title": "Guilt of the Grave World | 030: Fast Food Alienation",
@@ -9227,6 +9250,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — Guilt of the Grave World | 031: Two Broke Grills — speakers: Grave World, Sabotage Souffle Eoxian
 - 2026-09-07 — Guilt of the Grave World | 030: Fast Food Alienation
 - 2026-08-31 — Guilt of the Grave World | 029: Teen Laser Wolf
 - 2026-08-24 — Guilt of the Grave World | 028: Teen Titans Zo!
