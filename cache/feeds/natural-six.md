@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-09-08T21:14:07+00:00`
-- checked_at: `2026-09-08T21:14:07+00:00`
-- etag: `"djEuMi4wOjE3ODg4OTQwMzk0MTA="`
+- fetched_at: `2026-09-15T21:26:48+00:00`
+- checked_at: `2026-09-15T21:26:48+00:00`
+- etag: `"djEuMi4wOjE3ODk0OTg4Mzk1NTM="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-09-08T21:14:07+00:00",
+  "fetched_at": "2026-09-15T21:26:48+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "dbbbebbcc1bae68499565f3f34a2a3de326f3242",
+      "title": "Ep. 63 Blood of the Dragon",
+      "published_at": "2026-09-15T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-63-blood-of-the-dragon",
+      "description": "To achieve our dreams and indulge in our fantasies, there must always be a sacrifice. Sometimes the sacrifice is small and easily made. Other times it requires a heavy toll and blood must be spilled. Is death enough to atone for ones crimes? What of those who come after. The ones who are forced to clean up your mess and pick up the pieces. What will it take to wash the blood from their hands. And now footsteps weigh heavy on a dying land. Each step like walking on fragile glass. One mistake and the whole thing could shatter. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6aa70d102469d1a3b38b70fb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "168363990",
+      "itunes_duration": "2:55:22",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "blood",
+        "dragon"
+      ]
+    },
     {
       "key": "456abb47a656064f372c8d6c971357ba09e60386",
       "title": "Action Surge Episode 62",
@@ -3277,6 +3301,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-15 — Ep. 63 Blood of the Dragon — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-09-08 — Action Surge Episode 62 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-09-01 — Ep. 62 Just A Wasp — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-08-25 — Action Surge Episode 61 — speakers: https discord, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle

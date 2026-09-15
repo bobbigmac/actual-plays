@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-09-04T23:04:34+00:00`
-- checked_at: `2026-09-04T23:04:34+00:00`
-- etag: `"27498c6ee5cd4c7717af71ae819c27c1"`
+- fetched_at: `2026-09-15T21:26:48+00:00`
+- checked_at: `2026-09-15T21:26:48+00:00`
+- etag: `"a5663a8fb78160412284766b8ed25f73"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-09-04T23:04:34+00:00",
+  "fetched_at": "2026-09-15T21:26:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "b07ee83ae541099607af02c7dad64dae2814ef6b",
+      "title": "Dungeons & Dragons: The Long Road part 4",
+      "published_at": "2026-09-15T17:15:04+00:00",
+      "link": "https://fandible.com/dungeons-dragons-the-long-road-part-4/",
+      "description": "The heroes encounter a situation that guarantees a doubling of thier troubles. The post Dungeons & Dragons: The Long Road part 4 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/460_DND_TheLongRoad/Fan_817_DnD_TheLongRoadpart4.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85348082",
+      "itunes_duration": "1:29:27",
+      "speakers": [],
+      "topics": [
+        "dungeon",
+        "dragons",
+        "long",
+        "road"
+      ]
+    },
     {
       "key": "a7c26367a2f6515a736001c42840c45f2fe3b2cf",
       "title": "Dungeons & Dragons: The Long Road part 3",
@@ -11369,24 +11388,6 @@
         "paranoia",
         "disneyland"
       ]
-    },
-    {
-      "key": "10fe510143ebec8c6d26f29d261ff4f304f1dd3d",
-      "title": "Timewatch: The Hero Engine",
-      "published_at": "2016-09-09T15:39:14+00:00",
-      "link": "https://fandible.com/timewatch-hero-engine/",
-      "description": "The present is now a Greek-inspired cyberpunk dystopia, the agents must travel to ancient times to figure out what started an Alexandrian industrial revolution. The post Timewatch: The Hero Engine appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/192_TW_TheHeroEngine/Fan_313_TW_TheHeroEngine.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "75554868",
-      "itunes_duration": "2:36:13",
-      "speakers": [],
-      "topics": [
-        "timewatch",
-        "hero",
-        "engine"
-      ]
     }
   ]
 }
@@ -11395,6 +11396,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-15 — Dungeons & Dragons: The Long Road part 4
 - 2026-09-01 — Dungeons & Dragons: The Long Road part 3
 - 2026-08-19 — Dungeons & Dragons: The Long Road part 2
 - 2026-08-12 — Dungeons & Dragons: The Long Road part 1
@@ -11994,4 +11996,3 @@
 - 2016-09-30 — Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 2 of 2 — speakers: Scary Zombies
 - 2016-09-23 — Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 1 of 2 — speakers: Scary Zombies
 - 2016-09-16 — Paranoia: I’ll See You At Disneyland
-- 2016-09-09 — Timewatch: The Hero Engine
