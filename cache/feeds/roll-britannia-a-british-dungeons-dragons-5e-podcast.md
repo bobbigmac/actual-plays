@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-09-09T11:31:29+00:00`
-- checked_at: `2026-09-09T11:31:29+00:00`
-- etag: `"djEuMi4wOjE3ODg5MzcyMzk1NTc="`
+- fetched_at: `2026-09-16T11:44:40+00:00`
+- checked_at: `2026-09-16T11:44:40+00:00`
+- etag: `"djEuMi4wOjE3ODk1NDI1MjMyOTU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-09-09T11:31:29+00:00",
+  "fetched_at": "2026-09-16T11:44:40+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "9024b34f604e9052708a7117a1c46bc331ac67bd",
+      "title": "Ep. 347: Age of Astra - Embrace Your Anger | #DND",
+      "published_at": "2026-09-16T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week’s Dungeons and Dragons episode, the hidden laboratory becomes a battleground as the agents discover just how dangerous their investigation has become. The Dice fly, strange abilities surface, and this DnD encounter pushes the team towards increasingly creative solutions as one threat refuses to go quietly. Somewhere amongst the thunder, synthetic blood, and questionable tactics, the balance finally begins to shift. Can the agents keep control of their prisoner? What happens when Geraldine is pushed too far? And what other surprises are still hiding beneath Valtbury? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1789156279615-f6a19362-9d48-4183-9784-42af78f8cae0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6aa45cc6eeff2d17d36191a8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "122992192",
+      "itunes_duration": "51:12",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "embrace",
+        "anger"
+      ]
+    },
     {
       "key": "3968ebe5a3cc7d00dba21bc7f247eff35f69ec3e",
       "title": "Ep. 346: Age of Astra - It's About To Get Busier | #DND",
@@ -8084,6 +8102,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — Ep. 347: Age of Astra - Embrace Your Anger | #DND
 - 2026-09-09 — Ep. 346: Age of Astra - It's About To Get Busier | #DND
 - 2026-09-02 — Ep. 345: Age of Astra - We Are Currently Subterranean | #DND
 - 2026-08-26 — Ep. 344: Age of Astra - All Access, V.I.P. | #DND
