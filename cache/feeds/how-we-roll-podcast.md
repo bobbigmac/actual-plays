@@ -2,10 +2,10 @@
 
 - slug: `how-we-roll-podcast`
 - source: `https://feeds.simplecast.com/9uMQFeML`
-- fetched_at: `2026-05-20T09:55:08+00:00`
-- checked_at: `2026-05-20T09:55:08+00:00`
-- etag: `"aea29e426594d9dd62af6e7a7a920ebc"`
-- last_modified: `Wed, 20 May 2026 09:50:55 GMT`
+- fetched_at: `2026-09-16T04:55:40+00:00`
+- checked_at: `2026-09-16T04:55:40+00:00`
+- etag: `"8fc62d87d45a70da6742b13e2a676a93"`
+- last_modified: `Tue, 01 Sep 2026 12:49:44 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://howwerollpodcast.com/",
   "description": "Professionally produced, UK and Ireland based RPG Podcast, playing Call of Cthulhu 7e, D&d and currently AlienRPG",
   "image_url": "https://image.simplecastcdn.com/images/77737ff1-1444-446d-8d2e-2b8c8abe73ea/534fa82f-b4c6-4fe3-8ef2-98a9a1e9ec3f/3000x3000/hwr-logo.jpg?aid=rss_feed",
-  "fetched_at": "2026-05-20T09:55:08+00:00",
+  "fetched_at": "2026-09-16T04:55:40+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,111 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "b1bb8939cbda7f0d1117c94d448ea67df97a19f5",
+      "title": "010-Cthulhu Dark - Goodcliffe - Into the Mines Part 2",
+      "published_at": "2026-09-01T12:49:29+00:00",
+      "link": "http://howwerollpodcast.com/",
+      "description": "With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com You can find us: On Bluesky @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast You can find us all on bluesky!",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/4091cf96-7268-4229-96e3-849ac82dd8c8/4c1043e2-857c-4f43-9dd8-07efd88404f1/episodes/audio/group/0cec9d87-fc72-46fd-b725-dcd2ed7ddabe/group-item/a8a0e9d5-e028-4774-933b-7d434842bc1f/128_default_tc.mp3?aid=rss_feed&feed=9uMQFeML",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62088839",
+      "itunes_duration": "01:04:39",
+      "speakers": [
+        "Syrinscape Kevin MaCleod"
+      ],
+      "topics": [
+        "cthulhu",
+        "dark",
+        "goodcliffe",
+        "mines"
+      ]
+    },
+    {
+      "key": "5faa817bd44b0aec8124b9641b1a2ab3bd501e00",
+      "title": "149 - Two Headed Serpent - Snake Island - KHAAAAAAAAA....no...GREEEEEEEEEEEEEEEEEEG",
+      "published_at": "2026-08-26T14:28:42+00:00",
+      "link": "http://howwerollpodcast.com/",
+      "description": "Episode Notes With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com You can find us: On Bluesky @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast You can find us all on bluesky!",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/4091cf96-7268-4229-96e3-849ac82dd8c8/4c1043e2-857c-4f43-9dd8-07efd88404f1/episodes/audio/group/6d3d6002-73bf-4332-b696-5e2fc9f0b468/group-item/87aba302-f9ce-42ed-afdb-6c57e0af6005/128_default_tc.mp3?aid=rss_feed&feed=9uMQFeML",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58102451",
+      "itunes_duration": "01:00:30",
+      "speakers": [
+        "Syrinscape Kevin MaCleod"
+      ],
+      "topics": [
+        "headed",
+        "serpent",
+        "snake",
+        "island",
+        "khaaaaaaaaa",
+        "greeeeeeeeeeeeeeeeeeg"
+      ]
+    },
+    {
+      "key": "c77517f1c4644fc6a10482be5ebd7655cf4884db",
+      "title": "009-Cthulhu Dark - Goodcliffe - Into the Mines Part 1",
+      "published_at": "2026-07-29T06:10:32+00:00",
+      "link": "http://howwerollpodcast.com/",
+      "description": "Join us for How We Roll's first decent into the horror of Cthulhu Dark. With guest keeper Mr Spike at the helm we have a treat in store for you. With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com You can find us: On Bluesky @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast You can find us all on bluesky!",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/4091cf96-7268-4229-96e3-849ac82dd8c8/4c1043e2-857c-4f43-9dd8-07efd88404f1/episodes/audio/group/553b9d37-efd9-445f-aca4-d069e66b376b/group-item/eb103af4-bfc7-4c94-92cb-b2189a038d45/128_default_tc.mp3?aid=rss_feed&feed=9uMQFeML",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48657041",
+      "itunes_duration": "00:50:40",
+      "speakers": [],
+      "topics": [
+        "cthulhu",
+        "dark",
+        "goodcliffe",
+        "mines"
+      ]
+    },
+    {
+      "key": "675b1f46fcfcf37f5cc2dfd99f0e152af386acd2",
+      "title": "148 - Two Headed Serpent - Snake Island - Laughter of Misery",
+      "published_at": "2026-07-16T11:59:56+00:00",
+      "link": "http://howwerollpodcast.com/",
+      "description": "With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com You can find us: On Bluesky @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast You can find us all on bluesky!",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/4091cf96-7268-4229-96e3-849ac82dd8c8/4c1043e2-857c-4f43-9dd8-07efd88404f1/episodes/audio/group/ca5b9d9d-3d62-46bd-97f5-81b8b91e46c4/group-item/140ca9ed-5c1e-449c-a062-c16a6e3d7de6/128_default_tc.mp3?aid=rss_feed&feed=9uMQFeML",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53950796",
+      "itunes_duration": "00:56:11",
+      "speakers": [
+        "Syrinscape Kevin MaCleod"
+      ],
+      "topics": [
+        "headed",
+        "serpent",
+        "snake",
+        "island",
+        "laughter",
+        "misery"
+      ]
+    },
+    {
+      "key": "2deaf469e67ab03a414d38922289bd70a5a6ca10",
+      "title": "008-Cthulhu Dark - Goodcliffe - Deceit",
+      "published_at": "2026-07-03T07:40:31+00:00",
+      "link": "http://howwerollpodcast.com/",
+      "description": "Join us for How We Roll's first decent into the horror of Cthulhu Dark. With guest keeper Mr Spike at the helm we have a treat in store for you. With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com You can find us: On Bluesky @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast You can find us all on bluesky!",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/4091cf96-7268-4229-96e3-849ac82dd8c8/4c1043e2-857c-4f43-9dd8-07efd88404f1/episodes/audio/group/79e2a671-0c04-424d-8269-10eb153b1c21/group-item/7902a8bc-697f-40a6-bdcf-9b8181dde5a6/128_default_tc.mp3?aid=rss_feed&feed=9uMQFeML",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66892896",
+      "itunes_duration": "01:09:40",
+      "speakers": [],
+      "topics": [
+        "cthulhu",
+        "dark",
+        "goodcliffe",
+        "deceit"
+      ]
+    },
     {
       "key": "bf968a5fe7eb691918b173fb50f5337f99ac9cd3",
       "title": "147 - Two Headed Serpent - Snake Island - Itis What My Player Would Do",
@@ -10764,6 +10869,11 @@
 
 ## Episodes (newest first)
 
+- 2026-09-01 — 010-Cthulhu Dark - Goodcliffe - Into the Mines Part 2 — speakers: Syrinscape Kevin MaCleod
+- 2026-08-26 — 149 - Two Headed Serpent - Snake Island - KHAAAAAAAAA....no...GREEEEEEEEEEEEEEEEEEG — speakers: Syrinscape Kevin MaCleod
+- 2026-07-29 — 009-Cthulhu Dark - Goodcliffe - Into the Mines Part 1
+- 2026-07-16 — 148 - Two Headed Serpent - Snake Island - Laughter of Misery — speakers: Syrinscape Kevin MaCleod
+- 2026-07-03 — 008-Cthulhu Dark - Goodcliffe - Deceit
 - 2026-05-20 — 147 - Two Headed Serpent - Snake Island - Itis What My Player Would Do — speakers: Syrinscape Kevin MaCleod
 - 2026-05-12 — 007-Cthulhu Dark - Goodcliffe - Broken Pieces
 - 2026-04-24 — 146 - Two Headed Serpent - Snake Island - Too Many Potential Titles to Choose — speakers: Syrinscape Kevin MaCleod
