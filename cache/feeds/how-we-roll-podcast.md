@@ -2,10 +2,10 @@
 
 - slug: `how-we-roll-podcast`
 - source: `https://feeds.simplecast.com/9uMQFeML`
-- fetched_at: `2026-09-16T04:55:40+00:00`
-- checked_at: `2026-09-16T04:55:40+00:00`
-- etag: `"8fc62d87d45a70da6742b13e2a676a93"`
-- last_modified: `Tue, 01 Sep 2026 12:49:44 GMT`
+- fetched_at: `2026-09-17T17:05:57+00:00`
+- checked_at: `2026-09-17T17:05:57+00:00`
+- etag: `"7205fc7bd915f504bfe82154cd1827c0"`
+- last_modified: `Thu, 17 Sep 2026 14:52:01 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://howwerollpodcast.com/",
   "description": "Professionally produced, UK and Ireland based RPG Podcast, playing Call of Cthulhu 7e, D&d and currently AlienRPG",
   "image_url": "https://image.simplecastcdn.com/images/77737ff1-1444-446d-8d2e-2b8c8abe73ea/534fa82f-b4c6-4fe3-8ef2-98a9a1e9ec3f/3000x3000/hwr-logo.jpg?aid=rss_feed",
-  "fetched_at": "2026-09-16T04:55:40+00:00",
+  "fetched_at": "2026-09-17T17:05:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "f3b97f3ba44c3619f684a9b5b5c110086db4e382",
+      "title": "150 - Two Headed Serpent - Mu - Animal Mishandling",
+      "published_at": "2026-09-17T14:51:46+00:00",
+      "link": "http://howwerollpodcast.com/",
+      "description": "Episode Notes With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com You can find us: On Bluesky @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast You can find us all on bluesky!",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/4091cf96-7268-4229-96e3-849ac82dd8c8/4c1043e2-857c-4f43-9dd8-07efd88404f1/episodes/audio/group/4ac638be-9382-4057-9791-774f8a81bab6/group-item/b3950d85-c352-4dae-ab63-ffd3ee5048ff/128_default_tc.mp3?aid=rss_feed&feed=9uMQFeML",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59822783",
+      "itunes_duration": "01:02:18",
+      "speakers": [
+        "Syrinscape Kevin MaCleod"
+      ],
+      "topics": [
+        "headed",
+        "serpent",
+        "animal",
+        "mishandling"
+      ]
+    },
     {
       "key": "b1bb8939cbda7f0d1117c94d448ea67df97a19f5",
       "title": "010-Cthulhu Dark - Goodcliffe - Into the Mines Part 2",
@@ -10869,6 +10890,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-17 — 150 - Two Headed Serpent - Mu - Animal Mishandling — speakers: Syrinscape Kevin MaCleod
 - 2026-09-01 — 010-Cthulhu Dark - Goodcliffe - Into the Mines Part 2 — speakers: Syrinscape Kevin MaCleod
 - 2026-08-26 — 149 - Two Headed Serpent - Snake Island - KHAAAAAAAAA....no...GREEEEEEEEEEEEEEEEEEG — speakers: Syrinscape Kevin MaCleod
 - 2026-07-29 — 009-Cthulhu Dark - Goodcliffe - Into the Mines Part 1
