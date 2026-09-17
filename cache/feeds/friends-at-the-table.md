@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-09-17T17:05:57+00:00`
-- checked_at: `2026-09-17T17:05:57+00:00`
-- etag: `"70aad6e61f98c55d3f4282339f24313a"`
-- last_modified: `Thu, 17 Sep 2026 13:52:41 GMT`
+- fetched_at: `2026-09-17T21:27:37+00:00`
+- checked_at: `2026-09-17T21:27:37+00:00`
+- etag: `"0996dad8fa0f5c2f59d60b04c3689652"`
+- last_modified: `Thu, 17 Sep 2026 18:53:44 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-09-17T17:05:57+00:00",
+  "fetched_at": "2026-09-17T21:27:37+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "3f5e079ad62cfd0ff62ed58f6bc7070979dbae1a",
+      "title": "Perpetua 49: At the Threshold 01",
+      "published_at": "2026-09-17T13:42:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-49-at-the-threshold-01",
+      "description": "For hours, unto days, unto weeks, the crew of the LIttle Snail delved the Castle Eschatonica with their new allies, the Source Rot Investigators from the Elevana League. In the heart of the void, these adventurers escaped the wrath of dragons, met a fallen god, recovered lost, living gems… and found not only a route out, but a whole new method of travel entirely. Jonathan named his new airship 'The Adventures Beckons,' and so, it does: But before it can be attended to in earnest—before he, Elena, Nicky, Veile, Flegbot, and their coterie of gems—can find and reach the White Lectern—they must first say goodbye to the little town of Spillaway Peaks, where Terapine ever-strive to prepare for the cycle's end. But when will that end be? Is it still centuries away, or might the many ill portents across Perpetua prove what some whisper: The clock runs short. The stars have faltered. An inverted eclipse. Cattle, obliterated. The return of dragons. Fire, cataclysmic. Invasion and War. Prayers go unanswered. A ruinous wind. It is to this moment, this Perpetua-in-crisis, that the Little Snail and its roving staff returns to. Are the days of easy adventuring behind them? Is there no more blue in the sky now that they can traverse it? These are questions they dare not stop to answer. For it is time to prepare: To master this new vessel. To gather supplies for the journey. To meet new allies. To take new oaths. And to learn (or to remember) that it is never guaranteed that you can go home again. This week on Perpetua: At the Threshold 01 Perpetua Guide [In Progress v.061] Some Feedback [Page 73 of 75] TheUnforgivenIII Okay. Do NOT be an @$$h0le to me, because you all KNOW I hate asking for help. But I can't tell if I hit a weird bug or something. I finished up Castle Eschatonica finally last night and my Tidaline party got put back up in the southern part of the Clayridge Mountains (as expected). I wanted to go down into Spillaway Peaks to restock on some stuff when leaving, but it won't let me. Like I can walk down one area from where the airship is, and then when I get to the edge of the zone, it just pops up a Do Not Enter type sign. Is this bugged. Alukard83 Uh, well… Is Jonathan in your party? TheUnforgivenIII Uh, well… didn't I JUST say I had the airship? So OBVIOUSLY he's in my party. Alukard83 UH, WELL, SO, OBVIOUSLY, YOU CAN'T GO BACK INTO SPILLAWAY PEAKS IF YOU GOT THE AIRSHIP FROM THE BECKONINGS. THAT WAS THE COST OF THE AIRSHIP xXZelgadyskXx You're right, but come on, there's no need to shout XD Just swap Jonathan out of your party for now Unforgiven. Then you can go into town. TheUnforgivenIII UH WELL SO OBVIOUSLY YOU CAN GO STRAIGHT TO HELL ALUCARD. IF THAT WAS TRUE THEY SHOULD'VE ACTUALLY TOLD ME THAT IN THE GAME. THE WAY IT WAS PHRASED WAS AMBIBIGUOUS ASND YOU COULD READ IT DIFERENTLY THAN THAT. I THOUGHT IT MEANT YOU COULDN'T GO BACK INTO JONATHANS FAMILY (WHO SUCKS) HOUSE, SO IT WASN'T REALLY A COST ATALL. BUT NOW YOUR SAYING I CANT EVEN GO FUCKING SHOPPING WITH JONATHAN ANYMORE? WHAT HAPPENS IF I GET A RADNOM ENCOUNTER, DO I JUST NOT GET TO HAVE MY STRONGEST CHARACTER??????? ABSOLUTE HORSE SHIT STRAIGHT FROM THE DONKEY'S ASS, JUST LIKE YOU (This user was temporarily banned for this post. They will be unbanned: 1 week from the Post.) CarlsSr This place is like a zoo for stupid people. I love it! Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_49_At_the_Threshold_01.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121832040",
+      "itunes_duration": "01:55:27",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "threshold"
+      ]
+    },
     {
       "key": "6da250c8b978927cdbff83e3d176a73e0fdae6a0",
       "title": "Perpetua 48: Escape from the Rumbling Castle! 08",
@@ -11647,6 +11666,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-17 — Perpetua 49: At the Threshold 01 — speakers: Austin Walker
 - 2026-09-04 — Perpetua 48: Escape from the Rumbling Castle! 08 — speakers: Austin Walker
 - 2026-08-25 — Perpetua 47: Escape from the Rumbling Castle! 07 — speakers: Austin Walker
 - 2026-08-08 — Perpetua 46: Escape the Rumbling Castle! 06 — speakers: Austin Walker
