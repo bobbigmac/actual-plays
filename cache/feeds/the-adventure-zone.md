@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-09-03T11:22:24+00:00`
-- checked_at: `2026-09-03T11:22:24+00:00`
-- etag: `"44526ecc42e6b652a7b93b2ab3d30add"`
-- last_modified: `Thu, 03 Sep 2026 11:00:18 GMT`
+- fetched_at: `2026-09-17T11:49:21+00:00`
+- checked_at: `2026-09-17T11:49:21+00:00`
+- etag: `"94eb26546e963550a5ad25cb3bd377bb"`
+- last_modified: `Thu, 17 Sep 2026 11:00:17 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-09-03T11:22:24+00:00",
+  "fetched_at": "2026-09-17T11:49:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "9e630a4c85a3a1c489af135a4bc6c371a9f132e9",
+      "title": "The Adventure Zone Versus The Wonderful Wizard of Oz: Live in St. Paul!",
+      "published_at": "2026-09-17T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-versus-the-wonderful-wizard-of-oz-live-in-st-paul-fWj4Wtkk",
+      "description": "Lions and tigers and bears, oh shit! Glinda the Good Witch has gone missing and her bubble dispatched to find the three heroes of the realm. Unfortunately for the denizens of the Emerald City, it found Lady Godwin, Winnie-the-Pooh, and one Crawford Muttner, and it’s up to them to save the day. Midwest Food Bank: https://midwestfoodbank.org/disaster-relief/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
+      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/9dc77881-9d6f-422a-8b5e-146012d1689e/3000x3000/cropped_1789407973823.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/aa7c050e-a9f2-4f09-927f-ff20f7657405/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=aa7c050e-a9f2-4f09-927f-ff20f7657405&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101074569",
+      "itunes_duration": "01:37:43",
+      "speakers": [
+        "Good Witch"
+      ],
+      "topics": [
+        "adventure",
+        "zone",
+        "versus",
+        "wizard",
+        "paul"
+      ]
+    },
     {
       "key": "fa530ca94990647ba0ac18019e6efaefd270c3d3",
       "title": "The Adventure Zone Versus Hercules: Live in Austin!",
@@ -8123,6 +8145,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-17 — The Adventure Zone Versus The Wonderful Wizard of Oz: Live in St. Paul! — speakers: Good Witch
 - 2026-09-03 — The Adventure Zone Versus Hercules: Live in Austin!
 - 2026-08-20 — The The Adventure Zone Zone: Royale Wrap-Up! — speakers: Wizard Dis
 - 2026-08-06 — The Adventure Zone Royale: Episode 30
