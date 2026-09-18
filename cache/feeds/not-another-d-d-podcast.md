@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-09-11T11:29:45+00:00`
-- checked_at: `2026-09-11T11:29:45+00:00`
-- last_modified: `Fri, 11 Sep 2026 08:02:21 GMT`
+- fetched_at: `2026-09-18T04:51:02+00:00`
+- checked_at: `2026-09-18T04:51:02+00:00`
+- last_modified: `Fri, 18 Sep 2026 02:26:35 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-09-11T11:29:45+00:00",
+  "fetched_at": "2026-09-18T04:51:02+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,30 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "b67b5c4ee5ab4914ab4b3b2cceb75a482fa0e4a7",
+      "title": "Skaldova Season 2 - Ep. 1: The Bastion",
+      "published_at": "2026-09-17T04:00:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/bf24d618-553b-4357-a71c-39843bc2f817",
+      "description": "The Zu Crew AKA Boggy's Buds AKA Welly's Fellies are back! In the season two premiere, our three adventurers attempt to claim their bastion. Sound Mixing and Editing by Brian Murphy and Faris Monshi Music / Sound Effects Include: \"Blackthorn Hall\" by Emily Axford \"Batilda's Blade\" by Emily Axford \"Hexbuds\" by Emily Axford \"Nobody's Inn\" by Emily Axford \"Solstice\" by Emily Axford \"Hexblood Centurion\" by Emily Axford \"Rousel\" by Emily Axford \"Boggy Roger\" by Emily Axford \"The Smithy's Hut\" by Emily Axford \"Forsaken\" by Emily Axford \"The Depths of the Dungeon\" by Emily Axford \"Invisible But Not Invincible\" by Emily Axford \"Gunvar\" by Emily Axford See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/fc/f9/cf/9b/fcf9cf9b-e43b-40b2-b131-5a09aa62ac91/faea1b7f6608e8d31ce8c5b89b638cce8836f814a1ba9233b268e2719997c0642f53f2dc3a471a161e269bc595df7edd7d3c521af19589536edaadbdacc43dfd.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/bf24d618-553b-4357-a71c-39843bc2f817.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78136633",
+      "itunes_duration": "01:21:23",
+      "speakers": [
+        "Aka Boggy",
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "skaldova",
+        "season",
+        "bastion"
+      ]
+    },
     {
       "key": "96e7dbce049b379969d31f2ec1154bf57d54a6be",
       "title": "Mario Party Tabletop - Part 2 (w/ SungWon Cho & Mike Trapp!)",
@@ -11454,6 +11478,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-17 — Skaldova Season 2 - Ep. 1: The Bastion — speakers: Aka Boggy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-09-11 — Mario Party Tabletop - Part 2 (w/ SungWon Cho & Mike Trapp!) — speakers: Mario Master, Sungwon Cho, Jonathan Shel, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-09-04 — Mario Party Tabletop - Part 1 (w/ SungWon Cho & Mike Trapp!) — speakers: Mario Master, Sungwon Cho, Jonathan Shell, Donna Kong, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-08-28 — Surprise Round! - God's NFT — speakers: Surprise Round, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
