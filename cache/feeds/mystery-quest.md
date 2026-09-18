@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-09-11T16:34:05+00:00`
-- checked_at: `2026-09-11T16:34:05+00:00`
-- last_modified: `Fri, 11 Sep 2026 16:12:13 GMT`
+- fetched_at: `2026-09-18T16:30:25+00:00`
+- checked_at: `2026-09-18T16:30:25+00:00`
+- last_modified: `Fri, 18 Sep 2026 16:10:33 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-11T16:34:05+00:00",
+  "fetched_at": "2026-09-18T16:30:25+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,24 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "d0fcfa3fafbd03312d9f53651548d3bb31d0fef3",
+      "title": "13 Omens #2",
+      "published_at": "2026-09-18T16:00:00+00:00",
+      "link": null,
+      "description": "Welcome back to 13 Omens and the scenario, Bequeathed. With the Salazar estate will reading taking a disturbing turn the rival siblings descend down into the family wine cellar under strict instruction of their father, who's rapidly fading from all memory. Now they hope to learn the secrets of the Salazar family curse and how they might end it... Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp 13 Omens and the scenario Bequeathed are coming soon so keep an eye on the Paizo store: https://store.paizo.com/13-omens/ Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: ⁠ @AngoryTom Lydia: https://www.twitch.tv/squidgame Dan: @apocplayers Mara:@HighRollersDnD Trott: @hatfilms Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR1174430906.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4290",
+      "speakers": [
+        "Tom Bates"
+      ],
+      "topics": [
+        "omens"
+      ]
+    },
     {
       "key": "409c31a4fa1477eba0a0e273e65b7c78d50f6680",
       "title": "13 Omens #1",
@@ -3351,6 +3369,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-18 — 13 Omens #2 — speakers: Tom Bates
 - 2026-09-11 — 13 Omens #1 — speakers: Tom Bates
 - 2026-09-09 — Host & Hostility (Trailer) — speakers: Cthulhu Regency, Patrons Learn, Tom Bates
 - 2026-09-04 — Mothership: Decagone #4 — speakers: Tom Bates
