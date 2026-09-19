@@ -2,9 +2,9 @@
 
 - slug: `dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast`
 - source: `https://rss.art19.com/dumbgeons-and-dragons`
-- fetched_at: `2026-08-12T07:55:19+00:00`
-- checked_at: `2026-08-12T07:55:19+00:00`
-- last_modified: `Wed, 12 Aug 2026 07:00:02 GMT`
+- fetched_at: `2026-09-19T11:08:02+00:00`
+- checked_at: `2026-09-19T11:08:02+00:00`
+- last_modified: `Thu, 17 Sep 2026 20:39:33 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -15,9 +15,9 @@
   "source_url": "https://rss.art19.com/dumbgeons-and-dragons",
   "title": "Dumbgeons and Dragons: A funny, rules-light D&D actual play podcast",
   "link": "https://www.dumbdragons.com/",
-  "description": "Dumbgeons & Dragons is a funny, rules-light Dungeons & Dragons actual play podcast where friends tell epic stories full of heart, chaos, and ridiculous choices. Whether you’re new to D&D, just learning the ropes, or a longtime fan who loves a lighthearted adventure, you’ll feel right at home at our table. Campaign 2 (Seasons 3 & 4) begins in the gritty city of Vintersmouth—a place of secrets, schemes, and spontaneous street magic. This season is the perfect place to jump in, with a fresh cast of characters and a mystery that pulls them deep into a city on the edge. Start with Episode 301: Let’s Begin Again! Featuring fast-paced storytelling, character-driven arcs, improv comedy, and zero gatekeeping, Dumbgeons & Dragons is your cozy-but-chaotic fantasy fix. New episodes every Wednesday. Support the show and get bonus episodes at patreon.com/dumbdragoncast More info, recaps, and character bios at dumbdragons.com",
+  "description": "Dumbgeons & Dragons is a funny, rules-light Dungeons & Dragons actual play podcast where friends tell epic stories full of heart, chaos, and ridiculous choices. Whether you’re new to D&D, just learning the ropes, or a longtime fan who loves a lighthearted adventure, you’ll feel right at home at our table. Campaign 2 (Seasons 3 & 4) begins in the gritty city of Vintersmouth—a place of secrets, schemes, and spontaneous street magic. This season is the perfect place to jump in, with a fresh cast of characters and a mystery that pulls them deep into a city on the edge. Start with Episode 301: Let’s Begin Again! Featuring fast-paced storytelling, character-driven arcs, improv comedy, and zero gatekeeping, Dumbgeons & Dragons is your cozy-but-chaotic fantasy fix. New episodes every other Wednesday. Support the show and get bonus episodes at patreon.com/dumbdragoncast Website, Transcripts, and More: dumbdragons.com",
   "image_url": "https://content.production.cdn.art19.com/images/f3/8f/9a/30/f38f9a30-68d2-46ca-87f1-4261dbe574e5/dc447b9659ef194b4fefd29c9bde8d0344f5519fb86dfca67d4122b062044b0c6c10ebfc0dca39f8ec2ecc2b5d2894d6ae621c12620cea9f553a42508c664e65.jpeg",
-  "fetched_at": "2026-08-12T07:55:19+00:00",
+  "fetched_at": "2026-09-19T11:08:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,49 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "930a013eef09944afaff528c54833f50ea795899",
+      "title": "Attendance Room Rumble (Campaign 2 – S4E63)",
+      "published_at": "2026-09-16T06:00:00+00:00",
+      "link": "https://art19.com/shows/dumbgeons-and-dragons/episodes/bce4ff81-32b7-4bee-9e0b-96d685992c39",
+      "description": "In this week's episode... the team begins to explore the mysterious Lingersville Academy. Who has kept it up in the deserted town and what is it's connection, if any, to the fading doorway in the middle of the lake? 🎲 Dumbgeons & Dragons is a beginner-friendly, rules-light actual play podcast where Canadian friends create inclusive D&D adventures full of improv comedy, supportive storytelling, and zero gatekeeping. ✨ Campaign 2 - Perfect for New Listeners: Fresh characters, new world, cozy table vibes that feel like playing with friends who actually want you there. - - - - - - - - - - 💖 SUPPORT THE SHOW 🔥 Join 200+ Patrons for bonus episodes, early access, and exclusive content! → Patreon.com/dumbdragoncast (7-day free trial + merch after 3 months!) - - - - - - - - - - 🛍️ Merch Store: dumbdragons.dashery.com 📱 All Our Links: linktr.ee/dumbdragons - - - - - - - - - - 🎭 CAST & CREW Players: Amy More, Carla Maxted, Tom Laird and Kyle Claset DM: Russ More Dialogue Editing & Sound Design: Russ More Music & Sound Effects: Epidemic Sound, BOOM Library, Sound Ideas Cover Art: Matt Garbutt (@artmonkeymg on Instagram) - - - - - - - - - - 📈 FOR ADVERTISERS & PARTNERS Advertise: fableandfolly.com/advertise See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/3d/47/ce/7c/3d47ce7c-418c-4252-8361-bcd047df95b8/41c0f3a85a1d1580f247d86389a8ee8cdac6feacee41df710a90d5a4959d7bc15d00bdec089415a5c525c6137382aaacfd3fcddf1ad038e531c9a6e485d072c9.jpeg",
+      "enclosure_url": "https://swap.fm/track/WgbGgxzM3MFRwjmX5fnx/op3.dev/e/pscrb.fm/rss/p/rss.art19.com/episodes/bce4ff81-32b7-4bee-9e0b-96d685992c39.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41644617",
+      "itunes_duration": "00:43:22",
+      "speakers": [
+        "Attendance Room Rumble"
+      ],
+      "topics": [
+        "attendance",
+        "room",
+        "rumble",
+        "campaign"
+      ]
+    },
+    {
+      "key": "658ec613ed094eb0c43b010d3a9bf61f5ebc3905",
+      "title": "It's Wet and Gritty in Night City! Listen to Chromeheads & Corpos S1 now!",
+      "published_at": "2026-08-19T23:00:00+00:00",
+      "link": "https://art19.com/shows/dumbgeons-and-dragons/episodes/320186d7-132f-4c70-ba5b-1fd6edcd90dd",
+      "description": "As we are planning our triumphant return with new Dumbgeons & Dragons episodes in September, we're taking a moment to encourage your listenership to Chromeheads & Corpos Season 1, available in entirety now by searching for Facing Fate anywhere podcasts are found! Welcome to Babyok Gardens, the home of characters and the start of our adventure. We spend some time meeting Dino Dinovic, 0b51d14n, Glass and Lollipop as they make arrangements ahead of the apartment potluck tonight. *********** Follow and Listen to Facing Fate: Chromeheads & Corpos by searching for FACING FATE anywhere podcasts are found. *********** Credits: 0b51d14n - Carla Maxted Lollipop - Amy More Dino Dinovic - Russ More Glass - Tom Laird Referee - Kyle Claset Dialogue Editing and Sound Design by Russ More Music & SFX: Chromeheads & Corpos Theme Music - Eli Hamada McIlveen EpidemicSound.com Soundsnap.com Sound Ideas *********** Game System: Cyberpunk RED Story Based: The Apartment Cover Art by KC Bailey *********** Support Us: Visit https://www.Patreon.com/DumbDragonCast . *********** Find and support our sponsors at: fableandfolly.com/partners *********** email - hello@dumbdragons.com Instagram- https://www.instagram.com/facingfatecast See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/dd/5f/bf/01/dd5fbf01-4b8b-49f3-85cd-b3c1b1993312/449b94db5461afa92ee0eae08c6c55ff256157035905dcf0f7f8bd13f64ce156feb40b468834997827c53f39a8c4d01079d7a55bf5e8e7cfb09f924d9e142f7a.jpeg",
+      "enclosure_url": "https://swap.fm/track/WgbGgxzM3MFRwjmX5fnx/op3.dev/e/pscrb.fm/rss/p/rss.art19.com/episodes/320186d7-132f-4c70-ba5b-1fd6edcd90dd.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36621165",
+      "itunes_duration": "00:38:08",
+      "speakers": [
+        "new Dumbgeons"
+      ],
+      "topics": [
+        "gritty",
+        "night",
+        "city",
+        "chromeheads",
+        "corpos"
+      ]
+    },
     {
       "key": "2710b28f13e75e2b3687bcb5875459039a783077",
       "title": "Taking a Path That's Bear-ly There (Campaign 2 – S4E62)",
@@ -532,28 +575,6 @@
         "santa",
         "baby",
         "halloween"
-      ]
-    },
-    {
-      "key": "2b9aeb59dc51aba58e9505c2cdec14280d7148fe",
-      "title": "Introducing Facing Fate: Chromeheads & Corpos",
-      "published_at": "2025-10-15T15:30:00+00:00",
-      "link": "https://art19.com/shows/dumbgeons-and-dragons/episodes/581f6f1a-2c65-446a-bcc2-ec2067fccaf9",
-      "description": "Taking a break from our regularly scheduled programming to bring you the latest release from our OTHER show, Facing Fate! We launched the new season this week, Chromeheads & Corpos. A Cyberpunk RED Actual play referee'd by Kyle! Welcome to Babyok Gardens, the home of characters and the start of our adventure. We spend some time meeting Dino Dinovic, 0b51d14n, Glass and Lollipop as they make arrangements ahead of the apartment potluck tonight. *********** Follow and Listen to Facing Fate: Chromeheads & Corpos by searching for FACING FATE anywhere podcasts are found. *********** Credits: 0b51d14n - Carla Maxted Lollipop - Amy More Dino Dinovic - Russ More Glass - Tom Laird Referee - Kyle Claset Dialogue Editing and Sound Design by Russ More Music & SFX: Chromeheads & Corpos Theme Music - Eli Hamada McIlveen EpidemicSound.com Soundsnap.com Sound Ideas *********** Game System: Cyberpunk RED Story Based: The Apartment Cover Art by KC Bailey *********** Support Us: Visit https://www.Patreon.com/DumbDragonCast . *********** Find and support our sponsors at: fableandfolly.com/partners *********** email - hello@dumbdragons.com Instagram- https://www.instagram.com/facingfatecast See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
-      "image_url": "https://content.production.cdn.art19.com/images/a4/ae/39/f4/a4ae39f4-5ade-4376-a6ad-87a27283eb11/1e13b02e6414188dd2121fb4385010598722068e6d28dbe2df893a27f860ad5e0684d36275ffde643e9f4bdb01873bb6e26a8ac42a8e75ded6f31e8892626707.jpeg",
-      "enclosure_url": "https://swap.fm/track/WgbGgxzM3MFRwjmX5fnx/op3.dev/e/pscrb.fm/rss/p/rss.art19.com/episodes/581f6f1a-2c65-446a-bcc2-ec2067fccaf9.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "33719693",
-      "itunes_duration": "00:35:07",
-      "speakers": [
-        "Introducing Facing Fate",
-        "Corpos Taking"
-      ],
-      "topics": [
-        "facing",
-        "fate",
-        "chromeheads",
-        "corpos"
       ]
     },
     {
@@ -6962,6 +6983,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — Attendance Room Rumble (Campaign 2 – S4E63) — speakers: Attendance Room Rumble
+- 2026-08-19 — It's Wet and Gritty in Night City! Listen to Chromeheads & Corpos S1 now! — speakers: new Dumbgeons
 - 2026-07-22 — Taking a Path That's Bear-ly There (Campaign 2 – S4E62)
 - 2026-07-10 — Are the Trees Alive? (Campaign 2 – S4E61)
 - 2026-06-24 — We're PREPPING for an Adventure! (Campaign 2 – S4E60)
@@ -6988,7 +7011,6 @@
 - 2025-11-05 — Oddities from the Top of a Flag Pole (Campaign 2 - S4E40) — speakers: Folen Varam
 - 2025-10-29 — Nic: Patron Saint of Malibu Condos Pt 2 (feat. Abdul Aziz) (A Santa Baby Halloween Special) — speakers: Abdul Aziz
 - 2025-10-22 — Nic: Patron Saint of Malibu Condos Pt 1 (feat. Abdul Aziz) (A Santa Baby Halloween Special) — speakers: Abdul Aziz
-- 2025-10-15 — Introducing Facing Fate: Chromeheads & Corpos — speakers: Introducing Facing Fate, Corpos Taking
 - 2025-10-08 — Baby's First Leave (Campaign 2 - S4E39) — speakers: behind them
 - 2025-10-01 — Itsy Bitsy Prison Break (feat. Tim Lanning) (Campaign 2 - S4E38) — speakers: Itsy Bitsy Prison Break, Tim Lanning
 - 2025-09-24 — The Great Escape (feat. Tim Lanning) (Campaign 2 - S4E37) — speakers: Tim Lanning

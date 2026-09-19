@@ -146,8 +146,8 @@
       "etag": "\"4897032ceb742832ccad5ea8b88d2d53\""
     },
     "advantage-a-5e-dungeons-dragons-podcast": {
-      "last_checked_at": "2026-09-19T04:43:39+00:00",
-      "last_checked_unix": 1789793024,
+      "last_checked_at": "2026-09-19T11:08:02+00:00",
+      "last_checked_unix": 1789816086,
       "consecutive_failures": 0
     },
     "aint-slayed-nobody-call-of-cthulhu-actual-play": {
@@ -250,14 +250,14 @@
       "etag": "\"djEuMi4wOjE3ODg4ODMyMzk1NTM=\""
     },
     "worlds-beyond-number": {
-      "last_checked_at": "2026-09-19T04:43:39+00:00",
-      "last_checked_unix": 1789793023,
+      "last_checked_at": "2026-09-19T11:08:02+00:00",
+      "last_checked_unix": 1789816085,
       "etag": "\"992dfd0263aadff8b2cccfff00a5289b\"",
       "last_modified": "Tue, 15 Sep 2026 09:00:20 GMT"
     },
     "dndark": {
-      "last_checked_at": "2026-09-19T04:43:39+00:00",
-      "last_checked_unix": 1789793023
+      "last_checked_at": "2026-09-19T11:08:02+00:00",
+      "last_checked_unix": 1789816085
     },
     "dodoborne-a-daggerheart-actual-play-podcast": {
       "last_checked_at": "2026-09-15T05:00:20+00:00",
@@ -285,9 +285,9 @@
       "consecutive_failures": 0
     },
     "dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast": {
-      "last_checked_at": "2026-08-16T09:45:08+00:00",
-      "last_checked_unix": 1786873511,
-      "last_modified": "Wed, 12 Aug 2026 07:00:02 GMT",
+      "last_checked_at": "2026-09-19T11:08:02+00:00",
+      "last_checked_unix": 1789816086,
+      "last_modified": "Thu, 17 Sep 2026 20:39:33 GMT",
       "consecutive_failures": 0
     },
     "flail-to-the-face-a-compatible-with-m-rk-borg-actual-play-podcast": {
@@ -302,8 +302,8 @@
       "consecutive_failures": 0
     },
     "force-majeure-a-star-wars-actual-play-podcast": {
-      "last_checked_at": "2026-09-19T04:43:39+00:00",
-      "last_checked_unix": 1789793023,
+      "last_checked_at": "2026-09-19T11:08:02+00:00",
+      "last_checked_unix": 1789816087,
       "etag": "\"ea45020bf1319b53e780e86d351a9f27\"",
       "last_modified": "Thu, 17 Sep 2026 16:42:52 GMT"
     },
@@ -340,8 +340,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "green-box-gaming": {
-      "last_checked_at": "2026-09-19T04:43:39+00:00",
-      "last_checked_unix": 1789793024,
+      "last_checked_at": "2026-09-19T11:08:02+00:00",
+      "last_checked_unix": 1789816087,
       "etag": "\"5d872b492ca97c2997c09b4df3986345\"",
       "last_modified": "Tue, 08 Sep 2026 13:00:34 GMT"
     },
@@ -409,8 +409,8 @@
       "last_modified": "Sat, 06 Dec 2025 17:09:19 GMT"
     },
     "legendlark": {
-      "last_checked_at": "2026-09-19T04:43:39+00:00",
-      "last_checked_unix": 1789793024,
+      "last_checked_at": "2026-09-19T11:08:02+00:00",
+      "last_checked_unix": 1789816088,
       "etag": "W/\"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ\"",
       "consecutive_failures": 0,
       "last_modified": "Thu, 10 Sep 2026 22:38:54 GMT"
@@ -440,8 +440,8 @@
       "last_modified": "Mon, 02 Mar 2026 20:53:47 GMT"
     },
     "one-shot-onslaught-a-d-d-5e-actual-play-podcast": {
-      "last_checked_at": "2026-09-19T04:43:39+00:00",
-      "last_checked_unix": 1789793024,
+      "last_checked_at": "2026-09-19T11:08:02+00:00",
+      "last_checked_unix": 1789816088,
       "last_modified": "Thu, 30 Jul 2026 14:36:30 GMT"
     },
     "order-of-shana-the-women-running-dungeon-crawl-classics-rpg": {
@@ -463,8 +463,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "archives-fandible-actual-play-podcast": {
-      "last_checked_at": "2026-09-19T04:43:39+00:00",
-      "last_checked_unix": 1789793024,
+      "last_checked_at": "2026-09-19T11:08:02+00:00",
+      "last_checked_unix": 1789816088,
       "etag": "\"a5663a8fb78160412284766b8ed25f73\"",
       "consecutive_failures": 0
     },
@@ -606,8 +606,8 @@
       "consecutive_failures": 0
     },
     "the-damage-guild-a-pathfinder-2e-podcast": {
-      "last_checked_at": "2026-09-19T04:43:39+00:00",
-      "last_checked_unix": 1789793025,
+      "last_checked_at": "2026-09-19T11:08:02+00:00",
+      "last_checked_unix": 1789816088,
       "last_modified": "Mon, 14 Sep 2026 04:01:00 GMT",
       "consecutive_failures": 0
     },
@@ -722,13 +722,13 @@
       "disabled_reason": "3 consecutive failures"
     },
     "we-fix-space-junk": {
-      "last_checked_at": "2026-09-19T04:43:39+00:00",
-      "last_checked_unix": 1789793025,
+      "last_checked_at": "2026-09-19T11:08:02+00:00",
+      "last_checked_unix": 1789816088,
       "last_modified": "Tue, 15 Sep 2026 10:42:52 GMT"
     },
     "who-lives-who-dice": {
-      "last_checked_at": "2026-09-19T04:43:39+00:00",
-      "last_checked_unix": 1789793025,
+      "last_checked_at": "2026-09-19T11:08:02+00:00",
+      "last_checked_unix": 1789816088,
       "etag": "\"38cf2556dc0e6bb49281209eb5974297\"",
       "last_modified": "Sun, 03 May 2026 08:52:08 GMT"
     },
@@ -739,5 +739,5 @@
       "etag": "W/\"b031b-LD7/U/lZqze7YJg7MAgKzhv4Rjg\""
     }
   },
-  "updated_at": "2026-09-19T04:43:39+00:00"
+  "updated_at": "2026-09-19T11:08:02+00:00"
 }
