@@ -3,10 +3,12 @@
 - slug: `who-lives-who-dice`
 - source: `https://feeds.buzzsprout.com/1846541.rss`
 - fetched_at: `2026-05-03T10:17:55+00:00`
-- checked_at: `2026-05-03T10:17:55+00:00`
+- checked_at: `2026-09-19T23:12:03+00:00`
 - etag: `"38cf2556dc0e6bb49281209eb5974297"`
 - last_modified: `Sun, 03 May 2026 08:52:08 GMT`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: <urlopen error [Errno 104] Connection reset by peer>
 
 <!-- FEED_JSON -->
 ```json
@@ -25,7 +27,17 @@
     "ttrpg",
     "actual-play"
   ],
-  "episodes": []
+  "episodes": [],
+  "fetch": {
+    "error_since": "2026-09-19T23:12:03+00:00",
+    "status": "error",
+    "checked_at": "2026-09-19T23:12:03+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "<urlopen error [Errno 104] Connection reset by peer>"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
