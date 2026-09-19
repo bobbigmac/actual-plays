@@ -2,9 +2,9 @@
 
 - slug: `flail-to-the-face-a-compatible-with-m-rk-borg-actual-play-podcast`
 - source: `https://anchor.fm/s/e221626c/podcast/rss`
-- fetched_at: `2026-08-29T01:46:50+00:00`
-- checked_at: `2026-08-29T01:46:50+00:00`
-- etag: `W/"71ecc-r5g08kTRuVcxRe7QwDs9BbmZDao"`
+- fetched_at: `2026-09-19T15:56:36+00:00`
+- checked_at: `2026-09-19T15:56:36+00:00`
+- etag: `W/"73fe2-jdmAXROlxe9azX9K2hyob3LUH2g"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://discord.gg/ye4VzTv9",
   "description": "Flail to the Face is a \"Compatible with Mörk Borg\" Actual Play Podcast, focusing on playing and promoting third party content and their creators.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37838387/37838387-1756395980208-7d45de7e84c02.jpg",
-  "fetched_at": "2026-08-29T01:46:50+00:00",
+  "fetched_at": "2026-09-19T15:56:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "ttrpg/mork-borg"
   ],
   "episodes": [
+    {
+      "key": "63b810726162c43d6541f2b7343bfd77dfc62c97",
+      "title": "Bonus Episode: Into the Meat Pile Pt.1 (w/ Guest Gm Gaffy)",
+      "published_at": "2026-09-18T09:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/flailtotheface/episodes/Bonus-Episode-Into-the-Meat-Pile-Pt-1-w-Guest-Gm-Gaffy-e3op5rt",
+      "description": "In this special bonus episode, Gaffy takes the reigns as a few characters from Season 1 are joined by a few newcomers as they run through the post TPK adventure, From Out of the Meat Pile! Who came back? Who joined them? How did Gaffy get into the Flail studio? Find out as Flail to the Face tries to survive part 1 of this two-part arc! This episode of Flail to the Face features the game From Out of the Meat Pile written by Luis \"Gaffy\" Lopez, art & layout by Johan Nohr, and Editing by Walton Wood With: Thomas Genno-Stume playing Wemet the Catacomb Saint by Makooti Tom Gambino playing Beltha the Lackluster Lich by Tom Gambino Kevin Welch playing Rundle the Lord of Flies by Eduardo Carabano Charles Paschke playing Harmug the Heretical Priest by Pelle Nilsson & Johan Nohr And Special guest Gaffy as Gamemaster Season 2 theme music is Void Construct by Alex Grohl Editing by Kevin Welch Episode art by Tom Gambino Video editing by Dan Finney SFX courtesy of Epidemic Sound & Pixabay. Whispers of the Dying Lands: https://open.spotify.com/show/7yFvPcYtVa2jP5nCI1QqCS?si=a93f011397354f8d HellSpawn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠hellspawnrpg.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ UNIVERSE ZERO: Spotify ⁠https://open.spotify.com/show/0iYPlkUd0S2wN8QddH1a7L?si=s_MhCA83RX2D8P3Asucvqg&utm_source=copy-link&sci=spotify%3Acard-config%3A2EU1OFxmjr5D6i7MG2XXSm⁠ YouTube ⁠https://youtube.com/@gravityfail87?si=JR89AYETAvl7Trpc⁠ Socials instagram and tiktok @universezerottrpg @GravityFail87 everywhere else Shrimp & Crits Podcast: Shrimp and Crits – A Southern Fried Actual Play Podcast ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Find us on whatever social media platform you use: Facebook Twitter Instagram BlueSky #FlailToTheFace #mörkborg #actualplay #podcast #ttrpg #hol #HumanOccupiedLandfill #Hellspawn #shrimp&crits #universezerottrpg",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37838387/37838387-1789694932784-62f23af698c72.jpg",
+      "enclosure_url": "https://anchor.fm/s/e221626c/podcast/play/125654333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-13%2Fb97998c4-3fbd-7b05-008c-57fd2ef59006.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "122268167",
+      "itunes_duration": "01:20:28",
+      "speakers": [
+        "Guest Gm Gaffy"
+      ],
+      "topics": [
+        "meat",
+        "pile",
+        "guest",
+        "gaffy"
+      ]
+    },
     {
       "key": "39e93329b3924106025850a8f593dbd9a707cfa7",
       "title": "Season Two, Episode Thirteen: Clockin' Out",
@@ -1225,6 +1246,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-18 — Bonus Episode: Into the Meat Pile Pt.1 (w/ Guest Gm Gaffy) — speakers: Guest Gm Gaffy
 - 2026-08-28 — Season Two, Episode Thirteen: Clockin' Out — speakers: Season Two
 - 2026-08-07 — Season Two, Episode Twelve: Payable On Death
 - 2026-07-17 — Season Two, Episode Eleven: T.G.I.F. — speakers: than just
