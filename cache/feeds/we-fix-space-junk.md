@@ -2,9 +2,9 @@
 
 - slug: `we-fix-space-junk`
 - source: `https://feeds.megaphone.fm/wefixspacejunk`
-- fetched_at: `2026-09-15T11:51:25+00:00`
-- checked_at: `2026-09-15T11:51:25+00:00`
-- last_modified: `Tue, 15 Sep 2026 10:42:52 GMT`
+- fetched_at: `2026-09-20T11:32:34+00:00`
+- checked_at: `2026-09-20T11:32:34+00:00`
+- last_modified: `Sun, 20 Sep 2026 11:06:25 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://battlebird.productions",
   "description": "'We Fix Space Junk' follows seasoned smuggler Kilner and reluctant fugitive Samantha as they travel the galaxy, dodging bullets and meeting strange and wonderful beings as they carry out odd jobs on the fringes of the law. A female-led sci-fi comedy sitcom set in the far future, in a high-tech, dystopian world, We Fix Space Junk draws on the sci-fi of the past, following in the footsteps of Harry Harrison and of Douglas Adams' Hitchhiker's Guide to the Galaxy. Equal parts love-letter to sci-fi and satire of the present-day, Space Junk is lovingly produced by Beth Crane and Hedley Knights of Battle Bird Productions. To support the show visit patreon.com/BattleBirdProd or visit Battlebird.productions",
   "image_url": "https://megaphone.imgix.net/podcasts/8c376dd8-0f0d-11ec-8651-57ea866800e0/image/8d5a72f1090250cbefae2050b1329e32fb962b991327db690dac1bffa8d2ba047cdd30974dd1f9bdc451659cd75d302dfd61aded64e62bb1377d9d88df6be606.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-15T11:51:25+00:00",
+  "fetched_at": "2026-09-20T11:32:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "fiction/audiobook"
   ],
   "episodes": [
+    {
+      "key": "325ca93637c0a3c19d3d9eb398c53bd0bebc95a2",
+      "title": "Introducing... Two Flat Earthers Kidnap a Freemason!",
+      "published_at": "2026-09-20T11:00:00+00:00",
+      "link": null,
+      "description": "Hello! We’re gradually recovering from our live show, and in the meantime wanted to share a show by some good friends of ours. Good Pointe Podcasts create a whole bunch of shows we love, including Two Flat Earthers Kidnap a Freemason - starring DAX, AKA Jack Carmichael! Two Flat Earthers Kidnap a Freemason is a satirical dark comedy about secret societies and conspiracy culture. Randy Dunning and Gayle Kruger will do anything to make the next great viral video. They’ll even kidnap a Freemason and keep him locked in their basement until he tells them what the masons are really doing behind closed doors. As well as our very own Jack Carmichael, Two Flat Earthers stars a whole host of audio drama talent, including Zane Schacht from Less is Morgue, Lauren Grace Thompson from The Harbingers, Matthew Woodcock from The Monster Hunters and Addison Peacock from The NoSleep Podcast. Two Flat Earthers Kidnap a Freemason was written, edited and created by Jeremy Ellett of Good Pointe Podcasts, and on the same feed you’ll find several other amazing dark comedies like Christmas Diner and The One Stars (which is also a big favourite of ours!). Listen on for the first episode of Two Flat Earthers Kidnap a Freemason! And if you want to subscribe, you can find it wherever you get your podcasts. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/bd67beac-b0ee-11f1-a39e-f7a2ecc9b09e/image/5e21361669dacfcf90ccf2937d22b82f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO3914500379.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2286",
+      "speakers": [
+        "Two Flat Earthers Kidnap"
+      ],
+      "topics": [
+        "flat",
+        "earthers",
+        "kidnap",
+        "freemason"
+      ]
+    },
     {
       "key": "15818469db4ae9576335add8d1e377fca94089bc",
       "title": "Introducing... Mockery Manor!",
@@ -1619,6 +1640,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-20 — Introducing... Two Flat Earthers Kidnap a Freemason! — speakers: Two Flat Earthers Kidnap
 - 2026-08-24 — Introducing... Mockery Manor! — speakers: Lindsay Sharma
 - 2026-08-10 — Introducing... The Strata
 - 2026-08-05 — Introducing... Jack Valentine, Vampire Detective — speakers: Jack Valentine, Vampire Detective
