@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-09-21T12:57:15+00:00`
-- checked_at: `2026-09-21T12:57:15+00:00`
-- etag: `"djEuMi4wOjE3ODk5ODgzMDA0NDY="`
+- fetched_at: `2026-09-21T20:01:02+00:00`
+- checked_at: `2026-09-21T20:01:02+00:00`
+- etag: `"djEuMi4wOjE3OTAwMDI4MzkzNzg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-09-21T12:57:15+00:00",
+  "fetched_at": "2026-09-21T20:01:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "930b1e1a9b697959e2d70ea36f9c7d2c423ebaf8",
+      "title": "Campaign 2: Episode 199 - Kaiju, Perfected 3",
+      "published_at": "2026-09-21T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-199-kaiju-perfected-3",
+      "description": "As the dust settles, somehow our heroes have found themselves victorious against the OT. Who will now dictate the governance of the realm? What secrets between comrades remain untold? Where is Stephanie, R'Oarc's skeletal hand companion? Why does Ratma refuse the clamorous demands for her stewardship over the city? When will Leo Von Esper attend rehab? The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by Zack Meyman ! Want the world to see your fan art? Post it with #DrunksAndDoodles . Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1789987963185-74e2e2bb-5418-43d2-9b92-59599993b888.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6ab10dcc119942cbe11d5edf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102942677",
+      "itunes_duration": "1:11:28",
+      "speakers": [],
+      "topics": [
+        "campaign",
+        "kaiju"
+      ]
+    },
     {
       "key": "ec7bbb64d6b107dd3e83787a187a0d7ec21fe1d5",
       "title": "Campaign 2: Episode 198 - Kaiju, Perfected 2",
@@ -12648,6 +12665,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-21 — Campaign 2: Episode 199 - Kaiju, Perfected 3
 - 2026-09-14 — Campaign 2: Episode 198 - Kaiju, Perfected 2
 - 2026-09-07 — Campaign 2: Episode 197 - Kaiju, Perfected
 - 2026-08-31 — Campaign 2: Bonus Episode - Floor Cuttings — speakers: Floor Cuttings
