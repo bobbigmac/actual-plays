@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-09-14T05:03:46+00:00`
-- checked_at: `2026-09-14T05:03:46+00:00`
-- last_modified: `Mon, 14 Sep 2026 04:05:00 GMT`
+- fetched_at: `2026-09-21T05:04:39+00:00`
+- checked_at: `2026-09-21T05:04:39+00:00`
+- last_modified: `Mon, 21 Sep 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-09-14T05:03:46+00:00",
+  "fetched_at": "2026-09-21T05:04:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "00626f8e4244be5bf26aff5ac973fe87c59e23e4",
+      "title": "Guilt of the Grave World | 032: The Great Eoxian Bake Off",
+      "published_at": "2026-09-21T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-032-the-great-eoxian-bake-off/",
+      "description": "In the last segment of Sabotage Souffle the party prepares to cook and serve their food for the competition’s secret celebrity guest. Will they be able to put aside their differences and eek out a win for the Nova Rush or will their competitive streak get the best of them in this test kitchen? Find out on this week’s episode of Eox’s favorite podcast “Cosmic Crit”!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3852/guilt-of-the-grave-world-032-the-great-eoxian-bake-off.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73534255",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Grave World",
+        "Sabotage Souffle"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "eoxian",
+        "bake"
+      ]
+    },
     {
       "key": "e08b5ac339bd13d49dedae94fb0ca7999f377cbc",
       "title": "Guilt of the Grave World | 031: Two Broke Grills",
@@ -9250,6 +9273,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-21 — Guilt of the Grave World | 032: The Great Eoxian Bake Off — speakers: Grave World, Sabotage Souffle
 - 2026-09-14 — Guilt of the Grave World | 031: Two Broke Grills — speakers: Grave World, Sabotage Souffle Eoxian
 - 2026-09-07 — Guilt of the Grave World | 030: Fast Food Alienation
 - 2026-08-31 — Guilt of the Grave World | 029: Teen Laser Wolf
