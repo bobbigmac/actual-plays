@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-09-08T16:42:24+00:00`
-- checked_at: `2026-09-08T16:42:24+00:00`
-- etag: `"djEuMi4wOjE3ODg4ODMyMzk1NTM="`
+- fetched_at: `2026-09-22T17:01:51+00:00`
+- checked_at: `2026-09-22T17:01:51+00:00`
+- etag: `"djEuMi4wOjE3OTAwOTI4Mzk0NjU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-09-08T16:42:24+00:00",
+  "fetched_at": "2026-09-22T17:01:51+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -32,6 +32,29 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "eee8a1af1a398fa70024c39970c6b0986c2a1b28",
+      "title": "S4 Ep. 17 - Holes (I’m Tired of This, Grandpa)",
+      "published_at": "2026-09-22T16:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "how do bombs work This episode contains Profanity, Violence, and Sexual Content. 🚨🚨Did you know that September 13th was Grandparents Day? To celebrate, we've dropped some new Season 4 merch and we're having a sale!🚨🚨 Now through Sunday 9/27, head to our store to grab Dale's You Are Here shirt, new Sons and Sonsability stickers and pins, and dig into discounts on our previous season collections. Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1790045183834-4bbfc469-37dd-48f6-8b48-1816b197dc8c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/6ab1ed5ef9e04b2235453009/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91985929",
+      "itunes_duration": "1:03:22",
+      "speakers": [
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "holes",
+        "grandpa"
+      ]
+    },
     {
       "key": "90288beb08d1cc495f68ba999c7dda2c0bc85aba",
       "title": "S4 Ep. 16 - 4 Hangry Men",
@@ -4910,6 +4933,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-22 — S4 Ep. 17 - Holes (I’m Tired of This, Grandpa) — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-09-08 — S4 Ep. 16 - 4 Hangry Men — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-08-25 — S4 Ep. 15 - Alien vs Spredditor — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-08-11 — S4 Ep. 14 - The Most Dangerous Midway Game — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
