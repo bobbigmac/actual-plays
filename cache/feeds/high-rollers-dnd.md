@@ -2,9 +2,9 @@
 
 - slug: `high-rollers-dnd`
 - source: `https://feeds.megaphone.fm/NSR8625352094`
-- fetched_at: `2026-09-17T11:49:21+00:00`
-- checked_at: `2026-09-17T11:49:21+00:00`
-- last_modified: `Thu, 17 Sep 2026 07:06:41 GMT`
+- fetched_at: `2026-09-22T11:47:00+00:00`
+- checked_at: `2026-09-22T11:47:00+00:00`
+- last_modified: `Tue, 22 Sep 2026 11:23:05 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -15,9 +15,9 @@
   "source_url": "https://feeds.megaphone.fm/NSR8625352094",
   "title": "High Rollers DnD",
   "link": "http://highrollersdnd.libsyn.com/website",
-  "description": "Welcome to High Rollers, a live-play Dungeons & Dragons podcast! Join Dungeon Master Mark Hulmes and his players as they explore Altheya: The Dragon Empire on Europe's biggest independent TTRPG stream. Episodes go live Tuesdays and Thursdays, or watch live every Sunday at 5pm UK Time on twitch.tv/highrollersdnd or youtube.com/highrollersdnd!",
+  "description": "Welcome to High Rollers, a live-play Dungeons & Dragons podcast! Join Dungeon Master Mara Holmes and his players as they explore Altheya: The Dragon Empire on Europe's biggest independent TTRPG stream. Episodes go live Tuesdays and Thursdays, or watch live every Sunday at 5pm UK Time on twitch.tv/highrollersdnd or youtube.com/highrollersdnd!",
   "image_url": "https://megaphone.imgix.net/podcasts/b072907c-ca95-11eb-b4a3-f71bfb3de22d/image/PodcastV1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-17T11:49:21+00:00",
+  "fetched_at": "2026-09-22T11:47:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
