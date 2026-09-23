@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-09-21T05:04:39+00:00`
-- checked_at: `2026-09-21T05:04:39+00:00`
-- etag: `"56186e7519d248fbe023832038511327"`
-- last_modified: `Sun, 20 Sep 2026 23:35:56 GMT`
+- fetched_at: `2026-09-23T21:34:05+00:00`
+- checked_at: `2026-09-23T21:34:05+00:00`
+- etag: `"2c3fa1dedbca9d6addfb956595dbacc5"`
+- last_modified: `Wed, 23 Sep 2026 18:27:53 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! linktr.ee/albertthellama",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-09-21T05:04:39+00:00",
+  "fetched_at": "2026-09-23T21:34:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
