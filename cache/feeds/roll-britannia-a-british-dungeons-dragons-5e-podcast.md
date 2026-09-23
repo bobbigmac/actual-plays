@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-09-16T11:44:40+00:00`
-- checked_at: `2026-09-16T11:44:40+00:00`
-- etag: `"djEuMi4wOjE3ODk1NDI1MjMyOTU="`
+- fetched_at: `2026-09-23T11:46:32+00:00`
+- checked_at: `2026-09-23T11:46:32+00:00`
+- etag: `"djEuMi4wOjE3OTAxNDY4Mzk2MTY="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-09-16T11:44:40+00:00",
+  "fetched_at": "2026-09-23T11:46:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "39ac84827c929a0841a06488bf9e9f087d8ba2e2",
+      "title": "Ep. 348: Age of Astra - Where On Earth Did I Park My Bloody Ship! | #DND",
+      "published_at": "2026-09-23T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this extended Dungeons and Dragons finale, the mission to Valtbury reaches its end, but returning home doesn’t mean leaving its consequences behind. Deep beneath a world built on order, the agents have uncovered something that reaches far beyond one laboratory, one prisoner, or even one planet. As the final Dice fall, evidence is secured, friendships are tested, and the line between following ASTRA protocol and doing what feels right becomes dangerously difficult to see. With one agent remaining behind, another carrying wounds that cannot be easily explained, and a senior officer facing questions about decisions made in the field, the Pax Astra awaits their return. But in this DnD story, saving lives and completing the mission are not necessarily the same thing — and some victories come with paperwork no one wants to file. The assignment may be over, but Valtbury has changed them. Secrets remain amongst the stars, difficult choices have left their mark, and somewhere beyond ASTRA’s reach, unanswered questions suggest this story might not be quite as finished as it appears. Who was really pulling the strings beyond Valtbury? What consequences await the agents back aboard the Pax Astra? And when the next distress call arrives, will they still be the same agents who answered the first? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patch ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Sig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ivan ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Snik ), James ( Albert T Bungle ) led by DM Sophie ( The Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1789935180218-6c79f958-fcfe-417a-a107-172fc7456586.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6ab03f0fba9b1fc06f0a1807/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "142674395",
+      "itunes_duration": "59:24",
+      "speakers": [],
+      "topics": [
+        "astra",
+        "earth",
+        "bloody",
+        "ship"
+      ]
+    },
     {
       "key": "9024b34f604e9052708a7117a1c46bc331ac67bd",
       "title": "Ep. 347: Age of Astra - Embrace Your Anger | #DND",
@@ -8102,6 +8121,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-23 — Ep. 348: Age of Astra - Where On Earth Did I Park My Bloody Ship! | #DND
 - 2026-09-16 — Ep. 347: Age of Astra - Embrace Your Anger | #DND
 - 2026-09-09 — Ep. 346: Age of Astra - It's About To Get Busier | #DND
 - 2026-09-02 — Ep. 345: Age of Astra - We Are Currently Subterranean | #DND
