@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-09-22T21:24:24+00:00`
-- checked_at: `2026-09-22T21:24:24+00:00`
-- etag: `"61b1b6f9586186449bc1003580600c16"`
+- fetched_at: `2026-09-23T04:51:42+00:00`
+- checked_at: `2026-09-23T04:51:42+00:00`
+- etag: `"4be05263100c48d34e78cb362e3203f0"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-09-22T21:24:24+00:00",
+  "fetched_at": "2026-09-23T04:51:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "af2806438601c914a1803067087038901ee17090",
+      "title": "Rust Buckets: Familiar Flesh part 1",
+      "published_at": "2026-09-22T21:38:23+00:00",
+      "link": "https://fandible.com/rust-buckets-familiar-flesh-part-1/",
+      "description": "In a future burned by nuclear fire, humanities former servants must now become their saviors. The post Rust Buckets: Familiar Flesh part 1 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/461_RB_FamiliarFlesh/Fan_818_RB_FamiliarFleshpart1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34418239",
+      "itunes_duration": "35:45",
+      "speakers": [
+        "Rust Buckets",
+        "Familiar Flesh"
+      ],
+      "topics": [
+        "rust",
+        "bucket",
+        "familiar",
+        "flesh"
+      ]
+    },
     {
       "key": "b07ee83ae541099607af02c7dad64dae2814ef6b",
       "title": "Dungeons & Dragons: The Long Road part 4",
@@ -11371,23 +11393,6 @@
         "zombies",
         "super"
       ]
-    },
-    {
-      "key": "0237a16680bb817b3b85a3d6a6c7be0046b0cdb7",
-      "title": "Paranoia: I’ll See You At Disneyland",
-      "published_at": "2016-09-16T14:33:59+00:00",
-      "link": "https://fandible.com/paranoia-ill-see-disneyland/",
-      "description": "Four troubleshooters must complete the greatest mission of their miserable lives. Replace a light bulb and not die horribly in the process. The post Paranoia: I’ll See You At Disneyland appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/193_P_IllSeeYouAtDisneyland/Fan_314_IllSeeYouAtDisneyland.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "69911647",
-      "itunes_duration": "2:24:28",
-      "speakers": [],
-      "topics": [
-        "paranoia",
-        "disneyland"
-      ]
     }
   ]
 }
@@ -11396,6 +11401,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-22 — Rust Buckets: Familiar Flesh part 1 — speakers: Rust Buckets, Familiar Flesh
 - 2026-09-15 — Dungeons & Dragons: The Long Road part 4
 - 2026-09-01 — Dungeons & Dragons: The Long Road part 3
 - 2026-08-19 — Dungeons & Dragons: The Long Road part 2
@@ -11995,4 +12001,3 @@
 - 2016-10-07 — Chronicles of Darkness: Venerable Light
 - 2016-09-30 — Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 2 of 2 — speakers: Scary Zombies
 - 2016-09-23 — Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 1 of 2 — speakers: Scary Zombies
-- 2016-09-16 — Paranoia: I’ll See You At Disneyland
