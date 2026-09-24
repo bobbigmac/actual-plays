@@ -2,9 +2,9 @@
 
 - slug: `high-rollers-dnd`
 - source: `https://feeds.megaphone.fm/NSR8625352094`
-- fetched_at: `2026-09-22T17:01:51+00:00`
-- checked_at: `2026-09-22T17:01:51+00:00`
-- last_modified: `Tue, 22 Sep 2026 12:07:59 GMT`
+- fetched_at: `2026-09-24T11:55:13+00:00`
+- checked_at: `2026-09-24T11:55:13+00:00`
+- last_modified: `Thu, 24 Sep 2026 07:12:58 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://highrollersdnd.libsyn.com/website",
   "description": "Welcome to High Rollers, a live-play Dungeons & Dragons podcast! Join Dungeon Master Mara Holmes and his players as they explore Altheya: The Dragon Empire on Europe's biggest independent TTRPG stream. Episodes go live Tuesdays and Thursdays, or watch live every Sunday at 5pm UK Time on twitch.tv/highrollersdnd or youtube.com/highrollersdnd!",
   "image_url": "https://megaphone.imgix.net/podcasts/b072907c-ca95-11eb-b4a3-f71bfb3de22d/image/PodcastV1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-22T17:01:51+00:00",
+  "fetched_at": "2026-09-24T11:55:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "5a87f269e2c628b80c8bf1cdc61059f4e98e03d5",
+      "title": "Ascension Alleycats vs Frosthill Foxes | Altheya: The Dragon Empire #119 (Part 2)",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "link": null,
+      "description": "The Ascension Alleycats face off against the Frosthill Foxes in match 1 of the Hatchball championship! How well has Gruff's coaching paid off? Can't wait for Part 2 of each episode? Join our Patreon to get early access EVERY week (+ a few other bonuses)! www.patreon.com/HighRollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2511210958.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5718",
+      "speakers": [
+        "Frosthill Foxes"
+      ],
+      "topics": [
+        "ascension",
+        "alleycats",
+        "frosthill",
+        "foxes",
+        "altheya",
+        "dragon",
+        "empire"
+      ]
+    },
     {
       "key": "56c091f1faa8fdbc04a8acb703e96e209f6560e7",
       "title": "Ascension Alleycats vs Frosthill Foxes | Altheya: The Dragon Empire #119 (Part 1)",
@@ -15109,6 +15133,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-24 — Ascension Alleycats vs Frosthill Foxes | Altheya: The Dragon Empire #119 (Part 2) — speakers: Frosthill Foxes
 - 2026-09-22 — Ascension Alleycats vs Frosthill Foxes | Altheya: The Dragon Empire #119 (Part 1) — speakers: Frosthill Foxes
 - 2026-09-17 — Breakers of the Curse | Altheya: The Dragon Empire #118 (Part 2)
 - 2026-09-15 — Breakers of the Curse | Altheya: The Dragon Empire #118 (Part 1)
