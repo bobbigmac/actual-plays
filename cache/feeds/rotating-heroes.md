@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-09-18T11:24:12+00:00`
-- checked_at: `2026-09-18T11:24:12+00:00`
-- etag: `W/"164215d7c98b1fddecf16f0cd018e6a1"`
-- last_modified: `Fri, 18 Sep 2026 09:00:00 GMT`
+- fetched_at: `2026-09-25T11:57:08+00:00`
+- checked_at: `2026-09-25T11:57:08+00:00`
+- etag: `W/"5f949ffe7a21aae9ba74d8887fbcc87c"`
+- last_modified: `Fri, 25 Sep 2026 09:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,33 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-09-18T11:24:12+00:00",
+  "fetched_at": "2026-09-25T11:57:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "dfc8349de52487be92520ee478b1a05993844aad",
+      "title": "Axis Arc 4 Ep 2 - Employee of the Month PART 1",
+      "published_at": "2026-09-25T09:00:00+00:00",
+      "link": "https://audioboom.com/posts/8952399",
+      "description": "In a bid to write her wrongs Tundra calls into a radio show for some advice on how to make things right again. --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code TUNDRA50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! If you haven't checked it out in a while why not also head on over to our merch store , it's getting a revamp soon so this might be your last chance to grab some of the current designs we have in stock! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
+      "image_url": "https://audioboom.com/i/43833898.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8952399.mp3?modified=1789378545&sid=5167570&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3688",
+      "speakers": [
+        "Axis Arc"
+      ],
+      "topics": [
+        "axis",
+        "employee",
+        "month"
+      ]
+    },
     {
       "key": "628e9d37f48012cc9f766d1c7ae453ef5d0ec984",
       "title": "Axis Arc 4 Ep 1 - The Second Great Spa Heist PART 2",
@@ -2987,6 +3007,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-25 — Axis Arc 4 Ep 2 - Employee of the Month PART 1 — speakers: Axis Arc
 - 2026-09-18 — Axis Arc 4 Ep 1 - The Second Great Spa Heist PART 2 — speakers: Aully Flash
 - 2026-09-11 — Axis Arc 4 Ep 1 - The Second Great Spa Heist PART 1 — speakers: Aully Flash
 - 2026-09-04 — Axis Arc 3 Ep 5 - Arc Bark FULL EPISODE — speakers: Axis Arc, Arc Bark
