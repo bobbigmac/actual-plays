@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-09-23T04:51:42+00:00`
-- checked_at: `2026-09-27T05:24:34+00:00`
-- etag: `"4be05263100c48d34e78cb362e3203f0"`
+- fetched_at: `2026-09-27T21:25:08+00:00`
+- checked_at: `2026-09-27T21:25:08+00:00`
+- etag: `"d8b9c1702882915a1135e44ab2035546"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-09-23T04:51:42+00:00",
+  "fetched_at": "2026-09-27T21:25:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "14fc815c333707c2a2adf98c32dccf784b8e1126",
+      "title": "Rust Buckets: Familiar Flesh part 2",
+      "published_at": "2026-09-27T20:24:42+00:00",
+      "link": "https://fandible.com/rust-buckets-familiar-flesh-part-2/",
+      "description": "The Robots head to the nest and face all the wonderful and deadly things the wasteland has to offer. The post Rust Buckets: Familiar Flesh part 2 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/461_RB_FamiliarFlesh/Fan_819_RB_FamiliarFleshpart2.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34892433",
+      "itunes_duration": "37:12",
+      "speakers": [
+        "Rust Buckets",
+        "Familiar Flesh"
+      ],
+      "topics": [
+        "rust",
+        "bucket",
+        "familiar",
+        "flesh"
+      ]
+    },
     {
       "key": "af2806438601c914a1803067087038901ee17090",
       "title": "Rust Buckets: Familiar Flesh part 1",
@@ -11371,28 +11393,6 @@
         "zombies",
         "super"
       ]
-    },
-    {
-      "key": "d2e761da81c264f0c0f36cfa35d33a08e3ca1cd4",
-      "title": "Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 1 of 2",
-      "published_at": "2016-09-23T14:53:42+00:00",
-      "link": "https://fandible.com/rotted-capes-ep-11-scary-zombies-super-zs-1-2/",
-      "description": "Finally leaving their patriotic enslavement, the two super powered survivors encounter some rather unique help. Intro Music: Hitman by Kevin Macleod Rotted Capes Episodes Other Games The post Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 1 of 2 appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/194_RC_ScaryZombiesAndSuperZs/Fan_315_RC_ScaryZombiesAndSuperZs1of2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "46099248",
-      "itunes_duration": "1:34:51",
-      "speakers": [
-        "Scary Zombies"
-      ],
-      "topics": [
-        "rotted",
-        "capes",
-        "scary",
-        "zombies",
-        "super"
-      ]
     }
   ]
 }
@@ -11401,6 +11401,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-27 — Rust Buckets: Familiar Flesh part 2 — speakers: Rust Buckets, Familiar Flesh
 - 2026-09-22 — Rust Buckets: Familiar Flesh part 1 — speakers: Rust Buckets, Familiar Flesh
 - 2026-09-15 — Dungeons & Dragons: The Long Road part 4
 - 2026-09-01 — Dungeons & Dragons: The Long Road part 3
@@ -12000,4 +12001,3 @@
 - 2016-10-14 — Final Girl: No Vacancy — speakers: Final Girl, No Vacancy Imaginary
 - 2016-10-07 — Chronicles of Darkness: Venerable Light
 - 2016-09-30 — Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 2 of 2 — speakers: Scary Zombies
-- 2016-09-23 — Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 1 of 2 — speakers: Scary Zombies
