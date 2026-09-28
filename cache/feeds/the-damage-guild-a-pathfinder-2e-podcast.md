@@ -2,9 +2,9 @@
 
 - slug: `the-damage-guild-a-pathfinder-2e-podcast`
 - source: `https://www.thedamageguild.com/feed/podcast2`
-- fetched_at: `2026-09-14T05:03:46+00:00`
-- checked_at: `2026-09-14T05:03:46+00:00`
-- last_modified: `Mon, 14 Sep 2026 04:01:00 GMT`
+- fetched_at: `2026-09-28T05:31:57+00:00`
+- checked_at: `2026-09-28T05:31:57+00:00`
+- last_modified: `Mon, 28 Sep 2026 04:01:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedamageguild.com",
   "description": "Do you like jokes, adventure, killing things, and friendship? Of course you do! The Damage Guild is an actual-play Pathfinder 2nd Edition (PF2E) podcast with a focus on collaborative storytelling, character-driven narrative, and improv comedy shenanigans, delivered in a family-friendly style and set in a homebrew world. Join us for new episodes every other Monday, so you can kiss those weekend blues goodbye and get pumped to slay the dragon of your everyday life!",
   "image_url": "https://thedamageguild.com/wp-content/uploads/dgp_pf2e_podcast_artwork.jpg",
-  "fetched_at": "2026-09-14T05:03:46+00:00",
+  "fetched_at": "2026-09-28T05:31:57+00:00",
   "owners": [
     "Sean Abrams",
     "Thayne Bohman",
@@ -31,6 +31,28 @@
     "ttrpg/pathfinder"
   ],
   "episodes": [
+    {
+      "key": "f353aaf953fdb10f53769fc0b981ca106e1ddd22",
+      "title": "Episode 57 – The Fellowship of the Wing",
+      "published_at": "2026-09-28T04:01:00+00:00",
+      "link": "https://thedamageguild.com/pf2e-episodes/episode-57-2/",
+      "description": "Strange events follow a devastating collision with a new landmass. Moss provides his protection. Zara encounters a new culture. Kardain makes a dreadful prediction .",
+      "image_url": null,
+      "enclosure_url": "https://media.blubrry.com/damageguild/media.blubrry.com/3739398/mc.blubrry.com/3739398/dgp_pf2e_episode57.mp3?awCollectionId=3739398&awEpisodeId=12166000&aw_0_azn.pgenre=Leisure&aw_0_1st.ri=blubrry&aw_0_azn.pcountry=US&aw_0_azn.planguage=en-us&cat_exclude=IAB1-8%2CIAB1-9%2CIAB7-41%2CIAB8-5%2CIAB8-18%2CIAB11-4%2CIAB23%2CIAB24%2CIAB25%2CIAB26&aw_0_cnt.rss=https%3A%2F%2Fwww.thedamageguild.com%2Ffeed%2Fpodcast2",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59798719",
+      "itunes_duration": "1:02:17",
+      "speakers": [
+        "Sean Abrams",
+        "Thayne Bohman",
+        "Bryan Staudt",
+        "Jay Staudt"
+      ],
+      "topics": [
+        "fellowship",
+        "wing"
+      ]
+    },
     {
       "key": "79f129866226dbc4b4438b71f9725f66d806a959",
       "title": "Episode 56 – To Herb is Human; to Forage, Divine",
@@ -1282,6 +1304,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-28 — Episode 57 – The Fellowship of the Wing — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-09-14 — Episode 56 – To Herb is Human; to Forage, Divine — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-08-31 — Episode 55 – From Rags to Rituals — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-08-17 — Episode 54 – Who’s the Moss? — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt

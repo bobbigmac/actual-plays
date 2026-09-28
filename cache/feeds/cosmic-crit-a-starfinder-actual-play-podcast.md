@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-09-21T05:04:39+00:00`
-- checked_at: `2026-09-21T05:04:39+00:00`
-- last_modified: `Mon, 21 Sep 2026 04:05:00 GMT`
+- fetched_at: `2026-09-28T05:31:57+00:00`
+- checked_at: `2026-09-28T05:31:57+00:00`
+- last_modified: `Mon, 28 Sep 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-09-21T05:04:39+00:00",
+  "fetched_at": "2026-09-28T05:31:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "0dd456b349872f2151746f46974d2f11b907351b",
+      "title": "Guilt of the Grave World | 033: Real Hoardwives of Triaxus",
+      "published_at": "2026-09-28T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-033-real-hoardwives-of-triaxus/",
+      "description": "The next filming for Zo! Media Productions comes in the form of Eox’s favorite form of internet entertainment and thats Trashy Reality Television. Can the crew play their roles in a Draconic Feud or will they be Draconic Food? Find out on this week’s episode of “Real Hoardwives of Triaxus” (aka Cosmic Crit).",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3854/guilt-of-the-grave-world-033-real-hoardwives-of-triaxus.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73524543",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Grave World",
+        "Real Hoardwives",
+        "Media Productions"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "hoardwives",
+        "triaxus"
+      ]
+    },
     {
       "key": "00626f8e4244be5bf26aff5ac973fe87c59e23e4",
       "title": "Guilt of the Grave World | 032: The Great Eoxian Bake Off",
@@ -9273,6 +9297,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-28 — Guilt of the Grave World | 033: Real Hoardwives of Triaxus — speakers: Grave World, Real Hoardwives, Media Productions
 - 2026-09-21 — Guilt of the Grave World | 032: The Great Eoxian Bake Off — speakers: Grave World, Sabotage Souffle
 - 2026-09-14 — Guilt of the Grave World | 031: Two Broke Grills — speakers: Grave World, Sabotage Souffle Eoxian
 - 2026-09-07 — Guilt of the Grave World | 030: Fast Food Alienation
