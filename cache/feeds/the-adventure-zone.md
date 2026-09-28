@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-09-17T11:49:21+00:00`
-- checked_at: `2026-09-17T11:49:21+00:00`
-- etag: `"94eb26546e963550a5ad25cb3bd377bb"`
-- last_modified: `Thu, 17 Sep 2026 11:00:17 GMT`
+- fetched_at: `2026-09-28T21:15:59+00:00`
+- checked_at: `2026-09-28T21:15:59+00:00`
+- etag: `"224837654cdc795bf713f61c2385f828"`
+- last_modified: `Mon, 28 Sep 2026 16:30:17 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-09-17T11:49:21+00:00",
+  "fetched_at": "2026-09-28T21:15:59+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ad28cf6af886275d0b6904c75f5118c8f486de45",
+      "title": "The Adventure Zone: Providence Trailer",
+      "published_at": "2026-09-28T16:30:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-providence-trailer-Ittp_2dX",
+      "description": "Three unassuming gods pop into a small New England town, pretending to be mortals, to investigate potential magical interference. Should be easy, right? Only the town is not quite what it seems and its strange inhabitants harbor secrets . . . Join us for The Adventure Zone: Providence, a 6-episode series using Super Normal from Ursidice: https://ursidice.com/supernormal/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
+      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/17c91aa0-269d-4feb-a5b7-041136373ae3/3000x3000/cropped_1790612560819.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/2585e854-afac-4a96-8b39-05c00d12a900/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=2585e854-afac-4a96-8b39-05c00d12a900&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "11591383",
+      "itunes_duration": "00:01:52",
+      "speakers": [
+        "New England"
+      ],
+      "topics": [
+        "adventure",
+        "zone",
+        "providence"
+      ]
+    },
     {
       "key": "9e630a4c85a3a1c489af135a4bc6c371a9f132e9",
       "title": "The Adventure Zone Versus The Wonderful Wizard of Oz: Live in St. Paul!",
@@ -8145,6 +8165,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-28 — The Adventure Zone: Providence Trailer — speakers: New England
 - 2026-09-17 — The Adventure Zone Versus The Wonderful Wizard of Oz: Live in St. Paul! — speakers: Good Witch
 - 2026-09-03 — The Adventure Zone Versus Hercules: Live in Austin!
 - 2026-08-20 — The The Adventure Zone Zone: Royale Wrap-Up! — speakers: Wizard Dis
