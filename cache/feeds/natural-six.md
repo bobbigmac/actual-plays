@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-09-22T21:24:24+00:00`
-- checked_at: `2026-09-22T21:24:24+00:00`
-- etag: `"djEuMi4wOjE3OTAxMDM2Mzk1MTk="`
+- fetched_at: `2026-09-29T22:21:27+00:00`
+- checked_at: `2026-09-29T22:21:27+00:00`
+- etag: `"djEuMi4wOjE3OTA3MDg0MzkzODA="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-09-22T21:24:24+00:00",
+  "fetched_at": "2026-09-29T22:21:27+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "93549ba4da5679ab8815f234741aa142f32762c7",
+      "title": "Ep. 64 Glass and Gold",
+      "published_at": "2026-09-29T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-64-glass-and-gold",
+      "description": "The sound of glass shatters a long held silence. Could the glass be protecting us from threats outside or will shattering the glass reveal new secrets? Shining a light on the dark will reveal the unknown, but what new shadows will rise to take it’s place? You should take care, not to loose your footing, lest you slip and fall into the unknown. In all this chaos and noise, take a moment to find the answers you seek. Even something as simple as ones own name may hold more questions than answers. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6aba9dee6ffb28f8d6665e0a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "164579369",
+      "itunes_duration": "2:51:26",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "glass",
+        "gold"
+      ]
+    },
     {
       "key": "9ae95ff1581fd325cf3d618803a81431b722ceba",
       "title": "Action Surge Episode 63",
@@ -3326,6 +3350,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-29 — Ep. 64 Glass and Gold — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-09-22 — Action Surge Episode 63 — speakers: https discord, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-09-15 — Ep. 63 Blood of the Dragon — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-09-08 — Action Surge Episode 62 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
