@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-09-22T05:06:18+00:00`
-- checked_at: `2026-09-22T05:06:18+00:00`
-- etag: `"f8c792c63f54ee96f8331060e21ea01b"`
-- last_modified: `Tue, 22 Sep 2026 03:41:25 GMT`
+- fetched_at: `2026-09-29T18:07:30+00:00`
+- checked_at: `2026-09-29T18:07:30+00:00`
+- etag: `"ecb576d5b0160de531c96671a6efbe80"`
+- last_modified: `Tue, 29 Sep 2026 13:00:26 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-09-22T05:06:18+00:00",
+  "fetched_at": "2026-09-29T18:07:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,49 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "b0ddc8f210fb6d26b6ad6dc315cbed62d6664836",
+      "title": "Ep1 | Thousand Year Old Vampire w/ Joe - All Consuming Hunger",
+      "published_at": "2026-09-29T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/3172269",
+      "description": "Dace runs Joe through Thousand Year Old Vampire, where things start off a bit dark... ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/3172269/green-box-gaming/2026_09_22_03_35_37_54b76452-5d41-4fbb-a53c-36ddd7e60d3d.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93374170",
+      "itunes_duration": "5835",
+      "speakers": [
+        "Hunger Dace"
+      ],
+      "topics": [
+        "thousand",
+        "year",
+        "vampire",
+        "consuming",
+        "hunger"
+      ]
+    },
+    {
+      "key": "d7feafea1022c1da9406c4d4513d7f820b907019",
+      "title": "Ep10 | Delta Green: Convergence - Friendly Faces",
+      "published_at": "2026-09-22T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/3132665",
+      "description": "The team makes many new and....novel discoveries as the Delta Green cleanup crew arrives on the scene. ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/3132665/green-box-gaming/2026_09_08_04_45_18_23b8e94f-46f2-4ee0-a32a-2fb8e600814f.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86867381",
+      "itunes_duration": "5429",
+      "speakers": [
+        "Delta Green"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "convergence",
+        "face"
+      ]
+    },
     {
       "key": "5b86ab7876ad161a7a7f0a667e1634af34f6c72c",
       "title": "Ep9 | Delta Green: Convergence - Mr Clean",
@@ -4339,6 +4382,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-29 — Ep1 | Thousand Year Old Vampire w/ Joe - All Consuming Hunger — speakers: Hunger Dace
+- 2026-09-22 — Ep10 | Delta Green: Convergence - Friendly Faces — speakers: Delta Green
 - 2026-09-22 — Ep9 | Delta Green: Convergence - Mr Clean — speakers: Delta Green
 - 2026-09-08 — Ep8 | Delta Green: Convergence - Expecting...
 - 2026-09-01 — Ep7 | Delta Green: Convergence - The Allens
