@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-09-25T11:57:08+00:00`
-- checked_at: `2026-09-25T11:57:08+00:00`
-- etag: `"d1a74f1d14014ded2f5eebff74d15033"`
-- last_modified: `Fri, 25 Sep 2026 01:29:48 GMT`
+- fetched_at: `2026-09-29T01:03:47+00:00`
+- checked_at: `2026-09-29T01:03:47+00:00`
+- etag: `"ea5ab6e96d734d1649712de8e7e0e4f1"`
+- last_modified: `Tue, 29 Sep 2026 00:41:47 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-09-25T11:57:08+00:00",
+  "fetched_at": "2026-09-29T01:03:47+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "56afe9e36e70cb04958d9e30f2dda0a2486dfabe",
+      "title": "Perpetua 50: At the Threshold 02",
+      "published_at": "2026-09-29T00:41:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-50-at-the-threshold-02",
+      "description": "With the Adventure Beckons resting just outside of town, Nicky, Elena, and Veile have traveled into town to complete two important tasks: Recovering a gem sold by mistake and reconnecting with Thelonious, member of the Luminaries, to find direction on where to go next. With new connections forged, they return to their ship (and its captain), and set off into the skies, where dark clouds gather on the horizon… This week on Perpetua: At the Threshold 02 Perpetua Guide [In Progress v.061] Random Encounters - [PPRE] Sky Encounters Once you've got yourself the Adventure Beckons, you're able to travel from place to place on Perpetua's Sky Layer. And that means there's a whole new pool of Random Encounters. I've gathered some of the ones I've seen here, but I'm just getting started. Let me know any others you've hit and I'll try to find them and integrate them! Barnacle Cloud [REBC] You'd think this only triggers when you fly through clouds on the map, but it can happen anywhere. This is a mini-game, but bad enough performance can eventually make it a combat encounter. Elena is your best bet on this, because she can just toast them with fire magic. But if you use Nicky, you'll end up with some useful ingredients! Valte Wreckage [REVR] These you can actually spot on the ground and trigger on purpose, though what you can't determine is which \"Valte Wreckage\" encounter you'll load into. Most of the time, the wreckage is a fortress the Valte wrecked with their airship bombs. Sometimes, the wreckage is one of the big V-wing Valte ships itself, crashed in the ground. And in both cases there's a chance that you'll trigger an actual fight against Valte soldiers once you land and hop out of your ship! Balloon Festival [REBF] Over friendly territory, you can sometimes load into another mini-game. Well, I guess it's a mini-game. It's a \"Hot Air Balloon Festival,\" and you can customize your the Adventure Beckon's big blimp-like balloon. Then you can see a sort of wide angle shot of it floating around with the other, regular balloons. Why would you do that? Um… Just cause, I guess? Valte Boarding [REVB] Some Valte board your ship and depending on when it is in the story (and who you've upset), there's a chance it turns hostile quick. And let me clear up some confusion: This is always a possibility. It's just that the closer to the Valte archipelago that you're flying, the more likely this one is. Kleye Glider [REKG] This is basically a duplicate of the Kleye fight you can get between Calstega Bay and Spillwater Peaks. I don't know how they're shooting clay pirates up high enough to hit the airship, but they're doing it. Worse: the more that get on there, the lower the Adventure Beckons gets, which makes it even easier for them to get more guys onboard! Draconic Eagle [REGE] The way you load into combat and the unique music starts playing, you'd think this was some sort of bonus challenge boss… But it seems like it's actually a puzzle or something? I managed to Scan it once, and it starts in Crisis, and within three turns, it always flees. Maybe there's an objective action you can do? Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_50_At_the_Threshold_02.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "145164216",
+      "itunes_duration": "02:14:03",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "threshold"
+      ]
+    },
     {
       "key": "3f5e079ad62cfd0ff62ed58f6bc7070979dbae1a",
       "title": "Perpetua 49: At the Threshold 01",
@@ -11666,6 +11685,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-29 — Perpetua 50: At the Threshold 02 — speakers: Austin Walker
 - 2026-09-17 — Perpetua 49: At the Threshold 01 — speakers: Austin Walker
 - 2026-09-04 — Perpetua 48: Escape from the Rumbling Castle! 08 — speakers: Austin Walker
 - 2026-08-25 — Perpetua 47: Escape from the Rumbling Castle! 07 — speakers: Austin Walker
