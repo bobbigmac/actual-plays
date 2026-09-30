@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-09-23T11:46:32+00:00`
-- checked_at: `2026-09-23T11:46:32+00:00`
-- etag: `"djEuMi4wOjE3OTAxNDY4Mzk2MTY="`
+- fetched_at: `2026-09-30T12:43:33+00:00`
+- checked_at: `2026-09-30T12:43:33+00:00`
+- etag: `"djEuMi4wOjE3OTA3NTIyMzkzOTA="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-09-23T11:46:32+00:00",
+  "fetched_at": "2026-09-30T12:43:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,50 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "012f6fb9cc3b3969032235610b2bfc802ba7a190",
+      "title": "Ep. 349 Roll Britannia LIVE - The Mask Of A Thousand Faces - MCM Comic Con Birmingham 2026 | #DND",
+      "published_at": "2026-09-30T07:10:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this BONUS Episode, British Dungeons & Dragons Podcast Roll Britannia take to the stage at MCM Comic Con Birmingham! This time some of our heroes are joined by a new friend as they help Captain Timbers out of a spot of identity strife... Performed on the Live Stage at MCM Comic Con Birmingham, will the crew work out who is who, will Jeff learn what the pointy part of a ship is called? Will any of the crew survive the LIVE show? There's only one way to find out, grab your Dnd Dice , join Tom ( Keth ), Paul ( Milo ), Alex ( Derek ), Chip ( Jeff ), and Sophie ( River ), led by James ( the Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6a9ad4870c727006154e8de5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72722233",
+      "itunes_duration": "50:05",
+      "speakers": [],
+      "topics": [
+        "roll",
+        "britannia",
+        "mask",
+        "thousand",
+        "faces",
+        "comic",
+        "birmingham"
+      ]
+    },
+    {
+      "key": "8d81161db35f894c59322110658a59a5a8fa1fde",
+      "title": "Ep. 349 Roll Britannia LIVE - The Mask Of A Thousand Faces - MCM Comic Con Birmingham 2026 | #DND",
+      "published_at": "2026-09-30T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this BONUS Episode, British Dungeons & Dragons Podcast Roll Britannia take to the stage at MCM Comic Con Birmingham! This time some of our heroes are joined by a new friend as they help Captain Timbers out of a spot of identity strife... Performed on the Live Stage at MCM Comic Con Birmingham, will the crew work out who is who, will Jeff learn what the pointy part of a ship is called? Will any of the crew survive the LIVE show? There's only one way to find out, grab your Dnd Dice , join Paul ( Milo ), Chip ( Jeff ), and Arron, led by James ( the Dungeon Master ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6a9acc313559f1747863ce45/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58503860",
+      "itunes_duration": "40:13",
+      "speakers": [],
+      "topics": [
+        "roll",
+        "britannia",
+        "mask",
+        "thousand",
+        "faces",
+        "comic",
+        "birmingham"
+      ]
+    },
     {
       "key": "39ac84827c929a0841a06488bf9e9f087d8ba2e2",
       "title": "Ep. 348: Age of Astra - Where On Earth Did I Park My Bloody Ship! | #DND",
@@ -8121,6 +8165,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — Ep. 349 Roll Britannia LIVE - The Mask Of A Thousand Faces - MCM Comic Con Birmingham 2026 | #DND
+- 2026-09-30 — Ep. 349 Roll Britannia LIVE - The Mask Of A Thousand Faces - MCM Comic Con Birmingham 2026 | #DND
 - 2026-09-23 — Ep. 348: Age of Astra - Where On Earth Did I Park My Bloody Ship! | #DND
 - 2026-09-16 — Ep. 347: Age of Astra - Embrace Your Anger | #DND
 - 2026-09-09 — Ep. 346: Age of Astra - It's About To Get Busier | #DND
