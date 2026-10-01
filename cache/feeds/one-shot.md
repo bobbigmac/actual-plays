@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-09-21T20:01:02+00:00`
-- checked_at: `2026-09-21T20:01:02+00:00`
-- last_modified: `Mon, 21 Sep 2026 19:00:18 GMT`
+- fetched_at: `2026-10-01T18:27:32+00:00`
+- checked_at: `2026-10-01T18:27:32+00:00`
+- last_modified: `Thu, 01 Oct 2026 15:28:37 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/8e75fc9d6dbbc2142cca11c14acfdea1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-21T20:01:02+00:00",
+  "fetched_at": "2026-10-01T18:27:32+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "b7143c110eecda12b71caf468224442e6099ad12",
+      "title": "668. ⁠The CryptID Show⁠",
+      "published_at": "2026-10-01T14:22:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY Dillin deals with the strange happenings in the One Shot studio by calling in to, and bothering, a late-night radio host. SHOW NOTES The CryptID Show One Shot News & Updates One Shot Patreon One Shot TWITCH Follow the cast here! Dillin Apelyan - Dillin Apelyan Robin Ekberg - Noah ----------------------------------------------------- ICE Watch Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode New York Strut, Braeden Rangno Ghostfire, Alsever Lake Honey, marigolde More Than One Way To Go Home, Amherst Never Be The Same, Shells By The Sea Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN6514857158.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4313",
+      "speakers": [
+        "James D'Amato"
+      ],
+      "topics": [
+        "cryptid"
+      ]
+    },
     {
       "key": "b5071d17496feae2cd49f8d761023261bdf6746f",
       "title": "667. A Fool’s Errand⁠, Episode 3",
@@ -13623,6 +13641,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-01 — 668. ⁠The CryptID Show⁠ — speakers: James D'Amato
 - 2026-09-21 — 667. A Fool’s Errand⁠, Episode 3 — speakers: James D'Amato
 - 2026-09-14 — 666. A Fool’s Errand⁠, Episode 2 — speakers: James D'Amato
 - 2026-09-07 — 665. A Fool’s Errand⁠, Episode 1 — speakers: James D'Amato
