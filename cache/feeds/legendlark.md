@@ -2,10 +2,10 @@
 
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
-- fetched_at: `2026-09-25T05:04:03+00:00`
-- checked_at: `2026-09-25T05:04:03+00:00`
+- fetched_at: `2026-10-01T10:15:17+00:00`
+- checked_at: `2026-10-01T10:15:17+00:00`
 - etag: `W/"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ"`
-- last_modified: `Fri, 25 Sep 2026 00:02:36 GMT`
+- last_modified: `Mon, 28 Sep 2026 15:13:43 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss",
   "description": "..🚂🚃🚋🚃🚃🚋🚋🚋🚃...... A train pulls into the station. A circus raises its tents. Welcome, one and all, to NEVERNOWHERE— a place where your memories are currency, every dream is reality, and crime really does pay. LegendLark is a narrative comedy TTRPG podcast. Updates every 2nd Thursday! www.legendlark.com",
   "image_url": "https://megaphone.imgix.net/podcasts/38353ab8-2938-11f1-b716-1b70c557bb65/image/5002d6217f82605e3208708900cb0514.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-25T05:04:03+00:00",
+  "fetched_at": "2026-10-01T10:15:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -54,7 +54,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4699790697.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3796",
+      "itunes_duration": "3736",
       "speakers": [
         "Club Friedrich"
       ],
@@ -74,7 +74,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9823426716.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3980",
+      "itunes_duration": "3920",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -91,7 +91,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8633816181.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3078",
+      "itunes_duration": "3018",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -109,7 +109,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9604414237.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3204",
+      "itunes_duration": "3144",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -126,7 +126,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1955834374.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3510",
+      "itunes_duration": "3450",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -143,7 +143,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6292884981.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3213",
+      "itunes_duration": "3153",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -161,7 +161,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9725277804.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3016",
+      "itunes_duration": "2956",
       "speakers": [
         "Last Resort Friedrich"
       ],
@@ -181,7 +181,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6741916504.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3639",
+      "itunes_duration": "3579",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -198,7 +198,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7391262656.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4221",
+      "itunes_duration": "4161",
       "speakers": [
         "Gonna Die",
         "Oak Hollow Job"
@@ -217,7 +217,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2035420693.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3529",
+      "itunes_duration": "3469",
       "speakers": [
         "Adorably Escaping",
         "Itty Bitty City Everything"
@@ -257,7 +257,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7633593995.mp3?updated=1775766034",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3210",
+      "itunes_duration": "3150",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -278,7 +278,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5863428508.mp3?updated=1775937746",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4308",
+      "itunes_duration": "4248",
       "speakers": [
         "Cutely Casing",
         "Itty Bitty City Oak"
@@ -318,7 +318,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6916882042.mp3?updated=1775937421",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3001",
+      "itunes_duration": "2941",
       "speakers": [
         "Same Fresh"
       ],
@@ -337,7 +337,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4455327381.mp3?updated=1775937394",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4453",
+      "itunes_duration": "4393",
       "speakers": [],
       "topics": [
         "nevernowhere"
@@ -353,7 +353,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8206579822.mp3?updated=1775937221",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1365",
+      "itunes_duration": "1305",
       "speakers": [
         "Bluebird Report"
       ],
@@ -373,7 +373,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7071965270.mp3?updated=1775937227",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4199",
+      "itunes_duration": "4139",
       "speakers": [
         "no home",
         "no hope"
@@ -394,7 +394,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1304497476.mp3?updated=1775937213",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3530",
+      "itunes_duration": "3470",
       "speakers": [
         "Repercussions Big"
       ],
@@ -414,7 +414,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8304370429.mp3?updated=1775937100",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3396",
+      "itunes_duration": "3336",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -432,7 +432,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9412436261.mp3?updated=1775937034",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3763",
+      "itunes_duration": "3703",
       "speakers": [
         "Stolen Derisetum"
       ],
@@ -452,7 +452,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4599336697.mp3?updated=1775936889",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3227",
+      "itunes_duration": "3167",
       "speakers": [
         "Brightwater Collective"
       ],
@@ -472,7 +472,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6625047059.mp3?updated=1775936933",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4739",
+      "itunes_duration": "4679",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -491,7 +491,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2970442886.mp3?updated=1775936837",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3860",
+      "itunes_duration": "3800",
       "speakers": [
         "Ratatoussy After"
       ],
@@ -510,7 +510,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4137524600.mp3?updated=1775936657",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3579",
+      "itunes_duration": "3519",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -528,7 +528,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6165189089.mp3?updated=1775936578",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4007",
+      "itunes_duration": "3947",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -546,7 +546,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5391811811.mp3?updated=1775936428",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3066",
+      "itunes_duration": "3006",
       "speakers": [
         "Sun Queen"
       ],
@@ -566,7 +566,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3563140804.mp3?updated=1775774050",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3276",
+      "itunes_duration": "3216",
       "speakers": [
         "Complicates Pepper"
       ],
@@ -587,7 +587,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2158436416.mp3?updated=1775772986",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3485",
+      "itunes_duration": "3425",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -605,7 +605,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8391300301.mp3?updated=1775772704",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3383",
+      "itunes_duration": "3323",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -623,7 +623,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2371315769.mp3?updated=1775772470",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3169",
+      "itunes_duration": "3109",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -642,7 +642,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9872703604.mp3?updated=1775765949",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3845",
+      "itunes_duration": "3785",
       "speakers": [
         "All Aboard"
       ],
@@ -661,7 +661,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6719111933.mp3?updated=1775765992",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7237",
+      "itunes_duration": "7177",
       "speakers": [],
       "topics": [
         "nevernowhere",
@@ -679,7 +679,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4091489684.mp3?updated=1775937484",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1429",
+      "itunes_duration": "1368",
       "speakers": [],
       "topics": [
         "blade",
