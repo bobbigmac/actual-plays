@@ -2,9 +2,9 @@
 
 - slug: `the-apocalypse-players`
 - source: `https://www.apocalypseplayers.com/feed.xml`
-- fetched_at: `2026-09-29T01:03:47+00:00`
-- checked_at: `2026-09-29T01:03:47+00:00`
-- etag: `"0369eb6425745a813b2f0ce122252e09"`
+- fetched_at: `2026-10-05T22:03:34+00:00`
+- checked_at: `2026-10-05T22:03:34+00:00`
+- etag: `"902bcca751ecbf66169df039f79e56ae"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.apocalypseplayers.com",
   "description": "A Call of Cthulhu actual play podcast. Dice-driven cosmic horrors supplied by Dominic Allen, Joseph Chance, Danann McAleer and guests. --- The Apocalypse Players is an actual play (or live play) TTRPG podcast focused on horror tabletop roleplaying games. Think Dimension 20 or Critical Role, but fewer dragons, more eldritch horrors, and more British actors taking their roleplaying very seriously (most of the time). We primarily play the Chaosium RPG Call of Cthulhu, but have also been known to dabble with other systems, most of which can be found on our Patreon: www.patreon.com/apocalypseplayers We now have a free Discord server where you can come and worship at the altar of the Apocalypse, play Call of Cthulhu online, and meet like-minded cultists who will be only to eager to welcome you into the fold. New sacrifices oops we mean players are always welcome. Join here: discord.com/invite/kRQ62t6SjH",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/12449352/Logo_3200_yy4cvy.jpg",
-  "fetched_at": "2026-09-29T01:03:47+00:00",
+  "fetched_at": "2026-10-05T22:03:34+00:00",
   "owners": [
     "Dominic Allen",
     "Joseph Chance",
@@ -30,6 +30,31 @@
   ],
   "episodes": [
     {
+      "key": "388db8c5495114c5f8209c84cda6f3ecf112c77d",
+      "title": "An Uncommon Burial 35: Of Factions and Fiefdoms and Flashbacks",
+      "published_at": "2026-10-05T20:41:58+00:00",
+      "link": "https://www.apocalypseplayers.com/e/an-uncommon-burial-35-of-factions-and-fiefdoms-and-flashbacks/",
+      "description": "In which our investigators - and players - take stock across time and space, attempting to comprehend potencies and plots greater than themselves, including the revision of missing moments, resulting in a return from the meta-table to the Whitby Abbey camp, even finding a dash of hard won clarity to accompany the ongoing mystery... Cast: Dr. Henry Carraig-Muir - Joseph Chance Rev. Perregrine McCutcheon - Dan Wheeler Lady Helen Marjorie Bjarmia Potts - Dominic Allen Keeper of Arcane Lore - Danann McAleer CW: This podcast contains mature themes, strong language and cosmic horror. Human discretion is advised. This episode also contains more meta chat than is normally safe to attempt in an Actual Play Podcast and has been edited to include naturalistic, around the game table moments, terrifying for their realism - from the 23 minute mark up to the 50 minute mark. Those averse to the sound of gamers speaking with their mouths full and theorising without careful reference to notes or documents should be warned. The Apocalypse Players is an actual play (or live play) TTRPG podcast focused on horror tabletop roleplaying games. Think Dimension 20 or Critical Role, but fewer dragons, more eldritch horrors, and more British actors taking their roleplaying very seriously (most of the time). We primarily play the Chaosium RPG Call of Cthulhu, but have also been known to dabble with other systems, most of which can be found on our Patreon: www.patreon.com/apocalypseplayers We now have a free Discord server where you can come worship at the altar of the Apocalypse, play Call of Cthulhu online, and meet like-minded cultists who will only be too eager to welcome you into the fold. New sacrifices oops we mean players are always welcome. Join here: discord.com/invite/kRQ62t6SjH For more information and to get in touch, visit www.apocalypseplayers.com The Apocalypse Players are: Dominic Allen @domjallen Joseph Chance @josephchance.mj.bsky.social Danann McAleer @DanannMcAleer Dan Wheeler @DanWheelerUK Music and SFX from Epidemic Sound Kevin MacLeod, at Incompetech: Vanishing by Kevin MacLeod Link: https://incompetech.filmmusic.io/song/4578-vanishing License: https://filmmusic.io/standard-license Virtutes Instrumenti by Kevin MacLeod Link: https://incompetech.filmmusic.io/song/4590-virtutes-instrumenti License: https://filmmusic.io/standard-license With very special thanks to Finn McAleer for the use of his fiddle music, especially his album ‘Rough As Folk’ (with The Great Bearded Tits). More of Finn’s music can be found here: https://www.youtube.com/@finnnnn Epidemic Sound: Radestsky March - Trad. When I am Calling Your Name - Giant Ember Ave Maria - Trad. String Quartet in D - Andante (Trad.) Scorpion Dance - Mike Franklyn Sneaky Fingers (T. Mori) Trollmors Vaggsang (String Quartet Version) - Trad. Prayer - Arvid Svenungsson The Spy - Wendy Martini Hallucinarium - Kalak Lucky Bird - River Run Dry Polska Fran Knaggalve - Trad. Persapojkarnas Polska - Trad. Joyful Occasions - Ludvig Moulin Folksong on Piano - Trad. Horror Composition 5 (SFX Producer) Vivaldi - The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 “Spring” II. Largo e pianissimo sempre - Michelle Ross Vivaldi - The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 “Summer” III. Presto - Michelle Ross Largo from Xerxes - Trad. Taproot - Esme Cruz Distant Chanting - Jon Bjork Vacuum Sealer - Edward Karl Hanson It Lurks Below - Trailer Worx Godsend - Johannes Bomlof Amaranth Fields - Reynard Seidel Let Them Try - Hampus Naeselius Evil Intentions - Experia Trailed By Horror - Trailer Worn Av Jord, Till Jord - Silver Maple Hold Me Now - Spring Gang Eye For Detail - Jay Barton It Will Fall - Daniella Ljungsberg Scandinavian Folk 10 - Trad. Sneaky Steak - Daniel Fridell House of Horror - Marc Torch Sign Here - Enigmatic Serenity’s Reality 5 - August Wilhelmsson Jokers - Mary Riddle Corrivation - Ethan Sloan Fear of the Dark - Etienne Roussel Shadows Unseen - DEX 1200 Onus - Ethan Sloan O’Connor’s Jig - Roy Edwin Williams Game Over - Daniel Fridell The Storage - Lennon Hutton Nakaroz - Sada Trio The Final Charge - Dian Shuai Nysno - Sandra Marteleur",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/mswtbcnfedfjxqha/AUB_358qpwp.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101288227",
+      "itunes_duration": "6330",
+      "speakers": [
+        "Dominic Allen",
+        "Joseph Chance",
+        "Danann McAleer",
+        "Dan Wheeler"
+      ],
+      "topics": [
+        "uncommon",
+        "burial",
+        "faction",
+        "fiefdoms",
+        "flashback"
+      ]
+    },
+    {
       "key": "c8bc83e47bb61b7404834bdf069abe74245e3ead",
       "title": "An Uncommon Burial 34: The Old Dust and The New",
       "published_at": "2026-09-28T22:09:00+00:00",
@@ -38,7 +63,7 @@
       "image_url": null,
       "enclosure_url": "https://mcdn.podbean.com/mf/web/bgv9zda7auqprmf3/AUB_3498k4w.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "78058892",
+      "enclosure_length": "78058727",
       "itunes_duration": "4878",
       "speakers": [
         "Dominic Allen",
@@ -6636,6 +6661,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-05 — An Uncommon Burial 35: Of Factions and Fiefdoms and Flashbacks — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
 - 2026-09-28 — An Uncommon Burial 34: The Old Dust and The New — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
 - 2026-09-22 — An Uncommon Burial 33 “Onwards & Upwards” — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
 - 2026-09-14 — An Uncommon Burial 32 " Mutations of Faith" — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler

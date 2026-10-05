@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-10-05T14:52:04+00:00`
-- checked_at: `2026-10-05T14:52:04+00:00`
-- etag: `"djEuMi4wOjE3OTEyMDM1NzcwNTc="`
+- fetched_at: `2026-10-05T22:03:34+00:00`
+- checked_at: `2026-10-05T22:03:34+00:00`
+- etag: `"djEuMi4wOjE3OTEyMTI0Mzk0NDg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-10-05T14:52:04+00:00",
+  "fetched_at": "2026-10-05T22:03:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "26bb1a39e6e55a6a0959cd28d939548e8abdc1b6",
+      "title": "Owari no Hajimari: Episode 1",
+      "published_at": "2026-10-05T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/owari-no-hajimari-episode-1",
+      "description": "Four unlikely heroes are thrown into jail for dubious reasons with only one means of escape - do a spooky and dangerous job for the Adventurers Guild. Rumors are that some poor fools already set out a few days past but no one has heard from them and odds are not looking good for them. When the volunteers have run dry its time to send in the less than enthusiastic fools on a grand adventure. A new adventure begins with Mike Bachmann , Jennifer Cheek , Michael DiMauro , Tim Lanning , and our Dungeon Master Nika Howard . Edited by Vincent. Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1791203378185-54e0403d-3509-4408-b2fa-cf52912431f4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6ac398f88da1db2e6fbbcc05/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "120341511",
+      "itunes_duration": "1:23:33",
+      "speakers": [],
+      "topics": [
+        "owari",
+        "hajimari"
+      ]
+    },
     {
       "key": "611efb1f1d40f8989f9d60b47a89faae231c8a11",
       "title": "Owari no Hajimari: Episode 0",
@@ -12682,6 +12699,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-05 — Owari no Hajimari: Episode 1
 - 2026-09-28 — Owari no Hajimari: Episode 0
 - 2026-09-21 — Campaign 2: Episode 199 - Kaiju, Perfected 3
 - 2026-09-14 — Campaign 2: Episode 198 - Kaiju, Perfected 2
