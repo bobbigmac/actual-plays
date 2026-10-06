@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-10-02T09:52:44+00:00`
-- checked_at: `2026-10-02T09:52:44+00:00`
-- etag: `"3ab8b120112a30f81357fab51fdf8034"`
-- last_modified: `Fri, 02 Oct 2026 04:12:03 GMT`
+- fetched_at: `2026-10-06T16:00:14+00:00`
+- checked_at: `2026-10-06T16:00:14+00:00`
+- etag: `"de048f45fbb5dfb4501ea3e3193df0ea"`
+- last_modified: `Tue, 06 Oct 2026 15:01:01 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-10-02T09:52:44+00:00",
+  "fetched_at": "2026-10-06T16:00:14+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "9578aaf5e43937cd7063a7cd9d2f1044c87bff47",
+      "title": "Perpetua 51: At the Threshold 03",
+      "published_at": "2026-10-06T15:00:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-51-at-the-threshold-03",
+      "description": "Aloft above the sea, the Adventure Beckons and the staff of the Little Snail head towards a small island in the Valte archipelago. There, they seek information on the White Lectern from the members of the Luminaries—a group which Nicky, Elena, and Veile have found themselves newly oathed. What answers will they find in such a place? And will they meet a new ally… or someone altogether more troubling? This week on Perpetua: At the Threshold 03 Perpetua Guide [In Progress v.061] Some Feedback [Page 76 of 76] FriendofNei It's rare that I do anything like this but I'm curious… what do you all think is behind the barrier on Nightglow Island? At this point, I've been bouncing around the world, clearing up sidequests before I head there and (presumably) finish up the first disc. And please remember, we don't talk about anything in this thread that isn't already currently covered in my guide, so if you already went there, don't give me the deets! TheDiamondRanger Oh, it's the white lectern. It says so in the official strategy guide. What do you want to know about it? xXZelgadyskXx Diamond! Nei just said not to talk about stuff from after where the guide is! He wanted guesses, not information! TheDiamondRanger Ohhhhhhhh. I'm sorry. I meant, SPOILER ALERT SPOILER WARNING SPOILERS COMING UP it's the white lectern. DoomTreeAnne Diamond… Please give the forum rules a read when you get a chance. We wouldn't want another regular getting banned before Unforgiven is even back! Anyway, in this case, I'm pretty sure the conversation with Doctor Cinnabar does already mention the White Lectern. So that part isn't technically a \"spoiler\" anyway. But what the White Lectern actually is… now that's a whole other story. Now, a \"lectern\" is a sort of standing desk that you can read from, like when you read out loud at Church. That comes from the Latin (well, from the French and then the Latin) \"lego\" which means \"I read.\" Except… It doesn't only mean \"I read.\" It originally means \"I gather\" or \"I choose.\" (I guess reading is sort of like \"gathering\" words, though I think that's more like writing!) Anyway, that makes me wonder. Is the White Lectern a place where someone reads or where something gets gathered and chosen? CarlsSr Diamond can't read the rules because if he did, he'd see you have to be 13 before you're allowed to post here. TheDiamondRanger ACTUALLY I'll be 13 next tuesday! (This user was temporarily banned for this post. They will be unbanned next Tuesday.) CarlsSr Sorry, I meant that Diamond can't read the rules because he can't read. Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_51_At_the_Threshold_03.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90227074",
+      "itunes_duration": "01:26:10",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "threshold"
+      ]
+    },
     {
       "key": "56afe9e36e70cb04958d9e30f2dda0a2486dfabe",
       "title": "Perpetua 50: At the Threshold 02",
@@ -11685,6 +11704,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-06 — Perpetua 51: At the Threshold 03 — speakers: Austin Walker
 - 2026-09-29 — Perpetua 50: At the Threshold 02 — speakers: Austin Walker
 - 2026-09-17 — Perpetua 49: At the Threshold 01 — speakers: Austin Walker
 - 2026-09-04 — Perpetua 48: Escape from the Rumbling Castle! 08 — speakers: Austin Walker

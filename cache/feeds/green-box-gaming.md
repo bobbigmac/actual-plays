@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-09-29T18:07:30+00:00`
-- checked_at: `2026-09-29T18:07:30+00:00`
-- etag: `"ecb576d5b0160de531c96671a6efbe80"`
-- last_modified: `Tue, 29 Sep 2026 13:00:26 GMT`
+- fetched_at: `2026-10-06T16:00:14+00:00`
+- checked_at: `2026-10-06T16:00:14+00:00`
+- etag: `"f9994154d398e7d35ce99d14915ba32c"`
+- last_modified: `Tue, 06 Oct 2026 13:00:23 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-09-29T18:07:30+00:00",
+  "fetched_at": "2026-10-06T16:00:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "03aaae92912c730fe372da6c04b2801b631afe6a",
+      "title": "Ep2 | Thousand Year Old Vampire w/ Joe - Not Friends",
+      "published_at": "2026-10-06T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/3172278",
+      "description": "What was once Lucious comes to a grand end in this episode of Thousand Year Old Vampire! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/3172278/green-box-gaming/2026_09_22_03_40_36_1d38a384-b9e9-4262-b811-59d874cfe1cd.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88600658",
+      "itunes_duration": "5537",
+      "speakers": [
+        "Thousand Year Old Vampire",
+        "Not Friends What"
+      ],
+      "topics": [
+        "thousand",
+        "year",
+        "vampire",
+        "friend"
+      ]
+    },
     {
       "key": "b0ddc8f210fb6d26b6ad6dc315cbed62d6664836",
       "title": "Ep1 | Thousand Year Old Vampire w/ Joe - All Consuming Hunger",
@@ -4382,6 +4404,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-06 — Ep2 | Thousand Year Old Vampire w/ Joe - Not Friends — speakers: Thousand Year Old Vampire, Not Friends What
 - 2026-09-29 — Ep1 | Thousand Year Old Vampire w/ Joe - All Consuming Hunger — speakers: Hunger Dace
 - 2026-09-22 — Ep10 | Delta Green: Convergence - Friendly Faces — speakers: Delta Green
 - 2026-09-22 — Ep9 | Delta Green: Convergence - Mr Clean — speakers: Delta Green

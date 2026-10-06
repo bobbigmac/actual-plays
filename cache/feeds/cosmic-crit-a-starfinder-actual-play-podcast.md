@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-09-28T05:31:57+00:00`
-- checked_at: `2026-09-28T05:31:57+00:00`
-- last_modified: `Mon, 28 Sep 2026 04:05:00 GMT`
+- fetched_at: `2026-10-06T16:00:14+00:00`
+- checked_at: `2026-10-06T16:00:14+00:00`
+- last_modified: `Tue, 06 Oct 2026 14:28:39 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-09-28T05:31:57+00:00",
+  "fetched_at": "2026-10-06T16:00:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
