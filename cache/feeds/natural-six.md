@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-09-29T22:21:27+00:00`
-- checked_at: `2026-09-29T22:21:27+00:00`
-- etag: `"djEuMi4wOjE3OTA3MDg0MzkzODA="`
+- fetched_at: `2026-10-06T22:41:15+00:00`
+- checked_at: `2026-10-06T22:41:15+00:00`
+- etag: `"djEuMi4wOjE3OTEzMTMyMzkzMDE="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-09-29T22:21:27+00:00",
+  "fetched_at": "2026-10-06T22:41:15+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "40896a717cddfcfcbcbea155998088376ec95bb0",
+      "title": "Action Surge Episode 64",
+      "published_at": "2026-10-06T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-64",
+      "description": "TBC --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6aba9e214e059d44b5bc2fbe/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81070586",
+      "itunes_duration": "56:16",
+      "speakers": [
+        "https discord",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "93549ba4da5679ab8815f234741aa142f32762c7",
       "title": "Ep. 64 Glass and Gold",
@@ -3350,6 +3375,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-06 — Action Surge Episode 64 — speakers: https discord, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-09-29 — Ep. 64 Glass and Gold — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-09-22 — Action Surge Episode 63 — speakers: https discord, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-09-15 — Ep. 63 Blood of the Dragon — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
