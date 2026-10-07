@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-09-30T12:43:33+00:00`
-- checked_at: `2026-09-30T12:43:33+00:00`
-- etag: `"djEuMi4wOjE3OTA3NTIyMzkzOTA="`
+- fetched_at: `2026-10-07T13:33:27+00:00`
+- checked_at: `2026-10-07T13:33:27+00:00`
+- etag: `"djEuMi4wOjE3OTEzNTY0Mzk2ODY="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-09-30T12:43:33+00:00",
+  "fetched_at": "2026-10-07T13:33:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "e71d86f65528461d9125b5061f0785e1a5ba8dfc",
+      "title": "Ep. 350: Jammed - It's A Wonderful World Out There | #DND",
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "Hundreds of years after the heroes of old passed from history into legend, the world has moved on. Galea has grown vast, the skies have been claimed, bought, taxed, and carefully controlled, and those who refuse to play by the rules have acquired a rather more romantic name. But somewhere above the city, something new has been created, something that was never meant to remain merely in the sky. In this Dungeons and Dragons adventure, four strangers are summoned to a quiet meeting in a decidedly disreputable tavern, each carrying a golden token and reasons of their own for distrusting the powers that govern the heavens. Waiting for them is a coded letter, a missing scientist, and the suggestion that the company everyone fears may itself be afraid of something else. A name is whispered. A warning is uncovered. And before the first Dice have truly settled, it becomes clear that this is not simply a rescue. There are promises of gold, stolen vessels, and a technology capable of reaching places no one was ever supposed to reach. There are also knives, suspicious coincidences, and one extremely unfortunate hammerhead shark whose role in events remains difficult to justify. But beneath the chaos of this DnD story lies something quieter and considerably more dangerous: the possibility that Dr Valance discovered far more than a new way to travel. What was hidden inside Dr Valance’s final message? Who is watching from behind the company’s carefully polished façade? And if the stars have suddenly become reachable, what might already be waiting among them? There's only one way to find out, grab your Dnd Dice, join Dungeon Master James , Alex ( Lance Goodthrust ), Chip ( Feets Duo ) and Special Guests from Roll From the Hip , Tom Mayo ( Lady Violence ) and Tom Midgely ( Togali ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1790699621989-5da3c595-c34e-4970-bda6-65bfce8dfad6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6abbe8e24e059d44b52977e4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49760548",
+      "itunes_duration": "51:49",
+      "speakers": [
+        "Wonderful World Out There"
+      ],
+      "topics": [
+        "jammed",
+        "world"
+      ]
+    },
     {
       "key": "012f6fb9cc3b3969032235610b2bfc802ba7a190",
       "title": "Ep. 349 Roll Britannia LIVE - The Mask Of A Thousand Faces - MCM Comic Con Birmingham 2026 | #DND",
@@ -8165,6 +8184,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-07 — Ep. 350: Jammed - It's A Wonderful World Out There | #DND — speakers: Wonderful World Out There
 - 2026-09-30 — Ep. 349 Roll Britannia LIVE - The Mask Of A Thousand Faces - MCM Comic Con Birmingham 2026 | #DND
 - 2026-09-30 — Ep. 349 Roll Britannia LIVE - The Mask Of A Thousand Faces - MCM Comic Con Birmingham 2026 | #DND
 - 2026-09-23 — Ep. 348: Age of Astra - Where On Earth Did I Park My Bloody Ship! | #DND
