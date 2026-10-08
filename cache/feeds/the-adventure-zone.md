@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-10-01T18:27:32+00:00`
-- checked_at: `2026-10-01T18:27:32+00:00`
-- etag: `"c4c24c1ca74f10c5590fe30dade1e467"`
-- last_modified: `Thu, 01 Oct 2026 13:52:12 GMT`
+- fetched_at: `2026-10-08T18:53:31+00:00`
+- checked_at: `2026-10-08T18:53:31+00:00`
+- etag: `"b6f335feb1b6501d4739bcbc571a79a5"`
+- last_modified: `Wed, 07 Oct 2026 17:21:41 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,8 +17,8 @@
   "title": "The Adventure Zone",
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
-  "image_url": "https://image.simplecastcdn.com/images/9ba52d4c-4e8c-4203-a3de-be89969671f2/dccb42fa-aa68-4ac2-9f03-fd9ca9c8481e/3000x3000/cropped_1790862713432.jpg?aid=rss_feed",
-  "fetched_at": "2026-10-01T18:27:32+00:00",
+  "image_url": "https://image.simplecastcdn.com/images/9ba52d4c-4e8c-4203-a3de-be89969671f2/19f0432c-ab24-49c1-946c-6c5e76f33ed8/3000x3000/cropped_1791393495062.jpg?aid=rss_feed",
+  "fetched_at": "2026-10-08T18:53:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -32,7 +32,7 @@
       "published_at": "2026-10-01T11:00:00+00:00",
       "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-providence-episode-1-viqXK_kQ",
       "description": "Someone in the small fishing village of Asta is planning . . . a dark ritual! Harumph! Not to worry, three minor gods are on the case: Spira, the god of bellows; Tintabula, the god of bells; and Minutiae, the god of marine chronometers. They definitely have skills that will come in handy for uncovering the town’s dark secrets. That is . . . if they can blend in with the mortals We're playing Super Normal from Ursidice: https://ursidice.com/supernormal/ Original Music by Griffin McElroy Additional Music in this Episode: Stars\" by Sabine Bloch x Fachhochschule Dortmund: https://sabinebloch.de/; “Sad Piano Ambient” by Lite Saturation:https://litesaturation.com/; and \"Creeping Scary Atmosphere for Night Scenes\" by Alex Morgan: https://freemusicarchive.org/music/alex-morgan/. Center for Reproductive Rights: https://reproductiverights.org/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
-      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/ec304f3c-d22c-4be7-9b30-e0a169f0be6f/3000x3000/cropped_1790795670099.jpg?aid=rss_feed",
+      "image_url": "https://image.simplecastcdn.com/images/ee8ef2f9-5bb2-4a0a-bad7-44fd3b17d53c/5f8a7f68-48be-4b15-bfe4-f6aeca3afbb7/3000x3000/cropped_1791393654556.jpg?aid=rss_feed",
       "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/c572193b-028c-47ee-9660-f4bbfa831faf/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=c572193b-028c-47ee-9660-f4bbfa831faf&feed=cYQVc__c",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70024818",
@@ -50,7 +50,7 @@
       "published_at": "2026-09-28T16:30:00+00:00",
       "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-providence-trailer-Ittp_2dX",
       "description": "Three unassuming gods pop into a small New England town, pretending to be mortals, to investigate potential magical interference. Should be easy, right? Only the town is not quite what it seems and its strange inhabitants harbor secrets . . . Join us for The Adventure Zone: Providence, a 6-episode series using Super Normal from Ursidice: https://ursidice.com/supernormal/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
-      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/17c91aa0-269d-4feb-a5b7-041136373ae3/3000x3000/cropped_1790612560819.jpg?aid=rss_feed",
+      "image_url": "https://image.simplecastcdn.com/images/ee8ef2f9-5bb2-4a0a-bad7-44fd3b17d53c/092283e2-78a7-43ef-bc97-488a1423abcd/3000x3000/cropped_1791393682300.jpg?aid=rss_feed",
       "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/2585e854-afac-4a96-8b39-05c00d12a900/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=2585e854-afac-4a96-8b39-05c00d12a900&feed=cYQVc__c",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "11591383",
