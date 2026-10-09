@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-10-02T17:54:10+00:00`
-- checked_at: `2026-10-02T17:54:10+00:00`
-- last_modified: `Fri, 02 Oct 2026 16:21:14 GMT`
+- fetched_at: `2026-10-09T18:24:01+00:00`
+- checked_at: `2026-10-09T18:24:01+00:00`
+- last_modified: `Fri, 09 Oct 2026 16:10:10 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-02T17:54:10+00:00",
+  "fetched_at": "2026-10-09T18:24:01+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,27 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "686813d2065c6e36ec4a997313b6d115a8ecbbdd",
+      "title": "Fatherfog | Three Sisters of the Glass Mountain #1",
+      "published_at": "2026-10-09T16:00:00+00:00",
+      "link": null,
+      "description": "Welcome to a new series of Mystery Quest where we're playing Fatherfog, the new fairytale horror system from Tuesday Knight Games who brought us Mothership. Once upon a time... In a village bound by a creeping fog, three young sisters, pillars of the community each, disappeared without a trace. Nobody knows what mysteries are hidden deep off within the fog but everyone knows those who stray into it seldom return, at least not the same. As hopeless resignation took hold Would any have a hope enough to venture out into the malevolent mists to search for the lost women? Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Check out Fatherfog: https://www.tuesdayknightgames.com/products/fatherfog0e?srsltid=AU7gw4UTpf2PpMqifmA0eQonHeMbFFuugsz24YXhG6blDgwYZloBFzqv Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: @AngoryTom Boba: https://www.twitch.tv/boba Lydia: https://www.twitch.tv/squidgame Dan: @apocplayers Ben: @GamesNight Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR9226518963.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4715",
+      "speakers": [
+        "Tom Bates"
+      ],
+      "topics": [
+        "fatherfog",
+        "sisters",
+        "glass",
+        "mountain"
+      ]
+    },
     {
       "key": "2453655e330221b3c0f62b71d28c2403cb89caa3",
       "title": "13 Omens #4",
@@ -3405,6 +3426,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-09 — Fatherfog | Three Sisters of the Glass Mountain #1 — speakers: Tom Bates
 - 2026-10-02 — 13 Omens #4 — speakers: Tom Bates
 - 2026-09-25 — 13 Omens #3 — speakers: Tom Bates
 - 2026-09-18 — 13 Omens #2 — speakers: Tom Bates

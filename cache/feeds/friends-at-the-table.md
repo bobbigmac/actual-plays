@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-10-06T16:00:14+00:00`
-- checked_at: `2026-10-06T16:00:14+00:00`
-- etag: `"de048f45fbb5dfb4501ea3e3193df0ea"`
-- last_modified: `Tue, 06 Oct 2026 15:01:01 GMT`
+- fetched_at: `2026-10-09T18:24:01+00:00`
+- checked_at: `2026-10-09T18:24:01+00:00`
+- etag: `"6b06001aed69748035bcd35f614aed49"`
+- last_modified: `Fri, 09 Oct 2026 17:30:53 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-10-06T16:00:14+00:00",
+  "fetched_at": "2026-10-09T18:24:01+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "f524988b7f6070c612a6bbea9d1111dd8cb0849e",
+      "title": "Perpetua 52: At the Threshold 04",
+      "published_at": "2026-10-09T04:12:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-52-at-the-threshold-04",
+      "description": "On a small isle in the southwestern reach of the Valte Archipelego, the crew of the Little Snail sits in frustration. Their ultimate destination has been made clear to them: A continent to the south, separated not only by distance, but by a seemingly unbreachable power. How will they breach such a barrier, and more, what might it mean that their cyclical predecessors often faced a similarly fatal obstacle on the path to their great destinies…? This week on Perpetua: At the Threshold 04 Perpetua Guide [In Progress v.061] Some Feedback [Page 77 of 78] Alukard83 So, does anyone know how to actually play The Speel. xXZelgadyskXx I looked everywhere, even found a way to get to Stitchscore (the town that's all about games and sports from the demo?), but I just don't think it's in the game. Or at the very least least not on disc one. I've definitely been collecting as many pieces as I can just in case it shows up later though! Alukard83 Oh no, I meant like, in real life. Have you found the rules explained anywhere? It would be cool if they sold a set. DoomTreeAnne You know I don't like to be a naysayer or a \"Negative Nancy,\" but I don't think they could really do that… If you paid close attention when it first came up (both in Perpetua Prelude and when the party finds its first piece and the concept gets introduced), there's a line about the game having thousands and thousands of pieces. Perpetua would have to be way more popular to make a game with thousands of little miniatures like that! Alukard83 You could make it like a card game. CCGs have tons of cards. TheUnforgivenIII OMG, you're a card game freak!! That's why you have \"kard\" in your name. Card games are gay as hell. It needs to be a cool war game where you have huge badass armies fighting each other. That's why there are so many pieces, because you need to put a ton of them on the table and make them fight. You could even customize your army and paint them differently. FriendOfNei Can we not use \"gay\" like that, Unforgiven? Mods? CarlsSr \"Card games are gay. I'm a big tough man. The only thing I love more than heavy metal music is painting my cute little figurines.\" TheDiamondRanger My mom says its okay to be gay and my uncle is even one but she won't let me buy any card games cause she says they're paper casinos. Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_52_At_the_Threshold_04.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106022240",
+      "itunes_duration": "01:49:40",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "threshold"
+      ]
+    },
     {
       "key": "9578aaf5e43937cd7063a7cd9d2f1044c87bff47",
       "title": "Perpetua 51: At the Threshold 03",
@@ -11704,6 +11723,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-09 — Perpetua 52: At the Threshold 04 — speakers: Austin Walker
 - 2026-10-06 — Perpetua 51: At the Threshold 03 — speakers: Austin Walker
 - 2026-09-29 — Perpetua 50: At the Threshold 02 — speakers: Austin Walker
 - 2026-09-17 — Perpetua 49: At the Threshold 01 — speakers: Austin Walker
