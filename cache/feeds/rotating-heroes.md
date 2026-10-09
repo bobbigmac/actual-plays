@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-10-02T17:54:10+00:00`
-- checked_at: `2026-10-02T17:54:10+00:00`
-- etag: `W/"25bfddcd991725a6329fcb0c456aefcd"`
-- last_modified: `Fri, 02 Oct 2026 10:53:08 GMT`
+- fetched_at: `2026-10-09T10:41:22+00:00`
+- checked_at: `2026-10-09T10:41:22+00:00`
+- etag: `W/"35c6c8d78b5641142a71583b1c085f35"`
+- last_modified: `Fri, 09 Oct 2026 09:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,29 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-10-02T17:54:10+00:00",
+  "fetched_at": "2026-10-09T10:41:22+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "09cb6de44c5c3c3d461ed0e363a8e3c356bdeb3f",
+      "title": "Axis Arc 4 Ep 3 - Live On Air PART 1",
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "link": "https://audioboom.com/posts/8952402",
+      "description": "Tundra and Shaddy arrive at Vox Vinny’s studio as they prepare to go live to the galaxy in a bid to find Aully. --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code AULLY50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! If you haven't checked it out in a while why not also head on over to our merch store , it's getting a revamp soon so this might be your last chance to grab some of the current designs we have in stock! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
+      "image_url": "https://audioboom.com/i/43833898.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8952402.mp3?modified=1789378850&sid=5167570&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1804",
+      "speakers": [],
+      "topics": [
+        "axis"
+      ]
+    },
     {
       "key": "dc1924a2c59e59dcf191edda49f4b1d79916abd3",
       "title": "Axis Arc 4 Ep 2 - Employee of the Month PART 2",
@@ -52,7 +68,7 @@
       "link": "https://audioboom.com/posts/8952399",
       "description": "In a bid to write her wrongs Tundra calls into a radio show for some advice on how to make things right again. --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code AULLY50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! If you haven't checked it out in a while why not also head on over to our merch store , it's getting a revamp soon so this might be your last chance to grab some of the current designs we have in stock! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43833898.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8952399.mp3?modified=1789378545&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8952399.mp3?modified=1790938676&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3688",
@@ -72,7 +88,7 @@
       "link": "https://audioboom.com/posts/8952398",
       "description": "Washed ashore and filled with hate, Aully Flash seeks revenge on someone he once called a friend. --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code AULLY50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! If you haven't checked it out in a while why not also head on over to our merch store , it's getting a revamp soon so this might be your last chance to grab some of the current designs we have in stock! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43833898.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8952398.mp3?modified=1789378424&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8952398.mp3?modified=1790938685&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1927",
@@ -92,7 +108,7 @@
       "link": "https://audioboom.com/posts/8951700",
       "description": "Washed ashore and filled with hate, Aully Flash seeks revenge on someone he once called a friend. --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code AULLY50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! If you haven't checked it out in a while why not also head on over to our merch store , it's getting a revamp soon so this might be your last chance to grab some of the current designs we have in stock! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43833898.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8951700.mp3?modified=1789124065&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8951700.mp3?modified=1790938696&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1993",
@@ -112,7 +128,7 @@
       "link": "https://audioboom.com/posts/8948534",
       "description": "Our crew discuss the meaning of Axis in the final arc bark of Arc 3, the breaking of Jasper’s world with the two ending wishes, how Ed explores ideas through his story telling, and Jon drops a big reveal for the next Arc! --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code TUNDRA50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43730830.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8948534.mp3?modified=1788451243&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8948534.mp3?modified=1788789509&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3529",
@@ -132,7 +148,7 @@
       "link": "https://audioboom.com/posts/8943322",
       "description": "In the explosive finale of Arc 3 Shaddy must look deep within himself to find the true meaning of Axis if he stands any chance of saving the day. Be sure to stick around for the epilogue after the credits roll! --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code TUNDRA50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43730830.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8943322.mp3?modified=1787215902&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8943322.mp3?modified=1788789524&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3617",
@@ -151,7 +167,7 @@
       "link": "https://audioboom.com/posts/8943321",
       "description": "In the explosive finale of Arc 3 Shaddy must look deep within himself to find the true meaning of Axis if he stands any chance of saving the day. Be sure to stick around for the epilogue after the credits roll! --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code TUNDRA50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43730830.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8943321.mp3?modified=1787215804&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8943321.mp3?modified=1788789533&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2702",
@@ -170,7 +186,7 @@
       "link": "https://audioboom.com/posts/8931561",
       "description": "Our Bros come face to face with every Turlett’s worst nightmare, a workers union. However it soon becomes clear that their mission may be more closely aligned with the goals of ELF than they first thought. --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code TUNDRA50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43730830.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8931561.mp3?modified=1784803775&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8931561.mp3?modified=1788789544&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3104",
@@ -188,7 +204,7 @@
       "link": "https://audioboom.com/posts/8931560",
       "description": "Our Bros come face to face with every Turlett’s worst nightmare, a workers union. However it soon becomes clear that their mission may be more closely aligned with the goals of ELF than they first thought. --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code TUNDRA50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43730830.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8931560.mp3?modified=1784803705&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8931560.mp3?modified=1788789553&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2831",
@@ -206,7 +222,7 @@
       "link": "https://audioboom.com/posts/8931558",
       "description": "A mysterious and threatening voice hails our bros over the radio, knowing failure is not an option they proceed to dive head first into the unknown in a bid to complete their mission. --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code TUNDRA50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43730830.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8931558.mp3?modified=1784803597&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8931558.mp3?modified=1788789573&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3091",
@@ -226,7 +242,7 @@
       "link": "https://audioboom.com/posts/8931557",
       "description": "A mysterious and threatening voice hails our bros over the radio, knowing failure is not an option they proceed to dive head first into the unknown in a bid to complete their mission. --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code TUNDRA50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
       "image_url": "https://audioboom.com/i/43730830.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8931557.mp3?modified=1784803314&sid=5167570&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8931557.mp3?modified=1788789571&sid=5167570&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2486",
@@ -3027,6 +3043,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-09 — Axis Arc 4 Ep 3 - Live On Air PART 1
 - 2026-10-02 — Axis Arc 4 Ep 2 - Employee of the Month PART 2 — speakers: Axis Arc
 - 2026-09-25 — Axis Arc 4 Ep 2 - Employee of the Month PART 1 — speakers: Axis Arc
 - 2026-09-18 — Axis Arc 4 Ep 1 - The Second Great Spa Heist PART 2 — speakers: Aully Flash
