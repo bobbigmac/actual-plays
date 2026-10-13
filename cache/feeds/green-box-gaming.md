@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-10-06T16:00:14+00:00`
-- checked_at: `2026-10-06T16:00:14+00:00`
-- etag: `"f9994154d398e7d35ce99d14915ba32c"`
-- last_modified: `Tue, 06 Oct 2026 13:00:23 GMT`
+- fetched_at: `2026-10-13T16:59:16+00:00`
+- checked_at: `2026-10-13T16:59:16+00:00`
+- etag: `"675da2794a3078a3ae900cddd1ad9f23"`
+- last_modified: `Tue, 13 Oct 2026 13:00:22 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-10-06T16:00:14+00:00",
+  "fetched_at": "2026-10-13T16:59:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "77951bc76269ba2d1347936183ed599c6e99e5dd",
+      "title": "Ep11 | Delta Green: Convergence - The Scoop of the Century",
+      "published_at": "2026-10-13T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/3211365",
+      "description": "With things suddenly getting very serious at the reservior, another complication demands the team think fast and put their goddamn clothes back on! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/3211365/green-box-gaming/2026_10_06_06_44_33_85e63a9d-f92a-4aa2-ab8a-8dc6cdf9f1f8.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73694144",
+      "itunes_duration": "4605",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "convergence",
+        "scoop",
+        "century"
+      ]
+    },
     {
       "key": "03aaae92912c730fe372da6c04b2801b631afe6a",
       "title": "Ep2 | Thousand Year Old Vampire w/ Joe - Not Friends",
@@ -4404,6 +4424,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-13 — Ep11 | Delta Green: Convergence - The Scoop of the Century
 - 2026-10-06 — Ep2 | Thousand Year Old Vampire w/ Joe - Not Friends — speakers: Thousand Year Old Vampire, Not Friends What
 - 2026-09-29 — Ep1 | Thousand Year Old Vampire w/ Joe - All Consuming Hunger — speakers: Hunger Dace
 - 2026-09-22 — Ep10 | Delta Green: Convergence - Friendly Faces — speakers: Delta Green
