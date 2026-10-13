@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-10-08T18:53:31+00:00`
-- checked_at: `2026-10-08T18:53:31+00:00`
-- etag: `"b6f335feb1b6501d4739bcbc571a79a5"`
-- last_modified: `Wed, 07 Oct 2026 17:21:41 GMT`
+- fetched_at: `2026-10-13T22:52:14+00:00`
+- checked_at: `2026-10-13T22:52:14+00:00`
+- etag: `"14041ee879958f96a639041cf32fe945"`
+- last_modified: `Tue, 13 Oct 2026 20:39:35 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/9ba52d4c-4e8c-4203-a3de-be89969671f2/19f0432c-ab24-49c1-946c-6c5e76f33ed8/3000x3000/cropped_1791393495062.jpg?aid=rss_feed",
-  "fetched_at": "2026-10-08T18:53:31+00:00",
+  "fetched_at": "2026-10-13T22:52:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -35,8 +35,8 @@
       "image_url": "https://image.simplecastcdn.com/images/ee8ef2f9-5bb2-4a0a-bad7-44fd3b17d53c/5f8a7f68-48be-4b15-bfe4-f6aeca3afbb7/3000x3000/cropped_1791393654556.jpg?aid=rss_feed",
       "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/c572193b-028c-47ee-9660-f4bbfa831faf/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=c572193b-028c-47ee-9660-f4bbfa831faf&feed=cYQVc__c",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "70024818",
-      "itunes_duration": "01:02:44",
+      "enclosure_length": "78308771",
+      "itunes_duration": "01:05:53",
       "speakers": [],
       "topics": [
         "adventure",
@@ -92,7 +92,7 @@
       "published_at": "2026-09-03T11:00:00+00:00",
       "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-versus-hercules-live-in-austin-Gh0h5Awt",
       "description": "Who puts the glad in gladiator? Phileaux, Godwin, and Winnie-the-Pooh, obviously. The Dracula-slaying trio are tasked by the privileged son of Zeus to slay the beast of the underworld: Cerberus. But faced with golden apples, monsters, and way more rivers than we have time for, will they have enough stretched pennies to make it in time? Midwest Food Bank: https://midwestfoodbank.org/disaster-relief/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
-      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/a7ae55a3-c5af-4676-b159-1c1e668b59c9/3000x3000/cropped_1788362548087.jpg?aid=rss_feed",
+      "image_url": "https://image.simplecastcdn.com/images/9ba52d4c-4e8c-4203-a3de-be89969671f2/0ed1cec0-161f-4e95-b72e-5f66db89c964/3000x3000/cropped_1791923956212.jpg?aid=rss_feed",
       "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/45b39c60-e102-4d86-ad5f-ab9ab1729fda/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=45b39c60-e102-4d86-ad5f-ab9ab1729fda&feed=cYQVc__c",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101007697",

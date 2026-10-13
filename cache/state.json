@@ -146,8 +146,8 @@
       "etag": "\"4897032ceb742832ccad5ea8b88d2d53\""
     },
     "advantage-a-5e-dungeons-dragons-podcast": {
-      "last_checked_at": "2026-10-13T16:59:16+00:00",
-      "last_checked_unix": 1791910759,
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931938,
       "consecutive_failures": 0
     },
     "aint-slayed-nobody-call-of-cthulhu-actual-play": {
@@ -201,8 +201,8 @@
       "last_modified": "Thu, 09 Jul 2026 12:00:21 GMT"
     },
     "cosmic-crit-a-starfinder-actual-play-podcast": {
-      "last_checked_at": "2026-10-13T16:59:16+00:00",
-      "last_checked_unix": 1791910759,
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931938,
       "last_modified": "Tue, 06 Oct 2026 14:28:39 GMT",
       "consecutive_failures": 0
     },
@@ -250,8 +250,8 @@
       "etag": "\"djEuMi4wOjE3OTEzMDI0Mzk0NTM=\""
     },
     "worlds-beyond-number": {
-      "last_checked_at": "2026-10-13T16:59:16+00:00",
-      "last_checked_unix": 1791910758,
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931937,
       "etag": "\"1a681164fea435c57e9786ecfc25edff\"",
       "last_modified": "Tue, 13 Oct 2026 09:00:20 GMT"
     },
@@ -285,8 +285,8 @@
       "consecutive_failures": 0
     },
     "dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast": {
-      "last_checked_at": "2026-10-13T16:59:16+00:00",
-      "last_checked_unix": 1791910761,
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931938,
       "last_modified": "Thu, 08 Oct 2026 02:23:48 GMT",
       "consecutive_failures": 0
     },
@@ -302,8 +302,8 @@
       "consecutive_failures": 0
     },
     "force-majeure-a-star-wars-actual-play-podcast": {
-      "last_checked_at": "2026-10-13T16:59:16+00:00",
-      "last_checked_unix": 1791910759,
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931939,
       "etag": "\"1e2c3371a74381c8d1f55bc7e9af0790\"",
       "last_modified": "Sun, 04 Oct 2026 23:35:22 GMT"
     },
@@ -375,8 +375,8 @@
       "last_modified": "Wed, 17 Jun 2026 22:53:53 GMT"
     },
     "high-rollers-dnd": {
-      "last_checked_at": "2026-10-13T16:59:16+00:00",
-      "last_checked_unix": 1791910760,
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931938,
       "last_modified": "Tue, 13 Oct 2026 07:07:18 GMT"
     },
     "how-we-roll-podcast": {
@@ -409,17 +409,17 @@
       "last_modified": "Sat, 06 Dec 2025 17:09:19 GMT"
     },
     "legendlark": {
-      "last_checked_at": "2026-10-13T16:59:16+00:00",
-      "last_checked_unix": 1791910762,
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931940,
       "etag": "W/\"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ\"",
       "consecutive_failures": 0,
       "last_modified": "Sat, 10 Oct 2026 01:32:03 GMT"
     },
     "nerd-poker": {
-      "last_checked_at": "2026-10-06T22:41:15+00:00",
-      "last_checked_unix": 1791326480,
-      "etag": "\"8809a7e0c68084d2ef0f0496ec9d08cb\"",
-      "last_modified": "Tue, 06 Oct 2026 20:32:42 GMT"
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931940,
+      "etag": "\"fb85302be85f60c6a0b639a5d23c6860\"",
+      "last_modified": "Tue, 13 Oct 2026 19:38:29 GMT"
     },
     "not-another-d-d-podcast": {
       "last_checked_at": "2026-10-09T10:41:22+00:00",
@@ -428,8 +428,8 @@
       "consecutive_failures": 0
     },
     "one-shot": {
-      "last_checked_at": "2026-10-13T16:59:16+00:00",
-      "last_checked_unix": 1791910762,
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931939,
       "last_modified": "Thu, 01 Oct 2026 15:28:37 GMT",
       "consecutive_failures": 0
     },
@@ -463,8 +463,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "archives-fandible-actual-play-podcast": {
-      "last_checked_at": "2026-10-13T16:59:16+00:00",
-      "last_checked_unix": 1791910762,
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931940,
       "etag": "\"46675416d2b03f2477a3fe9584a47dae\"",
       "consecutive_failures": 0
     },
@@ -565,8 +565,8 @@
       "last_modified": "Mon, 11 May 2026 10:05:55 GMT"
     },
     "tales-from-the-stinky-dragon": {
-      "last_checked_at": "2026-10-13T16:59:16+00:00",
-      "last_checked_unix": 1791910762,
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931940,
       "last_modified": "Wed, 30 Sep 2026 08:00:08 GMT"
     },
     "taking-initiative": {
@@ -576,10 +576,10 @@
       "last_modified": "Fri, 29 May 2026 14:51:13 GMT"
     },
     "the-adventure-zone": {
-      "last_checked_at": "2026-10-13T16:59:16+00:00",
-      "last_checked_unix": 1791910762,
-      "etag": "\"b6f335feb1b6501d4739bcbc571a79a5\"",
-      "last_modified": "Wed, 07 Oct 2026 17:21:41 GMT"
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931940,
+      "etag": "\"14041ee879958f96a639041cf32fe945\"",
+      "last_modified": "Tue, 13 Oct 2026 20:39:35 GMT"
     },
     "adventure-is-nigh": {
       "last_checked_at": "2026-06-17T22:53:47+00:00",
@@ -628,9 +628,9 @@
       "last_modified": "Mon, 12 Oct 2026 04:00:00 GMT"
     },
     "the-heresies-of-radulf-burntwine": {
-      "last_checked_at": "2026-10-13T16:59:16+00:00",
-      "last_checked_unix": 1791910762,
-      "last_modified": "Thu, 01 Oct 2026 14:51:57 GMT"
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931940,
+      "last_modified": "Tue, 13 Oct 2026 19:32:11 GMT"
     },
     "the-iron-realm-mega-dungeon-crawl-dark-fantasy-solo-rpg-gaming-podcast": {
       "last_checked_at": "2026-08-06T11:34:56+00:00",
@@ -659,9 +659,9 @@
       "last_modified": "Fri, 09 Oct 2026 16:10:10 GMT"
     },
     "natural-six": {
-      "last_checked_at": "2026-10-06T22:41:15+00:00",
-      "last_checked_unix": 1791326480,
-      "etag": "\"djEuMi4wOjE3OTEzMTMyMzkzMDE=\""
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931942,
+      "etag": "\"djEuMi4wOjE3OTE5MTgwMzk0OTQ=\""
     },
     "the-apocalypse-players": {
       "last_checked_at": "2026-10-12T21:18:24+00:00",
@@ -722,13 +722,13 @@
       "disabled_reason": "3 consecutive failures"
     },
     "we-fix-space-junk": {
-      "last_checked_at": "2026-10-13T16:59:16+00:00",
-      "last_checked_unix": 1791910762,
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931942,
       "last_modified": "Sun, 20 Sep 2026 11:06:25 GMT"
     },
     "who-lives-who-dice": {
-      "last_checked_at": "2026-10-13T16:59:16+00:00",
-      "last_checked_unix": 1791910763,
+      "last_checked_at": "2026-10-13T22:52:14+00:00",
+      "last_checked_unix": 1791931943,
       "etag": "\"38cf2556dc0e6bb49281209eb5974297\"",
       "last_modified": "Sun, 03 May 2026 08:52:08 GMT",
       "consecutive_failures": 0
@@ -740,5 +740,5 @@
       "etag": "W/\"b031b-LD7/U/lZqze7YJg7MAgKzhv4Rjg\""
     }
   },
-  "updated_at": "2026-10-13T16:59:16+00:00"
+  "updated_at": "2026-10-13T22:52:14+00:00"
 }

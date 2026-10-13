@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-10-06T22:41:15+00:00`
-- checked_at: `2026-10-06T22:41:15+00:00`
-- etag: `"djEuMi4wOjE3OTEzMTMyMzkzMDE="`
+- fetched_at: `2026-10-13T22:52:14+00:00`
+- checked_at: `2026-10-13T22:52:14+00:00`
+- etag: `"djEuMi4wOjE3OTE5MTgwMzk0OTQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-10-06T22:41:15+00:00",
+  "fetched_at": "2026-10-13T22:52:14+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "db962720ec0d296ce37921b1bddb9ec213d584fe",
+      "title": "Ep. 65 Hot and Bothered",
+      "published_at": "2026-10-13T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-65-everything",
+      "description": "With the dust beginning the settle and a new dawn on the horizon, the scales begin to tip in a new direction. Blood is thicker than water but what of gold? Time will tell. A thick canopy of bark and branch might obscure the way for some. For others it creates a path clearer than any road. Perhaps we all end up exactly where we’re mean to be. And what of rest? When waters boil and steam rises, do you let yourself soak in the stillness or prepare yourself for what awaits in the cold? --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6acd61a82c705f746c05f914/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "183396310",
+      "itunes_duration": "3:11:02",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": []
+    },
     {
       "key": "40896a717cddfcfcbcbea155998088376ec95bb0",
       "title": "Action Surge Episode 64",
@@ -3375,6 +3396,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-13 — Ep. 65 Hot and Bothered — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-10-06 — Action Surge Episode 64 — speakers: https discord, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-09-29 — Ep. 64 Glass and Gold — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-09-22 — Action Surge Episode 63 — speakers: https discord, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
