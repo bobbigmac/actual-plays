@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-10-07T13:33:27+00:00`
-- checked_at: `2026-10-07T13:33:27+00:00`
-- etag: `"djEuMi4wOjE3OTEzNTY0Mzk2ODY="`
+- fetched_at: `2026-10-14T12:01:51+00:00`
+- checked_at: `2026-10-14T12:01:51+00:00`
+- etag: `"djEuMi4wOjE3OTE5NjEyMzk5Njc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-10-07T13:33:27+00:00",
+  "fetched_at": "2026-10-14T12:01:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,24 @@
   ],
   "episodes": [
     {
+      "key": "0efe680cf27e1666211a0b727deaa442c83bb09c",
+      "title": "Ep. 351: Jammed - I'm a Shark and I'm Ready to Make Friends | #DND",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this Dungeons and Dragons adventure, the crew spends the long flight weighing impossible approaches, stranger disguises, and plans that become less sensible the longer they are discussed. Ancient Stones of Far Speech offer a fragile connection to the outside world, unfamiliar names begin to surface, and Noah the hammerhead shark finds himself at the centre of a scheme that should probably never have survived first contact with reality. As the Dice begin to turn, what starts as an infiltration slowly takes on the shape of something far less predictable. Three days later, the fortress appears through the open sky, surrounded by armed vessels and watched from every direction. The plan has been chosen. The pieces are moving into place. And somewhere inside that heavily guarded compound, someone may already know they are coming. In this DnD story, getting through the door might prove surprisingly easy, it is what waits on the other side that should worry them. Why is the facility guarded as though it is protecting something more dangerous than a scientist? Who else might be listening when the Stones of Far Speech begin to whisper? And when the Trojan Shark finally reaches the gates, will anyone inside realise what they have just allowed in? There's only one way to find out, grab your Dnd Dice, join Dungeon Master James , Alex ( Lance Goodthrust ), Chip ( Feets Duo ) and Special Guests from Roll From the Hip , Tom Mayo ( Lady Violence ) and Tom Midgely ( Togali ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1790699767149-4973d49e-08a5-48da-8219-75a1c198dd14.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6abbea898ec4e79ce659a399/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49301629",
+      "itunes_duration": "51:21",
+      "speakers": [],
+      "topics": [
+        "jammed",
+        "shark",
+        "friend"
+      ]
+    },
+    {
       "key": "e71d86f65528461d9125b5061f0785e1a5ba8dfc",
       "title": "Ep. 350: Jammed - It's A Wonderful World Out There | #DND",
       "published_at": "2026-10-07T07:00:00+00:00",
@@ -35,8 +53,8 @@
       "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1790699621989-5da3c595-c34e-4970-bda6-65bfce8dfad6.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6abbe8e24e059d44b52977e4/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "49760548",
-      "itunes_duration": "51:49",
+      "enclosure_length": "50663758",
+      "itunes_duration": "52:46",
       "speakers": [
         "Wonderful World Out There"
       ],
@@ -8184,6 +8202,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — Ep. 351: Jammed - I'm a Shark and I'm Ready to Make Friends | #DND
 - 2026-10-07 — Ep. 350: Jammed - It's A Wonderful World Out There | #DND — speakers: Wonderful World Out There
 - 2026-09-30 — Ep. 349 Roll Britannia LIVE - The Mask Of A Thousand Faces - MCM Comic Con Birmingham 2026 | #DND
 - 2026-09-30 — Ep. 349 Roll Britannia LIVE - The Mask Of A Thousand Faces - MCM Comic Con Birmingham 2026 | #DND

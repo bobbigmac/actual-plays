@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-10-14T05:00:52+00:00`
-- checked_at: `2026-10-14T05:00:52+00:00`
-- last_modified: `Wed, 14 Oct 2026 04:47:41 GMT`
+- fetched_at: `2026-10-14T12:01:51+00:00`
+- checked_at: `2026-10-14T12:01:51+00:00`
+- last_modified: `Wed, 14 Oct 2026 08:00:02 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-14T05:00:52+00:00",
+  "fetched_at": "2026-10-14T12:01:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "e332f914787527e27f72638b55c94aa8dde1184c",
+      "title": "C03 - Ep. 54 - Under Oondar Fire - Pinkies Pinkies Everywhere!",
+      "published_at": "2026-10-14T08:00:00+00:00",
+      "link": null,
+      "description": "Brutaliteam deal with secret sigils and raucous rituals as they continue through Shady Pines Mines! Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new merch at store.stinkydragonpod.com - Dice, Player Character Tees, Blankets, Hoodies, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4ec6a66e-dadb-11f0-a213-7395b047108d/image/dd5cf5d2c76ef64c0ec2e42a421975ae.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/485/traffic.megaphone.fm/GLSS4185789653.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5459",
+      "speakers": [
+        "secret sigils"
+      ],
+      "topics": [
+        "oondar",
+        "fire",
+        "pinky",
+        "pinkies"
+      ]
+    },
     {
       "key": "26015c9bff5146c28bcac256aac15f3d5c161755",
       "title": "C03 - Ep. 53 - Under Oondar Fire - Headin' to the Weddin'",
@@ -4481,6 +4502,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — C03 - Ep. 54 - Under Oondar Fire - Pinkies Pinkies Everywhere! — speakers: secret sigils
 - 2026-09-30 — C03 - Ep. 53 - Under Oondar Fire - Headin' to the Weddin' — speakers: Shady Pines Mines
 - 2026-09-16 — C03 - Ep. 52 - Under Oondar Fire - Breath of Flesh Air — speakers: Under Oondar Fire, Flesh Air Brutaliteam, Gender Bender Vendors
 - 2026-09-02 — C03 - Ep. 51 - Under Oondar Fire - All Is Not Last — speakers: Chimirrora Keep
