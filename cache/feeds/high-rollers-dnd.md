@@ -2,9 +2,9 @@
 
 - slug: `high-rollers-dnd`
 - source: `https://feeds.megaphone.fm/NSR8625352094`
-- fetched_at: `2026-10-13T16:59:16+00:00`
-- checked_at: `2026-10-13T16:59:16+00:00`
-- last_modified: `Tue, 13 Oct 2026 07:07:18 GMT`
+- fetched_at: `2026-10-14T21:46:24+00:00`
+- checked_at: `2026-10-14T21:46:24+00:00`
+- last_modified: `Wed, 14 Oct 2026 18:57:22 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://highrollersdnd.libsyn.com/website",
   "description": "Welcome to High Rollers, a live-play Dungeons & Dragons podcast! Join Dungeon Master Mara Holmes and her players as they explore Altheya: The Dragon Empire on Europe's biggest independent TTRPG stream. Episodes go live Tuesdays and Thursdays, or watch live every Sunday at 5pm UK Time on twitch.tv/highrollersdnd or youtube.com/highrollersdnd!",
   "image_url": "https://megaphone.imgix.net/podcasts/b072907c-ca95-11eb-b4a3-f71bfb3de22d/image/PodcastV1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-13T16:59:16+00:00",
+  "fetched_at": "2026-10-14T21:46:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
