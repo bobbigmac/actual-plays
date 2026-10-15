@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-10-13T22:52:14+00:00`
-- checked_at: `2026-10-13T22:52:14+00:00`
-- etag: `"14041ee879958f96a639041cf32fe945"`
-- last_modified: `Tue, 13 Oct 2026 20:39:35 GMT`
+- fetched_at: `2026-10-15T11:39:06+00:00`
+- checked_at: `2026-10-15T11:39:06+00:00`
+- etag: `"c9a419fcf04576ca5ddef612b48ef6e0"`
+- last_modified: `Thu, 15 Oct 2026 11:00:24 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/9ba52d4c-4e8c-4203-a3de-be89969671f2/19f0432c-ab24-49c1-946c-6c5e76f33ed8/3000x3000/cropped_1791393495062.jpg?aid=rss_feed",
-  "fetched_at": "2026-10-13T22:52:14+00:00",
+  "fetched_at": "2026-10-15T11:39:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "253e838f390efe6f601dbc595c412383b9b62340",
+      "title": "The Adventure Zone Providence: Episode 2",
+      "published_at": "2026-10-15T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-providence-episode-2-BZsVEUMb",
+      "description": "Tintabula, Spira, and Minutiae investigate a very personal robbery by questioning a schoolbell, a rogue lobster, and the mysterious new island community members. We're playing Super Normal from Ursidice: https://ursidice.com/supernormal/ Original Music by Griffin McElroy Additional Music in this Episode: \"Ancient\" by Lightning Traveler: https://open.spotify.com/artist/1oLhhXyQ8Xf4CUrO7Ir0vU; Creeping Scary Atmosphere for Night Scenes\" by Alex Morgan: https://freemusicarchive.org/music/alex-morgan/; and \"Atlantis\" by Jason Shaw: https://audionautix.com/. Center for Reproductive Rights: https://reproductiverights.org/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
+      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/075e3074-af23-4325-bee2-40d1d426b848/3000x3000/cropped_1791986898717.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/5b9b4c49-1c2a-465f-bece-a138f5048b2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=5b9b4c49-1c2a-465f-bece-a138f5048b2e&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67347755",
+      "itunes_duration": "00:54:29",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "providence"
+      ]
+    },
     {
       "key": "454a138f862ebdd68b39d09bb197498b3d966395",
       "title": "The Adventure Zone Providence: Episode 1",
@@ -8183,6 +8201,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — The Adventure Zone Providence: Episode 2
 - 2026-10-01 — The Adventure Zone Providence: Episode 1
 - 2026-09-28 — The Adventure Zone: Providence Trailer — speakers: New England
 - 2026-09-17 — The Adventure Zone Versus The Wonderful Wizard of Oz: Live in St. Paul! — speakers: Good Witch
