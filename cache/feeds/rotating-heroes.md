@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-10-09T10:41:22+00:00`
-- checked_at: `2026-10-09T10:41:22+00:00`
-- etag: `W/"35c6c8d78b5641142a71583b1c085f35"`
-- last_modified: `Fri, 09 Oct 2026 09:00:00 GMT`
+- fetched_at: `2026-10-16T11:32:55+00:00`
+- checked_at: `2026-10-16T11:32:55+00:00`
+- etag: `W/"d237be5943de7ab04c952ab29fb87c03"`
+- last_modified: `Fri, 16 Oct 2026 09:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,29 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-10-09T10:41:22+00:00",
+  "fetched_at": "2026-10-16T11:32:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "ac429948e1563a33d18130ddd74444585d88e455",
+      "title": "Axis Arc 4 Ep 3 - Live On Air PART 2",
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "link": "https://audioboom.com/posts/8952403",
+      "description": "Tundra and Shaddy arrive at Vox Vinny’s studio as they prepare to go live to the galaxy in a bid to find Aully. --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code AULLY50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! If you haven't checked it out in a while why not also head on over to our merch store , it's getting a revamp soon so this might be your last chance to grab some of the current designs we have in stock! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then listen to 12 Sided Studios' newest production Oaths & Empires : a dark fantasy D&D adventure featuring Kingdom Come: Deliverance II's Luke Dale and Tom McKay. Set in the Witcher-esk inspired world of the Isle of Veil, journey with our two rookie players as they navigate their very first game. Rotating Heroes is a 12 Sided Studios Production",
+      "image_url": "https://audioboom.com/i/43833898.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8952403.mp3?modified=1789378925&sid=5167570&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2629",
+      "speakers": [],
+      "topics": [
+        "axis"
+      ]
+    },
     {
       "key": "09cb6de44c5c3c3d461ed0e363a8e3c356bdeb3f",
       "title": "Axis Arc 4 Ep 3 - Live On Air PART 1",
@@ -3043,6 +3059,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-16 — Axis Arc 4 Ep 3 - Live On Air PART 2
 - 2026-10-09 — Axis Arc 4 Ep 3 - Live On Air PART 1
 - 2026-10-02 — Axis Arc 4 Ep 2 - Employee of the Month PART 2 — speakers: Axis Arc
 - 2026-09-25 — Axis Arc 4 Ep 2 - Employee of the Month PART 1 — speakers: Axis Arc
