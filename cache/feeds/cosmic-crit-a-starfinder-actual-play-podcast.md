@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-10-06T16:00:14+00:00`
-- checked_at: `2026-10-06T16:00:14+00:00`
-- last_modified: `Tue, 06 Oct 2026 14:28:39 GMT`
+- fetched_at: `2026-10-16T04:39:19+00:00`
+- checked_at: `2026-10-16T04:39:19+00:00`
+- last_modified: `Fri, 16 Oct 2026 00:35:30 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-10-06T16:00:14+00:00",
+  "fetched_at": "2026-10-16T04:39:19+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "599f51154218c784e8dd9354265c40681251c2f8",
+      "title": "Alien TTRPG 2026 | Episode 0",
+      "published_at": "2026-10-15T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/alien-ttrpg-2026-episode-0/",
+      "description": "The Cosmic Crit crew takes another shot at the Alien TTRPG this year to celebrate the spooky season! In this episode, Patrick (the Game Mother) casts the characters and we learn a little about the adventure we'll be embarking on.",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2026/10/Aliens-2026.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3877/alien-ttrpg-2026-episode-0.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50873793",
+      "itunes_duration": "0:00",
+      "speakers": [],
+      "topics": [
+        "alien",
+        "ttrpg"
+      ]
+    },
     {
       "key": "0dd456b349872f2151746f46974d2f11b907351b",
       "title": "Guilt of the Grave World | 033: Real Hoardwives of Triaxus",
@@ -9297,6 +9314,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — Alien TTRPG 2026 | Episode 0
 - 2026-09-28 — Guilt of the Grave World | 033: Real Hoardwives of Triaxus — speakers: Grave World, Real Hoardwives, Media Productions
 - 2026-09-21 — Guilt of the Grave World | 032: The Great Eoxian Bake Off — speakers: Grave World, Sabotage Souffle
 - 2026-09-14 — Guilt of the Grave World | 031: Two Broke Grills — speakers: Grave World, Sabotage Souffle Eoxian

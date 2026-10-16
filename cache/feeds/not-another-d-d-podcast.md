@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-10-09T10:41:22+00:00`
-- checked_at: `2026-10-09T10:41:22+00:00`
-- last_modified: `Fri, 09 Oct 2026 01:43:05 GMT`
+- fetched_at: `2026-10-16T04:39:19+00:00`
+- checked_at: `2026-10-16T04:39:19+00:00`
+- last_modified: `Fri, 16 Oct 2026 02:38:01 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-10-09T10:41:22+00:00",
+  "fetched_at": "2026-10-16T04:39:19+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,28 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "7d6bd68b663f00d7541a5886e6a772bae4da3b13",
+      "title": "Skaldova Season 2 - Ep. 4: The Bog",
+      "published_at": "2026-10-15T04:00:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/42c480d1-f149-49a3-95a2-9cc18bf2299e",
+      "description": "Welly's Fellies arrive at the moor. Boggy goes hunting, Zudrick gets heated, and Welly makes a shocking discovery. Sound Mixing and Editing by Brian Murphy and Faris Monshi Music / Sound Effects Include: \"Blackthorn Hall\" by Emily Axford \"The Blade and the Smith\" by Emily Axford \"Cured by the Light\" by Emily Axford \"The Baroness\" by Emily Axford \"Snake Fight\" by Emily Axford \"Growing Pains\" by Emily Axford \"Hexblood Centurion\" by Emily Axford \"Ender's Waltz\" by Emily Axford See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/39/cb/11/07/39cb1107-3f14-42d1-bc56-aa1114b6054e/4a02aff068cc7de4d85f5717594599931a287d330bf4df3d7df97c2a29ba86b0a1e9e5de1bc52c3762fa52549cfbb3551464bc574e7b015eee9cba2005faa86d.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/42c480d1-f149-49a3-95a2-9cc18bf2299e.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62936711",
+      "itunes_duration": "01:05:33",
+      "speakers": [
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "skaldova",
+        "season"
+      ]
+    },
     {
       "key": "ca7ba5691d93cd898052fa7ec5b0d81aa2363f89",
       "title": "Skaldova Season 2 - Ep. 3: The Big Sister",
@@ -11553,6 +11575,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — Skaldova Season 2 - Ep. 4: The Bog — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-10-08 — Skaldova Season 2 - Ep. 3: The Big Sister — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-10-01 — Adventure Book Theatre - Goosebumps: Trapped in Bat Wing Hall — speakers: Bat Wing Hall, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-09-24 — Skaldova Season 2 - Ep. 2: The Order of the Compass and Crow — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
