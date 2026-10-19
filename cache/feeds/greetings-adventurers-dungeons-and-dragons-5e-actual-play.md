@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-10-19T13:30:21+00:00`
-- checked_at: `2026-10-19T13:30:21+00:00`
-- etag: `"djEuMi4wOjE3OTI0MDYwNDk4MDQ="`
+- fetched_at: `2026-10-19T20:37:21+00:00`
+- checked_at: `2026-10-19T20:37:21+00:00`
+- etag: `"djEuMi4wOjE3OTI0MjIwMzk0NDM="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-10-19T13:30:21+00:00",
+  "fetched_at": "2026-10-19T20:37:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "deeeb0d15e39096aeceee81533413ab03d75a0af",
+      "title": "Mailbag!",
+      "published_at": "2026-10-19T15:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/mailbag",
+      "description": "Gather around the warm glow of your pod players because it is time for another mail bag episode. We deep dive into you burning questions and maybe, just maybe, get a little real. A new adventure begins with Mike Bachmann , Jennifer Cheek , Michael DiMauro , Tim Lanning , and our Dungeon Master Nika Howard . Edited by Vincent. Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1792405692637-3277ee8f-e961-4612-b752-bd2d2d186bd8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6ad5f2051df7d2f5682b1f84/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114748256",
+      "itunes_duration": "1:19:40",
+      "speakers": [],
+      "topics": [
+        "mailbag"
+      ]
+    },
     {
       "key": "0e4c51e29afb0d2894d968b526548b940a894ffd",
       "title": "Owari no Hajimari: Episode 2",
@@ -12716,6 +12732,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-19 — Mailbag!
 - 2026-10-12 — Owari no Hajimari: Episode 2
 - 2026-10-05 — Owari no Hajimari: Episode 1
 - 2026-09-28 — Owari no Hajimari: Episode 0
