@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-10-18T15:56:39+00:00`
-- checked_at: `2026-10-18T15:56:39+00:00`
-- etag: `"3876ffb42bfeecb07647d0ffcae7af05"`
-- last_modified: `Sun, 18 Oct 2026 14:43:06 GMT`
+- fetched_at: `2026-10-19T04:50:34+00:00`
+- checked_at: `2026-10-19T04:50:34+00:00`
+- etag: `"52c171ea969cf3e8279b3d34f65faf04"`
+- last_modified: `Sun, 18 Oct 2026 23:35:01 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! linktr.ee/albertthellama",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-10-18T15:56:39+00:00",
+  "fetched_at": "2026-10-19T04:50:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "f8030cc12d6eb5538505f3dcee559e3fecc1b1dd",
+      "title": "A Shot At Redemption E19 - Hammer To Fall",
+      "published_at": "2026-10-18T23:30:00+00:00",
+      "link": "https://forcemajeurepod.libsyn.com/a-shot-at-redemption-e19-hammer-to-fall",
+      "description": "It's quiet. Too quiet... Cast! Adam Beltaine is your GM, and can be found on Bluesky as @maddambeltaine.bsky.social Lou plays Tryk C Rangavoon, and can be found on Bluesky at @magpiehound.bsky.social Mikey plays Jax Vorn, and can be found on Bluesky at @weaselpunk.bsky.social Tom plays Kip Kazian and can be found on Bluesky at @tcpatrick.bsky.social as well as GMing the wonderful Dice Company podcast Geoff plays Kalro Vatts, and sensibly has no social media presence Follow us on social media! All our links can now be found here: linktr.ee/albertthellama Support Albert the Llama Enterprises! If you like what we do and have some spare money, we have both a Patreon and a Ko-Fi account. We are extremely grateful for your support. https://www.patreon.com/forcemajeurepod ko-fi.com/forcemajeurepod Intro and Supplemental Music: Composed by Sly Fox Audio - check out more of her stuff on soundcloud.com/slyfoxaudio Additional Music: \"Mystery Unsolved\" \"Moments\" both by Silverman Sounds ( https://www.silvermansound.com/ ) \"The Backrooms Music 9\" by Sascha Ende ( https://ende.app/en ) \"Pre-Apocalypse\" \"Peek-Aboo\" \"Mint Condition\" \"He's A Parrot\" \"Dark Hollows\" all by Alexander Nakarada ( https://creatorchords.com/ ) \"The Lost World\" by Myuu / Nicholas Gasparini ( https://www.thedarkpiano.com/ ) \"Starforged: Vault (No Footsteps Patreon Exclusive Version)\" both by Tabletop Audio ( www.tabletopaudio.com ) All used with gratitude under the Creative Commons licence",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/forcemajeurepod/Redemption_E19.mp3?dest-id=604132",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58579958",
+      "itunes_duration": "47:59",
+      "speakers": [
+        "Adam Beltaine"
+      ],
+      "topics": [
+        "shot",
+        "redemption",
+        "hammer"
+      ]
+    },
     {
       "key": "216f8982bf3e9b9c8e9c3af28a19682b8af940b7",
       "title": "A Shot At Redemption E18 - The Numbers Don't Add Up",
@@ -4641,6 +4661,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-18 — A Shot At Redemption E19 - Hammer To Fall — speakers: Adam Beltaine
 - 2026-10-04 — A Shot At Redemption E18 - The Numbers Don't Add Up — speakers: Add Up Only
 - 2026-09-20 — A Shot At Redemption E17 - Darkness Falls
 - 2026-09-06 — A Shot At Redemption E16 - The Wars to Come — speakers: some pla
