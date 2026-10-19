@@ -2,9 +2,9 @@
 
 - slug: `aint-slayed-nobody-call-of-cthulhu-actual-play`
 - source: `https://feeds.acast.com/public/shows/632da7cf6d7ffa0012565ffa`
-- fetched_at: `2026-06-05T15:29:28+00:00`
-- checked_at: `2026-06-05T15:29:28+00:00`
-- etag: `"djEuMi4wOjE3ODAwNTA2Mzk0NDc="`
+- fetched_at: `2026-10-19T13:30:21+00:00`
+- checked_at: `2026-10-19T13:30:21+00:00`
+- etag: `"djEuMi4wOjE3OTEyMTUyNjAwMjM="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.aintslayednobody.com",
   "description": "A Call of Cthulhu Actual Play of Horror, Comedy, and the Weird West",
   "image_url": "https://assets.pippa.io/shows/632da7cf6d7ffa0012565ffa/1770424763930-7baac491-35cc-4c89-9b14-2a85d1740d9d.jpeg",
-  "fetched_at": "2026-06-05T15:29:28+00:00",
+  "fetched_at": "2026-10-19T13:30:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/call-of-cthulhu"
   ],
   "episodes": [
+    {
+      "key": "2edb53944b76e20b4ab931c06b4945efe0cd7d8e",
+      "title": "Bits and Pieces | Call of Cthulhu One-shot",
+      "published_at": "2026-10-05T15:47:39+00:00",
+      "link": "https://shows.acast.com/aint-slayed-nobody/episodes/bits-and-pieces-call-of-cthulhu-one-shot",
+      "description": "A frantic call from an old friend pulls four unlikely allies into a very bad night at St. Mary's Teaching Hospital. The morgue is a mess and things will get increasingly flammable from there. CONTENT WARNINGS: body horror, dismemberment, gun violence, medical trauma, fire and arson, explosions, alcohol use, drugging, war trauma and flashbacks, animal injury, profanity, violence Cast cuppycup as Keeper of Arcane Lore Kat Edmonds as Freya Harris Camille Brouard as Ian Fondglee Graeme Patrick as Dr. Harold Ricketts Scott Dorward as Charlie Govern Production and Creative Editing by Zach Sokol and cuppycup Patreon: https://patreon.com/aintslayed Leave a Tip: https://streamlabs.com/pushtheroll/tip Merch: https://shop.pushtheroll.com/ Discord: https://slayed.me/discord Web: https://pushtheroll.com Instagram: https://instagram.com/pushtheroll Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/632da7cf6d7ffa0012565ffa/1770424763930-7baac491-35cc-4c89-9b14-2a85d1740d9d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/632da7cf6d7ffa0012565ffa/e/6ac3c69b924bc02b5546812a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "259202494",
+      "itunes_duration": "2:15:00",
+      "speakers": [
+        "Cthulhu One"
+      ],
+      "topics": [
+        "pieces",
+        "cthulhu",
+        "shot"
+      ]
+    },
     {
       "key": "1ad5b7559c49f53ddd41ac77e0fabcb46746000a",
       "title": "The Between 33 - Leaving a Mark",
@@ -3654,6 +3674,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-05 — Bits and Pieces | Call of Cthulhu One-shot — speakers: Cthulhu One
 - 2026-05-29 — The Between 33 - Leaving a Mark
 - 2026-05-12 — The Between 32 - We Are All Monsters — speakers: Hargrave House
 - 2026-05-05 — The Between 31 - Doors Closing
