@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-10-06T22:41:15+00:00`
-- checked_at: `2026-10-06T22:41:15+00:00`
-- etag: `"djEuMi4wOjE3OTEzMDI0Mzk0NTM="`
+- fetched_at: `2026-10-20T19:20:32+00:00`
+- checked_at: `2026-10-20T19:20:32+00:00`
+- etag: `"djEuMi4wOjE3OTI1MTIwMzk1NTc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-10-06T22:41:15+00:00",
+  "fetched_at": "2026-10-20T19:20:32+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -32,6 +32,31 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "460d691c4f41e4ef9d3251ced1734d27b4a9613c",
+      "title": "S4 Ep. 19 - Death Cab, Four Cuties",
+      "published_at": "2026-10-20T16:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "Wikipedia Chris Nolan Odyssey plot summary This episode contains Profanity, Violence, and Sexual Content. 🚨🔨Fresh from the forge - our plushie drop of Walter the Immoral is now available! Head on over to Youtooz.com and get your hands on him today!🚨🔨 The last day to order will be November 17th , and once they sell out they are gone for good! Also, did you miss out on our Dungeons and Daddies: Not a BDSM Sourcebook crowdfund campaign? Our Late Pledge Store is now open, so you still have a chance to contribute to our zany literary antics. Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1792471240135-c147f5fe-a1b6-4aa9-8523-04f3b7e5ff46.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/6ad6f89b819a15003cacbb1d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121987537",
+      "itunes_duration": "1:24:12",
+      "speakers": [
+        "Death Cab",
+        "Chris Nolan",
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "death",
+        "cuties"
+      ]
+    },
     {
       "key": "c757e53131424e9441f26c201ce2f899260a8714",
       "title": "S4 Ep. 18 - Heartbreak Fridge",
@@ -4956,6 +4981,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-20 — S4 Ep. 19 - Death Cab, Four Cuties — speakers: Death Cab, Chris Nolan, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-10-06 — S4 Ep. 18 - Heartbreak Fridge — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-09-22 — S4 Ep. 17 - Holes (I’m Tired of This, Grandpa) — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-09-08 — S4 Ep. 16 - 4 Hangry Men — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos

@@ -146,8 +146,8 @@
       "etag": "\"4897032ceb742832ccad5ea8b88d2d53\""
     },
     "advantage-a-5e-dungeons-dragons-podcast": {
-      "last_checked_at": "2026-10-20T14:21:06+00:00",
-      "last_checked_unix": 1792506070,
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524035,
       "consecutive_failures": 0
     },
     "aint-slayed-nobody-call-of-cthulhu-actual-play": {
@@ -245,13 +245,13 @@
       "consecutive_failures": 0
     },
     "dungeons-and-daddies": {
-      "last_checked_at": "2026-10-06T22:41:15+00:00",
-      "last_checked_unix": 1791326478,
-      "etag": "\"djEuMi4wOjE3OTEzMDI0Mzk0NTM=\""
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524035,
+      "etag": "\"djEuMi4wOjE3OTI1MTIwMzk1NTc=\""
     },
     "worlds-beyond-number": {
-      "last_checked_at": "2026-10-20T14:21:06+00:00",
-      "last_checked_unix": 1792506069,
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524034,
       "etag": "\"1a681164fea435c57e9786ecfc25edff\"",
       "last_modified": "Tue, 13 Oct 2026 09:00:20 GMT"
     },
@@ -260,8 +260,8 @@
       "last_checked_unix": 1790746803
     },
     "dodoborne-a-daggerheart-actual-play-podcast": {
-      "last_checked_at": "2026-10-20T14:21:06+00:00",
-      "last_checked_unix": 1792506069,
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524035,
       "etag": "W/\"88970bcf8c80ec77cfeb1f29622b5a37\"",
       "last_modified": "Tue, 20 Oct 2026 10:40:56 GMT"
     },
@@ -302,14 +302,14 @@
       "consecutive_failures": 0
     },
     "force-majeure-a-star-wars-actual-play-podcast": {
-      "last_checked_at": "2026-10-20T14:21:06+00:00",
-      "last_checked_unix": 1792506070,
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524035,
       "etag": "\"52c171ea969cf3e8279b3d34f65faf04\"",
       "last_modified": "Sun, 18 Oct 2026 23:35:01 GMT"
     },
     "friends-at-the-table": {
-      "last_checked_at": "2026-10-20T14:21:06+00:00",
-      "last_checked_unix": 1792506070,
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524036,
       "etag": "\"db2adc094e4f2e8c44f06ee1ffac202a\"",
       "last_modified": "Fri, 16 Oct 2026 03:36:22 GMT"
     },
@@ -375,8 +375,8 @@
       "last_modified": "Wed, 17 Jun 2026 22:53:53 GMT"
     },
     "high-rollers-dnd": {
-      "last_checked_at": "2026-10-20T14:21:06+00:00",
-      "last_checked_unix": 1792506070,
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524036,
       "last_modified": "Tue, 20 Oct 2026 07:08:32 GMT"
     },
     "how-we-roll-podcast": {
@@ -409,15 +409,15 @@
       "last_modified": "Sat, 06 Dec 2025 17:09:19 GMT"
     },
     "legendlark": {
-      "last_checked_at": "2026-10-20T14:21:06+00:00",
-      "last_checked_unix": 1792506071,
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524037,
       "etag": "W/\"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ\"",
       "consecutive_failures": 0,
       "last_modified": "Wed, 14 Oct 2026 18:57:19 GMT"
     },
     "nerd-poker": {
-      "last_checked_at": "2026-10-13T22:52:14+00:00",
-      "last_checked_unix": 1791931940,
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524037,
       "etag": "\"fb85302be85f60c6a0b639a5d23c6860\"",
       "last_modified": "Tue, 13 Oct 2026 19:38:29 GMT"
     },
@@ -463,8 +463,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "archives-fandible-actual-play-podcast": {
-      "last_checked_at": "2026-10-20T14:21:06+00:00",
-      "last_checked_unix": 1792506071,
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524037,
       "etag": "\"46675416d2b03f2477a3fe9584a47dae\"",
       "consecutive_failures": 0
     },
@@ -486,8 +486,8 @@
       "consecutive_failures": 0
     },
     "role-radio-a-5e-actual-play-dungeons-dragons-podcast": {
-      "last_checked_at": "2026-10-20T14:21:06+00:00",
-      "last_checked_unix": 1792506072
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524037
     },
     "roll-britannia-a-british-dungeons-dragons-5e-podcast": {
       "last_checked_at": "2026-10-14T12:01:51+00:00",
@@ -606,8 +606,8 @@
       "consecutive_failures": 0
     },
     "the-damage-guild-a-pathfinder-2e-podcast": {
-      "last_checked_at": "2026-10-20T14:21:06+00:00",
-      "last_checked_unix": 1792506072,
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524038,
       "last_modified": "Mon, 12 Oct 2026 04:01:00 GMT",
       "consecutive_failures": 0
     },
@@ -659,9 +659,9 @@
       "last_modified": "Fri, 16 Oct 2026 16:06:50 GMT"
     },
     "natural-six": {
-      "last_checked_at": "2026-10-13T22:52:14+00:00",
-      "last_checked_unix": 1791931942,
-      "etag": "\"djEuMi4wOjE3OTE5MTgwMzk0OTQ=\""
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524038,
+      "etag": "\"djEuMi4wOjE3OTI1MjI4Mzk0OTQ=\""
     },
     "the-apocalypse-players": {
       "last_checked_at": "2026-10-20T00:25:04+00:00",
@@ -722,13 +722,13 @@
       "disabled_reason": "3 consecutive failures"
     },
     "we-fix-space-junk": {
-      "last_checked_at": "2026-10-20T14:21:06+00:00",
-      "last_checked_unix": 1792506072,
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524038,
       "last_modified": "Sun, 20 Sep 2026 11:06:25 GMT"
     },
     "who-lives-who-dice": {
-      "last_checked_at": "2026-10-20T14:21:06+00:00",
-      "last_checked_unix": 1792506072,
+      "last_checked_at": "2026-10-20T19:20:32+00:00",
+      "last_checked_unix": 1792524038,
       "etag": "\"38cf2556dc0e6bb49281209eb5974297\"",
       "last_modified": "Sun, 03 May 2026 08:52:08 GMT",
       "consecutive_failures": 0
@@ -740,5 +740,5 @@
       "etag": "W/\"b031b-LD7/U/lZqze7YJg7MAgKzhv4Rjg\""
     }
   },
-  "updated_at": "2026-10-20T14:21:06+00:00"
+  "updated_at": "2026-10-20T19:20:32+00:00"
 }

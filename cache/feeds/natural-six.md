@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-10-13T22:52:14+00:00`
-- checked_at: `2026-10-13T22:52:14+00:00`
-- etag: `"djEuMi4wOjE3OTE5MTgwMzk0OTQ="`
+- fetched_at: `2026-10-20T19:20:32+00:00`
+- checked_at: `2026-10-20T19:20:32+00:00`
+- etag: `"djEuMi4wOjE3OTI1MjI4Mzk0OTQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-10-13T22:52:14+00:00",
+  "fetched_at": "2026-10-20T19:20:32+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "19789f5679a218823b00da344b4463e348f9701a",
+      "title": "Action Surge Episode 65",
+      "published_at": "2026-10-20T19:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-65",
+      "description": "Alex fails his dexterity saving throw and the everyone immediately starts making penis jokes. This is starting to become a bit too normal around here. This action surge unpacks a lot of the, rather ridiculous behaviour, that the party engaged in whilst letting their hair down and getting their feet wet. Having reached the end of an arc, there’s a lot of reflecting and considerations for what comes next. Gnomes anyone? Harry digs into some of his thoughts and processes for introducing a gnome city into the narrative. And what about all the new lore we’ve picked up? What does it tell us about the gods? The totems? The very world itself? Whatever the answers, we all need to talk about the new cuddly party member! --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6acd619c7ce338e8cd8863ea/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68784530",
+      "itunes_duration": "47:45",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "db962720ec0d296ce37921b1bddb9ec213d584fe",
       "title": "Ep. 65 Hot and Bothered",
@@ -3396,6 +3420,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-20 — Action Surge Episode 65 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-10-13 — Ep. 65 Hot and Bothered — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-10-06 — Action Surge Episode 64 — speakers: https discord, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-09-29 — Ep. 64 Glass and Gold — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
