@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-10-16T16:44:47+00:00`
-- checked_at: `2026-10-16T16:44:47+00:00`
-- last_modified: `Fri, 16 Oct 2026 16:06:50 GMT`
+- fetched_at: `2026-10-23T17:14:47+00:00`
+- checked_at: `2026-10-23T17:14:47+00:00`
+- last_modified: `Fri, 23 Oct 2026 16:13:14 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-16T16:44:47+00:00",
+  "fetched_at": "2026-10-23T17:14:47+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,29 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "8b9b8bf6647509043fc24bade8703333edf10f94",
+      "title": "Fatherfog | Three Sisters of the Glass Mountain #3",
+      "published_at": "2026-10-23T16:00:00+00:00",
+      "link": null,
+      "description": "Welcome back to Fatherfog... After falling into the very heart of the glass mountain the villagers discover a lone cottage in a huge cavern. Inside an old decrepit woman, frau Mansrot tends wearily to the housework, but she'd better be fast for the master of the mountain, old Rinkrank, is on his way... Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Check out Fatherfog: https://www.tuesdayknightgames.com/products/fatherfog0e?srsltid=AU7gw4UTpf2PpMqifmA0eQonHeMbFFuugsz24YXhG6blDgwYZloBFzqv Three Sisters of the Glass Mountain: https://watcherdm.itch.io/three-sisters-of-the-glass-mountain Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: @AngoryTom Boba: https://www.twitch.tv/boba Lydia: https://www.twitch.tv/squidgame Dan: @apocplayers Ben: @GamesNight Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR7753392234.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3560",
+      "speakers": [
+        "Three Sisters",
+        "Glass Mountain",
+        "Tom Bates"
+      ],
+      "topics": [
+        "fatherfog",
+        "sisters",
+        "glass",
+        "mountain"
+      ]
+    },
     {
       "key": "99ea97f9ac4cc3b188e570c9ebc6161c1defd22f",
       "title": "Fatherfog | Three Sisters of the Glass Mountain #2",
@@ -3449,6 +3472,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-23 — Fatherfog | Three Sisters of the Glass Mountain #3 — speakers: Three Sisters, Glass Mountain, Tom Bates
 - 2026-10-16 — Fatherfog | Three Sisters of the Glass Mountain #2 — speakers: Three Sisters, Glass Mountain, Tom Bates
 - 2026-10-09 — Fatherfog | Three Sisters of the Glass Mountain #1 — speakers: Tom Bates
 - 2026-10-02 — 13 Omens #4 — speakers: Tom Bates
