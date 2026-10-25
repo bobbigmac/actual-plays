@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-10-22T17:16:48+00:00`
-- checked_at: `2026-10-22T17:16:48+00:00`
-- etag: `"c84241307c82e67c40313b624aed89b4"`
-- last_modified: `Thu, 22 Oct 2026 15:59:10 GMT`
+- fetched_at: `2026-10-25T23:19:47+00:00`
+- checked_at: `2026-10-25T23:19:47+00:00`
+- etag: `"0258d8318c4a22f845c7929b95a2c5fb"`
+- last_modified: `Sun, 25 Oct 2026 19:17:28 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-10-22T17:16:48+00:00",
+  "fetched_at": "2026-10-25T23:19:47+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "f16d93b729cdaec97de3c5e6250dc5b14cd78942",
+      "title": "Perpetua 53: Up and Down 01",
+      "published_at": "2026-10-25T19:16:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-53-up-and-down-01",
+      "description": "Long before there was an Elevana League, there were the Elven city-states, rivalrous and fragmented. Across centuries, they skirmished over territory, bickered about resources, and contended for prestige. It was only when an invading empire pushed them to the breaking point that they tempered their singular ambitions, united against their would-be-conquerers, and became a nation. At least that's how the story goes. And it is that story which they celebrate here, in Lumai, the Gleaming Fortress, which traces its own history back to those battles of lore and epic—and to the mythical favor of Lucena, Bringer of Light. She was so impressed with their efforts, it is said, that she gifted them her moon, brighter in day than the world's sun, yet most tranquil in nightglow among all the satellites of the Ennead… Every year the sun slowly ticks, day by day, into place above that constant moon. An inverted eclipse. A stellar occasion for the dignitaries of the League to come together: Theia Galani, Ice Princess. Toirneach, Lightning Rider. Doctor Hashin, Herbal Minister. Aisling Revanj, fiery Hexcloak. Historian Whish, my pupil. Hardrock Metch of Marl. Athon, High Cleric of Castine. Saylea Fen, Shadow Governor of Umbexia. And of course, Adrius Aegier, the High Marshall of Lumai, the head of the Order of the Bright Wall, and older brother of Hexcloak chief Thereus Aegir. They come together to celebrate the founding of the League, to dance and feast under twice-bright light. But Lumai rumbles with rumor. Soldier-engineers work double duty, erecting a new wall just outside of town. Hexcloaks arrive unannounced and move unimpeded. And something draws nearer over the horizon… This week on Perpetua: Perpetua Guide [In Progress v.062] Ongoing Mysteries - Dragon Path (Known Entrances and Exits) [OMDPE] The Dragon Path is a system for quickly traveling long distances across the game world. This is really important if you're going to do a lot of exploration before getting an airship! Simply playing the main scenario (on either continent) will inevitably bring you to at least the edge of one entrance to the Dragon Path. In the eastern story, a painting in Cenn puts you on a direct path towards Lumai (with a detour). In the western campaign, you'll first enter the Path during the open quest to the Dragon Tower, and then in the Clayridge Mountains you'll likely fall \"randomly\" into the Path (you'll end up at the same detour as the eastern party). But there are many other ways into and out of the path. Obviously, there's the entrance painting in Lumai, since that's where you exit from if you take the one in Cenn. Below are the others I've found so far. Let me know if you've found others! Stitchscore: The painting in the trophy case. Ruins of the Grand Academy: There's a hole-like entrance under some rubble in the northern district near the water. Veruz: I haven't actually seen this one, but I've read a note from a member of the Way of Fearless Truth talking about some priest having one in his room. Duriel, The Shattered Colosseum: There's a painting in the Temple of Zephius. Terroir (Grand Sonnerie): Check the basement in the Old Vintner's House! Burzin: In the basement of the Post Office ruins. Salix: There's a painting in the basement of the Bates house! Bates like Arley Bates from Perpetua Prelude, I wonder if his family got that after the Prelude, or if that's something he actually had down there the whole time. (Also wow, a lot of hidden entry points in basements!) Cenn: You can't actually seem to find one in Cenn, but there is a secret Dragon Path detection device you can find if you search for the right vendor. Parisolia: The Foreman's House has one, but it only leads literally to a different place in the same city! (The Mine Owner's House). Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Janine Hawkins ( @bleatingheart ), Sylvi Bullet ( @sylvibullet ), and Keith J Carberry ( @keithjcarberry ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_53_Up_and_Down_01.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "120977424",
+      "itunes_duration": "02:00:28",
+      "speakers": [
+        "Elevana League",
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua"
+      ]
+    },
     {
       "key": "f524988b7f6070c612a6bbea9d1111dd8cb0849e",
       "title": "Perpetua 52: At the Threshold 04",
@@ -11723,6 +11742,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-25 — Perpetua 53: Up and Down 01 — speakers: Elevana League, Austin Walker
 - 2026-10-09 — Perpetua 52: At the Threshold 04 — speakers: Austin Walker
 - 2026-10-06 — Perpetua 51: At the Threshold 03 — speakers: Austin Walker
 - 2026-09-29 — Perpetua 50: At the Threshold 02 — speakers: Austin Walker
