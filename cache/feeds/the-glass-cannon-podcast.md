@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-10-12T11:00:50+00:00`
-- checked_at: `2026-10-12T11:00:50+00:00`
-- last_modified: `Mon, 12 Oct 2026 04:00:00 GMT`
+- fetched_at: `2026-10-26T04:56:08+00:00`
+- checked_at: `2026-10-26T04:56:08+00:00`
+- last_modified: `Mon, 26 Oct 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-12T11:00:50+00:00",
+  "fetched_at": "2026-10-26T04:56:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,220 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "7dadb67e26c84eeaa4b013b92145eda1e8091637",
+      "title": "When Is Yelka's Birthday? | Blood of the Wild S1 E45 | Pathfinder 2E Quest for the Frozen Flame",
+      "published_at": "2026-10-26T04:00:00+00:00",
+      "link": null,
+      "description": "The scouts practice diplomacy with denizens of the wood. Access every available episode of Blood of the Wild along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/84233842-c8c2-11f1-8e0d-8b897bf4e20b/image/f6a9c4938e7166216c2b3c61e94dabb3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP5809889639.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4397",
+      "speakers": [
+        "Frozen Flame"
+      ],
+      "topics": [
+        "yelka",
+        "birthday",
+        "blood",
+        "wild",
+        "pathfinder",
+        "quest",
+        "frozen",
+        "flame"
+      ]
+    },
+    {
+      "key": "81d7f472f2492cc7112890fe560e10667bf5ebb9",
+      "title": "Call of Cthugha | Time For Chaos S4 E14 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2026-10-24T04:00:00+00:00",
+      "link": null,
+      "description": "A late night warehouse break-in is all that stands between the investigators and a long train ride to Nairobi. For a limited time, use code \"TFC4\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including Overtime For Chaos, our exclusive Time For Chaos companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Watch the video here: ⁠⁠⁠ https://youtu.be/6Cf89bVuSxA Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8562ed76-cf05-11f1-8db2-c3d1eeca1dd8/image/26db23079f71009b15895a1ac19ae879.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP4583365082.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8275",
+      "speakers": [
+        "Cthulhu Masks"
+      ],
+      "topics": [
+        "cthugha",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
+    {
+      "key": "7a474e4ef78e1ecbd8f7965c15ce505c71d9a7d7",
+      "title": "The Mortal World | The Glass Cannon Podcast: Shadows of the Broken E2 | Shadowdark RPG",
+      "published_at": "2026-10-23T04:00:00+00:00",
+      "link": null,
+      "description": "A surprising encounter on the road to Craggin's Bridge raises questions about the veil between the mortal and the immortal. Win a copy of the Dolmenwood Player's Guide: https://docs.google.com/forms/d/e/1FAIpQLScNsTnWT2UUOF9ud4Pg8TbQQzUS53hb_abDhD2h-dk15XSJig/viewform?usp=publish-editor Get BONUS CONTENT every week at ⁠ http://jointhenaish.com ⁠, including After Dark, our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at https://foundryvtt.com/gcp Check out Crucible, free to all Foundry VTT license owners: https://foundryvtt.com/packages/crucible Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at https://norsefoundry.com Check out the upcoming Kickstarter for Eldritch Automata: From the Ashes here: https://www.kickstarter.com/projects/nickfrancia/eldritch-automata-from-the-ashes?ref=2xojch Target the habit with FÜM today and use code \"GCN\" and get a free bite friendly, silicone Topper for your FÜM device: https://tryfum.com/GCN Enter the Shadowdark at your gaming table by visiting https://www.thearcanelibrary.com/?utm_source=glasscannonExplore Dolmenwood at your own gaming table by visiting https://dolmenwood.com Executive Producer and Gamemaster: Joe O'Brien Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Kate Stamas Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Quality Assurance: Brian McDermott Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e6c7bc0e-ce33-11f1-b495-1b34fd3393b7/image/fa83fcafd9489b5eb4a2b6e30a29daaf.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1694124135.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6255",
+      "speakers": [
+        "Shadowdark Rpg"
+      ],
+      "topics": [
+        "mortal",
+        "world",
+        "glass",
+        "cannon",
+        "podcast",
+        "shadow",
+        "shadowdark"
+      ]
+    },
+    {
+      "key": "4782ac7a6c1ed3eec41135f23638c72e576bcd98",
+      "title": "Among the Living | We Shouldn't Be Alive E20 | Twilight: 2000",
+      "published_at": "2026-10-21T04:00:00+00:00",
+      "link": null,
+      "description": "The fallout from their attack on the Solinski's could mean the breaking of the fellowship. Watch the video here: ⁠ https://youtu.be/DfCYFqFkfgI ⁠ Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including the Mission Debrief, our exclusive We Shouldn't Be Alive companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d5144782-cca5-11f1-bca6-d75d1ad67607/image/fea8f4bdf27af8a040cd8ab5e74ceac2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6663348516.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7175",
+      "speakers": [],
+      "topics": [
+        "living",
+        "twilight"
+      ]
+    },
+    {
+      "key": "964023af4175f956d412d8f8e2187f5ce29b4b29",
+      "title": "GCN Community Update October 19, 2026",
+      "published_at": "2026-10-19T16:15:00+00:00",
+      "link": null,
+      "description": "Joe brings us to the Dolmenwood, the GCN Extra Life Marathon takes shape, The Secret Fire comes to youTube next week. All this and more on this week's GCN Community Update. Join our Extra Life team: https://dd.extra-life.org/team/74937 Get the new We Shouldn't Be Alive shirt: https://store.glasscannonnetwork.com/products/army-dice-tee Check out JaketheBard's arrangement of the Get in the Trunk theme song: https://www.instagram.com/reel/DecWXiZRYso/?cplk=MWxwZDg0Y3I0d3NyaQ== Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ff099a30-cbd6-11f1-94d0-4b3c45ed3b38/image/bb60a74fb8fd43f725dcfb78e0f2b43d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7413007189.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "431",
+      "speakers": [],
+      "topics": [
+        "community",
+        "update",
+        "october"
+      ]
+    },
+    {
+      "key": "bc1286fba0cab8d55a991d1f5b0c840471413ba3",
+      "title": "Three Days of Rain | Blood of the Wild S1 E44 | Pathfinder 2E Quest for the Frozen Flame",
+      "published_at": "2026-10-18T16:00:00+00:00",
+      "link": null,
+      "description": "Awol has a vision and the scouts brave wet weather. Access every available episode of Blood of the Wild along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5715ddd2-c8c2-11f1-b368-27fc37456792/image/f6a9c4938e7166216c2b3c61e94dabb3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP5520193735.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4497",
+      "speakers": [
+        "Three Days",
+        "Frozen Flame Awol"
+      ],
+      "topics": [
+        "rain",
+        "blood",
+        "wild",
+        "pathfinder",
+        "quest",
+        "frozen",
+        "flame"
+      ]
+    },
+    {
+      "key": "d1e080a6410a7b03e40d2c2203868bc2f54656ea",
+      "title": "I Bless the Rains | Time For Chaos S4 E13 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2026-10-17T04:00:00+00:00",
+      "link": null,
+      "description": "Skills are honed and sanity restored as the journey to Kenya begins. For a limited time, use code \"TFC4\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including Overtime For Chaos, our exclusive Time For Chaos companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Watch the video here: ⁠⁠ https://youtu.be/FyqDnO8DFeQ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f9ddc3b4-c817-11f1-914c-3363c8a0b3aa/image/e10c0b3a41899d5d443accc3a0af398f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8627439780.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8549",
+      "speakers": [],
+      "topics": [
+        "rains",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
+    {
+      "key": "2268c4847c72f1521f74519b55d7d5a9f2655aa8",
+      "title": "The Will of the Gods | The Glass Cannon Podcast: Shadows of the Broken E1 | Shadowdark RPG",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "link": null,
+      "description": "Stranded on the open ocean, a group of heroes desperately search for land. Watch the video here: ⁠⁠⁠⁠https://youtu.be/panhQqcxXVg Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠https://foundryvtt.com/gcp⁠ Check out the brand new Bastion of Blasphemies Trailer here: https://www.youtube.com/watch?v=EIZ5R7b8kPM If you're interested in picking up Bastion of Blasphemies on Foundry VTT, you can find it here: https://www.foundryvtt.store/products/pf2e-bastion-of-blasphemies Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠ Check out the upcoming Kickstarter for Eldritch Automata: From the Ashes here: ⁠⁠⁠⁠https://www.kickstarter.com/projects/nickfrancia/eldritch-automata-from-the-ashes?ref=2xojch⁠⁠⁠⁠ Get affordable, high quality therapy that's actually covered by insurance. Visit https://www.rula.com/tgc/ because you deserve mental healthcare that works with you—not against your budget. Enter the Shadowdark at your gaming table by visiting ⁠https://www.thearcanelibrary.com/?utm_source=glasscannonExplore ⁠ Dolmenwood at your own gaming table by visiting ⁠https://dolmenwood.com⁠ Executive Producer and Gamemaster: Joe O'Brien Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Kate Stamas Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Quality Assurance: Brian McDermott Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/bb77c748-c7e3-11f1-a1c9-43496b57f9ea/image/ea33e1a40fc2d91011d39273fcc704a9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3649615370.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5366",
+      "speakers": [
+        "Shadowdark Rpg"
+      ],
+      "topics": [
+        "gods",
+        "glass",
+        "cannon",
+        "podcast",
+        "shadow",
+        "broken",
+        "shadowdark"
+      ]
+    },
+    {
+      "key": "1b1e49e167c330e9f8b6283d472163a758268ec1",
+      "title": "You're a Soldier | We Shouldn't Be Alive E19 | Twilight: 2000",
+      "published_at": "2026-10-14T04:00:00+00:00",
+      "link": null,
+      "description": "Bleeding, broken, and losing focus, the team must find a way to safely extract the children before they can turn their attention to the enemy leadership. Watch the video here: https://youtu.be/iryHyLcorTY Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including the Mission Debrief, our exclusive We Shouldn't Be Alive companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d079ace6-c730-11f1-9ad0-efba22aacbba/image/fea8f4bdf27af8a040cd8ab5e74ceac2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP5955193312.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5639",
+      "speakers": [],
+      "topics": [
+        "soldier",
+        "twilight"
+      ]
+    },
+    {
+      "key": "cc099afb461e6b0ff495cd325e54d02a79a26f53",
+      "title": "GCN Community Update October 12, 2026",
+      "published_at": "2026-10-12T16:00:00+00:00",
+      "link": null,
+      "description": "The GCN Extra Life Marathon returns, Joe has something BIG in store for this week's Glass Cannon Podcast, and I've got a recipe to share with you! If you would like to Join the Glass Cannon Network Extra Life team you can head here to sign up: https://dd.extra-life.org/teams/74937 To get tickets and VI(GC)P Passes to Call of Cthulhu Live! Madison or to the two upcoming shows in Philadelphia, head to https://www.glasscannonnetwork.com/tour If you are coming to Gamehole Con, you can still get tickets to our Shadowdark Live! show on Friday, October 16th, here: https://www.gameholecon.com/events/event/34505 BBQ Chicken Mac and Cheese 2 - 3 Pounds Chicken Breasts or Thighs 1 8oz. Bag Shredded Mozzarella 1 8oz. Bag Sharp Cheddar 2oz. Block of Parmesean 8oz. Cream Cheese 1 packet Ranch Seasoning 1 bottle BBQ Sauce ¼ cup of Heavy Cream 2oz. Unsalted Butter Onion Powder Garlic Powder Oregano Cracked Black Pepper Cayenne Pepper (Or Hot Sauce) 1 16oz. Box of Pasta (I use large shells) Add chicken to your crock pot. Add 1 packet of Ranch Seasoning, Onion Powder, Garlic Powder, Oregano, Cracked Black Pepper, Cayenne Pepper (or Hot Sauce) and toss to coat the chicken. Add 1 bottle of BBQ Sauce and cook on High For 4 hours or Low for 6 hours. When there is one hour remaining on the cook time, add 8oz. of Cream Cheese. Put a pot of salted water on the boil and cook your pasta, but undercook it by about two minutes. (If the box says al dente in 7 minutes, cook for about 5 minutes 30 seconds). Drain pasta, rinse in cold water, and toss in olive oil to prevent sticking. Once the chicken is done cooking, take 2 forks and shred the chicken in the crock pot. Add 1 bag of Mozzarella, half of a bag of sharp cheddar, 2 oz. of freshly grated Parmesan, ¼ cup of Heavy Cream, 2oz. of butter and mix well. Add your pasta and mix again. Let the mixture sit on Warm for 20 minutes. Serve with your favorite green vegetable. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1df3992a-c649-11f1-879f-5703943945f4/image/bb60a74fb8fd43f725dcfb78e0f2b43d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2809254949.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "421",
+      "speakers": [
+        "Glass Cannon"
+      ],
+      "topics": [
+        "community",
+        "update",
+        "october"
+      ]
+    },
     {
       "key": "af57afcc52ad88b9f6b96544bab171f04a68bbd3",
       "title": "Stabbing a Box | Blood of the Wild S1 E43 | Pathfinder 2E Quest for the Frozen Flame",
@@ -70,7 +284,7 @@
     },
     {
       "key": "c641432b6d571123a0e41ba1fe7abed4cd9f393b",
-      "title": "So Wet 4: Wet Lies Beneath | The Glass Cannon Podcast Shadowdark E47 | Shadowdark RPG",
+      "title": "So Wet 4: Wet Lies Beneath | The Glass Cannon Podcast: The Gloaming E47 | Shadowdark RPG",
       "published_at": "2026-10-09T04:00:00+00:00",
       "link": null,
       "description": "A vicious melee will decide the fates of Odin's chosen warriors. Watch the video here: ⁠⁠⁠ https://youtu.be/1vg2Dz28tQQ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at https://foundryvtt.com/gcp There's a big Ember update with a brand new quest called \"The Flood and the Flame.\" It's an epic quest that dives into new lore about an ancient underwater culture where secrets can be found to stop an insane pyromancer who wields a volatile mixture of elemental and abyssal power. Join the Early Access at https://foundryvtt.com/ember/ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠https://norsefoundry.com⁠⁠⁠ Check out the upcoming Kickstarter for Eldritch Automata: From the Ashes here: ⁠⁠⁠https://www.kickstarter.com/projects/nickfrancia/eldritch-automata-from-the-ashes?ref=2xojch⁠⁠⁠ Executive Producer and Gamemaster: Joe O'Brien Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Kate Stamas Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Quality Assurance: Brian McDermott Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -87,6 +301,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -199,7 +414,7 @@
     },
     {
       "key": "d76d520046db4e779c057aa39c611070118574a8",
-      "title": "So Wet 3: Wet Dreams May Come | The Glass Cannon Podcast Shadowdark E46 | Shadowdark RPG",
+      "title": "So Wet 3: Wet Dreams May Come | The Glass Cannon Podcast: The Gloaming E46 | Shadowdark RPG",
       "published_at": "2026-10-02T04:00:00+00:00",
       "link": null,
       "description": "A prayer for justice. Watch the video here: ⁠⁠ https://youtu.be/MxHjut6Xb4A Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠https://foundryvtt.com/gcp⁠⁠ Check out the brand new Bastion of Blasphemies Trailer here: ⁠⁠https://www.youtube.com/watch?v=EIZ5R7b8kPM⁠⁠ If you're interested in picking up Bastion of Blaphemies on Foundry VTT, you can find it here: ⁠⁠https://www.foundryvtt.store/products/pf2e-bastion-of-blasphemies⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠https://norsefoundry.com⁠⁠ Check out the upcoming Kickstarter for Eldritch Automata: From the Ashes here: ⁠⁠https://www.kickstarter.com/projects/nickfrancia/eldritch-automata-from-the-ashes?ref=2xojch⁠⁠ Executive Producer and Gamemaster: Joe O'Brien Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Kate Stamas Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Quality Assurance: Brian McDermott Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -216,6 +431,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -307,7 +523,7 @@
     },
     {
       "key": "911d2524a60c59ff242edecf1400402d8629f48b",
-      "title": "So Wet 2: Still Soppin' | The Glass Cannon Podcast Shadowdark E45 | Shadowdark RPG",
+      "title": "So Wet 2: Still Soppin' | The Glass Cannon Podcast: The Gloaming E45 | Shadowdark RPG",
       "published_at": "2026-09-25T04:00:00+00:00",
       "link": null,
       "description": "Stranded within a mysterious cave, the heroes’ search for a way out is met with unexpected resistance. Watch the video here: ⁠ https://youtu.be/RSOYoB25gCw ⁠ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠https://foundryvtt.com/gcp⁠ Check out the brand new Bastion of Blasphemies Trailer here: ⁠https://www.youtube.com/watch?v=EIZ5R7b8kPM⁠ If you're interested in picking up Bastion of Blaphemies on Foundry VTT, you can find it here: ⁠https://www.foundryvtt.store/products/pf2e-bastion-of-blasphemies⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠https://norsefoundry.com⁠ Check out the upcoming Kickstarter for Eldritch Automata: From the Ashes here: ⁠https://www.kickstarter.com/projects/nickfrancia/eldritch-automata-from-the-ashes?ref=2xojch⁠ Your new wardrobe awaits! Get $20 off @chubbies with the code GCN at ⁠https://www.chubbiesshorts.com/GCN⁠ This episode is sponsored by Rula. Visit https://rula.com/TGC because you deserve mental healthcare that works with you, not against your budget. Executive Producer and Gamemaster: Troy Lavallee Cast: Matthew Capodicasa, Nick Lowe, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Quality Assurance: Brian McDermott Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -324,6 +540,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -414,7 +631,7 @@
     },
     {
       "key": "9dd2f60d5f26fe48c8c1c39cdc79ddb2a3726714",
-      "title": "So Wet | The Glass Cannon Podcast Shadowdark E44 | Shadowdark RPG",
+      "title": "So Wet | The Glass Cannon Podcast: The Gloaming E44 | Shadowdark RPG",
       "published_at": "2026-09-18T04:00:00+00:00",
       "link": null,
       "description": "Seeking both a quicker and safer route to Wardenwood, the heroes take to the lake. Watch the video here: https://youtu.be/907sq1EqTjA Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting https://www.thearcanelibrary.com/?utm_source=glasscannon Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at https://foundryvtt.com/gcp Check out the brand new Bastion of Blasphemies Trailer here: https://www.youtube.com/watch?v=EIZ5R7b8kPM If you're interested in picking up Bastion of Blaphemies on Foundry VTT, you can find it here: https://www.foundryvtt.store/products/pf2e-bastion-of-blasphemies Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at https://norsefoundry.com Check out the upcoming Kickstarter for Eldritch Automata: From the Ashes here: https://www.kickstarter.com/projects/nickfrancia/eldritch-automata-from-the-ashes?ref=2xojch Your new wardrobe awaits! Get $20 off @chubbies with the code GCN at https://www.chubbiesshorts.com/GCN Executive Producer and Gamemaster: Troy Lavallee Cast: Matthew Capodicasa, Nick Lowe, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Quality Assurance: Brian McDermott Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -430,6 +647,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -521,7 +739,7 @@
     },
     {
       "key": "a6d798b1ba1b72e83d69aa429c370f8bbbbacb86",
-      "title": "Out of Order | The Glass Cannon Podcast Shadowdark E43 | Shadowdark RPG",
+      "title": "Out of Order | The Glass Cannon Podcast: The Gloaming E43 | Shadowdark RPG",
       "published_at": "2026-09-11T04:00:00+00:00",
       "link": null,
       "description": "The fallout of the trial sends Marin's Hold into a frenzy. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠ https://youtu.be/ZetqQ6f6y34 Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Jared Logan, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Quality Assurance: Brian McDermott Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -538,6 +756,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -631,7 +850,7 @@
     },
     {
       "key": "8e955328ee3f3815c9caf9391948bf4ddb6c3854",
-      "title": "Trial By Combat | The Glass Cannon Podcast Shadowdark E42 | Shadowdark RPG",
+      "title": "Trial By Combat | The Glass Cannon Podcast: The Gloaming E42 | Shadowdark RPG",
       "published_at": "2026-09-04T04:00:00+00:00",
       "link": null,
       "description": "A trial by combat between Einarr and Reeve Winters decides the fate of Leoric Beckett. Watch the video here:⁠ ⁠⁠⁠⁠⁠ https://youtu.be/M7bcSYHd39I ⁠ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Jared Logan, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Quality Assurance: Brian McDermott Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -651,6 +870,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -744,7 +964,7 @@
     },
     {
       "key": "ac2d7affbe3c96b65acac6a9cef126b58dae3f92",
-      "title": "Material Witness | The Glass Cannon Podcast Shadowdark E41 | Shadowdark RPG",
+      "title": "Material Witness | The Glass Cannon Podcast: The Gloaming E41 | Shadowdark RPG",
       "published_at": "2026-08-28T04:00:00+00:00",
       "link": null,
       "description": "The prosecution calls to the stand a mysterious man named Gideon Black. Watch the video here:⁠ ⁠⁠⁠⁠ https://youtu.be/OKW9XJ9Naow Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Jared Logan, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Quality Assurance: Brian McDermott Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -763,6 +983,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -853,7 +1074,7 @@
     },
     {
       "key": "7c616ba2bcb119d5f7bf50b211a3dab5f1b0581a",
-      "title": "New Tomorrow | The Glass Cannon Podcast Shadowdark E40 | Shadowdark RPG",
+      "title": "New Tomorrow | The Glass Cannon Podcast: The Gloaming E40 | Shadowdark RPG",
       "published_at": "2026-08-21T04:00:00+00:00",
       "link": null,
       "description": "The heroes attend a clandestine meeting of dissidents on the eve of Saint’s Trial. Watch the video here:⁠ ⁠⁠ ⁠https://youtu.be/T8FY7UdxtmI Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Jared Logan, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Quality Assurance: Brian McDermott Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -870,6 +1091,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -983,7 +1205,7 @@
     },
     {
       "key": "2647efe08aea8659f98e36bb5a4ec5d18f53af13",
-      "title": "Take a Chance on Me | The Glass Cannon Podcast Shadowdark E39 | Shadowdark RPG",
+      "title": "Take a Chance on Me | The Glass Cannon Podcast: The Gloaming E39 | Shadowdark RPG",
       "published_at": "2026-08-14T04:00:00+00:00",
       "link": null,
       "description": "With Saint's trial looming, the heroes scramble to help tip the scales of justice in Saint's favor. Watch the video here:⁠ ⁠⁠ https://youtu.be/uW1FCnk-S2c Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Jared Logan, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Quality Assurance: Brian McDermott Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1000,6 +1222,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -1109,7 +1332,7 @@
     },
     {
       "key": "a988da6f5fbd02d3428035940ab6ce18fbc9a458",
-      "title": "The Roomkeepers | The Glass Cannon Podcast Shadowdark E38 | Shadowdark RPG",
+      "title": "The Roomkeepers | The Glass Cannon Podcast: The Gloaming E38 | Shadowdark RPG",
       "published_at": "2026-08-07T04:00:00+00:00",
       "link": null,
       "description": "A tragedy awaits the heroes upon returning to Marin's Hold. Watch the video here:⁠ ⁠ https://youtu.be/gcGFUuTgNAs Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Jared Logan, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1126,6 +1349,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -1302,7 +1526,7 @@
     },
     {
       "key": "3c505a750498bef079b04ec2b7bb41b0dbe0257d",
-      "title": "It Knows Your Name | The Glass Cannon Podcast Shadowdark E37 | Shadowdark RPG",
+      "title": "It Knows Your Name | The Glass Cannon Podcast: The Gloaming E37 | Shadowdark RPG",
       "published_at": "2026-07-31T04:00:00+00:00",
       "link": null,
       "description": "A strange new companion joins the heroes on their journey back to Marin's Hold. Watch the video here:⁠ https://youtu.be/rfYomaihgoU Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ SEVEN-PART PACT is from Possum Creek, an imprint of Steve Jackson Games. Please support them: ⁠https://www.kickstarter.com/projects/sjgames/seven-part-pact⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Jared Logan, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1312,12 +1536,14 @@
       "enclosure_length": "0",
       "itunes_duration": "7591",
       "speakers": [
+        "Glass Cannon",
         "Shadowdark Rpg"
       ],
       "topics": [
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -1441,7 +1667,7 @@
     },
     {
       "key": "03ead607f5485c48eb5f564462dc6bc457314456",
-      "title": "Wizards and Thieves | The Glass Cannon Podcast Shadowdark E36 | Shadowdark RPG",
+      "title": "Wizards and Thieves | The Glass Cannon Podcast: The Gloaming E36 | Shadowdark RPG",
       "published_at": "2026-07-24T04:00:00+00:00",
       "link": null,
       "description": "The island tower’s darkest secrets finally come to light. Watch the video here:⁠ ⁠⁠ https://youtu.be/V0yRPeSNOL8 Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ If you're attending Gen Con 2026, then check out everything being offered by Norse Foundry. Pick up an officially licensed Gen Con mystery boulder or Gen Con metal dice as well as participate in Norse Foundry's gaming room—just search Titanskeep on the Gen Con schedule of events. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Jared Logan, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1459,6 +1685,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -1550,7 +1777,7 @@
     },
     {
       "key": "9bc4c36f94d1c3817433dcabbd5dcb808956161b",
-      "title": "Up the River | The Glass Cannon Podcast Shadowdark E35 | Shadowdark RPG",
+      "title": "Up the River | The Glass Cannon Podcast: The Gloaming E35 | Shadowdark RPG",
       "published_at": "2026-07-17T04:00:00+00:00",
       "link": null,
       "description": "As Saint awaits judgment, the heroes chase a slim chance at salvation before time runs out. Watch the video here:⁠ ⁠ https://youtu.be/CcRj7kRpgE4 Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ If you're attending Gen Con 2026, then check out everything being offered by Norse Foundry. Pick up an officially licensed Gen Con mystery boulder or Gen Con metal dice as well as participate in Norse Foundry's gaming room—just search Titanskeep on the Gen Con schedule of events. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Paula Deming, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1567,6 +1794,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -1677,7 +1905,7 @@
     },
     {
       "key": "b67a612f9222e317e55a697fca5bc74e98a5a4f1",
-      "title": "Every Man and No Man | The Glass Cannon Podcast Shadowdark E34 | Shadowdark RPG",
+      "title": "Every Man and No Man | The Glass Cannon Podcast: The Gloaming E34 | Shadowdark RPG",
       "published_at": "2026-07-10T04:00:00+00:00",
       "link": null,
       "description": "The hunt for Darkstraw turns up more questions than answers. Watch the video here:⁠ https://youtu.be/KaY4Nam7LDY ⁠ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ If you're attending Gen Con 2026, then check out everything being offered by Norse Foundry. Pick up an officially licensed Gen Con mystery boulder or Gen Con metal dice as well as participate in Norse Foundry's gaming room—just search Titanskeep on the Gen Con schedule of events. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Paula Deming, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1693,6 +1921,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -1786,7 +2015,7 @@
     },
     {
       "key": "b917c90ed2616475043a25f55c95247ec9552c2a",
-      "title": "The Best Laid Plans | The Glass Cannon Podcast Shadowdark E33 | Shadowdark RPG",
+      "title": "The Best Laid Plans | The Glass Cannon Podcast: The Gloaming E33 | Shadowdark RPG",
       "published_at": "2026-07-03T04:00:00+00:00",
       "link": null,
       "description": "The heroes survive another round of horrors in the Gloaming only to tempt a far deadlier force: booze. Watch the video here:⁠ ⁠ https://youtu.be/ERc40C0irkc Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1805,6 +2034,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -1914,7 +2144,7 @@
     },
     {
       "key": "82313f7c39622b385855108965fcffa12eb3f53e",
-      "title": "Thick As Thieves | The Glass Cannon Podcast Shadowdark E32 | Shadowdark RPG",
+      "title": "Thick As Thieves | The Glass Cannon Podcast: The Gloaming E32 | Shadowdark RPG",
       "published_at": "2026-06-26T04:00:00+00:00",
       "link": null,
       "description": "The fallout from the party's carousing in Marin's Hold proves both rewarding and costly. Watch the video here:⁠ https://youtu.be/pfRbZVYQ0mY ⁠⁠ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For some exciting updates to FoundryVTT's original game system Crucible, check out these links: —Progress Update: https://foundryvtt.com/article/content-showcase-2026/ —Crucible Gameplay Showcase: https://youtu.be/yNdJUotxyYg —Crucible Animation Showcase: https://youtu.be/n5Hhhbdn8U Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1931,6 +2161,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -2015,7 +2246,7 @@
     },
     {
       "key": "1fa19b0b2abcf8a881fb9f89e3683260ab488f73",
-      "title": "The Boys Are Back in Town | The Glass Cannon Podcast Shadowdark E31 | Shadowdark RPG",
+      "title": "The Boys Are Back in Town | The Glass Cannon Podcast: The Gloaming E31 | Shadowdark RPG",
       "published_at": "2026-06-19T04:00:00+00:00",
       "link": null,
       "description": "The heroes return to Marin's Hold expecting a brief respite before venturing back into the Gloaming. Watch the video here:⁠ ⁠⁠⁠https://youtu.be/wQbQoi9T2t8 ⁠ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Check out these HUGE progress updates for Ember on Foundry VTT: —Progress update: https://foundryvtt.com/article/content-showcase-2026/ —Ember Setting and Lore Showcase: https://youtu.be/n5Hhhbdn8U8 —Ember Gameplay Showcase: https://youtu.be/9rZ9WSkxxTE Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -2033,6 +2264,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -2142,7 +2374,7 @@
     },
     {
       "key": "54bdffa55fe97344597359dafbcc9d53a5313199",
-      "title": "The Folly of Ser Ydris | The Glass Cannon Podcast Shadowdark E30 | Shadowdark RPG",
+      "title": "The Folly of Ser Ydris | The Glass Cannon Podcast: The Gloaming E30 | Shadowdark RPG",
       "published_at": "2026-06-12T04:00:00+00:00",
       "link": null,
       "description": "Beneath ancient stone and fading torchlight, the heroes come face to face with the Circle of Five. Watch the video here:⁠ ⁠⁠ https://youtu.be/yKXrinsBZl0 Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Check out \"Secrets of Grayce,\" an awesome Pathfinder 2E starter experience built for Foundry VTT: https://foundryvtt.com/packages/pf2e-secrets-of-grayce Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ When you purchase a new Pocket Hose Ballistic, you'll get a free 360-degree rotating pocket pivot and a free thumb drive nozzle. Just text \"GCN\" to 64000. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -2160,6 +2392,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -2377,7 +2610,7 @@
     },
     {
       "key": "d91037fb5b601590b0c4a15088b500c699974fa4",
-      "title": "Gede from the Machine | The Glass Cannon Podcast Shadowdark E29 | Shadowdark RPG",
+      "title": "Gede from the Machine | The Glass Cannon Podcast: The Gloaming E29 | Shadowdark RPG",
       "published_at": "2026-06-05T04:00:00+00:00",
       "link": null,
       "description": "Trapped in darkness and hunted by the dead, the heroes face their greatest test yet. Watch the video here:⁠ ⁠ https://youtu.be/KeL_ITOAl-Y Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Ember, a digital roleplaying game by Foundry VTT, is available now in early access: ⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/ember/⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ When you purchase a new Pocket Hose Ballistic, you'll get a free 360-degree rotating pocket pivot and a free thumb drive nozzle. Just text \"GCN\" to 64000. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -2395,6 +2628,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -2548,7 +2782,7 @@
     },
     {
       "key": "67440cabb589916768d6e05d5a829b72bede4aca",
-      "title": "Escape Room | The Glass Cannon Podcast Shadowdark E28 | Shadowdark RPG",
+      "title": "Escape Room | The Glass Cannon Podcast: The Gloaming E28 | Shadowdark RPG",
       "published_at": "2026-05-29T04:00:00+00:00",
       "link": null,
       "description": "As torches dwindle, the undead rise and the Shadowdark closes in. Watch the video here:⁠ https://youtu.be/7g1xYqwhsos ⁠⁠⁠⁠⁠⁠ ⁠⁠⁠ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Ember, a digital roleplaying game by Foundry VTT, is available now in early access: ⁠⁠⁠⁠⁠⁠https://foundryvtt.com/ember/⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ When you purchase a new Pocket Hose Ballistic, you'll get a free 360-degree rotating pocket pivot and a free thumb drive nozzle. Just text \"GCN\" to 64000. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -2566,6 +2800,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -2685,7 +2920,7 @@
     },
     {
       "key": "7a69039906c613e3c3323bf5bb8377d04443bf0e",
-      "title": "Crypt Walk | The Glass Cannon Podcast Shadowdark E27 | Shadowdark RPG",
+      "title": "Crypt Walk | The Glass Cannon Podcast: The Gloaming E27 | Shadowdark RPG",
       "published_at": "2026-05-22T04:00:00+00:00",
       "link": null,
       "description": "High above the haunted halls of Myre Castle, the heroes step through a shimmering portal into the unknown. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠ ⁠⁠ https://youtu.be/aC16HZVD_ck Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Ember, a digital roleplaying game by Foundry VTT, is available now in early access: ⁠⁠⁠⁠⁠https://foundryvtt.com/ember/⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ When you purchase a new Pocket Hose Ballistic, you'll get a free 360-degree rotating pocket pivot and a free thumb drive nozzle. Just text \"GCN\" to 64000. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -2705,6 +2940,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -2797,7 +3033,7 @@
     },
     {
       "key": "66713b1729948889e22f32271f092c2e85833f68",
-      "title": "Turn Undead | The Glass Cannon Podcast Shadowdark E26 | Shadowdark RPG",
+      "title": "Turn Undead | The Glass Cannon Podcast: The Gloaming E26 | Shadowdark RPG",
       "published_at": "2026-05-15T04:00:00+00:00",
       "link": null,
       "description": "A brush with the undead drives the heroes deeper into the ruins. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠ ⁠ https://youtu.be/pD4xF5Td7Js Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Ember, a digital roleplaying game by Foundry VTT, is available now in early access: ⁠⁠⁠⁠https://foundryvtt.com/ember/⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ When you purchase a new Pocket Hose Ballistic, you'll get a free 360-degree rotating pocket pivot and a free thumb drive nozzle. Just text \"GCN\" to 64000. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -2814,6 +3050,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -2920,7 +3157,7 @@
     },
     {
       "key": "49ff7eb9ca24ec4d1066fcba1468cdbabd0da37c",
-      "title": "Foul Rag and Bone Shop | The Glass Cannon Podcast Shadowdark E25 | Shadowdark RPG",
+      "title": "Foul Rag and Bone Shop | The Glass Cannon Podcast: The Gloaming E25 | Shadowdark RPG",
       "published_at": "2026-05-08T04:00:00+00:00",
       "link": null,
       "description": "As the heroes press deeper into Myre Castle’s ruins, echoes of its past begin to stir. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠ https://youtu.be/WUMvx_nuEwI ⁠ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Ember, a digital roleplaying game by Foundry VTT, is available now in early access: ⁠⁠⁠https://foundryvtt.com/ember/⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ When you purchase a new Pocket Hose Ballistic, you'll get a free 360-degree rotating pocket pivot and a free thumb drive nozzle. Just text \"GCN\" to 64000. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -2941,6 +3178,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -3161,7 +3399,7 @@
     },
     {
       "key": "242cc558c7fd7b98fdd8d1d83fcc7ddc10bc0dcc",
-      "title": "Plot Armor | The Glass Cannon Podcast Shadowdark E24 | Shadowdark RPG",
+      "title": "Plot Armor | The Glass Cannon Podcast: The Gloaming E24 | Shadowdark RPG",
       "published_at": "2026-04-24T04:00:00+00:00",
       "link": null,
       "description": "Amid the ruins of Myre Castle, the heroes uncover fragments of a long-buried past. Watch the video here:⁠ ⁠⁠⁠⁠⁠ https://youtu.be/SS85Y-yDcrw Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Ember, a digital roleplaying game by Foundry VTT, is available now in early access: ⁠⁠https://foundryvtt.com/ember/⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ When you purchase a new Pocket Hose Ballistic, you'll get a free 360-degree rotating pocket pivot and a free thumb drive nozzle. Just text \"GCN\" to 64000. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3180,6 +3418,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -3253,7 +3492,7 @@
     },
     {
       "key": "67a2519e4b7de7969a966aeeb9540d5e706512f1",
-      "title": "Warmth Is Good, Right? | The Glass Cannon Podcast Shadowdark E23 | Shadowdark RPG",
+      "title": "Warmth Is Good, Right? | The Glass Cannon Podcast: The Gloaming E23 | Shadowdark RPG",
       "published_at": "2026-04-17T04:00:00+00:00",
       "link": null,
       "description": "As tensions rise within Marin’s Hold, the party attempts to leave in the hopes of exploring ancient ruins. Watch the video here:⁠ ⁠⁠⁠⁠ https://youtu.be/BpnOwjNO3WE ⁠⁠ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Ember, a digital roleplaying game by Foundry VTT, is available now in early access: ⁠https://foundryvtt.com/ember/⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Pick up your copy of Aoethera: Lore & Legends by searching CritHeads Gaming at DriveThruRPG.com or visiting ⁠⁠https://www.drivethrurpg.com/en/publisher/31439/critheads-gaming⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3270,6 +3509,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -3359,7 +3599,7 @@
     },
     {
       "key": "7e1dac53904a36379a60a1b3702bc55d5897cb5a",
-      "title": "The Crucible | The Glass Cannon Podcast Shadowdark E22 | Shadowdark RPG",
+      "title": "The Crucible | The Glass Cannon Podcast: The Gloaming E22 | Shadowdark RPG",
       "published_at": "2026-04-10T04:00:00+00:00",
       "link": null,
       "description": "While the palisade of Marin’s Hold may offer shelter, it offers little peace. Watch the video here:⁠ https://youtu.be/3RTN06305zg ⁠⁠ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Ember, a digital roleplaying game by Foundry VTT, is available now in early access: ⁠https://foundryvtt.com/ember/⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: ⁠https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3376,6 +3616,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -3467,7 +3708,7 @@
     },
     {
       "key": "8008cb8fd4709425606f4bb941ec659917e07c34",
-      "title": "Children of the Horn | The Glass Cannon Podcast Shadowdark E21 | Shadowdark RPG",
+      "title": "Children of the Horn | The Glass Cannon Podcast: The Gloaming E21 | Shadowdark RPG",
       "published_at": "2026-04-03T04:00:00+00:00",
       "link": null,
       "description": "The heroes reach their boat as the dragon catches up, tearing through their ranks. Watch the video here:⁠ ⁠⁠⁠ https://youtu.be/i-iRNo_jnmU ⁠⁠ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠ Ember, a digital roleplaying game by Foundry VTT, is available now in early access: https://foundryvtt.com/ember/ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ Pick up your copy of Aoethera: Lore & Legends by searching CritHeads Gaming at DriveThruRPG.com or visiting ⁠https://www.drivethrurpg.com/en/publisher/31439/critheads-gaming⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien and Erik Mona Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5bfaa484d Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3485,6 +3726,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -3577,7 +3819,7 @@
     },
     {
       "key": "4a85d22fe951c985ac144aa3da20717369222ed6",
-      "title": "Swamp Thing | The Glass Cannon Podcast Shadowdark E20 | Shadowdark RPG",
+      "title": "Swamp Thing | The Glass Cannon Podcast: The Gloaming E20 | Shadowdark RPG",
       "published_at": "2026-03-27T04:00:00+00:00",
       "link": null,
       "description": "As the heroes flee with the rescued villagers, waves of orcs close in as a greater terror joins the hunt. Watch the video here:⁠ ⁠⁠ https://youtu.be/ud6vfUOMFk4 ⁠ ⁠ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Text GCN to 64000 to get a FREE pocket pivot and their 10-pattern sprayer with the purchase of ANY size Copper Head hose. Message and data rates may apply. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Ember, a digital roleplaying game by Foundry VTT, is available now in early access: ⁠https://foundryvtt.com/ember/⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ Pick up your copy of Aoethera: Lore & Legends by searching CritHeads Gaming at DriveThruRPG.com or visiting ⁠https://www.drivethrurpg.com/en/publisher/31439/critheads-gaming⁠ Text GCN to 64000 to get a FREE pocket pivot and their 10-pattern sprayer with the purchase of ANY size Copper Head hose. Message and data rates may apply. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien, and Erik Mona Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3595,6 +3837,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -3667,7 +3910,7 @@
     },
     {
       "key": "384aef77fca18c25a9d6a862057fd209a80958bd",
-      "title": "Stakeout | The Glass Cannon Podcast Shadowdark E19 | Shadowdark RPG",
+      "title": "Stakeout | The Glass Cannon Podcast: The Gloaming E19 | Shadowdark RPG",
       "published_at": "2026-03-20T04:00:00+00:00",
       "link": null,
       "description": "With the orc village locked down, the heroes attempt a daring rescue of the remaining captives. Watch the video here:⁠ ⁠⁠ https://youtu.be/q-3J6NlXbBI ⁠ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠ Pick up your copy of Aoethera: Lore & Legends by searching CritHeads Gaming at DriveThruRPG.com or visiting https://www.drivethrurpg.com/en/publisher/31439/critheads-gaming Text GCN to 64000 to get a FREE pocket pivot and their 10-pattern sprayer with the purchase of ANY size Copper Head hose. Message and data rates may apply. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien and Kate Stamas Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3683,6 +3926,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -3796,7 +4040,7 @@
     },
     {
       "key": "231a83ce2c601f072e1af2d678eeff5aa2b4cfa1",
-      "title": "Blood in the Water | The Glass Cannon Podcast Shadowdark E18 | Shadowdark RPG",
+      "title": "Blood in the Water | The Glass Cannon Podcast: The Gloaming E18 | Shadowdark RPG",
       "published_at": "2026-03-13T04:00:00+00:00",
       "link": null,
       "description": "In the drowned wilds of the marsh, the heroes creep into an orc village where captives await a grim fate. Watch the video here:⁠ ⁠ https://youtu.be/fVIzW0JoqSE Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien and Kate Stamas Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3814,6 +4058,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -3907,7 +4152,7 @@
     },
     {
       "key": "a8a28e8f903fa6f936e5dcff84c451ca140b1894",
-      "title": "From Tusk Till Dawn | The Glass Cannon Podcast Shadowdark E17 | Shadowdark RPG",
+      "title": "From Tusk Till Dawn | The Glass Cannon Podcast: The Gloaming E17 | Shadowdark RPG",
       "published_at": "2026-03-06T05:00:00+00:00",
       "link": null,
       "description": "Strange new allies join the fray as the party confronts an orc raid. Watch the video here:⁠ https://youtu.be/zKktswjxMtk ⁠ Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠ Head over to https://www.drivethrurpg.com and search CritHeads Gaming to get all things Aoethera and start exploring this new world that was created by a player for players! Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien and Kate Stamas Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3925,6 +4170,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -3975,7 +4221,7 @@
     },
     {
       "key": "5267e6ab2b70a9fff15aa557dd1a67904098e6e6",
-      "title": "The Morning After | The Glass Cannon Podcast Shadowdark E16 | Shadowdark RPG",
+      "title": "The Morning After | The Glass Cannon Podcast: The Gloaming E16 | Shadowdark RPG",
       "published_at": "2026-02-27T05:00:00+00:00",
       "link": null,
       "description": "A night of carousing leaves the heroes in various states of disrepair. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://youtu.be/bD3PjPNNSrE Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠ Visit https://fogelpensandcreations.com/ and use code \"GCN2026\" to receive 10% off any online order. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3992,6 +4238,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -4085,7 +4332,7 @@
     },
     {
       "key": "bea1a9b0c48b0bf6443eaeaea516dbe2a2af45a4",
-      "title": "Carousing Suspicion | The Glass Cannon Podcast Shadowdark E15 | Shadowdark RPG",
+      "title": "Carousing Suspicion | The Glass Cannon Podcast: The Gloaming E15 | Shadowdark RPG",
       "published_at": "2026-02-20T05:00:00+00:00",
       "link": null,
       "description": "A chilly reception awaits the heroes upon returning to Marin's Hold. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/fqN_K95yFng Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠ Get Aoethera at ⁠⁠⁠https://www.drivethrurpg.com/en/publisher/31439/critheads-gaming⁠⁠⁠ or search CritHeads Gaming at DriveThruRPG.com Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4102,6 +4349,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -4151,7 +4399,7 @@
     },
     {
       "key": "84ec1e64dfd18f0f227e6455f4e53525250107cc",
-      "title": "Bigger Fish to Fry | The Glass Cannon Podcast Shadowdark E14 | Shadowdark RPG",
+      "title": "Bigger Fish to Fry | The Glass Cannon Podcast: The Gloaming E14 | Shadowdark RPG",
       "published_at": "2026-02-13T05:00:00+00:00",
       "link": null,
       "description": "A troll guards the shoreline, and getting past it may cost more than blood. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://youtu.be/u5ghcdVeejc Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4168,6 +4416,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -4218,7 +4467,7 @@
     },
     {
       "key": "4b122fd3bf08c2d94c218ceb953754b4e3c65038",
-      "title": "Hold Your Breath | The Glass Cannon Podcast Shadowdark E13 | Shadowdark RPG",
+      "title": "Hold Your Breath | The Glass Cannon Podcast: The Gloaming E13 | Shadowdark RPG",
       "published_at": "2026-02-06T05:00:00+00:00",
       "link": null,
       "description": "The heroes try desperately to escape a collapsing subterranean nightmare. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/X9a47j_Jo1w Get BONUS CONTENT every week at ⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠https://norsefoundry.com⁠⁠⁠ Get Aoethera at ⁠⁠https://www.drivethrurpg.com/en/publisher/31439/critheads-gaming⁠⁠ or search CritHeads Gaming at DriveThruRPG.com Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4235,6 +4484,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -4284,7 +4534,7 @@
     },
     {
       "key": "13ab35d2b7550fc61eb807621d6de0feaf8e457b",
-      "title": "Tread Lightly | The Glass Cannon Podcast Shadowdark E12 | Shadowdark RPG",
+      "title": "Tread Lightly | The Glass Cannon Podcast: The Gloaming E12 | Shadowdark RPG",
       "published_at": "2026-01-30T05:00:00+00:00",
       "link": null,
       "description": "While searching for the missing children, the heroes come upon the remnants of an ancient civilization. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/n1GRDax5_q0 Get BONUS CONTENT every week at ⁠⁠⁠jointhenaish.com⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠https://foundryvtt.com/gcp⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠https://norsefoundry.com⁠⁠ Get Aoethera at ⁠https://www.drivethrurpg.com/en/publisher/31439/critheads-gaming⁠ or search CritHeads Gaming at DriveThruRPG.com Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4301,6 +4551,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -4354,7 +4605,7 @@
     },
     {
       "key": "be6e9b8c186057de24bd2b167880fe61f5ab2bf8",
-      "title": "Something In the Air | The Glass Cannon Podcast Shadowdark E11 | Shadowdark RPG",
+      "title": "Something In the Air | The Glass Cannon Podcast: The Gloaming E11 | Shadowdark RPG",
       "published_at": "2026-01-23T05:00:00+00:00",
       "link": null,
       "description": "The heroes press on beneath the river as the darkness erupts with a swarm from above. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/QDW9uZKgVJY Get BONUS CONTENT every week at ⁠⁠jointhenaish.com⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠https://www.glasscannonnetwork.com/tour⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠https://foundryvtt.com/gcp⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠https://norsefoundry.com⁠ Get Aoethera at https://www.drivethrurpg.com/en/publisher/31439/critheads-gaming or searchCritHeads Gaming at DriveThruRPG.com Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4370,6 +4621,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -4436,7 +4688,7 @@
     },
     {
       "key": "fc9b79b255f53bae75ce944b67a061550d9430ab",
-      "title": "Failures at the Caves | The Glass Cannon Podcast Shadowdark E10 | Shadowdark RPG",
+      "title": "Failures at the Caves | The Glass Cannon Podcast: The Gloaming E10 | Shadowdark RPG",
       "published_at": "2026-01-16T05:00:00+00:00",
       "link": null,
       "description": "The mission veers sharply as the heroes abandon their path and chase after the stolen children. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://youtu.be/X90NhCFolA0 Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at https://foundryvtt.com/gcp Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at https://norsefoundry.com Get BONUS CONTENT every week at jointhenaish.com , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at https://www.glasscannonnetwork.com/tour Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4454,6 +4706,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -4503,7 +4756,7 @@
     },
     {
       "key": "a8adc30183ac0457304d7fc847414e873bc4ac8c",
-      "title": "The Dark Remembers | The Glass Cannon Podcast Shadowdark E9 | Shadowdark RPG",
+      "title": "The Dark Remembers | The Glass Cannon Podcast: The Gloaming E9 | Shadowdark RPG",
       "published_at": "2026-01-09T05:00:00+00:00",
       "link": null,
       "description": "With the children in peril, the heroes confront choices that may damn them either way. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://youtu.be/kajMYOrFkP4 Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Use code \"newyearnewdice\" at ⁠norsefoundry.com⁠ for 15% off your order through January 11! Go to https://huckleberryRPG.com/preorder and use code \"GCP5\" for $5 off. Explore the world of Aoethera by searching for CritHeads Gaming at DriveThruRPG.com or visiting https://www.drivethrurpg.com/en/publisher/31439/critheads-gaming . Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmWCk0⁠⁠⁠⁠⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4521,6 +4774,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -4571,7 +4825,7 @@
     },
     {
       "key": "afb1086dcc5def8d9dcee91cf1623f0bed76ced9",
-      "title": "Prison Details | The Glass Cannon Podcast Shadowdark E8 | Shadowdark RPG",
+      "title": "Prison Details | The Glass Cannon Podcast: The Gloaming E8 | Shadowdark RPG",
       "published_at": "2026-01-02T05:00:00+00:00",
       "link": null,
       "description": "The heroes attempt to infiltrate a camp. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/ZsBtCXcHApQ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Use code \"newyearnewdice\" at norsefoundry.com for 15% off your New Year's order! Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmWCk0⁠⁠⁠⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4589,6 +4843,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -4728,7 +4983,7 @@
     },
     {
       "key": "b440e70f4f5bc55d0125b51d12d3ac3e24be136f",
-      "title": "O Holy Knight | The Glass Cannon Podcast Shadowdark E7 | Shadowdark RPG",
+      "title": "O Holy Knight | The Glass Cannon Podcast: The Gloaming E7 | Shadowdark RPG",
       "published_at": "2025-12-19T05:00:00+00:00",
       "link": null,
       "description": "The Gloaming reveals more of its dark inhabitants as the heroes press on. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/RjMI21EN41A Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For Foundry's Ember Beta access go here: https://foundryvtt.com/ember/ . Code \"GCP20\" gets the Naish 20% off almost everything as ⁠https://norsefoundry.com⁠ . Code extended to December 20th! Go to www.huckleberryRPG.com/preorder and use code \"GCP5\" for $5 off. CritHeads is available exclusively on DriveThruRPG. Just search CritHeads Gaming at https://drivethrurpg.com . Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmWCk0⁠⁠⁠⁠⁠⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4746,6 +5001,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -4795,7 +5051,7 @@
     },
     {
       "key": "ba11b235f40b20aca089c7d1145158ebdf095930",
-      "title": "The Play's the Thing | The Glass Cannon Podcast Shadowdark E6 | Shadowdark RPG",
+      "title": "The Play's the Thing | The Glass Cannon Podcast: The Gloaming E6 | Shadowdark RPG",
       "published_at": "2025-12-12T05:00:00+00:00",
       "link": null,
       "description": "The heroes are thrust into the limelight and forced to perform for the goddess. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/1AYpEBa9pYs Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Use code \"GCP20\" to get 20% off almost EVERYTHING in Norse Foundry's store through December 18 at ⁠https://norsefoundry.com⁠ Visit www.huckleberryrpg.com/preorder and use code \"GCP5\" for $5 off. Visit https://hims.com/GCN for simple, online access to personalized and affordable care for hair loss. (Individual results may vary. Based on studies of topical and oral minoxidil and finasteride. Featured products include compounded drug products, which the FDA does not approve or verify for safety, effectiveness, or quality. Prescription required. See website for full details, restrictions, and important safety information.) Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmWCk0⁠⁠⁠⁠⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4813,6 +5069,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -4863,7 +5120,7 @@
     },
     {
       "key": "a09994ad109c82d113250ce0bf886a7945aa1e8b",
-      "title": "What Visions Have I Seen | The Glass Cannon Podcast Shadowdark E5 | Shadowdark RPG",
+      "title": "What Visions Have I Seen | The Glass Cannon Podcast: The Gloaming E5 | Shadowdark RPG",
       "published_at": "2025-12-05T05:00:00+00:00",
       "link": null,
       "description": "Desperate to try and help the children, the heroes turn to an unlikely source. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/g9rxtUgGRz8 Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Use code \"GCP20\" to get 20% off almost EVERYTHING in Norse Foundry's store through December 18 at https://norsefoundry.com CritHeads is available exclusively on DriveThruRPG. Just search CritHeads Gaming at ⁠ https://DriveThruRPG.com ⁠. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmWCk0⁠⁠⁠⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4997,7 +5254,7 @@
     },
     {
       "key": "5bc827f6223c6c8197481db3ed4650627b350df7",
-      "title": "You're the Meat | The Glass Cannon Podcast Shadowdark E4 | Shadowdark RPG",
+      "title": "You're the Meat | The Glass Cannon Podcast: The Gloaming E4 | Shadowdark RPG",
       "published_at": "2025-11-21T05:00:00+00:00",
       "link": null,
       "description": "As the heroes pursue a lead on the missing merchant, they find themselves crossing paths with more denizens of the forest. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/lUG0_zUoo3s Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For simple, online access to personalized and affordable care for hair loss, visit ⁠https://hims.com/GCN⁠ (Individual results may vary. Based on studies of topical and oral minoxidil and finasteride. Featured products include compounded drug products, which the FDA does not approve or verify for safety, effectiveness, or quality. Prescription required. See website for full details, restrictions, and important safety information.) Go to www.HuckleberryRPG.com/preorder and use code: GCP5 for $5 off. CritHeads is available exclusively on Drive thru RPG, just search CritHeads Gaming at DriveThruRPG.com . Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠⁠⁠https://hubs.li/Q03cmWCk0⁠⁠⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5063,7 +5320,7 @@
     },
     {
       "key": "b935ecc9e0573a6617fb9506e9c3826c6e68b960",
-      "title": "In Touch With the Ground | The Glass Cannon Podcast Shadowdark E3 | Shadowdark RPG",
+      "title": "In Touch With the Ground | The Glass Cannon Podcast: The Gloaming E3 | Shadowdark RPG",
       "published_at": "2025-11-14T05:00:00+00:00",
       "link": null,
       "description": "A grisly discovery thrusts the heroes deeper into the Gloaming, where the forest awakens and the shadows grow hungry. Watch the video here: ⁠⁠⁠⁠⁠⁠https://youtu.be/gO3EleVdT4g Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For simple, online access to personalized and affordable care for hair loss, visit https://hims.com/GCN (Individual results may vary. Based on studies of topical and oral minoxidil and finasteride. Featured products include compounded drug products, which the FDA does not approve or verify for safety, effectiveness, or quality. Prescription required. See website for full details, restrictions, and important safety information.) Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠⁠https://hubs.li/Q03cmWCk0⁠⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5081,6 +5338,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -5133,7 +5391,7 @@
     },
     {
       "key": "63392a9ce8ba43609644b6cc44a00b7feea3f0cd",
-      "title": "This Is the Gloaming | The Glass Cannon Podcast Shadowdark E2 | Shadowdark RPG",
+      "title": "This Is the Gloaming | The Glass Cannon Podcast: The Gloaming E2 | Shadowdark RPG",
       "published_at": "2025-11-07T05:00:00+00:00",
       "link": null,
       "description": "From the safety of Marin’s Hold, Warrick, Saint, Ellison, and Faroe stride into the Gloaming. Watch the video here: ⁠⁠⁠⁠⁠https://youtu.be/HgwV-k-ACZo Enter the Shadowdark at your gaming table by visiting ⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠⁠http://www.jointhenaish.com⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠https://hubs.li/Q03cmWCk0⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5218,7 +5476,7 @@
     },
     {
       "key": "a0a22388f573052a889484fb4c8af14d55c2ab58",
-      "title": "Probably the Moon | The Glass Cannon Podcast Shadowdark E1 | Shadowdark RPG",
+      "title": "Probably the Moon | The Glass Cannon Podcast: The Gloaming E1 | Shadowdark RPG",
       "published_at": "2025-10-31T04:00:00+00:00",
       "link": null,
       "description": "The war has ended, but for four battle-worn souls, their fight for survival has just begun. Watch the video here: ⁠⁠⁠⁠ https://youtu.be/6ahMxTtPcQM Enter the Shadowdark at your gaming table by visiting ⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For simple, online access to personalized and affordable care for Hair Loss, visit https://hims.com/GCN (Individual results may vary. Based on studies of topical and oral minoxidil and finasteride. Featured products include compounded drug products, which the FDA does not approve or verify for safety, effectiveness, or quality. Prescription required. See website for full details, restrictions, and important safety information.) Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠http://www.jointhenaish.com⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠https://hubs.li/Q03cmWCk0⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5228,6 +5486,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8786",
       "speakers": [
+        "Glass Cannon",
         "Shadowdark Rpg"
       ],
       "topics": [
@@ -5235,6 +5494,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -5306,7 +5566,7 @@
     },
     {
       "key": "7aee0c5e9aff379b775fd9cff9d5c37d0ff46438",
-      "title": "Fighter Priest Thief Wizard | The Glass Cannon Podcast Shadowdark E0 | Shadowdark RPG",
+      "title": "Fighter Priest Thief Wizard | The Glass Cannon Podcast: The Gloaming E0 | Shadowdark RPG",
       "published_at": "2025-10-24T04:00:00+00:00",
       "link": null,
       "description": "As the Glass Cannon Podcast prepares to enter the Shadowdark for its long anticipated third campaign, Gamemaster Troy Lavallee sits down with players Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien for Session Zero. Watch the video here: ⁠⁠⁠ https://youtu.be/uo3cyqJ9nBE Enter the Shadowdark at your gaming table by visiting https://www.thearcanelibrary.com/?utm_source=glasscannon This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at http://www.jointhenaish.com For more podcasts and livestreams or to catch the next stop on the tour, visit https://hubs.li/Q03cmWCk0 Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5327,6 +5587,7 @@
         "glass",
         "cannon",
         "podcast",
+        "gloaming",
         "shadowdark"
       ]
     },
@@ -21501,222 +21762,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "a90aea4223d31467f74fae29cb99e0b99502da4e",
-      "title": "Big Willy Style | The Glass Cannon Podcast Giantslayer E90 | Pathfinder 1E",
-      "published_at": "2017-02-14T05:00:00+00:00",
-      "link": "https://blubrry.com/the_glass_cannon/20950659/giantslayer-episode-90-big-willy-style/",
-      "description": "As the party recovers after a draining battle with Marsh Giant Wights, another decision on which way to go next leads to a foreboding dead end. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD5155350674.mp3?updated=1707937397",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4974",
-      "speakers": [
-        "Marsh Giant Wights"
-      ],
-      "topics": [
-        "willy",
-        "style",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "5d51e1842ad972433e8fb4eb3a78e03157ba2791",
-      "title": "Bottle of Red, Bottle of Wight | The Glass Cannon Podcast Giantslayer E89 | Pathfinder 1E",
-      "published_at": "2017-02-07T05:00:00+00:00",
-      "link": "https://blubrry.com/the_glass_cannon/20792870/giantslayer-episode-89-bottle-of-red-bottle-of-wight/",
-      "description": "It's the Day of the Inheritor! As Sir Will celebrates all things Iomedae, he has some things to get off his chest to Della. Meanwhile, a foreboding sign at another crossroads may force the party to change course. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD8322935476.mp3?updated=1707876608",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4723",
-      "speakers": [],
-      "topics": [
-        "bottle",
-        "wight",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "116ca183699c6468a9f1482d8794068450dbecd3",
-      "title": "Altared States | The Glass Cannon Podcast Giantslayer E88 | Pathfinder 1E",
-      "published_at": "2017-01-31T05:00:00+00:00",
-      "link": "https://blubrry.com/the_glass_cannon/20548824/giantslayer-episode-88-altared-states/",
-      "description": "As they attempt to discover the significance of an ancient chapel dedicated to a fire giant god deep within Minderhal's Valley, an explosion rocks the party. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD6919229448.mp3?updated=1707876077",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4523",
-      "speakers": [],
-      "topics": [
-        "state",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "f31a4a1ba01cdde4ae86288090c8fb53eafe1006",
-      "title": "How Do You Like This Chapel? | The Glass Cannon Podcast Giantslayer E87 | Pathfinder 1E",
-      "published_at": "2017-01-24T05:00:00+00:00",
-      "link": "https://blubrry.com/the_glass_cannon/20369208/giantslayer-episode-87-how-do-you-like-this-chapel/",
-      "description": "After a triumphant victory against Gristlecrack and her band of trolls, the party forges ahead flush with new powers. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD3336010975.mp3?updated=1707875806",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4736",
-      "speakers": [],
-      "topics": [
-        "chapel",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "6ae7508c0ceb9aede5988e97310e56252b20f920",
-      "title": "Interview with the Campfire | The Glass Cannon Podcast Giantslayer E86 | Pathfinder 1E",
-      "published_at": "2017-01-17T05:00:00+00:00",
-      "link": "https://blubrry.com/the_glass_cannon/20202611/giantslayer-episode-86-interview-with-the-campfire/",
-      "description": "Following an interrogation of their soused captive Ved, the party must make an important decision on which way to go next. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD2154636886.mp3?updated=1707874540",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5083",
-      "speakers": [],
-      "topics": [
-        "campfire",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "474ceab335a7715393428aecf70d6fafdbe08b9b",
-      "title": "Let Them Eat Drake | The Glass Cannon Podcast Giantslayer E85 | Pathfinder 1E",
-      "published_at": "2017-01-10T05:01:00+00:00",
-      "link": "http://www.glasscannonpodcast.com/episodes/2017/1/10/episode-85-let-them-eat-drake",
-      "description": "The party comes to a crossroads as the battle with the rift drake concludes. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/88d4deac-4113-11ee-b12c-8bfbe84e2520/image/4e61800c9ee0450c25947c3cccc0b3c8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD2982055285.mp3?updated=1707874356",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4833",
-      "speakers": [],
-      "topics": [
-        "drake",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "7e70f7eb37b1aa975c7d64b5ff6213652aac9280",
-      "title": "Heads 'Em Off at the Pass | The Glass Cannon Podcast Giantslayer E84 | Pathfinder 1E",
-      "published_at": "2017-01-03T05:01:00+00:00",
-      "link": "http://www.glasscannonpodcast.com/episodes/2017/1/3/episode-84-heads-em-off-at-the-pass",
-      "description": "The party attempts a parlay with the quarrelling voices they hear up ahead on the winding path through Minderhal's Valley. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/88ea3eaa-4113-11ee-b12c-6beca5b12ea4/image/4e61800c9ee0450c25947c3cccc0b3c8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD9998004308.mp3?updated=1707874108",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5621",
-      "speakers": [],
-      "topics": [
-        "head",
-        "pass",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "c0450992ce200859dc2749ca99aba5c671cde1a3",
-      "title": "Look Who's Stalking | The Glass Cannon Podcast Giantslayer E83 | Pathfinder 1E",
-      "published_at": "2016-12-27T05:02:00+00:00",
-      "link": "http://www.glasscannonpodcast.com/episodes/2016/12/27/episode-83-look-whos-stalking",
-      "description": "Umlo leads the party toward the sounds of his deceased sister's voice as the journey deeper into Minderhal's Valley continues. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/88fe53ae-4113-11ee-b12c-bf218d71e0ba/image/4e61800c9ee0450c25947c3cccc0b3c8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD8162138028.mp3?updated=1707926259",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4171",
-      "speakers": [
-        "Look Who"
-      ],
-      "topics": [
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "cb4391405599e3418e86c7f751f9e943ac617735",
-      "title": "Ogre My Dead Body | The Glass Cannon Podcast Giantslayer E82 | Pathfinder 1E",
-      "published_at": "2016-12-20T05:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/19599151/episode-82-ogre-my-dead-body/",
-      "description": "The heroes get the jump on a band of bloodthirsty ogres and attempt to free their terrified captives! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD5841511032.mp3?updated=1707516098",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4094",
-      "speakers": [],
-      "topics": [
-        "body",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "ec1500fe6af68b298b8680777b1d07145e52d334",
-      "title": "The Hills Have Eye | The Glass Cannon Podcast Giantslayer E81 | Pathfinder 1E",
-      "published_at": "2016-12-13T05:01:00+00:00",
-      "link": "https://www.blubrry.com/the_glass_cannon/19404549/episode-81-the-hills-have-eye/",
-      "description": "Rescued babe in tow, the crew arrive at the prospecting town of Shinnerman's Fortune only to find an all too familiar scene. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD3762654445.mp3?updated=1707515962",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4476",
-      "speakers": [],
-      "topics": [
-        "hills",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21725,57 +21770,67 @@
 
 ## Episodes (newest first)
 
+- 2026-10-26 — When Is Yelka's Birthday? | Blood of the Wild S1 E45 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
+- 2026-10-24 — Call of Cthugha | Time For Chaos S4 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
+- 2026-10-23 — The Mortal World | The Glass Cannon Podcast: Shadows of the Broken E2 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-10-21 — Among the Living | We Shouldn't Be Alive E20 | Twilight: 2000
+- 2026-10-19 — GCN Community Update October 19, 2026
+- 2026-10-18 — Three Days of Rain | Blood of the Wild S1 E44 | Pathfinder 2E Quest for the Frozen Flame — speakers: Three Days, Frozen Flame Awol
+- 2026-10-17 — I Bless the Rains | Time For Chaos S4 E13 | Call of Cthulhu Masks of Nyarlathotep
+- 2026-10-16 — The Will of the Gods | The Glass Cannon Podcast: Shadows of the Broken E1 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-10-14 — You're a Soldier | We Shouldn't Be Alive E19 | Twilight: 2000
+- 2026-10-12 — GCN Community Update October 12, 2026 — speakers: Glass Cannon
 - 2026-10-12 — Stabbing a Box | Blood of the Wild S1 E43 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-10-10 — Dearly Departed | Time For Chaos S4 E12 | Call of Cthulhu Masks of Nyarlathotep
-- 2026-10-09 — So Wet 4: Wet Lies Beneath | The Glass Cannon Podcast Shadowdark E47 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-10-09 — So Wet 4: Wet Lies Beneath | The Glass Cannon Podcast: The Gloaming E47 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-10-07 — Special Weapons and Tactics | We Shouldn't Be Alive E18 | Twilight: 2000 — speakers: Special Weapons
 - 2026-10-06 — Eternal Lies | Call of Cthulhu Live! | Atlanta 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
 - 2026-10-05 — GCN Community Update October 5, 2026
 - 2026-10-05 — Weal and Woe | Blood of the Wild S1 E42 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame Resuming
 - 2026-10-03 — Tin of Biscuits | Time For Chaos S4 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
-- 2026-10-02 — So Wet 3: Wet Dreams May Come | The Glass Cannon Podcast Shadowdark E46 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-10-02 — So Wet 3: Wet Dreams May Come | The Glass Cannon Podcast: The Gloaming E46 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-09-30 — Bullet Factory | We Shouldn't Be Alive E17 | Twilight: 2000 — speakers: Bullet Factory, Fabryka Maszyn
 - 2026-09-28 — GCN Community Update September 28, 2026 — speakers: Community Update September, Community Update
 - 2026-09-28 — Final Spite | Blood of the Wild S1 E41 | Pathfinder 2E Quest for the Frozen Flame
 - 2026-09-26 — Are You Lonesome Tonight? | Call of Cthulhu Live! | Indianapolis Night Two 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
-- 2026-09-25 — So Wet 2: Still Soppin' | The Glass Cannon Podcast Shadowdark E45 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-09-25 — So Wet 2: Still Soppin' | The Glass Cannon Podcast: The Gloaming E45 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-09-23 — The Resistance | We Shouldn't Be Alive E16 | Twilight: 2000
 - 2026-09-21 — GCN News Minute September 21, 2026 — speakers: News Minute September
 - 2026-09-21 — It's Not Like Hook | Blood of the Wild S1 E40 | Pathfinder 2E Quest for the Frozen Flame — speakers: Not Like Hook
 - 2026-09-19 — Sweet Tooth | Call of Cthulhu Live! | Indianapolis Night One 2026 | Modern Call of Cthulhu — speakers: Sweet Tooth, Quiet Horizon
-- 2026-09-18 — So Wet | The Glass Cannon Podcast Shadowdark E44 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-09-18 — So Wet | The Glass Cannon Podcast: The Gloaming E44 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-09-16 — Take Me to Church | We Shouldn't Be Alive E15 | Twilight: 2000 — speakers: Take Me
 - 2026-09-14 — GCN News Minute September 14, 2026 — speakers: News Minute September
 - 2026-09-14 — Charms and Mojo Sticks | Blood of the Wild S1 E39 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-09-12 — Inner Circle | Time For Chaos S4 E10 | Call of Cthulhu Masks of Nyarlathotep
-- 2026-09-11 — Out of Order | The Glass Cannon Podcast Shadowdark E43 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-09-11 — Out of Order | The Glass Cannon Podcast: The Gloaming E43 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-09-09 — The Hot Zone | We Shouldn't Be Alive E14 | Twilight: 2000
 - 2026-09-07 — GCN News Minute September 7, 2026 — speakers: News Minute September, Labor Day
 - 2026-09-07 — Baby Hunter | Blood of the Wild S1 E38 | Pathfinder 2E Quest for the Frozen Flame — speakers: Baby Hunter
 - 2026-09-05 — Haunters of the Dark | Time For Chaos S4 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep Deep
-- 2026-09-04 — Trial By Combat | The Glass Cannon Podcast Shadowdark E42 | Shadowdark RPG — speakers: Shadowdark Rpg, Reeve Winters, Leoric Beckett
+- 2026-09-04 — Trial By Combat | The Glass Cannon Podcast: The Gloaming E42 | Shadowdark RPG — speakers: Shadowdark Rpg, Reeve Winters, Leoric Beckett
 - 2026-09-02 — Snakes Are Everywhere | We Shouldn't Be Alive E13 | Twilight: 2000 — speakers: Solinski Zespo
 - 2026-08-31 — GCN News Minute August 31, 2026 — speakers: News Minute August
 - 2026-08-31 — Shaggy's Fight | Blood of the Wild S1 E37 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame Shaggy
 - 2026-08-29 — The Land Down Under | Time For Chaos S4 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
-- 2026-08-28 — Material Witness | The Glass Cannon Podcast Shadowdark E41 | Shadowdark RPG — speakers: Shadowdark Rpg, Gideon Black
+- 2026-08-28 — Material Witness | The Glass Cannon Podcast: The Gloaming E41 | Shadowdark RPG — speakers: Shadowdark Rpg, Gideon Black
 - 2026-08-26 — Fever Dreams | We Shouldn't Be Alive E12 | Twilight: 2000 — speakers: Fever Dreams
 - 2026-08-24 — GCN News Minute August 24, 2026 — speakers: News Minute August
 - 2026-08-24 — Hex-Crawlin' | Blood of the Wild S1 E36 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-08-22 — An Ecstasy of Fumbling | Time For Chaos S4 E7 | Call of Cthulhu Masks of Nyarlathotep
-- 2026-08-21 — New Tomorrow | The Glass Cannon Podcast Shadowdark E40 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-08-21 — New Tomorrow | The Glass Cannon Podcast: The Gloaming E40 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-08-19 — Time Without Tide Part 2 | Chaosium | Friends of the Pod — speakers: Lonely Pharefl
 - 2026-08-19 — Between Two Poles | We Shouldn't Be Alive E11 | Twilight: 2000 — speakers: Between Two Poles
 - 2026-08-17 — GCN News Minute August 17, 2026 — speakers: News Minute August
 - 2026-08-17 — Ten Things You Didn't Know About Merthig | Blood of the Wild S1 E35 | Pathfinder 2E Quest for the Frozen Flame — speakers: Know About Merthig, Frozen Flame Back
 - 2026-08-15 — Our Frail Perception | Time For Chaos S4 E6 | Call of Cthulhu Masks of Nyarlathotep
-- 2026-08-14 — Take a Chance on Me | The Glass Cannon Podcast Shadowdark E39 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-08-14 — Take a Chance on Me | The Glass Cannon Podcast: The Gloaming E39 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-08-12 — Deadfall | We Shouldn't Be Alive E10 | Twilight: 2000
 - 2026-08-12 — Time Without Tide Part 1 | Chaosium | Friends of the Pod — speakers: Pod Four
 - 2026-08-10 — Saber-Toothed | Blood of the Wild S1 E34 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-08-10 — GCN News Minute August 10, 2026 — speakers: News Minute August
 - 2026-08-08 — If Only We Knew | Time For Chaos S4 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Robert Huston
-- 2026-08-07 — The Roomkeepers | The Glass Cannon Podcast Shadowdark E38 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-08-07 — The Roomkeepers | The Glass Cannon Podcast: The Gloaming E38 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-08-06 — Justice League Unlimited The Roleplaying Game | D20 Culture | Gen Con 2026 — speakers: Gen Con
 - 2026-08-05 — Carpenter | We Shouldn't Be Alive E9 | Twilight: 2000
 - 2026-08-05 — Pendragon: The Boy King Part 2 | Chaosium | Gen Con 2026 — speakers: Boy King, Gen Con
@@ -21784,46 +21839,46 @@
 - 2026-08-03 — Call of Cthulhu: Innsmouth | Chaosium | Gen Con 2026 — speakers: Gen Con, Brian Holland
 - 2026-08-03 — A True Friend | Blood of the Wild S1 E33 | Pathfinder 2E Quest for the Frozen Flame — speakers: True Friend, Frozen Flame Red Cat
 - 2026-08-01 — Bumps in the Night | Time For Chaos S4 E4 | Call of Cthulhu Masks of Nyarlathotep
-- 2026-07-31 — It Knows Your Name | The Glass Cannon Podcast Shadowdark E37 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-07-31 — It Knows Your Name | The Glass Cannon Podcast: The Gloaming E37 | Shadowdark RPG — speakers: Glass Cannon, Shadowdark Rpg
 - 2026-07-30 — Session Zero | Get in the Trunk Music from a Darkened Room E0 | Delta Green — speakers: Joe O'Brien, Ross Bryant, Sydney Amanuel, Mary Lou, Jared Logan
 - 2026-07-29 — The Sound of Rain | We Shouldn't Be Alive E8 | Twilight: 2000 — speakers: British Intelligence
 - 2026-07-27 — GCN News Minute July 27, 2026 — speakers: Gen Con
 - 2026-07-27 — Razor Stones | Blood of the Wild S1 E32 | Pathfinder 2E Quest for the Frozen Flame — speakers: Razor Stones
 - 2026-07-25 — Murder Most Foul | Time For Chaos S4 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Murder Most Foul, Cthulhu Masks
-- 2026-07-24 — Wizards and Thieves | The Glass Cannon Podcast Shadowdark E36 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-07-24 — Wizards and Thieves | The Glass Cannon Podcast: The Gloaming E36 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-07-22 — There Are Lots of Ways to Die Now | We Shouldn't Be Alive E7 | Twilight: 2000 — speakers: Die Now
 - 2026-07-20 — GCN News Minute July 20, 2026 — speakers: Gen Con
 - 2026-07-20 — The Lady in the Lake | Blood of the Wild S1 E31 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-07-18 — Legend of the Falls | Time For Chaos S4 E2 | Call of Cthulhu Masks of Nyarlathotep
-- 2026-07-17 — Up the River | The Glass Cannon Podcast Shadowdark E35 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-07-17 — Up the River | The Glass Cannon Podcast: The Gloaming E35 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-07-15 — The Shepherd and the Siege | We Shouldn't Be Alive E6 | Twilight: 2000
 - 2026-07-14 — A Wise Young Man, Part 2 | Pendragon: Under an Iron Sky | Chaosium
 - 2026-07-13 — GCN News Minute July 13, 2026 — speakers: News Minute July
 - 2026-07-13 — King of the Blindheims | Blood of the Wild S1 E30 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-07-11 — Wondrous Intelligences | Time For Chaos S4 E1 | Call of Cthulhu Masks of Nyarlathotep
-- 2026-07-10 — Every Man and No Man | The Glass Cannon Podcast Shadowdark E34 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-07-10 — Every Man and No Man | The Glass Cannon Podcast: The Gloaming E34 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-07-08 — Polish Standoff | We Shouldn't Be Alive E5 | Twilight: 2000 — speakers: Polish Standoff
 - 2026-07-07 — A Wise Young Man, Part 1 | Pendragon: Under an Iron Sky | Chaosium — speakers: Wise Young Man, Iron Sky, Chaosium Bandits
 - 2026-07-06 — GCN News Minute July 6, 2026 — speakers: News Minute July
 - 2026-07-06 — That Look on Its Face | Blood of the Wild S1 E29 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-07-03 — The Best Laid Plans | The Glass Cannon Podcast Shadowdark E33 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-07-03 — The Best Laid Plans | The Glass Cannon Podcast: The Gloaming E33 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-07-02 — The Megacorp Way | Gen Con 2026 Gauntlet Prep Part 5 | Traveller — speakers: Gen Con Gauntlet
 - 2026-07-01 — HUMINT | We Shouldn't Be Alive E4 | Twilight: 2000
 - 2026-06-30 — Winter Phase, 512 A.D. | Pendragon: Under an Iron Sky | Chaosium — speakers: King Sauvage
 - 2026-06-29 — GCN News Minute June 29, 2026 — speakers: News Minute June
 - 2026-06-29 — Red Cat Cave | Blood of the Wild S1 E28 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-06-26 — Thick As Thieves | The Glass Cannon Podcast Shadowdark E32 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-06-26 — Thick As Thieves | The Glass Cannon Podcast: The Gloaming E32 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-06-24 — The Supermarket | We Shouldn't Be Alive E3 | Twilight: 2000
 - 2026-06-23 — The Swine King, Part 2 | Pendragon: Under an Iron Sky | Chaosium
 - 2026-06-22 — GCN News Minute June 22, 2026
 - 2026-06-22 — Zanya | Blood of the Wild S1 E27 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-06-19 — The Boys Are Back in Town | The Glass Cannon Podcast Shadowdark E31 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-06-19 — The Boys Are Back in Town | The Glass Cannon Podcast: The Gloaming E31 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-06-17 — Cover Me | We Shouldn't Be Alive E2 | Twilight: 2000 — speakers: Cover Me
 - 2026-06-16 — The Swine King, Part 1 | Pendragon: Under an Iron Sky | Chaosium — speakers: Iron Sky, Chaosium Hark
 - 2026-06-15 — GCN News Minute June 15, 2026 — speakers: Gen Con
 - 2026-06-15 — Blades in the Dark | GCN Naish Rally
 - 2026-06-15 — Hits and Crits | Blood of the Wild S1 E26 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame Combat
-- 2026-06-12 — The Folly of Ser Ydris | The Glass Cannon Podcast Shadowdark E30 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-06-12 — The Folly of Ser Ydris | The Glass Cannon Podcast: The Gloaming E30 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-06-12 — Delta Green | GCN Naish Rally
 - 2026-06-11 — Brindlewood Bay | GCN Naish Rally — speakers: Brindlewood Bay, Naish Rally When
 - 2026-06-11 — St. Elsewhere | Call of Cthulhu Live! | St. Paul 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
@@ -21834,7 +21889,7 @@
 - 2026-06-08 — GCN News Minute June 8, 2026 — speakers: News Minute June
 - 2026-06-08 — Muttering Over a Pyramid | Blood of the Wild S1 E25 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-06-08 — Advanced D&D | GCN Naish Rally
-- 2026-06-05 — Gede from the Machine | The Glass Cannon Podcast Shadowdark E29 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-06-05 — Gede from the Machine | The Glass Cannon Podcast: The Gloaming E29 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-06-05 — Twilight: 2000 | GCN Naish Rally — speakers: United States
 - 2026-06-04 — Bitter Sweet Symphony | Call of Cthulhu Live! | Dallas 2026 | Modern Call of Cthulhu — speakers: Sweet Symphony, Quiet Horizon
 - 2026-06-04 — Regency Cthulhu | GCN Naish Rally — speakers: Alastair Linville
@@ -21842,24 +21897,24 @@
 - 2026-06-02 — The Queen's Wedding, Part 2 | Pendragon: Under an Iron Sky | Chaosium
 - 2026-06-01 — GCN News Minute June 1, 2026 — speakers: News Minute June
 - 2026-06-01 — Stormy Weather | Blood of the Wild S1 E24 | Pathfinder 2E Quest for the Frozen Flame
-- 2026-05-29 — Escape Room | The Glass Cannon Podcast Shadowdark E28 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-05-29 — Escape Room | The Glass Cannon Podcast: The Gloaming E28 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-05-28 — Midnight Special | Call of Cthulhu Live! | St. Louis 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
 - 2026-05-27 — Twilight: 2000 Character Creation | GCN Naish Rally — speakers: Character Creation, Naish Rally Joe, Lifepath System
 - 2026-05-26 — GCN News Minute May 26, 2026 — speakers: News Minute May, Naish Rally
 - 2026-05-26 — The Queen's Wedding, Part 1 | Pendragon: Under an Iron Sky | Chaosium — speakers: Iron Sky, Chaosium Hark
 - 2026-05-25 — Hunting and Hexes | Blood of the Wild S1 E23 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-05-22 — Crypt Walk | The Glass Cannon Podcast Shadowdark E27 | Shadowdark RPG — speakers: Crypt Walk, Shadowdark Rpg, Myre Castle
+- 2026-05-22 — Crypt Walk | The Glass Cannon Podcast: The Gloaming E27 | Shadowdark RPG — speakers: Crypt Walk, Shadowdark Rpg, Myre Castle
 - 2026-05-21 — In Absentia | Call of Cthulhu Live! | Chicago 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
 - 2026-05-19 — Winter Phase 510 A.D. | Pendragon: Under an Iron Sky | Chaosium — speakers: King Lot
 - 2026-05-18 — GCN News Minute May 18, 2026 — speakers: Gen Con
 - 2026-05-18 — I Take Pride in My Hideous Face | Blood of the Wild S1 E22 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-05-15 — Turn Undead | The Glass Cannon Podcast Shadowdark E26 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-05-15 — Turn Undead | The Glass Cannon Podcast: The Gloaming E26 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-05-14 — Up Around the Bend | Call of Cthulhu Live! | Portland 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
 - 2026-05-12 — The Farmer's Boy | Pendragon: Under an Iron Sky | Chaosium
 - 2026-05-11 — GCN News Minute May 11, 2026
 - 2026-05-11 — A Picture of the Moon | Blood of the Wild S1 E21 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame Heading, Gleaming Sun Lake
 - 2026-05-09 — Star Wars Age of Rebellion Part 3
-- 2026-05-08 — Foul Rag and Bone Shop | The Glass Cannon Podcast Shadowdark E25 | Shadowdark RPG — speakers: Bone Shop, Shadowdark Rpg, Myre Castle
+- 2026-05-08 — Foul Rag and Bone Shop | The Glass Cannon Podcast: The Gloaming E25 | Shadowdark RPG — speakers: Bone Shop, Shadowdark Rpg, Myre Castle
 - 2026-05-07 — Losing Nemo | Call of Cthulhu Live! | Los Angeles Night Two 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
 - 2026-05-06 — Star Wars Age of Rebellion Part 2 — speakers: Star Wars Age
 - 2026-05-05 — Star Wars Age of Rebellion Part 1 — speakers: Star Wars Age, Star Wars
@@ -21870,104 +21925,104 @@
 - 2026-04-28 — The Fury of King Lot, Part 1 | Pendragon: Under an Iron Sky | Chaosium — speakers: King Lot, Iron Sky, Chaosium Hark
 - 2026-04-27 — GCN News Minute April 27, 2026 — speakers: News Minute April
 - 2026-04-27 — You're Not My Father | Blood of the Wild S1 E19 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-04-24 — Plot Armor | The Glass Cannon Podcast Shadowdark E24 | Shadowdark RPG — speakers: Shadowdark Rpg, Myre Castle
+- 2026-04-24 — Plot Armor | The Glass Cannon Podcast: The Gloaming E24 | Shadowdark RPG — speakers: Shadowdark Rpg, Myre Castle
 - 2026-04-21 — Winter Phase, 509 A.D. | Pendragon: Under an Iron Sky | Chaosium — speakers: Winter Phase, Iron Sky
 - 2026-04-20 — GCN News Minute April 20, 2026 — speakers: News Minute April
 - 2026-04-20 — We Should Have Taken the Boat | Blood of the Wild S1 E18 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame There, Gleaming Sun Lake
-- 2026-04-17 — Warmth Is Good, Right? | The Glass Cannon Podcast Shadowdark E23 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-04-17 — Warmth Is Good, Right? | The Glass Cannon Podcast: The Gloaming E23 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-04-16 — Cthulhu by Gaslight Part 2 | Friends of the Pod — speakers: Humbert Lange
 - 2026-04-14 — The Motherless Son, Part 2 | Pendragon: Under an Iron Sky | Chaosium
 - 2026-04-13 — GCN News Minute April 13, 2026 — speakers: News Minute April
 - 2026-04-13 — The Weapon of the Colonizer | Blood of the Wild S1 E17 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-04-10 — The Crucible | The Glass Cannon Podcast Shadowdark E22 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-04-10 — The Crucible | The Glass Cannon Podcast: The Gloaming E22 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-04-09 — Cthulhu by Gaslight Part 1 | Friends of the Pod
 - 2026-04-07 — The Motherless Son, Part 1 | Pendragon: Under an Iron Sky | Chaosium — speakers: Iron Sky, Chaosium Hark
 - 2026-04-06 — GCN News Minute April 6, 2026 — speakers: News Minute April
 - 2026-04-06 — Dirt Tornado | Blood of the Wild S1 E16 | Pathfinder 2E Quest for the Frozen Flame — speakers: Dirt Tornado, Frozen Flame
-- 2026-04-03 — Children of the Horn | The Glass Cannon Podcast Shadowdark E21 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-04-03 — Children of the Horn | The Glass Cannon Podcast: The Gloaming E21 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-04-02 — The Glass Cannon Network Back Home On Patreon — speakers: Glass Cannon Network, Troy Lavallee
 - 2026-03-31 — Winter Phase, 508 A.D. | Pendragon: Under an Iron Sky | Chaosium
 - 2026-03-30 — GCN News Minute March 30, 2026 — speakers: News Minute March
 - 2026-03-30 — The Old Battleground | Blood of the Wild S1 E15 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-03-27 — Swamp Thing | The Glass Cannon Podcast Shadowdark E20 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-03-27 — Swamp Thing | The Glass Cannon Podcast: The Gloaming E20 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-03-24 — The Vengeful Giant, Part 2 | Pendragon: Under an Iron Sky | Chaosium — speakers: Iron Sky, Chaosium Hark
 - 2026-03-23 — GCN News Minute March 23, 2026 — speakers: News Minute March
 - 2026-03-23 — Vision of the Three-fold Flame | Blood of the Wild S1 E14 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-03-20 — Stakeout | The Glass Cannon Podcast Shadowdark E19 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-03-20 — Stakeout | The Glass Cannon Podcast: The Gloaming E19 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-03-19 — 7th Sea 3rd Edition Playtest | Friends of the Pod — speakers: Edition Playtest, Pod Back
 - 2026-03-18 — The Bums Lost | Gen Con 2026 Gauntlet Prep Part 4 | Traveller — speakers: Gen Con Gauntlet
 - 2026-03-17 — The Vengeful Giant, Part 1 | Pendragon: Under an Iron Sky | Chaosium — speakers: Iron Sky, Chaosium Hark
 - 2026-03-16 — GCN News Minute March 16, 2026
 - 2026-03-16 — Rage-a-Saurus | Blood of the Wild S1 E13 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-03-13 — Blood in the Water | The Glass Cannon Podcast Shadowdark E18 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-03-13 — Blood in the Water | The Glass Cannon Podcast: The Gloaming E18 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-03-12 — To Boldly Go | Gen Con 2026 Gauntlet Prep Part 3 | Traveller — speakers: Gen Con
 - 2026-03-10 — Session Zero | Pendragon: Under an Iron Sky | Chaosium — speakers: Brian Holland, Noura Ibrahim, Skid Maher, Paula Deming, Joe O'Brien
 - 2026-03-09 — GCN News Minute March 9, 2026
 - 2026-03-09 — The Tip of the Spear | Blood of the Wild S1 E12 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame Fleeing
-- 2026-03-06 — From Tusk Till Dawn | The Glass Cannon Podcast Shadowdark E17 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-03-06 — From Tusk Till Dawn | The Glass Cannon Podcast: The Gloaming E17 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-03-02 — GCN News Minute March 2, 2026 — speakers: News Minute March
 - 2026-03-02 — Mauled by a Polar Bear | Blood of the Wild S1 E11 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-02-27 — The Morning After | The Glass Cannon Podcast Shadowdark E16 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-02-27 — The Morning After | The Glass Cannon Podcast: The Gloaming E16 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-02-26 — Cooking with Class | Gen Con 2026 Gauntlet Prep Part 2 | Traveller — speakers: Gen Con Gauntlet
 - 2026-02-25 — Space Journalism | Gen Con 2026 Gauntlet Prep Part 1 | Traveller — speakers: Gen Con Gauntlet
 - 2026-02-23 — GCN News Minute February 23, 2026 — speakers: News Minute February
 - 2026-02-23 — Burning Mammoths | Blood of the Wild S1 E10 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame, Broken Tusk
-- 2026-02-20 — Carousing Suspicion | The Glass Cannon Podcast Shadowdark E15 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-02-20 — Carousing Suspicion | The Glass Cannon Podcast: The Gloaming E15 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-02-16 — GCN News Minute February 16, 2026
 - 2026-02-16 — Story Time | Blood of the Wild S1 E9 | Pathfinder 2E Quest for the Frozen Flame — speakers: Story Time, Frozen Flame
-- 2026-02-13 — Bigger Fish to Fry | The Glass Cannon Podcast Shadowdark E14 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-02-13 — Bigger Fish to Fry | The Glass Cannon Podcast: The Gloaming E14 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-02-09 — GCN News Minute February 9, 2026 — speakers: News Minute February
 - 2026-02-09 — It's Just Like Star Trek 2 | Blood of the Wild S1 E8 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-02-06 — Hold Your Breath | The Glass Cannon Podcast Shadowdark E13 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-02-06 — Hold Your Breath | The Glass Cannon Podcast: The Gloaming E13 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-02-02 — GCN News Minute February 2, 2026 — speakers: News Minute February
 - 2026-02-02 — Don't Scoff at My Preen | Blood of the Wild S1 E7 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-01-30 — Tread Lightly | The Glass Cannon Podcast Shadowdark E12 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-01-30 — Tread Lightly | The Glass Cannon Podcast: The Gloaming E12 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-01-26 — GCN News Minute January 26, 2026 — speakers: News Minute January, News Minute
 - 2026-01-26 — Up the River Without a Paddle | Blood of the Wild S1 E6 | Pathfinder 2E Quest for the Frozen Flame — speakers: River Without, Frozen Flame Wrestling, Gornok River
-- 2026-01-23 — Something In the Air | The Glass Cannon Podcast Shadowdark E11 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-01-23 — Something In the Air | The Glass Cannon Podcast: The Gloaming E11 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-01-20 — State of the Naish 2026
 - 2026-01-19 — GCN News Minute January 19, 2026 — speakers: News Minute January
 - 2026-01-19 — Tapir Tending | Blood of the Wild S1 E5 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-01-16 — Failures at the Caves | The Glass Cannon Podcast Shadowdark E10 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-01-16 — Failures at the Caves | The Glass Cannon Podcast: The Gloaming E10 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-01-12 — GCN News Minutes January 12, 2026 — speakers: News Minutes January
 - 2026-01-12 — Shaggy | Blood of the Wild S1 E4 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-01-09 — The Dark Remembers | The Glass Cannon Podcast Shadowdark E9 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-01-09 — The Dark Remembers | The Glass Cannon Podcast: The Gloaming E9 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-01-05 — GCN News Minutes January 5, 2026 — speakers: News Minutes January
 - 2026-01-05 — Standing Stones | Blood of the Wild S1 E3 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-01-02 — Prison Details | The Glass Cannon Podcast Shadowdark E8 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-01-02 — Prison Details | The Glass Cannon Podcast: The Gloaming E8 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2025-12-29 — GCN News Minute December 29, 2025 — speakers: News Minute December
 - 2025-12-29 — Meet the Mammoth Lords | Blood of the Wild S1 E2 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2025-12-25 — War Breaks Out | We Shouldn't Be Alive Session Zero | Twilight: 2000 — speakers: Ross Bryant, Skid Maher, Mary Lou
 - 2025-12-22 — GCN News Minute December 22, 2025 — speakers: News Minute December
 - 2025-12-22 — A-Moose Bouche | Blood of the Wild S1 E1 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2025-12-20 — The Last Thorn | Glass Cannon Live! Ascension Part 13 | Philadelphia 2025 | Pathfinder 2E
-- 2025-12-19 — O Holy Knight | The Glass Cannon Podcast Shadowdark E7 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2025-12-19 — O Holy Knight | The Glass Cannon Podcast: The Gloaming E7 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2025-12-15 — GCN News Minute December 15, 2025 — speakers: News Minute December, Bloody Christmas
 - 2025-12-13 — The Shepherd | Glass Cannon Live! Ascension Part 12 | Philadelphia 2025 | Pathfinder 2E — speakers: Rosewood Vale
-- 2025-12-12 — The Play's the Thing | The Glass Cannon Podcast Shadowdark E6 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2025-12-12 — The Play's the Thing | The Glass Cannon Podcast: The Gloaming E6 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2025-12-08 — GCN News Minute December 8, 2025 — speakers: News Minute December
 - 2025-12-06 — Walkabout | Time For Chaos S3 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Season Three Finale, Mystery Squad
-- 2025-12-05 — What Visions Have I Seen | The Glass Cannon Podcast Shadowdark E5 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2025-12-05 — What Visions Have I Seen | The Glass Cannon Podcast: The Gloaming E5 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2025-12-01 — GCN News Minute December 1, 2025 — speakers: News Minute December, Cyber Monday
 - 2025-11-29 — Hot Toddy | Time For Chaos S3 E19 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-11-27 — Spider-Noir Solves a Multiversal Whodunnit! | Marvel Multiverse RPG — speakers: Marvel Multiverse Rpg, Troy Lavallee, Skid Maher
 - 2025-11-24 — GCN News Minute November 24, 2025 — speakers: News Minute November, Black Friday
 - 2025-11-22 — And Men Plunder | Time For Chaos S3 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep New
-- 2025-11-21 — You're the Meat | The Glass Cannon Podcast Shadowdark E4 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2025-11-21 — You're the Meat | The Glass Cannon Podcast: The Gloaming E4 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2025-11-17 — GCN News Minute November 17, 2025 — speakers: News Minute November
 - 2025-11-15 — Where Women Glow | Time For Chaos S3 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Where Women Glow, Cthulhu Masks
-- 2025-11-14 — In Touch With the Ground | The Glass Cannon Podcast Shadowdark E3 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2025-11-14 — In Touch With the Ground | The Glass Cannon Podcast: The Gloaming E3 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2025-11-10 — GCN News Minute November 10, 2025 — speakers: News Minute November
 - 2025-11-08 — Mysterious Team | Time For Chaos S3 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Mysterious Team, Cthulhu Masks, Nyarlathotep After, Gray Dragon Island
-- 2025-11-07 — This Is the Gloaming | The Glass Cannon Podcast Shadowdark E2 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2025-11-07 — This Is the Gloaming | The Glass Cannon Podcast: The Gloaming E2 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2025-11-06 — From Dusk to Dawnblade | Glass Cannon Live! Ascension Part 11 | Nashville 2025 | Pathfinder 2E
 - 2025-11-03 — GCN News Minute November 3, 2025
 - 2025-11-01 — Prometheus Bound | Time For Chaos S3 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Prometheus Bound
-- 2025-10-31 — Probably the Moon | The Glass Cannon Podcast Shadowdark E1 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2025-10-31 — Probably the Moon | The Glass Cannon Podcast: The Gloaming E1 | Shadowdark RPG — speakers: Glass Cannon, Shadowdark Rpg
 - 2025-10-29 — Shadowdark Campaign Official Trailer | The Glass Cannon Podcast
 - 2025-10-27 — GCN News Minute October 27, 2025 — speakers: News Minute October
 - 2025-10-25 — Viper's Nest | Time For Chaos S3 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep Within
-- 2025-10-24 — Fighter Priest Thief Wizard | The Glass Cannon Podcast Shadowdark E0 | Shadowdark RPG — speakers: Thief Wizard, Shadowdark Rpg
+- 2025-10-24 — Fighter Priest Thief Wizard | The Glass Cannon Podcast: The Gloaming E0 | Shadowdark RPG — speakers: Thief Wizard, Shadowdark Rpg
 - 2025-10-20 — GCN News Minute October 20, 2025 — speakers: News Minute October
 - 2025-10-18 — The World Below the Brine | Time For Chaos S3 E13 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Gray Dragon Island
 - 2025-10-17 — The GCN Gauntlet – Ghost Mortem — speakers: Gim Faldhur
@@ -22715,13 +22770,3 @@
 - 2017-03-07 — Service with a Smilodon | The Glass Cannon Podcast Giantslayer E93 | Pathfinder 1E
 - 2017-02-28 — Dead Ender's Game | The Glass Cannon Podcast Giantslayer E92 | Pathfinder 1E — speakers: Dead Ender
 - 2017-02-21 — The Horn Identity | The Glass Cannon Podcast Giantslayer E91 | Pathfinder 1E
-- 2017-02-14 — Big Willy Style | The Glass Cannon Podcast Giantslayer E90 | Pathfinder 1E — speakers: Marsh Giant Wights
-- 2017-02-07 — Bottle of Red, Bottle of Wight | The Glass Cannon Podcast Giantslayer E89 | Pathfinder 1E
-- 2017-01-31 — Altared States | The Glass Cannon Podcast Giantslayer E88 | Pathfinder 1E
-- 2017-01-24 — How Do You Like This Chapel? | The Glass Cannon Podcast Giantslayer E87 | Pathfinder 1E
-- 2017-01-17 — Interview with the Campfire | The Glass Cannon Podcast Giantslayer E86 | Pathfinder 1E
-- 2017-01-10 — Let Them Eat Drake | The Glass Cannon Podcast Giantslayer E85 | Pathfinder 1E
-- 2017-01-03 — Heads 'Em Off at the Pass | The Glass Cannon Podcast Giantslayer E84 | Pathfinder 1E
-- 2016-12-27 — Look Who's Stalking | The Glass Cannon Podcast Giantslayer E83 | Pathfinder 1E — speakers: Look Who
-- 2016-12-20 — Ogre My Dead Body | The Glass Cannon Podcast Giantslayer E82 | Pathfinder 1E
-- 2016-12-13 — The Hills Have Eye | The Glass Cannon Podcast Giantslayer E81 | Pathfinder 1E
