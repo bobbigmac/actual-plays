@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-10-19T20:37:21+00:00`
-- checked_at: `2026-10-19T20:37:21+00:00`
-- etag: `"djEuMi4wOjE3OTI0MjIwMzk0NDM="`
+- fetched_at: `2026-10-26T20:34:31+00:00`
+- checked_at: `2026-10-26T20:34:31+00:00`
+- etag: `"djEuMi4wOjE3OTMwMzA0Mzk1MDU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-10-19T20:37:21+00:00",
+  "fetched_at": "2026-10-26T20:34:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "a31ca6fbb311de62a3ae8f6a36748d17b4409cd5",
+      "title": "Owari no Hajimari: Episode 3",
+      "published_at": "2026-10-26T16:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/owari-no-hajimari-episode-3",
+      "description": "Ok, is it just me or is this freaky, old tavern a series of interconnected rooms spanning a variety of themes and locations that seem to be repeating themselves but with subtle, and, well, not so subtle, differences??? We are never getting out of here, are we...? It's not the point of our mission per se, but somehow we have become the caretakers of a young rabbit child who somehow has a lifetime of experience. This is not the most important or dangerous thing to worry about, but again, it is all we can think about as we enter the somewhat haunted tavern. Are we even allowed to bring a minor into the haunted tavern? A new adventure begins with Mike Bachmann , Jennifer Cheek , Michael DiMauro , Tim Lanning , and our Dungeon Master Nika Howard . Edited by Vincent. Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1793024898708-a0a24999-9d78-4bc5-95ae-4a064ff4df06.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6adf6445dd5d6293db83c9bf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110788147",
+      "itunes_duration": "1:16:55",
+      "speakers": [],
+      "topics": [
+        "owari",
+        "hajimari"
+      ]
+    },
     {
       "key": "deeeb0d15e39096aeceee81533413ab03d75a0af",
       "title": "Mailbag!",
@@ -12732,6 +12749,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-26 — Owari no Hajimari: Episode 3
 - 2026-10-19 — Mailbag!
 - 2026-10-12 — Owari no Hajimari: Episode 2
 - 2026-10-05 — Owari no Hajimari: Episode 1
