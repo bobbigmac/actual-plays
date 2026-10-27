@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-10-26T04:56:08+00:00`
-- checked_at: `2026-10-26T04:56:08+00:00`
-- last_modified: `Mon, 26 Oct 2026 04:00:00 GMT`
+- fetched_at: `2026-10-27T09:07:14+00:00`
+- checked_at: `2026-10-27T09:07:14+00:00`
+- last_modified: `Tue, 27 Oct 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-26T04:56:08+00:00",
+  "fetched_at": "2026-10-27T09:07:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,48 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "63942601ecb807ea57fbfbf7879f7c0a72c6f7bc",
+      "title": "Eternal Lies | Call of Cthulhu Live! | Madison 2026 | Modern Call of Cthulhu",
+      "published_at": "2026-10-27T04:00:00+00:00",
+      "link": null,
+      "description": "A group of strangers brought together by a clandestine organization known as Quiet Horizon must retrieve the contents of a safe deposit box before a purported bank heist takes place. Cast: Jared Logan, Skid Maher, Erik Mona, Joe O'Brien, Jim Zub, and Troy Lavallee Watch the video here: https://youtu.be/4QxtSBu3NVo Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dcde3008-d15b-11f1-9343-e7b4470fe7b3/image/5146a26337abcdd995a6255929a8730a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2458046644.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9540",
+      "speakers": [
+        "Quiet Horizon"
+      ],
+      "topics": [
+        "eternal",
+        "lies",
+        "cthulhu",
+        "madison",
+        "modern"
+      ]
+    },
+    {
+      "key": "46fe51cfd132e146e9ebdc85b87add7e97eacd8f",
+      "title": "GCN Community Update October 26, 2026",
+      "published_at": "2026-10-26T16:00:00+00:00",
+      "link": null,
+      "description": "We've got a very special episode of the GCN Community Update this week as Joe O'Brien sat down with me to talk all about The Glass Cannon Podcast: Shadows of the Broken! Join our Extra Life team: ⁠https://dd.extra-life.org/team/74937⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/980493b6-d145-11f1-a6be-f3884902e7b6/image/bb60a74fb8fd43f725dcfb78e0f2b43d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP8309192403.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1382",
+      "speakers": [
+        "Joe O'Brien"
+      ],
+      "topics": [
+        "community",
+        "update",
+        "october"
+      ]
+    },
     {
       "key": "7dadb67e26c84eeaa4b013b92145eda1e8091637",
       "title": "When Is Yelka's Birthday? | Blood of the Wild S1 E45 | Pathfinder 2E Quest for the Frozen Flame",
@@ -21715,53 +21757,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "caff15ab0662a4a2208d9e6e28bd69eed6404b54",
-      "title": "Dead Ender's Game | The Glass Cannon Podcast Giantslayer E92 | Pathfinder 1E",
-      "published_at": "2017-02-28T05:00:00+00:00",
-      "link": "https://blubrry.com/the_glass_cannon/21386011/giantslayer-episode-92-dead-enders-game/",
-      "description": "As Barron comes face to face with potential connections to his unknown past, the party encounters a much more powerful version of an old foe times three! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7743611896.mp3?updated=1707937539",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4768",
-      "speakers": [
-        "Dead Ender"
-      ],
-      "topics": [
-        "dead",
-        "ender",
-        "game",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "ffd4e3401cd141f75391a2fd29148396f5a216aa",
-      "title": "The Horn Identity | The Glass Cannon Podcast Giantslayer E91 | Pathfinder 1E",
-      "published_at": "2017-02-21T05:00:00+00:00",
-      "link": "https://blubrry.com/the_glass_cannon/21197428/giantslayer-episode-91-the-horn-identity/",
-      "description": "While conducting a thorough examination of the spire drake's treasure hoard, the party also gleans some intriguing information with regards to the cave's original occupant. Then, after a series of dead ends, they come upon a curious network of tunnels seemingly abandoned for centuries. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD1280267118.mp3?updated=1707937474",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3750",
-      "speakers": [],
-      "topics": [
-        "horn",
-        "identity",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21770,6 +21765,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-27 — Eternal Lies | Call of Cthulhu Live! | Madison 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
+- 2026-10-26 — GCN Community Update October 26, 2026 — speakers: Joe O'Brien
 - 2026-10-26 — When Is Yelka's Birthday? | Blood of the Wild S1 E45 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-10-24 — Call of Cthugha | Time For Chaos S4 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
 - 2026-10-23 — The Mortal World | The Glass Cannon Podcast: Shadows of the Broken E2 | Shadowdark RPG — speakers: Shadowdark Rpg
@@ -22768,5 +22765,3 @@
 - 2017-03-21 — Tent of a Woman | The Glass Cannon Podcast Giantslayer E95 | Pathfinder 1E
 - 2017-03-14 — Sneaky Blinders | The Glass Cannon Podcast Giantslayer E94 | Pathfinder 1E — speakers: Sneaky Blinders
 - 2017-03-07 — Service with a Smilodon | The Glass Cannon Podcast Giantslayer E93 | Pathfinder 1E
-- 2017-02-28 — Dead Ender's Game | The Glass Cannon Podcast Giantslayer E92 | Pathfinder 1E — speakers: Dead Ender
-- 2017-02-21 — The Horn Identity | The Glass Cannon Podcast Giantslayer E91 | Pathfinder 1E

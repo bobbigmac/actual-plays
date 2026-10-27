@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-10-26T13:14:22+00:00`
-- checked_at: `2026-10-26T13:14:22+00:00`
-- last_modified: `Mon, 26 Oct 2026 07:08:49 GMT`
+- fetched_at: `2026-10-27T09:07:14+00:00`
+- checked_at: `2026-10-27T09:07:14+00:00`
+- last_modified: `Tue, 27 Oct 2026 08:00:11 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/8e75fc9d6dbbc2142cca11c14acfdea1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-26T13:14:22+00:00",
+  "fetched_at": "2026-10-27T09:07:14+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "6d75fca6b3ac0c652fd4a244fa8066f2c4642e88",
+      "title": "670. The House Edge, Episode 1",
+      "published_at": "2026-10-27T08:00:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY The Vegas Four track their worst enemy, Nobody, to a mysterious blue door and blindly follow him inside in search of loot and revenge. SHOW NOTES The House Edge One Shot News & Updates One Shot Patreon One Shot TWITCH Follow the cast here! Sean Ireland - The Referee Dillin Apelyan - Acey Deucey Drakoniques - Razz Candace McAfee - Suicide King ----------------------------------------------------- ICE Watch Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Frantic by Tide Electric Program Change by Tide Electric Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Dillin Apelyan Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN6300433076.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4022",
+      "speakers": [
+        "James D'Amato"
+      ],
+      "topics": [
+        "house",
+        "edge"
+      ]
+    },
     {
       "key": "7e91a8a0f9355020cc31443af0a4f65940be8e8f",
       "title": "669. Fetch My Blade",
@@ -13660,6 +13679,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-27 — 670. The House Edge, Episode 1 — speakers: James D'Amato
 - 2026-10-19 — 669. Fetch My Blade — speakers: James D'Amato
 - 2026-10-01 — 668. ⁠The CryptID Show⁠ — speakers: James D'Amato
 - 2026-09-21 — 667. A Fool’s Errand⁠, Episode 3 — speakers: James D'Amato
