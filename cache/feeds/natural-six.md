@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-10-20T19:20:32+00:00`
-- checked_at: `2026-10-20T19:20:32+00:00`
-- etag: `"djEuMi4wOjE3OTI1MjI4Mzk0OTQ="`
+- fetched_at: `2026-10-27T22:21:19+00:00`
+- checked_at: `2026-10-27T22:21:19+00:00`
+- etag: `"djEuMi4wOjE3OTMxMzEyMzkzODc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-10-20T19:20:32+00:00",
+  "fetched_at": "2026-10-27T22:21:19+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d19c8729bf7a810dae9865bb15ac2569fa841674",
+      "title": "Ep. 66 A Fiery Endorsement",
+      "published_at": "2026-10-27T20:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-66-a-fiery-endorsement",
+      "description": "The buzzing of bees and a new day creeps into view. What better way is there to begin a new journey, with a rested body and hope on the horizon. Each step taken in this new direction is a step further away from what came before. Will you greet the unknown as a friend should, or remain way of blades in the dark. The night is pitch black and every light casts a shadow. There are many who would travel the same roads as us. Friend or foe, all must traverse the road in front of them. Keep your eyes on the road, lest you fall afoul the unexpected. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6ae0d06f5a3cc3c4c4df6371/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "184309551",
+      "itunes_duration": "3:11:59",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "fiery",
+        "endorsement"
+      ]
+    },
     {
       "key": "19789f5679a218823b00da344b4463e348f9701a",
       "title": "Action Surge Episode 65",
@@ -3420,6 +3444,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-27 — Ep. 66 A Fiery Endorsement — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-10-20 — Action Surge Episode 65 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-10-13 — Ep. 65 Hot and Bothered — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-10-06 — Action Surge Episode 64 — speakers: https discord, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
