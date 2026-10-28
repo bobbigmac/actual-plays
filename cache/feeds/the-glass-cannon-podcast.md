@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-10-27T09:07:14+00:00`
-- checked_at: `2026-10-27T09:07:14+00:00`
-- last_modified: `Tue, 27 Oct 2026 04:00:00 GMT`
+- fetched_at: `2026-10-28T05:51:56+00:00`
+- checked_at: `2026-10-28T05:51:56+00:00`
+- last_modified: `Wed, 28 Oct 2026 04:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-27T09:07:14+00:00",
+  "fetched_at": "2026-10-28T05:51:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "361c1594088e81a29bc0fd58cab64dcf8bb9a426",
+      "title": "Kings of Men | The Secret Fire Prologue | The One Ring RPG",
+      "published_at": "2026-10-28T04:00:00+00:00",
+      "link": null,
+      "description": "A company of heroes is gathered from the free peoples of Middle Earth in this session zero. Cast: Paula Deming, Chris Grace, Jason Charles Miller, Skid Maher, and Jared Logan Logo and Original Artwork by Josh Fisher Title Sequence by CJ Paschall Access every available episode of The Secret Fire along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/201926c2-d218-11f1-8603-af1fb071c1c0/image/40c1640c5913369cd5dca6d97dd9ffed.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6239974814.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9168",
+      "speakers": [],
+      "topics": [
+        "king",
+        "secret",
+        "fire",
+        "prologue",
+        "ring"
+      ]
+    },
     {
       "key": "63942601ecb807ea57fbfbf7879f7c0a72c6f7bc",
       "title": "Eternal Lies | Call of Cthulhu Live! | Madison 2026 | Modern Call of Cthulhu",
@@ -21735,28 +21755,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "dccf53547493b958927ff18eccdde2af37ccc3e2",
-      "title": "Service with a Smilodon | The Glass Cannon Podcast Giantslayer E93 | Pathfinder 1E",
-      "published_at": "2017-03-07T05:01:00+00:00",
-      "link": "https://blubrry.com/the_glass_cannon/21574640/giantslayer-episode-93-service-with-a-smilodon/",
-      "description": "With a massive cathedral and countless giant encampments looming in the distance, the party must tangle with a pair of savage prehistoric beasts and their oversized handlers. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD6009548213.mp3?updated=1707938593",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4938",
-      "speakers": [],
-      "topics": [
-        "service",
-        "smilodon",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21765,6 +21763,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — Kings of Men | The Secret Fire Prologue | The One Ring RPG
 - 2026-10-27 — Eternal Lies | Call of Cthulhu Live! | Madison 2026 | Modern Call of Cthulhu — speakers: Quiet Horizon
 - 2026-10-26 — GCN Community Update October 26, 2026 — speakers: Joe O'Brien
 - 2026-10-26 — When Is Yelka's Birthday? | Blood of the Wild S1 E45 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
@@ -22764,4 +22763,3 @@
 - 2017-03-28 — Tent of a Woman 2: Payback's a Witch | The Glass Cannon Podcast Giantslayer E96 | Pathfinder 1E
 - 2017-03-21 — Tent of a Woman | The Glass Cannon Podcast Giantslayer E95 | Pathfinder 1E
 - 2017-03-14 — Sneaky Blinders | The Glass Cannon Podcast Giantslayer E94 | Pathfinder 1E — speakers: Sneaky Blinders
-- 2017-03-07 — Service with a Smilodon | The Glass Cannon Podcast Giantslayer E93 | Pathfinder 1E
