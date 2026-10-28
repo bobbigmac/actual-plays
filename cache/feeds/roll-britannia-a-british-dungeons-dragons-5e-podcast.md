@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-10-21T11:59:12+00:00`
-- checked_at: `2026-10-21T11:59:12+00:00`
-- etag: `"djEuMi4wOjE3OTI1NjYwMzk1NDk="`
+- fetched_at: `2026-10-28T13:06:56+00:00`
+- checked_at: `2026-10-28T13:06:56+00:00`
+- etag: `"djEuMi4wOjE3OTMxNzQ0Mzk0MTQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-10-21T11:59:12+00:00",
+  "fetched_at": "2026-10-28T13:06:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "dfc019426fb1d50a180eea9dded84dd4d134f803",
+      "title": "Ep. 353: Ashes of Arcathia - Bovril Through a Carrot | Halloween Special 2026 | #DND",
+      "published_at": "2026-10-28T08:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this Halloween special of Dungeons and Dragons, we Journey to the world of Arcathia. The lanterns of Wellwatch burn across Halcyon, doors close a little earlier than usual, and nobody seems particularly keen to explain why. Four off-duty enforcers have simpler concerns: a retirement, twelve taverns, and reaching the final bell with at least some memory of how the evening began. Somewhere along the way, however, the city starts to feel as though it is watching them back. In this DnD Adventure, the last tavern is still open, and somewhere beyond the warmth of the crowded streets, something is waiting behind a door that has remained closed for a very long time. Perhaps Wellwatch is a celebration. Perhaps it is a warning. Why does Halcyon light the lanterns every year? What has begun to move beneath the city? And what happens when the final bell rings? There's only one way to find out, grab your Dnd Dice, join Dungeon Master Paul, James (Martjn Biggs), Sophie (Rickolas Devil) and Special Guests Aaron Coates (Nicholas Devili) and Jessica Corley (Frantz) LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1792962127226-508b047f-8442-45c6-96fe-57706cb86134.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6addecce296f30f8e38cad06/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57836773",
+      "itunes_duration": "1:00:14",
+      "speakers": [],
+      "topics": [
+        "arcathia",
+        "bovril",
+        "carrot",
+        "halloween",
+        "special"
+      ]
+    },
     {
       "key": "32bab55335a69e28e9c04ad26ddb6e1bc7dd0066",
       "title": "Ep. 352: Jammed - Live, Laugh, Shark | #DND",
@@ -8220,6 +8240,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — Ep. 353: Ashes of Arcathia - Bovril Through a Carrot | Halloween Special 2026 | #DND
 - 2026-10-21 — Ep. 352: Jammed - Live, Laugh, Shark | #DND
 - 2026-10-14 — Ep. 351: Jammed - I'm a Shark and I'm Ready to Make Friends | #DND
 - 2026-10-07 — Ep. 350: Jammed - It's A Wonderful World Out There | #DND — speakers: Wonderful World Out There
