@@ -250,8 +250,8 @@
       "etag": "\"djEuMi4wOjE3OTI1MTIwMzk1NTc=\""
     },
     "worlds-beyond-number": {
-      "last_checked_at": "2026-10-29T10:07:39+00:00",
-      "last_checked_unix": 1793268462,
+      "last_checked_at": "2026-10-29T18:31:31+00:00",
+      "last_checked_unix": 1793298694,
       "etag": "\"21ec8d0c4766715dd57446508ee40eab\"",
       "last_modified": "Tue, 27 Oct 2026 09:00:15 GMT"
     },
@@ -260,8 +260,8 @@
       "last_checked_unix": 1790746803
     },
     "dodoborne-a-daggerheart-actual-play-podcast": {
-      "last_checked_at": "2026-10-29T10:07:39+00:00",
-      "last_checked_unix": 1793268462,
+      "last_checked_at": "2026-10-29T18:31:31+00:00",
+      "last_checked_unix": 1793298694,
       "etag": "W/\"91e44761f594e4711c6e1fe9af69ee45\"",
       "last_modified": "Wed, 28 Oct 2026 06:41:57 GMT"
     },
@@ -302,8 +302,8 @@
       "consecutive_failures": 0
     },
     "force-majeure-a-star-wars-actual-play-podcast": {
-      "last_checked_at": "2026-10-29T10:07:39+00:00",
-      "last_checked_unix": 1793268462,
+      "last_checked_at": "2026-10-29T18:31:31+00:00",
+      "last_checked_unix": 1793298695,
       "etag": "\"52c171ea969cf3e8279b3d34f65faf04\"",
       "last_modified": "Sun, 18 Oct 2026 23:35:01 GMT"
     },
@@ -375,8 +375,8 @@
       "last_modified": "Wed, 17 Jun 2026 22:53:53 GMT"
     },
     "high-rollers-dnd": {
-      "last_checked_at": "2026-10-29T10:07:39+00:00",
-      "last_checked_unix": 1793268462,
+      "last_checked_at": "2026-10-29T18:31:31+00:00",
+      "last_checked_unix": 1793298694,
       "last_modified": "Thu, 22 Oct 2026 07:08:44 GMT"
     },
     "how-we-roll-podcast": {
@@ -463,8 +463,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "archives-fandible-actual-play-podcast": {
-      "last_checked_at": "2026-10-29T10:07:39+00:00",
-      "last_checked_unix": 1793268462,
+      "last_checked_at": "2026-10-29T18:31:31+00:00",
+      "last_checked_unix": 1793298694,
       "etag": "\"46675416d2b03f2477a3fe9584a47dae\"",
       "consecutive_failures": 0
     },
@@ -576,10 +576,10 @@
       "last_modified": "Fri, 29 May 2026 14:51:13 GMT"
     },
     "the-adventure-zone": {
-      "last_checked_at": "2026-10-29T10:07:39+00:00",
-      "last_checked_unix": 1793268462,
-      "etag": "\"c9a419fcf04576ca5ddef612b48ef6e0\"",
-      "last_modified": "Thu, 15 Oct 2026 11:00:24 GMT"
+      "last_checked_at": "2026-10-29T18:31:31+00:00",
+      "last_checked_unix": 1793298695,
+      "etag": "\"cbdaddb3e0ba6d8048f5e7822d3c0766\"",
+      "last_modified": "Thu, 29 Oct 2026 11:00:20 GMT"
     },
     "adventure-is-nigh": {
       "last_checked_at": "2026-06-17T22:53:47+00:00",
@@ -623,14 +623,14 @@
       "etag": "W/\"49394-93rvOhz/mk4TnDZc3ZR9MzxFgjI\""
     },
     "the-glass-cannon-podcast": {
-      "last_checked_at": "2026-10-29T10:07:39+00:00",
-      "last_checked_unix": 1793268462,
+      "last_checked_at": "2026-10-29T18:31:31+00:00",
+      "last_checked_unix": 1793298695,
       "last_modified": "Wed, 28 Oct 2026 04:00:00 GMT"
     },
     "the-heresies-of-radulf-burntwine": {
-      "last_checked_at": "2026-10-29T10:07:39+00:00",
-      "last_checked_unix": 1793268462,
-      "last_modified": "Wed, 14 Oct 2026 03:24:32 GMT"
+      "last_checked_at": "2026-10-29T18:31:31+00:00",
+      "last_checked_unix": 1793298695,
+      "last_modified": "Thu, 29 Oct 2026 18:21:43 GMT"
     },
     "the-iron-realm-mega-dungeon-crawl-dark-fantasy-solo-rpg-gaming-podcast": {
       "last_checked_at": "2026-08-06T11:34:56+00:00",
@@ -722,13 +722,13 @@
       "disabled_reason": "3 consecutive failures"
     },
     "we-fix-space-junk": {
-      "last_checked_at": "2026-10-29T10:07:39+00:00",
-      "last_checked_unix": 1793268462,
-      "last_modified": "Sun, 20 Sep 2026 11:06:25 GMT"
+      "last_checked_at": "2026-10-29T18:31:31+00:00",
+      "last_checked_unix": 1793298695,
+      "last_modified": "Thu, 29 Oct 2026 17:39:44 GMT"
     },
     "who-lives-who-dice": {
-      "last_checked_at": "2026-10-29T10:07:39+00:00",
-      "last_checked_unix": 1793268462,
+      "last_checked_at": "2026-10-29T18:31:31+00:00",
+      "last_checked_unix": 1793298698,
       "etag": "\"38cf2556dc0e6bb49281209eb5974297\"",
       "last_modified": "Sun, 03 May 2026 08:52:08 GMT",
       "consecutive_failures": 0
@@ -740,5 +740,5 @@
       "etag": "W/\"b031b-LD7/U/lZqze7YJg7MAgKzhv4Rjg\""
     }
   },
-  "updated_at": "2026-10-29T10:07:39+00:00"
+  "updated_at": "2026-10-29T18:31:31+00:00"
 }

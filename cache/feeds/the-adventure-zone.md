@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-10-15T11:39:06+00:00`
-- checked_at: `2026-10-15T11:39:06+00:00`
-- etag: `"c9a419fcf04576ca5ddef612b48ef6e0"`
-- last_modified: `Thu, 15 Oct 2026 11:00:24 GMT`
+- fetched_at: `2026-10-29T18:31:31+00:00`
+- checked_at: `2026-10-29T18:31:31+00:00`
+- etag: `"cbdaddb3e0ba6d8048f5e7822d3c0766"`
+- last_modified: `Thu, 29 Oct 2026 11:00:20 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/9ba52d4c-4e8c-4203-a3de-be89969671f2/19f0432c-ab24-49c1-946c-6c5e76f33ed8/3000x3000/cropped_1791393495062.jpg?aid=rss_feed",
-  "fetched_at": "2026-10-15T11:39:06+00:00",
+  "fetched_at": "2026-10-29T18:31:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "87c7b1ff6c9597636883b0764281f324bc20154a",
+      "title": "The Adventure Zone Providence: Episode 3",
+      "published_at": "2026-10-29T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-providence-episode-3-odga71VG",
+      "description": "The search for the dark ritual-doers continues as Tintatbula, Spira, and Minutae question some interchangeable craftsmen and finally speak with the sheriff. But a shadow lingers and and danger lurks -- in a surprisingly mundane form. We're playing Super Normal from Ursidice: https://ursidice.com/supernormal/ Original Music by Griffin McElroy Additional Music in this Episode: \"Uneasy Atmosphere for Found Footage\", \"Unsettling Horror Atmosphere for Psychological Thriller\", and \"Creeping Scary Atmosphere for Night Scenes\" by Alex Morgan: https://freemusicarchive.org/music/alex-morgan/; and \"Post-Apocalyptic Hybrid Trailer – Cinematic Horror\" by Tommaso Motteran: https://tommasomotterancinema.carrd.co/. Center for Reproductive Rights: https://reproductiverights.org/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
+      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/6294f4b4-0052-445a-88a4-7a7f6b94bc16/3000x3000/cropped_1792775049731.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/a2875530-245d-4b90-a06a-d7565da2d514/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=a2875530-245d-4b90-a06a-d7565da2d514&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66112603",
+      "itunes_duration": "00:53:11",
+      "speakers": [
+        "Tintatbula Spira"
+      ],
+      "topics": [
+        "adventure",
+        "zone",
+        "providence"
+      ]
+    },
     {
       "key": "253e838f390efe6f601dbc595c412383b9b62340",
       "title": "The Adventure Zone Providence: Episode 2",
@@ -8201,6 +8221,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — The Adventure Zone Providence: Episode 3 — speakers: Tintatbula Spira
 - 2026-10-15 — The Adventure Zone Providence: Episode 2
 - 2026-10-01 — The Adventure Zone Providence: Episode 1
 - 2026-09-28 — The Adventure Zone: Providence Trailer — speakers: New England

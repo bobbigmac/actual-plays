@@ -2,9 +2,9 @@
 
 - slug: `the-heresies-of-radulf-burntwine`
 - source: `https://feeds.megaphone.fm/thorb`
-- fetched_at: `2026-10-25T23:19:47+00:00`
-- checked_at: `2026-10-25T23:19:47+00:00`
-- last_modified: `Wed, 14 Oct 2026 03:24:32 GMT`
+- fetched_at: `2026-10-29T18:31:31+00:00`
+- checked_at: `2026-10-29T18:31:31+00:00`
+- last_modified: `Thu, 29 Oct 2026 18:21:43 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/thorb",
   "description": "A Horror Fantasy Medical Mystery. Contained herein are The Heresies of Radulf Burntwine. Follow the Titular monk-turned-medical-investigator as he uncovers the blasphemous truth of a plague ridden world: ours is not a loving God and we are not its favored children.",
   "image_url": "https://megaphone.imgix.net/podcasts/589ac4c6-d4a4-11ed-8d4d-5bd265fb21e3/image/Thorb_Logo_w_Realm.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-25T23:19:47+00:00",
+  "fetched_at": "2026-10-29T18:31:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,27 @@
     "fiction/audiobook"
   ],
   "episodes": [
+    {
+      "key": "130daa7ba1ab2123c79118766cb9972339c206f5",
+      "title": "THORB022 The Will of the Wisp",
+      "published_at": "2026-10-29T18:21:00+00:00",
+      "link": null,
+      "description": "The Heresies of Radulf Burntwine: A Horror, Dark Fantasy, Medical Mystery Audio Drama Umberto Eco Meets H.P. Lovecraft in a world of Occult Academia, Laboratory Judaica. Heavily inspired by Jewish mythology, the world of Olam uses Hebrew, Arabic, Slavic and other real world languages and cultures to create a rich tapestry of a grim, fantastical, planet that doesn't sacrifice scientific accuracy or historicity. THORB Case 022 The Will of the Wisp Passing into the Vyselkan states, Radulf and Iain discover a strange infection whose victims are the root of old world folk lore. The Heresies of Radulf Burntwine sits at the intersection of dark fantasy, body horror, and forensic investigation. If you've ever wanted a podcast that treats disease and mythology with the same care as a true crime documentary, this is the show for you. Radulf is not a hero. He's a disgraced curmudgeonly cleric with a terrible bedside manner and more pride than sense. This Series contains: descriptions of cannibalism, bodily decomposition, eye trauma, tissue decay, grief, and the death of multiple characters including a child, suicide, sexual assault, sex trafficking, domestic violence, insanity, degenerative disease, mutilation, dismemberment, disability and many others, listener discretion is advised. Socials: https://www.facebook.com/THORBcast/ https://www.reddit.com/r/THORB/ https://discord.gg/sQqCQZrZpe https://bsky.app/profile/thorb.info Support the Institute and find free transcripts at: Patreon.com/THORBcast Tags: horror fiction podcast | dark fantasy podcast | weird fiction audio drama | horror podcast | medical horror | gothic horror podcast | body horror | zombie fiction | viral horror | fantasy podcast | indie horror podcast | audio drama horror | Radulf Burntwine | Heresies of Radulf Burntwine | horror worldbuilding | ghoul horror | undead fiction | dark fantasy audio drama | horror lore podcast | gas lamp | victorian inspired | grimdark | low fantasy |strange botany | alchemy | Herbalism Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2361545420.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2218",
+      "speakers": [
+        "Radulf Burntwine",
+        "Dark Fantasy",
+        "Medical Mystery Audio Drama",
+        "Umberto Eco Me"
+      ],
+      "topics": [
+        "wisp"
+      ]
+    },
     {
       "key": "25a56375e03615beba218ae9c9ddc5da96a1e23b",
       "title": "THORB Aleph Case 004 The Exploding Man",
@@ -922,6 +943,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — THORB022 The Will of the Wisp — speakers: Radulf Burntwine, Dark Fantasy, Medical Mystery Audio Drama, Umberto Eco Me
 - 2026-10-13 — THORB Aleph Case 004 The Exploding Man — speakers: Thorb Aleph Case
 - 2026-10-01 — THORB Aleph Case 003 Infinite Infancy — speakers: Thorb Aleph Case
 - 2026-09-17 — Feed Drop | Ghost Wax: Episode 1 Fresh Cuttings — speakers: Feed Drop, Ghost Wax
