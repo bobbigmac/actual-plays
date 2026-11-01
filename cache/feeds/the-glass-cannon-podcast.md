@@ -2,10 +2,10 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-10-31T05:53:49+00:00`
-- checked_at: `2026-10-31T05:53:49+00:00`
-- etag: `"f6f4338c8865c56c09bc2a7f12caa10d"`
-- last_modified: `Sat, 31 Oct 2026 04:00:24 GMT`
+- fetched_at: `2026-11-01T06:18:20+00:00`
+- checked_at: `2026-11-01T06:18:20+00:00`
+- etag: `"568290e88bf7c5ae8defe202d5c69c62"`
+- last_modified: `Sat, 31 Oct 2026 15:30:15 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://the-glass-cannon-podcast.simplecast.com",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/8d2971a0-2482-41b6-ad90-7d28eb7d9574/3000x3000/c20249e5141db5a916aa90e43f9ddf66.jpg?aid=rss_feed",
-  "fetched_at": "2026-10-31T05:53:49+00:00",
+  "fetched_at": "2026-11-01T06:18:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -13162,6 +13162,8601 @@
         "dollar",
         "pickle"
       ]
+    },
+    {
+      "key": "c9af1f4daaf914282c9944204c8f9210532b12d7",
+      "title": "Cannon Fodder 5/24/23",
+      "published_at": "2023-05-24T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-5-24-23-IHa_s5LM",
+      "description": "It's Show Week, and the guys are prepping for trips to St. Paul and Asheville! They'll discuss a new community event happening in St. Paul, the latest on Gen Con tickets, and the strides made this week in preparation for Gatewalkers. In We Are Stupid, Troy demands a solution to the Pythagorean Problem, and Joe gets nerdy on the Wounded condition. For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/48da07ee-d137-43c0-a605-34bf754d9e30/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=48da07ee-d137-43c0-a605-34bf754d9e30&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41929429",
+      "itunes_duration": "00:43:40",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "37e08c903ef4ac847874c79a52177769c0c2f1dc",
+      "title": "Strange Aeons Episode 76 – Rumble with the Umbral",
+      "published_at": "2023-05-23T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-76-rumble-with-the-umbral-eAzNYzdT",
+      "description": "The battle with the umbral dragon reaches its climax! Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/KCj6WpjyifE For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/79e28cdb-6f25-49be-9dca-cedb6cc55acc/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=79e28cdb-6f25-49be-9dca-cedb6cc55acc&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90214182",
+      "itunes_duration": "01:33:58",
+      "speakers": [
+        "Troy Lavallee",
+        "Joe O'Brien",
+        "Skid Maher"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "umbral"
+      ]
+    },
+    {
+      "key": "94339a41ba1cb1b12cfd43f255532ff2c4e7baaa",
+      "title": "Cannon Fodder 5/17/23",
+      "published_at": "2023-05-17T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-5-17-23-8QMb9ANX",
+      "description": "Troy and Joe drop exciting news about upcoming Gatewalkers CONTENT as well as some GCN shows that will officially be returning for a second season. In We Are Stupid, the guys discuss Counteracting, conversion dynamics as it relates to magic items, and Joe's latest CHEAT OF THE WEEK! For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b650bb27-0b1e-49bd-9a46-ca5e47621476/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b650bb27-0b1e-49bd-9a46-ca5e47621476&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34860355",
+      "itunes_duration": "00:36:18",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "b90d1f49209a96f4f52c5ee2625e91de93349985",
+      "title": "Strange Aeons Episode 75 – Meat Cute",
+      "published_at": "2023-05-16T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-75-meat-cute-nLBPlKC1",
+      "description": "A janitor in disguise may derail the party's entire mission. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/uN-MaSEKybo For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/e9e6cefb-cbe6-438b-a27f-e58e123cac53/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=e9e6cefb-cbe6-438b-a27f-e58e123cac53&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70812514",
+      "itunes_duration": "01:13:45",
+      "speakers": [
+        "Troy Lavallee",
+        "Joe O'Brien"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "meat",
+        "cute"
+      ]
+    },
+    {
+      "key": "a7202df0ad100a69113b177e44b009ba62c7162e",
+      "title": "Cannon Fodder 5/10/23",
+      "published_at": "2023-05-10T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-5-10-23-ZMoZp_wA",
+      "description": "Fodder is on the road this week as Joe and Troy record from a strangely dark hotel room in LA. Topics include the confidential reason for their west coast trip, the next major update on the new studio, and their current event schedule for Gen Con 2023. In We Are Stupid, they'll discuss why Joe was wrong for the right reasons (or maybe right for the wrong reasons?). You decide! For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4e5f9f6b-cbac-4af9-a88b-18a01a709985/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4e5f9f6b-cbac-4af9-a88b-18a01a709985&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32866046",
+      "itunes_duration": "00:34:14",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "2c1c1a961efb298a16a5580b84533e9ac84e3b6e",
+      "title": "Strange Aeons Episode 74 – Ghosts in the Machine",
+      "published_at": "2023-05-09T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-74-ghosts-in-the-machine-_KXW5KgA",
+      "description": "The heroes continue their exploration of the west side of the prison by heading upstairs. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/ysQ_3h_eaqA For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5f283f7e-a958-42ea-b551-c483614cbcbc/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5f283f7e-a958-42ea-b551-c483614cbcbc&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72453910",
+      "itunes_duration": "01:15:28",
+      "speakers": [
+        "Join Troy"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "ghosts",
+        "machine"
+      ]
+    },
+    {
+      "key": "f6bb7244e5b6b69709d7590faf066c040ef88288",
+      "title": "Cannon Fodder 5/3/23",
+      "published_at": "2023-05-03T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-5-3-23-dVurkogT",
+      "description": "It's a very busy week at the Actual Play Factory! Troy and Joe discuss exciting news about Get in the Trunk, Friends of the Pod, AND Star Wars! In lieu of We Are Stupid, the guys get philosophical about gaming, life, and the pursuit of metaphysical contentment. For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/ca6ca167-5ef8-40a7-9b4b-25bb107eea4c/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=ca6ca167-5ef8-40a7-9b4b-25bb107eea4c&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57363233",
+      "itunes_duration": "00:59:45",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "4681d237cc1e0c503656e00c3b951fd0bf10e5bc",
+      "title": "Strange Aeons Episode 73 – Unwholesome Prison Blues",
+      "published_at": "2023-05-02T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-73-unwholesome-prison-blues-pKeE7RO3",
+      "description": "Links to some of the heroes' pasts prove confounding as they attempt to gain entry to the west side of the prison. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/lQ4HGZfB12Y For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/bdda1491-1962-4f68-bfd2-a7f959da64c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=bdda1491-1962-4f68-bfd2-a7f959da64c8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67653284",
+      "itunes_duration": "01:10:28",
+      "speakers": [
+        "Unwholesome Prison Blues Links"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "unwholesome",
+        "prison",
+        "blue"
+      ]
+    },
+    {
+      "key": "e985d33228e1c333f72f531417254521ad5fee9c",
+      "title": "Cannon Fodder 4/26/23",
+      "published_at": "2023-04-26T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-4-26-23-bGo0cMZ_",
+      "description": "The first live show of 2023 is in the books! Joe and Troy debrief the Boulder trip and share some exciting news about the Degenerate Dungeon and the next few weeks of Glass Cannon Labs. In We Are Stupid, it's all about Dominate. For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/456dc15a-9bd5-4ec2-98d1-cb82c8e7ea67/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=456dc15a-9bd5-4ec2-98d1-cb82c8e7ea67&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47337999",
+      "itunes_duration": "00:49:18",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "5c7c2f26159b6d837acda18cdf7b22b33cc60325",
+      "title": "Strange Aeons Episode 72 – Mile High Drub",
+      "published_at": "2023-04-25T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-72-mile-high-drub-wLkX1QSi",
+      "description": "Glass Cannon Live! made its first stop to the great state of Colorado last week for a sold out show to kick off the 2023 Tour! As the heroes begin to explore the lunar prison in earnest, they soon discover there's more going on here than it seems. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Recap 14:44 Gameplay 26:00 Watch the video here: https://youtu.be/rZfDA5cjX4Q For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/0c64faa3-13bd-482e-8ec5-d1656ff37ce7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=0c64faa3-13bd-482e-8ec5-d1656ff37ce7&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "139662958",
+      "itunes_duration": "02:25:28",
+      "speakers": [
+        "Mile High Drub Glass"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "mile",
+        "high",
+        "drub"
+      ]
+    },
+    {
+      "key": "f65a71bf09b6e6dac0bf26b4eafaa4435e51feb7",
+      "title": "Cannon Fodder 4/19/23",
+      "published_at": "2023-04-19T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-4-19-23-BgOM_YLd",
+      "description": "For the first time this year, it's SHOW WEEK! Troy and Joe get some last-minute thoughts in before hopping on a plane to Boulder, CO, for the first Glass Cannon Live! show of 2023! They discuss their plans for the Boulder trip, ideas for how to improve your home game (courtesy of the Order of the Amber Die), and the officially approved GCN Events coming to Gen Con in 2023! In We Are Stupid, they discuss the Learn a Spell action, how much info to give a player before they choose to re-roll, and how Sydney snuck one by Troy (and he'll never make that mistake again)! For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/dccca3a0-8cfe-4807-88d1-1668c0f8de9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=dccca3a0-8cfe-4807-88d1-1668c0f8de9d&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49151372",
+      "itunes_duration": "00:51:11",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "ad7c08195a8cebaf5db07667c8ed4dff801118a8",
+      "title": "Strange Aeons Episode 71 – That Time of the Moon",
+      "published_at": "2023-04-18T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-71-that-time-of-the-moon-8if8yzw_",
+      "description": "With the leng ghoul defeated, the heroes look for a way to enter the prison compound. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/hjPGhtBkhzQ For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/0916e317-fc30-42c3-a735-3d15c7bc9547/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=0916e317-fc30-42c3-a735-3d15c7bc9547&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116464168",
+      "itunes_duration": "02:01:18",
+      "speakers": [
+        "Troy Lava"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "time",
+        "moon"
+      ]
+    },
+    {
+      "key": "eb7e6e2b3bd260c43d0e24bc047f69964f7fb933",
+      "title": "Cannon Fodder 4/12/23",
+      "published_at": "2023-04-12T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-4-12-23-SGAbRv2J",
+      "description": "The wait is over! Troy and Joe reveal what is coming to Glass Cannon Labs in May! Also, Joe is going to the closest thing to a PF2E Summer Camp? In We Are Stupid, we discuss the Drain Bonded Item action, Surprise Rounds, Pepsi, Suki's DCs, and why you should never, ever, ever attempt a Grapple on your third action. In the wrap up, Joe pushes back on the idea that PF2E is a bad system for radio. For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4c1ede88-d16a-4279-bdd2-f4e4648626af/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4c1ede88-d16a-4279-bdd2-f4e4648626af&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48147924",
+      "itunes_duration": "00:50:09",
+      "speakers": [
+        "Cannon Fodder",
+        "Glass Cannon Labs"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "3bbeb822130d92c2e9c6dbd8e0a957c804e67553",
+      "title": "Strange Aeons Episode 70 – Ghost Ride the Bean Whip",
+      "published_at": "2023-04-11T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-70-ghost-ride-the-bean-whip-jQmtgjD1",
+      "description": "An occupied guardhouse outside of a lunar prison proves to be a more than capable first line of defense. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/1_3I_9jYgt8 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/1a97d455-8d7f-4821-b786-5d5e0ae8ab28/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=1a97d455-8d7f-4821-b786-5d5e0ae8ab28&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85296993",
+      "itunes_duration": "01:28:50",
+      "speakers": [
+        "Ghost Ride"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "ghost",
+        "ride",
+        "bean",
+        "whip"
+      ]
+    },
+    {
+      "key": "576f90e8403ee8a773cd6b0823b87f3d36c5c431",
+      "title": "Cannon Fodder 4/5/23",
+      "published_at": "2023-04-05T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-4-5-23-_vastTjx",
+      "description": "We've hired a new employee! Troy and Joe discuss the newest member of the Glass Cannon Network, Troy's most recent social media content plan, and some updates on the studio and the live tour. In We Are Stupid we ask: do Aid checks stack? And in the wrap up, a serious look at whether or not Strange Aeons should still be played on tour. For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/73e41adf-f723-4f4b-94af-dde06630df18/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=73e41adf-f723-4f4b-94af-dde06630df18&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31653949",
+      "itunes_duration": "00:32:58",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "71d9dbdc10b374bfb2116e7d3202be8dbd9cbce6",
+      "title": "Strange Aeons Episode 69 – Wishing Impossible",
+      "published_at": "2023-04-04T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-69-wishing-impossible-Hd4PxBLi",
+      "description": "The heroes take an unexpected trip. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/JMpcSINjkDs For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/feeb93f2-b4e3-4c1b-94a3-d50826bdaf56/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=feeb93f2-b4e3-4c1b-94a3-d50826bdaf56&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85975615",
+      "itunes_duration": "01:29:33",
+      "speakers": [
+        "Troy Lavallee",
+        "Joe O'Brien",
+        "Skid Maher",
+        "Matthew Capodicasa"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "impossible"
+      ]
+    },
+    {
+      "key": "68a4e761bc706501a59629f95258435cac168e76",
+      "title": "Cannon Fodder 3/29/23",
+      "published_at": "2023-03-29T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-3-29-23-WsMPlhnM",
+      "description": "This week there's even more Glass Cannon Live! tour dates hitting the board, plus some exciting updates from the first test shoot in the new studio! In a juicy We Are Stupid, Troy and Joe discuss the illusion magic problem, why Pathfinder should be like professional wrestling, and what's wrong with Joe as a person. For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2c5dd070-08a6-47a1-bff3-190e83acc5ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2c5dd070-08a6-47a1-bff3-190e83acc5ea&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59282265",
+      "itunes_duration": "01:01:45",
+      "speakers": [],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "e80a991e979873db2d49bc03565603c3ad00e219",
+      "title": "Strange Aeons Episode 68 – Leng Story Short",
+      "published_at": "2023-03-28T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-68-leng-story-short-1cxNvpV6",
+      "description": "More Denizens of Leng harass the heroes in their search for the Yellow King. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/lysEharyCOs For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/0b1cf5f3-8027-48df-92eb-cf0d7e28f6ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=0b1cf5f3-8027-48df-92eb-cf0d7e28f6ac&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79823753",
+      "itunes_duration": "01:23:08",
+      "speakers": [
+        "Leng Story Short",
+        "Troy Lavallee"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "leng",
+        "story"
+      ]
+    },
+    {
+      "key": "b7c6a1533b8e265b5f34874f70a2b69ac04d8b37",
+      "title": "Cannon Fodder 3/22/23",
+      "published_at": "2023-03-22T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-3-22-23-8CYG30iL",
+      "description": "Glass Cannon Live! is coming to Boulder, CO! Troy and Joe discuss getting backing on the road and how you can grab tickets to hang with the team! Also in breaking news, they reveal the team that's going to be producing the new Glass Cannon Podcast, and we get a little tease on the first pre-session zero session of Gatewalkers. In We Are Stupid, it's the Mirror Image Hour! For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b2ee9a80-fbd2-43ad-b454-99ebccfaf667/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b2ee9a80-fbd2-43ad-b454-99ebccfaf667&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37464503",
+      "itunes_duration": "00:39:01",
+      "speakers": [],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "bb3ce259ff41a2d3c5bd03654f02d61d9d985c00",
+      "title": "Strange Aeons Episode 67 – Boogey Knights",
+      "published_at": "2023-03-21T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-67-boogey-knights-oWZbhn4W",
+      "description": "The heroes delve deeper into the caravanserai in search of the Yellow King. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/NxP7nraUkDQ For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5ff19cbd-59d2-4ac0-ba64-5deca6e48b4b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5ff19cbd-59d2-4ac0-ba64-5deca6e48b4b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89881518",
+      "itunes_duration": "01:33:37",
+      "speakers": [
+        "Troy Lavallee"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "boogey",
+        "knights"
+      ]
+    },
+    {
+      "key": "095a4ba5660cc79361ba473224a0c4fbfd12efc3",
+      "title": "Cannon Fodder 3/15/23",
+      "published_at": "2023-03-15T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-3-15-23-81b9vo3K",
+      "description": "Live Tour and Gen Con updated kick off the show this week before Joe geeks out in anticipation of this week's new Glass Cannon Labs game. In We Are Stupid, the guys discuss incremental range penalties, Striking Runes, and the vorpal property. Also how much exposition can or should you really give from a good Survival check? It is time for NERDAGE! For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c49c623f-d0ff-4f0c-87e0-050d751f1914/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c49c623f-d0ff-4f0c-87e0-050d751f1914&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43706247",
+      "itunes_duration": "00:45:31",
+      "speakers": [
+        "Cannon Fodder",
+        "Gen Con"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "f9f3c6c36c0f361fb31b4e89607b4dbf94738646",
+      "title": "Strange Aeons Episode 66 – Hounddog Day",
+      "published_at": "2023-03-14T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-66-hounddog-day-cMYtxu2F",
+      "description": "The battle with the Denizen of Leng houndmaster and his cadre of yeth hounds reaches its conclusion! Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/dn9kwL-3JKQ For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/6bf881a7-002c-4d0e-9dff-668e37678de8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=6bf881a7-002c-4d0e-9dff-668e37678de8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72437622",
+      "itunes_duration": "01:15:27",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "hounddog"
+      ]
+    },
+    {
+      "key": "90d8a0ed1997a993eb128410642c883d02436e4c",
+      "title": "Cannon Fodder 3/8/23",
+      "published_at": "2023-03-08T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-3-8-23-2mEodN0X",
+      "description": "This week, the guys discuss the imminent selection of classes for Gatewalkers , give an update on the live tour, and preview the upcoming Alien RPG on Glass Cannon Labs. In We Are Stupid, they analyze provoking while Prone, the limits of the Guidance Cantrip, and Sydney's brazen attempts to cheat with her pet snake. For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c4f2a0f5-9555-446d-a66b-3e46b2a1fe7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c4f2a0f5-9555-446d-a66b-3e46b2a1fe7b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30891142",
+      "itunes_duration": "00:32:10",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "22708228294ac8a74f5ec99c711340f41df16027",
+      "title": "Strange Aeons Episode 65 – Citizen Leng",
+      "published_at": "2023-03-07T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-65-citizen-leng-rUiKn_5S",
+      "description": "The heroes return to the abandoned caravanserai in the Dreamlands to find it much changed. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/pssjVl13Pjc For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/1b6a4609-d177-47a1-9d69-f587be494765/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=1b6a4609-d177-47a1-9d69-f587be494765&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94556421",
+      "itunes_duration": "01:38:29",
+      "speakers": [
+        "Citizen Leng"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "citizen",
+        "leng"
+      ]
+    },
+    {
+      "key": "28b708c7361afaf3665f6cb243045147527d90da",
+      "title": "Cannon Fodder 3/1/23",
+      "published_at": "2023-03-01T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-3-1-23-lXQ0bWlc",
+      "description": "Troy's got big news! Plus, the guys give a progress update on the new studio, discuss the return of the Alien RPG to GCN airwaves, and explain why Strange Aeons Episode 64 had one of their favorite roleplaying moments in recent memory. For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/51d51492-262c-49c4-a8c2-01ce3119bdd8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=51d51492-262c-49c4-a8c2-01ce3119bdd8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41795944",
+      "itunes_duration": "00:43:32",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "361f57963b81174cb705d2f4b68fb2c96fbf0b4c",
+      "title": "Strange Aeons Episode 64 – Show Boat",
+      "published_at": "2023-02-28T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-64-show-boat-_L8Kgwq9",
+      "description": "With the final gift in hand, the heroes bid farewell to the Stardust Augurs and prepare for the final leg of their boat journey. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/79aNMRGwcls For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5fcd125a-3dff-41f4-9163-945ee066b81a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5fcd125a-3dff-41f4-9163-945ee066b81a&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71937379",
+      "itunes_duration": "01:14:55",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "boat"
+      ]
+    },
+    {
+      "key": "a2927830373e873819070e430d4cd4b75df27b5a",
+      "title": "Cannon Fodder 2/22/23",
+      "published_at": "2023-02-22T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-2-22-23-NBMHXea0",
+      "description": "The Fod Juice overfloweth in this monster episode. Troy and Joe bring the HEAT and pull back the curtain as they discuss the challenges of running PF2E as a show, the problems with literal conversions from Pathfinder 1E, and changes they need to make to get back to their roots. In We Are Stupid, Troy informs Joe that Atticus (aka...Joe) has been cheating for months and there's a spell he's never allowed to cast again. The gloves come off in this week's hour-long Fod! For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/ba42780a-d004-481f-8385-4324aec04b7e/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=ba42780a-d004-481f-8385-4324aec04b7e&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57102918",
+      "itunes_duration": "00:59:28",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "2f4e26f20912cd3d8f126a75e16920323f037e15",
+      "title": "Strange Aeons Episode 63 – Wamp! (There It Is)",
+      "published_at": "2023-02-21T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-63-wamp-there-it-is-36tSODNg",
+      "description": "A battle on two fronts rages as the heroes find themselves surrounded! Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/JmoGQD989nc For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/8bc33cce-be34-41fd-9ddd-65583dd33d4b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=8bc33cce-be34-41fd-9ddd-65583dd33d4b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110714690",
+      "itunes_duration": "01:55:19",
+      "speakers": [
+        "Troy Lavallee",
+        "Joe O'Bri"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "wamp"
+      ]
+    },
+    {
+      "key": "90a95d9b01fecebe7db8bfd21f1ee224d96fcca2",
+      "title": "Cannon Fodder 2/15/23",
+      "published_at": "2023-02-15T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-2-15-23-eMOJFFpo",
+      "description": "This week's show features updates on the search for a new office and a look inside how designing game mechanics can influence world building and vice-versa. In We Are Stupid, Troy and Joe discuss ghasts, Pathfinder statues, and a missed Reaction rule that could have a significant impact on the current encounter. Finally, some breaking news comes in hot at the very end! For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/81af4834-988d-4a31-9115-583d99e49f0b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=81af4834-988d-4a31-9115-583d99e49f0b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38308766",
+      "itunes_duration": "00:39:54",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "6975473b2faab1fbe71695d6f15a258942eb5d7d",
+      "title": "Strange Aeons Episode 62 – The Ghast and the Curious",
+      "published_at": "2023-02-14T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-62-the-ghast-and-the-curious-swEbnZdW",
+      "description": "The heroes find themselves amidst the shattered remnants of a once great city in search of the final gift. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/vZxP75mDN70 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/59db4df7-bc3e-4228-b584-cc4978df73e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=59db4df7-bc3e-4228-b584-cc4978df73e2&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79328540",
+      "itunes_duration": "01:22:37",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "ghast"
+      ]
+    },
+    {
+      "key": "0f365c20f558330c5042d91286dc14bbd7d7827d",
+      "title": "Cannon Fodder 2/8/23",
+      "published_at": "2023-02-08T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-2-8-23-XK3sIu5t",
+      "description": "The guys found a recording space! (Maybe.) Troy and Joe discuss exciting news in their search for a new office before tackling an interesting topic in the world of RPG game design. For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/375aa0ce-a1c5-4055-8831-3bc479f4726c/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=375aa0ce-a1c5-4055-8831-3bc479f4726c&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38800321",
+      "itunes_duration": "00:40:24",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "7dde27c32bbf8f728db955508e150127b18587a5",
+      "title": "Strange Aeons Episode 61 – A Mid-forest Night's Dream",
+      "published_at": "2023-02-07T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-61-a-mid-forest-nights-dream-B3OMlPaU",
+      "description": "At the edge of the Verduran Forest, the heroes find themselves surrounded by a mysterious group of dreamers. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/PfyBDPxEbp0 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/fc10550c-8425-4e61-b53e-f60225262ec0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=fc10550c-8425-4e61-b53e-f60225262ec0&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69589260",
+      "itunes_duration": "01:12:29",
+      "speakers": [
+        "Verduran Forest"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "forest",
+        "night",
+        "dream"
+      ]
+    },
+    {
+      "key": "4630a56055a60700f9745d5c5d85c1f82f42f990",
+      "title": "Friends of the Pod – Pathfinder 2E",
+      "published_at": "2023-02-01T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/friends-of-the-pod-pathfinder-2e-SN4Guzcy",
+      "description": "With all of the shake ups in the tabletop industry as of late, we went live last week with the Pathfinder Society Scenario Inheritor's Rite to show fans new and old how much fun Pathfinder 2E is and how simple it is to jump right in and play! ﻿ For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at patreon.com/glasscannon . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/3c340290-5464-4999-9949-73c5ca93a080/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=3c340290-5464-4999-9949-73c5ca93a080&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "267197057",
+      "itunes_duration": "04:38:19",
+      "speakers": [],
+      "topics": [
+        "friend",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "04282c6d13692676a896fbfbd0393d2791e43683",
+      "title": "Cannon Fodder 2/1/23",
+      "published_at": "2023-02-01T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-2-1-23-XLQDBql5",
+      "description": "This week's episode features some exciting updates to the Gatewalkers project! In We Are Stupid, we examine the difference between Potions and Elixirs in PF2E before turning the microscope on our roleplaying in Strange Aeons Episode 60 and talking out some do's and don'ts of improv roleplay around the table. For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5e42bc46-4b77-46be-a25c-93c99bebb2f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5e42bc46-4b77-46be-a25c-93c99bebb2f7&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30896144",
+      "itunes_duration": "00:32:10",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "57c01d9045ab58eb4e51ecd217f5901ed9219e0d",
+      "title": "Strange Aeons Episode 60 – That's My Juice Now",
+      "published_at": "2023-01-31T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-60-thats-my-juice-now-8wNg8lN0",
+      "description": "With only one gift left to retrieve in the Dreamlands, the heroes regroup aboard the Sellen Starling. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path Watch the video here: https://youtu.be/4nWprnrCCM4 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a3aa115b-84b9-4aab-972c-856155c6d56a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a3aa115b-84b9-4aab-972c-856155c6d56a&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74465986",
+      "itunes_duration": "01:17:34",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "juice"
+      ]
+    },
+    {
+      "key": "711bb910eae8a7486f29e48e4d9804a64f9d58f6",
+      "title": "Cannon Fodder 1/25/23",
+      "published_at": "2023-01-25T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-1-25-23-X79qQAvG",
+      "description": "Troy and Joe discuss their excitement for the upcoming Friends of the Pod one-shot aimed at Pathfinder beginners as well as their upcoming live stream of the Blade Runner RPG . In We Are Stupid, as Invisiblity and the Fascinate condition get put under the microscope, Troy gets heated about antiquated ideas of what a Game Master is supposed to be. For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/3a4db08e-7ddf-4f6f-a451-2fca1e5681b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=3a4db08e-7ddf-4f6f-a451-2fca1e5681b7&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35062865",
+      "itunes_duration": "00:36:31",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "818a84f3fbc0761836385035fa88305827dd9702",
+      "title": "Strange Aeons Episode 59 – Tricorne Flakes",
+      "published_at": "2023-01-24T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-59-tricorne-flakes-m76zpcHA",
+      "description": "Just when it seemed the battle had been won, the Captain, his companion and the sentient boat mounted a last-ditch effort to take control of the fight! Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/VOZJsHk5zoY For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/30f8b4d2-ff14-4798-bf85-ef6b2010e278/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=30f8b4d2-ff14-4798-bf85-ef6b2010e278&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60864855",
+      "itunes_duration": "01:03:23",
+      "speakers": [
+        "Tricorne Flakes Just"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "tricorne",
+        "flake"
+      ]
+    },
+    {
+      "key": "7c86ceb98314f13ec44bfc6543107050f12e6ebc",
+      "title": "Cannon Fodder 1/18/23",
+      "published_at": "2023-01-18T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-1-18-23-l9qo3INz",
+      "description": "Troy and Joe discuss the upcoming release of Get in the Trunk Season 1 Remastered , a new Friends of the Pod going live next week, and the newest Labs experiment: Symbaroum. In We Are Stupid, we cover game mastering players' feelings, the Steal action (along with the Pickpocket feat), and two hugely important traits to look out for. For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/db1a10cf-eac3-4c2c-a95b-5c501f1e67aa/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=db1a10cf-eac3-4c2c-a95b-5c501f1e67aa&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32507034",
+      "itunes_duration": "00:33:51",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "d82a6ba6142e7199266a1f91c03c98e19c30bf20",
+      "title": "Strange Aeons Episode 58 – Keeping the Wraith",
+      "published_at": "2023-01-17T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-58-keeping-the-wraith-Ne4j4zEx",
+      "description": "With the crew disposed of, the Captain of the Bloodwind emerges from the blood-drenches sails with his wraith companion. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/q2vP0ewAqFA For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/3318889a-d521-4737-9e09-f8aa1c11a679/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=3318889a-d521-4737-9e09-f8aa1c11a679&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96877831",
+      "itunes_duration": "01:40:54",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "wraith"
+      ]
+    },
+    {
+      "key": "ff54175592558a6be125d2b2ba050dc5f7b4e019",
+      "title": "Cannon Fodder 1/11/23",
+      "published_at": "2023-01-11T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-1-11-23-iQYUtIh3",
+      "description": "Troy and Joe discuss this week's premiere of the new Glass Cannon Labs experiment as well as some exciting Twitch channel updates. In We Are Stupid, we examine group initiative, regaining actions at the top of your turn, and what really constitutes a free hand. For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/ddf965bc-c077-47fd-acf2-55ebaa577f29/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=ddf965bc-c077-47fd-acf2-55ebaa577f29&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41856193",
+      "itunes_duration": "00:43:35",
+      "speakers": [
+        "Cannon Fodder",
+        "Glass Cannon Labs"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "d02dae8dad2dc5f1a1a5aeba279d759055cd1baa",
+      "title": "Strange Aeons Episode 57 – The Adventures of Pepsi and Chickenpoon",
+      "published_at": "2023-01-10T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-57-the-adventures-of-pepsi-and-chickenpoon-uOq_8aXU",
+      "description": "It's a new year, but the heroes are in the same old trouble when a Dreamlands boat sails toward the Sellen Starling and its occupants mount an attack! Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel and Kate Stamas as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/q2vP0ewAqFA For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/1bc99f63-dc49-4a9b-9ecc-fc7612c62634/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=1bc99f63-dc49-4a9b-9ecc-fc7612c62634&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101461670",
+      "itunes_duration": "01:45:41",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "adventures",
+        "pepsi",
+        "chickenpoon"
+      ]
+    },
+    {
+      "key": "69e916fbbe6202e4135a0c18e2bf3e9e5bab6d93",
+      "title": "Cannon Fodder 1/4/23",
+      "published_at": "2023-01-04T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cannon-fodder-1-4-23-VGGRSC2W",
+      "description": "Happy New Year! Your old buddies Troy and Joe kick the year off discussing Glass Cannon Labs, some GCN podcast feeds, and the triumphant return of We Are Stupid in Fodder form! This week, we examine Strange Aeons Episode 56, which leads to discussions on the difference between Stunned and Slowed, how we screwed up Crushing Despair, and Joe's massive cheat only moments before the cliffy. The New Old Fod is here! For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d836438a-0d56-4692-8d1a-a9632c8554d2/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d836438a-0d56-4692-8d1a-a9632c8554d2&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29807979",
+      "itunes_duration": "00:31:02",
+      "speakers": [
+        "Cannon Fodder",
+        "Joe kick",
+        "Glass Cannon Labs"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
+      "key": "6a1025f1e9e7c45b4bcdb03324a7415e9319d6d0",
+      "title": "Vengeance and Voltage | Haunted City S1 E25 | Blades in the Dark",
+      "published_at": "2022-12-30T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/vengeance-and-voltage-haunted-city-s1-e25-blades-in-the-dark-4NPdFMet",
+      "description": "A confrontation with Una Farros leads the Remnant to decide the fate of Duskvol. Watch the video here: https://youtu.be/mNwhyjCGcF8 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/402d2010-f301-4625-83b2-4ccccf4f7c23/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/0de882a9-49a1-4ab2-8546-1671056a2eeb/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=0de882a9-49a1-4ab2-8546-1671056a2eeb&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116807559",
+      "itunes_duration": "02:01:05",
+      "speakers": [],
+      "topics": [
+        "vengeance",
+        "voltage",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "2fffb25a46ddd6d56d56aed4eb842087d0593c83",
+      "title": "A Downtime Dalliance | Haunted City S1 E24 | Blades in the Dark",
+      "published_at": "2022-12-23T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/a-downtime-dalliance-haunted-city-s1-e24-blades-in-the-dark-Fq_mrBn_",
+      "description": "Things get intimate in the underground grotto. Watch the video here: https://youtu.be/oKsAnx5Ljns Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/4ef0760e-58c1-4eac-97a9-6ffc721b19c2/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d63ccc5e-0bc4-456d-a644-0d7d59ff489f/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d63ccc5e-0bc4-456d-a644-0d7d59ff489f&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117520980",
+      "itunes_duration": "02:01:50",
+      "speakers": [
+        "Ljns Ac"
+      ],
+      "topics": [
+        "downtime",
+        "dalliance",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "c0a33d8bde868e7f09b747e602a752ebe3ad8170",
+      "title": "Tunnels and Terror | Haunted City S1 E23 | Blades in the Dark",
+      "published_at": "2022-12-16T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/tunnels-and-terror-haunted-city-s1-e23-blades-in-the-dark-186oD3rv",
+      "description": "A horde of hollows hounds The Remnant down in the dark. Watch the video here: https://youtu.be/Fi72oy-3bNY Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/8c4b6871-4063-44e8-a9d7-3327ba6cce4f/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a60c61ce-14fd-4c81-b760-ec1c34183e59/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a60c61ce-14fd-4c81-b760-ec1c34183e59&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117330816",
+      "itunes_duration": "02:01:38",
+      "speakers": [
+        "Haunted City"
+      ],
+      "topics": [
+        "tunnels",
+        "terror",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "03677c3fde3f69625028b706f43f3fea4d5b1978",
+      "title": "Downtime Directives | Haunted City S1 E22 | Blades in the Dark",
+      "published_at": "2022-12-09T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/downtime-directives-haunted-city-s1-e22-blades-in-the-dark-wstj0w4H",
+      "description": "Even while looking for work, the Remnant leaves bodies in the street. Watch the video here: https://youtu.be/LqFYFZDe6Hk Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/f62959f4-33af-4431-97eb-54eacd0203c4/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/9781714c-0192-4724-8e4c-17af3bfd7dda/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=9781714c-0192-4724-8e4c-17af3bfd7dda&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117164065",
+      "itunes_duration": "02:01:27",
+      "speakers": [],
+      "topics": [
+        "downtime",
+        "directive",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "0693180a4c632855135a5165e897ed78e2f8c521",
+      "title": "Strange Aeons Episode 56 – Lurid Dreaming",
+      "published_at": "2022-12-06T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-56-lurid-dreaming-7wlyQ3Ux",
+      "description": "With two gifts left to retrieve, the heroes enact the Dreamlands Excursion Ritual, but upon waking, something feels very wrong. This episode was sponsored by Dauntless Snacks. For 10% off your next order, use code GCNNAISH at https://dauntlesssnacks.com/ Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa and Sydney Amanuel as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/m_EcmmwHecw Recap 18:08 Gameplay 25:00 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/980ff25a-871c-45b8-8c1d-b7c2d23e5304/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=980ff25a-871c-45b8-8c1d-b7c2d23e5304&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132566911",
+      "itunes_duration": "02:18:05",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "lurid",
+        "dreaming"
+      ]
+    },
+    {
+      "key": "84e13be4c9a61254928ac69b2fa42b04d8cde227",
+      "title": "The Imperial City Part Three | Haunted City S1 E21 | Blades in the Dark",
+      "published_at": "2022-12-02T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-imperial-city-part-three-haunted-city-s1-e21-blades-in-the-dark-yBh9NlzP",
+      "description": "The crew is tasked with pulling a score within a score in the Emperor's Cabinet of Curiosities. Watch the video here: https://youtu.be/umyeOczlNN8 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/453d5811-cf2b-4c6a-b97e-0da2a8cf990d/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/fbf66174-c1bc-4384-88b6-4446b0a148ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=fbf66174-c1bc-4384-88b6-4446b0a148ad&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114357922",
+      "itunes_duration": "01:58:32",
+      "speakers": [],
+      "topics": [
+        "imperial",
+        "city",
+        "haunted",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "a952aef04f6a2b603321cbb1a0e0897543a29ec1",
+      "title": "The Imperial City Part Two | Haunted City S1 E20 | Blades in the Dark",
+      "published_at": "2022-11-25T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-imperial-city-part-two-haunted-city-s1-e20-blades-in-the-dark-QHyKYNDo",
+      "description": "The crew seeks out Imperial City's seedier side and indulges their baser impulses. Watch the video here: https://youtu.be/k0tVFJMeLdE Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/4be62590-a1b2-4155-aa25-20f49090f54d/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f2235ae9-a98d-4c1a-aadd-2b44b4d86cb8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f2235ae9-a98d-4c1a-aadd-2b44b4d86cb8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105584944",
+      "itunes_duration": "01:49:24",
+      "speakers": [
+        "Haunted City",
+        "Imperial City"
+      ],
+      "topics": [
+        "imperial",
+        "city",
+        "haunted",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "73033bfdd6614edb1ebd336d65fa0507d332de98",
+      "title": "Strange Aeons Episode 55 – Last Christmas",
+      "published_at": "2022-11-22T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-55-last-christmas-dfy0g0ww",
+      "description": "The heroes enter the Dreamlands once more in search of an Ambassador's Heartstone to give to the Mad Poet. This episode was sponsored by Dauntless Snacks. For 10% off your next order, use code GCNNAISH at https://dauntlesssnacks.com/ Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa and Sydney Amanuel as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/avX0xHfyx4E For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/e9ea4814-45d1-449e-80f8-ea191a6cf8b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=e9ea4814-45d1-449e-80f8-ea191a6cf8b4&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "193582576",
+      "itunes_duration": "03:21:38",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "christmas"
+      ]
+    },
+    {
+      "key": "52a2443642458364ee52c9e497bc3ac6fc982f11",
+      "title": "The Imperial City Part One | Haunted City S1 E19 | Blades in the Dark",
+      "published_at": "2022-11-18T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-imperial-city-part-one-haunted-city-s1-e19-blades-in-the-dark-Bjx6atlt",
+      "description": "The crew arrives in Imperial City and finds it is a very different sort of place than Duskvol. Watch the video here: https://youtu.be/EnhaK4HvNgs Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/b60f39e0-e44b-4909-a2d1-3ec57ec78a7f/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/af8dcef7-e7c0-459c-94b8-79bb1a00a4a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=af8dcef7-e7c0-459c-94b8-79bb1a00a4a5&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108533240",
+      "itunes_duration": "01:52:28",
+      "speakers": [
+        "Haunted City",
+        "Imperial City"
+      ],
+      "topics": [
+        "imperial",
+        "city",
+        "haunted",
+        "blades",
+        "dark"
+      ]
+    },
+    {
+      "key": "c1af7d59fdfe48067dcb9f034f744f5825419cc0",
+      "title": "Chuk Shall Rise | Haunted City S1 E18 | Blades in the Dark",
+      "published_at": "2022-11-11T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/chuk-shall-rise-haunted-city-s1-e18-blades-in-the-dark-qPO8CgK_",
+      "description": "Chuk's Crew Part 2: The score draws to an explosive close. Who will get stabbed in the back? Watch the video here: https://youtu.be/ktD7DhRdDVw Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/f22f583e-b592-4e6a-950c-29ae830fa645/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/af4c68aa-3d7a-466e-ac0b-756497c40354/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=af4c68aa-3d7a-466e-ac0b-756497c40354&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127863839",
+      "itunes_duration": "02:12:36",
+      "speakers": [
+        "Chuk Shall Rise",
+        "Haunted City",
+        "Dark Chuk"
+      ],
+      "topics": [
+        "chuk",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "3b53f1c611ff1066d9d890ec9145cdd19199939b",
+      "title": "Strange Aeons Episode 54 – Help Wanted",
+      "published_at": "2022-11-08T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-54-help-wanted-Vz8LybCx",
+      "description": "As the Sellen Starling continues its journey downriver, a group of wealthy looking courtiers flags down the boat in search of aid. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa and Sydney Amanuel as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/eEzMV250AU0 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b7e7b2be-d07e-4d49-b4d4-c17b6371df2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b7e7b2be-d07e-4d49-b4d4-c17b6371df2f&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "162069430",
+      "itunes_duration": "02:48:49",
+      "speakers": [
+        "Sellen Starling"
+      ],
+      "topics": [
+        "strange",
+        "aeons"
+      ]
+    },
+    {
+      "key": "b8d16cb564ebc9847e18c3cd4b564fa865eec2a0",
+      "title": "The Rise of Chuk | Haunted City S1 E17 | Blades in the Dark",
+      "published_at": "2022-11-04T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-rise-of-chuk-haunted-city-s1-e17-blades-in-the-dark-kDPPo7ia",
+      "description": "Chuk's Crew Part 1: Chuk recruits his own crew of Bravos and takes on a vicious gang. Watch the video here: https://youtu.be/7gxAx1dQ3EE Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/a405bc69-6db8-48a1-aa56-c8e751d84c8c/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/38c8696c-b6f9-4176-821a-a843fc12349a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=38c8696c-b6f9-4176-821a-a843fc12349a&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119256800",
+      "itunes_duration": "02:03:38",
+      "speakers": [
+        "Haunted City",
+        "Dark Chuk"
+      ],
+      "topics": [
+        "rise",
+        "chuk",
+        "haunted",
+        "city",
+        "blades",
+        "dark"
+      ]
+    },
+    {
+      "key": "b195965cadea58b3f8d29ad5f27c78b8657dfd30",
+      "title": "Strange Aeons Episode 53 – Master of Poppets",
+      "published_at": "2022-11-01T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-53-master-of-poppets-IUzVTU2U",
+      "description": "Shades of the ancient inhabitants of Ib wrack the heroes with their dooming touch while an ever greater enemy approaches from the distance—the Great Old One Bokrug!. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa and Sydney Amanuel as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/1JcNaB1oyHk For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/29cd78d4-097a-4fe6-b86c-f063b0bc8bf1/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=29cd78d4-097a-4fe6-b86c-f063b0bc8bf1&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "112234973",
+      "itunes_duration": "01:56:54",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "master",
+        "poppets"
+      ]
+    },
+    {
+      "key": "3d027ea943988df6eac8b52735d60f937a31240b",
+      "title": "Downtime Dissension Part Two | Haunted City S1 E16 | Blades in the Dark",
+      "published_at": "2022-10-28T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/downtime-dissension-part-two-haunted-city-s1-e16-blades-in-the-dark-tqu_nYzE",
+      "description": "Wherein the future of The Remnant is decided and the crew ally themselves with the undead. Watch the video here: https://youtu.be/yrVP7gS-YfU Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/030e8750-dc14-46a4-a1bb-5b28619f114a/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/56302419-7f9d-4332-a675-c81090cb41a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=56302419-7f9d-4332-a675-c81090cb41a9&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96858384",
+      "itunes_duration": "01:40:18",
+      "speakers": [],
+      "topics": [
+        "downtime",
+        "dissension",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "ce58965d0ce86f2797264677d8a21adc89b68227",
+      "title": "Strange Aeons Episode 52 – Foam at the Neck Mouth",
+      "published_at": "2022-10-25T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-52-foam-at-the-neck-mouth-SysyHP3X",
+      "description": "A mysterious new ally joins the heroes as the search for their quarry before the entire city of Sarnath is destroyed! Brooklyn was on fire for a Halloween-themed show with special guest Kate Stamas! Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa and Sydney Amanuel as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/IC0MmspJIt0 Recap 18:10 Gameplay: 25:08 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/8336d83d-4e82-46de-acb7-b487c2b6e880/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=8336d83d-4e82-46de-acb7-b487c2b6e880&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "136877980",
+      "itunes_duration": "02:22:34",
+      "speakers": [
+        "Neck Mouth"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "foam",
+        "neck",
+        "mouth"
+      ]
+    },
+    {
+      "key": "af5e83c04484f14ac091ce5216a1ccd129e75a6d",
+      "title": "Downtime Dissension Part One | Haunted City S1 E15 | Blades in the Dark",
+      "published_at": "2022-10-21T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/downtime-dissension-part-one-haunted-city-s1-e15-blades-in-the-dark-k2X_PkNd",
+      "description": "The Remnant is at a breaking point and must deal with discord within their ranks. Watch the video here: https://youtu.be/TujMvFZphk0 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/ee0a2162-e80c-4b34-bc75-2e80f63b3edb/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f1a03ba2-64ca-4c0f-bfbf-874288569a8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f1a03ba2-64ca-4c0f-bfbf-874288569a8a&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99236145",
+      "itunes_duration": "01:42:47",
+      "speakers": [],
+      "topics": [
+        "downtime",
+        "dissension",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "31b480cb32ed0343e9933e32611a79cebbf5ff0a",
+      "title": "Strange Aeons Episode 51 – Wait in the Truck",
+      "published_at": "2022-10-18T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-51-wait-in-the-truck-5XZqrUtY",
+      "description": "A pair of ominous figures approach the Sellen Starling as it docks on the shores of the nation of Galt. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa and Sydney Amanuel as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/XIxd9GDPG6g For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/73b8835b-ad4a-40b1-b2a7-c3d694663602/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=73b8835b-ad4a-40b1-b2a7-c3d694663602&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "131218968",
+      "itunes_duration": "02:16:41",
+      "speakers": [
+        "Sellen Starling"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "truck"
+      ]
+    },
+    {
+      "key": "5ebb7c854afbed39a572f0fc63bbdca12a409506",
+      "title": "Art and Annihilation | Haunted City S1 E14 | Blades in the Dark",
+      "published_at": "2022-10-14T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/art-and-annihilation-haunted-city-s1-e14-blades-in-the-dark-_fs2EFKG",
+      "description": "A simple job to steal a work of art becomes complicated...and deadly. Watch the video here: https://youtu.be/Lksz15VEsFU Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/4129f318-7eeb-44d9-87f1-6db725cc7778/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f8d3dea2-ab0c-448c-a3da-a2bc30127b41/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f8d3dea2-ab0c-448c-a3da-a2bc30127b41&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "129147792",
+      "itunes_duration": "02:13:56",
+      "speakers": [
+        "Haunted City"
+      ],
+      "topics": [
+        "annihilation",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "26181a6ede82a8d232256f6a1bcb6ddab4937117",
+      "title": "Strange Aeons Episode 50 – Beach Bodies",
+      "published_at": "2022-10-04T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-50-beach-bodies-u_WAaYUE",
+      "description": "A brutal attack on the shores of Riverton leaves the party reeling and the mission in jeopardy. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa and Sydney Amanuel as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/wu-q-kbCF80 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/180595a1-8314-410a-8c11-74a3b386616a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=180595a1-8314-410a-8c11-74a3b386616a&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111416877",
+      "itunes_duration": "01:56:03",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "beach",
+        "body"
+      ]
+    },
+    {
+      "key": "7b8d3ef0c9c0934b74356fa9449ee01c88f5dc78",
+      "title": "Strange Aeons Episode 49 – Riverside Drive",
+      "published_at": "2022-09-27T16:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-49-riverside-drive-7gDX6Ryw",
+      "description": "It was a show for the record books as Glass Cannon Live! made its return to Boston for their fourth show at the Paradise Rock Club. The heroes got more than they bargained for after a stop in an ominous river town. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa and Sydney Amanuel as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/0lr-dXBH2bM Recap 18:02 Gameplay 25:08 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f5b14191-4426-45ff-a51d-ed8edd594c52/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f5b14191-4426-45ff-a51d-ed8edd594c52&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "140106320",
+      "itunes_duration": "02:25:56",
+      "speakers": [
+        "Riverside Drive"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "riverside",
+        "drive"
+      ]
+    },
+    {
+      "key": "296be8f042717215e36386a8760928b30a34f601",
+      "title": "Strange Aeons Episode 48 – All Hail the Water Rat!",
+      "published_at": "2022-09-20T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-48-all-hail-the-water-rat-eoa8PuHu",
+      "description": "With Atticus and Ser Joolee perishing in the Dreamlands' underworld necropolis, what would life look like for the heroes upon awakening?! Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa and Sydney Amanuel as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/cx0xsxezTNM For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/78dfb1cc-9cdd-4bcd-b16b-51cf6cc459f1/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=78dfb1cc-9cdd-4bcd-b16b-51cf6cc459f1&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "133749367",
+      "itunes_duration": "02:19:19",
+      "speakers": [
+        "life look"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "hail",
+        "water"
+      ]
+    },
+    {
+      "key": "de8f1bce97128b64a650141523681fa6f24fceec",
+      "title": "Strange Aeons Episode 47 – This Gug's for You",
+      "published_at": "2022-09-13T16:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-47-this-gugs-for-you-G5dtUFNF",
+      "description": "Strange Aeons returns to the Masquerade in Atlanta for the fourth time with another wild night of dice rolling nerdage! Sydney Amanuel and Jared Logan join three fifths of the OGs once again as the heroes' exploration of a necropolis in the Dreamlands come to an ending you'll have to see to believe! Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa and Sydney Amanuel as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/CwTRGZifstk Recap 14:47 Gameplay 23:32 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/36f7884b-20a5-471f-8114-453324409224/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=36f7884b-20a5-471f-8114-453324409224&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "145736405",
+      "itunes_duration": "02:31:48",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons"
+      ]
+    },
+    {
+      "key": "b11c7a8212974d7b6b4f352accf4a845cd325050",
+      "title": "Strange Aeons Episode 46 – The Juice Is Loose",
+      "published_at": "2022-09-06T16:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-46-the-juice-is-loose-a0KBRC7o",
+      "description": "The crew made their first stop in Nashville for another wild night of Strange Aeons madness! Jared Logan and Sydney Amanuel joined the team as the heroes dealt with the aftermath of the battle with the Razmiran brutes and prepared for another journey into the Dreamlands. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa and Sydney Amanuel as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/eq_XPM8nFzY Recap 20:21 Gameplay 26:34 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/dc384e71-6839-4930-9f68-df4ca08aa55e/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=dc384e71-6839-4930-9f68-df4ca08aa55e&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "141458953",
+      "itunes_duration": "02:27:21",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "juice"
+      ]
+    },
+    {
+      "key": "6a7148f3488ce20c0ae8d6f293a9c85655cb12c7",
+      "title": "Strange Aeons Episode 45 – Leap of Faith Barge",
+      "published_at": "2022-08-30T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-45-leap-of-faith-barge-6oqEaoQ1",
+      "description": "Glass Cannon Live! comes to Twitch during the weeks when they're not on tour AND joining the Strange Aeons cast is Sydney Amanuel! The heroes return from the Dreamlands ready to search for another gift to give the Mad Poet, but a stop in the Razmiran port city of Xer may derail their plans. Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa and Sydney Amanuel as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/xjcCVMYbfnc For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/e5f339ea-07f8-4a3e-9dad-4fdab6327046/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=e5f339ea-07f8-4a3e-9dad-4fdab6327046&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "152706628",
+      "itunes_duration": "02:39:04",
+      "speakers": [
+        "Faith Barge"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "leap",
+        "faith",
+        "barge"
+      ]
+    },
+    {
+      "key": "1c36324c58cdeaddc23662a8af84bfeff253250b",
+      "title": "Strange Aeons Episode 44 – Tiger Bomb",
+      "published_at": "2022-08-23T16:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-44-tiger-bomb-Tvuq__fa",
+      "description": "The wild Indianapolis weekend continued with more Glass Cannon Live! at Helium Comedy Club. This time joining the crew was Paizo's own Erik Mona as Tiny Murder Klowne reemerged to join the heroes deep within the Enchanted Forest of the Dreamlands. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/FWZ05qrUF60 Recap 9:40 Gameplay 16:13 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/532487c2-e472-497b-9fae-2b330a53f2ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=532487c2-e472-497b-9fae-2b330a53f2ce&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "146979294",
+      "itunes_duration": "02:33:06",
+      "speakers": [
+        "Tiger Bomb"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "tiger",
+        "bomb"
+      ]
+    },
+    {
+      "key": "6f739907efcbbabe3f30a60e623e76b5891c383f",
+      "title": "Strange Aeons Episode 43 – The Return of the King",
+      "published_at": "2022-08-16T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-43-the-return-of-the-king-wCp2lgrm",
+      "description": "It was the biggest Gen Con in GCN history, and the boys kicked it off with another sold out show at Helium Comedy Club in Indianapolis! Joining the team once again was Jared Logan's Zantar, King of the Zoogs, whose throne was challenged deep within the Enchanted Forest of the Dreamlands. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/0fUN7H0kXzc Recap 14:46 Gameplay 24:53 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/e7abf95c-41d8-462a-9563-4255db8b7881/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=e7abf95c-41d8-462a-9563-4255db8b7881&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "129398355",
+      "itunes_duration": "02:14:47",
+      "speakers": [
+        "Gen Con"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "return",
+        "king"
+      ]
+    },
+    {
+      "key": "ac215d3b0e530a00dcdd9b85fc94cfe0853d6a7c",
+      "title": "Strange Aeons Episode 42 – Wrecking Ball",
+      "published_at": "2022-08-09T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-42-wrecking-ball-vnE_haSN",
+      "description": "The boys made their first stop in San Francisco, but it certainly won't be their last as the crowd was one of the hottest in Glass Cannon Live! history! It was a wacky night in the Dreamlands as the heroes found themselves at an opulent party in a strange city, having to fulfill an odd request. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/_Eqe0-n1S4Q Recap 13:43 Gameplay 19:57 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/10339464-d1f2-4910-9d41-a9e75e16ef6b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=10339464-d1f2-4910-9d41-a9e75e16ef6b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "140896418",
+      "itunes_duration": "02:26:45",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "ball"
+      ]
+    },
+    {
+      "key": "36453f4d4648471a166fcd1502d4b1ef3db1b4bb",
+      "title": "Strange Aeons Episode 41 – Pair of Kings",
+      "published_at": "2022-08-02T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-41-pair-of-kings-auYzmGoV",
+      "description": "Glass Cannon Live! returned to the city where it all began—sunny Los Angeles—for a star-studded night of Lovecraftian nonsense. As the heroes stumble around the abandoned caravanserai in the Dreamlands, they come upon a lost soul looking for a way home and an eerily familiar man with strange tidings. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: Recap 14:56 Gameplay 21:58 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/8ccfbc7a-0f69-4a6b-8a7c-e7b316f89fd1/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=8ccfbc7a-0f69-4a6b-8a7c-e7b316f89fd1&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116434828",
+      "itunes_duration": "02:01:17",
+      "speakers": [
+        "Los Angeles"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "pair",
+        "king"
+      ]
+    },
+    {
+      "key": "c93cd5ffaa0329a6a26d885bc647ca22ddd37521",
+      "title": "Strange Aeons Episode 40 – Motile Bloodbath",
+      "published_at": "2022-07-28T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-40-motile-bloodbath-pgeUbTbA",
+      "description": "Glass Cannon Live! returned to Columbus in the shadow of Ohio State campus for another night of Strange Aeons madness. The heroes enacted an inception-like ritual to enter the Dreamlands, but the seemingly abandoned caravanserai they found may hold more than they bargained for. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/8j4k9gMtfNs Recap 18:33 Gameplay 26:50 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/7f8f5501-22aa-4234-80d3-3efeefdcb3e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=7f8f5501-22aa-4234-80d3-3efeefdcb3e8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "143286278",
+      "itunes_duration": "02:29:15",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "motile",
+        "bloodbath"
+      ]
+    },
+    {
+      "key": "57b947577d68ab9297bd543e0e76904d63fc187a",
+      "title": "Strange Aeons Episode 39 – Why Tonight's the Caravanserai!",
+      "published_at": "2022-07-27T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-39-why-tonights-the-caravanserai-qF5dh_42",
+      "description": "The boys return to the District of Columbia to tear it up once again at the Miracle Theatre! The heroes are on a boat sailing down the Sellen River, but what they find in Lowls' journals may lead them in a whole new direction! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/bzpYYoFSUcc Recap 16:34 Gameplay 24:30 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/98664549-e682-47bd-86aa-7dfa573268d1/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=98664549-e682-47bd-86aa-7dfa573268d1&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124382313",
+      "itunes_duration": "02:09:33",
+      "speakers": [
+        "Why Tonight",
+        "Miracle Theatre"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "tonight",
+        "caravanserai"
+      ]
+    },
+    {
+      "key": "0f65322329414cb044215ab51bde45762b928a08",
+      "title": "Strange Aeons Episode 38 – Murder, She Boat",
+      "published_at": "2022-07-26T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-38-murder-she-boat-Nbet8SL_",
+      "description": "With the Count's destination now known, the heroes board a boat for a months long journey down the Sellen River. The boys were joined by Paizo's own Erik Mona for a sold out show in Seattle, where they began Book 3 of Strange Aeons and the conversion to Pathfinder Second Edition! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/QVrTaBxRkGI Recap 19:21 Gameplay 30:14 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/6fdc17a6-d254-4329-bb04-bd4688dd3832/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=6fdc17a6-d254-4329-bb04-bd4688dd3832&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "137735366",
+      "itunes_duration": "02:23:28",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "murder",
+        "boat"
+      ]
+    },
+    {
+      "key": "9d15807e3db55b5132b44106e8443df5a36846a4",
+      "title": "Strange Aeons Episode 37 – Powers in the Attic",
+      "published_at": "2022-07-25T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-37-powers-in-the-attic-taSExlN9",
+      "description": "The boys returned to the home of Praise Log! for an unexpected and thrilling conclusion to Book 3 of Strange Aeons! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/KLObQjypS9Q Recap 16:00 Gameplay 21:48 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5d6cc78e-06cd-49ca-b10c-4dda0c70f851/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5d6cc78e-06cd-49ca-b10c-4dda0c70f851&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "136503313",
+      "itunes_duration": "02:22:11",
+      "speakers": [
+        "Praise Log"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "powers",
+        "attic"
+      ]
+    },
+    {
+      "key": "7086d716d24b7c4dd43e2342d72cbcfc8a882830",
+      "title": "Strange Aeons Episode 36 – Singing Heads",
+      "published_at": "2022-07-21T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-36-singing-heads-flYmNvmt",
+      "description": "With Melisenn defeated, the heroes continued to search Iris Hill for clues about themselves and the Count's whereabouts. It was a cold night in St. Paul, but you'd never know it inside Amsterdam Bar and Hall as Glass Cannon Live! took to the stage for the first time in the Twin Cities. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/XtrLBFObpjc Recap 21:18 Gameplay 29:15 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/62379214-b578-4bab-9e87-8cb64aa20ed7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=62379214-b578-4bab-9e87-8cb64aa20ed7&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132219150",
+      "itunes_duration": "02:17:43",
+      "speakers": [
+        "Singing Heads",
+        "Iris Hill"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "head"
+      ]
+    },
+    {
+      "key": "5598600c356f01979b8e45e3afd7b4e2596bdbd7",
+      "title": "Strange Aeons Episode 35 – G10 to Luna",
+      "published_at": "2022-07-20T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-35-g10-to-luna-8HxvJZqE",
+      "description": "Glass Cannon Live! made its first stop in Milwaukee, WI, as the heroes faced a monumental encounter no one saw coming. The boys were missing Grant for this trip, but special guest Sydney Amanuel stepped in for a night to remember in Brew City! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/tNwbUmN-Olo Recap 24:50 Gameplay 32:57 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/7fac57bb-54fe-4bf1-bd42-e9f0d5281226/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=7fac57bb-54fe-4bf1-bd42-e9f0d5281226&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "135819361",
+      "itunes_duration": "02:21:28",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "luna"
+      ]
+    },
+    {
+      "key": "374b733404cd46ee2443af25fb7047409ddd8661",
+      "title": "Strange Aeons Episode 34 – Fails from the Crypt",
+      "published_at": "2022-07-19T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-34-fails-from-the-crypt-Q4QdHX51",
+      "description": "The boys made their fourth trip to the Paradise Rock Club in Boston for another raucous night of RPG absurdity. Dead Royal Accusers, dexterity drain, negative levels and a beautiful Irishman half-naked atop a bed of potatoes — this show had it all! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/ovLXjqh21fs Recap 16:35 Gameplay 24:03 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a74569d6-7e5e-45e7-9d8e-c13166d270d1/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a74569d6-7e5e-45e7-9d8e-c13166d270d1&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "135326193",
+      "itunes_duration": "02:20:57",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "crypt"
+      ]
+    },
+    {
+      "key": "8980b6aa8304d0bfcc54c82b304f7845e6ed5507",
+      "title": "Strange Aeons Episode 33 – Shag Carpet",
+      "published_at": "2022-07-18T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-33-shag-carpet-l0qa16GP",
+      "description": "The boys made their first stop in Richmond, VA, for an unusually sexy night of Pathfinder hijinks. A battle with the floating torso of an undead woman opens the door to a massive discovery. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/tLMyws-gM74 Recap 14:10 Gameplay 23:40 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b9dfb22d-3164-436b-8bac-240fd6cb7f04/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b9dfb22d-3164-436b-8bac-240fd6cb7f04&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127261540",
+      "itunes_duration": "02:12:33",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "shag",
+        "carpet"
+      ]
+    },
+    {
+      "key": "e04f852735bf1523710f8188f3316876b7b8adb1",
+      "title": "Strange Aeons Episode 32 – Shit and Giggles",
+      "published_at": "2022-07-14T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-32-shit-and-giggles-9kzcSI25",
+      "description": "Glass Cannon Live! made its long awaited return to Dallas to kick off the 2022 tour and it was a show unlike any since the tour began. They may have been a bread boy down, but a call into Hollywood brought in a healthier and more talented alternative! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/jaO_RqM5o1U Recap 16:37 Gameplay 21:54 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/0916f0a4-6773-404f-bf2b-f1696135f061/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=0916f0a4-6773-404f-bf2b-f1696135f061&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124405335",
+      "itunes_duration": "02:09:35",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "shit",
+        "giggles"
+      ]
+    },
+    {
+      "key": "97a9acc299522ac8e1c74c38442b34ecfb8c2003",
+      "title": "Strange Aeons Episode 31 – Two Half Men",
+      "published_at": "2022-07-13T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-31-two-half-men-lvEss7KF",
+      "description": "The boys returned to Philly to close out the year with the 3rd Annual Glass Cannon Live! Christmas Extravaganza! With Atticus encased in amber, the heroes had to find a way to push on without their incompetent ratfolk wizard. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/WgJg5QqqHG0 Recap 17:58 Gameplay 25:00 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/6be97e5e-92f8-4fdb-959e-d71afd769c92/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=6be97e5e-92f8-4fdb-959e-d71afd769c92&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "122048408",
+      "itunes_duration": "02:07:07",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "half"
+      ]
+    },
+    {
+      "key": "c5707a22ca4b527ecd379459c53e8391fd6c1ac9",
+      "title": "Strange Aeons Episode 30 – Rat Poisoned",
+      "published_at": "2022-07-12T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-30-rat-poisoned-JLn2KK90",
+      "description": "Atticus crawled through a river of shit and found himself surrounded by dire rats and a rat king with his allies nowhere in sight! The Glass Cannon boys returned home for a Halloween weekend show at the Gramercy Theatre in NYC you'll have to see to believe! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/PTQ0Uv0EAcQ Recap 31:20 Gameplay 39:48 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/bf99f800-3b60-4a6c-9de8-951699b5df57/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=bf99f800-3b60-4a6c-9de8-951699b5df57&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "118420168",
+      "itunes_duration": "02:03:21",
+      "speakers": [
+        "Rat Poisoned Atticus"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "poisoned"
+      ]
+    },
+    {
+      "key": "6d974af7dcb1f51dab451bfc3a6dbdc797de9f99",
+      "title": "Strange Aeons Episode 29 – The Rat Stands Alone",
+      "published_at": "2022-07-11T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-29-the-rat-stands-alone-QCMxhZ5q",
+      "description": "It was a rocking night at Newport Music Hall when the Glass Cannon boys rolled into Ohio State Campus for another installment of Glass Cannon Live! After being lowered into a hole in the ground, the ratfolk wizard stands alone as two elder mythos abominations rise from the deep to greet him! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/_QPoBmXfjqY Recap 23:40 Gameplay 30:26 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/daf7598d-9b55-47b9-8dbf-13bffe59b60d/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=daf7598d-9b55-47b9-8dbf-13bffe59b60d&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114118191",
+      "itunes_duration": "01:58:52",
+      "speakers": [
+        "Glass Cannon"
+      ],
+      "topics": [
+        "strange",
+        "aeons"
+      ]
+    },
+    {
+      "key": "675d973b4652d6ce96f240769f300a92d83e71e5",
+      "title": "Strange Aeons Episode 28 – I Peg Your Pardon",
+      "published_at": "2022-07-07T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-28-i-peg-your-pardon-ImSaDScF",
+      "description": "Things got extra spicy with a hint of sacrilege in Glass Cannon Live's long-awaited return to Chicago when the heroes came up against adorable topiaries and kinky nobles. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/9V2Jd8fHkeo Recap 17:53 Gameplay 23:46 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/7273ecba-b761-4e58-8ecd-16bd228b7e15/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=7273ecba-b761-4e58-8ecd-16bd228b7e15&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117414806",
+      "itunes_duration": "02:02:18",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "pardon"
+      ]
+    },
+    {
+      "key": "9aa4692a997bba4b8b3cbf2757502333c384b0b2",
+      "title": "Strange Aeons Episode 27 – One Hundred Dollars",
+      "published_at": "2022-07-06T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-27-one-hundred-dollars-R9UxL1_L",
+      "description": "Nothing like kicking off a Saturday matinee with a save against DEATH! In one of the most controversial session of Pathfinder ever recorded, the heroes must survive an assassin on their way to Iris Hill! It was another wild show at Helium Comedy Club in Indianapolis that you have to see to believe! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/aq1-zi4MR54 Recap 13:57 Gameplay 20:04 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5672b545-3a18-4334-ae45-522290cb3194/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5672b545-3a18-4334-ae45-522290cb3194&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "125348769",
+      "itunes_duration": "02:10:34",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "dollar"
+      ]
+    },
+    {
+      "key": "667f78eeff65503f5d6dd781e75de1202ec3f03b",
+      "title": "Strange Aeons Episode 26 – Monumental Decisions",
+      "published_at": "2022-07-05T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-26-monumental-decisions-Ayx1j_IA",
+      "description": "As the heroes finish clearing out Fort Hailcourse, they are attacked by five dual sword wielding Atticuses! It was another wild night in Indianapolis at Helium Comedy Club and the boys were ready to yuk it up from start to finish! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/N1s9I_oHLXA Recap 16:46 Gameplay 22:37 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/273d74b5-3158-482a-b046-7051927dcb79/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=273d74b5-3158-482a-b046-7051927dcb79&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "115494826",
+      "itunes_duration": "02:00:18",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "decision"
+      ]
+    },
+    {
+      "key": "36c43c26c752d4322ed87c84738ca87d0dc957df",
+      "title": "Strange Aeons Episode 25 – Sandra BULLock",
+      "published_at": "2022-07-04T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-25-sandra-bullock-redUKqQO",
+      "description": "For the first time in Glass Cannon Live! history, the boys did back to back nights of shows so they came all warmed up and ready to rumble for another wild night in Atlanta. As their investigation of Fort Hailcourse continued, the heroes found themselves up against a very familiar and deadly enemy with only a few rooms left to explore! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/MWMOg8Kh_EI Recap 20:32 Gameplay 29:20 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/93b1061e-58ee-4cbc-b272-c9032007912a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=93b1061e-58ee-4cbc-b272-c9032007912a&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124716466",
+      "itunes_duration": "02:09:54",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "sandra",
+        "bullock"
+      ]
+    },
+    {
+      "key": "dd01af589b38f8d73aa6298c04148ed9f2e8aa8a",
+      "title": "Strange Aeons Episode 24 – Lost in Translation",
+      "published_at": "2022-06-30T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-24-lost-in-translation-PMEQDLnX",
+      "description": "It was another hot night in HOTlanta as the heroes continued their search for clues in the bowels of Fort Hailcourse. An incorporeal horror reached into Ser Joolee's soul but could their greatest enemy yet be a staircase? Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/mxcj-jMIXPU Recap 14:26 Gameplay 21:43 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/8daf6b98-530f-4597-8bf2-d919f2f3b444/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=8daf6b98-530f-4597-8bf2-d919f2f3b444&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127420018",
+      "itunes_duration": "02:12:43",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "translation"
+      ]
+    },
+    {
+      "key": "a80bcefe6de253dbb73f9fe3edc3d9653c96d968",
+      "title": "Strange Aeons Episode 23 – You'll Never Be a Knight!",
+      "published_at": "2022-06-29T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-23-you-ll-never-be-a-knight-Q6JDcuL1",
+      "description": "Boston's hometown hero Troy Lavallee returned to his old stomping grounds for another hot night in Beantown as the party got more than they bargained for in the dungeons below Fort Hailcourse. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/0u5-nlQT1as Recap 15:30 Gameplay 22:34 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/129fb047-73ff-43a5-83fa-1fd9a5891415/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=129fb047-73ff-43a5-83fa-1fd9a5891415&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "123065668",
+      "itunes_duration": "02:08:11",
+      "speakers": [
+        "Troy Lavallee"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "knight"
+      ]
+    },
+    {
+      "key": "f409ca87bbf240aa5daec8e7db3e2365debe4df7",
+      "title": "Strange Aeons Episode 22 – The Day the Music Died",
+      "published_at": "2022-06-28T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-22-the-day-the-music-died-jl1pAMs4",
+      "description": "The Glass Cannon boys returned to our nation's capital for another raucous good time at the Miracle Theatre. The crowd was thumping and the guys were on fire as things got a little out of hand when the heroes ran afoul of an amphibian infestation. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/dabQswdpF78 Recap 19:14 Gameplay 27:14 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d15157c7-64b8-42b8-9e78-b2553a012ab7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d15157c7-64b8-42b8-9e78-b2553a012ab7&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "133210062",
+      "itunes_duration": "02:18:45",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "music"
+      ]
+    },
+    {
+      "key": "d990fa9046d8c2a2c6ce7a6c6d6518b2ae3e1d5d",
+      "title": "Strange Aeons Episode 21 – Bad Juju",
+      "published_at": "2022-06-27T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-21-bad-juju-UyjhErIw",
+      "description": "After a 16 month hiatus due to the worldwide pandemic, the bad boys of tabletop went back on the road and the first stop was the City of Brotherly Love - Joe's hometown of Philadelphia! The heroes have left the asylum behind, but they're quickly caught up in a new disturbing mystery on the mean streets of Thrushmoor. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/JHtulVHFTPc Recap 15:22 Gameplay 28:48 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2726b78a-56b8-4653-8474-229bd849302f/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2726b78a-56b8-4653-8474-229bd849302f&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "130696583",
+      "itunes_duration": "02:16:08",
+      "speakers": [
+        "Bad Juju After"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "juju"
+      ]
+    },
+    {
+      "key": "c2290fefc94ae87349b942a0b8db6805bd0b4d5a",
+      "title": "Strange Aeons Episode 20 – Unfamiliar Faces",
+      "published_at": "2022-06-23T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-20-unfamiliar-faces-13hphyGQ",
+      "description": "The party dives headfirst into investigating the strange happenings around Thrushmoor, leading to several deadly encounter and some disturbing reveals! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/ASID9zjFqio Recap 11:06 Gameplay 21:56 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/fd4103c1-bd8c-4d4f-be45-90d0a0363043/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=fd4103c1-bd8c-4d4f-be45-90d0a0363043&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "285832257",
+      "itunes_duration": "04:57:44",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "unfamiliar",
+        "face"
+      ]
+    },
+    {
+      "key": "ebad3b80e55939a82650e5dda7c7bce5e84ddfa6",
+      "title": "Strange Aeons Episode 19 – Sleepless Little Town",
+      "published_at": "2022-06-22T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-19-sleepless-little-town-cv_sRAK5",
+      "description": "The bad boys of tabletop are BACK and ready to hit the road for more Glass Cannon Live! shows all over the US! But first, they wanted to dig back in to the story by jumping directly into Book 2 of the Strange Aeons Adventure Path! They've left the asylum behind, but what new terrors await them on the mainland in Thrushmoor? Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/5rEENwMpFQM Recap 14:57 Gameplay 21:02 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/bc83ef72-671e-4ca0-8b88-1d7cb914bff6/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=bc83ef72-671e-4ca0-8b88-1d7cb914bff6&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "283901221",
+      "itunes_duration": "04:55:43",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "sleepless",
+        "town"
+      ]
+    },
+    {
+      "key": "ee0d93dbecebf14cefabd7c44832314a2049574a",
+      "title": "Strange Aeons Episode 18 – Enter Sandman",
+      "published_at": "2022-06-21T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-18-enter-sandman-5W8vToM_",
+      "description": "The heroes' journey in the asylum reaches its terrifying climax when they finally come face to face with Ulver Zandalus as the marathon to end Book 1 of Strange Aeons concludes! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/5Evz1Imy9co Recap 24:08 Gameplay 30:38 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/bd4a6ecf-b1bf-41e1-81c1-f657cdeb83cb/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=bd4a6ecf-b1bf-41e1-81c1-f657cdeb83cb&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "229707910",
+      "itunes_duration": "03:59:16",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "enter",
+        "sandman"
+      ]
+    },
+    {
+      "key": "514cd086f39376014268235ffa520c958f63cf40",
+      "title": "Strange Aeons Episode 17 – One Crazy Knight",
+      "published_at": "2022-06-20T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-17-one-crazy-knight-QujUS3uY",
+      "description": "As the Strange Aeons Marathon continues, the party must fall back to regroup after a gruesome and horrifying loss. Will they be able to find another to aid them in the battles that lie ahead on the upper floors of the asylum? Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/u93BsAWkE0s Recap 25:25 Gameplay 31:32 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2b246e70-c2d7-496b-bfa6-0277564d99fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2b246e70-c2d7-496b-bfa6-0277564d99fd&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "229192666",
+      "itunes_duration": "03:58:44",
+      "speakers": [
+        "Strange Aeons Marathon"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "crazy",
+        "knight"
+      ]
+    },
+    {
+      "key": "387f6470c2fabc1251cdebf9a5e3ee144197a369",
+      "title": "Strange Aeons Episode 16 – Poo De Grâce",
+      "published_at": "2022-06-16T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-16-poo-de-grace-_or_HTKH",
+      "description": "With the 2020 Glass Cannon Live! tour put on hold due to the worldwide pandemic, the guys thought it was high time they got the band back together for a Strange Aeons marathon to finish Book 1 over three days. Halstor, Aldo, Atticus and Mrs. O'Lady wasted no time diving right back in to a terrifying situation! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/7A_-cBT7uBw Recap 30:32 Gameplay 45:17 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/fad6e9c6-1fad-45ea-93ea-83d571c65aed/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=fad6e9c6-1fad-45ea-93ea-83d571c65aed&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "208914709",
+      "itunes_duration": "03:37:37",
+      "speakers": [
+        "Poo De Grâce"
+      ],
+      "topics": [
+        "strange",
+        "aeons"
+      ]
+    },
+    {
+      "key": "c94ec8c11aaa975159f2ec007d5309be34488814",
+      "title": "Strange Aeons Episode 15 – An Actor Prepares",
+      "published_at": "2022-06-15T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-15-an-actor-prepares-Rr5vkAgk",
+      "description": "The boys return to Beantown for another ridiculous night of dice rolling, dirty sock tossing madness! The heroes have discovered that their new doctor friend isn't a doctor and new dangers arise as they press onward to the west! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/VjYiUkX9Kxw Recap 16:30 Gameplay 22:40 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/7a1f8405-1d5f-44fc-8ea3-e58676454de0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=7a1f8405-1d5f-44fc-8ea3-e58676454de0&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "136675736",
+      "itunes_duration": "02:22:22",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "actor",
+        "prepares"
+      ]
+    },
+    {
+      "key": "a97337fb7ac2f3cd45d3a397f2f49812190e73aa",
+      "title": "Strange Aeons Episode 14 – Tickle Fight",
+      "published_at": "2022-06-14T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-14-tickle-fight-iIGCvTcD",
+      "description": "The boys stopped by our nation's capital for a humdinger of a show to kick off the year! As Mrs. O'Lady's life literally HANGS in the balance, will the team be able to save her and themselves!?! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/EDleQX-xmqY Recap 14:09 Gameplay 24:02 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/cee6ad6a-eb22-4687-8072-d10b7054e4e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=cee6ad6a-eb22-4687-8072-d10b7054e4e8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117075050",
+      "itunes_duration": "02:01:57",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "tickle",
+        "fight"
+      ]
+    },
+    {
+      "key": "ff9b6d81832dd6250bb88fa9150ab277cc911627",
+      "title": "Strange Aeons Episode 13 – Acts of the Apostles",
+      "published_at": "2022-06-13T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-13-acts-of-the-apostles-lN0Fp1J_",
+      "description": "Philly's native son, Cheese Whiz O'Brien, returned to his hometown in front of a packed crowd for one hell of a show to close out the year! Initiatives were rolled, tears were shed, minds were erased and good times were had at the first official Glass Cannon Network Christmas Spectacular! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/vv6m4x2NtQg Recap 14:23 Gameplay 22:58 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/358a4f99-ab70-42e4-bc57-9c3a3a933dd5/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=358a4f99-ab70-42e4-bc57-9c3a3a933dd5&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "135369739",
+      "itunes_duration": "02:21:00",
+      "speakers": [
+        "Whiz O'Brien"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "apostle"
+      ]
+    },
+    {
+      "key": "449be4c0cfd581396cfa867c8c848822e982d428",
+      "title": "Strange Aeons Episode 12 – Channel Positive Cabbage",
+      "published_at": "2022-06-09T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-12-channel-positive-cabbage-0_1ncqhM",
+      "description": "It was a hot night in Boston as your old buddy Troy returned to his hometown with four losers he met outside a Home Depot looking for work. The Beantown crowd was on fire as expected and the boys made more progress in the game than any show yet! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/QbaB-bbOtp8 Recap 14:43 Gameplay 28:09 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/63369be7-f4ca-46f4-a3be-167c21db3f62/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=63369be7-f4ca-46f4-a3be-167c21db3f62&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "129328472",
+      "itunes_duration": "02:14:42",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "channel",
+        "positive",
+        "cabbage"
+      ]
+    },
+    {
+      "key": "103c309eece4d0c2bda3e8f39256bcc3d34a8c07",
+      "title": "Strange Aeons Episode 11 – Kids in the Hallway (of Blood)",
+      "published_at": "2022-06-08T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-11-kids-in-the-hallway-of-blood-6yQ59RSf",
+      "description": "The Glass Cannon crew returned to the scene of the crime at The Bootleg Theater in LA for another wild installment of their Strange Aeons campaign! It was the one year anniversary of the first Glass Cannon Live! show and when you start the night submerged in a hallway full of blood, you know it's going to be a fun night! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/VxqB7LSJdaE Recap 15:45 Gameplay 23:41 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4b776214-683c-4801-9638-593125361d7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4b776214-683c-4801-9638-593125361d7a&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "134223352",
+      "itunes_duration": "02:19:48",
+      "speakers": [
+        "Glass Cannon"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "hallway",
+        "blood"
+      ]
+    },
+    {
+      "key": "b110e219924b8e1c6799186ae68a4edec7d3781d",
+      "title": "Strange Aeons Episode 10 – Flashbacks and Handouts",
+      "published_at": "2022-06-07T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-10-flashbacks-and-handouts-4tHaIcpu",
+      "description": "Your favorite nerds were in HOTLANTA for the weekend celebrating Dragon Con 2019, but the real action happened Saturday night at the Masquerade where the story was blown wide open, tantalizing treasure was discovered and handouts...were HANDED OUT! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/kVtPhOlrbWE Recap 13:11 Gameplay 20:19 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/8ea71632-d518-485d-8989-3bce71ba7aeb/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=8ea71632-d518-485d-8989-3bce71ba7aeb&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127354875",
+      "itunes_duration": "02:12:39",
+      "speakers": [
+        "Dragon Con"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "flashbacks",
+        "handout"
+      ]
+    },
+    {
+      "key": "0539ec33d353c92849ae556693430fa265e70939",
+      "title": "Strange Aeons Episode 9 – Sweet, Sweet Marguerite",
+      "published_at": "2022-06-06T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-9-sweet-sweet-marguerite-knAW_QR8",
+      "description": "Less than 48 hours later, the boys were back at the HI-FI for their second Glass Cannon Live! show of the GenCon 2019 weekend. This was a party from start to finish as the SOLD OUT crowd spit in the face of the don't send drinks rule, but that didn't stop our heroes from uncovering some campaign shattering information! This is one you have to see to believe or, if you are Matthew and Grant, to remember. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/t4scfocyOdQ Recap 11:03 Gameplay 18:40 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/fd469881-59a8-4652-b9d1-b535c1f2eb2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=fd469881-59a8-4652-b9d1-b535c1f2eb2f&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "131944381",
+      "itunes_duration": "02:17:26",
+      "speakers": [
+        "Sweet Marguerite"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "sweet",
+        "marguerite"
+      ]
+    },
+    {
+      "key": "e6bea6ce9004bd937a0251f833ed21f4e15e3290",
+      "title": "The Giantslayer Goodbye Party",
+      "published_at": "2022-06-03T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-giantslayer-goodbye-party-0hrqHa8x",
+      "description": "Seven years in the making, it's the Giantslayer Goodbye Party which aired LIVE on Twitch on 5/19/22. Join Troy, Joe, Skid, Matthew and Grant as they take a walk down memory lane through all six books of the Giantslayer Adventure Path. As this was a highly visual event, we suggest watching the video on YouTube here: https://youtu.be/9n705weet4M For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4094157a-0bce-4ac6-8f3e-cb58a363dfa2/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4094157a-0bce-4ac6-8f3e-cb58a363dfa2&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "190111098",
+      "itunes_duration": "03:18:01",
+      "speakers": [
+        "Giantslayer Goodbye Party"
+      ],
+      "topics": [
+        "giantslayer",
+        "goodbye",
+        "party"
+      ]
+    },
+    {
+      "key": "939e2c0df31ec0256a94f36293d7b75754cba727",
+      "title": "Strange Aeons Episode 8 – I Stole Her Soul",
+      "published_at": "2022-06-02T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-8-i-stole-her-soul-TzqHMzJE",
+      "description": "We kicked off GenCon 2019 with the first of two sold out shows at the HI-FI in Indianapolis and things were out of control as usual. The secrets of Briarstone Asylum continued to come to light and a familiar face made their not so triumphant return! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa of The Glass Cannon Network along with special guest Paizo's own Erik Mona as they continue the Lovecraftian Horror Strange Aeons Adventure Path! Watch the video here: https://youtu.be/p4KWkCCbiJg Recap 19:07 Gameplay 24:27 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4b0ff736-609f-40f9-81bc-761cb9159205/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4b0ff736-609f-40f9-81bc-761cb9159205&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114815771",
+      "itunes_duration": "01:59:35",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "soul"
+      ]
+    },
+    {
+      "key": "d8ba27390879ac1a31c1bb63065a1f976813cdd5",
+      "title": "Strange Aeons Episode 7 – Hooked on Phonics",
+      "published_at": "2022-06-01T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-7-hooked-on-phonics-xzZGK2zC",
+      "description": "Glass Cannon Nation celebrated Memorial Day weekend in style with another sold out show at Neumos in Seattle during PaizoCon weekend! The plot thickened as the heroes dug deeper into the mysteries of the asylum uncovering disturbing clues and events from both the past and present. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/QEOpWNTrPcs Recap 10:38 Gameplay 16:30 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/1bfa1d98-ede7-4532-a212-2da0d5c06015/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=1bfa1d98-ede7-4532-a212-2da0d5c06015&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "118087943",
+      "itunes_duration": "02:03:00",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "hooked",
+        "phonic"
+      ]
+    },
+    {
+      "key": "cbaf854533647ff7ccf0561e832ba6cbe981c1e0",
+      "title": "Strange Aeons Episode 6 – What Am I Become?",
+      "published_at": "2022-05-31T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-6-what-am-i-become-V1SSP0fC",
+      "description": "We were SOLT OUT at The Bell House in Brooklyn NYC for another raucous installment of Glass Cannon Live! After being welcomed into the chapel by Winter and her merry band of log-lovers, the party found themselves eye to eye with an actual EYE! With the possibility of freedom and clues to who they are just out of reach, the stakes were higher than ever. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they continue the Lovecraftian Horror Strange Aeons Adventure Path! Watch the video here: https://youtu.be/tc_p2DwVy8I Recap 8:32 Gameplay 16:25 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/aea30c53-31ac-4672-9854-6a3f672b7f7d/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=aea30c53-31ac-4672-9854-6a3f672b7f7d&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119318506",
+      "itunes_duration": "02:04:17",
+      "speakers": [
+        "What Am",
+        "Glass Cannon"
+      ],
+      "topics": [
+        "strange",
+        "aeons"
+      ]
+    },
+    {
+      "key": "c7a2c69d5701c238fa2735e427fe2c14089294b5",
+      "title": "Strange Aeons Episode 5 – Praise Log!",
+      "published_at": "2022-05-30T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-5-praise-log-CPEWQzF2",
+      "description": "Portland, Oregon was ROCKING for a sold out show at The Mission Theater as the newly leveled heroes got behind the barricade and discovered the survivors of the asylum uprising! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/1SGxmmedRyo Recap 12:00 Gameplay 24:53 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a50b8702-8cca-4a4b-bf58-9267e6e95e62/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a50b8702-8cca-4a4b-bf58-9267e6e95e62&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "126276384",
+      "itunes_duration": "02:11:32",
+      "speakers": [
+        "Praise Log"
+      ],
+      "topics": [
+        "strange",
+        "aeons",
+        "praise"
+      ]
+    },
+    {
+      "key": "831cba8ab7c9069c16f48847bcf987ff48d578f4",
+      "title": "Strange Aeons Episode 4 – Words Fail",
+      "published_at": "2022-05-26T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-4-words-fail-2mfkhOnG",
+      "description": "They say everything's bigger and better in Texas and this absurd romp through drunken cosmic terror was no exception. The boys came to Dallas and took no prisoners as the heroes continued their search of this eerie asylum and the fellas continued their manic descent into cirrhosis. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they tour the country playing the Lovecraftian Horror Strange Aeons Pathfinder Adventure Path. Watch the video here: https://youtu.be/uDJfQb6avvY Recap 15:47 Gameplay 19:01 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/fcc320e9-46b3-44df-8475-1d0998a9ea46/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=fcc320e9-46b3-44df-8475-1d0998a9ea46&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "135404824",
+      "itunes_duration": "02:21:02",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "word"
+      ]
+    },
+    {
+      "key": "1da34991675b4696b056df69f709284a0cbd8c5a",
+      "title": "Strange Aeons Episode 3 – Unconscious and Dying",
+      "published_at": "2022-05-25T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-3-unconscious-and-dying-_51IBGls",
+      "description": "The boys of the Glass Cannon Network kick off 2019 with a sold out show at Lincoln Hall in Chicago. It was cold outside, but it was HOT at the table, as all hell broke loose and a couple things most definitely happened. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa as they continue the Lovecraftian Horror Strange Aeons Adventure Path! Watch the video here: https://youtu.be/4y7XxSRzbe8 Recap 19:58 Gameplay 26:51 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/cd2c05cf-e6ad-4306-82e0-067560bd1ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=cd2c05cf-e6ad-4306-82e0-067560bd1ac8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111758194",
+      "itunes_duration": "01:56:24",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons"
+      ]
+    },
+    {
+      "key": "14a2e38493a064c75d53c11c6c800930b711d8ba",
+      "title": "Strange Aeons Episode 2 – As If You Didn't Know",
+      "published_at": "2022-05-24T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-2-as-if-you-didn-t-know-XB49kqmf",
+      "description": "Your favorite nerds are back with more Strange Aeons LIVE from PAX Unplugged 2018 in Philly! Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa of The Glass Cannon Network along with special guest Paizo's own Erik Mona as they continue the Lovecraftian Horror Strange Aeons Adventure Path! Watch the video here: https://youtu.be/-0gUKm8XK2I Recap 7:08 Gameplay 11:04 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/47df6f15-0386-4f4b-90bc-24a360fb67e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=47df6f15-0386-4f4b-90bc-24a360fb67e0&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111661958",
+      "itunes_duration": "01:56:18",
+      "speakers": [
+        "Join Tr"
+      ],
+      "topics": [
+        "strange",
+        "aeons"
+      ]
+    },
+    {
+      "key": "af2c223eb6a6e1726d2a84de4d4f92ee61d0b9b9",
+      "title": "Strange Aeons Episode 1 – The Green Loser",
+      "published_at": "2022-05-23T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strange-aeons-episode-1-the-green-loser-a9ozQsR5",
+      "description": "The lovable miscreants behind The Glass Cannon Podcast took their show on the road in October of 2018 to kick off a US Tour at the Bootleg Theater in Los Angeles. Join Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger and Matthew Capodicasa of The Glass Cannon Network as they begin the Lovecraftian Horror Strange Aeons Adventure Path! Watch the video hero: https://youtu.be/0UAqWotIAUw Gameplay 15:51 For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/da6ddd11-4a63-445c-b1b9-3c163f421493/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=da6ddd11-4a63-445c-b1b9-3c163f421493&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121291744",
+      "itunes_duration": "02:06:20",
+      "speakers": [],
+      "topics": [
+        "strange",
+        "aeons",
+        "green",
+        "loser"
+      ]
+    },
+    {
+      "key": "71a3c8123a6269ff831ba0bf6c808c284d23532e",
+      "title": "Downtime Dynasty | Haunted City S1 E13 | Blades in the Dark",
+      "published_at": "2022-05-20T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/downtime-dynasty-haunted-city-s1-e13-blades-in-the-dark-fCdk1tQl",
+      "description": "The crew communes with The Builder, and Seljak reconnects with family. Watch the video here: https://youtu.be/TK1A_FlnxtQ Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/1d8342c6-3a29-41ba-bfcd-bed33b639fcc/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d8511391-7d68-4b9e-909d-9cfd672c2d6c/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d8511391-7d68-4b9e-909d-9cfd672c2d6c&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111267495",
+      "itunes_duration": "01:55:19",
+      "speakers": [],
+      "topics": [
+        "downtime",
+        "dynasty",
+        "haunted",
+        "city",
+        "blades",
+        "dark"
+      ]
+    },
+    {
+      "key": "7860d1ae9893c45cac0275193b87a201c04d25ce",
+      "title": "A Couple Things Happened | The Glass Cannon Podcast Giantslayer E326 Part 3 | Pathfinder 1E",
+      "published_at": "2022-05-17T04:03:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/a-couple-things-happened-the-glass-cannon-podcast-giantslayer-e326-part-3-pathfinder-1e-LlVhMB59",
+      "description": "With the Storm Tyrant defeated, the heroes face a series of critical decisions as the seven year Giantslayer campaign that launched the Glass Cannon Network comes to its long-anticipated conclusion! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2254f5ec-9d36-465a-be19-3484f0ebf55a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2254f5ec-9d36-465a-be19-3484f0ebf55a&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "179248219",
+      "itunes_duration": "03:06:08",
+      "speakers": [],
+      "topics": [
+        "couple",
+        "thing",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "548009b07f7b8ff8c440fb95ec801a91104b6327",
+      "title": "A Couple Things Happened | The Glass Cannon Podcast Giantslayer E326 Part 2 | Pathfinder 1E",
+      "published_at": "2022-05-17T04:02:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/a-couple-things-happened-the-glass-cannon-podcast-giantslayer-e326-part-2-pathfinder-1e-_62A2Lfb",
+      "description": "With the Storm Tyrant defeated, the heroes face a series of critical decisions as the seven year Giantslayer campaign that launched the Glass Cannon Network comes to its long-anticipated conclusion! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/6899ead7-c145-46a5-8298-d83bcc7cfe99/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=6899ead7-c145-46a5-8298-d83bcc7cfe99&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86513943",
+      "itunes_duration": "01:29:32",
+      "speakers": [],
+      "topics": [
+        "couple",
+        "thing",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "0a75523b584459d8a98286068fa6b73e132417ce",
+      "title": "A Couple Things Happened | The Glass Cannon Podcast Giantslayer E326 Part 1 | Pathfinder 1E",
+      "published_at": "2022-05-17T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/a-couple-things-happened-the-glass-cannon-podcast-giantslayer-e326-part-1-pathfinder-1e-k_YJTtT1",
+      "description": "With the Storm Tyrant defeated, the heroes face a series of critical decisions as the seven year Giantslayer campaign that launched the Glass Cannon Network comes to its long-anticipated conclusion! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d464cb47-1814-45ab-bbd6-7524d2954ceb/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d464cb47-1814-45ab-bbd6-7524d2954ceb&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104492039",
+      "itunes_duration": "01:48:15",
+      "speakers": [],
+      "topics": [
+        "couple",
+        "thing",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "c32998307f252fa2197b481f0d5e1d6c38160382",
+      "title": "Gangs and Ghosts | Haunted City S1 E12 | Blades in the Dark",
+      "published_at": "2022-05-13T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/gangs-and-ghosts-haunted-city-s1-e12-blades-in-the-dark-0tF6Hojr",
+      "description": "The crew takes on their rival, a nasty spirit trafficker. Watch the video here: https://youtu.be/gup5R1zJPpI Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/68f4a84f-0e6a-4199-b58b-726659dc0865/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/19e68fef-7217-4275-a598-58689825481f/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=19e68fef-7217-4275-a598-58689825481f&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110649321",
+      "itunes_duration": "01:54:40",
+      "speakers": [
+        "Haunted City"
+      ],
+      "topics": [
+        "gang",
+        "ghosts",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "8bb8e05dfae4b82081a639bfad16d66d8db65d79",
+      "title": "Rain of Terror | The Glass Cannon Podcast Giantslayer E325 | Pathfinder 1E",
+      "published_at": "2022-05-10T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/rain-of-terror-the-glass-cannon-podcast-giantslayer-e325-pathfinder-1e-fUW9kQyS",
+      "description": "At long last, high above Ironcloud Keep, the heroes face Volstus the Storm Tyrant in a battle to save the world. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d5e2c2f3-1a08-41c3-be8c-3f08fea61e0f/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d5e2c2f3-1a08-41c3-be8c-3f08fea61e0f&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "177544010",
+      "itunes_duration": "03:04:21",
+      "speakers": [
+        "Ironcloud Keep"
+      ],
+      "topics": [
+        "rain",
+        "terror",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "678c951eed92bede4fa22251db7d7ef7f4978ec7",
+      "title": "Downtime Domination | Haunted City S1 E11 | Blades in the Dark",
+      "published_at": "2022-05-06T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/downtime-domination-haunted-city-s1-e11-blades-in-the-dark-fxqsvDLC",
+      "description": "The crew's long-term project comes to fruition, and a new crew member moves in. Watch the video here: https://youtu.be/-UnWRQn6k9A Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/7e40d37a-c096-41e8-aedc-dccc5fde63e2/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/67e46f3d-8829-4d03-a4bb-ece1fd7aabde/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=67e46f3d-8829-4d03-a4bb-ece1fd7aabde&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106773610",
+      "itunes_duration": "01:50:38",
+      "speakers": [
+        "Downtime Domination",
+        "Haunted City"
+      ],
+      "topics": [
+        "downtime",
+        "domination",
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "2624bd7e0b703501f4edd3b218b2198c943e2612",
+      "title": "Every Death You Snake | The Glass Cannon Podcast Giantslayer E324 | Pathfinder 1E",
+      "published_at": "2022-05-03T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/every-death-you-snake-the-glass-cannon-podcast-giantslayer-e324-pathfinder-1e-Qtq0TI52",
+      "description": "A mad dash throughout the castle brings the heroes face to face once again with the powerful spirit naga sorcerer Liniratis. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4d665ed9-6e8e-419b-b339-ea9ff2ea8a7d/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4d665ed9-6e8e-419b-b339-ea9ff2ea8a7d&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "161165474",
+      "itunes_duration": "02:47:17",
+      "speakers": [],
+      "topics": [
+        "death",
+        "snake",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "0ea00be2f8b76fb5cce49af6807ab0c63e7bb3b2",
+      "title": "Just Your Basic B&E | Haunted City S1 E10 | Blades in the Dark",
+      "published_at": "2022-04-29T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/just-your-basic-b-e-haunted-city-s1-e10-blades-in-the-dark-goKi_auw",
+      "description": "The crew breaks into a mansion and takes things out of it. Watch the video here: https://youtu.be/APnBRbmTMks Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/6489750c-3af1-45e9-bd19-77a8a087a84a/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/37b58ff2-e348-4984-be9c-bfa5e85931cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=37b58ff2-e348-4984-be9c-bfa5e85931cd&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113930713",
+      "itunes_duration": "01:58:05",
+      "speakers": [
+        "Haunted City"
+      ],
+      "topics": [
+        "haunted",
+        "city",
+        "blade",
+        "dark"
+      ]
+    },
+    {
+      "key": "62bc3d6758046387abfedbfb9250e86de90628c2",
+      "title": "Introducing Ekeprag Wodi | Haunted City S1 E9 | Blades in the Dark",
+      "published_at": "2022-04-22T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/introducing-ekeprag-wodi-haunted-city-s1-e9-blades-in-the-dark-3BcBDSMR",
+      "description": "The crew recovers and meets a new ally with an outrageous name. Watch the video here: https://youtu.be/KoG2BTsGRww Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/1cd9c379-5e38-45da-8380-2769e4628402/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/1fb60edd-0744-498c-a0d0-6c492503f2a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=1fb60edd-0744-498c-a0d0-6c492503f2a6&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107605746",
+      "itunes_duration": "01:51:30",
+      "speakers": [
+        "Ekeprag Wodi"
+      ],
+      "topics": [
+        "ekeprag",
+        "wodi",
+        "haunted",
+        "city",
+        "blades",
+        "dark"
+      ]
+    },
+    {
+      "key": "916c9499013063795643451e96204d3f2b986989",
+      "title": "Demons and Detectives | Haunted City S1 E8 | Blades in the Dark",
+      "published_at": "2022-04-15T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/demons-and-detectives-haunted-city-s1-e8-blades-in-the-dark-KlnSR6is",
+      "description": "The crew takes a job stealing from a detective to appease a demon. Watch the video here: https://youtu.be/QOvjfEc52PQ Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/69206611-5665-42c8-b931-ca1977402df8/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b9f39096-ae78-4ac2-8174-213863a58aa8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b9f39096-ae78-4ac2-8174-213863a58aa8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "123061040",
+      "itunes_duration": "02:07:36",
+      "speakers": [
+        "Haunted City"
+      ],
+      "topics": [
+        "demon",
+        "detective",
+        "haunted",
+        "city",
+        "blades",
+        "dark"
+      ]
+    },
+    {
+      "key": "3e3b08d0bb11861244a09fa141c2b344c541074e",
+      "title": "A Jimmer of Hope | The Glass Cannon Podcast Giantslayer E323 | Pathfinder 1E",
+      "published_at": "2022-04-12T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/a-jimmer-of-hope-the-glass-cannon-podcast-giantslayer-e323-pathfinder-1e-dVSosU_U",
+      "description": "The heroes come upon an old ally while exploring the final rooms of Ironcloud Keep. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2b66568d-a1dd-469c-a9b6-7799f54ddf3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2b66568d-a1dd-469c-a9b6-7799f54ddf3e&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101320320",
+      "itunes_duration": "01:44:57",
+      "speakers": [
+        "Ironcloud Keep"
+      ],
+      "topics": [
+        "jimmer",
+        "hope",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "9aad24563dcf4e51f3bfe56af43a97fce1d31b8f",
+      "title": "Downtime Delirium | Haunted City S1 E7 | Blades in the Dark",
+      "published_at": "2022-04-08T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/downtime-delirium-haunted-city-s1-e7-blades-in-the-dark-zkS9dROx",
+      "description": "The crew goes a bit too far indulging their vices. Watch the video here: https://youtu.be/iG6zCKLdZPw Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/982aced6-db42-482c-88e4-8392d8cd607e/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/90794dee-96e3-4e85-b425-013d9231c6ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=90794dee-96e3-4e85-b425-013d9231c6ae&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "115999182",
+      "itunes_duration": "02:00:15",
+      "speakers": [
+        "Downtime Delirium",
+        "Haunted City"
+      ],
+      "topics": [
+        "downtime",
+        "delirium",
+        "haunted",
+        "city",
+        "blades",
+        "dark"
+      ]
+    },
+    {
+      "key": "167166663126d4dbe16c69be9faa4dfd11be7b96",
+      "title": "Gone with the Skinned | The Glass Cannon Podcast Giantslayer E322 | Pathfinder 1E",
+      "published_at": "2022-04-05T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/gone-with-the-skinned-the-glass-cannon-podcast-giantslayer-e322-pathfinder-1e-WynghQI2",
+      "description": "The heroes try to cope with an unexpected loss so close to the end of their journey. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/9ba08064-1e22-487c-8fb6-c597e8180630/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=9ba08064-1e22-487c-8fb6-c597e8180630&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "123213447",
+      "itunes_duration": "02:07:45",
+      "speakers": [],
+      "topics": [
+        "skinned",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "3143331d59ec1f3f3ddcfcf3cbdb81be25c46c19",
+      "title": "Science and Sabotage | Haunted City S1 E6 | Blades in the Dark",
+      "published_at": "2022-04-01T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/science-and-sabotage-haunted-city-s1-e6-blades-in-the-dark-G_gtTzKd",
+      "description": "The crew tries to sabotage a scientific demonstration. Watch the video here: https://youtu.be/GOlOJiHG8r8 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/40a0208e-08b5-4489-9b20-271c970b578d/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/7b2a056a-0602-4164-b5a9-adc6ac2fd6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=7b2a056a-0602-4164-b5a9-adc6ac2fd6cc&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98095072",
+      "itunes_duration": "01:41:36",
+      "speakers": [
+        "Haunted City"
+      ],
+      "topics": [
+        "science",
+        "sabotage",
+        "haunted",
+        "city",
+        "blades",
+        "dark"
+      ]
+    },
+    {
+      "key": "570c4843433e98102b57222be9b6df9da46d055b",
+      "title": "Coyne Flip | The Glass Cannon Podcast Giantslayer E321 | Pathfinder 1E",
+      "published_at": "2022-03-29T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/coyne-flip-the-glass-cannon-podcast-giantslayer-e321-pathfinder-1e-hqa8YVB3",
+      "description": "A horrifying entity catches Nestor alone atop the Roost Tower Mezzanine of Ironcloud Keep. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d995b571-a773-46e8-a66f-f0ebff13d494/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d995b571-a773-46e8-a66f-f0ebff13d494&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76876821",
+      "itunes_duration": "01:19:29",
+      "speakers": [
+        "Coyne Flip",
+        "Ironcloud Keep"
+      ],
+      "topics": [
+        "coyne",
+        "flip",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "91fe993dd77a65bfd0b6f804677cd884383f2e85",
+      "title": "Death and Downtime | Haunted City S1 E5 | Blades in the Dark",
+      "published_at": "2022-03-25T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/death-and-downtime-haunted-city-s1-e5-blades-in-the-dark-2p0pEEak",
+      "description": "The crew considers resurrecting a loved one and killing an enemy. Watch the video here: https://youtu.be/muGElP1tuzQ Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/69d192c2-35b6-4f6a-864d-66c5f19b29c8/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/9df19f56-bdc4-4bd0-8aaf-4f089fe456f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=9df19f56-bdc4-4bd0-8aaf-4f089fe456f0&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119684762",
+      "itunes_duration": "02:04:05",
+      "speakers": [
+        "Haunted City"
+      ],
+      "topics": [
+        "death",
+        "downtime",
+        "haunted",
+        "city",
+        "blades",
+        "dark"
+      ]
+    },
+    {
+      "key": "d29a2c0fb35cd83937f95dbe951736c701402a62",
+      "title": "Hand Theft Auto | The Glass Cannon Podcast Giantslayer E320 | Pathfinder 1E",
+      "published_at": "2022-03-22T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/hand-theft-auto-the-glass-cannon-podcast-giantslayer-e320-pathfinder-1e-GpxeEPVS",
+      "description": "The party confront Nestor about his latest bold choice. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c80f708e-860f-4da2-bcd1-d2b82bedbe68/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c80f708e-860f-4da2-bcd1-d2b82bedbe68&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61268070",
+      "itunes_duration": "01:03:14",
+      "speakers": [],
+      "topics": [
+        "hand",
+        "theft",
+        "auto",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "5c408fa067b85b0c2dbdbb22e7823e8b9c1bde2d",
+      "title": "Unsafe Deposit Box | Haunted City S1 E4 | Blades in the Dark",
+      "published_at": "2022-03-18T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/unsafe-deposit-box-haunted-city-s1-e4-blades-in-the-dark-rLV7p5L3",
+      "description": "The crew robs a bank. Watch the video here: https://youtu.be/VFp-IMzkQrc Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/b2745201-dccf-44c1-904f-767e0d9e1ae8/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/0e71ab3a-5928-41d7-9d69-e51f920d87da/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=0e71ab3a-5928-41d7-9d69-e51f920d87da&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96454129",
+      "itunes_duration": "01:39:53",
+      "speakers": [],
+      "topics": [
+        "unsafe",
+        "deposit",
+        "haunted",
+        "city",
+        "blades",
+        "dark"
+      ]
+    },
+    {
+      "key": "4d01e21df1cf450d5312e4ab6abdaeb6fe2aa860",
+      "title": "Free Will? Roc You? | The Glass Cannon Podcast Giantslayer E319 | Pathfinder 1E",
+      "published_at": "2022-03-15T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/free-will-roc-you-the-glass-cannon-podcast-giantslayer-e319-pathfinder-1e-EPkU3QXW",
+      "description": "With Sir Will trapped within the jaws of the roc, his allies must act quickly to save him as well as themselves. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a9ee36e7-94f6-4bcd-b5a2-dccf3900915c/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a9ee36e7-94f6-4bcd-b5a2-dccf3900915c&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64862219",
+      "itunes_duration": "01:06:58",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "06853c328eb7779c775f797feeb15da65986a96f",
+      "title": "Downtime in the Dusk | Haunted City S1 E3 | Blades in the Dark",
+      "published_at": "2022-03-11T05:10:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/downtime-in-the-dusk-haunted-city-s1-e3-blades-in-the-dark-hptHDzF8",
+      "description": "The crew heals, trains and tries to reduce the heat from that wild score. Watch the video here: https://youtu.be/NZ67_GbjdIk Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/64f25295-adb3-4103-b3aa-ee8b45527803/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f5d08ad6-b768-4a70-8856-7f3543b02095/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f5d08ad6-b768-4a70-8856-7f3543b02095&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124987002",
+      "itunes_duration": "02:09:36",
+      "speakers": [
+        "Haunted City"
+      ],
+      "topics": [
+        "downtime",
+        "dusk",
+        "haunted",
+        "city",
+        "blades",
+        "dark"
+      ]
+    },
+    {
+      "key": "6be6a81c0d61977df3f7499a292519ec15c6395a",
+      "title": "Between a Roc and a Hard Place | The Glass Cannon Podcast Giantslayer E318 | Pathfinder 1E",
+      "published_at": "2022-03-08T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/between-a-roc-and-a-hard-place-the-glass-cannon-podcast-giantslayer-e318-pathfinder-1e-vZjg2xg3",
+      "description": "The cloud giant Nalbur returns astride his roc mount to rain down pain upon the heroes! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/8ffb920e-e3a8-4651-b7fb-58c53aad49ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=8ffb920e-e3a8-4651-b7fb-58c53aad49ff&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71085592",
+      "itunes_duration": "01:13:27",
+      "speakers": [
+        "Hard Place"
+      ],
+      "topics": [
+        "hard",
+        "place",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "605b18c18883859d97c711797e2698929b925b6f",
+      "title": "Electroplasm Heist | Haunted City S1 E2 | Blades in the Dark",
+      "published_at": "2022-03-04T05:05:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/electroplasm-heist-haunted-city-s1-e2-blades-in-the-dark-vvjjDKRN",
+      "description": "The crew uses occult tactics to illegally procure a supply of electroplasm. Watch the video here: https://youtu.be/DatrNdb6pfg Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/f8fbfb3c-f851-4de4-99ed-e89f41550eb0/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/90c3cda4-9a6e-4f85-9903-2a85a91a6cb4/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=90c3cda4-9a6e-4f85-9903-2a85a91a6cb4&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "128101634",
+      "itunes_duration": "02:12:51",
+      "speakers": [
+        "Electroplasm Heist",
+        "Haunted City"
+      ],
+      "topics": [
+        "electroplasm",
+        "heist",
+        "haunted",
+        "city",
+        "blades",
+        "dark"
+      ]
+    },
+    {
+      "key": "d189f70a7d1f4122a3f0a45a5dd61206967ebba3",
+      "title": "Some Dying, a Witch and Her Wardrobe | The Glass Cannon Podcast Giantslayer E317 | Pathfinder 1E",
+      "published_at": "2022-03-01T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/some-dying-a-witch-and-her-wardrobe-the-glass-cannon-podcast-giantslayer-e317-pathfinder-1e-tZKHFJbD",
+      "description": "A enchanting spellcaster threatens to end the heroes' journey. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/539b78d2-4d98-4839-a155-3b5bc38c3784/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=539b78d2-4d98-4839-a155-3b5bc38c3784&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79859347",
+      "itunes_duration": "01:22:36",
+      "speakers": [
+        "Some Dying"
+      ],
+      "topics": [
+        "dying",
+        "witch",
+        "wardrobe",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "547b33c0fac47881ef9de3f84811f061df5f747b",
+      "title": "Enter the Dusk | Haunted City S1 E1 | Blades in the Dark",
+      "published_at": "2022-02-25T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/enter-the-dusk-haunted-city-s1-e1-blades-in-the-dark-n_ynFGef",
+      "description": "Gamemaster Jared Logan leads an all-star ensemble featuring Abubakar Salim, Josephine McAdam and Ross Bryant through character and crew creation as they begin their exploration of Duskvol's underworld in the premiere of our first Blades in the Dark series! Watch the video here: https://youtu.be/VT04k7d74yg Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/a030d1b1-a387-4ea3-b34e-93c253fc9a0e/3000x3000/a3f1edbae52be4246cb9c5cf56cef4dd.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c1b25c1b-bf59-470e-881f-d2fc983b5380/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c1b25c1b-bf59-470e-881f-d2fc983b5380&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111267660",
+      "itunes_duration": "01:55:19",
+      "speakers": [
+        "Abubakar Salim",
+        "Josephine McAdam"
+      ],
+      "topics": [
+        "dusk",
+        "haunted",
+        "city",
+        "blades",
+        "dark"
+      ]
+    },
+    {
+      "key": "d779ae81ff619b1824c5fab6e569175950685970",
+      "title": "Skies Wide Shut | The Glass Cannon Podcast Giantslayer E316 | Pathfinder 1E",
+      "published_at": "2022-02-22T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/skies-wide-shut-the-glass-cannon-podcast-giantslayer-e316-pathfinder-1e-V00jdZNz",
+      "description": "In a strange room open to the skies above and around them, the heroes are confronted by a terrifying new foe. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/0e9d176f-6e44-491b-ad36-881e42bb14da/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=0e9d176f-6e44-491b-ad36-881e42bb14da&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82406882",
+      "itunes_duration": "01:25:15",
+      "speakers": [
+        "Skies Wide Shut"
+      ],
+      "topics": [
+        "shut",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "d9a048443c7663beb837a9d85ed7485daf086c66",
+      "title": "Fear Window | The Glass Cannon Podcast Giantslayer E315 | Pathfinder 1E",
+      "published_at": "2022-02-15T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/fear-window-the-glass-cannon-podcast-giantslayer-e315-pathfinder-1e-mIjQBsKB",
+      "description": "With Sir Will back to his senses, the heroes ascend to the next floor of the castle. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/ad704691-cbdf-449e-b221-7ccf8c2ca138/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=ad704691-cbdf-449e-b221-7ccf8c2ca138&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84709783",
+      "itunes_duration": "01:27:39",
+      "speakers": [],
+      "topics": [
+        "window",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "61df8455fb663c411ff84bad39d5bbfdd757ea01",
+      "title": "Chapeled Condition | The Glass Cannon Podcast Giantslayer E314 | Pathfinder 1E",
+      "published_at": "2022-02-08T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/chapeled-condition-the-glass-cannon-podcast-giantslayer-e314-pathfinder-1e-LpeJl_oy",
+      "description": "With the platform clear of enemies, the heroes approach the chapel. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/00d05664-4b44-41f6-9844-cbc0bacdfdcf/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=00d05664-4b44-41f6-9844-cbc0bacdfdcf&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73249315",
+      "itunes_duration": "01:15:43",
+      "speakers": [],
+      "topics": [
+        "chapeled",
+        "condition",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "d987c5efe118211849bdcfb6e7202b73fefe6136",
+      "title": "Hero Gravity | The Glass Cannon Podcast Giantslayer E313 | Pathfinder 1E",
+      "published_at": "2022-02-01T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/hero-gravity-the-glass-cannon-podcast-giantslayer-e313-pathfinder-1e-lrmmXD_l",
+      "description": "In the open air outside the castle, the heroes battle enemies on two fronts! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/ea4c1183-b9d8-4331-a8e2-b996c5a26bbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=ea4c1183-b9d8-4331-a8e2-b996c5a26bbf&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85375577",
+      "itunes_duration": "01:28:20",
+      "speakers": [],
+      "topics": [
+        "hero",
+        "gravity",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "eec960191f37e12eda74e4d510f7e80af76534b0",
+      "title": "Forget Me Knot | The Glass Cannon Podcast Giantslayer E312 | Pathfinder 1E",
+      "published_at": "2022-01-25T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/forget-me-knot-the-glass-cannon-podcast-giantslayer-e312-pathfinder-1e-A2D9ElEy",
+      "description": "With the naga out of sight, the party must turn their attention to handling Sir Will and his condition. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4d0063c2-9dac-4c9b-a3fa-63e85cd01293/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4d0063c2-9dac-4c9b-a3fa-63e85cd01293&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86571832",
+      "itunes_duration": "01:29:35",
+      "speakers": [],
+      "topics": [
+        "knot",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "8306b67cf9efe8c121066da8525266fb82e33de6",
+      "title": "Face the Rainbow 4: Something Wicked This Spray Comes | The Glass Cannon Podcast Giantslayer E311 | Pathfinder 1E",
+      "published_at": "2022-01-18T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/face-the-rainbow-4-something-wicked-this-spray-comes-the-glass-cannon-podcast-giantslayer-e311-pathfinder-1e-q0z3_RE0",
+      "description": "As the heroes struggle to finish off the Liniratis, the naga still has a few tricks up her sleeve. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/99294749-6eb4-4f75-b53c-5c3d39c28825/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=99294749-6eb4-4f75-b53c-5c3d39c28825&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59172965",
+      "itunes_duration": "01:01:03",
+      "speakers": [],
+      "topics": [
+        "rainbow",
+        "wicked",
+        "spray",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "e3641791452662880cd5a2bcc99b787ea285abaf",
+      "title": "Face the Rainbow 3: Snake and the Gat Man | The Glass Cannon Podcast Giantslayer E310 | Pathfinder 1E",
+      "published_at": "2022-01-11T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/face-the-rainbow-3-snake-and-the-gat-man-the-glass-cannon-podcast-giantslayer-e310-pathfinder-1e-jZ1aVeaS",
+      "description": "The naga's relentless barrage pushes the crew to the brink! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d89c0e8b-1601-4bea-b469-708aa61c1347/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d89c0e8b-1601-4bea-b469-708aa61c1347&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70326951",
+      "itunes_duration": "01:12:40",
+      "speakers": [
+        "Gat Man"
+      ],
+      "topics": [
+        "rainbow",
+        "snake",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "fcfdc869d280bdda199ae05f7bab037343975918",
+      "title": "Face the Rainbow 2: One Crazy Knight | The Glass Cannon Podcast Giantslayer E309 | Pathfinder 1E",
+      "published_at": "2022-01-04T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/face-the-rainbow-2-one-crazy-knight-the-glass-cannon-podcast-giantslayer-e309-pathfinder-1e-1g2b7KNc",
+      "description": "The battle with the spirit naga and her prismatic spray barrage continues! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/00f68288-4db4-4a07-b170-2c24cc376f55/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=00f68288-4db4-4a07-b170-2c24cc376f55&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66835763",
+      "itunes_duration": "01:09:02",
+      "speakers": [],
+      "topics": [
+        "rainbow",
+        "crazy",
+        "knight",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6afe0fca766ea4e9002950f318302da364b4733d",
+      "title": "Face the Rainbow | The Glass Cannon Podcast Giantslayer E308 | Pathfinder 1E",
+      "published_at": "2021-12-21T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/face-the-rainbow-the-glass-cannon-podcast-giantslayer-e308-pathfinder-1e-r6pNIias",
+      "description": "The heroes face off against one of Volstus' most powerful allies. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/e5108759-0c0e-42a5-a5fa-e51796c1dec3/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=e5108759-0c0e-42a5-a5fa-e51796c1dec3&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58592734",
+      "itunes_duration": "01:00:27",
+      "speakers": [],
+      "topics": [
+        "rainbow",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "9cd75e1ea0205a1cccdc13f7974f0203984122bc",
+      "title": "GL Numbs | The Glass Cannon Podcast Giantslayer E307 | Pathfinder 1E",
+      "published_at": "2021-12-14T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/gl-numbs-the-glass-cannon-podcast-giantslayer-e307-pathfinder-1e-1ktDypRD",
+      "description": "With the golem and elementals narrowly defeated, the heroes press on. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d176326a-d277-49bb-8b82-877c3413a962/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d176326a-d277-49bb-8b82-877c3413a962&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70966416",
+      "itunes_duration": "01:13:20",
+      "speakers": [
+        "narrowly defeated"
+      ],
+      "topics": [
+        "numbs",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "ebed13b3b1503ecdd1e8bbf7298328157809c82f",
+      "title": "The Fountaindead | The Glass Cannon Podcast Giantslayer E306 | Pathfinder 1E",
+      "published_at": "2021-12-07T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-fountaindead-the-glass-cannon-podcast-giantslayer-e306-pathfinder-1e-G6hHyxTq",
+      "description": "Watery vortexes engulf the heroes as a creature made of liquid metal threatens to end the entire mission. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/aed8e238-fbb8-4c00-a2d3-b2ffb13bfabb/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=aed8e238-fbb8-4c00-a2d3-b2ffb13bfabb&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83416246",
+      "itunes_duration": "01:26:18",
+      "speakers": [],
+      "topics": [
+        "fountaindead",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "3a9d68414bd707d3807ea92aaaf809e432d51b6b",
+      "title": "Dead Above Water | The Glass Cannon Podcast Giantslayer E305 | Pathfinder 1E",
+      "published_at": "2021-11-30T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/dead-above-water-the-glass-cannon-podcast-giantslayer-e305-pathfinder-1e-ihvTaKuP",
+      "description": "With the Abyss Gigas defeated, the heroes' remaining options on this level of the castle are few. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/7ca67ece-820f-4396-829c-3ee4d0e1e716/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=7ca67ece-820f-4396-829c-3ee4d0e1e716&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68858712",
+      "itunes_duration": "01:11:08",
+      "speakers": [],
+      "topics": [
+        "water",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f603ed14ff8508dff3b8a33a12ed8f87e73511e9",
+      "title": "Lancer in the Dark | The Glass Cannon Podcast Giantslayer E304 | Pathfinder 1E",
+      "published_at": "2021-11-23T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/lancer-in-the-dark-the-glass-cannon-podcast-giantslayer-e304-pathfinder-1e-7qE9fpuq",
+      "description": "After a quick regroup, the heroes charge headlong into the darkness! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/dc54efbd-005f-4df5-800a-6ed5120c69ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=dc54efbd-005f-4df5-800a-6ed5120c69ee&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105473134",
+      "itunes_duration": "01:49:17",
+      "speakers": [],
+      "topics": [
+        "lancer",
+        "dark",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "7fe327dc6cc69a7d47b3eef4d7b7993b49636c2a",
+      "title": "For Whom Dispel Tolls | The Glass Cannon Podcast Giantslayer E303 | Pathfinder 1E",
+      "published_at": "2021-11-16T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/for-whom-dispel-tolls-the-glass-cannon-podcast-giantslayer-e303-pathfinder-1e-8G_yAxYI",
+      "description": "An unseen group of enemies overwhelms the heroes! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/ddb533da-4c5f-4120-90ef-73bc74371193/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=ddb533da-4c5f-4120-90ef-73bc74371193&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71689458",
+      "itunes_duration": "01:14:05",
+      "speakers": [],
+      "topics": [
+        "dispel",
+        "toll",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "55afc9b4bd8f7b9f0bcfa9121369f30a31819e2b",
+      "title": "Where There Is Darkness, Fight | The Glass Cannon Podcast Giantslayer E302 | Pathfinder 1E",
+      "published_at": "2021-11-09T05:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/where-there-is-darkness-fight-the-glass-cannon-podcast-giantslayer-e302-pathfinder-1e-amYbIZzV",
+      "description": "After a desperate victory, the heroes push onward into darker corners of the castle. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2cfb9e6c-da22-4f70-9f5b-534e1d591add/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2cfb9e6c-da22-4f70-9f5b-534e1d591add&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72036443",
+      "itunes_duration": "01:14:27",
+      "speakers": [],
+      "topics": [
+        "darkness",
+        "fight",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "22ce823f0d4405341dde536fcfbb50000a389330",
+      "title": "Tree for the Tillerman | The Glass Cannon Podcast Giantslayer E301 | Pathfinder 1E",
+      "published_at": "2021-11-02T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/tree-for-the-tillerman-the-glass-cannon-podcast-giantslayer-e301-pathfinder-1e-0ad_S8RO",
+      "description": "The March to the End begins with a colossal problem. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/43bab741-27a7-408f-81b7-daa3add8f256/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=43bab741-27a7-408f-81b7-daa3add8f256&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72759441",
+      "itunes_duration": "01:15:12",
+      "speakers": [],
+      "topics": [
+        "tree",
+        "tillerman",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "8a35d51b2032b771915453b7421d55195645cd26",
+      "title": "Master and a Brandyr | The Glass Cannon Podcast Giantslayer E300 Part 2 | Pathfinder 1E",
+      "published_at": "2021-10-26T04:02:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/master-and-a-brandyr-the-glass-cannon-podcast-giantslayer-e300-part-2-pathfinder-1e-X0mEZ3db",
+      "description": "The March to 300 ends with glimpses into the past, the present and a possible future. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/940d6803-1a40-4838-8b82-191f5f6678a2/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=940d6803-1a40-4838-8b82-191f5f6678a2&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "126563398",
+      "itunes_duration": "02:11:15",
+      "speakers": [],
+      "topics": [
+        "master",
+        "brandyr",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "30e5bcc9e76a773077f73517c49a5ac0b32fb889",
+      "title": "Master and a Brandyr | The Glass Cannon Podcast Giantslayer E300 Part 1 | Pathfinder 1E",
+      "published_at": "2021-10-26T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/master-and-a-brandyr-the-glass-cannon-podcast-giantslayer-e300-part-1-pathfinder-1e-zJDDbk4P",
+      "description": "The March to 300 ends with glimpses into the past, the present and a possible future. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/8e444a51-abc6-4a6f-985a-19f2fee187d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=8e444a51-abc6-4a6f-985a-19f2fee187d3&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117535897",
+      "itunes_duration": "02:01:50",
+      "speakers": [],
+      "topics": [
+        "master",
+        "brandyr",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "d40cb1dc2903090772602ed9b46cbc5d68d042a4",
+      "title": "The Crystal Ball Inquiries | The Glass Cannon Podcast Giantslayer E299 | Pathfinder 1E",
+      "published_at": "2021-10-12T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-crystal-ball-inquiries-the-glass-cannon-podcast-giantslayer-e299-pathfinder-1e-1_rIVv4v",
+      "description": "A magical globe opens the heroes eyes to what may lie ahead in Ironcloud Keep. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/6ccf8661-d2ca-4c02-9685-c8b339c09059/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=6ccf8661-d2ca-4c02-9685-c8b339c09059&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78544052",
+      "itunes_duration": "01:21:13",
+      "speakers": [
+        "Ironcloud Keep"
+      ],
+      "topics": [
+        "crystal",
+        "ball",
+        "inquiries",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2876b01db317a61b5e0f9da0e3b33145e0c65a2b",
+      "title": "Man, It's So Cloud in Here | The Glass Cannon Podcast Giantslayer E298 | Pathfinder 1E",
+      "published_at": "2021-10-05T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/man-its-so-cloud-in-here-the-glass-cannon-podcast-giantslayer-e298-pathfinder-1e-gM_nsQg1",
+      "description": "The heroes get the jump on a trio of cloud giants, but a fog cloud and cunning tactics may stymie the team. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c505f959-fc06-48ef-b705-13c7683a82c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c505f959-fc06-48ef-b705-13c7683a82c8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88562174",
+      "itunes_duration": "01:31:40",
+      "speakers": [
+        "So Cloud"
+      ],
+      "topics": [
+        "cloud",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "cffbeacd5f5a7001a9ac8cc3761acd178601ddb8",
+      "title": "Cloudy with a Chance of Sweet Mauls | The Glass Cannon Podcast Giantslayer E297 | Pathfinder 1E",
+      "published_at": "2021-09-28T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cloudy-with-a-chance-of-sweet-mauls-the-glass-cannon-podcast-giantslayer-e297-pathfinder-1e-SXI9qduc",
+      "description": "With the orcs defeated, the heroes turn their attention to the rest of Ironcloud Keep's second floor. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/1f732b2a-7463-42b4-9fd9-5ce609f9d727/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=1f732b2a-7463-42b4-9fd9-5ce609f9d727&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62544629",
+      "itunes_duration": "01:04:34",
+      "speakers": [
+        "Ironcloud Keep"
+      ],
+      "topics": [
+        "chance",
+        "sweet",
+        "mauls",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "190b8513ee6f89700c25356d4c3c07becfc5a4a1",
+      "title": "Pig Spittle Flies | The Glass Cannon Podcast Giantslayer E296 | Pathfinder 1E",
+      "published_at": "2021-09-21T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/pig-spittle-flies-the-glass-cannon-podcast-giantslayer-e296-pathfinder-1e-c6gI_W4D",
+      "description": "As one member of the party is removed from the fight, the orcs unleash a chimeric pig on the rest. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a7904f7e-f2d3-4250-befd-87789d9c0e9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a7904f7e-f2d3-4250-befd-87789d9c0e9d&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73905154",
+      "itunes_duration": "01:16:24",
+      "speakers": [],
+      "topics": [
+        "spittle",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "dce3dc40090b8ee9abba0a0e95913c5d6a5830fb",
+      "title": "Gangs of New Orcs | The Glass Cannon Podcast Giantslayer E295 | Pathfinder 1E",
+      "published_at": "2021-09-14T16:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/gangs-of-new-orcs-the-glass-cannon-podcast-giantslayer-e295-pathfinder-1e-_YKKBY2Z",
+      "description": "For the first time in a long time, the heroes battle orcs from the Hold of Belkzen. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a527a298-a860-4094-aa20-43e5c4845bad/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a527a298-a860-4094-aa20-43e5c4845bad&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62451788",
+      "itunes_duration": "01:04:28",
+      "speakers": [
+        "New Orcs"
+      ],
+      "topics": [
+        "gang",
+        "orcs",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "0429840bdd396e1a49aaacdcdfa104cfb504ddbc",
+      "title": "Say No to Gugs | The Glass Cannon Podcast Giantslayer E294 | Pathfinder 1E",
+      "published_at": "2021-09-07T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/say-no-to-gugs-the-glass-cannon-podcast-giantslayer-e294-pathfinder-1e-AEFXQ8or",
+      "description": "An old wine cellar becomes a fighting pit against a host of inhuman nightmare creatures. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/1f16f02c-ecd8-4650-9a2e-c108898b60a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=1f16f02c-ecd8-4650-9a2e-c108898b60a6&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79999333",
+      "itunes_duration": "01:22:44",
+      "speakers": [],
+      "topics": [
+        "gugs",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "91db097ddc28f3956f093ff5f4aebbcf71947832",
+      "title": "Three Guys, a Girl and a Practice Mace | The Glass Cannon Podcast Giantslayer E293 | Pathfinder 1E",
+      "published_at": "2021-08-31T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/three-guys-a-girl-and-a-practice-mace-the-glass-cannon-podcast-giantslayer-e293-pathfinder-1e-W7kkRl3E",
+      "description": "An old cloud giant practice room rouses restless spirits. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/1b03337f-25f7-490e-a6ae-de5f92412628/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=1b03337f-25f7-490e-a6ae-de5f92412628&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80619128",
+      "itunes_duration": "01:23:23",
+      "speakers": [],
+      "topics": [
+        "guys",
+        "girl",
+        "practice",
+        "mace",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "af8587d49be6fb36327b5cdcf34b180c3f0eae98",
+      "title": "9 Heads and a Scuffle Scrag | The Glass Cannon Podcast Giantslayer E292 | Pathfinder 1E",
+      "published_at": "2021-08-24T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/9-heads-and-a-scuffle-scrag-the-glass-cannon-podcast-giantslayer-e292-pathfinder-1e-9BkffPW2",
+      "description": "After a surprise attack from a false ally, the newly powered heroes try to clear out another wing of the first floor. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/31318264-4d44-4a90-8edd-7e9df4e0e1a2/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=31318264-4d44-4a90-8edd-7e9df4e0e1a2&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65032646",
+      "itunes_duration": "01:07:09",
+      "speakers": [],
+      "topics": [
+        "head",
+        "scuffle",
+        "scrag",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "32ce4e9485476e66a2636ff7a8e1a5f56ecd57a9",
+      "title": "The Handmaid's Tail | The Glass Cannon Podcast Giantslayer E291 | Pathfinder 1E",
+      "published_at": "2021-08-17T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-handmaids-tail-the-glass-cannon-podcast-giantslayer-e291-pathfinder-1e-SKpRvrj_",
+      "description": "The heroes climb back down the ladder to continue clearing out the unexplored rooms on the castle's first floor. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/6745f1a9-0c1c-40fb-a52d-79b2468687ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=6745f1a9-0c1c-40fb-a52d-79b2468687ee&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74461403",
+      "itunes_duration": "01:16:58",
+      "speakers": [],
+      "topics": [
+        "handmaid",
+        "tail",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b9e3634938bc49cf37111732120316e025efd8a4",
+      "title": "The Spider House Rules | The Glass Cannon Podcast Giantslayer E290 | Pathfinder 1E",
+      "published_at": "2021-08-10T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-spider-house-rules-the-glass-cannon-podcast-giantslayer-e290-pathfinder-1e-pRwkqlsX",
+      "description": "After discovering a secret passage, the heroes climb a ladder up through several floors of the castle. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/abcf2bbf-22d1-4d03-a32f-aaa31f16564e/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=abcf2bbf-22d1-4d03-a32f-aaa31f16564e&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81685818",
+      "itunes_duration": "01:24:30",
+      "speakers": [],
+      "topics": [
+        "spider",
+        "house",
+        "rules",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f134058fa6ba48b1a29a1881f6ec694392b53c34",
+      "title": "Ladder Control Issues | The Glass Cannon Podcast Giantslayer E289 | Pathfinder 1E",
+      "published_at": "2021-08-03T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/ladder-control-issues-the-glass-cannon-podcast-giantslayer-e289-pathfinder-1e-vKIADLGl",
+      "description": "The heroes discover a secret passage that offers dangerous alternatives to their current course of action. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c9cc9d85-37e1-402a-b61a-03b8c0c26b30/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c9cc9d85-37e1-402a-b61a-03b8c0c26b30&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73624228",
+      "itunes_duration": "01:16:06",
+      "speakers": [
+        "Ladder Control Issues"
+      ],
+      "topics": [
+        "ladder",
+        "control",
+        "issue",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "a15994dedeb7efc543564217d6ee080cc5f416a7",
+      "title": "Ethereal Girl | The Glass Cannon Podcast Giantslayer E288 | Pathfinder 1E",
+      "published_at": "2021-07-27T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/ethereal-girl-the-glass-cannon-podcast-giantslayer-e288-pathfinder-1e-uFL5UWjn",
+      "description": "A stairway leading up leads to a reconnaissance jaunt on the ethereal plane. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/bfc0608a-b668-4aa4-8426-64b26cbc8a64/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=bfc0608a-b668-4aa4-8426-64b26cbc8a64&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79612278",
+      "itunes_duration": "01:22:20",
+      "speakers": [],
+      "topics": [
+        "girl",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "9d4490432b15e21e827f9be7d56f5b26fa1727c3",
+      "title": "Strand By Me | The Glass Cannon Podcast Giantslayer E287 | Pathfinder 1E",
+      "published_at": "2021-07-20T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strand-by-me-the-glass-cannon-podcast-giantslayer-e287-pathfinder-1e-fvbxOXjm",
+      "description": "With the Cloud Giant sentries kept at bay, the heroes come upon a strange rune filled room with ominous twin treasure chests. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c200fd3c-c4d4-4321-98e5-28597ee99c14/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c200fd3c-c4d4-4321-98e5-28597ee99c14&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71228056",
+      "itunes_duration": "01:13:36",
+      "speakers": [],
+      "topics": [
+        "strand",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "da86fd3409c5e31c152da3356500dfb69d4725b2",
+      "title": "Loot and Rally | The Glass Cannon Podcast Giantslayer E286 | Pathfinder 1E",
+      "published_at": "2021-07-13T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/loot-and-rally-the-glass-cannon-podcast-giantslayer-e286-pathfinder-1e-WtbS2zHE",
+      "description": "With the enemies in the warehouse defeated by Barron and Nestor, Metra and Sir Will's flight back to the elevator shaft is interrupted. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a2803603-eb57-446e-8fc7-9f2269e482a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a2803603-eb57-446e-8fc7-9f2269e482a3&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67360284",
+      "itunes_duration": "01:09:34",
+      "speakers": [],
+      "topics": [
+        "loot",
+        "rally",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "be6f754f9adce89e2a8f4f2e36ac5c00204ee6d4",
+      "title": "Any Awesome Blow, I'll Follow You Down | The Glass Cannon Podcast Giantslayer E285 | Pathfinder 1E",
+      "published_at": "2021-07-06T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/any-awesome-blow-i-ll-follow-you-down-the-glass-cannon-podcast-giantslayer-e285-pathfinder-1e-u6nBAIqI",
+      "description": "As Sir Will flies towards the open shaft leading straight out of the castle and Nestor stumbles about permanently blinded, Barron and Metra may have to decide between saving their friends or saving themselves! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/40582e80-3be1-4ad8-9f5d-705e59a8adf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=40582e80-3be1-4ad8-9f5d-705e59a8adf7&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74637856",
+      "itunes_duration": "01:17:09",
+      "speakers": [],
+      "topics": [
+        "awesome",
+        "blow",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "ff357b125287220b488400b51a16393a59c5ed0d",
+      "title": "Quake Me Home Tonight | The Glass Cannon Podcast Giantslayer E284 | Pathfinder 1E",
+      "published_at": "2021-06-29T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/quake-me-home-tonight-the-glass-cannon-podcast-giantslayer-e284-pathfinder-1e-sCTDIAGc",
+      "description": "A ferocious Taiga giant springs yet another trap on the heroes, but just when it seems they have her cornered, new foes enter the fray. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/7550b1b7-269e-4a6b-8c85-74bb3945b6ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=7550b1b7-269e-4a6b-8c85-74bb3945b6ca&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70462384",
+      "itunes_duration": "01:12:48",
+      "speakers": [],
+      "topics": [
+        "quake",
+        "home",
+        "tonight",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "678360db15bf8b851fbdd5dd12570a4822bf77d1",
+      "title": "Chainspotting | The Glass Cannon Podcast Giantslayer E283 | Pathfinder 1E",
+      "published_at": "2021-06-22T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/chainspotting-the-glass-cannon-podcast-giantslayer-e283-pathfinder-1e-V6sGvHrw",
+      "description": "As the heroes enter another floor of Ironcloud Keep, a series of traps may end this new party before it even begins. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/ddb5e660-f02d-46b8-94f8-9e1b4e1db6fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=ddb5e660-f02d-46b8-94f8-9e1b4e1db6fe&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76212236",
+      "itunes_duration": "01:18:48",
+      "speakers": [
+        "Ironcloud Keep"
+      ],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "0da7a003cca15bd52d378ad509b2dedc285fb04c",
+      "title": "Highbury Knight Lives | The Glass Cannon Podcast Giantslayer E282 | Pathfinder 1E",
+      "published_at": "2021-06-15T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/highbury-knight-lives-the-glass-cannon-podcast-giantslayer-e282-pathfinder-1e-Wgud4a3X",
+      "description": "Old friends reunite, but there's little time for pleasantries as the upstairs of Ironcloud Keep awaits! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/51a9f081-388d-4ac4-af0d-dc026975e6bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=51a9f081-388d-4ac4-af0d-dc026975e6bd&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78770972",
+      "itunes_duration": "01:21:28",
+      "speakers": [
+        "Highbury Knight Lives",
+        "Ironcloud Keep"
+      ],
+      "topics": [
+        "highbury",
+        "knight",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "531941fd833baa170012c1beb587e45ac182731d",
+      "title": "Where There's a Will, There's a Way | The Glass Cannon Podcast Giantslayer E281 | Pathfinder 1E",
+      "published_at": "2021-06-08T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/where-theres-a-will-theres-a-way-the-glass-cannon-podcast-giantslayer-e281-pathfinder-1e-rA2YUz_4",
+      "description": "Naximarra returns with grave tidings and a perilous proposition. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/be6b6d04-f18a-40c4-a3c0-a68cfffb0ebf/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=be6b6d04-f18a-40c4-a3c0-a68cfffb0ebf&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60131616",
+      "itunes_duration": "01:02:03",
+      "speakers": [
+        "grave tidings"
+      ],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "aa14af3832884d583867f387346eda45854cf430",
+      "title": "Keep Bomb and Aerie On | The Glass Cannon Podcast Giantslayer E280 | Pathfinder 1E",
+      "published_at": "2021-06-01T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/keep-bomb-and-aerie-on-the-glass-cannon-podcast-giantslayer-e280-pathfinder-1e-MGNQW9Ha",
+      "description": "After grieving for the loss of a party member, the heroes turn their attention to a bomb housed within the exoskeleton of a giant spider. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f6675674-8c2c-4af7-bf89-22850097e740/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f6675674-8c2c-4af7-bf89-22850097e740&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76251960",
+      "itunes_duration": "01:18:50",
+      "speakers": [
+        "Keep Bomb"
+      ],
+      "topics": [
+        "bomb",
+        "aerie",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "74aae356228b5cbed5a08c6428129a496886df3c",
+      "title": "Giantslayer Episode 279 - Mourning Glory",
+      "published_at": "2021-05-25T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/giantslayer-episode-279-mourning-glory-ysZiTbRg",
+      "description": "A hard fought battle was won, but at what cost? For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/39f858d4-badf-461f-ae3e-45de288c3c10/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=39f858d4-badf-461f-ae3e-45de288c3c10&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54888673",
+      "itunes_duration": "00:57:10",
+      "speakers": [
+        "Mourning Glory"
+      ],
+      "topics": [
+        "giantslayer",
+        "mourning",
+        "glory"
+      ]
+    },
+    {
+      "key": "bdc4e631add2c97e7b9c2718027509fe9781f138",
+      "title": "The Mighty Ducts 3: The Ethereal March | The Glass Cannon Podcast Giantslayer E278 | Pathfinder 1E",
+      "published_at": "2021-05-18T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-mighty-ducts-3-the-ethereal-march-the-glass-cannon-podcast-giantslayer-e278-pathfinder-1e-kTf1qhdx",
+      "description": "With one ally down, the party must come together like never before to survive an impossible assault! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/45f144b0-2094-44f1-9af3-015348fe42e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=45f144b0-2094-44f1-9af3-015348fe42e0&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "103961801",
+      "itunes_duration": "01:47:42",
+      "speakers": [
+        "ally down"
+      ],
+      "topics": [
+        "mighty",
+        "ducts",
+        "ethereal",
+        "march",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "26c10f4c71ca7905938e443ca1f795323f7144bb",
+      "title": "The Mighty Ducts 2: Once Upon a Climb | The Glass Cannon Podcast Giantslayer E277 | Pathfinder 1E",
+      "published_at": "2021-05-11T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-mighty-ducts-2-once-upon-a-climb-the-glass-cannon-podcast-giantslayer-e277-pathfinder-1e-6V_jM9Qp",
+      "description": "An ambush in the propulsion ducts leaves the heroes scrambling and outmatched! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5e62fb0d-d3f6-4234-ba8f-441f2b82fc8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5e62fb0d-d3f6-4234-ba8f-441f2b82fc8e&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72110774",
+      "itunes_duration": "01:14:31",
+      "speakers": [],
+      "topics": [
+        "mighty",
+        "ducts",
+        "climb",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "bd8216d615e7887a70a8bcbd043add400b20a22a",
+      "title": "The Mighty Ducts | The Glass Cannon Podcast Giantslayer E276 | Pathfinder 1E",
+      "published_at": "2021-05-04T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-mighty-ducts-the-glass-cannon-podcast-giantslayer-e276-pathfinder-1e-urKP4wVE",
+      "description": "A ladder leading below the engine level reveals a maze of ducts. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b07c96c8-63c1-49c5-a790-a426ec0725b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b07c96c8-63c1-49c5-a790-a426ec0725b7&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79837537",
+      "itunes_duration": "01:22:34",
+      "speakers": [],
+      "topics": [
+        "mighty",
+        "ducts",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "d542194d075724f9b751d07a85933eed2be75829",
+      "title": "The Little Engine That Should | The Glass Cannon Podcast Giantslayer E275 | Pathfinder 1E",
+      "published_at": "2021-04-27T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-little-engine-that-should-the-glass-cannon-podcast-giantslayer-e275-pathfinder-1e-532oNE3V",
+      "description": "The stone guardians continue to harry the crew as the door leading to the center of the level beckons. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/46c79f41-1b8d-45eb-b682-11a317edc5bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=46c79f41-1b8d-45eb-b682-11a317edc5bc&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71180421",
+      "itunes_duration": "01:13:33",
+      "speakers": [],
+      "topics": [
+        "little",
+        "engine",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "a497f6cfb924386b475504d19a80d860b7e3737d",
+      "title": "Trapper's Delight | The Glass Cannon Podcast Giantslayer E274 | Pathfinder 1E",
+      "published_at": "2021-04-20T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/trappers-delight-the-glass-cannon-podcast-giantslayer-e274-pathfinder-1e-Ss6uOvap",
+      "description": "A sprung trap depletes the heroes' resources as they continue their search for the Engine Room. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d83834fe-f23f-43cf-b00a-3042ace6102e/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d83834fe-f23f-43cf-b00a-3042ace6102e&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67736829",
+      "itunes_duration": "01:09:58",
+      "speakers": [
+        "Engine Room"
+      ],
+      "topics": [
+        "trapper",
+        "delight",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "d77ccb896d88e706a67265991daa3e5986938bfa",
+      "title": "A Resting Development | The Glass Cannon Podcast Giantslayer E273 | Pathfinder 1E",
+      "published_at": "2021-04-13T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/a-resting-development-the-glass-cannon-podcast-giantslayer-e273-pathfinder-1e-PSgwQ_ZG",
+      "description": "The heroes take a much needed rest before seeking out the center of Ironcloud Keep's Engine Level. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/791c5443-bbe0-4162-9b27-23d329438575/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=791c5443-bbe0-4162-9b27-23d329438575&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63593192",
+      "itunes_duration": "01:05:39",
+      "speakers": [
+        "Ironcloud Keep"
+      ],
+      "topics": [
+        "resting",
+        "development",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "ff6da00e4df1024cff9ecadf8cd7132b43eb70fb",
+      "title": "Another Day in Paralyze | The Glass Cannon Podcast Giantslayer E272 | Pathfinder 1E",
+      "published_at": "2021-04-06T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/another-day-in-paralyze-the-glass-cannon-podcast-giantslayer-e272-pathfinder-1e-oDOyZPQN",
+      "description": "With one of the team taken out of the fight, the heroes must dig deep against the paralyzing onslaught of cloud giant mohrgs. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c87d26a7-1780-49c5-88b8-f2bc98a34b13/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c87d26a7-1780-49c5-88b8-f2bc98a34b13&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71114800",
+      "itunes_duration": "01:13:29",
+      "speakers": [],
+      "topics": [
+        "paralyze",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "7fe788f5e088bb16e4b0cc4cfc3eb654ac0fe7d1",
+      "title": "Dark Side of the Moon Door | The Glass Cannon Podcast Giantslayer E271 | Pathfinder 1E",
+      "published_at": "2021-03-30T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/dark-side-of-the-moon-door-the-glass-cannon-podcast-giantslayer-e271-pathfinder-1e-pYnrrb6c",
+      "description": "The heroes leave the torture chamber and head deeper into Ironcloud Keep. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/70961f98-3fbe-4a04-ac1b-063a6a067e8c/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=70961f98-3fbe-4a04-ac1b-063a6a067e8c&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75650450",
+      "itunes_duration": "01:18:13",
+      "speakers": [
+        "Dark Side",
+        "Ironcloud Keep"
+      ],
+      "topics": [
+        "dark",
+        "moon",
+        "door",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b4c87adf4ae2e547186a387573d7bbb9a58bb90b",
+      "title": "Ghost Mortem | The Glass Cannon Podcast Giantslayer E270 | Pathfinder 1E",
+      "published_at": "2021-03-23T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/ghost-mortem-the-glass-cannon-podcast-giantslayer-e270-pathfinder-1e-Clx__IBt",
+      "description": "Another trap surprises the heroes as they continue their exploration of the first level of Ironcloud Keep. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/82574be5-f9e1-4445-b9da-9d9bde1dbbf0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=82574be5-f9e1-4445-b9da-9d9bde1dbbf0&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74038417",
+      "itunes_duration": "01:16:32",
+      "speakers": [],
+      "topics": [
+        "ghost",
+        "mortem",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "350fdcca116ab5d9e77bfd19f28ed53d7897cfd0",
+      "title": "Die, Robot | The Glass Cannon Podcast Giantslayer E269 | Pathfinder 1E",
+      "published_at": "2021-03-16T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/die-robot-the-glass-cannon-podcast-giantslayer-e269-pathfinder-1e-2geWxgZ2",
+      "description": "The battle with the piscodaemons and their chained dagger wielding summoner continues! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/0ce3b4c6-48cb-42f4-96f3-2be81b3379dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=0ce3b4c6-48cb-42f4-96f3-2be81b3379dd&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79859308",
+      "itunes_duration": "01:22:36",
+      "speakers": [],
+      "topics": [
+        "robot",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f64555e5ccb81dde397d5299e148a6ce75d89eb1",
+      "title": "Pisco Inferno | The Glass Cannon Podcast Giantslayer E268 | Pathfinder 1E",
+      "published_at": "2021-03-09T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/pisco-inferno-the-glass-cannon-podcast-giantslayer-e268-pathfinder-1e-W3ujInCK",
+      "description": "Dalgreath is surrounded as the heroes try to navigate strange new enemies and a sadistic trap! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c0095518-8286-4c69-b29d-cec88caa41d5/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c0095518-8286-4c69-b29d-cec88caa41d5&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65473992",
+      "itunes_duration": "01:07:37",
+      "speakers": [],
+      "topics": [
+        "pisco",
+        "inferno",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6d26b2fe46851bc3a0588fe84121b7fa93026b45",
+      "title": "Level Up Before You Go-Go | The Glass Cannon Podcast Giantslayer E267 | Pathfinder 1E",
+      "published_at": "2021-03-02T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/level-up-before-you-go-go-the-glass-cannon-podcast-giantslayer-e267-pathfinder-1e-pA7Cp24G",
+      "description": "The heroes stand outside an entrance to Ironcloud Keep, imbued with new and amazing powers. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a963bd6d-8f6b-4f36-b5b5-9254bd16e1c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a963bd6d-8f6b-4f36-b5b5-9254bd16e1c9&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78908058",
+      "itunes_duration": "01:21:36",
+      "speakers": [
+        "Ironcloud Keep"
+      ],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6d9c9857efc81c14499dce89219d1259a98a3418",
+      "title": "How to Lose a Yaoguai in 10 Ways | The Glass Cannon Podcast Giantslayer E266 | Pathfinder 1E",
+      "published_at": "2021-02-23T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/how-to-lose-a-yaoguai-in-10-ways-the-glass-cannon-podcast-giantslayer-e266-pathfinder-1e-04Ds_GIE",
+      "description": "The aerial assault against the yaoguai and the cloud giants continues! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a7464565-3660-4cf8-894d-9eed89235213/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a7464565-3660-4cf8-894d-9eed89235213&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61150192",
+      "itunes_duration": "01:03:06",
+      "speakers": [],
+      "topics": [
+        "yaoguai",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "c73762eda8e60a0a1a0318942e7bd3c2b34856b6",
+      "title": "The Flying Game | The Glass Cannon Podcast Giantslayer E265 | Pathfinder 1E",
+      "published_at": "2021-02-16T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-flying-game-the-glass-cannon-podcast-giantslayer-e265-pathfinder-1e-x3mDCR6W",
+      "description": "At the anchor point connecting the chain to the rocky base of the cloud castle, the heroes are accosted by flying foes! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f60ffe85-cfec-470f-8ad5-7661813493d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f60ffe85-cfec-470f-8ad5-7661813493d9&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84448514",
+      "itunes_duration": "01:27:23",
+      "speakers": [],
+      "topics": [
+        "flying",
+        "game",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "e4fe3dc039fd86b8c1855ffd60d22243f156129a",
+      "title": "Stinging on the Chain | The Glass Cannon Podcast Giantslayer E264 | Pathfinder 1E",
+      "published_at": "2021-02-09T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/stinging-on-the-chain-the-glass-cannon-podcast-giantslayer-e264-pathfinder-1e-lj2bK_P6",
+      "description": "The heroes must outrun a colossal black scorpion and her babies as they rush towards the last remaining chain! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/9cd170fb-b798-44bc-af38-50edf3bc72dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=9cd170fb-b798-44bc-af38-50edf3bc72dd&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74723461",
+      "itunes_duration": "01:17:15",
+      "speakers": [],
+      "topics": [
+        "chain",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "aba7ffcd26c348bfed5ee4f076e675abe28168f3",
+      "title": "Malice in Chains | The Glass Cannon Podcast Giantslayer E263 | Pathfinder 1E",
+      "published_at": "2021-02-02T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/malice-in-chains-the-glass-cannon-podcast-giantslayer-e263-pathfinder-1e-TyrAY_wu",
+      "description": "The heroes must make a series of quick decisions now that there is only one remaining chain holding the cloud castle in place! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a0e92170-0bb2-4f7d-9f80-8902f242820b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a0e92170-0bb2-4f7d-9f80-8902f242820b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61836520",
+      "itunes_duration": "01:03:49",
+      "speakers": [],
+      "topics": [
+        "malice",
+        "chains",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "5b1e375cc5a1675066c97f89bcb460430c42c01b",
+      "title": "Sir Darlene Is Limited | The Glass Cannon Podcast Giantslayer E262 | Pathfinder 1E",
+      "published_at": "2021-01-26T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/sir-darlene-is-limited-the-glass-cannon-podcast-giantslayer-e262-pathfinder-1e-BgJffjVh",
+      "description": "With the top of the tower secured, the heroes venture inside. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/16ce374f-3eea-45f8-8c1a-cb10d0fca39e/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=16ce374f-3eea-45f8-8c1a-cb10d0fca39e&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68993168",
+      "itunes_duration": "01:11:17",
+      "speakers": [],
+      "topics": [
+        "darlene",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "798608cb14e8a20ae1ec2ec4926cf37ea67a2492",
+      "title": "Fireball! Run! | The Glass Cannon Podcast Giantslayer E261 | Pathfinder 1E",
+      "published_at": "2021-01-19T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/fireball-run-the-glass-cannon-podcast-giantslayer-e261-pathfinder-1e-PfMmEv3n",
+      "description": "The heroes caught the giants atop the defense tower unawares, but their crafty foes quickly regroup and prepare to fight fire with fire. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/da2f1650-9ecd-4e5b-9f30-9642e7a7c690/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=da2f1650-9ecd-4e5b-9f30-9642e7a7c690&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73653498",
+      "itunes_duration": "01:16:08",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "a09c780ef7f72859461f160616aa19d964637018",
+      "title": "Parapet Sematary | The Glass Cannon Podcast Giantslayer E260 | Pathfinder 1E",
+      "published_at": "2021-01-12T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/parapet-sematary-the-glass-cannon-podcast-giantslayer-e260-pathfinder-1e-sKZ8Pi2u",
+      "description": "With the cloud castle floating above, the heroes enter the caldera with several options before them. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/9365b1f8-4579-4724-bede-e97718365e71/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=9365b1f8-4579-4724-bede-e97718365e71&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68113420",
+      "itunes_duration": "01:10:22",
+      "speakers": [],
+      "topics": [
+        "parapet",
+        "sematary",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "3d6c5ee2fc177ef96c42244e3f8cea79717c7848",
+      "title": "Take Two of These and Caldera Me in the Morning | The Glass Cannon Podcast Giantslayer E259 | Pathfinder 1E",
+      "published_at": "2021-01-05T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/take-two-of-these-and-caldera-me-in-the-morning-the-glass-cannon-podcast-giantslayer-e259-pathfinder-1e-P6Ko_OPo",
+      "description": "Metra's invisible flyover above the caldera is interrupted! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/eff6c26f-0e47-44ad-9f62-bf2a0b4dc0a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=eff6c26f-0e47-44ad-9f62-bf2a0b4dc0a5&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78052036",
+      "itunes_duration": "01:20:43",
+      "speakers": [],
+      "topics": [
+        "caldera",
+        "morning",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "83f9e2c3d3dc6b4f1b591ea58c70ebb737fa0761",
+      "title": "Downward Facing Yog | Side Quest Side Sesh S1 E37 | Pathfinder 1E",
+      "published_at": "2021-01-03T06:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/downward-facing-yog-side-quest-side-sesh-s1-e37-pathfinder-1e-5ovOxX45",
+      "description": "In the finale of Side Quest Side Sesh, the party faces off against the Spawn of Yog-Sototh in a gut-wrenching battle for the ages! Watch the video here: https://www.youtube.com/watch?v=UzV0yCJ-1zU Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/b2e29e62-e2d1-47aa-8f88-1433007db920/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/3ba0ed3e-f001-48c0-af12-ed4e31881a52/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=3ba0ed3e-f001-48c0-af12-ed4e31881a52&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "144694681",
+      "itunes_duration": "02:30:08",
+      "speakers": [],
+      "topics": [
+        "downward",
+        "facing",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "40de54dcae766c5e8e44c2746789076f98c19c50",
+      "title": "Secret Flyover of a Caldera Girl | The Glass Cannon Podcast Giantslayer E258 | Pathfinder 1E",
+      "published_at": "2020-12-29T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/secret-flyover-of-a-caldera-girl-the-glass-cannon-podcast-giantslayer-e258-pathfinder-1e-Hf_PGtFB",
+      "description": "The heroes make final preparations to push forward as the caldera of the volcano awaits. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/eca60e1e-655a-48fa-b71b-95e5b8c5eb40/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=eca60e1e-655a-48fa-b71b-95e5b8c5eb40&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66520167",
+      "itunes_duration": "01:08:42",
+      "speakers": [],
+      "topics": [
+        "secret",
+        "flyover",
+        "caldera",
+        "girl",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "9e078fa90ce5a031acf471eb514b99464d95ccad",
+      "title": "Tunnel Vision | The Glass Cannon Podcast Giantslayer E257 | Pathfinder 1E",
+      "published_at": "2020-12-22T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/tunnel-vision-the-glass-cannon-podcast-giantslayer-e257-pathfinder-1e-7TCRv7L_",
+      "description": "In the aftermath of the throne room battle, the heroes gather the spoils before seeking out the oracle of the mountain. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/354ed7cb-5f41-45fd-a089-f0b847ef4780/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=354ed7cb-5f41-45fd-a089-f0b847ef4780&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83687409",
+      "itunes_duration": "01:26:35",
+      "speakers": [],
+      "topics": [
+        "tunnel",
+        "vision",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6a8d3a270ea15df8cc810799cecec8dcd4884505",
+      "title": "Tentacle Difficulties | Side Quest Side Sesh S1 E36 | Pathfinder 1E",
+      "published_at": "2020-12-20T06:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/tentacle-difficulties-side-quest-side-sesh-s1-e36-pathfinder-1e-S16WTBPz",
+      "description": "After another attack by whatever's plaguing Carrion Hill, the heroes must decide which lead to follow next. Watch the video here: https://www.youtube.com/watch?v=Fzj1fslw-W8 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/d8d17b35-7f92-49f9-ba6a-904e82a30b5c/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/0aa57394-9324-47bc-a4d7-eb74dc0a07c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=0aa57394-9324-47bc-a4d7-eb74dc0a07c4&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "147397602",
+      "itunes_duration": "02:32:57",
+      "speakers": [],
+      "topics": [
+        "tentacle",
+        "difficulty",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "3321c7701e4abf92f5b14c6c23d272135973dd52",
+      "title": "Brawl the King's Men 3 – Hotline King | The Glass Cannon Podcast Giantslayer E256 | Pathfinder 1E",
+      "published_at": "2020-12-15T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/brawl-the-kings-men-3-hotline-king-the-glass-cannon-podcast-giantslayer-e256-pathfinder-1e-A3heV9Yn",
+      "description": "In front of a crowd of giant emissaries, the battle with King Tytarian and his Royal Guard reaches its epic conclusion! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2dff11e5-35ba-413a-942b-fafe4e744b99/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2dff11e5-35ba-413a-942b-fafe4e744b99&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71042498",
+      "itunes_duration": "01:13:25",
+      "speakers": [
+        "King Tytarian"
+      ],
+      "topics": [
+        "king",
+        "hotline",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "47205bb68e25a49f5290ea5430410df1b4af12e8",
+      "title": "Brawl the King's Men 2 – Churls Just Wanna Have Gun | The Glass Cannon Podcast Giantslayer E255 | Pathfinder 1E",
+      "published_at": "2020-12-08T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/brawl-the-kings-men-2-churls-just-wanna-have-gun-the-glass-cannon-podcast-giantslayer-e255-pathfinder-1e-A0vnx075",
+      "description": "Two gunslingers duel amidst sorcery and fire-forged steel as the battle with King Tytarian and his royal guard rages on! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/93fd0aa0-5da3-4d59-90df-7e6c1fe5bacb/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=93fd0aa0-5da3-4d59-90df-7e6c1fe5bacb&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75271425",
+      "itunes_duration": "01:17:49",
+      "speakers": [
+        "King Tytarian"
+      ],
+      "topics": [
+        "king",
+        "churls",
+        "wanna",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "a50558431b003ad16acc8bd44081cf2e1c9f7d3b",
+      "title": "Purple Headed Worriers | Side Quest Side Sesh S1 E35 | Pathfinder 1E",
+      "published_at": "2020-12-06T06:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/purple-headed-worriers-side-quest-side-sesh-s1-e35-pathfinder-1e-VLqmDvWi",
+      "description": "After another attack by whatever's plaguing Carrion Hill, the heroes must decide which lead to follow next. Watch the video here: https://www.youtube.com/watch?v=UdAf5q0TESs Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/f7ebfc8f-5c33-426c-a5a5-fb42989a05cd/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/968023d4-a187-42b8-ade2-85db9b4b71e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=968023d4-a187-42b8-ade2-85db9b4b71e4&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "141791098",
+      "itunes_duration": "02:27:07",
+      "speakers": [],
+      "topics": [
+        "headed",
+        "worriers",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "ae2533ed158781d9f6baa5cae7a3086008fef411",
+      "title": "Brawl the King's Men | The Glass Cannon Podcast Giantslayer E254 | Pathfinder 1E",
+      "published_at": "2020-12-01T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/brawl-the-kings-men-the-glass-cannon-podcast-giantslayer-e254-pathfinder-1e-3YNOY1sL",
+      "description": "After a parlay with the Queen, the heroes arrive at the doorstep of King Tytarian's throne room. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b678c84b-e13c-4b75-9349-15046bcd0bdb/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b678c84b-e13c-4b75-9349-15046bcd0bdb&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70086601",
+      "itunes_duration": "01:12:25",
+      "speakers": [],
+      "topics": [
+        "king",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "a8361227bd22803f52d57f740e6d24506a50f270",
+      "title": "The Queen's Speech | The Glass Cannon Podcast Giantslayer E253 | Pathfinder 1E",
+      "published_at": "2020-11-24T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-queens-speech-the-glass-cannon-podcast-giantslayer-e253-pathfinder-1e-P3IW_7Zq",
+      "description": "As the Queen clings to life, the heroes are presented with an unexpected consequence. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/fbe8e146-f72c-4bd8-821c-88a9043ececa/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=fbe8e146-f72c-4bd8-821c-88a9043ececa&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98313884",
+      "itunes_duration": "01:41:49",
+      "speakers": [],
+      "topics": [
+        "queen",
+        "speech",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "57fbc4d7fc578697d0a2dd7f6d8ee4027af703c1",
+      "title": "Maniac Man Stun | Side Quest Side Sesh S1 E34 | Pathfinder 1E",
+      "published_at": "2020-11-22T06:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/maniac-man-stun-side-quest-side-sesh-s1-e34-pathfinder-1e-fp4pFiTN",
+      "description": "With Keeper Crove dispatched, the heroes look for more information beneath the asylum. This episode is sponsored by Beadle & Grimm's Pandemonium Warehouse. Check out their Pathfinder Second Edition Complete Character Chronicles Kickstarter at https://www.kickstarter.com/projects/beadleandgrimms/beadle-and-grimms-complete-character-chronicles! Watch the video here: https://www.youtube.com/watch?v=Sl7rAkn6pT4 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/c3c35a01-1198-4925-a464-b7d5f64fc340/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b8549d8d-b947-4219-838c-2c7d586f5fe7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b8549d8d-b947-4219-838c-2c7d586f5fe7&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124562756",
+      "itunes_duration": "02:09:10",
+      "speakers": [
+        "Maniac Man Stun"
+      ],
+      "topics": [
+        "maniac",
+        "stun",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b7f220bd99b3d1e75f94a03881429b12f25d8a68",
+      "title": "Smelled It Too: The Adventure of Stink | Side Quest Side Sesh S1 E33 | Pathfinder 1E",
+      "published_at": "2020-11-16T06:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/smelled-it-too-the-adventure-of-stink-side-quest-side-sesh-s1-e33-pathfinder-1e-4_PcU_4H",
+      "description": "A wild caster summons a demon from the outer planes as the heroes are pushed to the limit against an infuriating foe! This episode is sponsored by Beadle & Grimm's Pandemonium Warehouse. Check out their Pathfinder Second Edition Complete Character Chronicles Kickstarter at https://www.kickstarter.com/projects/beadleandgrimms/beadle-and-grimms-complete-character-chronicles! Watch the video here: https://www.youtube.com/watch?v=MqfCPuOWjz0 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/ad98ad76-bc8a-424b-b6fd-189ab81f96ed/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a66dff9a-5925-41e3-87b2-bc971e0fa0a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a66dff9a-5925-41e3-87b2-bc971e0fa0a0&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "118271270",
+      "itunes_duration": "02:02:37",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "stink",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "67e6eb91540d7776225ebd075ab934eb93c46aa2",
+      "title": "Craig Party | Side Quest Side Sesh S1 E32 | Pathfinder 1E",
+      "published_at": "2020-11-09T06:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/craig-party-side-quest-side-sesh-s1-e32-pathfinder-1e-GnUan8Vk",
+      "description": "A tentacled aberration attacks the crew as their investigation underneath the asylum continues. This episode is sponsored by Beadle & Grimm's Pandemonium Warehouse. Check out their Pathfinder Second Edition Complete Character Chronicles Kickstarter at https://www.kickstarter.com/projects/beadleandgrimms/beadle-and-grimms-complete-character-chronicles! Watch the video here: https://www.youtube.com/watch?v=ge6OzCjhz3c Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/a6fa13de-af27-4bdd-8c54-fc01d0fb96a8/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/99365afe-a8ff-42ae-b3e6-5e8cde3b7bca/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=99365afe-a8ff-42ae-b3e6-5e8cde3b7bca&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "118846333",
+      "itunes_duration": "02:03:12",
+      "speakers": [
+        "Craig Party"
+      ],
+      "topics": [
+        "craig",
+        "party",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "21abc8ff04507a126d482ce952496babcefa2450",
+      "title": "Lunatic Revolution | Side Quest Side Sesh S1 E31 | Pathfinder 1E",
+      "published_at": "2020-11-02T06:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/lunatic-revolution-side-quest-side-sesh-s1-e31-pathfinder-1e-UHRChyUQ",
+      "description": "After battling the denizens of the upper floors of the asylum, the party heads downstairs. Watch the video here: https://www.youtube.com/watch?v=4yfF2GUtlWs Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/26bf7b61-c7e7-43b2-b4c4-14b23ba2252d/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5e1cf274-70a7-4047-adc5-f913d595cd0b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5e1cf274-70a7-4047-adc5-f913d595cd0b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138011890",
+      "itunes_duration": "02:23:10",
+      "speakers": [
+        "Lunatic Revolution",
+        "Side Quest Side Sesh"
+      ],
+      "topics": [
+        "lunatic",
+        "revolution",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "428f13d751781f2e71d5b01816bc2b63ab580de1",
+      "title": "The Door to the North | Side Quest Side Sesh S1 E30 | Pathfinder 1E",
+      "published_at": "2020-10-26T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-door-to-the-north-side-quest-side-sesh-s1-e30-pathfinder-1e-gBHxYWXe",
+      "description": "The party gathers information on the Keepers of the Oldest before deciding where to turn first. Watch the video here: https://www.youtube.com/watch?v=IZJecORoxdg Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/b22935ce-2b7c-4aa6-a8ca-7df8a61a730c/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/9953437f-fb59-43b1-b88d-0d487b36a466/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=9953437f-fb59-43b1-b88d-0d487b36a466&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "122901420",
+      "itunes_duration": "02:07:26",
+      "speakers": [],
+      "topics": [
+        "door",
+        "north",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "7251fca414f8ac02650d0739ae0b1b5ebc061ea1",
+      "title": "Ghouls Rush In | Side Quest Side Sesh S1 E29 | Pathfinder 1E",
+      "published_at": "2020-10-19T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/ghouls-rush-in-side-quest-side-sesh-s1-e29-pathfinder-1e-1OXOgbKp",
+      "description": "An exploration of an ancient grove uncovers a strange tome, dead bodies and an ferocious enemy! Watch the video here: https://www.youtube.com/watch?v=s2Q4vbH5ju4 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/10816e60-9157-4334-bbac-84a7a9831c0b/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/0975396d-1fd5-4d12-95c3-d028f99f6cec/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=0975396d-1fd5-4d12-95c3-d028f99f6cec&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "133019787",
+      "itunes_duration": "02:17:58",
+      "speakers": [
+        "Ghouls Rush"
+      ],
+      "topics": [
+        "ghoul",
+        "rush",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "c5db19778bd911e108393e0a94d264c7c32fb9f0",
+      "title": "Stair Trek Discovery | Side Quest Side Sesh S1 E28 | Pathfinder 1E",
+      "published_at": "2020-10-12T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/stair-trek-discovery-side-quest-side-sesh-s1-e28-pathfinder-1e-bYoWcB5t",
+      "description": "The heroes' exploration of the ruined building reveals a staircase going down. Watch the video here: https://www.youtube.com/watch?v=6IGCuQiI6cs Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/e98c71de-e825-4fe4-aa60-51de04b0316c/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2f283f9f-0486-4a83-b7e0-12f76e0f69f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2f283f9f-0486-4a83-b7e0-12f76e0f69f0&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "120031693",
+      "itunes_duration": "02:04:27",
+      "speakers": [],
+      "topics": [
+        "stair",
+        "trek",
+        "discovery",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "edf2bb3a4e00aff4f155d47e7b416c699b6f0045",
+      "title": "Not Another Guillotine Movie | Side Quest Side Sesh S1 E27 | Pathfinder 1E",
+      "published_at": "2020-10-05T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/not-another-guillotine-movie-side-quest-side-sesh-s1-e27-pathfinder-1e-EdAP_VhX",
+      "description": "Qarizur stumbles through the cobblestone streets of Karpad...perhaps for the last time. Watch the video here: https://www.youtube.com/watch?v=XRHGdtOBx44 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/a040ac8c-9e97-4082-9dcf-64a155d70487/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/14fc8803-ff44-4911-9cd7-22423d0ea21b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=14fc8803-ff44-4911-9cd7-22423d0ea21b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119970689",
+      "itunes_duration": "02:04:23",
+      "speakers": [
+        "Guillotine Movie"
+      ],
+      "topics": [
+        "guillotine",
+        "movie",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "1ce7c0940493b92fb8fd374482b76fe5e8bdf8a5",
+      "title": "Never Shae Never Again | Side Quest Side Sesh S1 E26 | Pathfinder 1E",
+      "published_at": "2020-09-28T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/never-shae-never-again-side-quest-side-sesh-s1-e26-pathfinder-1e-Y1ybtUHo",
+      "description": "The heroes rush to exit the Midnight Mirror before the pocket dimension collapses on itself, but what awaits them on the other side may be even more dangerous. Watch the video here: https://www.youtube.com/watch?v=haeNQzrmRUE Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/f6141878-b8c5-468a-b101-bd9c98c70314/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/14b504bb-aa6a-4a2d-99e7-63bc3b0a2a12/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=14b504bb-aa6a-4a2d-99e7-63bc3b0a2a12&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138664398",
+      "itunes_duration": "02:23:51",
+      "speakers": [],
+      "topics": [
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "4908057f0d6f30f486fe24bf44ff162270c78323",
+      "title": "One Tree Kill | Side Quest Side Sesh S1 E25 | Pathfinder 1E",
+      "published_at": "2020-09-21T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/one-tree-kill-side-quest-side-sesh-s1-e25-pathfinder-1e-yncXbjwC",
+      "description": "The heroes meet Nicasor face to face for an unexpected parlay. Watch the video here: https://www.youtube.com/watch?v=ujQR9cVmWhs Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/9f8cf2a3-e327-45de-8d4f-f124ef21494d/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2c09d215-8ed7-4eda-8d67-76cc1346518a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2c09d215-8ed7-4eda-8d67-76cc1346518a&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124584919",
+      "itunes_duration": "02:09:11",
+      "speakers": [],
+      "topics": [
+        "tree",
+        "kill",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6b4a5a598e2b1e7f8c3ac84eb35878d2214e9ae9",
+      "title": "How I Met Your Brothers | Side Quest Side Sesh S1 E24 | Pathfinder 1E",
+      "published_at": "2020-09-14T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/how-i-met-your-brothers-side-quest-side-sesh-s1-e24-pathfinder-1e-BiCNKmIU",
+      "description": "Deep within the prison that is the Midnight Mirror, the heroes explore the upper level of the shadow manor. Watch the video here: https://www.youtube.com/watch?v=nfTrS393b_M Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/b65eb614-f87c-4bed-922c-2f3812917e47/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/6efa0676-a250-4f5b-b7b4-c64dc5c1dfc1/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=6efa0676-a250-4f5b-b7b4-c64dc5c1dfc1&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121887465",
+      "itunes_duration": "02:06:23",
+      "speakers": [],
+      "topics": [
+        "brothers",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6f413fb14b312e30b829acd398648ffcda30e23f",
+      "title": "Kayals and Tribulations | Side Quest Side Sesh S1 E23 | Pathfinder 1E",
+      "published_at": "2020-09-07T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/kayals-and-tribulations-side-quest-side-sesh-s1-e23-pathfinder-1e-iokH27ad",
+      "description": "The heroes uncover more strange rooms in the shadow manor and run afoul of some of the fetchlings from Nicasor's failed revolt. Watch the video here: https://www.youtube.com/watch?v=bg5fB17OotE Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/95124164-0d3f-4ef5-b06b-00c89d07978c/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/1f0c8b6b-98e7-41f2-86f0-5aca8ff82379/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=1f0c8b6b-98e7-41f2-86f0-5aca8ff82379&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "131566166",
+      "itunes_duration": "02:16:27",
+      "speakers": [],
+      "topics": [
+        "kayals",
+        "tribulations",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6cef5b3463079212f8afd2d306f703b1a3212169",
+      "title": "Better Call Wall | Side Quest Side Sesh S1 E22 | Pathfinder 1E",
+      "published_at": "2020-08-31T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/better-call-wall-side-quest-side-sesh-s1-e22-pathfinder-1e-GigqsT1g",
+      "description": "With 3/4 of the party paralyzed and dazed, it's up to Brayven to save them from certain death. Watch the video here: https://www.youtube.com/watch?v=e3MnC-So4ho Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/0804085e-211c-4472-93ab-7e6e4ee9f713/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/160985fc-cf62-4e49-8f5b-0d4dbeedd3aa/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=160985fc-cf62-4e49-8f5b-0d4dbeedd3aa&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119456176",
+      "itunes_duration": "02:03:51",
+      "speakers": [],
+      "topics": [
+        "wall",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "5629381c9544f8c43c53f9fbb80b61d6c0b0039a",
+      "title": "Conceal and Barry | Side Quest Side Sesh S1 E21 | Pathfinder 1E",
+      "published_at": "2020-08-17T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/conceal-and-barry-side-quest-side-sesh-s1-e21-pathfinder-1e-7wChuf2C",
+      "description": "The heroes confront the Baron about their findings. Watch the video here: https://www.youtube.com/watch?v=VlJKf3ZXVzc Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/422c3a38-f9ff-4667-aef7-2ad3efeee0ce/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/712b2ccc-348b-416d-bca6-6ba1acf0f0b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=712b2ccc-348b-416d-bca6-6ba1acf0f0b9&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116971785",
+      "itunes_duration": "02:01:15",
+      "speakers": [],
+      "topics": [
+        "conceal",
+        "barry",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2e11a809f21c2f791e94d3d6c0fb6e37b61a9935",
+      "title": "Brides Dead Revisited | Side Quest Side Sesh S1 E20 | Pathfinder 1E",
+      "published_at": "2020-08-10T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/brides-dead-revisited-side-quest-side-sesh-s1-e20-pathfinder-1e-R_FqY4so",
+      "description": "In the basement of Boroi Manor, the heroes encounter the self-styled bride of Zon-Kuthon. Watch the video here: https://youtu.be/rqqZt9NU_Ag Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/fe6937bb-bca0-4098-9bf2-793fbab15182/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/55b4dc35-868d-41d2-93cb-f1509cc5e3d1/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=55b4dc35-868d-41d2-93cb-f1509cc5e3d1&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "125000793",
+      "itunes_duration": "02:09:37",
+      "speakers": [
+        "Boroi Manor"
+      ],
+      "topics": [
+        "bride",
+        "dead",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "d7883dd882e45aa9933079edabe132698c6c1aeb",
+      "title": "Shade Row Superstar (That's Not What You Are) | Side Quest Side Sesh S1 E19 | Pathfinder 1E",
+      "published_at": "2020-08-03T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/shade-row-superstar-thats-not-what-you-are-side-quest-side-sesh-s1-e19-pathfinder-1e-xeyAuS8i",
+      "description": "After surviving yet another shadow attack, the heroes venture to Shade Row to catch their breath before returning to Boroi Manor. Watch the video here: https://www.youtube.com/watch?v=OjAtYEVqROc Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/d25b7a75-ce9c-4758-8e5d-2d9109cb1eb9/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a96009de-b9e5-4659-8546-d0138db076d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a96009de-b9e5-4659-8546-d0138db076d9&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132348609",
+      "itunes_duration": "02:17:16",
+      "speakers": [
+        "Shade Row Superstar",
+        "Shade Row"
+      ],
+      "topics": [
+        "shade",
+        "superstar",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "5e9f25a084b7547c12d0eef6ab571da86db80353",
+      "title": "It's Not Easy Being Gene | Side Quest Side Sesh S1 E18 | Pathfinder 1E",
+      "published_at": "2020-07-27T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/its-not-easy-being-gene-side-quest-side-sesh-s1-e18-pathfinder-1e-CXrE_sPe",
+      "description": "The heroes must make an unholy sacrifice to regain their strength for the battles that may lie ahead. Warning: This episode deals with self-mutilation with regards to Zon-Kuthon worship. Watch the video here: https://www.youtube.com/watch?v=mJ13lUnllJ0 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/54564550-f0a3-4d9e-8350-10b2408239a9/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/6fc219ff-2b24-4f69-a369-6f14ed72ae08/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=6fc219ff-2b24-4f69-a369-6f14ed72ae08&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "134012966",
+      "itunes_duration": "02:19:00",
+      "speakers": [],
+      "topics": [
+        "gene",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "0ab2e3abbecd7946706f108f371216f1225af706",
+      "title": "First World Problems | Side Quest Side Sesh S1 E17 | Pathfinder 1E",
+      "published_at": "2020-07-20T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/first-world-problems-side-quest-side-sesh-s1-e17-pathfinder-1e-0xL0DZ_d",
+      "description": "The team desperately tries to survive against an invisible assassin! Watch the video here: https://www.youtube.com/watch?v=RnKgGa0odFc Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/88ff9b88-160e-42b0-b558-1b221cc87d25/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/e25e6609-e453-46b6-9f67-fed914a64974/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=e25e6609-e453-46b6-9f67-fed914a64974&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121452745",
+      "itunes_duration": "02:05:55",
+      "speakers": [],
+      "topics": [
+        "world",
+        "problems",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "99e4e81bb2bbe09af0bb6b0f4a1e49f08a7c462a",
+      "title": "Natural One Killers | Side Quest Side Sesh S1 E16 | Pathfinder 1E",
+      "published_at": "2020-07-13T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/natural-one-killers-side-quest-side-sesh-s1-e16-pathfinder-1e-CLaY_NWx",
+      "description": "Shadows emerge from the darkness of the chandlery's basement to sap the strength of the heroes! Watch the video here: https://www.youtube.com/watch?v=dHtKzXNB8lE Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/63323d4e-4746-4ea4-a447-0070ce2307d2/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c3b70297-e99a-4e98-b511-5ade60e8ad8d/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c3b70297-e99a-4e98-b511-5ade60e8ad8d&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119420236",
+      "itunes_duration": "02:03:48",
+      "speakers": [],
+      "topics": [
+        "killers",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6792dce0c55979b404d30e34f69bb1a0ef99ca97",
+      "title": "Too Hot to Candle | Side Quest Side Sesh S1 E15 | Pathfinder 1E",
+      "published_at": "2020-07-06T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/too-hot-to-candle-side-quest-side-sesh-s1-e15-pathfinder-1e-N5teZGHP",
+      "description": "The heroes attempt to intervene before mob justice is carried out. Watch the video here: https://www.youtube.com/watch?v=mmG5jC2m4aA Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/cff0e127-e97c-44dc-8d9e-0bb9458eaaa7/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/93a47af2-22c8-4c59-8e94-cd79ee17cde8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=93a47af2-22c8-4c59-8e94-cd79ee17cde8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "115752613",
+      "itunes_duration": "01:59:59",
+      "speakers": [],
+      "topics": [
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "e3f9ac371a7345de93102e9c66a2c0ec683ba342",
+      "title": "A Manor Darkly | Side Quest Side Sesh S1 E14 | Pathfinder 1E",
+      "published_at": "2020-06-29T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/a-manor-darkly-side-quest-side-sesh-s1-e14-pathfinder-1e-G_FzyosK",
+      "description": "The crew enter Boroi Manor in search of answers for Lord Tiberos. Watch the video here: https://www.youtube.com/watch?v=mebcHyJRwrc Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/f7265fd0-124d-4c24-92ba-2c5d551e3978/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/3a2a3eb9-e323-413f-9624-ae8d24d9cbc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=3a2a3eb9-e323-413f-9624-ae8d24d9cbc8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132803254",
+      "itunes_duration": "02:17:45",
+      "speakers": [
+        "Boroi Manor"
+      ],
+      "topics": [
+        "manor",
+        "darkly",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "301d7567954f1aaccc49cab6fd31fb11eb3c9aeb",
+      "title": "A Mastiff Named Sapphire | Side Quest Side Sesh S1 E13 | Pathfinder 1E",
+      "published_at": "2020-06-22T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/a-mastiff-named-sapphire-side-quest-side-sesh-s1-e13-pathfinder-1e-DgMD1qMK",
+      "description": "⁠ A new adventure awaits the Side Quest Side Sesh crew as they leave the trauma of Ravenmoor behind and set sail for one of Golarion's most infamous regions. Watch the video here: https://www.youtube.com/watch?v=kkFEF7AwEpA Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/08a906c7-3bfd-4bc5-8209-c400b551c3a0/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/7674c535-97b7-4754-9fb1-d91a9ff81b92/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=7674c535-97b7-4754-9fb1-d91a9ff81b92&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "120595245",
+      "itunes_duration": "02:05:02",
+      "speakers": [],
+      "topics": [
+        "mastiff",
+        "sapphire",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "1f3305aead57b417981275714be88e5fb336751b",
+      "title": "There's Something About Mayor! See! | Side Quest Side Sesh S1 E12 | Pathfinder 1E",
+      "published_at": "2020-06-15T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/theres-something-about-mayor-see-side-quest-side-sesh-s1-e12-pathfinder-1e-4axbakS4",
+      "description": "⁠ Deep within the corn maze, the secrets of Ravenmoor are finally revealed as The Feast of Ravenmoor reaches its deadly conclusion! Watch the video here: https://www.youtube.com/watch?v=R_tyHa59azk Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/8f3a5bb3-cd22-41fa-9403-7b3d24aa05d5/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/e4ba6562-69f9-4633-9ef7-5a0de78512f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=e4ba6562-69f9-4633-9ef7-5a0de78512f4&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "141640729",
+      "itunes_duration": "02:26:57",
+      "speakers": [],
+      "topics": [
+        "mayor",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "e0cbc1ae047b0045df0dd3174972bf1c1a7ca306",
+      "title": "The Corn Ultimatum | Side Quest Side Sesh S1 E11 | Pathfinder 1E",
+      "published_at": "2020-06-08T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-corn-ultimatum-side-quest-side-sesh-s1-e11-pathfinder-1e-ySzvT55k",
+      "description": "With nowhere left to turn for answers, the heroes enter the mysterious cornfield maze. Watch the video here: https://www.youtube.com/watch?v=haxbdQYq_zs Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/39b1b356-d994-43b8-a160-36e56a1b0a6e/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/89bc6640-3904-447f-abf9-ef59ce2b5f59/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=89bc6640-3904-447f-abf9-ef59ce2b5f59&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132760647",
+      "itunes_duration": "02:17:42",
+      "speakers": [],
+      "topics": [
+        "corn",
+        "ultimatum",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "391b137a2827e1eab3ff49c0c108142d0e10c4ae",
+      "title": "Miss of the Spider Woman | Side Quest Side Sesh S1 E10 | Pathfinder 1E",
+      "published_at": "2020-06-01T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/miss-of-the-spider-woman-side-quest-side-sesh-s1-e10-pathfinder-1e-Wj2g3YuZ",
+      "description": "The heroes become further entangled in the mysteries of Ravenmoor. Watch the video here: https://www.youtube.com/watch?v=Dn9itT2T5hg Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/05a1329a-f912-437f-a1f5-4bc6ce11f57f/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a19fae1c-0ba9-43e4-84ea-65be9459262c/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a19fae1c-0ba9-43e4-84ea-65be9459262c&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127366034",
+      "itunes_duration": "02:12:05",
+      "speakers": [],
+      "topics": [
+        "miss",
+        "spider",
+        "woman",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f1b1f5dd0aa9d175b74a65a5695ad34f828e82b8",
+      "title": "Gnoll Coward | Side Quest Side Sesh S1 E9 | Pathfinder 1E",
+      "published_at": "2020-05-25T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/gnoll-coward-side-quest-side-sesh-s1-e9-pathfinder-1e-4lg1Miyu",
+      "description": "With the Lupescus unmasked, the team investigates the abandoned farmhouse. Watch the video here: https://www.youtube.com/watch?v=IKhMB_t7BSg Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/a0bf42e1-5afb-419a-994f-bd896836c5ed/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f92a65f6-1fbe-4e0d-9c8f-6f13fcd4ba73/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f92a65f6-1fbe-4e0d-9c8f-6f13fcd4ba73&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "133415570",
+      "itunes_duration": "02:18:23",
+      "speakers": [
+        "Gnoll Coward"
+      ],
+      "topics": [
+        "gnoll",
+        "coward",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "0b3b4e74e92e2f875eae017ded9af24c252e3888",
+      "title": "Netflix and Kill | Side Quest Side Sesh S1 E8 | Pathfinder 1E",
+      "published_at": "2020-05-18T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/netflix-and-kill-side-quest-side-sesh-s1-e8-pathfinder-1e-KE9VtdqD",
+      "description": "A nightcap with the mayor leads the way to a late night rendez-vous. Watch the video here: https://www.youtube.com/watch?v=uor6ddhwX6E Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/a7800c9d-8263-4b57-babc-b7cbf69719e0/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/81ae27a9-454a-4555-8767-e70821ec6bff/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=81ae27a9-454a-4555-8767-e70821ec6bff&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114358719",
+      "itunes_duration": "01:58:32",
+      "speakers": [],
+      "topics": [
+        "netflix",
+        "kill",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "5db326f464b7cf72af26e833c1a4302a8c77bc39",
+      "title": "I Left My Notebook in New Jersey | Side Quest Side Sesh S1 E7 | Pathfinder 1E",
+      "published_at": "2020-05-11T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/i-left-my-notebook-in-new-jersey-side-quest-side-sesh-s1-e7-pathfinder-1e-TQSZkO2i",
+      "description": "For the first time in history, a \"catch the greased pig\" contest goes bad! Watch the video here: https://www.youtube.com/watch?v=xY84ir8gOKo Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/b19cb69d-26c3-443e-a475-349dad8c3a36/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/8499a545-7e0b-4552-9d5a-7b65fef75177/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=8499a545-7e0b-4552-9d5a-7b65fef75177&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117473373",
+      "itunes_duration": "02:01:47",
+      "speakers": [],
+      "topics": [
+        "notebook",
+        "jersey",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "c0c2a6666579ce17c7df412d82a796e3ff224d9d",
+      "title": "Vinegar Tom Before the Storm | Side Quest Side Sesh S1 E6 | Pathfinder 1E",
+      "published_at": "2020-05-04T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/vinegar-tom-before-the-storm-side-quest-side-sesh-s1-e6-pathfinder-1e-pshXu0ly",
+      "description": "The party gather information and play games at Ravenmoor's monthly Founder's Festival. Watch the video here: https://www.youtube.com/watch?v=LD-zIbi5ME8 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/b6740732-19a9-44c3-b8ac-065f7b9d5a33/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/73e25d1e-1f71-4bc5-8335-7744537d46ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=73e25d1e-1f71-4bc5-8335-7744537d46ee&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111391239",
+      "itunes_duration": "01:55:27",
+      "speakers": [
+        "Vinegar Tom Before"
+      ],
+      "topics": [
+        "vinegar",
+        "storm",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b64635b817b5fc85ed32f5e56181c89495b5612b",
+      "title": "The Learnmaker | Side Quest Side Sesh S1 E5 | Pathfinder 1E",
+      "published_at": "2020-04-27T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-learnmaker-side-quest-side-sesh-s1-e5-pathfinder-1e-EIii_Qdl",
+      "description": "After a meeting with the mayor, the party become more acquainted with the town and its odd residents. Watch the video here: https://www.youtube.com/watch?v=Q9JL9TyrY44 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/2d702601-0171-40cf-a483-86e34ebe2521/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b1f35fa5-a438-4cd6-8dec-51d5631ded16/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b1f35fa5-a438-4cd6-8dec-51d5631ded16&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117612563",
+      "itunes_duration": "02:01:55",
+      "speakers": [],
+      "topics": [
+        "learnmaker",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "12792c56d54930d6ca14b2f953ec35869b86e5dc",
+      "title": "Diomedes' Principle | Side Quest Side Sesh S1 E4 | Pathfinder 1E",
+      "published_at": "2020-04-20T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/diomedes-principle-side-quest-side-sesh-s1-e4-pathfinder-1e-h7_5IgX0",
+      "description": "The team uncovers the truth behind what's going on in the mysterious grotto. Watch the video here: https://www.youtube.com/watch?v=0ufQoe5ipdU Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/c031c21b-eef1-4d43-8edd-2fa923c40f0c/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a5d8c895-4d4a-4808-88a0-b4fb997432b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a5d8c895-4d4a-4808-88a0-b4fb997432b5&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "154357842",
+      "itunes_duration": "02:40:12",
+      "speakers": [
+        "Side Quest Side Sesh"
+      ],
+      "topics": [
+        "diomedes",
+        "principle",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "712a6115684d903afafe5394d4244cc5f7f1ca62",
+      "title": "Crystal Goosed | Side Quest Side Sesh S1 E3 | Pathfinder 1E",
+      "published_at": "2020-04-13T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/crystal-goosed-side-quest-side-sesh-s1-e3-pathfinder-1e-_gF4oyiD",
+      "description": "Paizo Publisher Erik Mona joins the Glass Cannon crew this week for a side quest to the side quest as we travel back in time to see the crew make their bones on the mean streets of Riddleport. Watch the video here: https://www.youtube.com/watch?v=_xQKEWTkLi8 Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/ab16ed31-5e31-4cff-a953-7ec72c017312/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/eec6a942-f4a0-45f1-b80a-e932a737a26e/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=eec6a942-f4a0-45f1-b80a-e932a737a26e&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "143557470",
+      "itunes_duration": "02:28:57",
+      "speakers": [
+        "Erik Mona",
+        "Glass Cannon"
+      ],
+      "topics": [
+        "crystal",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f807cf72f5aeedd637e690fc4aab05f8289c2edc",
+      "title": "Stirge to Kill...Rising | Side Quest Side Sesh S1 E2 | Pathfinder 1E",
+      "published_at": "2020-04-06T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/stirge-to-kill-rising-side-quest-side-sesh-s1-e2-pathfinder-1e-uGaAcIBw",
+      "description": "The \"heroes\" set out for Ravenmoor to investigate the missing tax collector. Watch the video here: https://www.youtube.com/watch?v=b0ge2u7Y_lE Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/aa3bd88f-19cc-4fa4-bb34-88a52b7d6d5f/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2adfd075-5816-48c2-9b91-6d486fc68d22/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2adfd075-5816-48c2-9b91-6d486fc68d22&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "122588766",
+      "itunes_duration": "02:07:06",
+      "speakers": [],
+      "topics": [
+        "stirge",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f8bae33a7c535a33551701c5dea59e63f9ee8741",
+      "title": "Sharp as a Provolone | Side Quest Side Sesh S1 E1 | Pathfinder 1E",
+      "published_at": "2020-03-30T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/sharp-as-a-provolone-side-quest-side-sesh-s1-e1-pathfinder-1e-9K6UQkdm",
+      "description": "Your good buddies from The Glass Cannon Network are keeping hope alive during the worldwide pandemic with an all new show to fill the gap while their other shows are on hiatus! In this first installment, an all new adventuring party is tasked with finding a missing girl in the wilds of the Mushfens. Watch the video here: https://www.youtube.com/watch?v=wS7trLZYbmI Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/44275a44-d118-4eca-9917-82e6d108d5b5/3000x3000/b4635a117c14cc11cbfb3019faee51af.png?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/239ea9b8-cc40-447e-bc40-b0a7380b56a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=239ea9b8-cc40-447e-bc40-b0a7380b56a5&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "151769637",
+      "itunes_duration": "02:37:30",
+      "speakers": [],
+      "topics": [
+        "provolone",
+        "quest",
+        "sesh",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "fb629332086924f64923c29177b036955494341c",
+      "title": "Sharp Guns Make No Silence | The Glass Cannon Podcast Giantslayer E252 | Pathfinder 1E",
+      "published_at": "2020-03-24T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/sharp-guns-make-no-silence-the-glass-cannon-podcast-giantslayer-e252-pathfinder-1e-Eo2VW6xb",
+      "description": "Newly appointed Chief Defender, Barron Ashpeak, has no time to waste on his first day in office. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a20254a6-c6b2-4164-8198-1cac64054fcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a20254a6-c6b2-4164-8198-1cac64054fcd&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71275715",
+      "itunes_duration": "01:13:39",
+      "speakers": [
+        "Barron Ashpeak"
+      ],
+      "topics": [
+        "guns",
+        "silence",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2d02a68148779b80999711ac4faba1226fdd91b4",
+      "title": "No Retreat, No Defender | The Glass Cannon Podcast Giantslayer E251 | Pathfinder 1E",
+      "published_at": "2020-03-17T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/no-retreat-no-defender-the-glass-cannon-podcast-giantslayer-e251-pathfinder-1e-FGGKI_6F",
+      "description": "Trunau is left without its leader and the heroes are left reeling after a surprise attack. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/3badafa5-632f-402c-90eb-6fa16604dee2/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=3badafa5-632f-402c-90eb-6fa16604dee2&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61836516",
+      "itunes_duration": "01:03:49",
+      "speakers": [],
+      "topics": [
+        "retreat",
+        "defender",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "3d0a1ccc8c2e33019835cc6e05771bcad908c151",
+      "title": "Trunau As It Ever Was | The Glass Cannon Podcast Giantslayer E250 Part 2 | Pathfinder 1E",
+      "published_at": "2020-03-10T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/trunau-as-it-ever-was-the-glass-cannon-podcast-giantslayer-e250-part-2-pathfinder-1e-U2oFJabS",
+      "description": "The heroes return to Trunau to warn them of the coming threat as the #MarchtotheEnd begins! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/6fde3b03-10c1-4d08-98f9-c72a13b7d324/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=6fde3b03-10c1-4d08-98f9-c72a13b7d324&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121469266",
+      "itunes_duration": "02:05:56",
+      "speakers": [],
+      "topics": [
+        "trunau",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "d0574f17268311e3558ce0a3508424ea3d7b0631",
+      "title": "Trunau As It Ever Was | The Glass Cannon Podcast Giantslayer E250 Part 1 | Pathfinder 1E",
+      "published_at": "2020-03-10T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/trunau-as-it-ever-was-the-glass-cannon-podcast-giantslayer-e250-part-1-pathfinder-1e-qtqhZgKV",
+      "description": "The heroes return to Trunau to warn them of the coming threat as the #MarchtotheEnd begins! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b1b16e80-aea7-4c5c-8b17-cbbe8651bdac/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b1b16e80-aea7-4c5c-8b17-cbbe8651bdac&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91032224",
+      "itunes_duration": "01:34:14",
+      "speakers": [],
+      "topics": [
+        "trunau",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "c744132b56386c8a42686ce67b14eab4ab209e46",
+      "title": "Priests of Burden | The Glass Cannon Podcast Giantslayer E249 | Pathfinder 1E",
+      "published_at": "2020-03-03T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/priests-of-burden-the-glass-cannon-podcast-giantslayer-e249-pathfinder-1e-0_hANBMF",
+      "description": "A tactical miscalculation leaves Dalgreath open to a vicious attack! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b47985bb-d491-4e33-a8c3-e46ec31f47a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b47985bb-d491-4e33-a8c3-e46ec31f47a8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93367328",
+      "itunes_duration": "01:36:40",
+      "speakers": [],
+      "topics": [
+        "priest",
+        "burden",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "530ae0ff6295916dfd82e6eb9c4ebf4ccad04f26",
+      "title": "Pew Detective | The Glass Cannon Podcast Giantslayer E248 | Pathfinder 1E",
+      "published_at": "2020-02-25T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/pew-detective-the-glass-cannon-podcast-giantslayer-e248-pathfinder-1e-4_QwLLrb",
+      "description": "Invigorated by a implausible victory, the heroes stumble upon an unusual chapel. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4e1e96ca-e521-4722-b52d-1883cf9378fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4e1e96ca-e521-4722-b52d-1883cf9378fc&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80691470",
+      "itunes_duration": "01:23:28",
+      "speakers": [
+        "Pew Detective"
+      ],
+      "topics": [
+        "detective",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "0e6465dc312ab8a7d40154b04411b65f38c45276",
+      "title": "Critty Critty Bang Bang | The Glass Cannon Podcast Giantslayer E247 | Pathfinder 1E",
+      "published_at": "2020-02-18T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/critty-critty-bang-bang-the-glass-cannon-podcast-giantslayer-e247-pathfinder-1e-Vhd43n06",
+      "description": "Lives hang in the balance as the enemies continue their vicious onslaught. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/32a66ee1-5150-4f3a-95a5-3a10c97bda07/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=32a66ee1-5150-4f3a-95a5-3a10c97bda07&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83259415",
+      "itunes_duration": "01:26:08",
+      "speakers": [
+        "Critty Critty Bang Bang"
+      ],
+      "topics": [
+        "critty",
+        "bang",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "cf217a98bbed5adc2a75a7278641bed9d33ac1ef",
+      "title": "Vital Strike About You | The Glass Cannon Podcast Giantslayer E246 | Pathfinder 1E",
+      "published_at": "2020-02-11T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/vital-strike-about-you-the-glass-cannon-podcast-giantslayer-e246-pathfinder-1e-8vE17x2b",
+      "description": "The heroes find themselves surrounded by fire giant guards and giant flaming skeletons! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/95985f94-2ab2-4677-9fab-8b80dbb00b8f/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=95985f94-2ab2-4677-9fab-8b80dbb00b8f&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83972884",
+      "itunes_duration": "01:26:53",
+      "speakers": [],
+      "topics": [
+        "strike",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "59daaaa285787c0ff69a2085c6fb0be64775fb3b",
+      "title": "House of Guards | The Glass Cannon Podcast Giantslayer E245 | Pathfinder 1E",
+      "published_at": "2020-02-04T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/house-of-guards-the-glass-cannon-podcast-giantslayer-e245-pathfinder-1e-2TcdIucI",
+      "description": "After uncovering some high level intel, the heroes continue their search for Jimmer and Thoon. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/71868184-bcb3-4706-8fb4-2ee7af7fb485/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=71868184-bcb3-4706-8fb4-2ee7af7fb485&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69492270",
+      "itunes_duration": "01:11:48",
+      "speakers": [],
+      "topics": [
+        "house",
+        "guards",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2af14605d8d36ce0fc70f38ceeac231d724240dd",
+      "title": "Fog Day Afternoon | The Glass Cannon Podcast Giantslayer E244 | Pathfinder 1E",
+      "published_at": "2020-01-28T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/fog-day-afternoon-the-glass-cannon-podcast-giantslayer-e244-pathfinder-1e-7_DkQa_g",
+      "description": "As the Storm Tyrant, atop a gargantuan red dragon, rains fire down upon the dwarves of Kraggodan, the heroes struggle to survive amidst the turmoil of the battlefield. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/311a74cc-fc04-48c2-b47b-90bb9b7f09aa/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=311a74cc-fc04-48c2-b47b-90bb9b7f09aa&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61122697",
+      "itunes_duration": "01:03:05",
+      "speakers": [],
+      "topics": [
+        "afternoon",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "3a1b6427fa7a428c5d39cff848d521d206f7ae77",
+      "title": "The Return of the Queen | The Glass Cannon Podcast Giantslayer E243 | Pathfinder 1E",
+      "published_at": "2020-01-21T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-return-of-the-queen-the-glass-cannon-podcast-giantslayer-e243-pathfinder-1e-kPHCBK_o",
+      "description": "With the captured heroes sentenced to death amidst the giant encampment, an old rival returns to carry out the sentence. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/954b0afd-78ab-48e8-abaf-73211a1bb9d6/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=954b0afd-78ab-48e8-abaf-73211a1bb9d6&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94458678",
+      "itunes_duration": "01:37:48",
+      "speakers": [],
+      "topics": [
+        "return",
+        "queen",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "91a7a8bc8a2e207a338bcf6a4f691327170a9e20",
+      "title": "The Gun Also Rises | The Glass Cannon Podcast Giantslayer E242 | Pathfinder 1E",
+      "published_at": "2020-01-14T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-gun-also-rises-the-glass-cannon-podcast-giantslayer-e242-pathfinder-1e-Iee0xCq7",
+      "description": "Barron Ashpeak, Sheriff of Trunau, hovers on the brink of death against a fearsome invisible magma dragon. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/55af08eb-5c4b-4c9d-9d70-2388a9ee2472/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=55af08eb-5c4b-4c9d-9d70-2388a9ee2472&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73938535",
+      "itunes_duration": "01:16:26",
+      "speakers": [
+        "Barron Ashpeak"
+      ],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "347220fd7a7c5ac5f1c18cc396d66527df657620",
+      "title": "Til Breath Do Us Part Part 2 – Domination Committee | The Glass Cannon Podcast Giantslayer E241 | Pathfinder 1E",
+      "published_at": "2020-01-07T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/til-breath-do-us-part-part-2-domination-committee-the-glass-cannon-podcast-giantslayer-e241-pathfinder-1e-F6WDfAf5",
+      "description": "With Metra under the dragon's dominance, the heroes fight for their lives. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/e08ceb41-0e43-4b22-9428-16b7b3052992/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=e08ceb41-0e43-4b22-9428-16b7b3052992&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62029209",
+      "itunes_duration": "01:04:01",
+      "speakers": [
+        "Til Breath"
+      ],
+      "topics": [
+        "breath",
+        "domination",
+        "committee",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "a348370aa178eb97cb45a85197effe1bc7f4add8",
+      "title": "Til Breath Do Us Part | The Glass Cannon Podcast Giantslayer E240 | Pathfinder 1E",
+      "published_at": "2019-12-31T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/til-breath-do-us-part-the-glass-cannon-podcast-giantslayer-e240-pathfinder-1e-wOHUwUs8",
+      "description": "The heroes stumble upon an enormous magma pool guarded by unseen foes. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/63449676-e795-4cda-ae21-a1d6d761a5de/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=63449676-e795-4cda-ae21-a1d6d761a5de&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67186371",
+      "itunes_duration": "01:09:24",
+      "speakers": [
+        "Til Breath"
+      ],
+      "topics": [
+        "breath",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b4046fd214e280562661fd2a1ca6be4191f9ec1d",
+      "title": "Surely You Nest | The Glass Cannon Podcast Giantslayer E239 | Pathfinder 1E",
+      "published_at": "2019-12-24T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/surely-you-nest-the-glass-cannon-podcast-giantslayer-e239-pathfinder-1e-MFiV9GZM",
+      "description": "After surviving a thunder of dragons, the heroes continue cautiously exploring the oversized nests. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a0f36f77-7270-4591-8a9a-e19485a0b3b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a0f36f77-7270-4591-8a9a-e19485a0b3b3&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61408108",
+      "itunes_duration": "01:03:22",
+      "speakers": [],
+      "topics": [
+        "nest",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "151d0a3fa2ed6854e4610307e8da5ae0aede7a12",
+      "title": "Nest Side Story | The Glass Cannon Podcast Giantslayer E238 | Pathfinder 1E",
+      "published_at": "2019-12-17T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/nest-side-story-the-glass-cannon-podcast-giantslayer-e238-pathfinder-1e-4JOBjaZn",
+      "description": "The heroes face impossible odds as they find themselves caught in a nest full of dragons! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/ed89c73c-6c60-4724-9b6a-20659e9e74e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=ed89c73c-6c60-4724-9b6a-20659e9e74e7&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70348245",
+      "itunes_duration": "01:12:41",
+      "speakers": [
+        "Nest Side Story"
+      ],
+      "topics": [
+        "nest",
+        "story",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "1efd7a957a872250bb870d5bb3dba6f7804a9b8f",
+      "title": "Breath Wish | The Glass Cannon Podcast Giantslayer E237 | Pathfinder 1E",
+      "published_at": "2019-12-10T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/breath-wish-the-glass-cannon-podcast-giantslayer-e237-pathfinder-1e-uQbWM0ap",
+      "description": "The heroes' continued search of the new level of Ashpeak leads to an unexpected discovery. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f120d36f-cbd9-4078-8526-563652bad5e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f120d36f-cbd9-4078-8526-563652bad5e1&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74699615",
+      "itunes_duration": "01:17:13",
+      "speakers": [],
+      "topics": [
+        "breath",
+        "wish",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2bd23638658f8b08a51cd3d40d1895dc7def9528",
+      "title": "The Tell-Tale Heat | The Glass Cannon Podcast Giantslayer E236 | Pathfinder 1E",
+      "published_at": "2019-12-03T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-tell-tale-heat-the-glass-cannon-podcast-giantslayer-e236-pathfinder-1e-cl3rEGoM",
+      "description": "The heroes ascend to the next level of Ashpeak. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/e62f2aa3-4aea-4403-b1fe-aff085bd136a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=e62f2aa3-4aea-4403-b1fe-aff085bd136a&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67067208",
+      "itunes_duration": "01:09:16",
+      "speakers": [],
+      "topics": [
+        "tell",
+        "tale",
+        "heat",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "093dc7845c85454ce232929b0fc884320790623c",
+      "title": "Lava's a Battlefield | The Glass Cannon Podcast Giantslayer E235 | Pathfinder 1E",
+      "published_at": "2019-11-26T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/lavas-a-battlefield-the-glass-cannon-podcast-giantslayer-e235-pathfinder-1e-IGeKwGiO",
+      "description": "The heroes head back to Deep Ashpeak hoping to uncover secrets of Barron's past. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/406e566d-f595-4c16-822c-14332eaa2a19/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=406e566d-f595-4c16-822c-14332eaa2a19&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95220992",
+      "itunes_duration": "01:38:36",
+      "speakers": [
+        "Deep Ashpeak"
+      ],
+      "topics": [
+        "lava",
+        "battlefield",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "ca868c61536909cafdbd583e4437c74ba38cefbb",
+      "title": "50 Ways to Leave Your Lava | The Glass Cannon Podcast Giantslayer E234 | Pathfinder 1E",
+      "published_at": "2019-11-19T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/50-ways-to-leave-your-lava-the-glass-cannon-podcast-giantslayer-e234-pathfinder-1e-B0bM8Xuz",
+      "description": "Deep beneath Ashpeak, Barron confronts a past he never knew. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c7a6c834-ed09-498c-8fb9-056f35837566/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c7a6c834-ed09-498c-8fb9-056f35837566&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82464022",
+      "itunes_duration": "01:25:18",
+      "speakers": [
+        "beneath Ashpeak"
+      ],
+      "topics": [
+        "lava",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "c83a1766cfe69161e35a6d800dd83ecd6996c264",
+      "title": "Pit Happens | The Glass Cannon Podcast Giantslayer E233 | Pathfinder 1E",
+      "published_at": "2019-11-12T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/pit-happens-the-glass-cannon-podcast-giantslayer-e233-pathfinder-1e-Jet4S8mP",
+      "description": "The battle for The Great Stair comes to an unexpected conclusion! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/dbc8bd53-c7f2-4dc9-8e67-3237e95ef12b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=dbc8bd53-c7f2-4dc9-8e67-3237e95ef12b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72464344",
+      "itunes_duration": "01:14:54",
+      "speakers": [
+        "Pit Happens"
+      ],
+      "topics": [
+        "happens",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "7ea9b1e9fd95c375392a7628fc71538ef21b7485",
+      "title": "And Boom Goes the Rhino's Might | The Glass Cannon Podcast Giantslayer E232 | Pathfinder 1E",
+      "published_at": "2019-11-05T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/and-boom-goes-the-rhinos-might-the-glass-cannon-podcast-giantslayer-e232-pathfinder-1e-Gd73r7pI",
+      "description": "A fire giant captain astride an iron rhinoceros stampedes towards the heroes as the battle rages on! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/1db0f009-d073-4009-8cbb-dff23a155b07/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=1db0f009-d073-4009-8cbb-dff23a155b07&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64427880",
+      "itunes_duration": "01:06:31",
+      "speakers": [],
+      "topics": [
+        "boom",
+        "rhino",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "26be9690a39ffa38ce3cfc3ac2e13949d4294d41",
+      "title": "Captains Crunch | The Glass Cannon Podcast Giantslayer E231 | Pathfinder 1E",
+      "published_at": "2019-10-29T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/captains-crunch-the-glass-cannon-podcast-giantslayer-e231-pathfinder-1e-PwlkhY3y",
+      "description": "The heroes face a battle on two fronts as reinforcements join the already overmatched fight! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d4a2af03-9fe8-4675-b972-29f7851bd3d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d4a2af03-9fe8-4675-b972-29f7851bd3d3&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68945577",
+      "itunes_duration": "01:11:14",
+      "speakers": [
+        "Captains Crunch"
+      ],
+      "topics": [
+        "captain",
+        "crunch",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f31df474045c97d51bb4986658089edc0cbbd389",
+      "title": "The Bad News Stairs | The Glass Cannon Podcast Giantslayer E230 | Pathfinder 1E",
+      "published_at": "2019-10-22T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-bad-news-stairs-the-glass-cannon-podcast-giantslayer-e230-pathfinder-1e-c9oauAs4",
+      "description": "The party is split as their staggered pursuit of a fire giant leads into an ambush! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a14fbef9-f113-419e-ae4f-b03909b1513f/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a14fbef9-f113-419e-ae4f-b03909b1513f&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70919176",
+      "itunes_duration": "01:13:17",
+      "speakers": [],
+      "topics": [
+        "news",
+        "stairs",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f1f9817bb464db0b8e9d745111c41a47db230179",
+      "title": "Chase in the Hole | The Glass Cannon Podcast Giantslayer E229 | Pathfinder 1E",
+      "published_at": "2019-10-15T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/chase-in-the-hole-the-glass-cannon-podcast-giantslayer-e229-pathfinder-1e-D2atdh7E",
+      "description": "An ambush drives the party to make a bold decision. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b71f4d98-2ac3-49ee-bfec-df487ba069cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b71f4d98-2ac3-49ee-bfec-df487ba069cf&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70158023",
+      "itunes_duration": "01:12:29",
+      "speakers": [],
+      "topics": [
+        "chase",
+        "hole",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "cb0f4343cadb61cee09cd940eeff0f7a77f6f35c",
+      "title": "Mazed and Confused | The Glass Cannon Podcast Giantslayer E228 | Pathfinder 1E",
+      "published_at": "2019-10-08T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/mazed-and-confused-the-glass-cannon-podcast-giantslayer-e228-pathfinder-1e-qgsr3HEd",
+      "description": "The party's journey through Ashpeak leads to a strange and unsettling new cavern. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/fc8eb608-187f-4ce9-bd5a-527e1f0d324d/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=fc8eb608-187f-4ce9-bd5a-527e1f0d324d&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64736720",
+      "itunes_duration": "01:06:51",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2634137ae28ee257d28c1342215abfe01e145bc8",
+      "title": "Spear Pressure | The Glass Cannon Podcast Giantslayer E227 | Pathfinder 1E",
+      "published_at": "2019-10-01T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/spear-pressure-the-glass-cannon-podcast-giantslayer-e227-pathfinder-1e-Sh80umJO",
+      "description": "After barely surviving a tense battle, the party forges deeper into the mountain. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/ae104ec4-4f2c-40e5-a7c9-09df86c6314f/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=ae104ec4-4f2c-40e5-a7c9-09df86c6314f&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78789340",
+      "itunes_duration": "01:21:29",
+      "speakers": [
+        "Spear Pressure"
+      ],
+      "topics": [
+        "spear",
+        "pressure",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "8d5c4b8e93940659b30aa354ad26a1a5a8bf2dcf",
+      "title": "How Thoon We Forget | The Glass Cannon Podcast Giantslayer E226 | Pathfinder 1E",
+      "published_at": "2019-09-24T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/how-thoon-we-forget-the-glass-cannon-podcast-giantslayer-e226-pathfinder-1e-TU4eOyQu",
+      "description": "The heroes must make an impossible decision as an ally's life hangs in the balance! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2b8f3881-884c-42a8-8118-d7b2542c634d/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2b8f3881-884c-42a8-8118-d7b2542c634d&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69040449",
+      "itunes_duration": "01:11:20",
+      "speakers": [],
+      "topics": [
+        "thoon",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6ff34f3b284e17fc12512fb1b52c3f65121761ae",
+      "title": "Total Critshow | The Glass Cannon Podcast Giantslayer E225 | Pathfinder 1E",
+      "published_at": "2019-09-17T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/total-critshow-the-glass-cannon-podcast-giantslayer-e225-pathfinder-1e-0e8W8nEJ",
+      "description": "The battle with the frost and fire giants rages on! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/cf5a0e04-458b-4547-a4f5-846f00d411d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=cf5a0e04-458b-4547-a4f5-846f00d411d4&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67927790",
+      "itunes_duration": "01:10:10",
+      "speakers": [],
+      "topics": [
+        "critshow",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6fa90769530f9119f481bc14633bc397985982f0",
+      "title": "Statue of Limitations 2: Mural Plasticity | The Glass Cannon Podcast Giantslayer E224 | Pathfinder 1E",
+      "published_at": "2019-09-10T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/statue-of-limitations-2-mural-plasticity-the-glass-cannon-podcast-giantslayer-e224-pathfinder-1e-SE7Cq0i9",
+      "description": "The party comes upon a strange room full of familiar looking statues. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/16db463c-c465-4027-8ca9-568bc9c26b0e/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=16db463c-c465-4027-8ca9-568bc9c26b0e&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61645923",
+      "itunes_duration": "01:03:37",
+      "speakers": [
+        "Mural Plasticity"
+      ],
+      "topics": [
+        "statue",
+        "limitations",
+        "mural",
+        "plasticity",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "d788f947f2d436d45d80182624b2f0395f23a025",
+      "title": "Breaking a Mortarer | The Glass Cannon Podcast Giantslayer E223 | Pathfinder 1E",
+      "published_at": "2019-09-03T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/breaking-a-mortarer-the-glass-cannon-podcast-giantslayer-e223-pathfinder-1e-BlOIHS_E",
+      "description": "The party gets the jump on giants in the midst of target practice, but all may not be as it appears. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/020b9f09-49d0-43ab-b4b5-af4531b39693/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=020b9f09-49d0-43ab-b4b5-af4531b39693&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62430442",
+      "itunes_duration": "01:04:26",
+      "speakers": [],
+      "topics": [
+        "mortarer",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "3e7cbca71441c503d09f4506bd79c5c6375c0433",
+      "title": "High Planes Drifter | The Glass Cannon Podcast Giantslayer E222 | Pathfinder 1E",
+      "published_at": "2019-08-27T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/high-planes-drifter-the-glass-cannon-podcast-giantslayer-e222-pathfinder-1e-D6Q7mtmS",
+      "description": "A character's shadowy past is unveiled as the party's exploration of the volcano continues. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/27ac2ca4-443f-4f3f-8a3b-000826e1d635/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=27ac2ca4-443f-4f3f-8a3b-000826e1d635&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72892369",
+      "itunes_duration": "01:15:20",
+      "speakers": [
+        "High Planes Drifter"
+      ],
+      "topics": [
+        "high",
+        "planes",
+        "drifter",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "d7c31757e7949c40aac5ce142a87d6e50a9b17af",
+      "title": "The Burning Ambush | The Glass Cannon Podcast Giantslayer E221 | Pathfinder 1E",
+      "published_at": "2019-08-20T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-burning-ambush-the-glass-cannon-podcast-giantslayer-e221-pathfinder-1e-rSJmVLjo",
+      "description": "The party pushes forward into the second level of the volcano, walking straight into an enemy trap! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/9a9bb3b1-ec4f-4795-9550-1a582e482feb/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=9a9bb3b1-ec4f-4795-9550-1a582e482feb&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72488209",
+      "itunes_duration": "01:14:55",
+      "speakers": [],
+      "topics": [
+        "burning",
+        "ambush",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2d9b1179d2911c7d256583723819aa8e71a05043",
+      "title": "Collapse in Judgment | The Glass Cannon Podcast Giantslayer E220 | Pathfinder 1E",
+      "published_at": "2019-08-13T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/collapse-in-judgment-the-glass-cannon-podcast-giantslayer-e220-pathfinder-1e-0fNECQxO",
+      "description": "With the crack in the ceiling between levels staring them in the face, the party must decide the best way to proceed now that they've been discovered. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/714c1be1-af37-4c4c-9eb0-f15a77557ecf/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=714c1be1-af37-4c4c-9eb0-f15a77557ecf&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84614898",
+      "itunes_duration": "01:27:33",
+      "speakers": [],
+      "topics": [
+        "judgment",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2445f58eeeeba2a6bc6717efb69a8237579e596b",
+      "title": "Patrol Alt Delete | The Glass Cannon Podcast Giantslayer E219 | Pathfinder 1E",
+      "published_at": "2019-08-06T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/patrol-alt-delete-the-glass-cannon-podcast-giantslayer-e219-pathfinder-1e-VGW_WDDh",
+      "description": "A hasty decision leaves the party with their backs up against the wall. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/ddc2a5d6-3591-4230-873a-287aa2bbc891/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=ddc2a5d6-3591-4230-873a-287aa2bbc891&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79217323",
+      "itunes_duration": "01:21:56",
+      "speakers": [],
+      "topics": [
+        "patrol",
+        "delete",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f83bed994f7611a6f6eed40ca02cb664c0503827",
+      "title": "An Orc in the Road | The Glass Cannon Podcast Giantslayer E218 | Pathfinder 1E",
+      "published_at": "2019-07-30T16:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/an-orc-in-the-road-the-glass-cannon-podcast-giantslayer-e218-pathfinder-1e-GBP2ooJX",
+      "description": "The heroes have reached the passageway leading deeper into the mountain, but there are promises left to keep... For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/00f83015-99c6-452d-a6c0-9a01ae7a21a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=00f83015-99c6-452d-a6c0-9a01ae7a21a0&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83972904",
+      "itunes_duration": "01:26:53",
+      "speakers": [],
+      "topics": [
+        "road",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2f9d877e70667400815e2fa34d8f557e99e3dff0",
+      "title": "Her Dark Materials | The Glass Cannon Podcast Giantslayer E217 | Pathfinder 1E",
+      "published_at": "2019-07-23T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/her-dark-materials-the-glass-cannon-podcast-giantslayer-e217-pathfinder-1e-tIJldm5b",
+      "description": "With Thoon's guidance, the heroes reach the cavern with the crack in the ceiling, but the path forward is not as clear as it appears. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/9edf770e-502e-42ce-9335-e080172087a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=9edf770e-502e-42ce-9335-e080172087a6&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82855254",
+      "itunes_duration": "01:25:43",
+      "speakers": [
+        "Thoon's guidance"
+      ],
+      "topics": [
+        "dark",
+        "materials",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b1b846d6de95f5fc921991f2f8ca451c78c8ccb7",
+      "title": "The War on Nugs | The Glass Cannon Podcast Giantslayer E216 | Pathfinder 1E",
+      "published_at": "2019-07-16T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-war-on-nugs-the-glass-cannon-podcast-giantslayer-e216-pathfinder-1e-tD_pBzbK",
+      "description": "As fire giants close in on the party, Jimmer's sword Terminus Est is hurled into a pile of shit surrounded by hungry otyughs. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f01bc8e3-7983-41a5-9acc-6ff8011ca350/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f01bc8e3-7983-41a5-9acc-6ff8011ca350&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77647938",
+      "itunes_duration": "01:20:17",
+      "speakers": [],
+      "topics": [
+        "nugs",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "9683726cb8939646edb0dfd73ec2e0fff5412895",
+      "title": "The Dung and the Restless | The Glass Cannon Podcast Giantslayer E215 | Pathfinder 1E",
+      "published_at": "2019-07-09T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-dung-and-the-restless-the-glass-cannon-podcast-giantslayer-e215-pathfinder-1e-cLOHdA8P",
+      "description": "The heroes continue pushing forward through the tunnels with their odd new traveling companion in tow. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/99b4b514-64d0-497c-a04c-a57974113920/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=99b4b514-64d0-497c-a04c-a57974113920&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69967925",
+      "itunes_duration": "01:12:17",
+      "speakers": [],
+      "topics": [
+        "dung",
+        "restless",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "72990f1294bad117fceb6d22981d5e3b04f20fbb",
+      "title": "Treacherous H | The Glass Cannon Podcast Giantslayer E214 | Pathfinder 1E",
+      "published_at": "2019-07-02T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/treacherous-h-the-glass-cannon-podcast-giantslayer-e214-pathfinder-1e-RcD5GOJJ",
+      "description": "In the depths of Ashpeak, the heroes receive an intriguing offer. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/00e4ad30-a94b-421f-a1a7-cb0cc4b03a91/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=00e4ad30-a94b-421f-a1a7-cb0cc4b03a91&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72702164",
+      "itunes_duration": "01:15:08",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "67ef5091aee6a4d4fba8cfc1c153fd4115c8c9ae",
+      "title": "Crowd Control From Della's Mom | The Glass Cannon Podcast Giantslayer E213 | Pathfinder 1E",
+      "published_at": "2019-06-25T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/crowd-control-from-dellas-mom-the-glass-cannon-podcast-giantslayer-e213-pathfinder-1e-LmQRumaQ",
+      "description": "A risky illusion leads the heroes to an all out brawl with four fire giants! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/1983f8d6-28bf-485d-a6d1-d9c821e00500/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=1983f8d6-28bf-485d-a6d1-d9c821e00500&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69801557",
+      "itunes_duration": "01:12:07",
+      "speakers": [],
+      "topics": [
+        "crowd",
+        "control",
+        "della",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "ec67b87387b580f5719a6d68c6e51fc2cbd5b268",
+      "title": "Strictly Mushrooms | The Glass Cannon Podcast Giantslayer E212 | Pathfinder 1E",
+      "published_at": "2019-06-18T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/strictly-mushrooms-the-glass-cannon-podcast-giantslayer-e212-pathfinder-1e-SLO6GzIy",
+      "description": "The heroes plunge further into the dark tunnels of Ashpeak. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/77ae9c28-a34d-4c3f-9661-0c3c72206462/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=77ae9c28-a34d-4c3f-9661-0c3c72206462&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67979219",
+      "itunes_duration": "01:10:13",
+      "speakers": [],
+      "topics": [
+        "mushroom",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "aad4ae913f5c774451a44c3010df9aa973e8140c",
+      "title": "Fast Climbs at Ashpeak High | The Glass Cannon Podcast Giantslayer E211 | Pathfinder 1E",
+      "published_at": "2019-06-11T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/fast-climbs-at-ashpeak-high-the-glass-cannon-podcast-giantslayer-e211-pathfinder-1e-84Qmnbuv",
+      "description": "The battle with the fire giant guards rages on! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/501e37e1-f072-4bdd-8cbb-ce8f1c0754f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=501e37e1-f072-4bdd-8cbb-ce8f1c0754f2&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68901640",
+      "itunes_duration": "01:11:11",
+      "speakers": [],
+      "topics": [
+        "climbs",
+        "ashpeak",
+        "high",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2f29fe01344f84a671b70a54751e57259d546ae3",
+      "title": "Pit Could Happen to You | The Glass Cannon Podcast Giantslayer E210 | Pathfinder 1E",
+      "published_at": "2019-06-04T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/pit-could-happen-to-you-the-glass-cannon-podcast-giantslayer-e210-pathfinder-1e-VPWDgJVp",
+      "description": "The new party arrives at the dormant volcano of Ashpeak as the next chapter of their epic quest to save the world begins. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/479ebf54-e1d9-4d45-ae4a-4874e7707712/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=479ebf54-e1d9-4d45-ae4a-4874e7707712&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69384889",
+      "itunes_duration": "01:11:41",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "e6de2a9ac385ade68b41ae3ed5e1c78cfba0a4e6",
+      "title": "Character Cremation | The Glass Cannon Podcast Giantslayer E209 | Pathfinder 1E",
+      "published_at": "2019-05-28T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/character-cremation-the-glass-cannon-podcast-giantslayer-e209-pathfinder-1e-Lj0_A7UA",
+      "description": "After being found not guilty by the dwarven tribunal, the heroes are free to explore Kraggodan before setting off in search of Ashpeak. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c59f1d6c-58cb-4204-b5b7-ab13fa58b5d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c59f1d6c-58cb-4204-b5b7-ab13fa58b5d0&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79050994",
+      "itunes_duration": "01:21:45",
+      "speakers": [],
+      "topics": [
+        "character",
+        "cremation",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "13965b56bc6473064e077a4b7388c0872534dbcd",
+      "title": "Trial 'Em for Murder | The Glass Cannon Podcast Giantslayer E208 | Pathfinder 1E",
+      "published_at": "2019-05-21T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/trial-em-for-murder-the-glass-cannon-podcast-giantslayer-e208-pathfinder-1e-qf_f_moA",
+      "description": "On their way to the dwarven Sky Citadel of Kraggodan, the heroes awake from a night's rest to find that something is not quite right. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/72243b38-1780-46ca-9faa-4f3cb003fae9/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=72243b38-1780-46ca-9faa-4f3cb003fae9&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66710329",
+      "itunes_duration": "01:08:54",
+      "speakers": [
+        "Sky Citadel"
+      ],
+      "topics": [
+        "trial",
+        "murder",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "153707155ca3fe0aec501787695f717bbee693e9",
+      "title": "You've Got Chainmail | The Glass Cannon Podcast Giantslayer E207 | Pathfinder 1E",
+      "published_at": "2019-05-14T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/you-ve-got-chainmail-the-glass-cannon-podcast-giantslayer-e207-pathfinder-1e-AgiL3f0L",
+      "description": "The new party comes to terms with the location of the elite giant training academy and what to do with Skirkatla's armor. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2a0691b8-e305-4c40-b580-770a7932f8d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2a0691b8-e305-4c40-b580-770a7932f8d8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77888684",
+      "itunes_duration": "01:20:33",
+      "speakers": [],
+      "topics": [
+        "chainmail",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "c28f2b002bcd635785eb4e9a9b203effde05aea5",
+      "title": "Don't Tell Mom Her Baby's More Than Dead | The Glass Cannon Podcast Giantslayer E206 | Pathfinder 1E",
+      "published_at": "2019-05-07T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/don-t-tell-mom-her-babys-more-than-dead-the-glass-cannon-podcast-giantslayer-e206-pathfinder-1e-BGt6VOCb",
+      "description": "While Barron and Dalgreath recover from the physical and emotional wounds of the throne room battle, two strangers arrive at Skirgaard looking for the Sheriff of Trunau. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/872c317e-2e27-40d0-b380-c2a30d37509b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=872c317e-2e27-40d0-b380-c2a30d37509b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108154417",
+      "itunes_duration": "01:52:04",
+      "speakers": [],
+      "topics": [
+        "baby",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "af6bbf80812bcf752f69affa926c657b26c5c7e6",
+      "title": "Throne for a Loop 4: Some New Hope | The Glass Cannon Podcast Giantslayer E205 | Pathfinder 1E",
+      "published_at": "2019-04-30T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/throne-for-a-loop-4-some-new-hope-the-glass-cannon-podcast-giantslayer-e205-pathfinder-1e-t6_ovqbz",
+      "description": "With two of their party vanquished, the remaining combatants try to stay alive against impossible odds. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/abf1423c-de00-4114-a043-f92dae2114e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=abf1423c-de00-4114-a043-f92dae2114e1&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73736673",
+      "itunes_duration": "01:16:13",
+      "speakers": [],
+      "topics": [
+        "throne",
+        "loop",
+        "hope",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "de28edef441bdeabcf999a4e496119065f42474d",
+      "title": "Throne for a Loop 3: Passed from the Blast | The Glass Cannon Podcast Giantslayer E204 | Pathfinder 1E",
+      "published_at": "2019-04-23T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/throne-for-a-loop-3-passed-from-the-blast-the-glass-cannon-podcast-giantslayer-e204-pathfinder-1e-0IeHwx1N",
+      "description": "With one already fallen, the remaining heroes look for a means of survival while knowing that any move they make could seal the fate of their comrades. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/995e0de4-5c20-4ae0-aa80-020048375ca1/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=995e0de4-5c20-4ae0-aa80-020048375ca1&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71945743",
+      "itunes_duration": "01:14:21",
+      "speakers": [],
+      "topics": [
+        "throne",
+        "loop",
+        "blast",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "5649ae14918d9faf5cf3ac1078bac8beb75a4038",
+      "title": "Throne for a Loop 2: The Flaming of the Crew | The Glass Cannon Podcast Giantslayer E203 | Pathfinder 1E",
+      "published_at": "2019-04-16T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/throne-for-a-loop-2-the-flaming-of-the-crew-the-glass-cannon-podcast-giantslayer-e203-pathfinder-1e-rShXlK_2",
+      "description": "The party faces their greatest test against the frost giant queen and her minions! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/10981a7d-5d78-40a2-a446-47bc5c74681b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=10981a7d-5d78-40a2-a446-47bc5c74681b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74105302",
+      "itunes_duration": "01:16:36",
+      "speakers": [],
+      "topics": [
+        "throne",
+        "loop",
+        "flaming",
+        "crew",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "a5e886a48a0cf193b35035b8328deeaff9bf06b8",
+      "title": "Throne for a Loop | The Glass Cannon Podcast Giantslayer E202 | Pathfinder 1E",
+      "published_at": "2019-04-09T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/throne-for-a-loop-the-glass-cannon-podcast-giantslayer-e202-pathfinder-1e-YOkwjbS8",
+      "description": "At long last, the heroes enter the throne room to face the frost giant queen Skirkatla! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4e32a775-1b8d-45b6-b504-e0f08d2b29cb/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4e32a775-1b8d-45b6-b504-e0f08d2b29cb&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69064275",
+      "itunes_duration": "01:11:21",
+      "speakers": [],
+      "topics": [
+        "throne",
+        "loop",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "25f6acad228aff33a0ab7c91284892355d80736b",
+      "title": "Plot Armor | The Glass Cannon Podcast Giantslayer E201 | Pathfinder 1E",
+      "published_at": "2019-04-02T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/plot-armor-the-glass-cannon-podcast-giantslayer-e201-pathfinder-1e-62jVQBko",
+      "description": "Brandyr returns with grave tidings and a peculiar request. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b0324bbd-2496-43c4-8323-828b5003198f/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b0324bbd-2496-43c4-8323-828b5003198f&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68588593",
+      "itunes_duration": "01:10:51",
+      "speakers": [
+        "grave tidings"
+      ],
+      "topics": [
+        "plot",
+        "armor",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2ca779ecea54ab7321ce371a09085322b31467ed",
+      "title": "Viva Lost Magus | The Glass Cannon Podcast Giantslayer E200 Part 3 | Pathfinder 1E",
+      "published_at": "2019-03-26T04:02:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/viva-lost-magus-the-glass-cannon-podcast-giantslayer-e200-part-3-pathfinder-1e-I8_AQfk4",
+      "description": "The past and the present collide as the #Marchto200 reaches its conclusion. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/6d899d81-c3ac-47cd-8337-a0bdc724c42e/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=6d899d81-c3ac-47cd-8337-a0bdc724c42e&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "128507259",
+      "itunes_duration": "02:13:16",
+      "speakers": [],
+      "topics": [
+        "viva",
+        "lost",
+        "magus",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "9e9f1da1965cd6b14cb54f7c34e6127023aef0f8",
+      "title": "Viva Lost Magus | The Glass Cannon Podcast Giantslayer E200 Part 2 | Pathfinder 1E",
+      "published_at": "2019-03-26T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/viva-lost-magus-the-glass-cannon-podcast-giantslayer-e200-part-2-pathfinder-1e-rXEIz9dJ",
+      "description": "The past and the present collide as the #Marchto200 reaches its conclusion. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/83c4460f-e405-4a98-9b00-73c8584e1c7e/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=83c4460f-e405-4a98-9b00-73c8584e1c7e&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61914658",
+      "itunes_duration": "01:03:54",
+      "speakers": [],
+      "topics": [
+        "viva",
+        "lost",
+        "magus",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "215e2364e8406e04b9855bbf0424d62016d0b4a6",
+      "title": "Viva Lost Magus | The Glass Cannon Podcast Giantslayer E200 Part 1 | Pathfinder 1E",
+      "published_at": "2019-03-26T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/viva-lost-magus-the-glass-cannon-podcast-giantslayer-e200-part-1-pathfinder-1e-DaHEZC0g",
+      "description": "The past and the present collide as the #Marchto200 reaches its conclusion. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/741edcc9-6f3f-4884-934f-217809b3a991/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=741edcc9-6f3f-4884-934f-217809b3a991&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70300591",
+      "itunes_duration": "01:12:38",
+      "speakers": [],
+      "topics": [
+        "viva",
+        "lost",
+        "magus",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "240cca8756afccc754b299907ea7802ca17fdf88",
+      "title": "Dungeons and Dragons | The Glass Cannon Podcast Giantslayer E199 | Pathfinder 1E",
+      "published_at": "2019-03-19T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/dungeons-and-dragons-the-glass-cannon-podcast-giantslayer-e199-pathfinder-1e-Y_UpW1ZD",
+      "description": "While Dalgreath triggers a devastating treasure-filled trap, Fairaza gains invaluable intel on how next the party should proceed. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2f5748e2-8995-47de-b55b-a80b2e6b4b03/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2f5748e2-8995-47de-b55b-a80b2e6b4b03&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100314710",
+      "itunes_duration": "01:43:54",
+      "speakers": [],
+      "topics": [
+        "dungeon",
+        "dragons",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "ce6594640ca84ddbf60e4f29fc6fa292c4b38951",
+      "title": "Better Off Undead | The Glass Cannon Podcast Giantslayer E198 | Pathfinder 1E",
+      "published_at": "2019-03-12T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/better-off-undead-the-glass-cannon-podcast-giantslayer-e198-pathfinder-1e-j5IogJvd",
+      "description": "With Nephandros defeated, the heroes must contend with the diseased aberration he left behind. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/6f437bd7-4ca7-447d-bc54-df6fade63130/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=6f437bd7-4ca7-447d-bc54-df6fade63130&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80882078",
+      "itunes_duration": "01:23:40",
+      "speakers": [],
+      "topics": [
+        "undead",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "d97d01ef3d56d94097c642efd8b0b0a7791f253a",
+      "title": "Grate Expectations 2: Tar Pool Karaoke | The Glass Cannon Podcast Giantslayer E197 | Pathfinder 1E",
+      "published_at": "2019-03-05T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/grate-expectations-2-tar-pool-karaoke-the-glass-cannon-podcast-giantslayer-e197-pathfinder-1e-75oo_8Cm",
+      "description": "While Fly-raza does reconnaissance on what appears to be a macabre laboratory, the rest of the team plots an ambush from below. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/3ece4966-1f8c-46b7-b5d2-410ac53a0036/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=3ece4966-1f8c-46b7-b5d2-410ac53a0036&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66758037",
+      "itunes_duration": "01:08:57",
+      "speakers": [],
+      "topics": [
+        "grate",
+        "expectation",
+        "pool",
+        "karaoke",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "aac0e7d4037c74053138d29733846acd3e404ca2",
+      "title": "Just Druid | The Glass Cannon Podcast Giantslayer E196 | Pathfinder 1E",
+      "published_at": "2019-02-26T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/just-druid-the-glass-cannon-podcast-giantslayer-e196-pathfinder-1e-WTgWpxph",
+      "description": "With the yuki-onnas defeated, the party regroups before delving deeper into the mysterious tunnel. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b8232600-7b73-46aa-bc44-d97f20fc4e86/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b8232600-7b73-46aa-bc44-d97f20fc4e86&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75674303",
+      "itunes_duration": "01:18:14",
+      "speakers": [],
+      "topics": [
+        "druid",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "0437ce2e22f9e59bc44fc539b2617b2a45271021",
+      "title": "Take My Knife, Please! | The Glass Cannon Podcast Giantslayer E195 | Pathfinder 1E",
+      "published_at": "2019-02-19T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/take-my-knife-please-the-glass-cannon-podcast-giantslayer-e195-pathfinder-1e-NtiCghfP",
+      "description": "With a snowstorm clouding their vision and deflecting their projectiles, the party continues to contend with the wailing incorporeal women. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d0e9228e-ef75-4770-ade0-207de1eb35b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d0e9228e-ef75-4770-ade0-207de1eb35b4&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69967916",
+      "itunes_duration": "01:12:17",
+      "speakers": [],
+      "topics": [
+        "knife",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "3b765022fd102ad4b2f4ed03f0c962261bbcecad",
+      "title": "A Wail of Two Pretties | The Glass Cannon Podcast Giantslayer E194 | Pathfinder 1E",
+      "published_at": "2019-02-12T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/a-wail-of-two-pretties-the-glass-cannon-podcast-giantslayer-e194-pathfinder-1e-RLM6qjYw",
+      "description": "After clearing out the Chapel of Urgathoa, the heroes must make a crucial decision on where to head next. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4626d59b-587b-48b6-b304-e9d26f9a9087/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4626d59b-587b-48b6-b304-e9d26f9a9087&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94696063",
+      "itunes_duration": "01:38:03",
+      "speakers": [
+        "Two Pretties"
+      ],
+      "topics": [
+        "wail",
+        "pretties",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "97250c6f1226da935176bb0677772444eebf9410",
+      "title": "Dust Issues | The Glass Cannon Podcast Giantslayer E193 | Pathfinder 1E",
+      "published_at": "2019-02-05T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/dust-issues-the-glass-cannon-podcast-giantslayer-e193-pathfinder-1e-_fqQtBpY",
+      "description": "A giantess reaches into the incorporeal dust that is Fairaza's soul as the battle in the Chapel of Urgathoa continues. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4bd10d9e-a024-46eb-bf0e-b50727cd5288/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4bd10d9e-a024-46eb-bf0e-b50727cd5288&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66758001",
+      "itunes_duration": "01:08:57",
+      "speakers": [
+        "Dust Issues"
+      ],
+      "topics": [
+        "dust",
+        "issue",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "6f45130bfa7c6f98fcf0142c7a0235be46b52668",
+      "title": "The Eyes Have It | The Glass Cannon Podcast Giantslayer E192 | Pathfinder 1E",
+      "published_at": "2019-01-29T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-eyes-have-it-the-glass-cannon-podcast-giantslayer-e192-pathfinder-1e-ewz6RJAx",
+      "description": "The horrors of the mountain tomb begin to come into focus as the heroes parlay with a visionary cyclops and her necromantic cohort in a chapel dedicated to Urgathoa. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/ca5fe258-6b06-4874-93d7-df1a29c55c6f/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=ca5fe258-6b06-4874-93d7-df1a29c55c6f&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62121615",
+      "itunes_duration": "01:04:07",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "3aaa539c93503eaa429fc2382649ccf244b2db5c",
+      "title": "Climb Gonna Git You Sucka | The Glass Cannon Podcast Giantslayer E191 | Pathfinder 1E",
+      "published_at": "2019-01-22T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/climb-gonna-git-you-sucka-the-glass-cannon-podcast-giantslayer-e191-pathfinder-1e-q7WMMMjB",
+      "description": "With a new companion in tow, the heroes continue their exploration of the tomb by crossing a gaping chasm. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c9853b86-8958-4710-9309-17bd0e33e52c/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c9853b86-8958-4710-9309-17bd0e33e52c&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63643371",
+      "itunes_duration": "01:05:42",
+      "speakers": [],
+      "topics": [
+        "climb",
+        "sucka",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "af0dbf5bf61fef67ba98f431737925c8d1efbc2f",
+      "title": "Dead Head Redemption 2: Geas Who's Coming to Dinner | The Glass Cannon Podcast Giantslayer E190 | Pathfinder 1E",
+      "published_at": "2019-01-15T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/dead-head-redemption-2-geas-whos-coming-to-dinner-the-glass-cannon-podcast-giantslayer-e190-pathfinder-1e-s0DnguPN",
+      "description": "Grieving over the loss of yet another ally and devastated by a debilitating curse, the surviving heroes take an enormous risk to try and turn the tides. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/fffaa28b-0167-4383-b36b-b985edfeea60/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=fffaa28b-0167-4383-b36b-b985edfeea60&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69635276",
+      "itunes_duration": "01:11:57",
+      "speakers": [],
+      "topics": [
+        "head",
+        "redemption",
+        "geas",
+        "dinner",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "61c1b7755cac80320a63c03b6bad6fe5ce205fed",
+      "title": "Lance Lance Retribution 2: Lance Like Nobody's Watching | The Glass Cannon Podcast Giantslayer E189 | Pathfinder 1E",
+      "published_at": "2019-01-08T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/lance-lance-retribution-2-lance-like-nobodys-watching-the-glass-cannon-podcast-giantslayer-e189-pathfinder-1e-_n6HtjI4",
+      "description": "The rejuvenated dullahan interrupts the party's attempt to fulfill their geas. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/ee4bc034-9e17-4573-91a3-f57a43ddb2d6/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=ee4bc034-9e17-4573-91a3-f57a43ddb2d6&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65973496",
+      "itunes_duration": "01:08:08",
+      "speakers": [],
+      "topics": [
+        "lance",
+        "retribution",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "66214b37d70c7bfe87a687774694511aee47b5b1",
+      "title": "Vorpal Rain | The Glass Cannon Podcast Giantslayer E188 | Pathfinder 1E",
+      "published_at": "2019-01-01T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/vorpal-rain-the-glass-cannon-podcast-giantslayer-e188-pathfinder-1e-st7SX0El",
+      "description": "With Hhurrun Springbane defeated, the heroes must conquer his undead allies before returning to Akargrim and completing their quest. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d5943b27-975b-4d6b-b955-a5a30a0ced10/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d5943b27-975b-4d6b-b955-a5a30a0ced10&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60766102",
+      "itunes_duration": "01:02:42",
+      "speakers": [
+        "Hhurrun Springbane"
+      ],
+      "topics": [
+        "vorpal",
+        "rain",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "ccc1ebf045867435aa36fda5009bf980c035d20b",
+      "title": "Quest Side Story | The Glass Cannon Podcast Giantslayer E187 | Pathfinder 1E",
+      "published_at": "2018-12-25T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/quest-side-story-the-glass-cannon-podcast-giantslayer-e187-pathfinder-1e-WkGkRThq",
+      "description": "Physically and mentally impaired, the party returns to the mountain tomb seeking vengeance against the corpse of a false giant hero. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/67345dfe-10df-4349-8b80-f2dbcd708727/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=67345dfe-10df-4349-8b80-f2dbcd708727&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93043005",
+      "itunes_duration": "01:36:20",
+      "speakers": [
+        "Quest Side Story"
+      ],
+      "topics": [
+        "quest",
+        "story",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "7d3ffb6bd92f056e86ad65e69c6109bbc5d1bea1",
+      "title": "Curse Your Enthusiasm | The Glass Cannon Podcast Giantslayer E186 | Pathfinder 1E",
+      "published_at": "2018-12-18T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/curse-your-enthusiasm-the-glass-cannon-podcast-giantslayer-e186-pathfinder-1e-VwhvUh1X",
+      "description": "Attempting to follow the urgings of an animated dwarven skull, the party's progress through the mountain tomb is suddenly cut short. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/81ec5481-2ddf-42ef-8b88-47b1ff0b7d1b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=81ec5481-2ddf-42ef-8b88-47b1ff0b7d1b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66805622",
+      "itunes_duration": "01:09:00",
+      "speakers": [],
+      "topics": [
+        "enthusiasm",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "5e5831a82c7cc1fc4cae779d323ce83a7625f291",
+      "title": "Dead Head Redemption | The Glass Cannon Podcast Giantslayer E185 | Pathfinder 1E",
+      "published_at": "2018-12-11T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/dead-head-redemption-the-glass-cannon-podcast-giantslayer-e185-pathfinder-1e-bhwvL0dP",
+      "description": "A headless rider threatens to end the party's journey through the depths of the frozen tomb! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f87033f8-0b50-43c3-8b67-597ff48c02d2/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f87033f8-0b50-43c3-8b67-597ff48c02d2&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69896439",
+      "itunes_duration": "01:12:13",
+      "speakers": [
+        "Dead Head Redemption"
+      ],
+      "topics": [
+        "head",
+        "redemption",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "7ab15394fd556a2ff810528426ec07531ec7969d",
+      "title": "Lance Lance Retribution | The Glass Cannon Podcast Giantslayer E184 | Pathfinder 1E",
+      "published_at": "2018-12-04T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/lance-lance-retribution-the-glass-cannon-podcast-giantslayer-e184-pathfinder-1e-WlWDuIk3",
+      "description": "The larger picture begins to come into focus as the party plunges headlong into the waiting darkness. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/85eb54e2-3060-4bfd-93b0-79eed1fc1952/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=85eb54e2-3060-4bfd-93b0-79eed1fc1952&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77410104",
+      "itunes_duration": "01:20:03",
+      "speakers": [
+        "Lance Lance Retribution"
+      ],
+      "topics": [
+        "lance",
+        "retribution",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "93da328e7a978365f6208dbe73c6d152d38b43c5",
+      "title": "Romancing the Bones | The Glass Cannon Podcast Giantslayer E183 | Pathfinder 1E",
+      "published_at": "2018-11-27T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/romancing-the-bones-the-glass-cannon-podcast-giantslayer-e183-pathfinder-1e-qdJf68KP",
+      "description": "As Four Bears is pulled into the darkness by an unknown monstrosity, the party must act quickly without knowing what they're up against! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/992b9781-457e-4b79-9c07-6878470a80c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=992b9781-457e-4b79-9c07-6878470a80c6&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69254451",
+      "itunes_duration": "01:11:33",
+      "speakers": [],
+      "topics": [
+        "bones",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "e4351c38a5efb25cb26e71db04a0f58f7c236878",
+      "title": "Trilling Them Softly Part 3 – License to Trill | The Glass Cannon Podcast Giantslayer E182 | Pathfinder 1E",
+      "published_at": "2018-11-20T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/trilling-them-softly-part-3-license-to-trill-the-glass-cannon-podcast-giantslayer-e182-pathfinder-1e-vrR10J_S",
+      "description": "The party falls victim to the death throes of the first slain frost worm, while another worm and even greater horrors await them nearby. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d30808a6-0761-4464-bb89-e323daacfd21/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d30808a6-0761-4464-bb89-e323daacfd21&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66282372",
+      "itunes_duration": "01:08:27",
+      "speakers": [],
+      "topics": [
+        "license",
+        "trill",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "303c2003450129329941d70e3118828d3d1e57f1",
+      "title": "Trilling Them Softly Part 2 – A View to a Trill | The Glass Cannon Podcast Giantslayer E181 | Pathfinder 1E",
+      "published_at": "2018-11-13T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/trilling-them-softly-part-2-a-view-to-a-trill-the-glass-cannon-podcast-giantslayer-e181-pathfinder-1e-Igl5vDA_",
+      "description": "On the brink of total annihilation, the party licks its wounds and regroups for a second chance at two deadly foes. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/788cc6a1-e6ec-4826-975f-03c03f285f97/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=788cc6a1-e6ec-4826-975f-03c03f285f97&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73201713",
+      "itunes_duration": "01:15:40",
+      "speakers": [],
+      "topics": [
+        "view",
+        "trill",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "a62fb805119a70379fc90e6b7601ee44765b3aa4",
+      "title": "Trilling Them Softly | The Glass Cannon Podcast Giantslayer E180 | Pathfinder 1E",
+      "published_at": "2018-11-06T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/trilling-them-softly-the-glass-cannon-podcast-giantslayer-e180-pathfinder-1e-mDo13NEe",
+      "description": "With another room cleared, the party stumbles upon a collapsed wall opening to a series of tunnels within the tomb. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/62d9a781-04be-4f74-98c0-7ebac4250ca4/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=62d9a781-04be-4f74-98c0-7ebac4250ca4&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65910804",
+      "itunes_duration": "01:08:04",
+      "speakers": [
+        "room cleared"
+      ],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "4208a3ca8cb87827f7fa116aadb669d6bc706dbb",
+      "title": "Y Tu Mammoth También | The Glass Cannon Podcast Giantslayer E179 | Pathfinder 1E",
+      "published_at": "2018-10-30T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/y-tu-mammoth-tambien-the-glass-cannon-podcast-giantslayer-e179-pathfinder-1e-TUL3SDoL",
+      "description": "As the heroes continue their delve into the strange tomb within the mountain, they are greeted by more of its strange inhabitants. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/502c1e85-48de-4837-b43d-43187e122a68/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=502c1e85-48de-4837-b43d-43187e122a68&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74328936",
+      "itunes_duration": "01:16:50",
+      "speakers": [
+        "Tu Mammoth"
+      ],
+      "topics": [
+        "mammoth",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "9c05efca5d47771ff5126a47dfcabccc9e36ee0a",
+      "title": "The Ice Is Right | The Glass Cannon Podcast Giantslayer E178 | Pathfinder 1E",
+      "published_at": "2018-10-23T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-ice-is-right-the-glass-cannon-podcast-giantslayer-e178-pathfinder-1e-27wP11lk",
+      "description": "Barron, Fairaza, Four Bears and Pembroke enter the door leading into the mountain and quickly discover all is not as it seems. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/e4d08a07-172e-4c94-9dea-5e34803e2623/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=e4d08a07-172e-4c94-9dea-5e34803e2623&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72515820",
+      "itunes_duration": "01:14:57",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "01c1943f87f971f14d5b6987ca6808ac17163ca6",
+      "title": "The Ploy That Cried Wolf | The Glass Cannon Podcast Giantslayer E177 | Pathfinder 1E",
+      "published_at": "2018-10-16T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-ploy-that-cried-wolf-the-glass-cannon-podcast-giantslayer-e177-pathfinder-1e-UhJYVfS2",
+      "description": "With the camp disbanded, the heroes must rest up and rearm themselves before entering the ominous door built directly into the mountain. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/74dd4649-71b1-4c7c-8ba3-de8239aa3ca7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=74dd4649-71b1-4c7c-8ba3-de8239aa3ca7&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72797496",
+      "itunes_duration": "01:15:14",
+      "speakers": [],
+      "topics": [
+        "ploy",
+        "wolf",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "5387d11e55759141264974f488bfb37b2b818a5e",
+      "title": "And the Disband Played On | The Glass Cannon Podcast Giantslayer E176 | Pathfinder 1E",
+      "published_at": "2018-10-09T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/and-the-disband-played-on-the-glass-cannon-podcast-giantslayer-e176-pathfinder-1e-bt9wajJu",
+      "description": "As the giant camp at Skirgaard begins to fall apart at the seams, the heroes must look to the future while haunted by the past. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/330cdf1e-bf43-4b33-b127-886abaaf909b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=330cdf1e-bf43-4b33-b127-886abaaf909b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67353198",
+      "itunes_duration": "01:09:34",
+      "speakers": [],
+      "topics": [
+        "disband",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "5400640c9a74eb633eba453b5c03bd5a9058b656",
+      "title": "Something Wicker This Way Comes | The Glass Cannon Podcast Giantslayer E175 | Pathfinder 1E",
+      "published_at": "2018-10-02T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/something-wicker-this-way-comes-the-glass-cannon-podcast-giantslayer-e175-pathfinder-1e-hXhQXA1z",
+      "description": "A daring chase across the camp leaves the heroes face to face with a burning colossus! As their leader burns alive inside the creature, will all their efforts to sabotage the giants come crashing down around them?! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/82b1d10f-6807-4a83-a98d-5538d1a76f06/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=82b1d10f-6807-4a83-a98d-5538d1a76f06&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69516188",
+      "itunes_duration": "01:11:49",
+      "speakers": [],
+      "topics": [
+        "wicker",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "fbe9c467d5b51b09dd9529f35709a401f8c72d74",
+      "title": "Acts of the Colossals | The Glass Cannon Podcast Giantslayer E174 | Pathfinder 1E",
+      "published_at": "2018-09-25T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/acts-of-the-colossals-the-glass-cannon-podcast-giantslayer-e174-pathfinder-1e-1lFADppi",
+      "description": "As the Hersir flees and the camp is yet again on high alert, the heroes must make a campaign-altering decision whether to press on and pursue or fall back and prepare for a critical strike! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/00e00d14-e437-4e64-bf08-927341cd3e57/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=00e00d14-e437-4e64-bf08-927341cd3e57&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68945679",
+      "itunes_duration": "01:11:14",
+      "speakers": [],
+      "topics": [
+        "colossals",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2a6fc78f3226ab71c2d3759c02ffbd86c6722778",
+      "title": "Hersir and Present Danger | The Glass Cannon Podcast Giantslayer E173 | Pathfinder 1E",
+      "published_at": "2018-09-18T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/hersir-and-present-danger-the-glass-cannon-podcast-giantslayer-e173-pathfinder-1e-gd1IJWNe",
+      "description": "The party tries desperately to overcome the awesome might of Skirkatla's chieftain - Hersir Gregganor! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/7578bf51-3a80-4cde-82d6-d11c08cde0aa/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=7578bf51-3a80-4cde-82d6-d11c08cde0aa&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90582926",
+      "itunes_duration": "01:33:46",
+      "speakers": [
+        "Hersir Greggano"
+      ],
+      "topics": [
+        "hersir",
+        "present",
+        "danger",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "e8e71eac0046286622dcdf49a86f99bc910a6861",
+      "title": "Magic-User Unfriendly | The Glass Cannon Podcast Giantslayer E172 | Pathfinder 1E",
+      "published_at": "2018-09-11T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/magic-user-unfriendly-the-glass-cannon-podcast-giantslayer-e172-pathfinder-1e-ew7SiMN5",
+      "description": "Clouded memories of the past linger as the heroes face one of their most formidable opponents yet! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/226bcfcd-fee5-4b6f-a8ec-f50c3184d217/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=226bcfcd-fee5-4b6f-a8ec-f50c3184d217&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75326990",
+      "itunes_duration": "01:17:52",
+      "speakers": [
+        "User Unfriendly"
+      ],
+      "topics": [
+        "magic",
+        "user",
+        "unfriendly",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "cd176dad3a9ca194b46272b9e0e77fd2784afaea",
+      "title": "Days of Sunder | The Glass Cannon Podcast Giantslayer E171 | Pathfinder 1E",
+      "published_at": "2018-09-04T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/days-of-sunder-the-glass-cannon-podcast-giantslayer-e171-pathfinder-1e-DUkor5_N",
+      "description": "The party finally decides to infiltrate the mysterious longhouse on the north side of the camp. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/02843fb3-ec14-4ea0-9e8a-4d0b82ec63f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=02843fb3-ec14-4ea0-9e8a-4d0b82ec63f6&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74913618",
+      "itunes_duration": "01:17:27",
+      "speakers": [],
+      "topics": [
+        "sunder",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "be50c597a1779756a5d1adb52f8ba86423b7b190",
+      "title": "The Birds and the Bears | The Glass Cannon Podcast Giantslayer E170 | Pathfinder 1E",
+      "published_at": "2018-08-28T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-birds-and-the-bears-the-glass-cannon-podcast-giantslayer-e170-pathfinder-1e-RTTEI_45",
+      "description": "The heroes must make a daring escape from a burning building before deciding where to turn their attention to next! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/3cf70d31-2c8b-46b2-a56b-cbc270621581/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=3cf70d31-2c8b-46b2-a56b-cbc270621581&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73201687",
+      "itunes_duration": "01:15:40",
+      "speakers": [],
+      "topics": [
+        "birds",
+        "bears",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b8a0e97e9da4d36f2283369c3c85e336f7931981",
+      "title": "Worm Warfare | The Glass Cannon Podcast Giantslayer E169 | Pathfinder 1E",
+      "published_at": "2018-08-21T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/worm-warfare-the-glass-cannon-podcast-giantslayer-e169-pathfinder-1e-81XvQohu",
+      "description": "The battle with the blacksmith giants on the frozen pond awakens the secret source of the forge's heat below. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/af8dc766-a4b2-4ca6-8ee5-01aafff829da/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=af8dc766-a4b2-4ca6-8ee5-01aafff829da&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95409513",
+      "itunes_duration": "01:38:48",
+      "speakers": [],
+      "topics": [
+        "worm",
+        "warfare",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "8d40b01dce1b7e7a45f302f99248e3e5bb8872a5",
+      "title": "A Tale of Frost and Flame | The Glass Cannon Podcast Giantslayer E168 | Pathfinder 1E",
+      "published_at": "2018-08-14T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/a-tale-of-frost-and-flame-the-glass-cannon-podcast-giantslayer-e168-pathfinder-1e-zQjqpv21",
+      "description": "The heroes attempt to infiltrate the mysterious makeshift forge of Skirgaard, but their plans to ambush the giants inside take an unexpected turn. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/7a59083b-24e6-4354-b89a-07742cbd6384/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=7a59083b-24e6-4354-b89a-07742cbd6384&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54447437",
+      "itunes_duration": "00:56:07",
+      "speakers": [],
+      "topics": [
+        "tale",
+        "frost",
+        "flame",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "85919279add3173b9be7e577832079ed80848711",
+      "title": "Church and Destroy | The Glass Cannon Podcast Giantslayer E167 | Pathfinder 1E",
+      "published_at": "2018-08-07T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/church-and-destroy-the-glass-cannon-podcast-giantslayer-e167-pathfinder-1e-HYcSb94t",
+      "description": "A mysterious letter leaves the team with more questions than answers as they regroup and ready another assault on the camp. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/e408ddce-7b4a-4e29-9731-594962949e70/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=e408ddce-7b4a-4e29-9731-594962949e70&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74533308",
+      "itunes_duration": "01:17:03",
+      "speakers": [],
+      "topics": [
+        "church",
+        "destroy",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "1011106b978b219b4aa7e955a59bfec3ad92b67b",
+      "title": "Chapel of My Eye | The Glass Cannon Podcast Giantslayer E166 | Pathfinder 1E",
+      "published_at": "2018-07-31T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/chapel-of-my-eye-the-glass-cannon-podcast-giantslayer-e166-pathfinder-1e-76j1yPsZ",
+      "description": "With the priestess and her retinue vanquished, the heroes go about searching the rest of the temple, seeking clues as to how Urgathoa worship has seeped into the frost giant training camp. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f3afca34-e848-4d4a-97b6-c9637c95757b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f3afca34-e848-4d4a-97b6-c9637c95757b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69801653",
+      "itunes_duration": "01:12:07",
+      "speakers": [],
+      "topics": [
+        "chapel",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b9807b8592fa9fa9e516b591e0b1aa17577a843a",
+      "title": "Mummy Issues | The Glass Cannon Podcast Giantslayer E165 | Pathfinder 1E",
+      "published_at": "2018-07-24T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/mummy-issues-the-glass-cannon-podcast-giantslayer-e165-pathfinder-1e-ZyHaC3AF",
+      "description": "The party continues their battle against the depraved daughter of Urgathoa and her temple servitors. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/3729e0ea-9e49-4d8c-8290-52b4bf82d459/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=3729e0ea-9e49-4d8c-8290-52b4bf82d459&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70730268",
+      "itunes_duration": "01:13:05",
+      "speakers": [
+        "Mummy Issues"
+      ],
+      "topics": [
+        "mummy",
+        "issue",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "cab3842df1925538181e9c89a06240d5a0fe1ad1",
+      "title": "The Temple of Detrimental Evil | The Glass Cannon Podcast Giantslayer E164 | Pathfinder 1E",
+      "published_at": "2018-07-17T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-temple-of-detrimental-evil-the-glass-cannon-podcast-giantslayer-e164-pathfinder-1e-_BXWu__7",
+      "description": "The party uncovers a new kind of evil as they venture deeper into the strange temple. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/8bd4235a-b024-425f-a4c8-37e604aaf0ab/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=8bd4235a-b024-425f-a4c8-37e604aaf0ab&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60884824",
+      "itunes_duration": "01:02:50",
+      "speakers": [
+        "Detrimental Evil"
+      ],
+      "topics": [
+        "temple",
+        "detrimental",
+        "evil",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "79b634ec64e94e2230be848e20d85c644d6d4af6",
+      "title": "Bear With Us | The Glass Cannon Podcast Giantslayer E163 | Pathfinder 1E",
+      "published_at": "2018-07-10T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/bear-with-us-the-glass-cannon-podcast-giantslayer-e163-pathfinder-1e-vK1RUN18",
+      "description": "With the threat of Skirgaard still looming, the party must recover from their losses and find a way to move forward. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/e333adb8-e767-4b6f-ae6c-b116d30329f3/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=e333adb8-e767-4b6f-ae6c-b116d30329f3&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72274225",
+      "itunes_duration": "01:14:42",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f620adc0c26f5cf5c48db568eecb5e4796974f82",
+      "title": "Half-Orc Will Travel 2: When Nature Kalls | The Glass Cannon Podcast Giantslayer E162 | Pathfinder 1E",
+      "published_at": "2018-07-03T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/half-orc-will-travel-2-when-nature-kalls-the-glass-cannon-podcast-giantslayer-e162-pathfinder-1e-yXx0mrlP",
+      "description": "With the fate of the world at stake, the heroes look to volatile magics, impossible decisions and old friends. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/dc9c4c42-579c-4be1-9ed7-20c813798d50/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=dc9c4c42-579c-4be1-9ed7-20c813798d50&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80810229",
+      "itunes_duration": "01:23:35",
+      "speakers": [
+        "Nature Kalls"
+      ],
+      "topics": [
+        "half",
+        "travel",
+        "nature",
+        "kalls",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "cceaeb691a6af180f8fb11de5bafda71412e3d41",
+      "title": "Of Scythe and Men | The Glass Cannon Podcast Giantslayer E161 | Pathfinder 1E",
+      "published_at": "2018-06-26T16:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/of-scythe-and-men-the-glass-cannon-podcast-giantslayer-e161-pathfinder-1e-hEoiDidP",
+      "description": "The thrilling battle with the eerie giant and undead Orfas comes to its nail-biting conclusion! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c5e0a2bc-9f30-4b5d-9d8b-03424b5f4f62/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c5e0a2bc-9f30-4b5d-9d8b-03424b5f4f62&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57984185",
+      "itunes_duration": "00:59:48",
+      "speakers": [],
+      "topics": [
+        "scythe",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2361e903e4dbe6cd8cb9672bb2bda1180f379fac",
+      "title": "Welcome Back, Slaughter | The Glass Cannon Podcast Giantslayer E160 | Pathfinder 1E",
+      "published_at": "2018-06-19T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/welcome-back-slaughter-the-glass-cannon-podcast-giantslayer-e160-pathfinder-1e-F_opVbLR",
+      "description": "After stone-shaping into the strange temple deep within Skirgaard, the party comes face to face with a terrifying creature and an old friend. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d18a7686-4a3e-442b-9e4f-369419fc724a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d18a7686-4a3e-442b-9e4f-369419fc724a&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68969417",
+      "itunes_duration": "01:11:15",
+      "speakers": [],
+      "topics": [
+        "slaughter",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "d0aac20ebfd35a3361dc869fdbb2c4d7d53d158b",
+      "title": "Blood From a Stone Shape | The Glass Cannon Podcast Giantslayer E159 | Pathfinder 1E",
+      "published_at": "2018-06-12T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/blood-from-a-stone-shape-the-glass-cannon-podcast-giantslayer-e159-pathfinder-1e-pTzw_i1M",
+      "description": "With the freed slaves safely on their way to Skelt, the heroes turn their attention to an as of yet unexplored area of the camp. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/1e313d50-1a9a-4e8c-aa7d-bc32a01c3ee7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=1e313d50-1a9a-4e8c-aa7d-bc32a01c3ee7&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59363490",
+      "itunes_duration": "01:01:15",
+      "speakers": [],
+      "topics": [
+        "blood",
+        "stone",
+        "shape",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "9843958765d172de39853c7ae781b8d5264376ec",
+      "title": "Bring in 'da Noise, Bring in 'da Monk | The Glass Cannon Podcast Giantslayer E158 | Pathfinder 1E",
+      "published_at": "2018-06-05T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/bring-in-da-noise-bring-in-da-monk-the-glass-cannon-podcast-giantslayer-e158-pathfinder-1e-ZHCrWTUw",
+      "description": "With the battle won, the heroes turn their attention to a missing half-orc, countless innocent casualties and a potential new ally. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5f152863-c218-4f64-a6af-805c34624c42/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5f152863-c218-4f64-a6af-805c34624c42&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70181962",
+      "itunes_duration": "01:12:31",
+      "speakers": [],
+      "topics": [
+        "noise",
+        "monk",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b3bb8bc0149c145fd1ebe60627d4254f033bca8e",
+      "title": "Enter the Wagon 2: I'll Hag What She's Hagging | The Glass Cannon Podcast Giantslayer E157 | Pathfinder 1E",
+      "published_at": "2018-05-29T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/enter-the-wagon-2-i-ll-hag-what-shes-hagging-the-glass-cannon-podcast-giantslayer-e157-pathfinder-1e-hGjJNthB",
+      "description": "While hailstones mercilessly rain down upon the escaped slaves, the heroes struggle to survive as the cliffside battle comes to its thrilling conclusion. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/88abd03f-e39f-49ea-96cc-3bd8af8ba32e/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=88abd03f-e39f-49ea-96cc-3bd8af8ba32e&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63334956",
+      "itunes_duration": "01:05:23",
+      "speakers": [],
+      "topics": [
+        "wagon",
+        "hagging",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "170bcce72a3d2911d1f6852a0c952f13f556cba3",
+      "title": "Enter the Wagon | The Glass Cannon Podcast Giantslayer E156 | Pathfinder 1E",
+      "published_at": "2018-05-22T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/enter-the-wagon-the-glass-cannon-podcast-giantslayer-e156-pathfinder-1e-lnaa8YpD",
+      "description": "Having freed the slaves from captivity in Skirgaard, the heroes' journey down the mountainside is interrupted by a strange expedition heading back up the mountain with more slaves in tow. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4ec452ca-b900-4c4e-9e1d-9c18a5fbee2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4ec452ca-b900-4c4e-9e1d-9c18a5fbee2f&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67970571",
+      "itunes_duration": "01:10:13",
+      "speakers": [],
+      "topics": [
+        "wagon",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b370ea3baadb895f33c0e41b165001e7374f1fd1",
+      "title": "Break Out Sesh | The Glass Cannon Podcast Giantslayer E155 | Pathfinder 1E",
+      "published_at": "2018-05-15T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/break-out-sesh-the-glass-cannon-podcast-giantslayer-e155-pathfinder-1e-SxcLw1bY",
+      "description": "The party enacts a plan to deal with a situation that's haunted them since they arrived in Skirgaard. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/e108e38b-4f69-485d-aaf2-58de92de9334/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=e108e38b-4f69-485d-aaf2-58de92de9334&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78437020",
+      "itunes_duration": "01:21:07",
+      "speakers": [],
+      "topics": [
+        "sesh",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "04164917173dd3325d1e9659f0bb4a64d48e50c2",
+      "title": "Cloudy with a Chance of Mess Hall | The Glass Cannon Podcast Giantslayer E154 | Pathfinder 1E",
+      "published_at": "2018-05-08T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/cloudy-with-a-chance-of-mess-hall-the-glass-cannon-podcast-giantslayer-e154-pathfinder-1e-knn6jit2",
+      "description": "As a mammoth stampede causes turmoil throughout the camp, the heroes use the distraction to attempt to strike another critical blow. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/633ebec3-4265-4451-8fcd-227a762ddcdc/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=633ebec3-4265-4451-8fcd-227a762ddcdc&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73605830",
+      "itunes_duration": "01:16:05",
+      "speakers": [],
+      "topics": [
+        "chance",
+        "mess",
+        "hall",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "088b66cd08395baa815dbecb69a4bcae5e16c44a",
+      "title": "Mine Games | The Glass Cannon Podcast Giantslayer E153 | Pathfinder 1E",
+      "published_at": "2018-05-01T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/mine-games-the-glass-cannon-podcast-giantslayer-e153-pathfinder-1e-Knt5vulY",
+      "description": "A solo scouting mission puts Fairaza in an impossible situation. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c7736e0d-eb94-4cee-b994-bb5a2f0b41e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c7736e0d-eb94-4cee-b994-bb5a2f0b41e8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69111890",
+      "itunes_duration": "01:11:24",
+      "speakers": [],
+      "topics": [
+        "games",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "ceb63f517ff10c2d9e601611ed40f7f34e8d241d",
+      "title": "Resize Doesn't Matter | The Glass Cannon Podcast Giantslayer E152 | Pathfinder 1E",
+      "published_at": "2018-04-24T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/resize-doesn-t-matter-the-glass-cannon-podcast-giantslayer-e152-pathfinder-1e-jFaGOFgL",
+      "description": "While one party member stays behind to keep a watchful eye on the aftermath of their recent sabotage, the others travel far away to return to a very familiar place. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/620f7dd9-be15-40c6-94a0-dd9d3057c408/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=620f7dd9-be15-40c6-94a0-dd9d3057c408&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78694117",
+      "itunes_duration": "01:21:23",
+      "speakers": [],
+      "topics": [
+        "resize",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "0d680699a73f9e1a866437b50df69b09e67b3b9d",
+      "title": "Heavy Is the Head That Wears the Crayon | The Glass Cannon Podcast Giantslayer E151 | Pathfinder 1E",
+      "published_at": "2018-04-17T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/heavy-is-the-head-that-wears-the-crayon-the-glass-cannon-podcast-giantslayer-e151-pathfinder-1e-rDYhvQVs",
+      "description": "A rash decision leaves the party surrounded on two fronts with nowhere to hide! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/8a0f8f3f-ec82-44e8-b50d-87b9266c1e04/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=8a0f8f3f-ec82-44e8-b50d-87b9266c1e04&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79835515",
+      "itunes_duration": "01:22:34",
+      "speakers": [],
+      "topics": [
+        "heavy",
+        "head",
+        "crayon",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "27535edc1bd53bce77f5f4f0d5bb5d87cbcbaa5a",
+      "title": "Shrine On You Crazy Diamond | The Glass Cannon Podcast Giantslayer E150 | Pathfinder 1E",
+      "published_at": "2018-04-10T16:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/shrine-on-you-crazy-diamond-the-glass-cannon-podcast-giantslayer-e150-pathfinder-1e-_O2Fn5kB",
+      "description": "The party hatches a plan to strike at the morale of the camp. Will they continue to move throughout the frost giant village unseen or will their streak of victories come to a dangerous end?! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2a0c2cd8-6b0e-4cd2-a6b8-13968d0c3f4a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2a0c2cd8-6b0e-4cd2-a6b8-13968d0c3f4a&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64261618",
+      "itunes_duration": "01:06:21",
+      "speakers": [],
+      "topics": [
+        "shrine",
+        "crazy",
+        "diamond",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "0a50ee10a1c0a6b94a678d1d40994d487f1a877c",
+      "title": "Ready, Willing and Stable | The Glass Cannon Podcast Giantslayer E149 | Pathfinder 1E",
+      "published_at": "2018-04-03T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/ready-willing-and-stable-the-glass-cannon-podcast-giantslayer-e149-pathfinder-1e-YZTp_YyQ",
+      "description": "Having dealt another blow to the infrastructure of the camp, the party must take a step back to determine where they are at and how best to proceed. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/afd5f1c9-dd98-4c78-b731-9cafb9c777ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=afd5f1c9-dd98-4c78-b731-9cafb9c777ef&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71370608",
+      "itunes_duration": "01:13:45",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "55a757cf056bd0c352b0e518d804effb81577f56",
+      "title": "Brewer Discretion Advised | The Glass Cannon Podcast Giantslayer E148 | Pathfinder 1E",
+      "published_at": "2018-03-27T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/brewer-discretion-advised-the-glass-cannon-podcast-giantslayer-e148-pathfinder-1e-Tt3yUoPL",
+      "description": "Skirgaard's premiere craft brewery may be closed, but that won't stop the PCs from trying to take a self-guided tour! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5d51bdfa-6fdc-4936-9338-9fbff263e4ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5d51bdfa-6fdc-4936-9338-9fbff263e4ff&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67471470",
+      "itunes_duration": "01:09:41",
+      "speakers": [],
+      "topics": [
+        "brewer",
+        "discretion",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "1495c5706756ff99f10ef6ac9e09c1a73b574d32",
+      "title": "Spy Another Day | The Glass Cannon Podcast Giantslayer E147 | Pathfinder 1E",
+      "published_at": "2018-03-20T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/spy-another-day-the-glass-cannon-podcast-giantslayer-e147-pathfinder-1e-7_89uQ1L",
+      "description": "The party watches as the entire army of Skirgaard gathers around to watch a presence exiting from a door built directly into the mountain! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/0616626a-a489-4c5e-82eb-9d70bc3e0146/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=0616626a-a489-4c5e-82eb-9d70bc3e0146&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61907565",
+      "itunes_duration": "01:03:54",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "ae0a509c3e6b7570099486904c1b0a50b500ddfd",
+      "title": "The Battle of Silo | The Glass Cannon Podcast Giantslayer E146 | Pathfinder 1E",
+      "published_at": "2018-03-13T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-battle-of-silo-the-glass-cannon-podcast-giantslayer-e146-pathfinder-1e-qdkkfgsH",
+      "description": "A hasty decision forces the party to improvise on the fly! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f801da7a-71f0-4296-808d-2f23091121a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f801da7a-71f0-4296-808d-2f23091121a8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70873584",
+      "itunes_duration": "01:13:14",
+      "speakers": [],
+      "topics": [
+        "battle",
+        "silo",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "711c71e5e65c96ad3a82c2c32fe8db85a219a3ed",
+      "title": "Sex, Bugs and Stalking Trolls | The Glass Cannon Podcast Giantslayer E145 | Pathfinder 1E",
+      "published_at": "2018-03-06T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/sex-bugs-and-stalking-trolls-the-glass-cannon-podcast-giantslayer-e145-pathfinder-1e-MyEg6aq8",
+      "description": "The gang enacts a plan to cause discord among the camps, while Fairaza tries an unconventional method of gathering more intel. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/652f24a0-5ad1-451a-8d4c-e9e389bc910a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=652f24a0-5ad1-451a-8d4c-e9e389bc910a&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63457821",
+      "itunes_duration": "01:05:31",
+      "speakers": [],
+      "topics": [
+        "bugs",
+        "stalking",
+        "trolls",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "459027b0a5cb8b607db2cc47ea8963025d6d24e3",
+      "title": "All Along the Botchtower | The Glass Cannon Podcast Giantslayer E144 | Pathfinder 1E",
+      "published_at": "2018-02-27T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/all-along-the-botchtower-the-glass-cannon-podcast-giantslayer-e144-pathfinder-1e-ktfXjCBj",
+      "description": "A duet of failed stealth checks leaves a split party in the most dangerous predicament they've faced since entering Skirgaard! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/bfb60eb8-7cca-4285-a240-18fd6bd282d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=bfb60eb8-7cca-4285-a240-18fd6bd282d9&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62739762",
+      "itunes_duration": "01:04:46",
+      "speakers": [
+        "All Along"
+      ],
+      "topics": [
+        "botchtower",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "981523eab4f2f4c1a10056b1ae24a2b7a1c30da7",
+      "title": "Knowledge Is Tower | The Glass Cannon Podcast Giantslayer E143 | Pathfinder 1E",
+      "published_at": "2018-02-20T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/knowledge-is-tower-the-glass-cannon-podcast-giantslayer-e143-pathfinder-1e-uMXh0klx",
+      "description": "Barron, Fairaza, Lorc and Pembroke uncover more intel about Skirgaard as they continue their clandestine infiltration of the giant camp. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5bf8e10b-f89b-44d9-ac18-7555e88f184a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5bf8e10b-f89b-44d9-ac18-7555e88f184a&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81642342",
+      "itunes_duration": "01:24:27",
+      "speakers": [],
+      "topics": [
+        "knowledge",
+        "tower",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "73980b48f77d8955cc78753f9106f3b9796550d5",
+      "title": "Reconnaissance Man | The Glass Cannon Podcast Giantslayer E142 | Pathfinder 1E",
+      "published_at": "2018-02-13T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/reconnaissance-man-the-glass-cannon-podcast-giantslayer-e142-pathfinder-1e-lxRvj8C5",
+      "description": "Having located the secret giant training camp at Skirgaard, the heroes must quickly devise a plan of action on how best to proceed. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/748ecef1-85d6-493c-a449-7a4711a6cefe/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=748ecef1-85d6-493c-a449-7a4711a6cefe&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68160692",
+      "itunes_duration": "01:10:25",
+      "speakers": [],
+      "topics": [
+        "reconnaissance",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f2cb512247edae6f9367a5c2afd8518823c1df69",
+      "title": "Climbs and Misdemeanors | The Glass Cannon Podcast Giantslayer E141 | Pathfinder 1E",
+      "published_at": "2018-02-06T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/climbs-and-misdemeanors-the-glass-cannon-podcast-giantslayer-e141-pathfinder-1e-Hb8MrF3F",
+      "description": "Having narrowly avoided an unnatural disaster, the party must now find their way to to the hidden mountain plateau where Skirgaard allegedly lies. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/3608ddd1-0c3b-44db-bbb4-fd2b5ede94d2/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=3608ddd1-0c3b-44db-bbb4-fd2b5ede94d2&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65949672",
+      "itunes_duration": "01:08:06",
+      "speakers": [],
+      "topics": [
+        "climb",
+        "misdemeanors",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2fece11b1b174420682b480daa1ef139100b875d",
+      "title": "Toad to Perdition | The Glass Cannon Podcast Giantslayer E140 | Pathfinder 1E",
+      "published_at": "2018-01-30T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/toad-to-perdition-the-glass-cannon-podcast-giantslayer-e140-pathfinder-1e-G4LmJ_I1",
+      "description": "The party arrives at the base of the mountain where Skirgaard appears on their map, but the ascent to the plateau is more treacherous than it appears. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f00082b6-fa69-4e55-bbda-efa07ada0f46/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f00082b6-fa69-4e55-bbda-efa07ada0f46&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68731610",
+      "itunes_duration": "01:11:00",
+      "speakers": [],
+      "topics": [
+        "toad",
+        "perdition",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "72e9ccb34e6fd60d8a61fc42f1dc1ae502a262ce",
+      "title": "Hit Me With Your Head Shot | The Glass Cannon Podcast Giantslayer E139 | Pathfinder 1E",
+      "published_at": "2018-01-23T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/hit-me-with-your-head-shot-the-glass-cannon-podcast-giantslayer-e139-pathfinder-1e-80iYVpLT",
+      "description": "A strange creature in the wilderness makes a demand the party cannot possibly agree to! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/0893767e-eeee-4181-9f93-716499bce882/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=0893767e-eeee-4181-9f93-716499bce882&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75935951",
+      "itunes_duration": "01:18:30",
+      "speakers": [],
+      "topics": [
+        "head",
+        "shot",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b91a2ef744d1b4c4553d9e9114578a01f530acb9",
+      "title": "Take Your Daughter to Lorc Day | The Glass Cannon Podcast Giantslayer E138 | Pathfinder 1E",
+      "published_at": "2018-01-16T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/take-your-daughter-to-lorc-day-the-glass-cannon-podcast-giantslayer-e138-pathfinder-1e-8czAPVir",
+      "description": "After coming face to face with someone from his past, Lorc discovers he has a trueborn child in grave danger. Meanwhile, the time has come for the party to finish their business in Skelt and make their way to Skirgaard. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5ca4085d-e575-45c9-ae21-1d2a08eec4d6/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5ca4085d-e575-45c9-ae21-1d2a08eec4d6&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69186845",
+      "itunes_duration": "01:11:29",
+      "speakers": [],
+      "topics": [
+        "daughter",
+        "lorc",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "89c637f781a13eb1917ce50e65282fefa3a00020",
+      "title": "Helter Skelt-er | The Glass Cannon Podcast Giantslayer E137 | Pathfinder 1E",
+      "published_at": "2018-01-09T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/helter-skelt-er-the-glass-cannon-podcast-giantslayer-e137-pathfinder-1e-D1ptbN5a",
+      "description": "The heroes arrive in the city of Skelt to make final preparations for the journey to Skirgaard. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2a245326-0925-40e9-8046-70412e566698/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2a245326-0925-40e9-8046-70412e566698&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68707762",
+      "itunes_duration": "01:10:59",
+      "speakers": [
+        "Helter Skelt-er"
+      ],
+      "topics": [
+        "helter",
+        "skelt",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "bd4b7dddff45425035a02eb60c97c4ab3df46c76",
+      "title": "Knife Guys Finish Last | The Glass Cannon Podcast Giantslayer E136 | Pathfinder 1E",
+      "published_at": "2018-01-02T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/knife-guys-finish-last-the-glass-cannon-podcast-giantslayer-e136-pathfinder-1e-GdU0hNAp",
+      "description": "A half-orc lies dead deep within Bloodsworn Vale. A curse has been lifted, but at what cost? For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/6c984ded-5f25-4346-9e9d-5ba26cc4355e/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=6c984ded-5f25-4346-9e9d-5ba26cc4355e&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66686932",
+      "itunes_duration": "01:08:52",
+      "speakers": [],
+      "topics": [
+        "knife",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "d1e5d3f931029e44212995d75eae37f794c70a3f",
+      "title": "Ranger Things 2 | The Glass Cannon Podcast Giantslayer E135 | Pathfinder 1E",
+      "published_at": "2017-12-26T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/ranger-things-2-the-glass-cannon-podcast-giantslayer-e135-pathfinder-1e-EagtPnYo",
+      "description": "In the final episode of 2017, Lorc hopes to commune with the spirits of Bloodsworn Vale as the party gains admittance to the tent of a Skoan-Quah shaman. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c8536abb-95f0-4ff3-bbd5-b9c2798e7ced/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c8536abb-95f0-4ff3-bbd5-b9c2798e7ced&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66139849",
+      "itunes_duration": "01:08:18",
+      "speakers": [],
+      "topics": [
+        "ranger",
+        "things",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "c42253e0cadc17cb084a2263577d922453d9613f",
+      "title": "It's My Party and I'll Scry If I Want To | The Glass Cannon Podcast Giantslayer E134 | Pathfinder 1E",
+      "published_at": "2017-12-19T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/its-my-party-and-i-ll-scry-if-i-want-to-the-glass-cannon-podcast-giantslayer-e134-pathfinder-1e-lQB9NDbN",
+      "description": "Everyone's favorite ranger is back on his feet and ready to fight, but the party must tie up loose ends before leaving Janderhoff en route to Bloodsworn Vale. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/23dd2a72-10b4-4cb4-aa32-cfde30057575/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=23dd2a72-10b4-4cb4-aa32-cfde30057575&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64071404",
+      "itunes_duration": "01:06:09",
+      "speakers": [
+        "My Party",
+        "Scry If"
+      ],
+      "topics": [
+        "party",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "c3c7fb3aeccd5d2de86b6c3daf6217d87e895952",
+      "title": "Fantastic Priests and Where to Find Them | The Glass Cannon Podcast Giantslayer E133 | Pathfinder 1E",
+      "published_at": "2017-12-12T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/fantastic-priests-and-where-to-find-them-the-glass-cannon-podcast-giantslayer-e133-pathfinder-1e-hzLAzURA",
+      "description": "The heroes arrive at the dwarven Sky Citadel of Janderhoff, each with their own personal business to attend to. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f6a0b60a-b8db-4e55-9a54-0d4f84398e98/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f6a0b60a-b8db-4e55-9a54-0d4f84398e98&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95270362",
+      "itunes_duration": "01:38:39",
+      "speakers": [
+        "Sky Citadel"
+      ],
+      "topics": [
+        "priests",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b3fd413e81b3f1bbad4463d112affc5dba52f20c",
+      "title": "Leaving Lost Magus | The Glass Cannon Podcast Giantslayer E132 | Pathfinder 1E",
+      "published_at": "2017-12-05T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/leaving-lost-magus-the-glass-cannon-podcast-giantslayer-e132-pathfinder-1e-cXEpckLs",
+      "description": "The time has come to move on from Minderhal's Valley, but the new party has loose ends to tie up and decisions to make before they depart. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5b665a06-5688-41fb-bd05-40ecb0726532/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5b665a06-5688-41fb-bd05-40ecb0726532&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68351244",
+      "itunes_duration": "01:10:36",
+      "speakers": [
+        "Leaving Lost Magus"
+      ],
+      "topics": [
+        "lost",
+        "magus",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "ce00521aa2669fc482922e66ee6fc018ea5df3cc",
+      "title": "Give and Let Die | The Glass Cannon Podcast Giantslayer E131 | Pathfinder 1E",
+      "published_at": "2017-11-28T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/give-and-let-die-the-glass-cannon-podcast-giantslayer-e131-pathfinder-1e-N8vLdB9a",
+      "description": "After a grueling gauntlet of battles, surrounded by the bodies of both foes and friends, Brandyr returns to confront the party in the thrilling Book Three season finale! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/1c5c04fe-a304-4e61-80d6-12c6e0801c22/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=1c5c04fe-a304-4e61-80d6-12c6e0801c22&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84615768",
+      "itunes_duration": "01:27:33",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "cac866b5bf60c3d967ba69d36b9caddd8554528c",
+      "title": "+21 Jump Street | The Glass Cannon Podcast Giantslayer E130 | Pathfinder 1E",
+      "published_at": "2017-11-21T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/21-jump-street-the-glass-cannon-podcast-giantslayer-e130-pathfinder-1e-SDsimC9m",
+      "description": "Reeling from yet another devastating loss, the heroes must find the resolve to steel themselves against the full power of Urathash! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/cc7f2347-adbb-436a-9ce3-6c4c7c643d2c/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=cc7f2347-adbb-436a-9ce3-6c4c7c643d2c&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62547914",
+      "itunes_duration": "01:04:34",
+      "speakers": [
+        "Jump Street"
+      ],
+      "topics": [
+        "jump",
+        "street",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "78ac4b8669358c04fb2b7cc6da2fcda0c7a4dba1",
+      "title": "Statue of Limitations | The Glass Cannon Podcast Giantslayer E129 | Pathfinder 1E",
+      "published_at": "2017-11-14T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/statue-of-limitations-the-glass-cannon-podcast-giantslayer-e129-pathfinder-1e-ZMo3BAcr",
+      "description": "Urathash has entered the building! Will the heroes lay down their weapons and accept a clean death in the name of Minderhal or will they stand resolute and attempt to take down the ruthless inquisitor they've been tracking for weeks!? For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/944f5133-8f53-441f-ad6a-3f51aab84944/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=944f5133-8f53-441f-ad6a-3f51aab84944&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99643969",
+      "itunes_duration": "01:43:12",
+      "speakers": [],
+      "topics": [
+        "statue",
+        "limitations",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "d3d124b647af675fe4984c817f0b0181b2438a15",
+      "title": "Slag! You're it! | The Glass Cannon Podcast Giantslayer E128 | Pathfinder 1E",
+      "published_at": "2017-11-07T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/slag-you-re-it-the-glass-cannon-podcast-giantslayer-e128-pathfinder-1e-c43UCVap",
+      "description": "With the ritual to relight Minderhal's Forge complete, Etena turns her attention to the heroes, demanding that they hand over Agrimmosh, the Hammer of Unmaking. Claiming to no longer have it, the party must face the wrath of Etena as well as the ancient guardians of the forge. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/dcd0d66c-4f6a-4745-a7ad-879425598a70/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=dcd0d66c-4f6a-4745-a7ad-879425598a70&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89656476",
+      "itunes_duration": "01:32:48",
+      "speakers": [],
+      "topics": [
+        "slag",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "aee76ea97414346660f5db6110db455f2b894d5b",
+      "title": "Stop Dragon My Heart Around | The Glass Cannon Podcast Giantslayer E127 | Pathfinder 1E",
+      "published_at": "2017-10-31T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/stop-dragon-my-heart-around-the-glass-cannon-podcast-giantslayer-e127-pathfinder-1e-QBAWYenh",
+      "description": "With Jogrothir's Drakesbane Horn in hand, the party must call forth a dragon to light the fire geodes beneath Minderhal's Forge. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/0f7906b1-3c69-4287-aa98-730edc3a57ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=0f7906b1-3c69-4287-aa98-730edc3a57ef&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93174718",
+      "itunes_duration": "01:36:28",
+      "speakers": [],
+      "topics": [
+        "dragon",
+        "heart",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "aefef7b9aa87ea12074774ded33b5f536da8dc31",
+      "title": "Sunday in the Park with Forge | The Glass Cannon Podcast Giantslayer E126 | Pathfinder 1E",
+      "published_at": "2017-10-24T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/sunday-in-the-park-with-forge-the-glass-cannon-podcast-giantslayer-e126-pathfinder-1e-UaioEkN1",
+      "description": "They've explored Minderhal's Valley top to bottom, the ancient relics have been gathered and the time has come to light the forge. Will the party go through with it and what obstacles still stand in the way regardless of their decision?!!? For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5bbfa4ea-d60a-47a2-abd1-830e8313adb0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5bbfa4ea-d60a-47a2-abd1-830e8313adb0&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88323981",
+      "itunes_duration": "01:31:25",
+      "speakers": [],
+      "topics": [
+        "sunday",
+        "park",
+        "forge",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "8ef0bd2dd50912ea8a1e5cf29bd7e50c2a3fadb1",
+      "title": "Raz to the Occasion | The Glass Cannon Podcast Giantslayer E125 | Pathfinder 1E",
+      "published_at": "2017-10-17T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/raz-to-the-occasion-the-glass-cannon-podcast-giantslayer-e125-pathfinder-1e-EGzbt9PN",
+      "description": "With the whole party reunited in the shadow of the cathedral, the group must find a way to get back into the Forgeheart. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f7011a8d-2030-42d7-8432-1d6d20b3de51/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f7011a8d-2030-42d7-8432-1d6d20b3de51&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61098007",
+      "itunes_duration": "01:03:03",
+      "speakers": [],
+      "topics": [
+        "occasion",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "916c54010d66fd67c194c5508ccc71df97ffccef",
+      "title": "Going Going Back Back to Valley Valley | The Glass Cannon Podcast Giantslayer E124 | Pathfinder 1E",
+      "published_at": "2017-10-10T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/going-going-back-back-to-valley-valley-the-glass-cannon-podcast-giantslayer-e124-pathfinder-1e-sgMJlHk2",
+      "description": "With all four elements needed to relight Minderhal's Forge finally in hand, the party must find their way back behind the palisade surrounding Minderhal's Cathedral to rejoin their allies. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4e674f5f-fa0f-4143-a015-0e004c3918e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4e674f5f-fa0f-4143-a015-0e004c3918e7&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60861528",
+      "itunes_duration": "01:02:48",
+      "speakers": [],
+      "topics": [
+        "valley",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2699818a4dcd98fcfed127d1070b222d04acecbf",
+      "title": "Worm Welcome | The Glass Cannon Podcast Giantslayer E123 | Pathfinder 1E",
+      "published_at": "2017-10-03T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/worm-welcome-the-glass-cannon-podcast-giantslayer-e123-pathfinder-1e-l07vIEov",
+      "description": "The party approaches an ancient shrine hoping to find the last item needed to relight Minderhal's Forge, but what lies beyond the cracked mud walls will challenge every last inch of the thin fabric holding the group together. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/51ffff83-347a-4680-adb7-0431fb5f19e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=51ffff83-347a-4680-adb7-0431fb5f19e4&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "120016945",
+      "itunes_duration": "02:04:26",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b8b70f1e15735adda3f78a9f6f48db03b4d28666",
+      "title": "Swamp and Circumstance | The Glass Cannon Podcast Giantslayer E122 | Pathfinder 1E",
+      "published_at": "2017-09-26T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/swamp-and-circumstance-the-glass-cannon-podcast-giantslayer-e122-pathfinder-1e-njrp8ZIM",
+      "description": "Flush with new powers, the party trudges their way through swampland in search of the final lost relic to relight Mindherhal's Forge. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/fab6506a-d260-4e3c-bec1-61b64d33df10/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=fab6506a-d260-4e3c-bec1-61b64d33df10&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84805038",
+      "itunes_duration": "01:27:45",
+      "speakers": [
+        "new powers"
+      ],
+      "topics": [
+        "swamp",
+        "circumstance",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "7f1b0d09e35199a04a4ade69a178a0aaa5bf9bfd",
+      "title": "Bridge Over Troubled Slaughter | The Glass Cannon Podcast Giantslayer E21 | Pathfinder 1E",
+      "published_at": "2017-09-19T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/bridge-over-troubled-slaughter-the-glass-cannon-podcast-giantslayer-e21-pathfinder-1e-4UuEILa1",
+      "description": "The party celebrates Ascension Day by battling a pair of Stone Giants on a bridge! Meanwhile, another Stone Giant senses something amiss while on guard duty. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/9fc5aed4-7895-44b7-8fdc-37744de155c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=9fc5aed4-7895-44b7-8fdc-37744de155c8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66662738",
+      "itunes_duration": "01:08:51",
+      "speakers": [],
+      "topics": [
+        "bridge",
+        "slaughter",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "b91cbaf03b591441b9a0ea758ac4df550f484e42",
+      "title": "A Matter of Life and Breath | The Glass Cannon Podcast Giantslayer E120 | Pathfinder 1E",
+      "published_at": "2017-09-12T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/a-matter-of-life-and-breath-the-glass-cannon-podcast-giantslayer-e120-pathfinder-1e-Ix7GZwuO",
+      "description": "Nestor, Barron and Della continue to face the wrath of the Black-Headed Beast as Sir Will and Umlo are left to deal with the wrong end of a spiked chain wielded by a giant from the fighting pits. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/9bf96da5-47bb-4ced-b7e9-a9954ae499c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=9bf96da5-47bb-4ced-b7e9-a9954ae499c3&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70966524",
+      "itunes_duration": "01:13:20",
+      "speakers": [],
+      "topics": [
+        "matter",
+        "life",
+        "breath",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f701e0cb507f303cc5742357b08fe9c35e209f47",
+      "title": "Booty and the Beast | The Glass Cannon Podcast Giantslayer E119 | Pathfinder 1E",
+      "published_at": "2017-09-05T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/booty-and-the-beast-the-glass-cannon-podcast-giantslayer-e119-pathfinder-1e-bxwjK9S_",
+      "description": "The party emerges from the sunken temple in the lake with the third item needed to relight Minderhal's Forge, a ton of treasure to go through and some major decisions to make on where to go next. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/82a7c075-bb5d-4eaf-8ca8-d04decb8426d/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=82a7c075-bb5d-4eaf-8ca8-d04decb8426d&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68566594",
+      "itunes_duration": "01:10:50",
+      "speakers": [],
+      "topics": [
+        "booty",
+        "beast",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "5cc936c8e45aa506de077d4d7b00a7d02f7ea463",
+      "title": "Lake Flaccid | The Glass Cannon Podcast Giantslayer E118 | Pathfinder 1E",
+      "published_at": "2017-08-29T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/lake-flaccid-the-glass-cannon-podcast-giantslayer-e118-pathfinder-1e-oQhM2rgH",
+      "description": "With the prayer of Rosag in hand, the party is overwhelmed by a vicious crustacean abomination. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4502aa6c-3053-41f1-a9e6-e93cba368e0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4502aa6c-3053-41f1-a9e6-e93cba368e0c&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64903493",
+      "itunes_duration": "01:07:01",
+      "speakers": [],
+      "topics": [
+        "lake",
+        "flaccid",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "33367409084b84ba9bbc45f171b5838ef6799ebf",
+      "title": "The Strife Aquatic | The Glass Cannon Podcast Giantslayer E117 | Pathfinder 1E",
+      "published_at": "2017-08-22T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-strife-aquatic-the-glass-cannon-podcast-giantslayer-e117-pathfinder-1e-QcHhYsmg",
+      "description": "While searching for a lost artifact in an underwater sunken temple, the heroes face a quartet of familiar foes! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f6b4351f-e2ae-4b8e-960c-9697674d54d1/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f6b4351f-e2ae-4b8e-960c-9697674d54d1&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62953735",
+      "itunes_duration": "01:04:59",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "a883bd78bb7c8a78599f64ad633fe51268c2f3ff",
+      "title": "Waterhouse-Five | The Glass Cannon Podcast Giantslayer E116 | Pathfinder 1E",
+      "published_at": "2017-08-15T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/waterhouse-five-the-glass-cannon-podcast-giantslayer-e116-pathfinder-1e-Ei58RmuK",
+      "description": "The heroes must travel underwater in hopes of finding the remnants of an ancient submerged temple! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/0d7df589-8de6-4501-add3-56da80b14434/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=0d7df589-8de6-4501-add3-56da80b14434&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70776661",
+      "itunes_duration": "01:13:08",
+      "speakers": [],
+      "topics": [
+        "waterhouse",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "13adc8b50e740e67e299096fbe646e5b837bddda",
+      "title": "There's Something About Beary | The Glass Cannon Podcast Giantslayer E115 | Pathfinder 1E",
+      "published_at": "2017-08-08T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/theres-something-about-beary-the-glass-cannon-podcast-giantslayer-e115-pathfinder-1e-YRvECay9",
+      "description": "A heartbreaking loss resonates throughout the party as the quest to relight Minderhal's Forge continues. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/be8c9f7f-f53c-4156-a94a-75b22416a6fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=be8c9f7f-f53c-4156-a94a-75b22416a6fd&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74533299",
+      "itunes_duration": "01:17:03",
+      "speakers": [],
+      "topics": [
+        "beary",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "797a52c217acba6c43d5ead2478f5e72e8d56ec4",
+      "title": "Bearly Legal | The Glass Cannon Podcast Giantslayer E114 | Pathfinder 1E",
+      "published_at": "2017-08-01T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/bearly-legal-the-glass-cannon-podcast-giantslayer-e114-pathfinder-1e-akEdkAXw",
+      "description": "Amongst the ruins of an ancient slag giant village, an old friend returns! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/8f2b3b07-d58e-49bf-9928-7eda96c0f9b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=8f2b3b07-d58e-49bf-9928-7eda96c0f9b9&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61717369",
+      "itunes_duration": "01:03:42",
+      "speakers": [
+        "Bearly Legal"
+      ],
+      "topics": [
+        "legal",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "7f4b15219de9527b6b97a535ac95891286de9b52",
+      "title": "Shadow Lancing | The Glass Cannon Podcast Giantslayer E113 | Pathfinder 1E",
+      "published_at": "2017-07-25T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/shadow-lancing-the-glass-cannon-podcast-giantslayer-e113-pathfinder-1e-ZigMXEDQ",
+      "description": "After successfully navigating the Dark Passage, the party is welcomed back to the other side of the valley by a bloodthirsty group of flying predators. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/b73eda69-a695-466c-bacc-3b58bdea6e6e/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=b73eda69-a695-466c-bacc-3b58bdea6e6e&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66924355",
+      "itunes_duration": "01:09:07",
+      "speakers": [
+        "Shadow Lancing"
+      ],
+      "topics": [
+        "shadow",
+        "lancing",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "1f288c25d024639f1236124ef7326b75f4a03b7c",
+      "title": "A Bridge Too Fungfar | The Glass Cannon Podcast Giantslayer E112 | Pathfinder 1E",
+      "published_at": "2017-07-18T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/a-bridge-too-fungfar-the-glass-cannon-podcast-giantslayer-e112-pathfinder-1e-ahXC3pgJ",
+      "description": "The party splits up to chase the voice echoing down the passage behind them as the mysteries of the Dark Passage continue to unravel. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/8c5bd686-f420-423b-a5ed-551b39d139a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=8c5bd686-f420-423b-a5ed-551b39d139a6&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66377216",
+      "itunes_duration": "01:08:33",
+      "speakers": [
+        "Bridge Too Fungfar"
+      ],
+      "topics": [
+        "bridge",
+        "fungfar",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "1c3da348a03848f33390262b30e480bac5ad1625",
+      "title": "Buggane Out | The Glass Cannon Podcast Giantslayer E111 | Pathfinder 1E",
+      "published_at": "2017-07-11T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/buggane-out-the-glass-cannon-podcast-giantslayer-e111-pathfinder-1e-JFItqEIz",
+      "description": "As a voice echoes down the passageway behind them, the party faces yet another mysterious open cavern. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/80027f2b-0d01-4c9c-91e7-ad4ccbfab087/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=80027f2b-0d01-4c9c-91e7-ad4ccbfab087&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62406611",
+      "itunes_duration": "01:04:25",
+      "speakers": [],
+      "topics": [
+        "buggane",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "38c2e3859150edd6a37ee0a60d31ba47d66cc41b",
+      "title": "Don't Worry, Be Mappy | The Glass Cannon Podcast Giantslayer E110 | Pathfinder 1E",
+      "published_at": "2017-07-04T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/don-t-worry-be-mappy-the-glass-cannon-podcast-giantslayer-e110-pathfinder-1e-gpPbTJwV",
+      "description": "Brutalized and clinging to life, the party attempts to unravel the mystery behind the cave paintings. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/75120cb4-f2e9-445c-87e5-17449d4a96b8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=75120cb4-f2e9-445c-87e5-17449d4a96b8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56319880",
+      "itunes_duration": "00:58:04",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "3b1945267df7b9eb0b02a898dd14a1bd64893617",
+      "title": "I Bleed I Can Fly | The Glass Cannon Podcast Giantslayer E109 | Pathfinder 1E",
+      "published_at": "2017-06-27T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/i-bleed-i-can-fly-the-glass-cannon-podcast-giantslayer-e109-pathfinder-1e-YPo4XGZb",
+      "description": "Deep within the Dark Passage, a painted cave comes to life and devastates the party on all fronts! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f2b61d18-5cb3-43f4-8e00-fbf7fa1629ec/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f2b61d18-5cb3-43f4-8e00-fbf7fa1629ec&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97294084",
+      "itunes_duration": "01:40:45",
+      "speakers": [],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "ef731163e20ba4f596ccc3cc8ec0147027fb6dae",
+      "title": "You All Meet in a Cavern | The Glass Cannon Podcast Giantslayer E108 | Pathfinder 1E",
+      "published_at": "2017-06-20T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/you-all-meet-in-a-cavern-the-glass-cannon-podcast-giantslayer-e108-pathfinder-1e-L4pGCrOq",
+      "description": "Upon entering the mysterious Dark Passage, the party is promptly greeted by a rock to Barron's face just as all hell breaks loose! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f4349ce2-f259-42b6-9814-360db4fcab59/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f4349ce2-f259-42b6-9814-360db4fcab59&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83096467",
+      "itunes_duration": "01:25:58",
+      "speakers": [],
+      "topics": [
+        "cavern",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "011217b8a711cd780a92ff0ddeb5e2a89dd6e0ae",
+      "title": "Broom Service | The Glass Cannon Podcast Giantslayer E107 | Pathfinder 1E",
+      "published_at": "2017-06-13T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/broom-service-the-glass-cannon-podcast-giantslayer-e107-pathfinder-1e-PcmKMTqO",
+      "description": "As the ominous Dark Passage awaits, the party must first decide what to do with their friends high up above the Cathedral. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d620f78b-55c5-4574-aa51-04be8e4a3e30/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d620f78b-55c5-4574-aa51-04be8e4a3e30&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70560599",
+      "itunes_duration": "01:12:55",
+      "speakers": [],
+      "topics": [
+        "broom",
+        "service",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "39a75a703ba805f9c340d75a1be6e7e2c29164b7",
+      "title": "Choir You Hitting Yourself? | The Glass Cannon Podcast Giantslayer E106 | Pathfinder 1E",
+      "published_at": "2017-06-06T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/choir-you-hitting-yourself-the-glass-cannon-podcast-giantslayer-e106-pathfinder-1e-4gPVNNbD",
+      "description": "The party must return to Minderhal's Valley to track down the missing items needed to relight the Sacred Forge, but getting out of the cathedral safely proves to be difficult. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/62298338-657d-406a-b443-6726349a76ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=62298338-657d-406a-b443-6726349a76ef&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69261225",
+      "itunes_duration": "01:11:33",
+      "speakers": [],
+      "topics": [
+        "choir",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "bddd8454e6cbfd3823a7ca6fb28815beda74c534",
+      "title": "Slag Film | The Glass Cannon Podcast Giantslayer E105 | Pathfinder 1E",
+      "published_at": "2017-05-30T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/slag-film-the-glass-cannon-podcast-giantslayer-e105-pathfinder-1e-BaJWkokD",
+      "description": "In the Forgeheart, deep below the Cathedral of Minderhal, the heroes encounter mysteries and visions of the past from the Keeper of the Forge - a centuries-old slag giant oracle! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/33c0b530-d061-4644-aa8e-c217c33f97b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=33c0b530-d061-4644-aa8e-c217c33f97b7&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94584942",
+      "itunes_duration": "01:37:56",
+      "speakers": [],
+      "topics": [
+        "slag",
+        "film",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "507d80a082c08557f4f89f487d0ba4b95d1aacc0",
+      "title": "Rock Me on the Dais | The Glass Cannon Podcast Giantslayer E104 | Pathfinder 1E",
+      "published_at": "2017-05-23T04:46:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/rock-me-on-the-dais-the-glass-cannon-podcast-giantslayer-e104-pathfinder-1e-NjuTV868",
+      "description": "An unexpected encounter with a strange new species of giant will put the heroes on a dangerous path into the very heart of the Cathedral! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4807d504-5010-4edf-b903-437f6243d21d/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4807d504-5010-4edf-b903-437f6243d21d&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79692985",
+      "itunes_duration": "01:22:25",
+      "speakers": [],
+      "topics": [
+        "dais",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "28fbfe03ef9673e3df66db00717bcab71a8e8993",
+      "title": "Groghall Putsch | The Glass Cannon Podcast Giantslayer E103 | Pathfinder 1E",
+      "published_at": "2017-05-16T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/groghall-putsch-the-glass-cannon-podcast-giantslayer-e103-pathfinder-1e-rEKFjzDO",
+      "description": "It's an old fashioned barroom brawl as the heroes take on a raging party of giants! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/8453a94d-7873-479e-88c3-b768e5e774f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=8453a94d-7873-479e-88c3-b768e5e774f0&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82454008",
+      "itunes_duration": "01:25:18",
+      "speakers": [
+        "Groghall Putsch"
+      ],
+      "topics": [
+        "groghall",
+        "putsch",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "349e9e2bb63f5c23585ffcfde3a6e382e8963b25",
+      "title": "Spike Drop | The Glass Cannon Podcast Giantslayer E102 | Pathfinder 1E",
+      "published_at": "2017-05-09T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/spike-drop-the-glass-cannon-podcast-giantslayer-e102-pathfinder-1e-0FF4enBa",
+      "description": "With Della's fate lying precariously in the hands of Sir Will, the party is forced to make some major decisions on how to move forward. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/860abe3e-3507-4a11-b72c-7926a7f67ec5/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=860abe3e-3507-4a11-b72c-7926a7f67ec5&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91368244",
+      "itunes_duration": "01:34:35",
+      "speakers": [
+        "Spike Drop"
+      ],
+      "topics": [
+        "spike",
+        "drop",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "338b75f83bdb18becc710df615fe20a558a02494",
+      "title": "Spire Walk with Me | The Glass Cannon Podcast Giantslayer E101 | Pathfinder 1E",
+      "published_at": "2017-05-02T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/spire-walk-with-me-the-glass-cannon-podcast-giantslayer-e101-pathfinder-1e-93pd9USj",
+      "description": "High above the cathedral, within the middle spire, old companions reunite. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/624f9e23-be5e-43a3-a15f-a008d555e7e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=624f9e23-be5e-43a3-a15f-a008d555e7e6&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73040307",
+      "itunes_duration": "01:15:30",
+      "speakers": [],
+      "topics": [
+        "spire",
+        "walk",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "87aec990d16bddec99e7621c529c0abf1206fae5",
+      "title": "Ranger Things | The Glass Cannon Podcast Giantslayer E100 Part 3 | Pathfinder 1E",
+      "published_at": "2017-04-25T04:03:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/ranger-things-the-glass-cannon-podcast-giantslayer-e100-part-3-pathfinder-1e-fPclcvVl",
+      "description": "The #marchto100 concludes with the return of an old friend. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a83a719d-8947-43c3-9b7f-2af0f83da7d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a83a719d-8947-43c3-9b7f-2af0f83da7d4&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65567596",
+      "itunes_duration": "01:07:42",
+      "speakers": [],
+      "topics": [
+        "ranger",
+        "thing",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "f47b1f8c8ae8dd4b052a2f69c2b0b2c215ff7d88",
+      "title": "Ranger Things | The Glass Cannon Podcast Giantslayer E100 Part 2 | Pathfinder 1E",
+      "published_at": "2017-04-25T04:02:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/ranger-things-the-glass-cannon-podcast-giantslayer-e100-part-2-pathfinder-1e-4c4yP0Br",
+      "description": "The #marchto100 concludes with the return of an old friend. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c7158a6c-c567-478e-aa83-1784d909e9cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c7158a6c-c567-478e-aa83-1784d909e9cc&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92223361",
+      "itunes_duration": "01:35:28",
+      "speakers": [],
+      "topics": [
+        "ranger",
+        "thing",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "bce1ab9251e162eb02383005d6f1ab432734bfd4",
+      "title": "Ranger Things | The Glass Cannon Podcast Giantslayer E100 Part 1 | Pathfinder 1E",
+      "published_at": "2017-04-25T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/ranger-things-the-glass-cannon-podcast-giantslayer-e100-part-1-pathfinder-1e-b4Bue1It",
+      "description": "The #marchto100 concludes with the return of an old friend. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/40d74ddb-b049-483e-bc83-4ca4d9151c23/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=40d74ddb-b049-483e-bc83-4ca4d9151c23&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86256576",
+      "itunes_duration": "01:29:16",
+      "speakers": [],
+      "topics": [
+        "ranger",
+        "thing",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "bc978e746ea47b7168b5172897b96b50450ab35a",
+      "title": "Good Night, and Good Rukh | The Glass Cannon Podcast Giantslayer E99 | Pathfinder 1E",
+      "published_at": "2017-04-18T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/good-night-and-good-rukh-the-glass-cannon-podcast-giantslayer-e99-pathfinder-1e-32d8W89Q",
+      "description": "The party begins climbing the central tower of the cathedral, uncovering relentless danger, mysterious intel and unspeakable horror along the way. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/ffdb1694-625c-4032-95d3-ce0bce495301/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=ffdb1694-625c-4032-95d3-ce0bce495301&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "103501217",
+      "itunes_duration": "01:47:13",
+      "speakers": [
+        "Good Night"
+      ],
+      "topics": [
+        "good",
+        "night",
+        "rukh",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "1625d8ba98a1456d6363274343c3641cfd8cebdb",
+      "title": "Ettin Down to Business | The Glass Cannon Podcast Giantslayer E98 | Pathfinder 1E",
+      "published_at": "2017-04-11T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/ettin-down-to-business-the-glass-cannon-podcast-giantslayer-e98-pathfinder-1e-rObynxmx",
+      "description": "After successfully sneaking into the cathedral, the party faces a terrible threat as more mysteries begin to unfold. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/82b5924b-872d-4742-8f31-a17038c683be/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=82b5924b-872d-4742-8f31-a17038c683be&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74985116",
+      "itunes_duration": "01:17:31",
+      "speakers": [
+        "Ettin Down"
+      ],
+      "topics": [
+        "ettin",
+        "business",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "25ffc0a0b318bae0bf80f383ef0816319e2f8cb3",
+      "title": "Dream Reavers | The Glass Cannon Podcast Giantslayer E97 | Pathfinder 1E",
+      "published_at": "2017-04-04T04:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/dream-reavers-the-glass-cannon-podcast-giantslayer-e97-pathfinder-1e-GGN7g48_",
+      "description": "As infighting threatens to destroy the party from within, they face the even greater challenge of infiltrating the cathedral. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/9be568ae-62cf-4559-8beb-573b687520c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=9be568ae-62cf-4559-8beb-573b687520c2&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66306194",
+      "itunes_duration": "01:08:29",
+      "speakers": [],
+      "topics": [
+        "dream",
+        "reavers",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "2b22c32498ee5a8ad386ce208b297928033f2dfd",
+      "title": "Tent of a Woman 2: Payback's a Witch | The Glass Cannon Podcast Giantslayer E96 | Pathfinder 1E",
+      "published_at": "2017-03-28T04:01:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/tent-of-a-woman-2-paybacks-a-witch-the-glass-cannon-podcast-giantslayer-e96-pathfinder-1e-dmp2DXj2",
+      "description": "After a ferocious near-deadly battle, the mysterious, self-proclaimed Oculus rises and all hell breaks loose mere steps away from the Cathedral! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/39ea97f1-966a-4016-bde1-b43ae9e21791/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=39ea97f1-966a-4016-bde1-b43ae9e21791&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79001710",
+      "itunes_duration": "01:21:42",
+      "speakers": [],
+      "topics": [
+        "tent",
+        "woman",
+        "payback",
+        "witch",
+        "glass",
+        "cannon",
+        "podcast",
+        "giantslayer",
+        "pathfinder"
+      ]
     }
   ]
 }
@@ -13770,3 +22365,403 @@
 - 2023-06-06 — Strange Aeons Episode 78 – Until We Meat Again
 - 2023-05-31 — Cannon Fodder 5/31/23 — speakers: Cannon Fodder
 - 2023-05-30 — Strange Aeons Episode 77 – One Dollar Pickle — speakers: One Dollar Pickle Glass
+- 2023-05-24 — Cannon Fodder 5/24/23 — speakers: Cannon Fodder
+- 2023-05-23 — Strange Aeons Episode 76 – Rumble with the Umbral — speakers: Troy Lavallee, Joe O'Brien, Skid Maher
+- 2023-05-17 — Cannon Fodder 5/17/23 — speakers: Cannon Fodder
+- 2023-05-16 — Strange Aeons Episode 75 – Meat Cute — speakers: Troy Lavallee, Joe O'Brien
+- 2023-05-10 — Cannon Fodder 5/10/23 — speakers: Cannon Fodder
+- 2023-05-09 — Strange Aeons Episode 74 – Ghosts in the Machine — speakers: Join Troy
+- 2023-05-03 — Cannon Fodder 5/3/23 — speakers: Cannon Fodder
+- 2023-05-02 — Strange Aeons Episode 73 – Unwholesome Prison Blues — speakers: Unwholesome Prison Blues Links
+- 2023-04-26 — Cannon Fodder 4/26/23 — speakers: Cannon Fodder
+- 2023-04-25 — Strange Aeons Episode 72 – Mile High Drub — speakers: Mile High Drub Glass
+- 2023-04-19 — Cannon Fodder 4/19/23 — speakers: Cannon Fodder
+- 2023-04-18 — Strange Aeons Episode 71 – That Time of the Moon — speakers: Troy Lava
+- 2023-04-12 — Cannon Fodder 4/12/23 — speakers: Cannon Fodder, Glass Cannon Labs
+- 2023-04-11 — Strange Aeons Episode 70 – Ghost Ride the Bean Whip — speakers: Ghost Ride
+- 2023-04-05 — Cannon Fodder 4/5/23 — speakers: Cannon Fodder
+- 2023-04-04 — Strange Aeons Episode 69 – Wishing Impossible — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa
+- 2023-03-29 — Cannon Fodder 3/29/23
+- 2023-03-28 — Strange Aeons Episode 68 – Leng Story Short — speakers: Leng Story Short, Troy Lavallee
+- 2023-03-22 — Cannon Fodder 3/22/23
+- 2023-03-21 — Strange Aeons Episode 67 – Boogey Knights — speakers: Troy Lavallee
+- 2023-03-15 — Cannon Fodder 3/15/23 — speakers: Cannon Fodder, Gen Con
+- 2023-03-14 — Strange Aeons Episode 66 – Hounddog Day
+- 2023-03-08 — Cannon Fodder 3/8/23 — speakers: Cannon Fodder
+- 2023-03-07 — Strange Aeons Episode 65 – Citizen Leng — speakers: Citizen Leng
+- 2023-03-01 — Cannon Fodder 3/1/23 — speakers: Cannon Fodder
+- 2023-02-28 — Strange Aeons Episode 64 – Show Boat
+- 2023-02-22 — Cannon Fodder 2/22/23 — speakers: Cannon Fodder
+- 2023-02-21 — Strange Aeons Episode 63 – Wamp! (There It Is) — speakers: Troy Lavallee, Joe O'Bri
+- 2023-02-15 — Cannon Fodder 2/15/23 — speakers: Cannon Fodder
+- 2023-02-14 — Strange Aeons Episode 62 – The Ghast and the Curious
+- 2023-02-08 — Cannon Fodder 2/8/23 — speakers: Cannon Fodder
+- 2023-02-07 — Strange Aeons Episode 61 – A Mid-forest Night's Dream — speakers: Verduran Forest
+- 2023-02-01 — Friends of the Pod – Pathfinder 2E
+- 2023-02-01 — Cannon Fodder 2/1/23 — speakers: Cannon Fodder
+- 2023-01-31 — Strange Aeons Episode 60 – That's My Juice Now
+- 2023-01-25 — Cannon Fodder 1/25/23 — speakers: Cannon Fodder
+- 2023-01-24 — Strange Aeons Episode 59 – Tricorne Flakes — speakers: Tricorne Flakes Just
+- 2023-01-18 — Cannon Fodder 1/18/23 — speakers: Cannon Fodder
+- 2023-01-17 — Strange Aeons Episode 58 – Keeping the Wraith
+- 2023-01-11 — Cannon Fodder 1/11/23 — speakers: Cannon Fodder, Glass Cannon Labs
+- 2023-01-10 — Strange Aeons Episode 57 – The Adventures of Pepsi and Chickenpoon
+- 2023-01-04 — Cannon Fodder 1/4/23 — speakers: Cannon Fodder, Joe kick, Glass Cannon Labs
+- 2022-12-30 — Vengeance and Voltage | Haunted City S1 E25 | Blades in the Dark
+- 2022-12-23 — A Downtime Dalliance | Haunted City S1 E24 | Blades in the Dark — speakers: Ljns Ac
+- 2022-12-16 — Tunnels and Terror | Haunted City S1 E23 | Blades in the Dark — speakers: Haunted City
+- 2022-12-09 — Downtime Directives | Haunted City S1 E22 | Blades in the Dark
+- 2022-12-06 — Strange Aeons Episode 56 – Lurid Dreaming
+- 2022-12-02 — The Imperial City Part Three | Haunted City S1 E21 | Blades in the Dark
+- 2022-11-25 — The Imperial City Part Two | Haunted City S1 E20 | Blades in the Dark — speakers: Haunted City, Imperial City
+- 2022-11-22 — Strange Aeons Episode 55 – Last Christmas
+- 2022-11-18 — The Imperial City Part One | Haunted City S1 E19 | Blades in the Dark — speakers: Haunted City, Imperial City
+- 2022-11-11 — Chuk Shall Rise | Haunted City S1 E18 | Blades in the Dark — speakers: Chuk Shall Rise, Haunted City, Dark Chuk
+- 2022-11-08 — Strange Aeons Episode 54 – Help Wanted — speakers: Sellen Starling
+- 2022-11-04 — The Rise of Chuk | Haunted City S1 E17 | Blades in the Dark — speakers: Haunted City, Dark Chuk
+- 2022-11-01 — Strange Aeons Episode 53 – Master of Poppets
+- 2022-10-28 — Downtime Dissension Part Two | Haunted City S1 E16 | Blades in the Dark
+- 2022-10-25 — Strange Aeons Episode 52 – Foam at the Neck Mouth — speakers: Neck Mouth
+- 2022-10-21 — Downtime Dissension Part One | Haunted City S1 E15 | Blades in the Dark
+- 2022-10-18 — Strange Aeons Episode 51 – Wait in the Truck — speakers: Sellen Starling
+- 2022-10-14 — Art and Annihilation | Haunted City S1 E14 | Blades in the Dark — speakers: Haunted City
+- 2022-10-04 — Strange Aeons Episode 50 – Beach Bodies
+- 2022-09-27 — Strange Aeons Episode 49 – Riverside Drive — speakers: Riverside Drive
+- 2022-09-20 — Strange Aeons Episode 48 – All Hail the Water Rat! — speakers: life look
+- 2022-09-13 — Strange Aeons Episode 47 – This Gug's for You
+- 2022-09-06 — Strange Aeons Episode 46 – The Juice Is Loose
+- 2022-08-30 — Strange Aeons Episode 45 – Leap of Faith Barge — speakers: Faith Barge
+- 2022-08-23 — Strange Aeons Episode 44 – Tiger Bomb — speakers: Tiger Bomb
+- 2022-08-16 — Strange Aeons Episode 43 – The Return of the King — speakers: Gen Con
+- 2022-08-09 — Strange Aeons Episode 42 – Wrecking Ball
+- 2022-08-02 — Strange Aeons Episode 41 – Pair of Kings — speakers: Los Angeles
+- 2022-07-28 — Strange Aeons Episode 40 – Motile Bloodbath
+- 2022-07-27 — Strange Aeons Episode 39 – Why Tonight's the Caravanserai! — speakers: Why Tonight, Miracle Theatre
+- 2022-07-26 — Strange Aeons Episode 38 – Murder, She Boat
+- 2022-07-25 — Strange Aeons Episode 37 – Powers in the Attic — speakers: Praise Log
+- 2022-07-21 — Strange Aeons Episode 36 – Singing Heads — speakers: Singing Heads, Iris Hill
+- 2022-07-20 — Strange Aeons Episode 35 – G10 to Luna
+- 2022-07-19 — Strange Aeons Episode 34 – Fails from the Crypt
+- 2022-07-18 — Strange Aeons Episode 33 – Shag Carpet
+- 2022-07-14 — Strange Aeons Episode 32 – Shit and Giggles
+- 2022-07-13 — Strange Aeons Episode 31 – Two Half Men
+- 2022-07-12 — Strange Aeons Episode 30 – Rat Poisoned — speakers: Rat Poisoned Atticus
+- 2022-07-11 — Strange Aeons Episode 29 – The Rat Stands Alone — speakers: Glass Cannon
+- 2022-07-07 — Strange Aeons Episode 28 – I Peg Your Pardon
+- 2022-07-06 — Strange Aeons Episode 27 – One Hundred Dollars
+- 2022-07-05 — Strange Aeons Episode 26 – Monumental Decisions
+- 2022-07-04 — Strange Aeons Episode 25 – Sandra BULLock
+- 2022-06-30 — Strange Aeons Episode 24 – Lost in Translation
+- 2022-06-29 — Strange Aeons Episode 23 – You'll Never Be a Knight! — speakers: Troy Lavallee
+- 2022-06-28 — Strange Aeons Episode 22 – The Day the Music Died
+- 2022-06-27 — Strange Aeons Episode 21 – Bad Juju — speakers: Bad Juju After
+- 2022-06-23 — Strange Aeons Episode 20 – Unfamiliar Faces
+- 2022-06-22 — Strange Aeons Episode 19 – Sleepless Little Town
+- 2022-06-21 — Strange Aeons Episode 18 – Enter Sandman
+- 2022-06-20 — Strange Aeons Episode 17 – One Crazy Knight — speakers: Strange Aeons Marathon
+- 2022-06-16 — Strange Aeons Episode 16 – Poo De Grâce — speakers: Poo De Grâce
+- 2022-06-15 — Strange Aeons Episode 15 – An Actor Prepares
+- 2022-06-14 — Strange Aeons Episode 14 – Tickle Fight
+- 2022-06-13 — Strange Aeons Episode 13 – Acts of the Apostles — speakers: Whiz O'Brien
+- 2022-06-09 — Strange Aeons Episode 12 – Channel Positive Cabbage
+- 2022-06-08 — Strange Aeons Episode 11 – Kids in the Hallway (of Blood) — speakers: Glass Cannon
+- 2022-06-07 — Strange Aeons Episode 10 – Flashbacks and Handouts — speakers: Dragon Con
+- 2022-06-06 — Strange Aeons Episode 9 – Sweet, Sweet Marguerite — speakers: Sweet Marguerite
+- 2022-06-03 — The Giantslayer Goodbye Party — speakers: Giantslayer Goodbye Party
+- 2022-06-02 — Strange Aeons Episode 8 – I Stole Her Soul
+- 2022-06-01 — Strange Aeons Episode 7 – Hooked on Phonics
+- 2022-05-31 — Strange Aeons Episode 6 – What Am I Become? — speakers: What Am, Glass Cannon
+- 2022-05-30 — Strange Aeons Episode 5 – Praise Log! — speakers: Praise Log
+- 2022-05-26 — Strange Aeons Episode 4 – Words Fail
+- 2022-05-25 — Strange Aeons Episode 3 – Unconscious and Dying
+- 2022-05-24 — Strange Aeons Episode 2 – As If You Didn't Know — speakers: Join Tr
+- 2022-05-23 — Strange Aeons Episode 1 – The Green Loser
+- 2022-05-20 — Downtime Dynasty | Haunted City S1 E13 | Blades in the Dark
+- 2022-05-17 — A Couple Things Happened | The Glass Cannon Podcast Giantslayer E326 Part 3 | Pathfinder 1E
+- 2022-05-17 — A Couple Things Happened | The Glass Cannon Podcast Giantslayer E326 Part 2 | Pathfinder 1E
+- 2022-05-17 — A Couple Things Happened | The Glass Cannon Podcast Giantslayer E326 Part 1 | Pathfinder 1E
+- 2022-05-13 — Gangs and Ghosts | Haunted City S1 E12 | Blades in the Dark — speakers: Haunted City
+- 2022-05-10 — Rain of Terror | The Glass Cannon Podcast Giantslayer E325 | Pathfinder 1E — speakers: Ironcloud Keep
+- 2022-05-06 — Downtime Domination | Haunted City S1 E11 | Blades in the Dark — speakers: Downtime Domination, Haunted City
+- 2022-05-03 — Every Death You Snake | The Glass Cannon Podcast Giantslayer E324 | Pathfinder 1E
+- 2022-04-29 — Just Your Basic B&E | Haunted City S1 E10 | Blades in the Dark — speakers: Haunted City
+- 2022-04-22 — Introducing Ekeprag Wodi | Haunted City S1 E9 | Blades in the Dark — speakers: Ekeprag Wodi
+- 2022-04-15 — Demons and Detectives | Haunted City S1 E8 | Blades in the Dark — speakers: Haunted City
+- 2022-04-12 — A Jimmer of Hope | The Glass Cannon Podcast Giantslayer E323 | Pathfinder 1E — speakers: Ironcloud Keep
+- 2022-04-08 — Downtime Delirium | Haunted City S1 E7 | Blades in the Dark — speakers: Downtime Delirium, Haunted City
+- 2022-04-05 — Gone with the Skinned | The Glass Cannon Podcast Giantslayer E322 | Pathfinder 1E
+- 2022-04-01 — Science and Sabotage | Haunted City S1 E6 | Blades in the Dark — speakers: Haunted City
+- 2022-03-29 — Coyne Flip | The Glass Cannon Podcast Giantslayer E321 | Pathfinder 1E — speakers: Coyne Flip, Ironcloud Keep
+- 2022-03-25 — Death and Downtime | Haunted City S1 E5 | Blades in the Dark — speakers: Haunted City
+- 2022-03-22 — Hand Theft Auto | The Glass Cannon Podcast Giantslayer E320 | Pathfinder 1E
+- 2022-03-18 — Unsafe Deposit Box | Haunted City S1 E4 | Blades in the Dark
+- 2022-03-15 — Free Will? Roc You? | The Glass Cannon Podcast Giantslayer E319 | Pathfinder 1E
+- 2022-03-11 — Downtime in the Dusk | Haunted City S1 E3 | Blades in the Dark — speakers: Haunted City
+- 2022-03-08 — Between a Roc and a Hard Place | The Glass Cannon Podcast Giantslayer E318 | Pathfinder 1E — speakers: Hard Place
+- 2022-03-04 — Electroplasm Heist | Haunted City S1 E2 | Blades in the Dark — speakers: Electroplasm Heist, Haunted City
+- 2022-03-01 — Some Dying, a Witch and Her Wardrobe | The Glass Cannon Podcast Giantslayer E317 | Pathfinder 1E — speakers: Some Dying
+- 2022-02-25 — Enter the Dusk | Haunted City S1 E1 | Blades in the Dark — speakers: Abubakar Salim, Josephine McAdam
+- 2022-02-22 — Skies Wide Shut | The Glass Cannon Podcast Giantslayer E316 | Pathfinder 1E — speakers: Skies Wide Shut
+- 2022-02-15 — Fear Window | The Glass Cannon Podcast Giantslayer E315 | Pathfinder 1E
+- 2022-02-08 — Chapeled Condition | The Glass Cannon Podcast Giantslayer E314 | Pathfinder 1E
+- 2022-02-01 — Hero Gravity | The Glass Cannon Podcast Giantslayer E313 | Pathfinder 1E
+- 2022-01-25 — Forget Me Knot | The Glass Cannon Podcast Giantslayer E312 | Pathfinder 1E
+- 2022-01-18 — Face the Rainbow 4: Something Wicked This Spray Comes | The Glass Cannon Podcast Giantslayer E311 | Pathfinder 1E
+- 2022-01-11 — Face the Rainbow 3: Snake and the Gat Man | The Glass Cannon Podcast Giantslayer E310 | Pathfinder 1E — speakers: Gat Man
+- 2022-01-04 — Face the Rainbow 2: One Crazy Knight | The Glass Cannon Podcast Giantslayer E309 | Pathfinder 1E
+- 2021-12-21 — Face the Rainbow | The Glass Cannon Podcast Giantslayer E308 | Pathfinder 1E
+- 2021-12-14 — GL Numbs | The Glass Cannon Podcast Giantslayer E307 | Pathfinder 1E — speakers: narrowly defeated
+- 2021-12-07 — The Fountaindead | The Glass Cannon Podcast Giantslayer E306 | Pathfinder 1E
+- 2021-11-30 — Dead Above Water | The Glass Cannon Podcast Giantslayer E305 | Pathfinder 1E
+- 2021-11-23 — Lancer in the Dark | The Glass Cannon Podcast Giantslayer E304 | Pathfinder 1E
+- 2021-11-16 — For Whom Dispel Tolls | The Glass Cannon Podcast Giantslayer E303 | Pathfinder 1E
+- 2021-11-09 — Where There Is Darkness, Fight | The Glass Cannon Podcast Giantslayer E302 | Pathfinder 1E
+- 2021-11-02 — Tree for the Tillerman | The Glass Cannon Podcast Giantslayer E301 | Pathfinder 1E
+- 2021-10-26 — Master and a Brandyr | The Glass Cannon Podcast Giantslayer E300 Part 2 | Pathfinder 1E
+- 2021-10-26 — Master and a Brandyr | The Glass Cannon Podcast Giantslayer E300 Part 1 | Pathfinder 1E
+- 2021-10-12 — The Crystal Ball Inquiries | The Glass Cannon Podcast Giantslayer E299 | Pathfinder 1E — speakers: Ironcloud Keep
+- 2021-10-05 — Man, It's So Cloud in Here | The Glass Cannon Podcast Giantslayer E298 | Pathfinder 1E — speakers: So Cloud
+- 2021-09-28 — Cloudy with a Chance of Sweet Mauls | The Glass Cannon Podcast Giantslayer E297 | Pathfinder 1E — speakers: Ironcloud Keep
+- 2021-09-21 — Pig Spittle Flies | The Glass Cannon Podcast Giantslayer E296 | Pathfinder 1E
+- 2021-09-14 — Gangs of New Orcs | The Glass Cannon Podcast Giantslayer E295 | Pathfinder 1E — speakers: New Orcs
+- 2021-09-07 — Say No to Gugs | The Glass Cannon Podcast Giantslayer E294 | Pathfinder 1E
+- 2021-08-31 — Three Guys, a Girl and a Practice Mace | The Glass Cannon Podcast Giantslayer E293 | Pathfinder 1E
+- 2021-08-24 — 9 Heads and a Scuffle Scrag | The Glass Cannon Podcast Giantslayer E292 | Pathfinder 1E
+- 2021-08-17 — The Handmaid's Tail | The Glass Cannon Podcast Giantslayer E291 | Pathfinder 1E
+- 2021-08-10 — The Spider House Rules | The Glass Cannon Podcast Giantslayer E290 | Pathfinder 1E
+- 2021-08-03 — Ladder Control Issues | The Glass Cannon Podcast Giantslayer E289 | Pathfinder 1E — speakers: Ladder Control Issues
+- 2021-07-27 — Ethereal Girl | The Glass Cannon Podcast Giantslayer E288 | Pathfinder 1E
+- 2021-07-20 — Strand By Me | The Glass Cannon Podcast Giantslayer E287 | Pathfinder 1E
+- 2021-07-13 — Loot and Rally | The Glass Cannon Podcast Giantslayer E286 | Pathfinder 1E
+- 2021-07-06 — Any Awesome Blow, I'll Follow You Down | The Glass Cannon Podcast Giantslayer E285 | Pathfinder 1E
+- 2021-06-29 — Quake Me Home Tonight | The Glass Cannon Podcast Giantslayer E284 | Pathfinder 1E
+- 2021-06-22 — Chainspotting | The Glass Cannon Podcast Giantslayer E283 | Pathfinder 1E — speakers: Ironcloud Keep
+- 2021-06-15 — Highbury Knight Lives | The Glass Cannon Podcast Giantslayer E282 | Pathfinder 1E — speakers: Highbury Knight Lives, Ironcloud Keep
+- 2021-06-08 — Where There's a Will, There's a Way | The Glass Cannon Podcast Giantslayer E281 | Pathfinder 1E — speakers: grave tidings
+- 2021-06-01 — Keep Bomb and Aerie On | The Glass Cannon Podcast Giantslayer E280 | Pathfinder 1E — speakers: Keep Bomb
+- 2021-05-25 — Giantslayer Episode 279 - Mourning Glory — speakers: Mourning Glory
+- 2021-05-18 — The Mighty Ducts 3: The Ethereal March | The Glass Cannon Podcast Giantslayer E278 | Pathfinder 1E — speakers: ally down
+- 2021-05-11 — The Mighty Ducts 2: Once Upon a Climb | The Glass Cannon Podcast Giantslayer E277 | Pathfinder 1E
+- 2021-05-04 — The Mighty Ducts | The Glass Cannon Podcast Giantslayer E276 | Pathfinder 1E
+- 2021-04-27 — The Little Engine That Should | The Glass Cannon Podcast Giantslayer E275 | Pathfinder 1E
+- 2021-04-20 — Trapper's Delight | The Glass Cannon Podcast Giantslayer E274 | Pathfinder 1E — speakers: Engine Room
+- 2021-04-13 — A Resting Development | The Glass Cannon Podcast Giantslayer E273 | Pathfinder 1E — speakers: Ironcloud Keep
+- 2021-04-06 — Another Day in Paralyze | The Glass Cannon Podcast Giantslayer E272 | Pathfinder 1E
+- 2021-03-30 — Dark Side of the Moon Door | The Glass Cannon Podcast Giantslayer E271 | Pathfinder 1E — speakers: Dark Side, Ironcloud Keep
+- 2021-03-23 — Ghost Mortem | The Glass Cannon Podcast Giantslayer E270 | Pathfinder 1E
+- 2021-03-16 — Die, Robot | The Glass Cannon Podcast Giantslayer E269 | Pathfinder 1E
+- 2021-03-09 — Pisco Inferno | The Glass Cannon Podcast Giantslayer E268 | Pathfinder 1E
+- 2021-03-02 — Level Up Before You Go-Go | The Glass Cannon Podcast Giantslayer E267 | Pathfinder 1E — speakers: Ironcloud Keep
+- 2021-02-23 — How to Lose a Yaoguai in 10 Ways | The Glass Cannon Podcast Giantslayer E266 | Pathfinder 1E
+- 2021-02-16 — The Flying Game | The Glass Cannon Podcast Giantslayer E265 | Pathfinder 1E
+- 2021-02-09 — Stinging on the Chain | The Glass Cannon Podcast Giantslayer E264 | Pathfinder 1E
+- 2021-02-02 — Malice in Chains | The Glass Cannon Podcast Giantslayer E263 | Pathfinder 1E
+- 2021-01-26 — Sir Darlene Is Limited | The Glass Cannon Podcast Giantslayer E262 | Pathfinder 1E
+- 2021-01-19 — Fireball! Run! | The Glass Cannon Podcast Giantslayer E261 | Pathfinder 1E
+- 2021-01-12 — Parapet Sematary | The Glass Cannon Podcast Giantslayer E260 | Pathfinder 1E
+- 2021-01-05 — Take Two of These and Caldera Me in the Morning | The Glass Cannon Podcast Giantslayer E259 | Pathfinder 1E
+- 2021-01-03 — Downward Facing Yog | Side Quest Side Sesh S1 E37 | Pathfinder 1E
+- 2020-12-29 — Secret Flyover of a Caldera Girl | The Glass Cannon Podcast Giantslayer E258 | Pathfinder 1E
+- 2020-12-22 — Tunnel Vision | The Glass Cannon Podcast Giantslayer E257 | Pathfinder 1E
+- 2020-12-20 — Tentacle Difficulties | Side Quest Side Sesh S1 E36 | Pathfinder 1E
+- 2020-12-15 — Brawl the King's Men 3 – Hotline King | The Glass Cannon Podcast Giantslayer E256 | Pathfinder 1E — speakers: King Tytarian
+- 2020-12-08 — Brawl the King's Men 2 – Churls Just Wanna Have Gun | The Glass Cannon Podcast Giantslayer E255 | Pathfinder 1E — speakers: King Tytarian
+- 2020-12-06 — Purple Headed Worriers | Side Quest Side Sesh S1 E35 | Pathfinder 1E
+- 2020-12-01 — Brawl the King's Men | The Glass Cannon Podcast Giantslayer E254 | Pathfinder 1E
+- 2020-11-24 — The Queen's Speech | The Glass Cannon Podcast Giantslayer E253 | Pathfinder 1E
+- 2020-11-22 — Maniac Man Stun | Side Quest Side Sesh S1 E34 | Pathfinder 1E — speakers: Maniac Man Stun
+- 2020-11-16 — Smelled It Too: The Adventure of Stink | Side Quest Side Sesh S1 E33 | Pathfinder 1E
+- 2020-11-09 — Craig Party | Side Quest Side Sesh S1 E32 | Pathfinder 1E — speakers: Craig Party
+- 2020-11-02 — Lunatic Revolution | Side Quest Side Sesh S1 E31 | Pathfinder 1E — speakers: Lunatic Revolution, Side Quest Side Sesh
+- 2020-10-26 — The Door to the North | Side Quest Side Sesh S1 E30 | Pathfinder 1E
+- 2020-10-19 — Ghouls Rush In | Side Quest Side Sesh S1 E29 | Pathfinder 1E — speakers: Ghouls Rush
+- 2020-10-12 — Stair Trek Discovery | Side Quest Side Sesh S1 E28 | Pathfinder 1E
+- 2020-10-05 — Not Another Guillotine Movie | Side Quest Side Sesh S1 E27 | Pathfinder 1E — speakers: Guillotine Movie
+- 2020-09-28 — Never Shae Never Again | Side Quest Side Sesh S1 E26 | Pathfinder 1E
+- 2020-09-21 — One Tree Kill | Side Quest Side Sesh S1 E25 | Pathfinder 1E
+- 2020-09-14 — How I Met Your Brothers | Side Quest Side Sesh S1 E24 | Pathfinder 1E
+- 2020-09-07 — Kayals and Tribulations | Side Quest Side Sesh S1 E23 | Pathfinder 1E
+- 2020-08-31 — Better Call Wall | Side Quest Side Sesh S1 E22 | Pathfinder 1E
+- 2020-08-17 — Conceal and Barry | Side Quest Side Sesh S1 E21 | Pathfinder 1E
+- 2020-08-10 — Brides Dead Revisited | Side Quest Side Sesh S1 E20 | Pathfinder 1E — speakers: Boroi Manor
+- 2020-08-03 — Shade Row Superstar (That's Not What You Are) | Side Quest Side Sesh S1 E19 | Pathfinder 1E — speakers: Shade Row Superstar, Shade Row
+- 2020-07-27 — It's Not Easy Being Gene | Side Quest Side Sesh S1 E18 | Pathfinder 1E
+- 2020-07-20 — First World Problems | Side Quest Side Sesh S1 E17 | Pathfinder 1E
+- 2020-07-13 — Natural One Killers | Side Quest Side Sesh S1 E16 | Pathfinder 1E
+- 2020-07-06 — Too Hot to Candle | Side Quest Side Sesh S1 E15 | Pathfinder 1E
+- 2020-06-29 — A Manor Darkly | Side Quest Side Sesh S1 E14 | Pathfinder 1E — speakers: Boroi Manor
+- 2020-06-22 — A Mastiff Named Sapphire | Side Quest Side Sesh S1 E13 | Pathfinder 1E
+- 2020-06-15 — There's Something About Mayor! See! | Side Quest Side Sesh S1 E12 | Pathfinder 1E
+- 2020-06-08 — The Corn Ultimatum | Side Quest Side Sesh S1 E11 | Pathfinder 1E
+- 2020-06-01 — Miss of the Spider Woman | Side Quest Side Sesh S1 E10 | Pathfinder 1E
+- 2020-05-25 — Gnoll Coward | Side Quest Side Sesh S1 E9 | Pathfinder 1E — speakers: Gnoll Coward
+- 2020-05-18 — Netflix and Kill | Side Quest Side Sesh S1 E8 | Pathfinder 1E
+- 2020-05-11 — I Left My Notebook in New Jersey | Side Quest Side Sesh S1 E7 | Pathfinder 1E
+- 2020-05-04 — Vinegar Tom Before the Storm | Side Quest Side Sesh S1 E6 | Pathfinder 1E — speakers: Vinegar Tom Before
+- 2020-04-27 — The Learnmaker | Side Quest Side Sesh S1 E5 | Pathfinder 1E
+- 2020-04-20 — Diomedes' Principle | Side Quest Side Sesh S1 E4 | Pathfinder 1E — speakers: Side Quest Side Sesh
+- 2020-04-13 — Crystal Goosed | Side Quest Side Sesh S1 E3 | Pathfinder 1E — speakers: Erik Mona, Glass Cannon
+- 2020-04-06 — Stirge to Kill...Rising | Side Quest Side Sesh S1 E2 | Pathfinder 1E
+- 2020-03-30 — Sharp as a Provolone | Side Quest Side Sesh S1 E1 | Pathfinder 1E
+- 2020-03-24 — Sharp Guns Make No Silence | The Glass Cannon Podcast Giantslayer E252 | Pathfinder 1E — speakers: Barron Ashpeak
+- 2020-03-17 — No Retreat, No Defender | The Glass Cannon Podcast Giantslayer E251 | Pathfinder 1E
+- 2020-03-10 — Trunau As It Ever Was | The Glass Cannon Podcast Giantslayer E250 Part 2 | Pathfinder 1E
+- 2020-03-10 — Trunau As It Ever Was | The Glass Cannon Podcast Giantslayer E250 Part 1 | Pathfinder 1E
+- 2020-03-03 — Priests of Burden | The Glass Cannon Podcast Giantslayer E249 | Pathfinder 1E
+- 2020-02-25 — Pew Detective | The Glass Cannon Podcast Giantslayer E248 | Pathfinder 1E — speakers: Pew Detective
+- 2020-02-18 — Critty Critty Bang Bang | The Glass Cannon Podcast Giantslayer E247 | Pathfinder 1E — speakers: Critty Critty Bang Bang
+- 2020-02-11 — Vital Strike About You | The Glass Cannon Podcast Giantslayer E246 | Pathfinder 1E
+- 2020-02-04 — House of Guards | The Glass Cannon Podcast Giantslayer E245 | Pathfinder 1E
+- 2020-01-28 — Fog Day Afternoon | The Glass Cannon Podcast Giantslayer E244 | Pathfinder 1E
+- 2020-01-21 — The Return of the Queen | The Glass Cannon Podcast Giantslayer E243 | Pathfinder 1E
+- 2020-01-14 — The Gun Also Rises | The Glass Cannon Podcast Giantslayer E242 | Pathfinder 1E — speakers: Barron Ashpeak
+- 2020-01-07 — Til Breath Do Us Part Part 2 – Domination Committee | The Glass Cannon Podcast Giantslayer E241 | Pathfinder 1E — speakers: Til Breath
+- 2019-12-31 — Til Breath Do Us Part | The Glass Cannon Podcast Giantslayer E240 | Pathfinder 1E — speakers: Til Breath
+- 2019-12-24 — Surely You Nest | The Glass Cannon Podcast Giantslayer E239 | Pathfinder 1E
+- 2019-12-17 — Nest Side Story | The Glass Cannon Podcast Giantslayer E238 | Pathfinder 1E — speakers: Nest Side Story
+- 2019-12-10 — Breath Wish | The Glass Cannon Podcast Giantslayer E237 | Pathfinder 1E
+- 2019-12-03 — The Tell-Tale Heat | The Glass Cannon Podcast Giantslayer E236 | Pathfinder 1E
+- 2019-11-26 — Lava's a Battlefield | The Glass Cannon Podcast Giantslayer E235 | Pathfinder 1E — speakers: Deep Ashpeak
+- 2019-11-19 — 50 Ways to Leave Your Lava | The Glass Cannon Podcast Giantslayer E234 | Pathfinder 1E — speakers: beneath Ashpeak
+- 2019-11-12 — Pit Happens | The Glass Cannon Podcast Giantslayer E233 | Pathfinder 1E — speakers: Pit Happens
+- 2019-11-05 — And Boom Goes the Rhino's Might | The Glass Cannon Podcast Giantslayer E232 | Pathfinder 1E
+- 2019-10-29 — Captains Crunch | The Glass Cannon Podcast Giantslayer E231 | Pathfinder 1E — speakers: Captains Crunch
+- 2019-10-22 — The Bad News Stairs | The Glass Cannon Podcast Giantslayer E230 | Pathfinder 1E
+- 2019-10-15 — Chase in the Hole | The Glass Cannon Podcast Giantslayer E229 | Pathfinder 1E
+- 2019-10-08 — Mazed and Confused | The Glass Cannon Podcast Giantslayer E228 | Pathfinder 1E
+- 2019-10-01 — Spear Pressure | The Glass Cannon Podcast Giantslayer E227 | Pathfinder 1E — speakers: Spear Pressure
+- 2019-09-24 — How Thoon We Forget | The Glass Cannon Podcast Giantslayer E226 | Pathfinder 1E
+- 2019-09-17 — Total Critshow | The Glass Cannon Podcast Giantslayer E225 | Pathfinder 1E
+- 2019-09-10 — Statue of Limitations 2: Mural Plasticity | The Glass Cannon Podcast Giantslayer E224 | Pathfinder 1E — speakers: Mural Plasticity
+- 2019-09-03 — Breaking a Mortarer | The Glass Cannon Podcast Giantslayer E223 | Pathfinder 1E
+- 2019-08-27 — High Planes Drifter | The Glass Cannon Podcast Giantslayer E222 | Pathfinder 1E — speakers: High Planes Drifter
+- 2019-08-20 — The Burning Ambush | The Glass Cannon Podcast Giantslayer E221 | Pathfinder 1E
+- 2019-08-13 — Collapse in Judgment | The Glass Cannon Podcast Giantslayer E220 | Pathfinder 1E
+- 2019-08-06 — Patrol Alt Delete | The Glass Cannon Podcast Giantslayer E219 | Pathfinder 1E
+- 2019-07-30 — An Orc in the Road | The Glass Cannon Podcast Giantslayer E218 | Pathfinder 1E
+- 2019-07-23 — Her Dark Materials | The Glass Cannon Podcast Giantslayer E217 | Pathfinder 1E — speakers: Thoon's guidance
+- 2019-07-16 — The War on Nugs | The Glass Cannon Podcast Giantslayer E216 | Pathfinder 1E
+- 2019-07-09 — The Dung and the Restless | The Glass Cannon Podcast Giantslayer E215 | Pathfinder 1E
+- 2019-07-02 — Treacherous H | The Glass Cannon Podcast Giantslayer E214 | Pathfinder 1E
+- 2019-06-25 — Crowd Control From Della's Mom | The Glass Cannon Podcast Giantslayer E213 | Pathfinder 1E
+- 2019-06-18 — Strictly Mushrooms | The Glass Cannon Podcast Giantslayer E212 | Pathfinder 1E
+- 2019-06-11 — Fast Climbs at Ashpeak High | The Glass Cannon Podcast Giantslayer E211 | Pathfinder 1E
+- 2019-06-04 — Pit Could Happen to You | The Glass Cannon Podcast Giantslayer E210 | Pathfinder 1E
+- 2019-05-28 — Character Cremation | The Glass Cannon Podcast Giantslayer E209 | Pathfinder 1E
+- 2019-05-21 — Trial 'Em for Murder | The Glass Cannon Podcast Giantslayer E208 | Pathfinder 1E — speakers: Sky Citadel
+- 2019-05-14 — You've Got Chainmail | The Glass Cannon Podcast Giantslayer E207 | Pathfinder 1E
+- 2019-05-07 — Don't Tell Mom Her Baby's More Than Dead | The Glass Cannon Podcast Giantslayer E206 | Pathfinder 1E
+- 2019-04-30 — Throne for a Loop 4: Some New Hope | The Glass Cannon Podcast Giantslayer E205 | Pathfinder 1E
+- 2019-04-23 — Throne for a Loop 3: Passed from the Blast | The Glass Cannon Podcast Giantslayer E204 | Pathfinder 1E
+- 2019-04-16 — Throne for a Loop 2: The Flaming of the Crew | The Glass Cannon Podcast Giantslayer E203 | Pathfinder 1E
+- 2019-04-09 — Throne for a Loop | The Glass Cannon Podcast Giantslayer E202 | Pathfinder 1E
+- 2019-04-02 — Plot Armor | The Glass Cannon Podcast Giantslayer E201 | Pathfinder 1E — speakers: grave tidings
+- 2019-03-26 — Viva Lost Magus | The Glass Cannon Podcast Giantslayer E200 Part 3 | Pathfinder 1E
+- 2019-03-26 — Viva Lost Magus | The Glass Cannon Podcast Giantslayer E200 Part 2 | Pathfinder 1E
+- 2019-03-26 — Viva Lost Magus | The Glass Cannon Podcast Giantslayer E200 Part 1 | Pathfinder 1E
+- 2019-03-19 — Dungeons and Dragons | The Glass Cannon Podcast Giantslayer E199 | Pathfinder 1E
+- 2019-03-12 — Better Off Undead | The Glass Cannon Podcast Giantslayer E198 | Pathfinder 1E
+- 2019-03-05 — Grate Expectations 2: Tar Pool Karaoke | The Glass Cannon Podcast Giantslayer E197 | Pathfinder 1E
+- 2019-02-26 — Just Druid | The Glass Cannon Podcast Giantslayer E196 | Pathfinder 1E
+- 2019-02-19 — Take My Knife, Please! | The Glass Cannon Podcast Giantslayer E195 | Pathfinder 1E
+- 2019-02-12 — A Wail of Two Pretties | The Glass Cannon Podcast Giantslayer E194 | Pathfinder 1E — speakers: Two Pretties
+- 2019-02-05 — Dust Issues | The Glass Cannon Podcast Giantslayer E193 | Pathfinder 1E — speakers: Dust Issues
+- 2019-01-29 — The Eyes Have It | The Glass Cannon Podcast Giantslayer E192 | Pathfinder 1E
+- 2019-01-22 — Climb Gonna Git You Sucka | The Glass Cannon Podcast Giantslayer E191 | Pathfinder 1E
+- 2019-01-15 — Dead Head Redemption 2: Geas Who's Coming to Dinner | The Glass Cannon Podcast Giantslayer E190 | Pathfinder 1E
+- 2019-01-08 — Lance Lance Retribution 2: Lance Like Nobody's Watching | The Glass Cannon Podcast Giantslayer E189 | Pathfinder 1E
+- 2019-01-01 — Vorpal Rain | The Glass Cannon Podcast Giantslayer E188 | Pathfinder 1E — speakers: Hhurrun Springbane
+- 2018-12-25 — Quest Side Story | The Glass Cannon Podcast Giantslayer E187 | Pathfinder 1E — speakers: Quest Side Story
+- 2018-12-18 — Curse Your Enthusiasm | The Glass Cannon Podcast Giantslayer E186 | Pathfinder 1E
+- 2018-12-11 — Dead Head Redemption | The Glass Cannon Podcast Giantslayer E185 | Pathfinder 1E — speakers: Dead Head Redemption
+- 2018-12-04 — Lance Lance Retribution | The Glass Cannon Podcast Giantslayer E184 | Pathfinder 1E — speakers: Lance Lance Retribution
+- 2018-11-27 — Romancing the Bones | The Glass Cannon Podcast Giantslayer E183 | Pathfinder 1E
+- 2018-11-20 — Trilling Them Softly Part 3 – License to Trill | The Glass Cannon Podcast Giantslayer E182 | Pathfinder 1E
+- 2018-11-13 — Trilling Them Softly Part 2 – A View to a Trill | The Glass Cannon Podcast Giantslayer E181 | Pathfinder 1E
+- 2018-11-06 — Trilling Them Softly | The Glass Cannon Podcast Giantslayer E180 | Pathfinder 1E — speakers: room cleared
+- 2018-10-30 — Y Tu Mammoth También | The Glass Cannon Podcast Giantslayer E179 | Pathfinder 1E — speakers: Tu Mammoth
+- 2018-10-23 — The Ice Is Right | The Glass Cannon Podcast Giantslayer E178 | Pathfinder 1E
+- 2018-10-16 — The Ploy That Cried Wolf | The Glass Cannon Podcast Giantslayer E177 | Pathfinder 1E
+- 2018-10-09 — And the Disband Played On | The Glass Cannon Podcast Giantslayer E176 | Pathfinder 1E
+- 2018-10-02 — Something Wicker This Way Comes | The Glass Cannon Podcast Giantslayer E175 | Pathfinder 1E
+- 2018-09-25 — Acts of the Colossals | The Glass Cannon Podcast Giantslayer E174 | Pathfinder 1E
+- 2018-09-18 — Hersir and Present Danger | The Glass Cannon Podcast Giantslayer E173 | Pathfinder 1E — speakers: Hersir Greggano
+- 2018-09-11 — Magic-User Unfriendly | The Glass Cannon Podcast Giantslayer E172 | Pathfinder 1E — speakers: User Unfriendly
+- 2018-09-04 — Days of Sunder | The Glass Cannon Podcast Giantslayer E171 | Pathfinder 1E
+- 2018-08-28 — The Birds and the Bears | The Glass Cannon Podcast Giantslayer E170 | Pathfinder 1E
+- 2018-08-21 — Worm Warfare | The Glass Cannon Podcast Giantslayer E169 | Pathfinder 1E
+- 2018-08-14 — A Tale of Frost and Flame | The Glass Cannon Podcast Giantslayer E168 | Pathfinder 1E
+- 2018-08-07 — Church and Destroy | The Glass Cannon Podcast Giantslayer E167 | Pathfinder 1E
+- 2018-07-31 — Chapel of My Eye | The Glass Cannon Podcast Giantslayer E166 | Pathfinder 1E
+- 2018-07-24 — Mummy Issues | The Glass Cannon Podcast Giantslayer E165 | Pathfinder 1E — speakers: Mummy Issues
+- 2018-07-17 — The Temple of Detrimental Evil | The Glass Cannon Podcast Giantslayer E164 | Pathfinder 1E — speakers: Detrimental Evil
+- 2018-07-10 — Bear With Us | The Glass Cannon Podcast Giantslayer E163 | Pathfinder 1E
+- 2018-07-03 — Half-Orc Will Travel 2: When Nature Kalls | The Glass Cannon Podcast Giantslayer E162 | Pathfinder 1E — speakers: Nature Kalls
+- 2018-06-26 — Of Scythe and Men | The Glass Cannon Podcast Giantslayer E161 | Pathfinder 1E
+- 2018-06-19 — Welcome Back, Slaughter | The Glass Cannon Podcast Giantslayer E160 | Pathfinder 1E
+- 2018-06-12 — Blood From a Stone Shape | The Glass Cannon Podcast Giantslayer E159 | Pathfinder 1E
+- 2018-06-05 — Bring in 'da Noise, Bring in 'da Monk | The Glass Cannon Podcast Giantslayer E158 | Pathfinder 1E
+- 2018-05-29 — Enter the Wagon 2: I'll Hag What She's Hagging | The Glass Cannon Podcast Giantslayer E157 | Pathfinder 1E
+- 2018-05-22 — Enter the Wagon | The Glass Cannon Podcast Giantslayer E156 | Pathfinder 1E
+- 2018-05-15 — Break Out Sesh | The Glass Cannon Podcast Giantslayer E155 | Pathfinder 1E
+- 2018-05-08 — Cloudy with a Chance of Mess Hall | The Glass Cannon Podcast Giantslayer E154 | Pathfinder 1E
+- 2018-05-01 — Mine Games | The Glass Cannon Podcast Giantslayer E153 | Pathfinder 1E
+- 2018-04-24 — Resize Doesn't Matter | The Glass Cannon Podcast Giantslayer E152 | Pathfinder 1E
+- 2018-04-17 — Heavy Is the Head That Wears the Crayon | The Glass Cannon Podcast Giantslayer E151 | Pathfinder 1E
+- 2018-04-10 — Shrine On You Crazy Diamond | The Glass Cannon Podcast Giantslayer E150 | Pathfinder 1E
+- 2018-04-03 — Ready, Willing and Stable | The Glass Cannon Podcast Giantslayer E149 | Pathfinder 1E
+- 2018-03-27 — Brewer Discretion Advised | The Glass Cannon Podcast Giantslayer E148 | Pathfinder 1E
+- 2018-03-20 — Spy Another Day | The Glass Cannon Podcast Giantslayer E147 | Pathfinder 1E
+- 2018-03-13 — The Battle of Silo | The Glass Cannon Podcast Giantslayer E146 | Pathfinder 1E
+- 2018-03-06 — Sex, Bugs and Stalking Trolls | The Glass Cannon Podcast Giantslayer E145 | Pathfinder 1E
+- 2018-02-27 — All Along the Botchtower | The Glass Cannon Podcast Giantslayer E144 | Pathfinder 1E — speakers: All Along
+- 2018-02-20 — Knowledge Is Tower | The Glass Cannon Podcast Giantslayer E143 | Pathfinder 1E
+- 2018-02-13 — Reconnaissance Man | The Glass Cannon Podcast Giantslayer E142 | Pathfinder 1E
+- 2018-02-06 — Climbs and Misdemeanors | The Glass Cannon Podcast Giantslayer E141 | Pathfinder 1E
+- 2018-01-30 — Toad to Perdition | The Glass Cannon Podcast Giantslayer E140 | Pathfinder 1E
+- 2018-01-23 — Hit Me With Your Head Shot | The Glass Cannon Podcast Giantslayer E139 | Pathfinder 1E
+- 2018-01-16 — Take Your Daughter to Lorc Day | The Glass Cannon Podcast Giantslayer E138 | Pathfinder 1E
+- 2018-01-09 — Helter Skelt-er | The Glass Cannon Podcast Giantslayer E137 | Pathfinder 1E — speakers: Helter Skelt-er
+- 2018-01-02 — Knife Guys Finish Last | The Glass Cannon Podcast Giantslayer E136 | Pathfinder 1E
+- 2017-12-26 — Ranger Things 2 | The Glass Cannon Podcast Giantslayer E135 | Pathfinder 1E
+- 2017-12-19 — It's My Party and I'll Scry If I Want To | The Glass Cannon Podcast Giantslayer E134 | Pathfinder 1E — speakers: My Party, Scry If
+- 2017-12-12 — Fantastic Priests and Where to Find Them | The Glass Cannon Podcast Giantslayer E133 | Pathfinder 1E — speakers: Sky Citadel
+- 2017-12-05 — Leaving Lost Magus | The Glass Cannon Podcast Giantslayer E132 | Pathfinder 1E — speakers: Leaving Lost Magus
+- 2017-11-28 — Give and Let Die | The Glass Cannon Podcast Giantslayer E131 | Pathfinder 1E
+- 2017-11-21 — +21 Jump Street | The Glass Cannon Podcast Giantslayer E130 | Pathfinder 1E — speakers: Jump Street
+- 2017-11-14 — Statue of Limitations | The Glass Cannon Podcast Giantslayer E129 | Pathfinder 1E
+- 2017-11-07 — Slag! You're it! | The Glass Cannon Podcast Giantslayer E128 | Pathfinder 1E
+- 2017-10-31 — Stop Dragon My Heart Around | The Glass Cannon Podcast Giantslayer E127 | Pathfinder 1E
+- 2017-10-24 — Sunday in the Park with Forge | The Glass Cannon Podcast Giantslayer E126 | Pathfinder 1E
+- 2017-10-17 — Raz to the Occasion | The Glass Cannon Podcast Giantslayer E125 | Pathfinder 1E
+- 2017-10-10 — Going Going Back Back to Valley Valley | The Glass Cannon Podcast Giantslayer E124 | Pathfinder 1E
+- 2017-10-03 — Worm Welcome | The Glass Cannon Podcast Giantslayer E123 | Pathfinder 1E
+- 2017-09-26 — Swamp and Circumstance | The Glass Cannon Podcast Giantslayer E122 | Pathfinder 1E — speakers: new powers
+- 2017-09-19 — Bridge Over Troubled Slaughter | The Glass Cannon Podcast Giantslayer E21 | Pathfinder 1E
+- 2017-09-12 — A Matter of Life and Breath | The Glass Cannon Podcast Giantslayer E120 | Pathfinder 1E
+- 2017-09-05 — Booty and the Beast | The Glass Cannon Podcast Giantslayer E119 | Pathfinder 1E
+- 2017-08-29 — Lake Flaccid | The Glass Cannon Podcast Giantslayer E118 | Pathfinder 1E
+- 2017-08-22 — The Strife Aquatic | The Glass Cannon Podcast Giantslayer E117 | Pathfinder 1E
+- 2017-08-15 — Waterhouse-Five | The Glass Cannon Podcast Giantslayer E116 | Pathfinder 1E
+- 2017-08-08 — There's Something About Beary | The Glass Cannon Podcast Giantslayer E115 | Pathfinder 1E
+- 2017-08-01 — Bearly Legal | The Glass Cannon Podcast Giantslayer E114 | Pathfinder 1E — speakers: Bearly Legal
+- 2017-07-25 — Shadow Lancing | The Glass Cannon Podcast Giantslayer E113 | Pathfinder 1E — speakers: Shadow Lancing
+- 2017-07-18 — A Bridge Too Fungfar | The Glass Cannon Podcast Giantslayer E112 | Pathfinder 1E — speakers: Bridge Too Fungfar
+- 2017-07-11 — Buggane Out | The Glass Cannon Podcast Giantslayer E111 | Pathfinder 1E
+- 2017-07-04 — Don't Worry, Be Mappy | The Glass Cannon Podcast Giantslayer E110 | Pathfinder 1E
+- 2017-06-27 — I Bleed I Can Fly | The Glass Cannon Podcast Giantslayer E109 | Pathfinder 1E
+- 2017-06-20 — You All Meet in a Cavern | The Glass Cannon Podcast Giantslayer E108 | Pathfinder 1E
+- 2017-06-13 — Broom Service | The Glass Cannon Podcast Giantslayer E107 | Pathfinder 1E
+- 2017-06-06 — Choir You Hitting Yourself? | The Glass Cannon Podcast Giantslayer E106 | Pathfinder 1E
+- 2017-05-30 — Slag Film | The Glass Cannon Podcast Giantslayer E105 | Pathfinder 1E
+- 2017-05-23 — Rock Me on the Dais | The Glass Cannon Podcast Giantslayer E104 | Pathfinder 1E
+- 2017-05-16 — Groghall Putsch | The Glass Cannon Podcast Giantslayer E103 | Pathfinder 1E — speakers: Groghall Putsch
+- 2017-05-09 — Spike Drop | The Glass Cannon Podcast Giantslayer E102 | Pathfinder 1E — speakers: Spike Drop
+- 2017-05-02 — Spire Walk with Me | The Glass Cannon Podcast Giantslayer E101 | Pathfinder 1E
+- 2017-04-25 — Ranger Things | The Glass Cannon Podcast Giantslayer E100 Part 3 | Pathfinder 1E
+- 2017-04-25 — Ranger Things | The Glass Cannon Podcast Giantslayer E100 Part 2 | Pathfinder 1E
+- 2017-04-25 — Ranger Things | The Glass Cannon Podcast Giantslayer E100 Part 1 | Pathfinder 1E
+- 2017-04-18 — Good Night, and Good Rukh | The Glass Cannon Podcast Giantslayer E99 | Pathfinder 1E — speakers: Good Night
+- 2017-04-11 — Ettin Down to Business | The Glass Cannon Podcast Giantslayer E98 | Pathfinder 1E — speakers: Ettin Down
+- 2017-04-04 — Dream Reavers | The Glass Cannon Podcast Giantslayer E97 | Pathfinder 1E
+- 2017-03-28 — Tent of a Woman 2: Payback's a Witch | The Glass Cannon Podcast Giantslayer E96 | Pathfinder 1E
