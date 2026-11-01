@@ -2,9 +2,9 @@
 
 - slug: `flail-to-the-face-a-compatible-with-m-rk-borg-actual-play-podcast`
 - source: `https://anchor.fm/s/e221626c/podcast/rss`
-- fetched_at: `2026-10-10T21:50:18+00:00`
-- checked_at: `2026-10-10T21:50:18+00:00`
-- etag: `W/"76581-oz+CgcP2mxLj4iO8hkq4LVJJNrM"`
+- fetched_at: `2026-11-01T16:05:24+00:00`
+- checked_at: `2026-11-01T16:05:24+00:00`
+- etag: `W/"78f6e-n5Qc0BthRz9UJuFn0eKSzHT/i4M"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://discord.gg/ye4VzTv9",
   "description": "Flail to the Face is a \"Compatible with Mörk Borg\" Actual Play Podcast, focusing on playing and promoting third party content and their creators.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37838387/37838387-1756395980208-7d45de7e84c02.jpg",
-  "fetched_at": "2026-10-10T21:50:18+00:00",
+  "fetched_at": "2026-11-01T16:05:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,11 +27,31 @@
   ],
   "episodes": [
     {
+      "key": "57f1bb38ef855280e637aee81c31a618ad7d9dd1",
+      "title": "Season Two, Episode Fourteen: Hare Raising Revelation",
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/flailtotheface/episodes/Season-Two--Episode-Fourteen-Hare-Raising-Revelation-e3r3434",
+      "description": "In this episode, the Agents of M.I.L.F., and Buster, our M.I.L.F.-in-Training, make it back to the prison planet to find that the quakes have ravaged the secret facility. And it looks like some deals are being made behind closed doors. What kind of deals? What sort of damage has been done? Will Donnie get the help he needs? What does any of this mean? Find out in this episode of Flail to the Face! This episode of Flail to the Face features the games Human Occupied Landfill by Todd Shaughnessy, Daniel Thron, Chris Elliott, HellSpawn by Richard Markert and Lee Iovis, & MÖRK ORG by C.M. Lowry and Dave Emmerson of Beyond Cataclysm. With: Thomas Genno-Stumme playing Dalton Walls & Ronald McDowds Tom Gambino playing Collette Stellarno & Fumnunya Charles Paschke playing Donnie & Jevin, it's like kevin, with a J Special guest Zach Rebey of Weird Alchemy Games as Buster Mullens & Bicheal Milk Special surprise guest Mrs. Gambino as Crazed Sportsball Fan And Kevin Welch as the FlailMeister. Season 2 theme music is Void Construct by Alex Grohl. Editing by Kevin Welch. Cover Art by Tom Gambino with assets from UnitSix. Video Editing by Dan Finney SFX courtesy of Epidemic Sound & Pixabay. Whispers of the Dying Lands: https://open.spotify.com/show/7yFvPcYtVa2jP5nCI1QqCS?si=a93f011397354f8d UNIVERSE ZERO: Spotify ⁠https://open.spotify.com/show/0iYPlkUd0S2wN8QddH1a7L?si=s_MhCA83RX2D8P3Asucvqg&utm_source=copy-link&sci=spotify%3Acard-config%3A2EU1OFxmjr5D6i7MG2XXSm⁠ YouTube ⁠https://youtube.com/@gravityfail87?si=JR89AYETAvl7Trpc⁠ Socials instagram and tiktok @universezerottrpg @GravityFail87 everywhere else Shrimp & Crits Podcast: ⁠⁠Shrimp and Crits – A Southern Fried Actual Play Podcast⁠ HellSpawn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠hellspawnrpg.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ MÖRK ORG: ⁠⁠⁠⁠MÖRK ORG (MÖRK BORG) - Beyond Cataclysm⁠⁠⁠⁠ Weird Alchemy Games: ⁠⁠⁠⁠Weird Alchemy - itch.io⁠⁠⁠⁠ Dan Finney : ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠OVERLAND EMPIRE⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Find us on whatever social media platform you use: Facebook Twitter Instagram BlueSky #FlailToTheFace #mörkborg #actualplay #podcast #ttrpg #hol #HumanOccupiedLandfill #Hellspawn # MÖRK ORG",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37838387/37838387-1793323785851-5fa30688e3ef.jpg",
+      "enclosure_url": "https://anchor.fm/s/e221626c/podcast/play/128077348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Fa5f12ec2-e57e-b066-992c-825caf39b36b.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105928690",
+      "itunes_duration": "01:07:12",
+      "speakers": [],
+      "topics": [
+        "season",
+        "fourteen",
+        "hare",
+        "raising",
+        "revelation"
+      ]
+    },
+    {
       "key": "6008e0c3ac54ebee6c439d82996b1e36318c0bb4",
       "title": "Bonus Episode: Into the Meat Pile Pt. 2 (w/Guest Gm Gaffy)",
       "published_at": "2026-10-09T09:00:00+00:00",
       "link": "https://podcasters.spotify.com/pod/show/flailtotheface/episodes/Bonus-Episode-Into-the-Meat-Pile-Pt--2-wGuest-Gm-Gaffy-e3q495s",
-      "description": "In this part two bonus episode, all hell breaks loose! Wemut is hurling goblins, Beltha gets carried away (in a bucket), Rundle is getting accustomed to his new look, and Harmug has one word to say about any of it! What does any of this mean? Find out as Flail to the Face loses it in the second part of the From Out of the Meat Pile bonus arc! This episode of Flail to the Face features the game From Out of the Meat Pile written by Luis \"Gaffy\" Lopez, art & layout by Johan Nohr, and Editing by Walton Wood With: Thomas Genno-Stume playing Wemet the Catacomb Saint by Makooti Tom Gambino playing Beltha the Lackluster Lich by Tom Gambino Kevin Welch playing Rundle the Lord of Flies by Eduardo Carabano Charles Paschke playing Harmug the Heretical Priest by Pelle Nilsson & Johan Nohr And Special guest Gaffy as Gamemaster Season 2 theme music is Void Construct by Alex Grohl Editing by Kevin Welch Episode art by Tom Gambino Video editing by Dan Finney SFX courtesy of Epidemic Sound & Pixabay. From Out of The Meat Pile: https://pittrapshop.com/products/from-out-of-the-meat-pile Gaffy Socials: https://gaffy.itch.io/ https://bsky.app/profile/dwgaffy.bsky.social Whispers of the Dying Lands: https://open.spotify.com/show/7yFvPcYtVa2jP5nCI1QqCS?si=a93f011397354f8d HellSpawn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠hellspawnrpg.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ UNIVERSE ZERO: Spotify ⁠⁠https://open.spotify.com/show/0iYPlkUd0S2wN8QddH1a7L?si=s_MhCA83RX2D8P3Asucvqg&utm_source=copy-link&sci=spotify%3Acard-config%3A2EU1OFxmjr5D6i7MG2XXSm⁠⁠ YouTube ⁠⁠https://youtube.com/@gravityfail87?si=JR89AYETAvl7Trpc⁠⁠ Socials instagram and tiktok @universezerottrpg @GravityFail87 everywhere else Shrimp & Crits Podcast: ⁠Shrimp and Crits – A Southern Fried Actual Play Podcast⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Find us on whatever social media platform you use: Facebook Twitter Instagram BlueSky #FlailToTheFace #mörkborg #actualplay #podcast #ttrpg #hol #HumanOccupiedLandfill #Hellspawn #shrimp&crits #universezerottrpg",
+      "description": "In this part two bonus episode, all hell breaks loose! Wemut is hurling goblins, Beltha gets carried away (in a bucket), Rundle is getting accustomed to his new look, and Harmug has one word to say about any of it! What does any of this mean? Find out as Flail to the Face loses it in the second part of the From Out of the Meat Pile bonus arc! This episode of Flail to the Face features the game From Out of the Meat Pile written by Luis \"Gaffy\" Lopez, art & layout by Johan Nohr, and Editing by Walton Wood With: Thomas Genno-Stume playing Wemet the Catacomb Saint by Makooti Tom Gambino playing Beltha the Lackluster Lich by Tom Gambino Kevin Welch playing Rundle the Lord of Flies by Eduardo Carabano Charles Paschke playing Harmug the Heretical Priest by Pelle Nilsson & Johan Nohr And Special guest Gaffy as Gamemaster Season 2 theme music is Void Construct by Alex Grohl Editing by Kevin Welch Episode art by Tom Gambino Video editing by Dan Finney SFX courtesy of Epidemic Sound & Pixabay. From Out of The Meat Pile: https://pittrapshop.com/products/from-out-of-the-meat-pile Gaffy Socials: https://gaffy.itch.io/ https://bsky.app/profile/dwgaffy.bsky.social Whispers of the Dying Lands: https://open.spotify.com/show/7yFvPcYtVa2jP5nCI1QqCS?si=a93f011397354f8d HellSpawn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠hellspawnrpg.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ UNIVERSE ZERO: Spotify ⁠⁠https://open.spotify.com/show/0iYPlkUd0S2wN8QddH1a7L?si=s_MhCA83RX2D8P3Asucvqg&utm_source=copy-link&sci=spotify%3Acard-config%3A2EU1OFxmjr5D6i7MG2XXSm⁠⁠ YouTube ⁠⁠https://youtube.com/@gravityfail87?si=JR89AYETAvl7Trpc⁠⁠ Socials instagram and tiktok @universezerottrpg @GravityFail87 everywhere else Shrimp & Crits Podcast: ⁠Shrimp and Crits – A Southern Fried Actual Play Podcast ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Find us on whatever social media platform you use: Facebook Twitter Instagram BlueSky #FlailToTheFace #mörkborg #actualplay #podcast #ttrpg #hol #HumanOccupiedLandfill #Hellspawn #shrimp&crits #universezerottrpg",
       "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37838387/37838387-1791422814322-b322f7fc76f03.jpg",
       "enclosure_url": "https://anchor.fm/s/e221626c/podcast/play/127066748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-8%2F00d5f259-9203-8ace-65d9-1869e816fe53.mp3",
       "enclosure_type": "audio/mpeg",
@@ -1267,6 +1287,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — Season Two, Episode Fourteen: Hare Raising Revelation
 - 2026-10-09 — Bonus Episode: Into the Meat Pile Pt. 2 (w/Guest Gm Gaffy) — speakers: Guest Gm Gaffy
 - 2026-09-18 — Bonus Episode: Into the Meat Pile Pt.1 (w/ Guest Gm Gaffy) — speakers: Guest Gm Gaffy
 - 2026-08-28 — Season Two, Episode Thirteen: Clockin' Out — speakers: Season Two
