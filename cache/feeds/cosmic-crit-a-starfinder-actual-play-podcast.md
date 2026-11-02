@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-10-26T04:56:08+00:00`
-- checked_at: `2026-10-26T04:56:08+00:00`
-- last_modified: `Mon, 26 Oct 2026 04:05:00 GMT`
+- fetched_at: `2026-11-02T19:33:23+00:00`
+- checked_at: `2026-11-02T19:33:23+00:00`
+- last_modified: `Mon, 02 Nov 2026 16:13:56 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-10-26T04:56:08+00:00",
+  "fetched_at": "2026-11-02T19:33:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "fba508eb8e06b745a776ca6584ca597d8321218e",
+      "title": "Alien TTRPG 2026 | Part 3",
+      "published_at": "2026-11-02T05:05:00+00:00",
+      "link": "https://cosmiccrit.com/alien-ttrpg-2026-part-3/",
+      "description": "The Cosmic Crit crew plays “Hope’s Last Day,” a prequel adventure to the movie Aliens about the fall of Hadley’s Hope.",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2026/10/Aliens-2026.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3885/alien-ttrpg-2026-part-3.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78518638",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Last Day"
+      ],
+      "topics": [
+        "alien",
+        "ttrpg"
+      ]
+    },
     {
       "key": "22a52a3dafc8521219b4dc88a483cc49c0b9414f",
       "title": "Alien TTRPG 2026 | Episode 2",
@@ -9352,6 +9371,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — Alien TTRPG 2026 | Part 3 — speakers: Last Day
 - 2026-10-26 — Alien TTRPG 2026 | Episode 2 — speakers: Last Day
 - 2026-10-19 — Alien TTRPG 2026 | Episode 1 — speakers: Last Day
 - 2026-10-15 — Alien TTRPG 2026 | Episode 0

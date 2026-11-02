@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-11-02T06:19:18+00:00`
-- checked_at: `2026-11-02T06:19:18+00:00`
+- fetched_at: `2026-11-02T19:33:23+00:00`
+- checked_at: `2026-11-02T19:33:23+00:00`
 - etag: `W/"91e44761f594e4711c6e1fe9af69ee45"`
-- last_modified: `Mon, 02 Nov 2026 04:43:44 GMT`
+- last_modified: `Mon, 02 Nov 2026 15:11:24 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://feeds.transistor.fm/dodoborne",
   "description": "DodoBorne is an improvised comedy storytelling podcast where five friends dive into Daggerheart, the tabletop roleplaying game from Darrington Press. Whether you're looking for adventure, romance, mystery, or nonsense, DodoBorne offers a welcoming mix of humor, heart, and collaborative storytelling that we hope will keep you coming back for more. With Season 3 serving as a fresh starting point for new viewers, there's never been a better time to join the flock! New episodes air the first Tuesday of every month.",
   "image_url": "https://megaphone.imgix.net/podcasts/05e7c1b6-d144-11f1-a5e4-83b221d68cbd/image/c18bd20bb85604923b811b2fa3bf2112.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-02T06:19:18+00:00",
+  "fetched_at": "2026-11-02T19:33:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -29,7 +29,7 @@
   "episodes": [
     {
       "key": "233890f4d156fc2fb85ca170a1fbf7401e9e13db",
-      "title": "3.5: Confidential Conduct",
+      "title": "3.5 Confidential Conduct",
       "published_at": "2026-10-06T07:00:00+00:00",
       "link": "https://share.transistor.fm/s/694de83b",
       "description": "Our heroes have defeated the local fauna and are now rolling in the spoils! With new swag in tow, they make their way to the next mission, which will be much more than they expect. Unbeknownst to them, shady shenanigans are stirring in the background, threatening to bring the full fury of the LAW down upon their heads! Once again, your GM has spent too much time creating a document and forcing his friends to read it (this time with tables and footnotes). Enjoy! Join the Flock on our Patreon for episode talk backs, GM insights, deleted scenes, and more! Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. System: Daggerheart Genre: Fantasy Actual Play Learn more at Dodoborne.com Character sheets and user interface in Dodoborne powered by Demiplane.com Music in this episode created by: Daniel Bukin Raine B The Beekeeper Listen to the music from this episode and other Dodotunes HERE ! ★ Support this podcast on Patreon ★ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -37,7 +37,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1432139284.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3377",
+      "itunes_duration": "3317",
       "speakers": [],
       "topics": [
         "confidential",
@@ -1001,7 +1001,7 @@
 
 ## Episodes (newest first)
 
-- 2026-10-06 — 3.5: Confidential Conduct
+- 2026-10-06 — 3.5 Confidential Conduct
 - 2026-07-27 — 3.4 Cove of Compulsion — speakers: beautiful song
 - 2026-07-13 — 3.3 Coerced Compliance — speakers: Adventuring Guild
 - 2026-06-29 — 3.2 Couple of Milkshakes
