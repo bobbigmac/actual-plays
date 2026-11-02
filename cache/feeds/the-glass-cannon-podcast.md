@@ -2,10 +2,10 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-11-01T06:18:20+00:00`
-- checked_at: `2026-11-01T06:18:20+00:00`
-- etag: `"568290e88bf7c5ae8defe202d5c69c62"`
-- last_modified: `Sat, 31 Oct 2026 15:30:15 GMT`
+- fetched_at: `2026-11-02T06:19:18+00:00`
+- checked_at: `2026-11-02T06:19:18+00:00`
+- etag: `"390bbfbf921fee181c9e79c8b885cf43"`
+- last_modified: `Mon, 02 Nov 2026 05:00:40 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://the-glass-cannon-podcast.simplecast.com",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/8d2971a0-2482-41b6-ad90-7d28eb7d9574/3000x3000/c20249e5141db5a916aa90e43f9ddf66.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-01T06:18:20+00:00",
+  "fetched_at": "2026-11-02T06:19:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "339f4144f9607fda7a114213b8e02e6c9e9146f4",
+      "title": "It's Just Like Red Dawn | Blood of the Wild S1 E46 | Pathfinder 2E Quest for the Frozen Flame",
+      "published_at": "2026-11-02T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/its-just-like-red-dawn-blood-of-the-wild-s1-e46-pathfinder-2e-quest-for-the-frozen-flame-fsBk8htk",
+      "description": "The PCs attempt to ambush an ambush. Access every available episode of Blood of the Wild along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/d03c2564-b8e1-4b2d-9491-821769ae4f7b/3000x3000/blood_of_the_wild_final.jpg?aid=rss_feed",
+      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a7380dc4-2fdc-4e6d-a4a6-38df548c46dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a7380dc4-2fdc-4e6d-a4a6-38df548c46dc&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70053830",
+      "itunes_duration": "01:12:58",
+      "speakers": [
+        "Frozen Flame"
+      ],
+      "topics": [
+        "dawn",
+        "blood",
+        "wild",
+        "pathfinder",
+        "quest",
+        "frozen",
+        "flame"
+      ]
+    },
     {
       "key": "078b2b5f3db8756f34216ef7bd30c712e904d264",
       "title": "King Solomon's Mines | Time For Chaos S4 E15 | Call of Cthulhu Masks of Nyarlathotep",
@@ -21733,30 +21757,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "2b22c32498ee5a8ad386ce208b297928033f2dfd",
-      "title": "Tent of a Woman 2: Payback's a Witch | The Glass Cannon Podcast Giantslayer E96 | Pathfinder 1E",
-      "published_at": "2017-03-28T04:01:00+00:00",
-      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/tent-of-a-woman-2-paybacks-a-witch-the-glass-cannon-podcast-giantslayer-e96-pathfinder-1e-dmp2DXj2",
-      "description": "After a ferocious near-deadly battle, the mysterious, self-proclaimed Oculus rises and all hell breaks loose mere steps away from the Cathedral! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/39ea97f1-966a-4016-bde1-b43ae9e21791/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=39ea97f1-966a-4016-bde1-b43ae9e21791&feed=UTUNOAis",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "79001710",
-      "itunes_duration": "01:21:42",
-      "speakers": [],
-      "topics": [
-        "tent",
-        "woman",
-        "payback",
-        "witch",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21765,6 +21765,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — It's Just Like Red Dawn | Blood of the Wild S1 E46 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2026-10-31 — King Solomon's Mines | Time For Chaos S4 E15 | Call of Cthulhu Masks of Nyarlathotep
 - 2026-10-30 — Abandon | The Glass Cannon Podcast: Shadows of the Broken E3 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-10-28 — Kings of Men | The Secret Fire Prologue | The One Ring RPG
@@ -22764,4 +22765,3 @@
 - 2017-04-18 — Good Night, and Good Rukh | The Glass Cannon Podcast Giantslayer E99 | Pathfinder 1E — speakers: Good Night
 - 2017-04-11 — Ettin Down to Business | The Glass Cannon Podcast Giantslayer E98 | Pathfinder 1E — speakers: Ettin Down
 - 2017-04-04 — Dream Reavers | The Glass Cannon Podcast Giantslayer E97 | Pathfinder 1E
-- 2017-03-28 — Tent of a Woman 2: Payback's a Witch | The Glass Cannon Podcast Giantslayer E96 | Pathfinder 1E

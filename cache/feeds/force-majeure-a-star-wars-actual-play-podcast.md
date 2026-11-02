@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-11-01T16:05:24+00:00`
-- checked_at: `2026-11-01T16:05:24+00:00`
-- etag: `"04763c3c030f7beccc53076b7d4e5945"`
-- last_modified: `Sun, 01 Nov 2026 15:45:00 GMT`
+- fetched_at: `2026-11-02T06:19:18+00:00`
+- checked_at: `2026-11-02T06:19:18+00:00`
+- etag: `"65dc515408152f4f2fe7545ab84197dd"`
+- last_modified: `Mon, 02 Nov 2026 00:42:19 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! linktr.ee/albertthellama",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-11-01T16:05:24+00:00",
+  "fetched_at": "2026-11-02T06:19:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "b0cc7881baba48d7323dd1176a5ba41653494250",
+      "title": "A Shot At Redemption E20 - The Weight Of All My Sins",
+      "published_at": "2026-11-02T00:30:00+00:00",
+      "link": "https://forcemajeurepod.libsyn.com/a-shot-at-redemption-e20-the-weight-of-all-my-sins",
+      "description": "Our heroes are faced with a critical dilemma. On one hand, they have found the lair of the Leatherbacks - and the cloning tanks where the next generation are being force-grown, ready to bolster the ranks. On the other hand, Jackran's Redemption is facing serious danger as the adult Leatherbacks have attacked in one unexpected and desperate push. Choices need to be made, and the consequences will change everything... Cast! Adam Beltaine is your GM, and can be found on Bluesky as @maddambeltaine.bsky.social Lou plays Tryk C Rangavoon, and can be found on Bluesky at @magpiehound.bsky.social Mikey plays Jax Vorn, and can be found on Bluesky at @weaselpunk.bsky.social Tom plays Kip Kazian and can be found on Bluesky at @tcpatrick.bsky.social as well as GMing the wonderful Dice Company podcast Geoff plays Kalro Vatts, and sensibly has no social media presence Follow us on social media! All our links can now be found here: linktr.ee/albertthellama Support Albert the Llama Enterprises! If you like what we do and have some spare money, we have both a Patreon and a Ko-Fi account. We are extremely grateful for your support. https://www.patreon.com/forcemajeurepod ko-fi.com/forcemajeurepod Intro and Supplemental Music: Composed by Sly Fox Audio - check out more of her stuff on soundcloud.com/slyfoxaudio Additional Music: \"Dark Hollows\" by Alexander Nakarada ( https://creatorchords.com/ ) \"Cursed Stories\" by Myuu / Nicholas Gasparini ( https://www.thedarkpiano.com/ ) \"Starforged: Vault (No Footsteps Patreon Exclusive Version)\" \"Sand Raiders (Music only Patreon Exclusive Version)\" \"Imperial Pursuit (Music only Patreon Exclusive Version)\" \"Imperial Pursuit (Ambient only Patreon Exclusive Version)\" all by Tabletop Audio ( www.tabletopaudio.com ) All used with gratitude under the Creative Commons licence",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/forcemajeurepod/Redemption_E20.mp3?dest-id=604132",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54793105",
+      "itunes_duration": "43:26",
+      "speakers": [],
+      "topics": [
+        "shot",
+        "redemption",
+        "weight"
+      ]
+    },
     {
       "key": "f8030cc12d6eb5538505f3dcee559e3fecc1b1dd",
       "title": "A Shot At Redemption E19 - Hammer To Fall",
@@ -4661,6 +4679,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — A Shot At Redemption E20 - The Weight Of All My Sins
 - 2026-10-18 — A Shot At Redemption E19 - Hammer To Fall — speakers: Adam Beltaine
 - 2026-10-04 — A Shot At Redemption E18 - The Numbers Don't Add Up — speakers: Add Up Only
 - 2026-09-20 — A Shot At Redemption E17 - Darkness Falls
