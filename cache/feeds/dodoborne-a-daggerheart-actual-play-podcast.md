@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-11-02T19:33:23+00:00`
-- checked_at: `2026-11-02T19:33:23+00:00`
+- fetched_at: `2026-11-03T10:59:30+00:00`
+- checked_at: `2026-11-03T10:59:30+00:00`
 - etag: `W/"91e44761f594e4711c6e1fe9af69ee45"`
-- last_modified: `Mon, 02 Nov 2026 15:11:24 GMT`
+- last_modified: `Tue, 03 Nov 2026 08:13:54 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://feeds.transistor.fm/dodoborne",
   "description": "DodoBorne is an improvised comedy storytelling podcast where five friends dive into Daggerheart, the tabletop roleplaying game from Darrington Press. Whether you're looking for adventure, romance, mystery, or nonsense, DodoBorne offers a welcoming mix of humor, heart, and collaborative storytelling that we hope will keep you coming back for more. With Season 3 serving as a fresh starting point for new viewers, there's never been a better time to join the flock! New episodes air the first Tuesday of every month.",
   "image_url": "https://megaphone.imgix.net/podcasts/05e7c1b6-d144-11f1-a5e4-83b221d68cbd/image/c18bd20bb85604923b811b2fa3bf2112.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-02T19:33:23+00:00",
+  "fetched_at": "2026-11-03T10:59:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,25 @@
     "ttrpg/daggerheart"
   ],
   "episodes": [
+    {
+      "key": "1d05ea6b356a0a85757811ab9fcc2d00a514b6a4",
+      "title": "3.6 Ceaseless Corridors",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "link": null,
+      "description": "Through traps and trials, our curious heroes have opened the cellar door! As our Dodos delve down deep into the depths of the dungeon, what deviousness will they discover? Find out now! Join the Flock on our ⁠ Patreon ⁠ for episode talk backs, GM insights, deleted scenes, and more! Powered by the Daggerheart TTRPG, DodoBorne blends character-driven storytelling, collaborative roleplaying, heartfelt moments, and plenty of laughs around the table. System: Daggerheart Genre: Fantasy Actual Play Learn more at Dodoborne.com Character sheets and user interface in Dodoborne powered by ⁠ Demiplane.com ⁠ Music in this episode created by: Daniel Bukin Raine B The Beekeeper Listen to the music from this episode and other Dodotunes ⁠ HERE ⁠ ! ⁠★ Support this podcast on Patreon ★ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR7938768339.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3040",
+      "speakers": [
+        "Ceaseless Corridors Through"
+      ],
+      "topics": [
+        "ceaseless",
+        "corridor"
+      ]
+    },
     {
       "key": "233890f4d156fc2fb85ca170a1fbf7401e9e13db",
       "title": "3.5 Confidential Conduct",
@@ -1001,6 +1020,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-03 — 3.6 Ceaseless Corridors — speakers: Ceaseless Corridors Through
 - 2026-10-06 — 3.5 Confidential Conduct
 - 2026-07-27 — 3.4 Cove of Compulsion — speakers: beautiful song
 - 2026-07-13 — 3.3 Coerced Compliance — speakers: Adventuring Guild
