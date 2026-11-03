@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-11-01T00:10:38+00:00`
-- checked_at: `2026-11-01T00:10:38+00:00`
-- etag: `"e35bba26502d3ecc02e85bf80ee883b6"`
-- last_modified: `Sat, 31 Oct 2026 20:15:52 GMT`
+- fetched_at: `2026-11-03T19:33:54+00:00`
+- checked_at: `2026-11-03T19:33:54+00:00`
+- etag: `"9ac9c09f081a8b25dd3e8aa1e78ffaa9"`
+- last_modified: `Tue, 03 Nov 2026 17:47:53 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-11-01T00:10:38+00:00",
+  "fetched_at": "2026-11-03T19:33:54+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "3aa76555c820aac0cbf0b40031342e752876e0e3",
+      "title": "Perpetua 54: Up and Down 02",
+      "published_at": "2026-11-03T17:45:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-54-up-and-down-02",
+      "description": "Antistrophe Landrace, Brontë Adelvys, and Caoimhe Wake have emerged from the Dragon's Path and arrived in the shadow of the Gleaming Fortress of Lumai. Somewhere inside, Kley Kaina, Caoimhe's childhood friend and member of the Night's Own, has been taken by Thereus Aegir and the Hexcloaks. The sun yet shines, but it is not the brightest thing in the sky. This week on Perpetua: Up and Down 01 Perpetua Guide [In Progress v.062] Town Maps [TNMP] The Gleaming Fortress of Lumai [SPGL] Oldport This cramped fishing village was, apparently, the first place that the Light Elves of the eastern continent gathered and formed a society in the shadow of the ancient Passikan pyramid. But it's been destroyed and rebuilt in pieces so many times that it's hard to say what, if anything, remains from those old days. This is where you pop up if you take the Dragon Path entrance here. I wonder what would happen if the painting moved, though!? Outer Wall, Logging Camp, and Construction Camp Adrius Aegir's forces have been chopping down the nearby forests at a rapid pace, and then turning that lumber into a new outer wall for the city. If you talk to the NPCs on the lowest level of the fortress, it sounds like no one really knows why they're doing that, but everyone is guessing some sort of impending attack from the Valte. Docks While Oldport has its own small set of docks, the actual Lumai Docks much larger in scope (they have their own screen) and seem to be used mostly for military and commercial boats. You can't poke around here without guards getting suspicious and chasing you out! I wonder what (or who?) they've been bringing in on those boats. Level 1: The Meander The bottom floor of the Fortress is, by far, the most inhabited. While its depths remain dangerous, the outer hallways and the open-air circumference that rests under a high roof have been turned into a long, diamond-shaped city. Each side is its own district, and the Meander, which runs across the fortress' southern side, is the one you'd hit first, if approaching from the road. The Meander is long, open-aired bazaar with lots of little kiosks selling clothing, food, adventuring goods, and other trinkets. Here's what I've found sold across them so far: Partisan of Purification - 1000 asta - Martial Spear - One Handed - Melee - DEX + MIG - HR+12 damage As long as your current Hit Points are equal to or greater than your maximum Hit Points, you are immune to all status effects. Curing Curve - 1500 asta - Martial Sword - One-handed - Melee - DEX+INS +1 - HR+10 Light damage When you hit one or more creatures with this weapon, regain [HR] HP or clear one status. Light Lancer - 1500 asta - Martial Bow - Two-handed - Ranged - dex + dex - HR+12 light damage Attacks with this weapon deal 5 extra damage against creatures suffering from slow and/or shaken. Mirrorlight Staff 1600 asta - Arcane - Two Handed - Melee - WLP + WLP - HR + 6 light damage As long as one of your spells or invocations deals light damage, it deals 10 extra damage. White Tunic - 1700 asta - DEX die +1 Defense - INS die +2 Magic Defense - -2 Initative Spells you cast whose effects restore Hit Points will restore 5 extra Hit Points. Stabilizing Cuirass - 1300 asta - Martial Armor - 12 Defense - INS die magic defense - -4 Initiative You gain a +1 bonus to your Accuracy Checks. Dancing Dress - 1000 asta - DEX die defense - INS die +2 magic defense - -1 Initiative When you perform a dance with a duration of \"Until the start of your next turn\", you may heal from one status effect of your choice. Passikan Scalemail - martial armor - 1000 asta - 12 defense - insight die magical defense - -4 init Critical successes rolled on Accuracy Checks and Magic Checks for attacks and offensive spells that include you among their targets do not generate opportunities. Ring of Sorcery 800 asta You gain a +1 bonus to Magic Defense. Ring of Light 2500 asta You Absorb light damage but have Vulnerability to dark damage. Guide to the HIgh Dances of the Elevana League 1000 Asta Ring of Sorcery - 800 asta You gain a +1 bonus to Magic Defense. Ring of Frost - 2500 asta You Absorb frost ice damage but have Vulnerability to fire damage. Ring of Light - 2500 asta You Absorb light damage but have Vulnerability to dark damage. Level 1: The Alluvium This is probably the most \"locked down\" area on the fortress' first floor. Goods (and their guards) come right from the docks to the warehouses and other industrial facilities built on the northeastern side of the fortress. Level 1: Delta This is where most NPCs live in the city. There are lots of little rooms to go into, but if you go too deep in, you'll start getting random encounters! You'll know you're there when the music changes to the dungeon music. BUT: Some regular NPCs are still that deep in, and there's even a sidequest about finding a missing cat! Level 1: Oxbow This is where the high ranking officials of Lumai and other rich and powerful people live. There are also a couple of \"high quality\" stores and restaurants, which you can't get into without an invite. I think doing certain quests give you those invites. This is also where the dance classes are, if you go down that route with Brontë. Level 2: The Hull The Order of the Bright Wall's armory and barracks take up the outer area of Level 2, but they store certain important goods deeper in, even though it's (theoretically) more dangerous in there. If you're not careful, you can get into some fights with patrolling and traveling guards here, but it might be worth the fight! If you win quickly, an alarm doesn't go up, and it's great XP and loot! Level 3: The Bridge The Order of the Bright Wall military brass operates from here. (BTW, does anyone know why they're called \"brass\"? I've always wondered). The security is much higher here, and that should be a clue: This is where the secret Hexcloak prison is! Will you find Kley there, or someone else, I wonder? (Sorry to tease, this was just a really fun moment for me!) Level 4: The Wardroom TBD, haven't gone here yet because I didn't want to get locked out of the rest of the city if the story advanced. But it's where the big feasts and debates and other events are held. Level 5: Shrine to Lucena The top of the Fortress. I haven't been there yet, but from what I've gathered, it was built after defeating the empire from Milsource years ago. Did Lucena help them do that? Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Janine Hawkins ( @bleatingheart ), Sylvi Bullet ( @sylvibullet ), and Keith J Carberry ( @keithjcarberry ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_54_Up_and_Down_02.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121880064",
+      "itunes_duration": "02:02:48",
+      "speakers": [
+        "Antistrophe Landrace",
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua"
+      ]
+    },
     {
       "key": "f16d93b729cdaec97de3c5e6250dc5b14cd78942",
       "title": "Perpetua 53: Up and Down 01",
@@ -11742,6 +11761,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-03 — Perpetua 54: Up and Down 02 — speakers: Antistrophe Landrace, Austin Walker
 - 2026-10-25 — Perpetua 53: Up and Down 01 — speakers: Elevana League, Austin Walker
 - 2026-10-09 — Perpetua 52: At the Threshold 04 — speakers: Austin Walker
 - 2026-10-06 — Perpetua 51: At the Threshold 03 — speakers: Austin Walker

@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-10-20T19:20:32+00:00`
-- checked_at: `2026-10-20T19:20:32+00:00`
-- etag: `"djEuMi4wOjE3OTI1MTIwMzk1NTc="`
+- fetched_at: `2026-11-03T19:33:54+00:00`
+- checked_at: `2026-11-03T19:33:54+00:00`
+- etag: `"djEuMi4wOjE3OTM3MjUyMzk1Njc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-10-20T19:20:32+00:00",
+  "fetched_at": "2026-11-03T19:33:54+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -32,6 +32,28 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "38e6d4efc3f7d5f55c9bd38c66f12d79b53bfe04",
+      "title": "S4 Ep. 20 - A-ja - Take On Me (Official Episode)[4k]",
+      "published_at": "2026-11-03T17:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "can hoverboard go on water -“back to the future” This episode contains Profanity, Violence, and Sexual Content. 🚨🔨Fresh from the forge - our plushie drop of Walter the Immoral is now available! Head on over to Youtooz.com and get your hands on him today!🚨🔨 The last day to order will be November 17th , and once they sell out they are gone for good! Also, did you miss out on our Dungeons and Daddies: Not a BDSM Sourcebook crowdfund campaign? Our Late Pledge Store is now open, so you still have a chance to contribute to our zany literary antics Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1793676079431-5c156170-869b-48b0-bd5c-2d2239501e47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/6ae954be4ca6aa8604e9bfac/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "134279853",
+      "itunes_duration": "1:32:43",
+      "speakers": [
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "official"
+      ]
+    },
     {
       "key": "460d691c4f41e4ef9d3251ced1734d27b4a9613c",
       "title": "S4 Ep. 19 - Death Cab, Four Cuties",
@@ -4981,6 +5003,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-03 — S4 Ep. 20 - A-ja - Take On Me (Official Episode)[4k] — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-10-20 — S4 Ep. 19 - Death Cab, Four Cuties — speakers: Death Cab, Chris Nolan, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-10-06 — S4 Ep. 18 - Heartbreak Fridge — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-09-22 — S4 Ep. 17 - Holes (I’m Tired of This, Grandpa) — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos

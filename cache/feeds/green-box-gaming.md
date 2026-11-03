@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-10-27T15:24:46+00:00`
-- checked_at: `2026-10-27T15:24:46+00:00`
-- etag: `"059eaf8350ff99aeb6c1f5e594c2665c"`
-- last_modified: `Tue, 27 Oct 2026 13:00:22 GMT`
+- fetched_at: `2026-11-03T19:33:54+00:00`
+- checked_at: `2026-11-03T19:33:54+00:00`
+- etag: `"4e526e5df96bd9ce23318c3d89bb2565"`
+- last_modified: `Tue, 03 Nov 2026 14:00:31 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-10-27T15:24:46+00:00",
+  "fetched_at": "2026-11-03T19:33:54+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "3b73cfd40f1d7693fd87ce7e595910e2c92fd764",
+      "title": "Ep14 | Delta Green: Convergence - Meeting Adjourned",
+      "published_at": "2026-11-03T14:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/3268638",
+      "description": "The team sends in its sneakiest agent to storm City Hall, what could go wrong? ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/3268638/green-box-gaming/2026_10_27_04_28_28_3ec13791-b556-4f68-9302-c4dfb5bb4bc9.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72908381",
+      "itunes_duration": "4556",
+      "speakers": [
+        "Delta Green",
+        "City Hall"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "convergence",
+        "meeting",
+        "adjourned"
+      ]
+    },
     {
       "key": "6cfbd87b55d8dc4a89a844773a7182f678963e11",
       "title": "Ep13 | Delta Green: Convergence - Smooth as Silk",
@@ -4468,6 +4491,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-03 — Ep14 | Delta Green: Convergence - Meeting Adjourned — speakers: Delta Green, City Hall
 - 2026-10-27 — Ep13 | Delta Green: Convergence - Smooth as Silk — speakers: Delta Green, City Hall
 - 2026-10-20 — Ep12 | Delta Green: Convergence - Nightcrawlers — speakers: troubling ne
 - 2026-10-13 — Ep11 | Delta Green: Convergence - The Scoop of the Century
