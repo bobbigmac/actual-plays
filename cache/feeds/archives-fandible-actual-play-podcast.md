@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-10-11T19:35:34+00:00`
-- checked_at: `2026-10-11T19:35:34+00:00`
-- etag: `"46675416d2b03f2477a3fe9584a47dae"`
+- fetched_at: `2026-11-03T02:57:01+00:00`
+- checked_at: `2026-11-03T02:57:01+00:00`
+- etag: `"df5ff270ffe73eefba9a56a3c2ab3614"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-10-11T19:35:34+00:00",
+  "fetched_at": "2026-11-03T02:57:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "1f9ea618c908f1658711ee0a8d89d85947eeb279",
+      "title": "Roll for Shoes: Asteroid Annihilation ep 1",
+      "published_at": "2026-11-03T01:56:49+00:00",
+      "link": "https://fandible.com/roll-for-shoes-asteroid-annihilation-ep-1/",
+      "description": "In the far future, three people encounter a truly unholy celestial event. Thanks for Michele Drozdick for Playing with us. Check out her Instagram. The post Roll for Shoes: Asteroid Annihilation ep 1 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/462_RFS_AsteroidAnnihilation/Fan_821_RFS_AsteroidAnnihilationep1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30791300",
+      "itunes_duration": "35:39",
+      "speakers": [
+        "Michele Drozdic"
+      ],
+      "topics": [
+        "roll",
+        "shoe",
+        "asteroid",
+        "annihilation"
+      ]
+    },
     {
       "key": "14fc815c333707c2a2adf98c32dccf784b8e1126",
       "title": "Rust Buckets: Familiar Flesh part 2",
@@ -11371,28 +11392,6 @@
         "venerable",
         "light"
       ]
-    },
-    {
-      "key": "77447ff51ffb9cbfc333481e06dd206302855122",
-      "title": "Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 2 of 2",
-      "published_at": "2016-09-30T14:50:58+00:00",
-      "link": "https://fandible.com/rotted-capes-ep-11-scary-zombies-super-zs-2-2/",
-      "description": "After facing the trials of the lock, the heroes face off against the real enemy. A washed up but still killer super powered rock star . Intro Music: Hitman by Kevin Macleod Rotted Capes Episodes Other Games The post Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 2 of 2 appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/194_RC_ScaryZombiesAndSuperZs/Fan_316_RC_ScaryZombiesAndSuperZs2of2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "50931698",
-      "itunes_duration": "1:44:55",
-      "speakers": [
-        "Scary Zombies"
-      ],
-      "topics": [
-        "rotted",
-        "capes",
-        "scary",
-        "zombies",
-        "super"
-      ]
     }
   ]
 }
@@ -11401,6 +11400,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-03 — Roll for Shoes: Asteroid Annihilation ep 1 — speakers: Michele Drozdic
 - 2026-09-27 — Rust Buckets: Familiar Flesh part 2 — speakers: Rust Buckets, Familiar Flesh
 - 2026-09-22 — Rust Buckets: Familiar Flesh part 1 — speakers: Rust Buckets, Familiar Flesh
 - 2026-09-15 — Dungeons & Dragons: The Long Road part 4
@@ -12000,4 +12000,3 @@
 - 2016-10-21 — The End of the World : Heavy Metal
 - 2016-10-14 — Final Girl: No Vacancy — speakers: Final Girl, No Vacancy Imaginary
 - 2016-10-07 — Chronicles of Darkness: Venerable Light
-- 2016-09-30 — Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 2 of 2 — speakers: Scary Zombies
