@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-10-27T22:21:19+00:00`
-- checked_at: `2026-10-27T22:21:19+00:00`
-- etag: `"djEuMi4wOjE3OTMxMzEyMzkzODc="`
+- fetched_at: `2026-11-04T01:27:22+00:00`
+- checked_at: `2026-11-04T01:27:22+00:00`
+- etag: `"djEuMi4wOjE3OTM3MzYwMzkzODQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-10-27T22:21:19+00:00",
+  "fetched_at": "2026-11-04T01:27:22+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "de4cf86dc8542f51d82f27388217eff4d91f87d7",
+      "title": "Action Surge Episode 66",
+      "published_at": "2026-11-03T20:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-66",
+      "description": "The party has hit the road and left chaos in their wake but as always there’s plenty to unpack and dig into from our latest episode! Harry kicks things off with “what could have been”, alas the dice always have their own story to tell. Then we dig into the adventures on the road. Whether it’s setting things on fire or sniffing bees, we can always expect the unexpected. Next up, the party is going to start their own marketing campaign, this can only go well! --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6ae0cf026bf373b85a25885a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66451809",
+      "itunes_duration": "46:08",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "d19c8729bf7a810dae9865bb15ac2569fa841674",
       "title": "Ep. 66 A Fiery Endorsement",
@@ -3444,6 +3468,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-03 — Action Surge Episode 66 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-10-27 — Ep. 66 A Fiery Endorsement — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-10-20 — Action Surge Episode 65 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-10-13 — Ep. 65 Hot and Bothered — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
