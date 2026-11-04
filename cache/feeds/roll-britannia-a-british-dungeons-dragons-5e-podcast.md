@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-10-28T13:06:56+00:00`
-- checked_at: `2026-10-28T13:06:56+00:00`
-- etag: `"djEuMi4wOjE3OTMxNzQ0Mzk0MTQ="`
+- fetched_at: `2026-11-04T11:05:33+00:00`
+- checked_at: `2026-11-04T11:05:33+00:00`
+- etag: `"djEuMi4wOjE3OTM3NzkyMzk2ODE="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-10-28T13:06:56+00:00",
+  "fetched_at": "2026-11-04T11:05:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,45 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "1feb92f709a91d5f7fb351456039315f291134dc",
+      "title": "Ep. 355 : Ashes of Arcathia - A Loose Cannon on the Verge of a Pub Crawl | Halloween Special 2026 | #DND",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In the finale of this Halloween special, the party follows a broken trail deeper beneath Halcyon, where flowers grow and forgotten machinery still remembers. A fractured message, a child’s footprints, and the feeling of unseen eyes all point towards something waiting in the dark, something the city above may never have known was there. As the Dice fall, the search for Pip leads the group into a chamber where the ancient and the impossible begin to overlap. A silent guardian stirs, the hum beneath the wells becomes impossible to ignore, and the line between rescue and discovery starts to blur. In true fashion, survival depends on equal parts bravery, bad judgement, and an alarming amount of confidence in Bovril. But when morning finally comes, pieces of the night no longer fit together. Far beneath Halcyon, beyond the wells, the archives, and everything the city believes it understands, something vast remains bound in the darkness, and it is very much alive. What was the mysterious voice warning about in the corrupted message? Why are the Assembly so determined to keep the truth beneath Halcyon hidden? And what exactly is being held beneath the city? There's only one way to find out, grab your Dnd Dice, join Dungeon Master Paul, James (Martjn Biggs), Sophie (Rickolas Devil) and Special Guests Aaron Coates (Nicholas Devili) and Jessica Corley (Frantz) LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1792962732862-a5e479fb-5a54-4f7a-ac9c-722713b01b9a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6addedca02b9e3b259c2f018/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50496574",
+      "itunes_duration": "52:35",
+      "speakers": [],
+      "topics": [
+        "arcathia",
+        "loose",
+        "cannon",
+        "verge",
+        "crawl",
+        "halloween",
+        "special"
+      ]
+    },
+    {
+      "key": "ad6db6ac65e62e180a6d6dc1e049dc91478ffa3f",
+      "title": "Ep. 354: Ashes of Arcathia - The Hum Is Stronger Here | Halloween Bonus 2026 | #DND",
+      "published_at": "2026-10-31T08:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this Halloween special of Dungeons and Dragons, the final bell has rung, the drinks are finished, and the only place left to go is down. Beneath Halcyon, the wells stretch far deeper than any ordinary piece of city infrastructure should, and the further the party descends, the more the familiar world above begins to feel very far away. A lost shoe, impossible flowers, and a hum that seems to live inside the stone lead the group towards something sealed away for reasons nobody remembers. As the Dice fall, old mechanisms wake and the darkness begins revealing traces of something that does not seem to belong beneath Halcyon at all. In true fashion, even the most unsettling discoveries are accompanied by deeply questionable problem-solving and the occasional misuse of hot sauce. Who built the chambers beneath Halcyon? What are the shatter blooms really growing around? And why does something from another world appear to have been waiting in the dark? There's only one way to find out, grab your Dnd Dice, join Dungeon Master Paul, James (Martjn Biggs), Sophie (Rickolas Devil) and Special Guests Aaron Coates (Nicholas Devili) and Jessica Corley (Frantz) LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1792962397479-981d1066-1b8b-403f-aa9a-7422da8c85d5.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6added73296f30f8e38cdbf5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59435885",
+      "itunes_duration": "1:01:54",
+      "speakers": [],
+      "topics": [
+        "arcathia",
+        "halloween"
+      ]
+    },
     {
       "key": "dfc019426fb1d50a180eea9dded84dd4d134f803",
       "title": "Ep. 353: Ashes of Arcathia - Bovril Through a Carrot | Halloween Special 2026 | #DND",
@@ -8240,6 +8279,8 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — Ep. 355 : Ashes of Arcathia - A Loose Cannon on the Verge of a Pub Crawl | Halloween Special 2026 | #DND
+- 2026-10-31 — Ep. 354: Ashes of Arcathia - The Hum Is Stronger Here | Halloween Bonus 2026 | #DND
 - 2026-10-28 — Ep. 353: Ashes of Arcathia - Bovril Through a Carrot | Halloween Special 2026 | #DND
 - 2026-10-21 — Ep. 352: Jammed - Live, Laugh, Shark | #DND
 - 2026-10-14 — Ep. 351: Jammed - I'm a Shark and I'm Ready to Make Friends | #DND
