@@ -2,10 +2,10 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-11-04T11:05:33+00:00`
-- checked_at: `2026-11-04T11:05:33+00:00`
-- etag: `"8301edabfb17b6d65b4cd1a47130b0db"`
-- last_modified: `Wed, 04 Nov 2026 05:00:39 GMT`
+- fetched_at: `2026-11-05T11:05:57+00:00`
+- checked_at: `2026-11-05T11:05:57+00:00`
+- etag: `"8c79ec99e69b8945787f2e67f5df1a15"`
+- last_modified: `Thu, 05 Nov 2026 05:00:36 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://the-glass-cannon-podcast.simplecast.com",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/8d2971a0-2482-41b6-ad90-7d28eb7d9574/3000x3000/c20249e5141db5a916aa90e43f9ddf66.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-04T11:05:33+00:00",
+  "fetched_at": "2026-11-05T11:05:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "fffb23a2be8ea37f34d0e3144de4ccfe7dcf70eb",
+      "title": "GCN Plays... Teenage Ninja Fighting School Part 1 | Omnihedral",
+      "published_at": "2026-11-05T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/gcn-plays-teenage-ninja-fighting-school-part-1-omnihedral-0D33IZ1f",
+      "description": "We meet three young heroes-in-training in Bastion, the last city standing against monsters beyond the walls. It’s only Monday, and there’s a face-off against a Rival Fighting School, with your crush in the audience, AND a math test to study for!?! You've gotta play your cards right at Teenage Ninja Fighting School! This episode is brought to you by our friends at Omnihedral Games. Head to omnihedral.company.site where you can shop 1000s of products. Shipping is a flat $10. Get your copy of Teenage Ninja FIghting School by heading to https://www.kickstarter.com/projects/peteyp/teenage-ninja-fighting-school Cast: Sydney Amanuel, Ross Bryant, Rob Kerkovich, Skid Maher Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/ef091b12-1294-464e-922e-e200f4e16932/3000x3000/gcn_playssquarelogo.jpg?aid=rss_feed",
+      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/29bf7d69-206e-473b-b72d-eb10b1deb52c/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=29bf7d69-206e-473b-b72d-eb10b1deb52c&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98083715",
+      "itunes_duration": "01:42:09",
+      "speakers": [
+        "Teenage Ninja Fighting School"
+      ],
+      "topics": [
+        "plays",
+        "ninja",
+        "fighting",
+        "school",
+        "omnihedral"
+      ]
+    },
     {
       "key": "f88ce994c56096f153ea7bf95d1d2c0a394dee48",
       "title": "The Old Dwarf Mines | The Secret Fire Chapter 1 | The One Ring RPG",
@@ -21730,31 +21752,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "bc978e746ea47b7168b5172897b96b50450ab35a",
-      "title": "Good Night, and Good Rukh | The Glass Cannon Podcast Giantslayer E99 | Pathfinder 1E",
-      "published_at": "2017-04-18T04:00:00+00:00",
-      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/good-night-and-good-rukh-the-glass-cannon-podcast-giantslayer-e99-pathfinder-1e-32d8W89Q",
-      "description": "The party begins climbing the central tower of the cathedral, uncovering relentless danger, mysterious intel and unspeakable horror along the way. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/ffdb1694-625c-4032-95d3-ce0bce495301/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=ffdb1694-625c-4032-95d3-ce0bce495301&feed=UTUNOAis",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "103501217",
-      "itunes_duration": "01:47:13",
-      "speakers": [
-        "Good Night"
-      ],
-      "topics": [
-        "good",
-        "night",
-        "rukh",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21763,6 +21760,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-05 — GCN Plays... Teenage Ninja Fighting School Part 1 | Omnihedral — speakers: Teenage Ninja Fighting School
 - 2026-11-04 — The Old Dwarf Mines | The Secret Fire Chapter 1 | The One Ring RPG — speakers: Paula Deming
 - 2026-11-02 — GCN Community Update November 2, 2026 — speakers: Community Update November, Teenage Ninja Fighting School
 - 2026-11-02 — It's Just Like Red Dawn | Blood of the Wild S1 E46 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
@@ -22762,4 +22760,3 @@
 - 2017-04-25 — Ranger Things | The Glass Cannon Podcast Giantslayer E100 Part 3 | Pathfinder 1E
 - 2017-04-25 — Ranger Things | The Glass Cannon Podcast Giantslayer E100 Part 2 | Pathfinder 1E
 - 2017-04-25 — Ranger Things | The Glass Cannon Podcast Giantslayer E100 Part 1 | Pathfinder 1E
-- 2017-04-18 — Good Night, and Good Rukh | The Glass Cannon Podcast Giantslayer E99 | Pathfinder 1E — speakers: Good Night
