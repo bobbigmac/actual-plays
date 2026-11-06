@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-10-30T18:05:30+00:00`
-- checked_at: `2026-10-30T18:05:30+00:00`
-- last_modified: `Fri, 30 Oct 2026 17:11:41 GMT`
+- fetched_at: `2026-11-06T19:29:17+00:00`
+- checked_at: `2026-11-06T19:29:17+00:00`
+- last_modified: `Fri, 06 Nov 2026 18:44:49 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-30T18:05:30+00:00",
+  "fetched_at": "2026-11-06T19:29:17+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,28 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "b084e6a64f9b613b3c51670cab6b5614e1825021",
+      "title": "Prehistoric Keeper | Run Your Own Dino Park",
+      "published_at": "2026-11-06T17:00:00+00:00",
+      "link": null,
+      "description": "Welcome to Mystery Quest where we are playing Prehistoric Keeper by Joie Yong an RPG where you manage your very own Dino Park. Join us for an adventure 65 Million Years in the making... Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Check out the game here: https://joieyong.itch.io/prehistoric-keeper Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: https://www.youtube.com/angorytom Lydia: https://www.twitch.tv/squidgame Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Image credits: - Thylacoleo: Nobu Tamura (spinops.blogspot.com), CC BY 3.0 - Ground sloths: Renato Lopes, Rev. Bras. Paleontologia 22(1), 2019, CC BY 4.0 - Darwinius: Bogdan Bocianowski, from Franzen et al. 2009, PLoS ONE 4(5): e5723, CC BY 2 Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR8656652634.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3845",
+      "speakers": [
+        "Prehistoric Keeper",
+        "Joie Yong",
+        "Tom Bates"
+      ],
+      "topics": [
+        "keeper",
+        "dino",
+        "park"
+      ]
+    },
     {
       "key": "a81d3588d74f9daba69b13632e5b08be167d2ccd",
       "title": "Fatherfog | Three Sisters of the Glass Mountain #4",
@@ -3495,6 +3517,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-06 — Prehistoric Keeper | Run Your Own Dino Park — speakers: Prehistoric Keeper, Joie Yong, Tom Bates
 - 2026-10-30 — Fatherfog | Three Sisters of the Glass Mountain #4 — speakers: Three Sisters, Glass Mountain, Tom Bates
 - 2026-10-23 — Fatherfog | Three Sisters of the Glass Mountain #3 — speakers: Three Sisters, Glass Mountain, Tom Bates
 - 2026-10-16 — Fatherfog | Three Sisters of the Glass Mountain #2 — speakers: Three Sisters, Glass Mountain, Tom Bates
