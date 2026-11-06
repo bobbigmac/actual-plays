@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-10-30T10:10:03+00:00`
-- checked_at: `2026-10-30T10:10:03+00:00`
-- etag: `W/"5ec97b1f55517c0995d36887d9453114"`
-- last_modified: `Fri, 30 Oct 2026 10:00:00 GMT`
+- fetched_at: `2026-11-06T11:03:10+00:00`
+- checked_at: `2026-11-06T11:03:10+00:00`
+- etag: `W/"8d60c53518f3c0b6c7d7926eefa18e50"`
+- last_modified: `Fri, 06 Nov 2026 10:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,34 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-10-30T10:10:03+00:00",
+  "fetched_at": "2026-11-06T11:03:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "894d1042d682544511045ac112f1f2a3b8f01680",
+      "title": "Axis Arc 4 Ep 5 - A Crack in the Slab PART 1",
+      "published_at": "2026-11-06T10:00:00+00:00",
+      "link": "https://audioboom.com/posts/8972628",
+      "description": "Upon discovering the ruin of Vox Vinny’s studio our crew set out to investigate the scene and end up stumbling into something much deeper than they ever could’ve imagined. --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code AULLY50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! If you haven't checked it out in a while why not also head on over to our merch store , it's getting a revamp soon so this might be your last chance to grab some of the current designs we have in stock! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then check out the official second season from the Oaths & Empires universe, the Book of Kaium! GM Jasper William Cartwright whisks his now not-so-rookie players Tom McKay and Luke Dale off to the brand new continent of Kaium, where the world is bright, golden and playfully dangerous. Joining forces with brand new players Alex McCauley and Anna María, this unlikely party of politicians, pirates and pick-pockets as they take on the mission of their lives. Sign up to the O&E Patreon today to listen to the first episode when it drops on 13th November. Use code 'KAIUM50' to get 50% off any tier for your first month! Rotating Heroes is a 12 Sided Studios Production",
+      "image_url": "https://audioboom.com/i/43833898.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8972628.mp3?modified=1793887010&sid=5167570&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2521",
+      "speakers": [
+        "Axis Arc",
+        "Vox Vinny"
+      ],
+      "topics": [
+        "axis",
+        "crack",
+        "slab"
+      ]
+    },
     {
       "key": "bc02a00c516f33bb75e38584251a9b3dbb026124",
       "title": "Axis Arc 4 Ep 4 - Emergency Broadcast PART 2",
@@ -3101,6 +3122,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-06 — Axis Arc 4 Ep 5 - A Crack in the Slab PART 1 — speakers: Axis Arc, Vox Vinny
 - 2026-10-30 — Axis Arc 4 Ep 4 - Emergency Broadcast PART 2 — speakers: Axis Arc, Emergency Broadcast
 - 2026-10-23 — Axis Arc 4 Ep 4 - Emergency Broadcast PART 1 — speakers: Axis Arc, Emergency Broadcast
 - 2026-10-16 — Axis Arc 4 Ep 3 - Live On Air PART 2

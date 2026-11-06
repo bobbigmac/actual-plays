@@ -250,8 +250,8 @@
       "etag": "\"djEuMi4wOjE3OTM3MjUyMzk1Njc=\""
     },
     "worlds-beyond-number": {
-      "last_checked_at": "2026-11-06T01:35:56+00:00",
-      "last_checked_unix": 1793928960,
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793962993,
       "etag": "\"21ec8d0c4766715dd57446508ee40eab\"",
       "last_modified": "Tue, 27 Oct 2026 09:00:15 GMT"
     },
@@ -285,8 +285,8 @@
       "consecutive_failures": 0
     },
     "dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast": {
-      "last_checked_at": "2026-11-06T01:35:56+00:00",
-      "last_checked_unix": 1793928960,
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793962993,
       "last_modified": "Wed, 04 Nov 2026 08:00:02 GMT",
       "consecutive_failures": 0
     },
@@ -308,10 +308,10 @@
       "last_modified": "Mon, 02 Nov 2026 00:42:19 GMT"
     },
     "friends-at-the-table": {
-      "last_checked_at": "2026-11-03T19:33:54+00:00",
-      "last_checked_unix": 1793734438,
-      "etag": "\"9ac9c09f081a8b25dd3e8aa1e78ffaa9\"",
-      "last_modified": "Tue, 03 Nov 2026 17:47:53 GMT"
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793962996,
+      "etag": "\"21ad7b8018cc8641ae196656d994c558\"",
+      "last_modified": "Tue, 03 Nov 2026 20:37:18 GMT"
     },
     "girls-guts-glory-the-broad-cast": {
       "last_checked_at": "2026-06-17T22:53:47+00:00",
@@ -375,8 +375,8 @@
       "last_modified": "Wed, 17 Jun 2026 22:53:53 GMT"
     },
     "high-rollers-dnd": {
-      "last_checked_at": "2026-11-06T01:35:56+00:00",
-      "last_checked_unix": 1793928960,
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793962993,
       "last_modified": "Tue, 03 Nov 2026 18:08:49 GMT"
     },
     "how-we-roll-podcast": {
@@ -409,8 +409,8 @@
       "last_modified": "Sat, 06 Dec 2025 17:09:19 GMT"
     },
     "legendlark": {
-      "last_checked_at": "2026-11-06T01:35:56+00:00",
-      "last_checked_unix": 1793928960,
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793962995,
       "etag": "W/\"12341e-nT0zTWrDKxOBU5onRLN1jasZ+UQ\"",
       "consecutive_failures": 0,
       "last_modified": "Fri, 23 Oct 2026 00:04:03 GMT"
@@ -422,14 +422,14 @@
       "last_modified": "Thu, 05 Nov 2026 02:35:56 GMT"
     },
     "not-another-d-d-podcast": {
-      "last_checked_at": "2026-10-30T10:10:03+00:00",
-      "last_checked_unix": 1793355007,
-      "last_modified": "Fri, 30 Oct 2026 02:31:31 GMT",
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793962994,
+      "last_modified": "Fri, 06 Nov 2026 03:47:56 GMT",
       "consecutive_failures": 0
     },
     "one-shot": {
-      "last_checked_at": "2026-11-06T01:35:56+00:00",
-      "last_checked_unix": 1793928961,
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793962995,
       "last_modified": "Tue, 27 Oct 2026 08:00:11 GMT",
       "consecutive_failures": 0
     },
@@ -501,10 +501,10 @@
       "consecutive_failures": 0
     },
     "rotating-heroes": {
-      "last_checked_at": "2026-10-30T10:10:03+00:00",
-      "last_checked_unix": 1793355010,
-      "etag": "W/\"5ec97b1f55517c0995d36887d9453114\"",
-      "last_modified": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793962997,
+      "etag": "W/\"8d60c53518f3c0b6c7d7926eefa18e50\"",
+      "last_modified": "Fri, 06 Nov 2026 10:00:00 GMT",
       "consecutive_failures": 0
     },
     "session-zero": {
@@ -565,8 +565,8 @@
       "last_modified": "Mon, 11 May 2026 10:05:55 GMT"
     },
     "tales-from-the-stinky-dragon": {
-      "last_checked_at": "2026-11-06T01:35:56+00:00",
-      "last_checked_unix": 1793928961,
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793962998,
       "last_modified": "Thu, 29 Oct 2026 19:08:13 GMT"
     },
     "taking-initiative": {
@@ -576,8 +576,8 @@
       "last_modified": "Fri, 29 May 2026 14:51:13 GMT"
     },
     "the-adventure-zone": {
-      "last_checked_at": "2026-11-06T01:35:56+00:00",
-      "last_checked_unix": 1793928960,
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793962998,
       "etag": "\"cbdaddb3e0ba6d8048f5e7822d3c0766\"",
       "last_modified": "Thu, 29 Oct 2026 11:00:20 GMT"
     },
@@ -606,8 +606,8 @@
       "consecutive_failures": 0
     },
     "the-damage-guild-a-pathfinder-2e-podcast": {
-      "last_checked_at": "2026-11-06T01:35:56+00:00",
-      "last_checked_unix": 1793928961,
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793962998,
       "last_modified": "Mon, 26 Oct 2026 04:01:00 GMT",
       "consecutive_failures": 0
     },
@@ -623,14 +623,14 @@
       "etag": "W/\"49394-93rvOhz/mk4TnDZc3ZR9MzxFgjI\""
     },
     "the-glass-cannon-podcast": {
-      "last_checked_at": "2026-11-05T11:05:57+00:00",
-      "last_checked_unix": 1793876762,
-      "last_modified": "Thu, 05 Nov 2026 05:00:36 GMT",
-      "etag": "\"8c79ec99e69b8945787f2e67f5df1a15\""
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793962999,
+      "last_modified": "Fri, 06 Nov 2026 05:00:30 GMT",
+      "etag": "\"503434c97b44f581a4f5b78cb640a140\""
     },
     "the-heresies-of-radulf-burntwine": {
-      "last_checked_at": "2026-11-06T01:35:56+00:00",
-      "last_checked_unix": 1793928961,
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793963002,
       "last_modified": "Thu, 29 Oct 2026 18:36:42 GMT"
     },
     "the-iron-realm-mega-dungeon-crawl-dark-fantasy-solo-rpg-gaming-podcast": {
@@ -723,13 +723,13 @@
       "disabled_reason": "3 consecutive failures"
     },
     "we-fix-space-junk": {
-      "last_checked_at": "2026-11-06T01:35:56+00:00",
-      "last_checked_unix": 1793928961,
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793963002,
       "last_modified": "Thu, 29 Oct 2026 17:39:44 GMT"
     },
     "who-lives-who-dice": {
-      "last_checked_at": "2026-11-06T01:35:56+00:00",
-      "last_checked_unix": 1793928961,
+      "last_checked_at": "2026-11-06T11:03:10+00:00",
+      "last_checked_unix": 1793963002,
       "etag": "\"38cf2556dc0e6bb49281209eb5974297\"",
       "last_modified": "Sun, 03 May 2026 08:52:08 GMT",
       "consecutive_failures": 0
@@ -741,5 +741,5 @@
       "etag": "W/\"b031b-LD7/U/lZqze7YJg7MAgKzhv4Rjg\""
     }
   },
-  "updated_at": "2026-11-06T01:35:56+00:00"
+  "updated_at": "2026-11-06T11:03:10+00:00"
 }
