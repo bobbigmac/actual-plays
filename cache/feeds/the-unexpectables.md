@@ -2,10 +2,10 @@
 
 - slug: `the-unexpectables`
 - source: `https://feeds.libsyn.com/105383/rss`
-- fetched_at: `2026-08-20T21:51:17+00:00`
-- checked_at: `2026-08-20T21:51:17+00:00`
-- etag: `"f77144226bdc367f56f9b29c4db51197"`
-- last_modified: `Wed, 12 Aug 2026 18:52:02 GMT`
+- fetched_at: `2026-11-08T19:44:36+00:00`
+- checked_at: `2026-11-08T19:44:36+00:00`
+- etag: `"e250d3b4e41be3d2d507c4ebbf232cf8"`
+- last_modified: `Sun, 01 Nov 2026 05:40:14 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://101club.libsyn.com/website",
   "description": "Follow the travels and tribulations of Task the Kobold Ranger, Greckles the Kenku Rogue, Panic the Tiefling Bard, and Borky the Orc Barbarian, as they traverse the dangerous and mysterious lands of Alivast, and the Capital City that hosts a bungle of characters, magic and villains.",
   "image_url": "https://static.libsyn.com/p/assets/6/9/c/7/69c7492dcb405690/sweet_dragon_logo.png",
-  "fetched_at": "2026-08-20T21:51:17+00:00",
+  "fetched_at": "2026-11-08T19:44:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,348 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "05d405a10334ff514b7ca9d7421ea7376988b74c",
+      "title": "Darkon: One Red Night Episode 4: One Last Dance",
+      "published_at": "2026-11-01T05:39:00+00:00",
+      "link": "https://101club.libsyn.com/darkon-one-red-night-episode-4-one-last-dance",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Darkon_One_Red_Night_Episode_4_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "140137069",
+      "itunes_duration": "02:46:46",
+      "speakers": [
+        "One Last Dance"
+      ],
+      "topics": [
+        "darkon",
+        "night",
+        "dance"
+      ]
+    },
+    {
+      "key": "435f03d6bd08167cfcaaf0181042d6fed8c2d990",
+      "title": "Cyberpunk: Gehenna - Episode 2: The Universal Language",
+      "published_at": "2026-11-01T05:37:00+00:00",
+      "link": "https://101club.libsyn.com/cyberpunk-gehenna-episode-2-the-universal-language",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Cyberpunk_Gehenna_Episode_2_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "204607737",
+      "itunes_duration": "04:03:31",
+      "speakers": [],
+      "topics": [
+        "cyberpunk",
+        "gehenna",
+        "universal",
+        "language"
+      ]
+    },
+    {
+      "key": "0f07387dbc85db934429165ba6c88d61096b2e31",
+      "title": "Darkon: One Red Night Episode 3: Death and Taxes",
+      "published_at": "2026-11-01T05:36:00+00:00",
+      "link": "https://101club.libsyn.com/darkon-one-red-night-episode-3-death-and-taxes",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Darkon_One_Red_Night_Episode_3_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "186982754",
+      "itunes_duration": "03:42:32",
+      "speakers": [],
+      "topics": [
+        "darkon",
+        "night",
+        "death",
+        "taxis"
+      ]
+    },
+    {
+      "key": "ca6361967f7f3a8316668baa0cdb76acecbca464",
+      "title": "Darkon: One Red Night Episode 2: Forget Me Not",
+      "published_at": "2026-11-01T05:35:00+00:00",
+      "link": "https://101club.libsyn.com/darkon-one-red-night-episode-2-forget-me-not",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Darkon_One_Red_Night_EPisode_2_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "160267812",
+      "itunes_duration": "03:10:44",
+      "speakers": [
+        "Forget Me Not"
+      ],
+      "topics": [
+        "darkon",
+        "night"
+      ]
+    },
+    {
+      "key": "3c106a9c824bf2866d0c8ab66cc7e5ead5d60adf",
+      "title": "Teaming of a Wight Winter - The Unexpectables II Episode 166",
+      "published_at": "2026-10-13T15:09:00+00:00",
+      "link": "https://101club.libsyn.com/teaming-of-a-wight-winter-the-unexpectables-ii-episode-166",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/The_Unexpectables_II_Episode_166_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "160197964",
+      "itunes_duration": "03:10:39",
+      "speakers": [
+        "Wight Winter"
+      ],
+      "topics": [
+        "wight",
+        "winter",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "c5f853942e09dfb877fac3062f04054c8b0971b3",
+      "title": "Scrumptious! - Fool's Gelt Episode 16",
+      "published_at": "2026-10-13T15:05:00+00:00",
+      "link": "https://101club.libsyn.com/scrumptious-fools-gelt-episode-16",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_Episode_16_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "178500845",
+      "itunes_duration": "03:32:26",
+      "speakers": [],
+      "topics": [
+        "fool",
+        "gelt"
+      ]
+    },
+    {
+      "key": "9c26a8019eda38cb3f3bc2a8f30c487aeaee95d7",
+      "title": "Cyberpunk: Gehenna - Episode 1: Saints & Sinners",
+      "published_at": "2026-10-13T15:05:00+00:00",
+      "link": "https://101club.libsyn.com/cyberpunk-gehenna-episode-1-saints-sinners",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Cyberpunk_Gehanna_Episode_1_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "203812063",
+      "itunes_duration": "04:02:34",
+      "speakers": [],
+      "topics": [
+        "cyberpunk",
+        "gehenna",
+        "saints",
+        "sinner"
+      ]
+    },
+    {
+      "key": "be0c5242de421ac0242b1606b59123fca52a2069",
+      "title": "Darkon: One Red Night Episode 1: Thicker Than Water",
+      "published_at": "2026-10-13T15:05:00+00:00",
+      "link": "https://101club.libsyn.com/darkon-one-red-night-episode-1-thicker-than-water",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Darkon_One_Red_Night_Episode_1_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "153108955",
+      "itunes_duration": "03:02:13",
+      "speakers": [
+        "Thicker Than Water"
+      ],
+      "topics": [
+        "darkon",
+        "night",
+        "thicker",
+        "water"
+      ]
+    },
+    {
+      "key": "3cf4e5a08e60ccbcad35c218d64f3630d707e91f",
+      "title": "Desperation and Love - The Unexpectables II Episode 165",
+      "published_at": "2026-09-30T19:44:00+00:00",
+      "link": "https://101club.libsyn.com/desperation-and-love-the-unexpectables-ii-episode-165",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_165_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "137352271",
+      "itunes_duration": "02:43:27",
+      "speakers": [],
+      "topics": [
+        "desperation",
+        "love",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "cf3ca7f1842ad75161b44d10c2d21a80631af5d1",
+      "title": "Hands off my Genes - Fool's Gelt Episode 15",
+      "published_at": "2026-09-30T19:43:00+00:00",
+      "link": "https://101club.libsyn.com/hands-off-my-genes-fools-gelt-episode-15",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_15_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "136489766",
+      "itunes_duration": "02:42:25",
+      "speakers": [],
+      "topics": [
+        "hand",
+        "genes",
+        "fool",
+        "gelt"
+      ]
+    },
+    {
+      "key": "edeb1b6b423eae2acc7a61a2f632d2e5018f1a90",
+      "title": "Atomic Clock - Fool's Gelt Episode 14",
+      "published_at": "2026-09-21T20:03:00+00:00",
+      "link": "https://101club.libsyn.com/atomic-clock-fools-gelt-episode-14",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_Episode_14_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "130438676",
+      "itunes_duration": "02:35:13",
+      "speakers": [
+        "Atomic Clock Fool"
+      ],
+      "topics": [
+        "atomic",
+        "clock",
+        "fool",
+        "gelt"
+      ]
+    },
+    {
+      "key": "fbdd290cf4814d407689e29c829db3bc391a486d",
+      "title": "Flesh that is your Stone - The Unexpectables II Episode 164",
+      "published_at": "2026-09-21T20:02:00+00:00",
+      "link": "https://101club.libsyn.com/flesh-that-is-your-stone-the-unexpectables-ii-episode-164",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_164_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "156592499",
+      "itunes_duration": "03:06:21",
+      "speakers": [],
+      "topics": [
+        "flesh",
+        "stone",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "fda006c82b4392af25864209732c8ef20db89437",
+      "title": "It'z ya Birfday! - Fools Gelt Episode 13",
+      "published_at": "2026-09-16T17:34:00+00:00",
+      "link": "https://101club.libsyn.com/itz-ya-birfday-fools-gelt-episode-13",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_13_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "157852355",
+      "itunes_duration": "03:07:51",
+      "speakers": [
+        "It'z ya Birfday",
+        "Fools Gelt"
+      ],
+      "topics": [
+        "birfday",
+        "fools",
+        "gelt"
+      ]
+    },
+    {
+      "key": "9dbc2175fe6e1b30fbdfde8eb383fbc041201daf",
+      "title": "Rock-A-Bye - The Unexpectables II Episode 163",
+      "published_at": "2026-09-16T17:34:00+00:00",
+      "link": "https://101club.libsyn.com/rock-a-bye-the-unexpectables-ii-episode-163",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_163_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102414122",
+      "itunes_duration": "02:01:51",
+      "speakers": [],
+      "topics": [
+        "rock",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "6f6c071b682c5801cc54e39dba45a3bc68189b09",
+      "title": "Tensor with Intentions - The Unexpectables II Episode 162",
+      "published_at": "2026-09-04T16:59:00+00:00",
+      "link": "https://101club.libsyn.com/tensor-with-intentions-the-unexpectables-ii-episode-162",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_162_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "126198962",
+      "itunes_duration": "02:30:10",
+      "speakers": [],
+      "topics": [
+        "tensor",
+        "intentions",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "09cce0c05a96d0da776e6459ed223e7c464826b3",
+      "title": "Secrets Swept Under the Rug - The Unexpectables II Episode 161",
+      "published_at": "2026-09-04T16:54:00+00:00",
+      "link": "https://101club.libsyn.com/secrets-swept-under-the-rug-the-unexpectables-ii-episode-161",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_161_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124858253",
+      "itunes_duration": "02:28:35",
+      "speakers": [
+        "Secrets Swept Under"
+      ],
+      "topics": [
+        "secrets",
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "fb21aef72c33c4852027f6aa1724c56c4fbd63d8",
+      "title": "Tek Support - Fool's Gelt Episode 12",
+      "published_at": "2026-08-26T14:52:00+00:00",
+      "link": "https://101club.libsyn.com/tek-support-fools-gelt-episode-12",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Fools_Gelt_Episode_12_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "166447268",
+      "itunes_duration": "03:18:05",
+      "speakers": [
+        "Tek Support"
+      ],
+      "topics": [
+        "support",
+        "fool",
+        "gelt"
+      ]
+    },
+    {
+      "key": "ba828c850aa3d6090cda53fbefcaedb3e746dec5",
+      "title": "Into the Lion's Den - The Unexpectables II Episode 160",
+      "published_at": "2026-08-26T14:52:00+00:00",
+      "link": "https://101club.libsyn.com/into-the-lions-den-the-unexpectables-ii-episode-160",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_160_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124249705",
+      "itunes_duration": "02:27:51",
+      "speakers": [],
+      "topics": [
+        "lion",
+        "unexpectables"
+      ]
+    },
     {
       "key": "d2c1d1c8a926a6cd818aa3dbfbda7c30989949d9",
       "title": "Stone Cold Steal Hostron - The Unexpectables II Episode 159",
@@ -11490,6 +11832,24 @@
 
 ## Episodes (newest first)
 
+- 2026-11-01 — Darkon: One Red Night Episode 4: One Last Dance — speakers: One Last Dance
+- 2026-11-01 — Cyberpunk: Gehenna - Episode 2: The Universal Language
+- 2026-11-01 — Darkon: One Red Night Episode 3: Death and Taxes
+- 2026-11-01 — Darkon: One Red Night Episode 2: Forget Me Not — speakers: Forget Me Not
+- 2026-10-13 — Teaming of a Wight Winter - The Unexpectables II Episode 166 — speakers: Wight Winter
+- 2026-10-13 — Scrumptious! - Fool's Gelt Episode 16
+- 2026-10-13 — Cyberpunk: Gehenna - Episode 1: Saints & Sinners
+- 2026-10-13 — Darkon: One Red Night Episode 1: Thicker Than Water — speakers: Thicker Than Water
+- 2026-09-30 — Desperation and Love - The Unexpectables II Episode 165
+- 2026-09-30 — Hands off my Genes - Fool's Gelt Episode 15
+- 2026-09-21 — Atomic Clock - Fool's Gelt Episode 14 — speakers: Atomic Clock Fool
+- 2026-09-21 — Flesh that is your Stone - The Unexpectables II Episode 164
+- 2026-09-16 — It'z ya Birfday! - Fools Gelt Episode 13 — speakers: It'z ya Birfday, Fools Gelt
+- 2026-09-16 — Rock-A-Bye - The Unexpectables II Episode 163
+- 2026-09-04 — Tensor with Intentions - The Unexpectables II Episode 162
+- 2026-09-04 — Secrets Swept Under the Rug - The Unexpectables II Episode 161 — speakers: Secrets Swept Under
+- 2026-08-26 — Tek Support - Fool's Gelt Episode 12 — speakers: Tek Support
+- 2026-08-26 — Into the Lion's Den - The Unexpectables II Episode 160
 - 2026-08-12 — Stone Cold Steal Hostron - The Unexpectables II Episode 159 — speakers: Stone Cold Steal Hostron
 - 2026-08-05 — A Dino Crisis - Fool's Gelt Episode 11 — speakers: Dino Crisis
 - 2026-08-05 — Blood From a Stone - The Unexpectables II Episode 158

@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-11-03T10:59:30+00:00`
-- checked_at: `2026-11-03T10:59:30+00:00`
+- fetched_at: `2026-11-08T19:44:36+00:00`
+- checked_at: `2026-11-08T19:44:36+00:00`
 - etag: `W/"91e44761f594e4711c6e1fe9af69ee45"`
-- last_modified: `Tue, 03 Nov 2026 08:13:54 GMT`
+- last_modified: `Fri, 06 Nov 2026 20:47:35 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,8 +17,8 @@
   "title": "DodoBorne: A Daggerheart Actual Play Podcast",
   "link": "https://feeds.transistor.fm/dodoborne",
   "description": "DodoBorne is an improvised comedy storytelling podcast where five friends dive into Daggerheart, the tabletop roleplaying game from Darrington Press. Whether you're looking for adventure, romance, mystery, or nonsense, DodoBorne offers a welcoming mix of humor, heart, and collaborative storytelling that we hope will keep you coming back for more. With Season 3 serving as a fresh starting point for new viewers, there's never been a better time to join the flock! New episodes air the first Tuesday of every month.",
-  "image_url": "https://megaphone.imgix.net/podcasts/05e7c1b6-d144-11f1-a5e4-83b221d68cbd/image/c18bd20bb85604923b811b2fa3bf2112.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-03T10:59:30+00:00",
+  "image_url": "https://megaphone.imgix.net/podcasts/05e7c1b6-d144-11f1-a5e4-83b221d68cbd/image/39deffe8f882beb99d144e5676f4ba83.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "fetched_at": "2026-11-08T19:44:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,7 +37,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7938768339.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3040",
+      "itunes_duration": "3100",
       "speakers": [
         "Ceaseless Corridors Through"
       ],
@@ -73,7 +73,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6051168634.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2991",
+      "itunes_duration": "3051",
       "speakers": [
         "beautiful song"
       ],
@@ -92,7 +92,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3875105265.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2468",
+      "itunes_duration": "2528",
       "speakers": [
         "Adventuring Guild"
       ],
@@ -111,7 +111,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4774123911.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2450",
+      "itunes_duration": "2510",
       "speakers": [],
       "topics": [
         "couple",
@@ -128,7 +128,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6338505957.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2865",
+      "itunes_duration": "2925",
       "speakers": [],
       "topics": []
     },
@@ -142,7 +142,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7169447225.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3197",
+      "itunes_duration": "3257",
       "speakers": [],
       "topics": [
         "polaris",
@@ -160,7 +160,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9603400332.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3621",
+      "itunes_duration": "3681",
       "speakers": [
         "Polaris University"
       ],
@@ -180,7 +180,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3969604512.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2979",
+      "itunes_duration": "3039",
       "speakers": [
         "Polaris University"
       ],
@@ -200,7 +200,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4503185137.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2725",
+      "itunes_duration": "2785",
       "speakers": [
         "Lysander Bellor"
       ],
@@ -220,7 +220,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6241343668.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2609",
+      "itunes_duration": "2669",
       "speakers": [
         "Polaris University"
       ],
@@ -240,7 +240,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6528806105.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2856",
+      "itunes_duration": "2916",
       "speakers": [
         "Polaris University",
         "Secrets Whew"
@@ -261,7 +261,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2547104587.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2961",
+      "itunes_duration": "3021",
       "speakers": [],
       "topics": [
         "polaris",
@@ -279,7 +279,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2943015612.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2778",
+      "itunes_duration": "2838",
       "speakers": [
         "Polaris University",
         "Detention Welcome"
@@ -300,7 +300,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7262778509.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4561",
+      "itunes_duration": "4621",
       "speakers": [],
       "topics": [
         "season",
@@ -317,7 +317,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4571040178.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2923",
+      "itunes_duration": "2983",
       "speakers": [
         "Casus Belli"
       ],
@@ -336,7 +336,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1020313869.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3077",
+      "itunes_duration": "3137",
       "speakers": [
         "Casus Belli"
       ],
@@ -355,7 +355,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8846891304.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3105",
+      "itunes_duration": "3165",
       "speakers": [
         "Descent Down"
       ],
@@ -373,7 +373,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2415143247.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3215",
+      "itunes_duration": "3275",
       "speakers": [],
       "topics": [
         "door"
@@ -389,7 +389,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6923313318.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2998",
+      "itunes_duration": "3058",
       "speakers": [],
       "topics": [
         "lotta",
@@ -407,7 +407,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1060784056.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2859",
+      "itunes_duration": "2919",
       "speakers": [],
       "topics": [
         "trust"
@@ -423,7 +423,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7053136054.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3068",
+      "itunes_duration": "3128",
       "speakers": [],
       "topics": [
         "port",
@@ -459,7 +459,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR9949054326.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3087",
+      "itunes_duration": "3147",
       "speakers": [],
       "topics": [
         "clank",
@@ -476,7 +476,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2169407674.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2654",
+      "itunes_duration": "2714",
       "speakers": [],
       "topics": [
         "dodo",
@@ -493,7 +493,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3922410767.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2900",
+      "itunes_duration": "2960",
       "speakers": [
         "Day Off After"
       ],
@@ -511,7 +511,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5763118981.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2766",
+      "itunes_duration": "2826",
       "speakers": [],
       "topics": [
         "feeling"
@@ -527,7 +527,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7068833339.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2627",
+      "itunes_duration": "2687",
       "speakers": [
         "Gentle Reader"
       ],
@@ -546,7 +546,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6931681995.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2744",
+      "itunes_duration": "2804",
       "speakers": [],
       "topics": [
         "aftermidnight",
@@ -563,7 +563,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1380142753.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2866",
+      "itunes_duration": "2926",
       "speakers": [],
       "topics": [
         "rise",
@@ -581,7 +581,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1903625971.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2859",
+      "itunes_duration": "2919",
       "speakers": [],
       "topics": [
         "grave"
@@ -597,7 +597,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8653892019.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3109",
+      "itunes_duration": "3169",
       "speakers": [
         "Duck Walks Into"
       ],
@@ -617,7 +617,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR1049324091.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2409",
+      "itunes_duration": "2469",
       "speakers": [
         "Daniel Bukin"
       ],
@@ -638,7 +638,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4652476609.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2744",
+      "itunes_duration": "2804",
       "speakers": [],
       "topics": [
         "gouda",
@@ -655,7 +655,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7620264512.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3077",
+      "itunes_duration": "3137",
       "speakers": [],
       "topics": [
         "side",
@@ -673,7 +673,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6532630216.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3081",
+      "itunes_duration": "3141",
       "speakers": [
         "Highcliff Hassle"
       ],
@@ -693,7 +693,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3696021421.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4611",
+      "itunes_duration": "4671",
       "speakers": [],
       "topics": [
         "season",
@@ -710,7 +710,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR7733657784.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3412",
+      "itunes_duration": "3472",
       "speakers": [
         "unexpected assailants"
       ],
@@ -730,7 +730,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2122520057.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2938",
+      "itunes_duration": "2998",
       "speakers": [],
       "topics": [
         "burning",
@@ -747,7 +747,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6811831569.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2911",
+      "itunes_duration": "2971",
       "speakers": [],
       "topics": [
         "apple",
@@ -764,7 +764,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR5848854634.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2933",
+      "itunes_duration": "2993",
       "speakers": [
         "Brackenroad Apple Festival"
       ],
@@ -783,7 +783,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3308609325.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1953",
+      "itunes_duration": "2013",
       "speakers": [],
       "topics": [
         "pistachio",
