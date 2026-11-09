@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-11-02T19:33:23+00:00`
-- checked_at: `2026-11-02T19:33:23+00:00`
-- etag: `"djEuMi4wOjE3OTM2MzE2Mzk1MTY="`
+- fetched_at: `2026-11-09T22:28:21+00:00`
+- checked_at: `2026-11-09T22:28:21+00:00`
+- etag: `"djEuMi4wOjE3OTQyNDAwMzk1Nzc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-11-02T19:33:23+00:00",
+  "fetched_at": "2026-11-09T22:28:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "dad79ca5f9cde3bf2b3d5ce0406d24abe9654711",
+      "title": "Bachmann's Campaign: Session 0",
+      "published_at": "2026-11-09T16:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/bachmanns-campaign-session-0",
+      "description": "After finishing our spoooooky adventure with Nika we now hop back into the creative vats to muck up some ideas for our characters in Bachmann's upcoming campaign. Session 0s are so fun because you can take a tiny flicker of an idea and then run with it along with your buds. Real excited to see what comes next! A new adventure begins with Nika Howard , Jennifer Cheek , Michael DiMauro , Tim Lanning , and our Dungeon Master Mike Bachmann . Edited by Vincent. Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6af1a84e625528ef28ee89b3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107378977",
+      "itunes_duration": "1:14:33",
+      "speakers": [],
+      "topics": [
+        "bachmann",
+        "campaign",
+        "session"
+      ]
+    },
     {
       "key": "1941abf25977e91ed77ad373e4021b387e3bc09e",
       "title": "Owari no Hajimari: Episode 4",
@@ -12766,6 +12784,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — Bachmann's Campaign: Session 0
 - 2026-11-02 — Owari no Hajimari: Episode 4
 - 2026-10-26 — Owari no Hajimari: Episode 3
 - 2026-10-19 — Mailbag!
