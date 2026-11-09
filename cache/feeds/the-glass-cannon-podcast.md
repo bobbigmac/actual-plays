@@ -2,10 +2,10 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-11-07T10:23:17+00:00`
-- checked_at: `2026-11-07T10:23:17+00:00`
-- etag: `"29dbecc0e2408ea2ff9fb05126aa145b"`
-- last_modified: `Sat, 07 Nov 2026 05:00:28 GMT`
+- fetched_at: `2026-11-09T11:44:55+00:00`
+- checked_at: `2026-11-09T11:44:55+00:00`
+- etag: `"34458c7ed4fbbce4481201ca718683a5"`
+- last_modified: `Mon, 09 Nov 2026 05:00:35 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://the-glass-cannon-podcast.simplecast.com",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/46109deb-f36d-4541-b12d-b5599c7ce340/3000x3000/gcp_sotb_podcast_platforms_graphic.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-07T10:23:17+00:00",
+  "fetched_at": "2026-11-09T11:44:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "d357df31b129650a2a0f817de989886a5057dd94",
+      "title": "Roll for Penmanship | Blood of the Wild S1 E47 | Pathfinder 2E Quest for the Frozen Flame",
+      "published_at": "2026-11-09T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/roll-for-penmanship-blood-of-the-wild-s1-e47-pathfinder-2e-quest-for-the-frozen-flame-Ug8L8YOx",
+      "description": "The Tip of the Spear makes a grisly discovery. Access every available episode of Blood of the Wild along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/084d19ad-7cc2-489c-89ea-189f0b7d4593/3000x3000/blood_of_the_wild_final.jpg?aid=rss_feed",
+      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/2fda767d-91d9-4823-b33d-7c5f7d93f1c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=2fda767d-91d9-4823-b33d-7c5f7d93f1c9&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75332236",
+      "itunes_duration": "01:18:27",
+      "speakers": [],
+      "topics": [
+        "penmanship",
+        "blood",
+        "wild",
+        "pathfinder",
+        "quest",
+        "frozen",
+        "flame"
+      ]
+    },
     {
       "key": "5a2a5bbf03c2e1edec10eec83046bf627d2de301",
       "title": "Blue Ball's Last Stand | Time For Chaos S4 E16 | Call of Cthulhu Masks of Nyarlathotep",
@@ -21735,28 +21757,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "87aec990d16bddec99e7621c529c0abf1206fae5",
-      "title": "Ranger Things | The Glass Cannon Podcast Giantslayer E100 Part 3 | Pathfinder 1E",
-      "published_at": "2017-04-25T04:03:00+00:00",
-      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/ranger-things-the-glass-cannon-podcast-giantslayer-e100-part-3-pathfinder-1e-fPclcvVl",
-      "description": "The #marchto100 concludes with the return of an old friend. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a83a719d-8947-43c3-9b7f-2af0f83da7d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a83a719d-8947-43c3-9b7f-2af0f83da7d4&feed=UTUNOAis",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "65567596",
-      "itunes_duration": "01:07:42",
-      "speakers": [],
-      "topics": [
-        "ranger",
-        "thing",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21765,6 +21765,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — Roll for Penmanship | Blood of the Wild S1 E47 | Pathfinder 2E Quest for the Frozen Flame
 - 2026-11-07 — Blue Ball's Last Stand | Time For Chaos S4 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Blue Ball
 - 2026-11-06 — Wild Wood | The Glass Cannon Podcast: Shadows of the Broken E4 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-11-05 — GCN Plays... Teenage Ninja Fighting School Part 1 | Omnihedral — speakers: Teenage Ninja Fighting School
@@ -22764,4 +22765,3 @@
 - 2017-05-16 — Groghall Putsch | The Glass Cannon Podcast Giantslayer E103 | Pathfinder 1E — speakers: Groghall Putsch
 - 2017-05-09 — Spike Drop | The Glass Cannon Podcast Giantslayer E102 | Pathfinder 1E — speakers: Spike Drop
 - 2017-05-02 — Spire Walk with Me | The Glass Cannon Podcast Giantslayer E101 | Pathfinder 1E
-- 2017-04-25 — Ranger Things | The Glass Cannon Podcast Giantslayer E100 Part 3 | Pathfinder 1E
