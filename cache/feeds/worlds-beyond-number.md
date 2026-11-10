@@ -2,10 +2,10 @@
 
 - slug: `worlds-beyond-number`
 - source: `https://feeds.simplecast.com/IAPnSSRO`
-- fetched_at: `2026-10-27T09:07:14+00:00`
-- checked_at: `2026-10-27T09:07:14+00:00`
-- etag: `"21ec8d0c4766715dd57446508ee40eab"`
-- last_modified: `Tue, 27 Oct 2026 09:00:15 GMT`
+- fetched_at: `2026-11-10T17:06:16+00:00`
+- checked_at: `2026-11-10T17:06:16+00:00`
+- etag: `"fdc45661e1279c547090e3f49cad2e9c"`
+- last_modified: `Tue, 10 Nov 2026 10:00:23 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://worlds-beyond-number.simplecast.com",
   "description": "An epic, improvised storytelling podcast where Brennan Lee Mulligan, Erika Ishii, Aabria Iyengar, and Lou Wilson hang out together, play games, build worlds, and make stories.",
   "image_url": "https://image.simplecastcdn.com/images/c89bbbb6-e942-4583-ad73-4877d9c0b2f6/dfae107c-3b1e-4c37-acf7-a48a1ff6e445/3000x3000/wbn-album-logo-art-2024-3000x3000.jpg?aid=rss_feed",
-  "fetched_at": "2026-10-27T09:07:14+00:00",
+  "fetched_at": "2026-11-10T17:06:16+00:00",
   "owners": [
     "Brennan Lee Mulligan",
     "Aabria Iyengar",
@@ -31,6 +31,33 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "35c9194777ded627e3aa99eda74f1406fac8dea0",
+      "title": "World Turner: Episode 6 - Meridian Hall",
+      "published_at": "2026-11-10T10:00:00+00:00",
+      "link": "https://worlds-beyond-number.simplecast.com/episodes/world-turner-episode-6-meridian-hall-sMrQT35u",
+      "description": "Quiet reveals things we wish remained hidden. What breaks at the eye of the storm? Content Warning : This episode contains depictions of gore, violence, and PTSD. We are: Brennan Lee Mulligan Erika Ishii Ally Beardsley Lou Wilson World Turner was produced by Worlds Beyond Number Edit and Sound Design by Jino Jang-Hansen at Big Giant Head Score by Will Savino https://wsavino.com/ Head of Production and Operations: Melanie Bowman Social Media Manager: Shannon H Lorekeeper and Transcriptionist: Jack Morgan E.F. Lavandowska Recording Engineer: Rainie Toll Character Art by Elisabeth Mkheidze Cover Art by Lu Tomkiewicz Additional Game Design by Mazey Veselak You can find transcripts of all our episodes on our Patreon. Just navigate to the post for the episode and the transcript will be attached. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/52465498-1509-439a-8bae-5a0586d07e7b/6ea80a9c-95aa-4d65-ab75-81f95e7a20bc/3000x3000/world_turner_album_art_v6.png?aid=rss_feed",
+      "enclosure_url": "https://afp-970414-injected.calisto.simplecastaudio.com/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/3dcde846-24e1-409e-9fc3-bbef82477ffe/audio/128/default.mp3?aid=rss_feed&awCollectionId=796e3e14-8749-4922-8d84-ba47ea7afc1c&awEpisodeId=3dcde846-24e1-409e-9fc3-bbef82477ffe&feed=IAPnSSRO",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108221743",
+      "itunes_duration": "01:32:56",
+      "speakers": [
+        "World Turner",
+        "Meridian Hall Quiet",
+        "Content Warning",
+        "Brennan Lee Mulligan",
+        "Aabria Iyengar",
+        "Erika Ishii",
+        "Lou Wilson"
+      ],
+      "topics": [
+        "world",
+        "turner",
+        "meridian",
+        "hall"
+      ]
+    },
     {
       "key": "b96fb3569a40d1a1c63d787ad83556542a72c5b6",
       "title": "World Turner: Episode 5 - Concord Station",
@@ -2276,6 +2303,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-10 — World Turner: Episode 6 - Meridian Hall — speakers: World Turner, Meridian Hall Quiet, Content Warning, Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-10-27 — World Turner: Episode 5 - Concord Station — speakers: World Turner, Concord Station Together, Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-10-13 — World Turner: Episode 4 - Vix Bridge — speakers: World Turner, Vix Bridge, Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-09-29 — World Turner: Episode 3 - Bayview House — speakers: World Turner, Bayview House Everything, Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
