@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-11-04T01:27:22+00:00`
-- checked_at: `2026-11-04T01:27:22+00:00`
-- etag: `"djEuMi4wOjE3OTM3MzYwMzkzODQ="`
+- fetched_at: `2026-11-10T23:28:42+00:00`
+- checked_at: `2026-11-10T23:28:42+00:00`
+- etag: `"djEuMi4wOjE3OTQzNDA4MzkzNTg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-11-04T01:27:22+00:00",
+  "fetched_at": "2026-11-10T23:28:42+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a41a97ea608df2c3e2a0246175716ae2bff120de",
+      "title": "Ep. 67 Elections and Exaltations",
+      "published_at": "2026-11-10T20:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-67-elections-and-exaltations",
+      "description": "Raised walls and reflections tower around you as a never-before-felt energy fills the streets. Such environments can often bolster ones constitutions or drain it entirely. Keep an eye on the time or it can slip away from you in almost an instant, especially when one finds themselves surrounded by old friends and new adversaries. How do you weigh your actions against those who dream of brighter futures. Perhaps a set of scales will bring us closer to an answer. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6af163dfbaaf18ccf9903069/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "174014798",
+      "itunes_duration": "3:01:15",
+      "speakers": [
+        "Exaltations Raised",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "election",
+        "exaltation"
+      ]
+    },
     {
       "key": "de4cf86dc8542f51d82f27388217eff4d91f87d7",
       "title": "Action Surge Episode 66",
@@ -3468,6 +3493,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-10 — Ep. 67 Elections and Exaltations — speakers: Exaltations Raised, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-11-03 — Action Surge Episode 66 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-10-27 — Ep. 66 A Fiery Endorsement — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-10-20 — Action Surge Episode 65 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle

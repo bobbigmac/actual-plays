@@ -2,10 +2,10 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-11-10T07:27:10+00:00`
-- checked_at: `2026-11-10T07:27:10+00:00`
-- etag: `"559662e4e741c77e103f561933906b3b"`
-- last_modified: `Mon, 09 Nov 2026 17:00:29 GMT`
+- fetched_at: `2026-11-10T23:28:42+00:00`
+- checked_at: `2026-11-10T23:28:42+00:00`
+- etag: `"55d7bc3fedf7270883d1fe0d36bf202b"`
+- last_modified: `Tue, 10 Nov 2026 18:45:24 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://the-glass-cannon-podcast.simplecast.com",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/46109deb-f36d-4541-b12d-b5599c7ce340/3000x3000/gcp_sotb_podcast_platforms_graphic.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-10T07:27:10+00:00",
+  "fetched_at": "2026-11-10T23:28:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -146,7 +146,7 @@
       "title": "The Old Dwarf Mines | The Secret Fire Chapter 1 | The One Ring RPG",
       "published_at": "2026-11-04T05:00:00+00:00",
       "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-old-dwarf-mines-the-secret-fire-chapter-1-the-one-ring-rpg-w3AmnTDu",
-      "description": "A legendary treasure, guarded by a nameless thing dwelling in the dark. Cast: Paula Deming, Chris Grace, Jason Charles Miller, Skid Maher, and Jared Logan Logo and Original Artwork by Josh Fisher Title Sequence by CJ Paschall Access every available episode of The Secret Fire along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "description": "A legendary treasure, guarded by a nameless thing dwelling in the dark. Cast: Paula Deming, Chris Grace, Jason Charles Miller, Skid Maher, and Jared Logan Watch the video here: https://youtu.be/pNjYWU3l2gg Logo and Original Artwork by Josh Fisher Access every available episode of The Secret Fire along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/06ac1dc3-7790-4b41-a8ef-32a009efa8cd/3000x3000/tsflogo_with_artsquare4k_3000x3000.jpg?aid=rss_feed",
       "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/60ce75e4-c766-4a90-9eb4-2433be3e8047/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=60ce75e4-c766-4a90-9eb4-2433be3e8047&feed=UTUNOAis",
       "enclosure_type": "audio/mpeg",
@@ -261,7 +261,7 @@
       "title": "Kings of Men | The Secret Fire Prologue | The One Ring RPG",
       "published_at": "2026-10-28T04:00:00+00:00",
       "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/kings-of-men-the-secret-fire-prologue-the-one-ring-rpg-4I36saoT",
-      "description": "A company of heroes is gathered from the free peoples of Middle Earth in this session zero. Cast: Paula Deming, Chris Grace, Jason Charles Miller, Skid Maher, and Jared Logan Logo and Original Artwork by Josh Fisher Title Sequence by CJ Paschall Access every available episode of The Secret Fire along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "description": "A company of heroes is gathered from the free peoples of Middle Earth in this session zero. Cast: Paula Deming, Chris Grace, Jason Charles Miller, Skid Maher, and Jared Logan Watch the video here: https://youtu.be/beoCx4mf2Ts Logo and Original Artwork by Josh Fisher Access every available episode of The Secret Fire along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "image_url": "https://image.simplecastcdn.com/images/2a5b2793-8836-4839-a6db-63f4ba9ac5e7/1aab1931-5430-410f-ab65-16710c48179a/3000x3000/40c1640c5913369cd5dca6d97dd9ffed.jpg?aid=rss_feed",
       "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/bf868ef2-f253-40e6-9fa3-dc9155435eed/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=bf868ef2-f253-40e6-9fa3-dc9155435eed&feed=UTUNOAis",
       "enclosure_type": "audio/mpeg",
