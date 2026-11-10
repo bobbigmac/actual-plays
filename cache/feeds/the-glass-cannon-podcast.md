@@ -2,10 +2,10 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-11-09T11:44:55+00:00`
-- checked_at: `2026-11-09T11:44:55+00:00`
-- etag: `"34458c7ed4fbbce4481201ca718683a5"`
-- last_modified: `Mon, 09 Nov 2026 05:00:35 GMT`
+- fetched_at: `2026-11-10T07:27:10+00:00`
+- checked_at: `2026-11-10T07:27:10+00:00`
+- etag: `"559662e4e741c77e103f561933906b3b"`
+- last_modified: `Mon, 09 Nov 2026 17:00:29 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://the-glass-cannon-podcast.simplecast.com",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/46109deb-f36d-4541-b12d-b5599c7ce340/3000x3000/gcp_sotb_podcast_platforms_graphic.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-09T11:44:55+00:00",
+  "fetched_at": "2026-11-10T07:27:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "287f809bc5152308771172dd21cbf2a8055d1c32",
+      "title": "GCN Community Update November 9, 2026",
+      "published_at": "2026-11-09T17:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/gcn-community-update-november-9-2026-DBWolT5d",
+      "description": "The GCN Extra Life Marathon is in the books, Teenage Ninja Fighting School has an epic conclusion, and the call to arts returns to the reddit! Thank you so much to all of you who donated to the GCN team during our Extra Life Marathon. We are blown away by your generosity! And there is still time to donate! Head to https://dd.extra-life.org/team/74937 and help us raise money for the Children's Miracle Network! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/646bbaeb-01d5-41ec-ba31-d199e4d48bcb/3000x3000/gcn_community_update_logo.jpg?aid=rss_feed",
+      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/fb88c25d-0bdc-430f-9c24-1fee4afb24d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=fb88c25d-0bdc-430f-9c24-1fee4afb24d8&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "6538515",
+      "itunes_duration": "00:06:48",
+      "speakers": [
+        "Community Update November",
+        "Extra Life Marathon",
+        "Teenage Ninja Fighting School"
+      ],
+      "topics": [
+        "community",
+        "update",
+        "november"
+      ]
+    },
     {
       "key": "d357df31b129650a2a0f817de989886a5057dd94",
       "title": "Roll for Penmanship | Blood of the Wild S1 E47 | Pathfinder 2E Quest for the Frozen Flame",
@@ -21735,28 +21757,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "338b75f83bdb18becc710df615fe20a558a02494",
-      "title": "Spire Walk with Me | The Glass Cannon Podcast Giantslayer E101 | Pathfinder 1E",
-      "published_at": "2017-05-02T04:00:00+00:00",
-      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/spire-walk-with-me-the-glass-cannon-podcast-giantslayer-e101-pathfinder-1e-93pd9USj",
-      "description": "High above the cathedral, within the middle spire, old companions reunite. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/624f9e23-be5e-43a3-a15f-a008d555e7e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=624f9e23-be5e-43a3-a15f-a008d555e7e6&feed=UTUNOAis",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "73040307",
-      "itunes_duration": "01:15:30",
-      "speakers": [],
-      "topics": [
-        "spire",
-        "walk",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21765,6 +21765,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — GCN Community Update November 9, 2026 — speakers: Community Update November, Extra Life Marathon, Teenage Ninja Fighting School
 - 2026-11-09 — Roll for Penmanship | Blood of the Wild S1 E47 | Pathfinder 2E Quest for the Frozen Flame
 - 2026-11-07 — Blue Ball's Last Stand | Time For Chaos S4 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Blue Ball
 - 2026-11-06 — Wild Wood | The Glass Cannon Podcast: Shadows of the Broken E4 | Shadowdark RPG — speakers: Shadowdark Rpg
@@ -22764,4 +22765,3 @@
 - 2017-05-23 — Rock Me on the Dais | The Glass Cannon Podcast Giantslayer E104 | Pathfinder 1E
 - 2017-05-16 — Groghall Putsch | The Glass Cannon Podcast Giantslayer E103 | Pathfinder 1E — speakers: Groghall Putsch
 - 2017-05-09 — Spike Drop | The Glass Cannon Podcast Giantslayer E102 | Pathfinder 1E — speakers: Spike Drop
-- 2017-05-02 — Spire Walk with Me | The Glass Cannon Podcast Giantslayer E101 | Pathfinder 1E
