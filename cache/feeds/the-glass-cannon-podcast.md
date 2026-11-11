@@ -2,10 +2,10 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-11-10T23:28:42+00:00`
-- checked_at: `2026-11-10T23:28:42+00:00`
-- etag: `"55d7bc3fedf7270883d1fe0d36bf202b"`
-- last_modified: `Tue, 10 Nov 2026 18:45:24 GMT`
+- fetched_at: `2026-11-11T06:38:29+00:00`
+- checked_at: `2026-11-11T06:38:29+00:00`
+- etag: `"ec89b7696cab817bb14e224ef0968564"`
+- last_modified: `Wed, 11 Nov 2026 05:00:31 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://the-glass-cannon-podcast.simplecast.com",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/46109deb-f36d-4541-b12d-b5599c7ce340/3000x3000/gcp_sotb_podcast_platforms_graphic.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-10T23:28:42+00:00",
+  "fetched_at": "2026-11-11T06:38:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "166671e875000d7a4ea1a0b605acae68d0be1bcf",
+      "title": "The Ranger Haven | The Secret Fire Chapter 2 | The One Ring RPG",
+      "published_at": "2026-11-11T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-ranger-haven-the-secret-fire-chapter-2-the-one-ring-rpg-S5QEr6ri",
+      "description": "The secret homeland of the Rangers in the wild land over the river. Cast: Paula Deming, Chris Grace, Jason Charles Miller, Skid Maher, and Jared Logan Watch the video here: https://youtu.be/QEaaGka26Ec Logo and Original Artwork by Josh Fisher Access every available episode of The Secret Fire along with exclusive podcasts, ad-free episodes, and so much more at http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/0d5a56ae-40f0-45df-b9e3-b1f27557764f/3000x3000/tsflogo_with_artsquare4k_3000x3000.jpg?aid=rss_feed",
+      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/e8f2c215-731a-4848-bffe-aaab02aee306/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=e8f2c215-731a-4848-bffe-aaab02aee306&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102017260",
+      "itunes_duration": "01:46:12",
+      "speakers": [
+        "Paula Deming",
+        "Chris Grace"
+      ],
+      "topics": [
+        "ranger",
+        "haven",
+        "secret",
+        "fire",
+        "chapter",
+        "ring"
+      ]
+    },
     {
       "key": "287f809bc5152308771172dd21cbf2a8055d1c32",
       "title": "GCN Community Update November 9, 2026",
@@ -21733,30 +21757,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "349e9e2bb63f5c23585ffcfde3a6e382e8963b25",
-      "title": "Spike Drop | The Glass Cannon Podcast Giantslayer E102 | Pathfinder 1E",
-      "published_at": "2017-05-09T04:00:00+00:00",
-      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/spike-drop-the-glass-cannon-podcast-giantslayer-e102-pathfinder-1e-0FF4enBa",
-      "description": "With Della's fate lying precariously in the hands of Sir Will, the party is forced to make some major decisions on how to move forward. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/860abe3e-3507-4a11-b72c-7926a7f67ec5/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=860abe3e-3507-4a11-b72c-7926a7f67ec5&feed=UTUNOAis",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "91368244",
-      "itunes_duration": "01:34:35",
-      "speakers": [
-        "Spike Drop"
-      ],
-      "topics": [
-        "spike",
-        "drop",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21765,6 +21765,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — The Ranger Haven | The Secret Fire Chapter 2 | The One Ring RPG — speakers: Paula Deming, Chris Grace
 - 2026-11-09 — GCN Community Update November 9, 2026 — speakers: Community Update November, Extra Life Marathon, Teenage Ninja Fighting School
 - 2026-11-09 — Roll for Penmanship | Blood of the Wild S1 E47 | Pathfinder 2E Quest for the Frozen Flame
 - 2026-11-07 — Blue Ball's Last Stand | Time For Chaos S4 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Blue Ball
@@ -22764,4 +22765,3 @@
 - 2017-05-30 — Slag Film | The Glass Cannon Podcast Giantslayer E105 | Pathfinder 1E
 - 2017-05-23 — Rock Me on the Dais | The Glass Cannon Podcast Giantslayer E104 | Pathfinder 1E
 - 2017-05-16 — Groghall Putsch | The Glass Cannon Podcast Giantslayer E103 | Pathfinder 1E — speakers: Groghall Putsch
-- 2017-05-09 — Spike Drop | The Glass Cannon Podcast Giantslayer E102 | Pathfinder 1E — speakers: Spike Drop
