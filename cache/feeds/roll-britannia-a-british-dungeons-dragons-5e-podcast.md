@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-11-04T11:05:33+00:00`
-- checked_at: `2026-11-04T11:05:33+00:00`
-- etag: `"djEuMi4wOjE3OTM3NzkyMzk2ODE="`
+- fetched_at: `2026-11-11T17:14:11+00:00`
+- checked_at: `2026-11-11T17:14:11+00:00`
+- etag: `"djEuMi4wOjE3OTQzODQwMzk1NjI="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-11-04T11:05:33+00:00",
+  "fetched_at": "2026-11-11T17:14:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "db39c1ea013f78a98c53018390017f14201f640e",
+      "title": "Ep. 356: Jammed - Hand Over the Old Planny Poos | #DND",
+      "published_at": "2026-11-11T08:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this Dungeons and Dragons adventure, the search for Dr Valance finally reaches its destination, revealing a secret capable of changing far more than the skies above Galia. False plans, hidden schematics, and whispered intentions suggest that the struggle surrounding her work began long before the party arrived. As the Dice fall, escape suddenly becomes just as important as rescue, and the group must decide who can be trusted with a discovery that could reshape the world. For a moment, freedom seems almost within reach. Corridors fall behind them, the night sky opens ahead, and a waiting flyer promises a way out. But in this DnD story, the final obstacle does not wear the face anyone expected. A familiar stranger is waiting in the darkness, another name enters the game, and one sudden sound leaves everything uncertain. Who is Circumference, and why do they want Dr Valance’s work so badly? Why does the figure waiting at the landing stage look so disturbingly familiar? And when the silence finally breaks, who will still be standing? There's only one way to find out, grab your Dnd Dice, join Dungeon Master James , Alex ( Lance Goodthrust ), Chip ( Feets Duo ) and Special Guests from Roll From the Hip , Tom Mayo ( Lady Violence ) and Tom Midgely ( Togali ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1791266560548-e448e0f6-bae0-4eeb-8269-ddf33dc6e864.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6ac48f14924bc02b558bce97/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49662328",
+      "itunes_duration": "51:43",
+      "speakers": [],
+      "topics": [
+        "jammed",
+        "hand",
+        "planny",
+        "poos"
+      ]
+    },
     {
       "key": "1feb92f709a91d5f7fb351456039315f291134dc",
       "title": "Ep. 355 : Ashes of Arcathia - A Loose Cannon on the Verge of a Pub Crawl | Halloween Special 2026 | #DND",
@@ -8279,6 +8298,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — Ep. 356: Jammed - Hand Over the Old Planny Poos | #DND
 - 2026-11-04 — Ep. 355 : Ashes of Arcathia - A Loose Cannon on the Verge of a Pub Crawl | Halloween Special 2026 | #DND
 - 2026-10-31 — Ep. 354: Ashes of Arcathia - The Hum Is Stronger Here | Halloween Bonus 2026 | #DND
 - 2026-10-28 — Ep. 353: Ashes of Arcathia - Bovril Through a Carrot | Halloween Special 2026 | #DND

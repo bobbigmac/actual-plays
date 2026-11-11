@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-10-30T22:26:59+00:00`
-- checked_at: `2026-10-30T22:26:59+00:00`
-- last_modified: `Thu, 29 Oct 2026 19:08:13 GMT`
+- fetched_at: `2026-11-11T17:14:11+00:00`
+- checked_at: `2026-11-11T17:14:11+00:00`
+- last_modified: `Wed, 11 Nov 2026 08:00:03 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-30T22:26:59+00:00",
+  "fetched_at": "2026-11-11T17:14:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "b64f57ea579e37fd8bc591f335b7e61e0c410221",
+      "title": "C03 - Ep. 56 - Under Oondar Fire - Death Drop Deliverance",
+      "published_at": "2026-11-11T08:00:00+00:00",
+      "link": null,
+      "description": "Brutaliteam sneaks into the Sanctuary of the Silent Steed just in time for Giggy to go through some changes. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new merch at store.stinkydragonpod.com - Dice, Player Character Tees, Blankets, Hoodies, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4f2a8d3c-dadb-11f0-a213-afbdefb1b31d/image/dd5cf5d2c76ef64c0ec2e42a421975ae.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/485/traffic.megaphone.fm/GLSS6424556370.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5491",
+      "speakers": [],
+      "topics": [
+        "oondar",
+        "fire",
+        "death",
+        "drop",
+        "deliverance"
+      ]
+    },
     {
       "key": "3c2014d8e3157b4825fc00e1767103ce04eb0c6e",
       "title": "C03 - Ep. 55 - Under Oondar Fire - Prospector? I Hardly Know Her!",
@@ -4523,6 +4543,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — C03 - Ep. 56 - Under Oondar Fire - Death Drop Deliverance
 - 2026-10-28 — C03 - Ep. 55 - Under Oondar Fire - Prospector? I Hardly Know Her! — speakers: bearing structures, Dixie Drillers
 - 2026-10-14 — C03 - Ep. 54 - Under Oondar Fire - Pinkies Pinkies Everywhere! — speakers: secret sigils
 - 2026-09-30 — C03 - Ep. 53 - Under Oondar Fire - Headin' to the Weddin' — speakers: Shady Pines Mines
