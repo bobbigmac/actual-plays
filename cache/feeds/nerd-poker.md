@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-11-05T11:05:57+00:00`
-- checked_at: `2026-11-05T11:05:57+00:00`
-- etag: `"508b3e9cf560c2d474f57611aab354e4"`
-- last_modified: `Thu, 05 Nov 2026 02:35:56 GMT`
+- fetched_at: `2026-11-12T11:26:47+00:00`
+- checked_at: `2026-11-12T11:26:47+00:00`
+- etag: `"1614896dd3c4eee80ea3f4d945828763"`
+- last_modified: `Thu, 12 Nov 2026 07:08:51 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-11-05T11:05:57+00:00",
+  "fetched_at": "2026-11-12T11:26:47+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "3d4760b46dd46be5a64854540f1bb876f48e1498",
+      "title": "The Cavern Campaign - Episode 13",
+      "published_at": "2026-11-12T07:07:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-cavern-campaign-episode-13",
+      "description": "Well, if we must enter a labyrinth, let's at least torture some monsters and try to get them to do the whole dungeon for us. For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more, be sure to head to nerdpokerpod.com",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S8-013-20261103-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "137759168",
+      "itunes_duration": "57:24",
+      "speakers": [
+        "Brian Posehn"
+      ],
+      "topics": [
+        "cavern",
+        "campaign"
+      ]
+    },
     {
       "key": "8b3747f73e637653c5e264f21d926f7b51e6c83f",
       "title": "The Cavern Campaign - Episode 12",
@@ -9355,6 +9374,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — The Cavern Campaign - Episode 13 — speakers: Brian Posehn
 - 2026-11-05 — The Cavern Campaign - Episode 12 — speakers: Brian Posehn
 - 2026-10-28 — The Cavern Campaign - Episode 11 — speakers: Brian Posehn
 - 2026-10-21 — The Cavern Campaign - Episode 10 — speakers: Brian Posehn
