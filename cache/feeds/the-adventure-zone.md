@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-10-29T18:31:31+00:00`
-- checked_at: `2026-10-29T18:31:31+00:00`
-- etag: `"cbdaddb3e0ba6d8048f5e7822d3c0766"`
-- last_modified: `Thu, 29 Oct 2026 11:00:20 GMT`
+- fetched_at: `2026-11-12T20:02:04+00:00`
+- checked_at: `2026-11-12T20:02:04+00:00`
+- etag: `"372a7483295243065263378bc40eac66"`
+- last_modified: `Thu, 12 Nov 2026 12:00:23 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/9ba52d4c-4e8c-4203-a3de-be89969671f2/19f0432c-ab24-49c1-946c-6c5e76f33ed8/3000x3000/cropped_1791393495062.jpg?aid=rss_feed",
-  "fetched_at": "2026-10-29T18:31:31+00:00",
+  "fetched_at": "2026-11-12T20:02:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "eedddb4ba575b0082a1c4659218a43dc0aaabbf0",
+      "title": "The Adventure Zone Providence: Episode 4",
+      "published_at": "2026-11-12T12:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-providence-episode-4-ZNkk0zzm",
+      "description": "The gods split up to respectively investigate the most suspicious parts of the island: the chapel, a broken toilet, and a surprsingly convoluted game of cards. We're playing Super Normal from Ursidice: https://ursidice.com/supernormal/ Original Music by Griffin McElroy Additional Music in this Episode: \"Creeping Scary Atmosphere for Night Scenes\", \"Unsettling Horror Atmosphere for Psychological Thrillers\" by Alex Morgan: https://freemusicarchive.org/music/alex-morgan/; \"Atlantis\" by Jason Shaw: https://audionautix.com/; and \"Ancient\" by Lightning Traveler: https://open.spotify.com/artist/1oLhhXyQ8Xf4CUrO7Ir0vU. Native American Aid: https://nativepartnership.org/naa/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
+      "image_url": null,
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/b51d3b8e-5d4d-41e4-a0bf-d07152c061d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=b51d3b8e-5d4d-41e4-a0bf-d07152c061d9&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72693568",
+      "itunes_duration": "01:00:01",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "providence"
+      ]
+    },
     {
       "key": "87c7b1ff6c9597636883b0764281f324bc20154a",
       "title": "The Adventure Zone Providence: Episode 3",
@@ -8221,6 +8239,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — The Adventure Zone Providence: Episode 4
 - 2026-10-29 — The Adventure Zone Providence: Episode 3 — speakers: Tintatbula Spira
 - 2026-10-15 — The Adventure Zone Providence: Episode 2
 - 2026-10-01 — The Adventure Zone Providence: Episode 1
