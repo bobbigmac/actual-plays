@@ -2,10 +2,10 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-11-12T11:26:47+00:00`
-- checked_at: `2026-11-12T11:26:47+00:00`
-- etag: `"d2dab71c4e293f485e0074b492788fee"`
-- last_modified: `Thu, 12 Nov 2026 05:00:28 GMT`
+- fetched_at: `2026-11-13T11:09:47+00:00`
+- checked_at: `2026-11-13T11:09:47+00:00`
+- etag: `"97596fdb7921ee2d6f6790d81c36a550"`
+- last_modified: `Fri, 13 Nov 2026 05:00:36 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://the-glass-cannon-podcast.simplecast.com",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/46109deb-f36d-4541-b12d-b5599c7ce340/3000x3000/gcp_sotb_podcast_platforms_graphic.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-12T11:26:47+00:00",
+  "fetched_at": "2026-11-13T11:09:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "70d39321b1ca471f30dccbe56995c1a8d8d98550",
+      "title": "They Are Coming | The Glass Cannon Podcast: Shadows of the Broken E5 | Shadowdark RPG",
+      "published_at": "2026-11-13T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/they-are-coming-the-glass-cannon-podcast-shadows-of-the-broken-e5-shadowdark-rpg-Pw_viWGx",
+      "description": "A modest inn gives the weary heroes a brief respite from the dangers and uncertainty of the countryside, but will they let their guard down? Watch the video here: https://youtu.be/KGljQ4kFGLs Get BONUS CONTENT every week at ⁠ http://jointhenaish.com ⁠, including After Dark, our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at https://foundryvtt.com/gcp Check out Crucible, free to all Foundry VTT license owners: https://foundryvtt.com/packages/crucible Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at https://norsefoundry.com Members of the Naish get EARLY ACCESS to Norse Foundry's Black Friday Sale. Get 30% off anything in the store with code \"GCP30\" Go to https://surfshark.com/glasscannon or use code \"GLASSCANNON\" at checkout to get 4 extra months of Surfshark! Enter the Shadowdark at your gaming table by visiting https://www.thearcanelibrary.com/?utm_source=glasscannon Explore Dolmenwood at your own gaming table by visiting https://dolmenwood.com Executive Producer and Gamemaster: Joe O'Brien Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Kate Stamas Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Quality Assurance: Brian McDermott Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5b Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/fcdd43dd-2e16-40ce-b101-f82299c4eb48/3000x3000/gcp_4005_podcast.png?aid=rss_feed",
+      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/778a3b4c-a065-4783-8388-5b8324ac937b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=778a3b4c-a065-4783-8388-5b8324ac937b&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89870906",
+      "itunes_duration": "01:33:36",
+      "speakers": [
+        "Shadowdark Rpg"
+      ],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "shadow",
+        "shadowdark"
+      ]
+    },
     {
       "key": "48910335ae84434b06cb807037f126be647051c9",
       "title": "GCN Plays... Teenage Ninja Fighting School Part 2 | Omnihedral",
@@ -21693,27 +21715,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "916c54010d66fd67c194c5508ccc71df97ffccef",
-      "title": "Going Going Back Back to Valley Valley | The Glass Cannon Podcast Giantslayer E124 | Pathfinder 1E",
-      "published_at": "2017-10-10T04:00:00+00:00",
-      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/going-going-back-back-to-valley-valley-the-glass-cannon-podcast-giantslayer-e124-pathfinder-1e-sgMJlHk2",
-      "description": "With all four elements needed to relight Minderhal's Forge finally in hand, the party must find their way back behind the palisade surrounding Minderhal's Cathedral to rejoin their allies. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/4e674f5f-fa0f-4143-a015-0e004c3918e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=4e674f5f-fa0f-4143-a015-0e004c3918e7&feed=UTUNOAis",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "60861528",
-      "itunes_duration": "01:02:48",
-      "speakers": [],
-      "topics": [
-        "valley",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21722,6 +21723,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-13 — They Are Coming | The Glass Cannon Podcast: Shadows of the Broken E5 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-11-12 — GCN Plays... Teenage Ninja Fighting School Part 2 | Omnihedral — speakers: Teenage Ninja Fighting School
 - 2026-11-11 — The Ranger Haven | The Secret Fire Chapter 2 | The One Ring RPG — speakers: Paula Deming, Chris Grace
 - 2026-11-09 — GCN Community Update November 9, 2026 — speakers: Community Update November, Extra Life Marathon, Teenage Ninja Fighting School
@@ -22721,4 +22723,3 @@
 - 2017-10-31 — Stop Dragon My Heart Around | The Glass Cannon Podcast Giantslayer E127 | Pathfinder 1E
 - 2017-10-24 — Sunday in the Park with Forge | The Glass Cannon Podcast Giantslayer E126 | Pathfinder 1E
 - 2017-10-17 — Raz to the Occasion | The Glass Cannon Podcast Giantslayer E125 | Pathfinder 1E
-- 2017-10-10 — Going Going Back Back to Valley Valley | The Glass Cannon Podcast Giantslayer E124 | Pathfinder 1E

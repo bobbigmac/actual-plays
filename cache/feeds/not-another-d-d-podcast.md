@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-11-06T11:03:10+00:00`
-- checked_at: `2026-11-06T11:03:10+00:00`
-- last_modified: `Fri, 06 Nov 2026 03:47:56 GMT`
+- fetched_at: `2026-11-13T11:09:47+00:00`
+- checked_at: `2026-11-13T11:09:47+00:00`
+- last_modified: `Fri, 13 Nov 2026 05:51:06 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-11-06T11:03:10+00:00",
+  "fetched_at": "2026-11-13T11:09:47+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,31 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "55d63af1f7960681c3f09a058ce6c1d8b4038e8d",
+      "title": "Surprise Round! - Grin and (Fozzie) Bear It",
+      "published_at": "2026-11-13T05:30:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/1b23b93d-c7e1-4a36-a0bf-1fb64d885261",
+      "description": "Welcome to Surprise Round! A show inspired by our love of unhinged hypotheticals. On today's episode, Discussion Master Murphy leads his Arachnid Askers through a series of skittering scenarios that may or MAY NOT feature the Grinch. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/9c/ec/46/44/9cec4644-849a-4eeb-8297-7ac5fb6c4fe4/18f7efd0bf21c9b0ab143109e5e32333a90d9bd9121a14e52ccddaadf47b65fe8241d9fe18bfaa0cb6b043179dead096c848db31cc613331f4d513fec42c84b5.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/1b23b93d-c7e1-4a36-a0bf-1fb64d885261.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61741766",
+      "itunes_duration": "01:04:18",
+      "speakers": [
+        "Surprise Round",
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "round",
+        "grin",
+        "fozzie",
+        "bear"
+      ]
+    },
     {
       "key": "4834d69d93e0b6f34f8ef84f9b8112818954919b",
       "title": "Skaldova Season 2 - Ep. 6: The Island in the Pond",
@@ -11655,6 +11680,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-13 — Surprise Round! - Grin and (Fozzie) Bear It — speakers: Surprise Round, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-11-05 — Skaldova Season 2 - Ep. 6: The Island in the Pond — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-10-29 — Skaldova Season 2 - Ep. 5: The Wood Road (w/ Nathan Yaffe!) — speakers: Nathan Yaffe, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-10-23 — D&D Court : Dice-Eating Dogs, Squeamish Little Freaks and The Baldur's Gate Betrayal — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
