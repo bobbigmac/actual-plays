@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-11-06T11:03:10+00:00`
-- checked_at: `2026-11-06T11:03:10+00:00`
-- etag: `"21ad7b8018cc8641ae196656d994c558"`
-- last_modified: `Tue, 03 Nov 2026 20:37:18 GMT`
+- fetched_at: `2026-11-14T10:37:15+00:00`
+- checked_at: `2026-11-14T10:37:15+00:00`
+- etag: `"e38392cc1a5c71a3fb0ae58fa38fffb1"`
+- last_modified: `Sat, 14 Nov 2026 04:57:36 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-11-06T11:03:10+00:00",
+  "fetched_at": "2026-11-14T10:37:15+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "bfa1cb6cc58b076475acbeede4c211a82b76834f",
+      "title": "Perpetua 55: Up and Down 03",
+      "published_at": "2026-11-14T03:28:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-55-up-and-down-03",
+      "description": "The sky is bright in Lumai, but not as bright as it will be soon, as Lucena's glowing moon comes ever closer in-line with the sun itself. What will that light reveal? The location of a dark goddess? The truth of a scholar's lost magic? The plans of Elevana League's most powerful mage? Or perhaps something subtler, softer: the heart of a prince from far away? This week on Perpetua: Up and Down 03 Perpetua Guide [In Progress v.062] Some Feedback [Page 79 of 82] Doom_Tree_Anne So it seems like FriendofNei is getting close to the big showdown in Lumai. I've already played past there, so I'll hold my tongue, but I'm sooo curious what everyone thinks is going to happen! CarlsSr Betrayal. Obviously. Alukard83 Who would betray who? That doesn't make any sense. Is Team ABC even close enough to anyone to be 'betrayed by them,' or to betray each other? xXZelgasykXx I'm not sure that's how betrayal works. You don't have to be friends with someone to betray them. Trust can be fickle or temporary, but if you've given it to someone, it's still betrayal. TheDiamondRanger The dictionary my mom got me says that betrayal = \"deceiving by trickery\" and that fickle = \"deceptive or capricious\" and that capricious = \"governed by caprice\" and that caprice = \"a sudden and impulsive action\" Just in case anyone was wondering. TheUnforgivenIII I think Caoimhe is finally gonna track down Aegir and beat the absolute $#!+ out of him! But at the last second, Aegir is gonna get super powered by the sun, and then start whooping her @$$. In like a duel, one on one, you know, mano-e-mano, but then, at the last second Antistrophe is going to show up and shieldcharge in and stomp a mudhole into Aegir. But hten Aegir will grab him by the throat and be like \"You don't have any power anymore, you fool!\" And then Antistrophe will realize he does have power, and get his magic back, and blast Aegir's head off like in that F'd up movie about the psychics. Brotne will probably eat some little cakes, cuz he's a real cake-eater. Doom_Tree_Anne Hmm. I'll leave that last part for the mods to deal with. But I have to say, Unforgiven, I didn't expect you to be such a relationshipper for Antistrophe and Caoimhe! Not my pair, but I think it's cute that you like them! n.n;;; TheUnforgivenIII Ew, I don't do any of that fanfic BS, I just think they're a good pair in fights, because one is a master of the blade (Caoimhe) and one is a shield expert (Antistrophe). Once Antistrophe gets his powers back, they're going to be equals, and I don't think anyone will be able to stop them in Disc 2. TheDiamondRanger What's a relationshipper??? That isn't in my dictionary Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Janine Hawkins ( @bleatingheart ), Sylvi Bullet ( @sylvibullet ), and Keith J Carberry ( @keithjcarberry ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": "https://static.libsyn.com/p/assets/b/d/6/5/bd65dd9e9b958c355f2e77a3093c12a1/fatt_perpetua.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_55_Up_and_Down_03.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117060016",
+      "itunes_duration": "01:57:42",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua"
+      ]
+    },
     {
       "key": "3aa76555c820aac0cbf0b40031342e752876e0e3",
       "title": "Perpetua 54: Up and Down 02",
@@ -11761,6 +11779,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-14 — Perpetua 55: Up and Down 03 — speakers: Austin Walker
 - 2026-11-03 — Perpetua 54: Up and Down 02 — speakers: Antistrophe Landrace, Austin Walker
 - 2026-10-25 — Perpetua 53: Up and Down 01 — speakers: Elevana League, Austin Walker
 - 2026-10-09 — Perpetua 52: At the Threshold 04 — speakers: Austin Walker
