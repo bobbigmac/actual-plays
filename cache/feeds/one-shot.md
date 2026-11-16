@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-11-16T06:43:12+00:00`
-- checked_at: `2026-11-16T06:43:12+00:00`
-- last_modified: `Mon, 16 Nov 2026 04:49:09 GMT`
+- fetched_at: `2026-11-16T19:40:45+00:00`
+- checked_at: `2026-11-16T19:40:45+00:00`
+- last_modified: `Mon, 16 Nov 2026 16:11:40 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/8e75fc9d6dbbc2142cca11c14acfdea1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-16T06:43:12+00:00",
+  "fetched_at": "2026-11-16T19:40:45+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "04673ca67c229f983f98fa762a01849d838549af",
+      "title": "672. To Feel Your Warmth ft. ⁠Edward Spence",
+      "published_at": "2026-11-16T11:00:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY Thomas comes knocking on his ex’s door, desperate to be let back into her life, now that his mortal one has ended. Playing To Feel Your Warmth. CW: toxic relationship dynamics, grief, bleed SHOW NOTES To Feel Your Warmth One Shot News & Updates One Shot Patreon One Shot TWITCH Follow the cast here! Edward Spence - Thomas Dillin Apelyan - Ellie ----------------------------------------------------- ICE Watch Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Official To Feel Your Warmth theme song by BE/HOLD Editing and sound design by Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN9567194025.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5144",
+      "speakers": [
+        "Edward Spence",
+        "James D'Amato"
+      ],
+      "topics": [
+        "warmth",
+        "spence"
+      ]
+    },
     {
       "key": "530f74a6c36ac3da0865f8d4c7bc5b37934346d3",
       "title": "671. The House Edge, Episode 2",
@@ -13698,6 +13718,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — 672. To Feel Your Warmth ft. ⁠Edward Spence — speakers: Edward Spence, James D'Amato
 - 2026-11-10 — 671. The House Edge, Episode 2 — speakers: James D'Amato
 - 2026-10-27 — 670. The House Edge, Episode 1 — speakers: James D'Amato
 - 2026-10-19 — 669. Fetch My Blade — speakers: James D'Amato

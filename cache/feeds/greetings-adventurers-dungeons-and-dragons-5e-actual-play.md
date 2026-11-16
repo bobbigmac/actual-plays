@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-11-09T22:28:21+00:00`
-- checked_at: `2026-11-09T22:28:21+00:00`
-- etag: `"djEuMi4wOjE3OTQyNDAwMzk1Nzc="`
+- fetched_at: `2026-11-16T19:40:45+00:00`
+- checked_at: `2026-11-16T19:40:45+00:00`
+- etag: `"djEuMi4wOjE3OTQ4NDQ4Mzk1Mzc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-11-09T22:28:21+00:00",
+  "fetched_at": "2026-11-16T19:40:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "8f2617d689c94528190ada1636c944fe2e30f822",
+      "title": "Bachmann's Quest E1: The Well is Perfectly Safe",
+      "published_at": "2026-11-16T16:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/bachmanns-quest-e1-the-well-is-perfectly-safe",
+      "description": "Welcome to a world of magic and mayhem straight from the mind of Mike Bachmann. We rolled up new characters up to level 5, but we actually start as level 0 children. Sure, we'll grow up soon, but for now we are still weak little babies who would get beat up by a goat or two. Hopefully our characters will survive long enough to get to level one and maybe get some dang class. A new adventure begins with Maggot Stinson ( Nika Howard ) , Petra “Peet” Cigarette ( Jennifer Cheek ) , Hob Hawthorne ( Michael DiMauro ) , Tommy Cigarette ( Tim Lanning ) , and our Dungeon Master Mike Bachmann . Edited by Vincent. Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1794842144166-f38104bd-0407-4aab-86ec-583e3104902e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6afb1e738ed174b3492a6a99/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116553687",
+      "itunes_duration": "1:20:55",
+      "speakers": [
+        "Mike Bachmann"
+      ],
+      "topics": [
+        "bachmann",
+        "quest"
+      ]
+    },
     {
       "key": "dad79ca5f9cde3bf2b3d5ce0406d24abe9654711",
       "title": "Bachmann's Campaign: Session 0",
@@ -12784,6 +12803,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — Bachmann's Quest E1: The Well is Perfectly Safe — speakers: Mike Bachmann
 - 2026-11-09 — Bachmann's Campaign: Session 0
 - 2026-11-02 — Owari no Hajimari: Episode 4
 - 2026-10-26 — Owari no Hajimari: Episode 3
