@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-11-10T17:06:16+00:00`
-- checked_at: `2026-11-10T17:06:16+00:00`
-- etag: `"2258919bcbf10907bf2fa67d99b93d9d"`
-- last_modified: `Sun, 08 Nov 2026 14:59:33 GMT`
+- fetched_at: `2026-11-16T06:43:12+00:00`
+- checked_at: `2026-11-16T06:43:12+00:00`
+- etag: `"ce76b0d11b9879c2e5c44bf8196417f7"`
+- last_modified: `Mon, 16 Nov 2026 00:37:50 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! linktr.ee/albertthellama",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-11-10T17:06:16+00:00",
+  "fetched_at": "2026-11-16T06:43:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "de5159c18cd806ebe16ba654a8e96d0415fbb36c",
+      "title": "A Shot At Redemption E21 - Ashes",
+      "published_at": "2026-11-16T00:30:00+00:00",
+      "link": "https://forcemajeurepod.libsyn.com/a-shot-at-redemption-e21-ashes",
+      "description": "Grievous blows have been dealt, both to our heroes and to the town they call their home. With wounds still very raw, it's time to sift through the ashes and see what remains... Cast! Adam Beltaine is your GM, and can be found on Bluesky as @maddambeltaine.bsky.social Lou plays Tryk C Rangavoon, and can be found on Bluesky at @magpiehound.bsky.social Mikey plays Jax Vorn, and can be found on Bluesky at @weaselpunk.bsky.social Tom plays Kip Kazian and can be found on Bluesky at @tcpatrick.bsky.social as well as GMing the wonderful Dice Company podcast Geoff plays Kalro Vatts, and sensibly has no social media presence Follow us on social media! All our links can now be found here: linktr.ee/albertthellama Support Albert the Llama Enterprises! If you like what we do and have some spare money, we have both a Patreon and a Ko-Fi account. We are extremely grateful for your support. https://www.patreon.com/forcemajeurepod ko-fi.com/forcemajeurepod Intro and Supplemental Music: Composed by Sly Fox Audio - check out more of her stuff on soundcloud.com/slyfoxaudio Additional Music: \"Dark Hollows\" \"Nightfall\" \"Mourning Melodies\" \"Apocalypse Blues\" by Alexander Nakarada ( https://creatorchords.com/ ) \"Imperial Pursuit (Music only Patreon Exclusive Version)\" \"Imperial Pursuit (Ambient only Patreon Exclusive Version)\" by Tabletop Audio ( www.tabletopaudio.com ) \"Cursed Stories\" by Myuu / Nicholas Gasparini ( https://www.thedarkpiano.com/ ) All used with gratitude under the Creative Commons licence",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/forcemajeurepod/Redemption_E21.mp3?dest-id=604132",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41130605",
+      "itunes_duration": "33:38",
+      "speakers": [],
+      "topics": [
+        "shot",
+        "redemption",
+        "ashes"
+      ]
+    },
     {
       "key": "b0cc7881baba48d7323dd1176a5ba41653494250",
       "title": "A Shot At Redemption E20 - The Weight Of All My Sins",
@@ -4679,6 +4697,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — A Shot At Redemption E21 - Ashes
 - 2026-11-02 — A Shot At Redemption E20 - The Weight Of All My Sins
 - 2026-10-18 — A Shot At Redemption E19 - Hammer To Fall — speakers: Adam Beltaine
 - 2026-10-04 — A Shot At Redemption E18 - The Numbers Don't Add Up — speakers: Add Up Only

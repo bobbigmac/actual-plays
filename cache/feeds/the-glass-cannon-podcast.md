@@ -2,10 +2,10 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-11-14T10:37:15+00:00`
-- checked_at: `2026-11-14T10:37:15+00:00`
-- etag: `"ad26400946a647fbbe1199615eda2545"`
-- last_modified: `Sat, 14 Nov 2026 05:00:33 GMT`
+- fetched_at: `2026-11-16T06:43:12+00:00`
+- checked_at: `2026-11-16T06:43:12+00:00`
+- etag: `"03d21f040ae7dca20540fe658ba58be8"`
+- last_modified: `Mon, 16 Nov 2026 05:00:35 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://the-glass-cannon-podcast.simplecast.com",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/46109deb-f36d-4541-b12d-b5599c7ce340/3000x3000/gcp_sotb_podcast_platforms_graphic.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-14T10:37:15+00:00",
+  "fetched_at": "2026-11-16T06:43:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,31 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "ea1208acbf2149c30f97d19da2e6d46e4b8f352e",
+      "title": "Pakano's Dad | Blood of the Wild S1 E48 | Pathfinder 2E Quest for the Frozen Flame",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/pakanos-dad-blood-of-the-wild-s1-e48-pathfinder-2e-quest-for-the-frozen-flame-aF3P2_lD",
+      "description": "Confrontations and reunions back at the camp of the Broken Tusk. Access every available episode of Blood of the Wild along with exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/c7dde2b3-60ff-4e64-9695-60479e418e8d/3000x3000/blood_of_the_wild_final.jpg?aid=rss_feed",
+      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/a97e7ead-a663-4894-8f82-7fdf02a034f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=a97e7ead-a663-4894-8f82-7fdf02a034f4&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56595962",
+      "itunes_duration": "00:58:56",
+      "speakers": [
+        "Frozen Flame Confrontations",
+        "Broken Tusk"
+      ],
+      "topics": [
+        "pakano",
+        "blood",
+        "wild",
+        "pathfinder",
+        "quest",
+        "frozen",
+        "flame"
+      ]
+    },
     {
       "key": "da02fecbb408c53b0494c7c339d3e37a9d98dd85",
       "title": "The Old Ways | Time For Chaos S4 E17 | Call of Cthulhu Masks of Nyarlathotep",
@@ -21694,29 +21719,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "aefef7b9aa87ea12074774ded33b5f536da8dc31",
-      "title": "Sunday in the Park with Forge | The Glass Cannon Podcast Giantslayer E126 | Pathfinder 1E",
-      "published_at": "2017-10-24T04:00:00+00:00",
-      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/sunday-in-the-park-with-forge-the-glass-cannon-podcast-giantslayer-e126-pathfinder-1e-UaioEkN1",
-      "description": "They've explored Minderhal's Valley top to bottom, the ancient relics have been gathered and the time has come to light the forge. Will the party go through with it and what obstacles still stand in the way regardless of their decision?!!? For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/5bbfa4ea-d60a-47a2-abd1-830e8313adb0/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=5bbfa4ea-d60a-47a2-abd1-830e8313adb0&feed=UTUNOAis",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "88323981",
-      "itunes_duration": "01:31:25",
-      "speakers": [],
-      "topics": [
-        "sunday",
-        "park",
-        "forge",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21725,6 +21727,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — Pakano's Dad | Blood of the Wild S1 E48 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame Confrontations, Broken Tusk
 - 2026-11-14 — The Old Ways | Time For Chaos S4 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jackson Elias
 - 2026-11-13 — They Are Coming | The Glass Cannon Podcast: Shadows of the Broken E5 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-11-12 — GCN Plays... Teenage Ninja Fighting School Part 2 | Omnihedral — speakers: Teenage Ninja Fighting School
@@ -22724,4 +22727,3 @@
 - 2017-11-14 — Statue of Limitations | The Glass Cannon Podcast Giantslayer E129 | Pathfinder 1E
 - 2017-11-07 — Slag! You're it! | The Glass Cannon Podcast Giantslayer E128 | Pathfinder 1E
 - 2017-10-31 — Stop Dragon My Heart Around | The Glass Cannon Podcast Giantslayer E127 | Pathfinder 1E
-- 2017-10-24 — Sunday in the Park with Forge | The Glass Cannon Podcast Giantslayer E126 | Pathfinder 1E
