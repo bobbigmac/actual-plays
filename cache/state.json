@@ -201,8 +201,8 @@
       "last_modified": "Thu, 09 Jul 2026 12:00:21 GMT"
     },
     "cosmic-crit-a-starfinder-actual-play-podcast": {
-      "last_checked_at": "2026-11-17T03:58:13+00:00",
-      "last_checked_unix": 1794887900,
+      "last_checked_at": "2026-11-17T16:10:35+00:00",
+      "last_checked_unix": 1794931840,
       "last_modified": "Mon, 09 Nov 2026 05:05:00 GMT",
       "consecutive_failures": 0
     },
@@ -245,13 +245,13 @@
       "consecutive_failures": 0
     },
     "dungeons-and-daddies": {
-      "last_checked_at": "2026-11-03T19:33:54+00:00",
-      "last_checked_unix": 1793734436,
-      "etag": "\"djEuMi4wOjE3OTM3MjUyMzk1Njc=\""
+      "last_checked_at": "2026-11-17T16:10:35+00:00",
+      "last_checked_unix": 1794931839,
+      "etag": "\"djEuMi4wOjE3OTQ4NzE2NjQ0MDA=\""
     },
     "worlds-beyond-number": {
-      "last_checked_at": "2026-11-17T03:58:13+00:00",
-      "last_checked_unix": 1794887895,
+      "last_checked_at": "2026-11-17T16:10:35+00:00",
+      "last_checked_unix": 1794931838,
       "etag": "\"fdc45661e1279c547090e3f49cad2e9c\"",
       "last_modified": "Tue, 10 Nov 2026 10:00:23 GMT"
     },
@@ -260,8 +260,8 @@
       "last_checked_unix": 1790746803
     },
     "dodoborne-a-daggerheart-actual-play-podcast": {
-      "last_checked_at": "2026-11-17T03:58:13+00:00",
-      "last_checked_unix": 1794887895,
+      "last_checked_at": "2026-11-17T16:10:35+00:00",
+      "last_checked_unix": 1794931839,
       "etag": "W/\"91e44761f594e4711c6e1fe9af69ee45\"",
       "last_modified": "Fri, 06 Nov 2026 20:47:35 GMT"
     },
@@ -285,8 +285,8 @@
       "consecutive_failures": 0
     },
     "dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast": {
-      "last_checked_at": "2026-11-17T03:58:13+00:00",
-      "last_checked_unix": 1794887896,
+      "last_checked_at": "2026-11-17T16:10:35+00:00",
+      "last_checked_unix": 1794931839,
       "last_modified": "Wed, 11 Nov 2026 08:00:01 GMT",
       "consecutive_failures": 0
     },
@@ -340,10 +340,10 @@
       "disabled_reason": "3 consecutive failures"
     },
     "green-box-gaming": {
-      "last_checked_at": "2026-11-10T17:06:16+00:00",
-      "last_checked_unix": 1794330380,
-      "etag": "\"fc0597faa6b00f0a904312f74dfba878\"",
-      "last_modified": "Tue, 10 Nov 2026 14:00:25 GMT"
+      "last_checked_at": "2026-11-17T16:10:35+00:00",
+      "last_checked_unix": 1794931840,
+      "etag": "\"639d72bb561f0d888b2fc74176ffb529\"",
+      "last_modified": "Tue, 17 Nov 2026 14:00:21 GMT"
     },
     "greetings-adventurers-dungeons-and-dragons-5e-actual-play": {
       "last_checked_at": "2026-11-16T19:40:45+00:00",
@@ -375,9 +375,9 @@
       "last_modified": "Wed, 17 Jun 2026 22:53:53 GMT"
     },
     "high-rollers-dnd": {
-      "last_checked_at": "2026-11-17T03:58:13+00:00",
-      "last_checked_unix": 1794887895,
-      "last_modified": "Tue, 17 Nov 2026 01:51:51 GMT"
+      "last_checked_at": "2026-11-17T16:10:35+00:00",
+      "last_checked_unix": 1794931840,
+      "last_modified": "Tue, 17 Nov 2026 08:24:05 GMT"
     },
     "how-we-roll-podcast": {
       "last_checked_at": "2026-09-29T22:21:27+00:00",
@@ -463,14 +463,14 @@
       "disabled_reason": "3 consecutive failures"
     },
     "archives-fandible-actual-play-podcast": {
-      "last_checked_at": "2026-11-17T03:58:13+00:00",
-      "last_checked_unix": 1794887896,
-      "etag": "\"3fc446282ee1cf90aacf943068b173d8\"",
+      "last_checked_at": "2026-11-17T16:10:35+00:00",
+      "last_checked_unix": 1794931841,
+      "etag": "\"e4d54b3610067368be390a958f3bf556\"",
       "consecutive_failures": 0
     },
     "realms-of-peril-glory-an-actual-play-anthology": {
-      "last_checked_at": "2026-11-17T03:58:13+00:00",
-      "last_checked_unix": 1794887897,
+      "last_checked_at": "2026-11-17T16:10:35+00:00",
+      "last_checked_unix": 1794931843,
       "last_modified": "Mon, 16 Nov 2026 14:00:57 GMT"
     },
     "realmsmith-presents-into-the-mist-live-dnd-podcast": {
@@ -495,9 +495,9 @@
       "etag": "\"djEuMi4wOjE3OTQzODQwMzk1NjI=\""
     },
     "roll-the-hard-20-podcast": {
-      "last_checked_at": "2026-11-17T03:58:13+00:00",
-      "last_checked_unix": 1794887897,
-      "etag": "W/\"8e17deac6a2a4db14ed1f1abeef2660f\"",
+      "last_checked_at": "2026-11-17T16:10:35+00:00",
+      "last_checked_unix": 1794931844,
+      "etag": "W/\"7f35773be06eba20369cdddd9c005ce7\"",
       "consecutive_failures": 0
     },
     "rotating-heroes": {
@@ -623,10 +623,10 @@
       "etag": "W/\"49394-93rvOhz/mk4TnDZc3ZR9MzxFgjI\""
     },
     "the-glass-cannon-podcast": {
-      "last_checked_at": "2026-11-16T06:43:12+00:00",
-      "last_checked_unix": 1794811398,
-      "last_modified": "Mon, 16 Nov 2026 05:00:35 GMT",
-      "etag": "\"03d21f040ae7dca20540fe658ba58be8\""
+      "last_checked_at": "2026-11-17T16:10:35+00:00",
+      "last_checked_unix": 1794931844,
+      "last_modified": "Mon, 16 Nov 2026 17:59:27 GMT",
+      "etag": "\"ea8bd3c000173faef8b0bb0acb1dc32b\""
     },
     "the-heresies-of-radulf-burntwine": {
       "last_checked_at": "2026-11-16T19:40:45+00:00",
@@ -728,8 +728,8 @@
       "last_modified": "Thu, 29 Oct 2026 17:39:44 GMT"
     },
     "who-lives-who-dice": {
-      "last_checked_at": "2026-11-17T03:58:13+00:00",
-      "last_checked_unix": 1794887899,
+      "last_checked_at": "2026-11-17T16:10:35+00:00",
+      "last_checked_unix": 1794931847,
       "etag": "\"38cf2556dc0e6bb49281209eb5974297\"",
       "last_modified": "Sun, 03 May 2026 08:52:08 GMT",
       "consecutive_failures": 0
@@ -741,5 +741,5 @@
       "etag": "W/\"b031b-LD7/U/lZqze7YJg7MAgKzhv4Rjg\""
     }
   },
-  "updated_at": "2026-11-17T03:58:13+00:00"
+  "updated_at": "2026-11-17T16:10:35+00:00"
 }

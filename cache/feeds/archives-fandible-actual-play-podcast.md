@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-11-14T01:28:56+00:00`
-- checked_at: `2026-11-14T01:28:56+00:00`
-- etag: `"3fc446282ee1cf90aacf943068b173d8"`
+- fetched_at: `2026-11-17T16:10:35+00:00`
+- checked_at: `2026-11-17T16:10:35+00:00`
+- etag: `"e4d54b3610067368be390a958f3bf556"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-11-14T01:28:56+00:00",
+  "fetched_at": "2026-11-17T16:10:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "08067743848fdf7dd14883a093743e5e048302a1",
+      "title": "Roll for Shoes: Asteroid Annihilation ep 3",
+      "published_at": "2026-11-17T05:01:48+00:00",
+      "link": "https://fandible.com/roll-for-shoes-asteroid-annihilation-ep-3/",
+      "description": "The lethal plans of the asteroid come to fruition as the inhabitants try to survive a rather bullish problem. The post Roll for Shoes: Asteroid Annihilation ep 3 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/462_RFS_AsteroidAnnihilation/Fan_823_RFS_AsteroidAnnihilationep3.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27828891",
+      "itunes_duration": "32:15",
+      "speakers": [
+        "Asteroid Annihilation"
+      ],
+      "topics": [
+        "roll",
+        "shoe",
+        "asteroid",
+        "annihilation"
+      ]
+    },
     {
       "key": "1b412a956991af64d5f0886fe6e8512297c24cb3",
       "title": "Roll for Shoes: Asteroid Annihilation ep 2",
@@ -11374,26 +11395,6 @@
         "heavy",
         "metal"
       ]
-    },
-    {
-      "key": "3bebc1ecd4c35839f68662a5bca47adae23dee60",
-      "title": "Final Girl: No Vacancy",
-      "published_at": "2016-10-14T18:44:12+00:00",
-      "link": "https://fandible.com/final-girl-no-vacancy/",
-      "description": "Imaginary terror becomes all too real as four attendees at a horror convention find themselves, victim, of a deadly and horrible force. The post Final Girl: No Vacancy appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/196_FG_NoVacancy/Fan_318_FG_NoVacancy.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "64050376",
-      "itunes_duration": "2:12:15",
-      "speakers": [
-        "Final Girl",
-        "No Vacancy Imaginary"
-      ],
-      "topics": [
-        "girl",
-        "vacancy"
-      ]
     }
   ]
 }
@@ -11402,6 +11403,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-17 — Roll for Shoes: Asteroid Annihilation ep 3 — speakers: Asteroid Annihilation
 - 2026-11-10 — Roll for Shoes: Asteroid Annihilation ep 2 — speakers: Asteroid Annihilation
 - 2026-11-03 — Roll for Shoes: Asteroid Annihilation ep 1 — speakers: Michele Drozdic
 - 2026-09-27 — Rust Buckets: Familiar Flesh part 2 — speakers: Rust Buckets, Familiar Flesh
@@ -12001,4 +12003,3 @@
 - 2016-11-04 — Lasers & Feelings: Pirate Booty — speakers: Pirate Booty Two
 - 2016-10-28 — Chronicles of Darkness: Old Hat
 - 2016-10-21 — The End of the World : Heavy Metal
-- 2016-10-14 — Final Girl: No Vacancy — speakers: Final Girl, No Vacancy Imaginary

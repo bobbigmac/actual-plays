@@ -2,9 +2,9 @@
 
 - slug: `high-rollers-dnd`
 - source: `https://feeds.megaphone.fm/NSR8625352094`
-- fetched_at: `2026-11-17T03:58:13+00:00`
-- checked_at: `2026-11-17T03:58:13+00:00`
-- last_modified: `Tue, 17 Nov 2026 01:51:51 GMT`
+- fetched_at: `2026-11-17T16:10:35+00:00`
+- checked_at: `2026-11-17T16:10:35+00:00`
+- last_modified: `Tue, 17 Nov 2026 08:24:05 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://highrollersdnd.libsyn.com/website",
   "description": "Welcome to High Rollers, a live-play Dungeons & Dragons podcast! Join Dungeon Master Mara Holmes and her players as they explore Altheya: The Dragon Empire on Europe's biggest independent TTRPG stream. Episodes go live Tuesdays and Thursdays, or watch live every Sunday at 5pm UK Time on twitch.tv/highrollersdnd or youtube.com/highrollersdnd!",
   "image_url": "https://megaphone.imgix.net/podcasts/b072907c-ca95-11eb-b4a3-f71bfb3de22d/image/PodcastV1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-17T03:58:13+00:00",
+  "fetched_at": "2026-11-17T16:10:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "7cd43afcfc3dad5e14c68d5486f57121884b4f18",
+      "title": "A City in Flames | Return of Strahd #3",
+      "published_at": "2026-11-17T08:00:00+00:00",
+      "link": null,
+      "description": "Strahd has returned (surprise surprise) as the party try to survive in a dramatically upturned Barovia! _______________ Boost your Charisma with some HR merch! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://highrollersdnd.teemill.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Add official High Rollers Minis to your TTRPG collection here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://only-games.co/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Bless your table with the Clever Toad Dice Set: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://dispeldice.com/collections/high-rollers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Enhance your bath time experience with the official Altheya themed DiceBombs at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://geekyclean.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠! Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.highrollersdnd.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for all the latest HR News! Love the podcast? Give us a glittering 5 star review! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://podcasts.apple.com/us/podcast/high-rollers-dnd/id1401508198?see-all=reviews⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Music courtesy of Epidemic Sound, TCT Adventures (Solasta: Crown of the Magisters), Monument Studios and Jolene Khor! Check out Jolene Khor and all her wonderful work on High Rollers on Spotify: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/artist/1WX3ICiTmf4GpHwImnQMs6⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/25e1b220-e228-11f1-a971-d7e2d22a32f7/image/c6edd92b6f5d072dff873b6d01b718a2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR3672339683.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6141",
+      "speakers": [],
+      "topics": [
+        "city",
+        "flames",
+        "return",
+        "strahd"
+      ]
+    },
     {
       "key": "a4508cc7964e6af3bbd0fc06d2c141eefc207fb7",
       "title": "Heart of the Mire | Return of Strahd #2",
@@ -15331,6 +15350,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-17 — A City in Flames | Return of Strahd #3
 - 2026-11-10 — Heart of the Mire | Return of Strahd #2
 - 2026-11-03 — Bad Night for a Curse | Return of Strahd #1
 - 2026-10-22 — A Reckoning | Altheya: The Dragon Empire #123 (Part 2)

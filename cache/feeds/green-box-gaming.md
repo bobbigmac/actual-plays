@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-11-10T17:06:16+00:00`
-- checked_at: `2026-11-10T17:06:16+00:00`
-- etag: `"fc0597faa6b00f0a904312f74dfba878"`
-- last_modified: `Tue, 10 Nov 2026 14:00:25 GMT`
+- fetched_at: `2026-11-17T16:10:35+00:00`
+- checked_at: `2026-11-17T16:10:35+00:00`
+- etag: `"639d72bb561f0d888b2fc74176ffb529"`
+- last_modified: `Tue, 17 Nov 2026 14:00:21 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-11-10T17:06:16+00:00",
+  "fetched_at": "2026-11-17T16:10:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "85696f9cae4cefc5384a3cb9df992e4a7209d4bf",
+      "title": "Ep16 | Delta Green: Convergence - First Contact?",
+      "published_at": "2026-11-17T14:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/3268653",
+      "description": "H-Cell can't believe their eyes as the mystery in Groversville comes to a head! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/3268653/green-box-gaming/2026_10_27_04_36_09_8f8f5d2c-79c1-4dc0-9858-f2a80be23265.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65063287",
+      "itunes_duration": "4066",
+      "speakers": [
+        "Delta Green",
+        "First Contact"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "convergence",
+        "contact"
+      ]
+    },
     {
       "key": "a96b6df7ffabc43c7a5d356341c7224a9f174f16",
       "title": "Ep15 | Delta Green: Convergence - Drain the Swamp",
@@ -4512,6 +4534,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-17 — Ep16 | Delta Green: Convergence - First Contact? — speakers: Delta Green, First Contact
 - 2026-11-10 — Ep15 | Delta Green: Convergence - Drain the Swamp — speakers: City Hall handled
 - 2026-11-03 — Ep14 | Delta Green: Convergence - Meeting Adjourned — speakers: Delta Green, City Hall
 - 2026-10-27 — Ep13 | Delta Green: Convergence - Smooth as Silk — speakers: Delta Green, City Hall
