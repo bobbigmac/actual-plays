@@ -201,8 +201,8 @@
       "last_modified": "Thu, 09 Jul 2026 12:00:21 GMT"
     },
     "cosmic-crit-a-starfinder-actual-play-podcast": {
-      "last_checked_at": "2026-11-16T19:40:45+00:00",
-      "last_checked_unix": 1794858050,
+      "last_checked_at": "2026-11-17T03:58:13+00:00",
+      "last_checked_unix": 1794887900,
       "last_modified": "Mon, 09 Nov 2026 05:05:00 GMT",
       "consecutive_failures": 0
     },
@@ -250,8 +250,8 @@
       "etag": "\"djEuMi4wOjE3OTM3MjUyMzk1Njc=\""
     },
     "worlds-beyond-number": {
-      "last_checked_at": "2026-11-16T19:40:45+00:00",
-      "last_checked_unix": 1794858047,
+      "last_checked_at": "2026-11-17T03:58:13+00:00",
+      "last_checked_unix": 1794887895,
       "etag": "\"fdc45661e1279c547090e3f49cad2e9c\"",
       "last_modified": "Tue, 10 Nov 2026 10:00:23 GMT"
     },
@@ -260,8 +260,8 @@
       "last_checked_unix": 1790746803
     },
     "dodoborne-a-daggerheart-actual-play-podcast": {
-      "last_checked_at": "2026-11-16T19:40:45+00:00",
-      "last_checked_unix": 1794858048,
+      "last_checked_at": "2026-11-17T03:58:13+00:00",
+      "last_checked_unix": 1794887895,
       "etag": "W/\"91e44761f594e4711c6e1fe9af69ee45\"",
       "last_modified": "Fri, 06 Nov 2026 20:47:35 GMT"
     },
@@ -285,8 +285,8 @@
       "consecutive_failures": 0
     },
     "dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast": {
-      "last_checked_at": "2026-11-16T19:40:45+00:00",
-      "last_checked_unix": 1794858048,
+      "last_checked_at": "2026-11-17T03:58:13+00:00",
+      "last_checked_unix": 1794887896,
       "last_modified": "Wed, 11 Nov 2026 08:00:01 GMT",
       "consecutive_failures": 0
     },
@@ -375,9 +375,9 @@
       "last_modified": "Wed, 17 Jun 2026 22:53:53 GMT"
     },
     "high-rollers-dnd": {
-      "last_checked_at": "2026-11-16T19:40:45+00:00",
-      "last_checked_unix": 1794858048,
-      "last_modified": "Tue, 10 Nov 2026 08:13:47 GMT"
+      "last_checked_at": "2026-11-17T03:58:13+00:00",
+      "last_checked_unix": 1794887895,
+      "last_modified": "Tue, 17 Nov 2026 01:51:51 GMT"
     },
     "how-we-roll-podcast": {
       "last_checked_at": "2026-09-29T22:21:27+00:00",
@@ -463,14 +463,14 @@
       "disabled_reason": "3 consecutive failures"
     },
     "archives-fandible-actual-play-podcast": {
-      "last_checked_at": "2026-11-16T19:40:45+00:00",
-      "last_checked_unix": 1794858050,
+      "last_checked_at": "2026-11-17T03:58:13+00:00",
+      "last_checked_unix": 1794887896,
       "etag": "\"3fc446282ee1cf90aacf943068b173d8\"",
       "consecutive_failures": 0
     },
     "realms-of-peril-glory-an-actual-play-anthology": {
-      "last_checked_at": "2026-11-16T19:40:45+00:00",
-      "last_checked_unix": 1794858050,
+      "last_checked_at": "2026-11-17T03:58:13+00:00",
+      "last_checked_unix": 1794887897,
       "last_modified": "Mon, 16 Nov 2026 14:00:57 GMT"
     },
     "realmsmith-presents-into-the-mist-live-dnd-podcast": {
@@ -495,9 +495,9 @@
       "etag": "\"djEuMi4wOjE3OTQzODQwMzk1NjI=\""
     },
     "roll-the-hard-20-podcast": {
-      "last_checked_at": "2026-11-16T19:40:45+00:00",
-      "last_checked_unix": 1794858050,
-      "etag": "W/\"7d42b5a242586314ea882715fab93f39\"",
+      "last_checked_at": "2026-11-17T03:58:13+00:00",
+      "last_checked_unix": 1794887897,
+      "etag": "W/\"8e17deac6a2a4db14ed1f1abeef2660f\"",
       "consecutive_failures": 0
     },
     "rotating-heroes": {
@@ -665,9 +665,9 @@
       "etag": "\"djEuMi4wOjE3OTQzNDA4MzkzNTg=\""
     },
     "the-apocalypse-players": {
-      "last_checked_at": "2026-11-09T22:28:21+00:00",
-      "last_checked_unix": 1794263306,
-      "etag": "\"ccd96fbe1a3cb066b5a6fcf9939a1e55\""
+      "last_checked_at": "2026-11-17T03:58:13+00:00",
+      "last_checked_unix": 1794887899,
+      "etag": "\"12246db5345d8eafe4e0c10854097d58\""
     },
     "the-otherplace-an-actual-play-rpg-podcast": {
       "last_checked_at": "2026-06-17T22:53:47+00:00",
@@ -728,8 +728,8 @@
       "last_modified": "Thu, 29 Oct 2026 17:39:44 GMT"
     },
     "who-lives-who-dice": {
-      "last_checked_at": "2026-11-16T19:40:45+00:00",
-      "last_checked_unix": 1794858052,
+      "last_checked_at": "2026-11-17T03:58:13+00:00",
+      "last_checked_unix": 1794887899,
       "etag": "\"38cf2556dc0e6bb49281209eb5974297\"",
       "last_modified": "Sun, 03 May 2026 08:52:08 GMT",
       "consecutive_failures": 0
@@ -741,5 +741,5 @@
       "etag": "W/\"b031b-LD7/U/lZqze7YJg7MAgKzhv4Rjg\""
     }
   },
-  "updated_at": "2026-11-16T19:40:45+00:00"
+  "updated_at": "2026-11-17T03:58:13+00:00"
 }
