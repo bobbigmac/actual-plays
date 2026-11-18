@@ -2,10 +2,10 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-11-17T16:10:35+00:00`
-- checked_at: `2026-11-17T16:10:35+00:00`
-- etag: `"ea8bd3c000173faef8b0bb0acb1dc32b"`
-- last_modified: `Mon, 16 Nov 2026 17:59:27 GMT`
+- fetched_at: `2026-11-18T11:52:57+00:00`
+- checked_at: `2026-11-18T11:52:57+00:00`
+- etag: `"9d58aebf3b57893b1a356e394e366857"`
+- last_modified: `Wed, 18 Nov 2026 05:00:51 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://the-glass-cannon-podcast.simplecast.com",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/46109deb-f36d-4541-b12d-b5599c7ce340/3000x3000/gcp_sotb_podcast_platforms_graphic.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-17T16:10:35+00:00",
+  "fetched_at": "2026-11-18T11:52:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "80f5fd10b035c3c8c494382ba0c9800a35cff0c4",
+      "title": "The Ruined Tower | The Secret Fire Chapter 3 | The One Ring RPG",
+      "published_at": "2026-11-18T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/the-ruined-tower-the-secret-fire-chapter-3-the-one-ring-rpg-EbaY80fS",
+      "description": "The road goes ever on, and our company follows it into adventure. Cast: Paula Deming, Chris Grace, Jason Charles Miller, Skid Maher, and Jared Logan Watch the video here: https://youtu.be/9z78irOiiyg Logo and Original Artwork by Josh Fisher Access every available episode of The Secret Fire along with exclusive podcasts, ad-free episodes, and so much more at http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/6f1a0901-1f87-4c6e-91bc-714555d8e6ce/3000x3000/tsflogo_with_artsquare4k_3000x3000.jpg?aid=rss_feed",
+      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/77cd1d1c-89ea-41af-942d-4184c9395c47/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=77cd1d1c-89ea-41af-942d-4184c9395c47&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117211817",
+      "itunes_duration": "02:02:02",
+      "speakers": [
+        "Paula Deming",
+        "Chris Grace"
+      ],
+      "topics": [
+        "ruined",
+        "tower",
+        "secret",
+        "fire",
+        "chapter",
+        "ring"
+      ]
+    },
     {
       "key": "2330cd076f5dda600803f915a5a34ce4370493bf",
       "title": "GCN Community Update November 16, 2026",
@@ -21696,27 +21720,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "d3d124b647af675fe4984c817f0b0181b2438a15",
-      "title": "Slag! You're it! | The Glass Cannon Podcast Giantslayer E128 | Pathfinder 1E",
-      "published_at": "2017-11-07T05:00:00+00:00",
-      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/slag-you-re-it-the-glass-cannon-podcast-giantslayer-e128-pathfinder-1e-c43UCVap",
-      "description": "With the ritual to relight Minderhal's Forge complete, Etena turns her attention to the heroes, demanding that they hand over Agrimmosh, the Hammer of Unmaking. Claiming to no longer have it, the party must face the wrath of Etena as well as the ancient guardians of the forge. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/dcd0d66c-4f6a-4745-a7ad-879425598a70/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=dcd0d66c-4f6a-4745-a7ad-879425598a70&feed=UTUNOAis",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "89656476",
-      "itunes_duration": "01:32:48",
-      "speakers": [],
-      "topics": [
-        "slag",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21725,6 +21728,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — The Ruined Tower | The Secret Fire Chapter 3 | The One Ring RPG — speakers: Paula Deming, Chris Grace
 - 2026-11-16 — GCN Community Update November 16, 2026 — speakers: Community Update November
 - 2026-11-16 — Pakano's Dad | Blood of the Wild S1 E48 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame Confrontations, Broken Tusk
 - 2026-11-14 — The Old Ways | Time For Chaos S4 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jackson Elias
@@ -22724,4 +22728,3 @@
 - 2017-11-28 — Give and Let Die | The Glass Cannon Podcast Giantslayer E131 | Pathfinder 1E
 - 2017-11-21 — +21 Jump Street | The Glass Cannon Podcast Giantslayer E130 | Pathfinder 1E — speakers: Jump Street
 - 2017-11-14 — Statue of Limitations | The Glass Cannon Podcast Giantslayer E129 | Pathfinder 1E
-- 2017-11-07 — Slag! You're it! | The Glass Cannon Podcast Giantslayer E128 | Pathfinder 1E

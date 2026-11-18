@@ -2,9 +2,9 @@
 
 - slug: `dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast`
 - source: `https://rss.art19.com/dumbgeons-and-dragons`
-- fetched_at: `2026-11-11T17:14:11+00:00`
-- checked_at: `2026-11-11T17:14:11+00:00`
-- last_modified: `Wed, 11 Nov 2026 08:00:01 GMT`
+- fetched_at: `2026-11-18T11:52:57+00:00`
+- checked_at: `2026-11-18T11:52:57+00:00`
+- last_modified: `Wed, 18 Nov 2026 08:00:07 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.dumbdragons.com/",
   "description": "Dumbgeons & Dragons is a funny, rules-light Dungeons & Dragons actual play podcast where friends tell epic stories full of heart, chaos, and ridiculous choices. Whether you’re new to D&D, just learning the ropes, or a longtime fan who loves a lighthearted adventure, you’ll feel right at home at our table. Campaign 2 (Seasons 3 & 4) begins in the gritty city of Vintersmouth—a place of secrets, schemes, and spontaneous street magic. This season is the perfect place to jump in, with a fresh cast of characters and a mystery that pulls them deep into a city on the edge. Start with Episode 301: Let’s Begin Again! Featuring fast-paced storytelling, character-driven arcs, improv comedy, and zero gatekeeping, Dumbgeons & Dragons is your cozy-but-chaotic fantasy fix. New episodes every other Wednesday. Support the show and get bonus episodes at patreon.com/dumbdragoncast Website, Transcripts, and More: dumbdragons.com",
   "image_url": "https://content.production.cdn.art19.com/images/f3/8f/9a/30/f38f9a30-68d2-46ca-87f1-4261dbe574e5/dc447b9659ef194b4fefd29c9bde8d0344f5519fb86dfca67d4122b062044b0c6c10ebfc0dca39f8ec2ecc2b5d2894d6ae621c12620cea9f553a42508c664e65.jpeg",
-  "fetched_at": "2026-11-11T17:14:11+00:00",
+  "fetched_at": "2026-11-18T11:52:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "fb1942444a27e5f548364876d0ab99d35319bf4e",
+      "title": "When Is A Foyer Not A Foyer? (Campaign 2 – S4E67)",
+      "published_at": "2026-11-18T07:00:00+00:00",
+      "link": "https://art19.com/shows/dumbgeons-and-dragons/episodes/92936b9b-dab6-4c3f-8962-aacce8cde8eb",
+      "description": "In this week's episode... the team has unlocked a secret underground passage in the Lingersville Academy that presents a new series of rooms with more questions than lessons. 🎲 Dumbgeons & Dragons is a beginner-friendly, rules-light actual play podcast where Canadian friends create inclusive D&D adventures full of improv comedy, supportive storytelling, and zero gatekeeping. ✨ Campaign 2 - Perfect for New Listeners: Fresh characters, new world, cozy table vibes that feel like playing with friends who actually want you there. - - - - - - - - - - 💖 SUPPORT THE SHOW 🔥 Join 200+ Patrons for bonus episodes, early access, and exclusive content! → Patreon.com/dumbdragoncast (7-day free trial + merch after 3 months!) - - - - - - - - - - 🛍️ Merch Store: dumbdragons.dashery.com 📱 All Our Links: linktr.ee/dumbdragons - - - - - - - - - - 🎭 CAST & CREW Players: Amy More, Carla Maxted, Tom Laird and Kyle Claset DM: Russ More Dialogue Editing & Sound Design: Russ More Music & Sound Effects: Epidemic Sound, BOOM Library, Sound Ideas Cover Art: Matt Garbutt (@artmonkeymg on Instagram) See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/3d/47/ce/7c/3d47ce7c-418c-4252-8361-bcd047df95b8/41c0f3a85a1d1580f247d86389a8ee8cdac6feacee41df710a90d5a4959d7bc15d00bdec089415a5c525c6137382aaacfd3fcddf1ad038e531c9a6e485d072c9.jpeg",
+      "enclosure_url": "https://swap.fm/track/WgbGgxzM3MFRwjmX5fnx/op3.dev/e/pscrb.fm/rss/p/rss.art19.com/episodes/92936b9b-dab6-4c3f-8962-aacce8cde8eb.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37721652",
+      "itunes_duration": "00:39:17",
+      "speakers": [
+        "Foyer Not",
+        "Lingersville Aca"
+      ],
+      "topics": [
+        "foyer",
+        "campaign"
+      ]
+    },
     {
       "key": "3fbd44b54a0d9bdc2f43207dd06df53f28a09bf8",
       "title": "Know What Grinds My Gears? (Campaign 2 – S4E66)",
@@ -7044,6 +7064,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — When Is A Foyer Not A Foyer? (Campaign 2 – S4E67) — speakers: Foyer Not, Lingersville Aca
 - 2026-10-28 — Know What Grinds My Gears? (Campaign 2 – S4E66) — speakers: Know What Grinds My
 - 2026-10-14 — Nailing Down Core Memories (Campaign 2 – S4E65) — speakers: Nailing Down Core Memories, Memory Class
 - 2026-09-30 — Investigating the Observation Room (Campaign 2 – S4E64) — speakers: Observation Room, Lingersville Academy

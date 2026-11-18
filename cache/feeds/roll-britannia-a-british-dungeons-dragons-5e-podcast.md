@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-11-11T17:14:11+00:00`
-- checked_at: `2026-11-11T17:14:11+00:00`
-- etag: `"djEuMi4wOjE3OTQzODQwMzk1NjI="`
+- fetched_at: `2026-11-18T11:52:57+00:00`
+- checked_at: `2026-11-18T11:52:57+00:00`
+- etag: `"djEuMi4wOjE3OTQ5ODg4NDEyOTE="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-11-11T17:14:11+00:00",
+  "fetched_at": "2026-11-18T11:52:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "adfd57f47a5dc5f7afea265ab3f1e9cc14a8662e",
+      "title": "Ep. 357: Jammed - The Flying Danishman | #DND",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this Dungeons and Dragons adventure, the party makes a frantic bid for freedom aboard an experimental vessel quickly christened the Flying Danishman. Bullets ricochet, divine magic answers in unexpected ways, and Noah the shark once again proves that nature has very little interest in sensible anatomy. As the Dice fall, the group escapes into the skies with their prize intact, but survival leaves little room for celebration. Because in this DnD story, escape does not necessarily mean safety. Something has been forgotten, the ship contains more than anyone realised, and one seemingly harmless discovery begins to tick its way towards becoming a considerably larger problem. Somewhere behind them, the facility is still very much awake and somewhere ahead, the consequences of what they have stolen are only beginning to take shape. Why did Reacher abandon the fight so easily? What else is hidden aboard the Flying Danishman? And when the ticking finally stops, will there still be a ship left to land? There's only one way to find out, grab your Dnd Dice, join Dungeon Master James , Alex ( Lance Goodthrust ), Chip ( Feets Duo ) and Special Guests from Roll From the Hip , Tom Mayo ( Lady Violence ) and Tom Midgely ( Togali ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1791396804176-2d8e3dfc-bb70-4cb7-83de-bdc6a1197bfa.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6ac68cef8f34078889784e7d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84802078",
+      "itunes_duration": "58:28",
+      "speakers": [],
+      "topics": [
+        "jammed",
+        "flying",
+        "danishman"
+      ]
+    },
     {
       "key": "db39c1ea013f78a98c53018390017f14201f640e",
       "title": "Ep. 356: Jammed - Hand Over the Old Planny Poos | #DND",
@@ -8298,6 +8316,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — Ep. 357: Jammed - The Flying Danishman | #DND
 - 2026-11-11 — Ep. 356: Jammed - Hand Over the Old Planny Poos | #DND
 - 2026-11-04 — Ep. 355 : Ashes of Arcathia - A Loose Cannon on the Verge of a Pub Crawl | Halloween Special 2026 | #DND
 - 2026-10-31 — Ep. 354: Ashes of Arcathia - The Hum Is Stronger Here | Halloween Bonus 2026 | #DND
