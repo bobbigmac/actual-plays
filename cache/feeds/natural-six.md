@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-11-10T23:28:42+00:00`
-- checked_at: `2026-11-10T23:28:42+00:00`
-- etag: `"djEuMi4wOjE3OTQzNDA4MzkzNTg="`
+- fetched_at: `2026-11-18T01:00:12+00:00`
+- checked_at: `2026-11-18T01:00:12+00:00`
+- etag: `"djEuMi4wOjE3OTQ5NDU2Mzk1NTE="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-11-10T23:28:42+00:00",
+  "fetched_at": "2026-11-18T01:00:12+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "282783096188289ad2e258fee6444218bd00d9cf",
+      "title": "Action Surge Episode 67",
+      "published_at": "2026-11-17T20:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-67",
+      "description": "Harry immediately abuses his power as a Dungeon Master to make everyone lick eachother. This would be a good time to remind you that this is definitely not a cult. The gang talks through the various mechanics and machinations of this episode, featuring teleportation, the electoral process and one heck of a WET. ASS. It’s an episode of hijinks to be sure. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6af163c9d2403d966138fbfc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67293889",
+      "itunes_duration": "46:42",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "a41a97ea608df2c3e2a0246175716ae2bff120de",
       "title": "Ep. 67 Elections and Exaltations",
@@ -3493,6 +3517,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-17 — Action Surge Episode 67 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-11-10 — Ep. 67 Elections and Exaltations — speakers: Exaltations Raised, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-11-03 — Action Surge Episode 66 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-10-27 — Ep. 66 A Fiery Endorsement — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle

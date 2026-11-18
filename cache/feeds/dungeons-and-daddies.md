@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-11-17T16:10:35+00:00`
-- checked_at: `2026-11-17T16:10:35+00:00`
-- etag: `"djEuMi4wOjE3OTQ4NzE2NjQ0MDA="`
+- fetched_at: `2026-11-18T01:00:12+00:00`
+- checked_at: `2026-11-18T01:00:12+00:00`
+- etag: `"djEuMi4wOjE3OTQ5MzQ4Mzk3NTk="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-11-17T16:10:35+00:00",
+  "fetched_at": "2026-11-18T01:00:12+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -32,6 +32,29 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "6664ce76c636b292dd566e9c5ac130834384343a",
+      "title": "S4 Ep. 21 - The Meowman Prophecies",
+      "published_at": "2026-11-17T17:00:00+00:00",
+      "link": "https://patreon.com/dungeonsanddads",
+      "description": "you’re the psychic you tell me This episode contains Profanity, Violence, and Sexual Content. Also, did you miss out on our Dungeons and Daddies: Not a BDSM Sourcebook crowdfund campaign? Our Late Pledge Store is now open, so you still have a chance to contribute to our zany literary antics. Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1794871379313-f00aec6a-87b6-4ae3-a471-6e79947b88d2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/6afb9170889bfdd97565b12e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "133096070",
+      "itunes_duration": "1:31:54",
+      "speakers": [
+        "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
+      ],
+      "topics": [
+        "meowman",
+        "prophecy"
+      ]
+    },
     {
       "key": "38e6d4efc3f7d5f55c9bd38c66f12d79b53bfe04",
       "title": "S4 Ep. 20 - A-ja - Take On Me (Official Episode)[4k]",
@@ -5003,6 +5026,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-17 — S4 Ep. 21 - The Meowman Prophecies — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-11-03 — S4 Ep. 20 - A-ja - Take On Me (Official Episode)[4k] — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-10-20 — S4 Ep. 19 - Death Cab, Four Cuties — speakers: Death Cab, Chris Nolan, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-10-06 — S4 Ep. 18 - Heartbreak Fridge — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos

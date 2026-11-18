@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-11-08T19:44:36+00:00`
-- checked_at: `2026-11-08T19:44:36+00:00`
+- fetched_at: `2026-11-18T01:00:12+00:00`
+- checked_at: `2026-11-18T01:00:12+00:00`
 - etag: `W/"91e44761f594e4711c6e1fe9af69ee45"`
-- last_modified: `Fri, 06 Nov 2026 20:47:35 GMT`
+- last_modified: `Tue, 17 Nov 2026 22:01:25 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://feeds.transistor.fm/dodoborne",
   "description": "DodoBorne is an improvised comedy storytelling podcast where five friends dive into Daggerheart, the tabletop roleplaying game from Darrington Press. Whether you're looking for adventure, romance, mystery, or nonsense, DodoBorne offers a welcoming mix of humor, heart, and collaborative storytelling that we hope will keep you coming back for more. With Season 3 serving as a fresh starting point for new viewers, there's never been a better time to join the flock! New episodes air the first Tuesday of every month.",
   "image_url": "https://megaphone.imgix.net/podcasts/05e7c1b6-d144-11f1-a5e4-83b221d68cbd/image/39deffe8f882beb99d144e5676f4ba83.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-08T19:44:36+00:00",
+  "fetched_at": "2026-11-18T01:00:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
