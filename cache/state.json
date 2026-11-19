@@ -201,8 +201,8 @@
       "last_modified": "Thu, 09 Jul 2026 12:00:21 GMT"
     },
     "cosmic-crit-a-starfinder-actual-play-podcast": {
-      "last_checked_at": "2026-11-18T20:39:13+00:00",
-      "last_checked_unix": 1795034356,
+      "last_checked_at": "2026-11-19T02:37:58+00:00",
+      "last_checked_unix": 1795055881,
       "last_modified": "Mon, 09 Nov 2026 05:05:00 GMT",
       "consecutive_failures": 0
     },
@@ -250,8 +250,8 @@
       "etag": "\"djEuMi4wOjE3OTQ5MzQ4Mzk3NTk=\""
     },
     "worlds-beyond-number": {
-      "last_checked_at": "2026-11-18T20:39:13+00:00",
-      "last_checked_unix": 1795034355,
+      "last_checked_at": "2026-11-19T02:37:58+00:00",
+      "last_checked_unix": 1795055880,
       "etag": "\"fdc45661e1279c547090e3f49cad2e9c\"",
       "last_modified": "Tue, 10 Nov 2026 10:00:23 GMT"
     },
@@ -260,8 +260,8 @@
       "last_checked_unix": 1790746803
     },
     "dodoborne-a-daggerheart-actual-play-podcast": {
-      "last_checked_at": "2026-11-18T20:39:13+00:00",
-      "last_checked_unix": 1795034356,
+      "last_checked_at": "2026-11-19T02:37:58+00:00",
+      "last_checked_unix": 1795055880,
       "etag": "W/\"91e44761f594e4711c6e1fe9af69ee45\"",
       "last_modified": "Tue, 17 Nov 2026 22:01:25 GMT"
     },
@@ -302,8 +302,8 @@
       "consecutive_failures": 0
     },
     "force-majeure-a-star-wars-actual-play-podcast": {
-      "last_checked_at": "2026-11-18T20:39:13+00:00",
-      "last_checked_unix": 1795034356,
+      "last_checked_at": "2026-11-19T02:37:58+00:00",
+      "last_checked_unix": 1795055881,
       "etag": "\"ce76b0d11b9879c2e5c44bf8196417f7\"",
       "last_modified": "Mon, 16 Nov 2026 00:37:50 GMT"
     },
@@ -469,8 +469,8 @@
       "consecutive_failures": 0
     },
     "realms-of-peril-glory-an-actual-play-anthology": {
-      "last_checked_at": "2026-11-18T20:39:13+00:00",
-      "last_checked_unix": 1795034356,
+      "last_checked_at": "2026-11-19T02:37:58+00:00",
+      "last_checked_unix": 1795055881,
       "last_modified": "Mon, 16 Nov 2026 14:00:57 GMT"
     },
     "realmsmith-presents-into-the-mist-live-dnd-podcast": {
@@ -486,8 +486,8 @@
       "consecutive_failures": 0
     },
     "role-radio-a-5e-actual-play-dungeons-dragons-podcast": {
-      "last_checked_at": "2026-11-18T20:39:13+00:00",
-      "last_checked_unix": 1795034356
+      "last_checked_at": "2026-11-19T02:37:58+00:00",
+      "last_checked_unix": 1795055881
     },
     "roll-britannia-a-british-dungeons-dragons-5e-podcast": {
       "last_checked_at": "2026-11-18T11:52:57+00:00",
@@ -495,8 +495,8 @@
       "etag": "\"djEuMi4wOjE3OTQ5ODg4NDEyOTE=\""
     },
     "roll-the-hard-20-podcast": {
-      "last_checked_at": "2026-11-18T20:39:13+00:00",
-      "last_checked_unix": 1795034357,
+      "last_checked_at": "2026-11-19T02:37:58+00:00",
+      "last_checked_unix": 1795055881,
       "etag": "W/\"fcd6959c2d2afdab216a006888555417\"",
       "consecutive_failures": 0
     },
@@ -728,8 +728,8 @@
       "last_modified": "Thu, 29 Oct 2026 17:39:44 GMT"
     },
     "who-lives-who-dice": {
-      "last_checked_at": "2026-11-18T20:39:13+00:00",
-      "last_checked_unix": 1795034357,
+      "last_checked_at": "2026-11-19T02:37:58+00:00",
+      "last_checked_unix": 1795055881,
       "etag": "\"38cf2556dc0e6bb49281209eb5974297\"",
       "last_modified": "Sun, 03 May 2026 08:52:08 GMT",
       "consecutive_failures": 0
@@ -741,5 +741,5 @@
       "etag": "W/\"b031b-LD7/U/lZqze7YJg7MAgKzhv4Rjg\""
     }
   },
-  "updated_at": "2026-11-18T20:39:13+00:00"
+  "updated_at": "2026-11-19T02:37:58+00:00"
 }
