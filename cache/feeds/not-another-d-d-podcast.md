@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-11-13T11:09:47+00:00`
-- checked_at: `2026-11-13T11:09:47+00:00`
-- last_modified: `Fri, 13 Nov 2026 05:51:06 GMT`
+- fetched_at: `2026-11-20T11:51:08+00:00`
+- checked_at: `2026-11-20T11:51:08+00:00`
+- last_modified: `Fri, 20 Nov 2026 04:44:59 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-11-13T11:09:47+00:00",
+  "fetched_at": "2026-11-20T11:51:08+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,29 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "3192b35d5c13a78c92f524a52a1fe2792390f53b",
+      "title": "Skaldova Season 2 - Ep. 7: The Body",
+      "published_at": "2026-11-19T05:00:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/2680a861-c5d2-41bf-bb02-b02bcf7e2784",
+      "description": "The Carnal Crew chops it up with a corpse. Welly disarms, Zudrick charms, Boggy alarms. Sound Mixing and Editing by Brian Murphy and Faris Monshi Music / Sound Effects Include: \"Blackthorn Hall\" by Emily Axford \"Irondeep\" by Emily Axford \"The Blade and the Smith\" by Emily Axford \"Demi-God\" by Emily Axford \"Hexblood Centurion\" by Emily Axford See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/da/56/2d/f9/da562df9-eccd-48d4-9a31-87874c8ff177/ff3ce63bb74d9492c83e2f2c40e3370ef877cd209a6f50e98814cc9d089b396e6b64f2e67982c40c69283215e505f92178f59ed51fab54f004ee3b923dfd36ca.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/2680a861-c5d2-41bf-bb02-b02bcf7e2784.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67028532",
+      "itunes_duration": "01:09:49",
+      "speakers": [
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "skaldova",
+        "season",
+        "body"
+      ]
+    },
     {
       "key": "55d63af1f7960681c3f09a058ce6c1d8b4038e8d",
       "title": "Surprise Round! - Grin and (Fozzie) Bear It",
@@ -11680,6 +11703,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-19 — Skaldova Season 2 - Ep. 7: The Body — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-11-13 — Surprise Round! - Grin and (Fozzie) Bear It — speakers: Surprise Round, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-11-05 — Skaldova Season 2 - Ep. 6: The Island in the Pond — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-10-29 — Skaldova Season 2 - Ep. 5: The Wood Road (w/ Nathan Yaffe!) — speakers: Nathan Yaffe, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner

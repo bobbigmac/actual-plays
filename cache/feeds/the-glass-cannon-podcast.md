@@ -2,10 +2,10 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-11-19T11:50:02+00:00`
-- checked_at: `2026-11-19T11:50:02+00:00`
-- etag: `"3a64a895b96df2e95ad0ec9db1aa3cb5"`
-- last_modified: `Thu, 19 Nov 2026 05:00:47 GMT`
+- fetched_at: `2026-11-20T11:51:08+00:00`
+- checked_at: `2026-11-20T11:51:08+00:00`
+- etag: `"002b4414bd13ac9d12568af100c0c56e"`
+- last_modified: `Fri, 20 Nov 2026 05:00:48 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://the-glass-cannon-podcast.simplecast.com",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/46109deb-f36d-4541-b12d-b5599c7ce340/3000x3000/gcp_sotb_podcast_platforms_graphic.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-19T11:50:02+00:00",
+  "fetched_at": "2026-11-20T11:51:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "c0c2d7b99580622167c7c0ebd2b00fb1558f5de0",
+      "title": "Rapacious | The Glass Cannon Podcast: Shadows of the Broken E6 | Shadowdark RPG",
+      "published_at": "2026-11-20T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/rapacious-the-glass-cannon-podcast-shadows-of-the-broken-e6-shadowdark-rpg-SE3P5WHH",
+      "description": "A roadside attack by enormous insects may prevent the heroes from even reaching the gates of Lankshorn. Watch the video here: https://youtu.be/nSvCYaY7NA4 Get BONUS CONTENT every week at ⁠ http://jointhenaish.com ⁠, including After Dark, our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. Get Foundry VTT and learn more about Ember and the Crucible system at https://foundryvtt.com/gcp Check out Crucible, free to all Foundry VTT license owners: https://foundryvtt.com/packages/crucible Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at https://norsefoundry.com Life is amazing. Remember that with Aura Frames. Get up to $50 off select frames plus an additional $5 off your order with promo code \"GCN\" at https://auraframes.com/pdp/GCN Target the habit with Füm today, and use code \"GCN\" to get get a free bite-friendly, silicone topper for your Füm device at https://tryfum.com/GCN Enter the Shadowdark at your gaming table by visiting https://www.thearcanelibrary.com/?utm_source=glasscannon Explore Dolmenwood at your own gaming table by visiting https://dolmenwood.com Executive Producer and Gamemaster: Joe O'Brien Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher, and Kate Stamas Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Quality Assurance: Brian McDermott Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Listen: https://open.spotify.com/album/0XO66TJKfOznx575cVIHEV?si=Zo3QMDwAR2in_0g6tge96A&nd=1&dlsi=6333aeb5b Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/e984e5e6-62ff-484a-aa6f-a1dc74d239c2/3000x3000/gcp_4006_podcast.png?aid=rss_feed",
+      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/329dcb8e-7696-49ad-ae59-eb2d3882bec6/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=329dcb8e-7696-49ad-ae59-eb2d3882bec6&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92714700",
+      "itunes_duration": "01:36:34",
+      "speakers": [
+        "Shadowdark Rpg"
+      ],
+      "topics": [
+        "glass",
+        "cannon",
+        "podcast",
+        "shadow",
+        "broken",
+        "shadowdark"
+      ]
+    },
     {
       "key": "aba587b5468b4c06edd1f95e8a3c29bc376f8a6a",
       "title": "GCN Plays... Munchkin Second Edition | Steve Jackson Games",
@@ -21698,30 +21721,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "cac866b5bf60c3d967ba69d36b9caddd8554528c",
-      "title": "+21 Jump Street | The Glass Cannon Podcast Giantslayer E130 | Pathfinder 1E",
-      "published_at": "2017-11-21T05:00:00+00:00",
-      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/21-jump-street-the-glass-cannon-podcast-giantslayer-e130-pathfinder-1e-SDsimC9m",
-      "description": "Reeling from yet another devastating loss, the heroes must find the resolve to steel themselves against the full power of Urathash! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/cc7f2347-adbb-436a-9ce3-6c4c7c643d2c/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=cc7f2347-adbb-436a-9ce3-6c4c7c643d2c&feed=UTUNOAis",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "62547914",
-      "itunes_duration": "01:04:34",
-      "speakers": [
-        "Jump Street"
-      ],
-      "topics": [
-        "jump",
-        "street",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21730,6 +21729,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-20 — Rapacious | The Glass Cannon Podcast: Shadows of the Broken E6 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-11-19 — GCN Plays... Munchkin Second Edition | Steve Jackson Games — speakers: Steve Jackson
 - 2026-11-18 — The Ruined Tower | The Secret Fire Chapter 3 | The One Ring RPG — speakers: Paula Deming, Chris Grace
 - 2026-11-16 — GCN Community Update November 16, 2026 — speakers: Community Update November
@@ -22729,4 +22729,3 @@
 - 2017-12-12 — Fantastic Priests and Where to Find Them | The Glass Cannon Podcast Giantslayer E133 | Pathfinder 1E — speakers: Sky Citadel
 - 2017-12-05 — Leaving Lost Magus | The Glass Cannon Podcast Giantslayer E132 | Pathfinder 1E — speakers: Leaving Lost Magus
 - 2017-11-28 — Give and Let Die | The Glass Cannon Podcast Giantslayer E131 | Pathfinder 1E
-- 2017-11-21 — +21 Jump Street | The Glass Cannon Podcast Giantslayer E130 | Pathfinder 1E — speakers: Jump Street
