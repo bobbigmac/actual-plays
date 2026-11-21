@@ -2,9 +2,9 @@
 
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
-- fetched_at: `2026-11-18T20:39:13+00:00`
-- checked_at: `2026-11-18T20:39:13+00:00`
-- etag: `W/"fcd6959c2d2afdab216a006888555417"`
+- fetched_at: `2026-11-21T11:18:01+00:00`
+- checked_at: `2026-11-21T11:18:01+00:00`
+- etag: `W/"ebdbcf6cd4b54779a00c8caac66d2914"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollthehard20podcast.com/podcast-episode/",
   "description": "Dungeons and Dragons weekly actual play and discussions",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/9d3b0539-1955-4096-946d-2fe71cf34e12/TheHardTwenty-DeltaGreen-Greens+2.jpg?format=1500w",
-  "fetched_at": "2026-11-18T20:39:13+00:00",
+  "fetched_at": "2026-11-21T11:18:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "0867c903bbb418526cb63214b9b40743b9553cdd",
+      "title": "DELTA GREEN: (INTERLUDE) DARK PROPHESIES: EP 1",
+      "published_at": "2026-11-21T10:45:09+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/11/21/delta-green-interlude-dark-prophesies-ep-1",
+      "description": "The Agents investigate a ritualistic crime scene. Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 \"Darkling\", \"Laser Groove\" Kevin MacLeod ( incompetech.com ) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1795257871994-9C6SEJOLBOOLQDJZNQRC/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/6b0175a1af6f7b545a2c916f/1795257783821/dp+ep+1+-+11%3A20%3A26%2C+5.53%E2%80%AFPM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "115515480",
+      "itunes_duration": "1:00:10",
+      "speakers": [
+        "Roll Th"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "interlude",
+        "dark"
+      ]
+    },
     {
       "key": "2f372e2023c18a1eec6485e8605c73ed21572053",
       "title": "DELTA GREEN: ENRAPTURED (EP 8: AFTER ACTION REPORT)",
@@ -5677,24 +5698,6 @@
         "gettin",
         "swamped"
       ]
-    },
-    {
-      "key": "bfaf8f3d63419833aae13865bc5b644006707bee",
-      "title": "RIDERS ON THE STORM EP 34: DES NO I AND I IN TEAMWORK",
-      "published_at": "2019-03-17T00:48:24+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/3/16/riders-on-the-storm-ep-34-des-no-i-and-i-in-teamwork",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow oursocial media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 ROLL THE HARD 20 PODCAST https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a roll-the-hard-20-podcast https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Music and Sound by Syrinscape. https://store.syrinscape.com/what-is-syrinscape/?att 4 The app putting sound into the hands of gamers.",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909137660-ZC6V7SBCYLFBLKFD6AFQ/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c8d976a0852295f1fdc6f27/1552783527834/Riders+on+the+Storm+EP+34+DES+NO+I+AND+I+IN+TEAMWORK.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "98871088",
-      "itunes_duration": "1:08:39",
-      "speakers": [],
-      "topics": [
-        "rider",
-        "storm",
-        "teamwork"
-      ]
     }
   ]
 }
@@ -5703,6 +5706,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-21 — DELTA GREEN: (INTERLUDE) DARK PROPHESIES: EP 1 — speakers: Roll Th
 - 2026-08-15 — DELTA GREEN: ENRAPTURED (EP 8: AFTER ACTION REPORT) — speakers: Trusted Handler
 - 2026-08-06 — DELTA GREEN: ENRAPTURED (EP 7: THE FINALE)
 - 2026-08-01 — DELTA GREEN: ENRAPTURED (EP 6) — speakers: Deacon Linus
@@ -6002,4 +6006,3 @@
 - 2019-04-04 — RIDERS ON THE STORM EP 37: TWISTED SISTERS
 - 2019-03-29 — RIDERS ON THE STORM EP 36: WHAT THE FOG IS THAT?
 - 2019-03-23 — RIDERS ON THE STORM EP 35: GETTIN' SWAMPED
-- 2019-03-17 — RIDERS ON THE STORM EP 34: DES NO I AND I IN TEAMWORK

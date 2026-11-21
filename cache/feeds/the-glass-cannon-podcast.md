@@ -2,10 +2,10 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-11-20T11:51:08+00:00`
-- checked_at: `2026-11-20T11:51:08+00:00`
-- etag: `"002b4414bd13ac9d12568af100c0c56e"`
-- last_modified: `Fri, 20 Nov 2026 05:00:48 GMT`
+- fetched_at: `2026-11-21T11:18:01+00:00`
+- checked_at: `2026-11-21T11:18:01+00:00`
+- etag: `"8c37599da36ec132ed1b306e7a61d377"`
+- last_modified: `Sat, 21 Nov 2026 05:00:54 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://the-glass-cannon-podcast.simplecast.com",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/46109deb-f36d-4541-b12d-b5599c7ce340/3000x3000/gcp_sotb_podcast_platforms_graphic.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-20T11:51:08+00:00",
+  "fetched_at": "2026-11-21T11:18:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "97f25020d5257fe74ab5b5eb9e119609da7bb56a",
+      "title": "Magic Carpet Ride | Time For Chaos S4 E18 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2026-11-21T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/magic-carpet-ride-time-for-chaos-s4-e18-call-of-cthulhu-masks-of-nyarlathotep-1AaMyvLB",
+      "description": "An unsettling new acquaintance offers cryptic insights, gifts and unexpected perspective. For a limited time, use code \"TFC4\" to save 15% on Cthulhu products at ⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Get BONUS CONTENT every week at ⁠ ⁠⁠⁠⁠⁠⁠http://jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠, including Overtime For Chaos, our exclusive Time For Chaos companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Cast: Ross Bryant, Noura Ibrahim, Rob Kerkovich, Joe O'Brien, Troy Lavallee Watch the video here: https://youtu.be/PDAyOlN2OOA Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/0eae4353-cd33-4a50-9f35-826b997a76a6/3000x3000/tfc_418_podcast_thumb.png?aid=rss_feed",
+      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/02037aba-d481-4f01-81e9-6699a214d3db/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=02037aba-d481-4f01-81e9-6699a214d3db&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "123820130",
+      "itunes_duration": "02:08:56",
+      "speakers": [],
+      "topics": [
+        "magic",
+        "carpet",
+        "ride",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
     {
       "key": "c0c2d7b99580622167c7c0ebd2b00fb1558f5de0",
       "title": "Rapacious | The Glass Cannon Podcast: Shadows of the Broken E6 | Shadowdark RPG",
@@ -21701,26 +21724,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "ce00521aa2669fc482922e66ee6fc018ea5df3cc",
-      "title": "Give and Let Die | The Glass Cannon Podcast Giantslayer E131 | Pathfinder 1E",
-      "published_at": "2017-11-28T05:00:00+00:00",
-      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/give-and-let-die-the-glass-cannon-podcast-giantslayer-e131-pathfinder-1e-N8vLdB9a",
-      "description": "After a grueling gauntlet of battles, surrounded by the bodies of both foes and friends, Brandyr returns to confront the party in the thrilling Book Three season finale! For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/1c5c04fe-a304-4e61-80d6-12c6e0801c22/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=1c5c04fe-a304-4e61-80d6-12c6e0801c22&feed=UTUNOAis",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "84615768",
-      "itunes_duration": "01:27:33",
-      "speakers": [],
-      "topics": [
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21729,6 +21732,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-21 — Magic Carpet Ride | Time For Chaos S4 E18 | Call of Cthulhu Masks of Nyarlathotep
 - 2026-11-20 — Rapacious | The Glass Cannon Podcast: Shadows of the Broken E6 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-11-19 — GCN Plays... Munchkin Second Edition | Steve Jackson Games — speakers: Steve Jackson
 - 2026-11-18 — The Ruined Tower | The Secret Fire Chapter 3 | The One Ring RPG — speakers: Paula Deming, Chris Grace
@@ -22728,4 +22732,3 @@
 - 2017-12-19 — It's My Party and I'll Scry If I Want To | The Glass Cannon Podcast Giantslayer E134 | Pathfinder 1E — speakers: My Party, Scry If
 - 2017-12-12 — Fantastic Priests and Where to Find Them | The Glass Cannon Podcast Giantslayer E133 | Pathfinder 1E — speakers: Sky Citadel
 - 2017-12-05 — Leaving Lost Magus | The Glass Cannon Podcast Giantslayer E132 | Pathfinder 1E — speakers: Leaving Lost Magus
-- 2017-11-28 — Give and Let Die | The Glass Cannon Podcast Giantslayer E131 | Pathfinder 1E
