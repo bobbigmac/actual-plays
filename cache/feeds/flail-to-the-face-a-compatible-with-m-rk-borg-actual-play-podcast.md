@@ -2,9 +2,9 @@
 
 - slug: `flail-to-the-face-a-compatible-with-m-rk-borg-actual-play-podcast`
 - source: `https://anchor.fm/s/e221626c/podcast/rss`
-- fetched_at: `2026-11-01T16:05:24+00:00`
-- checked_at: `2026-11-01T16:05:24+00:00`
-- etag: `W/"78f6e-n5Qc0BthRz9UJuFn0eKSzHT/i4M"`
+- fetched_at: `2026-11-22T19:47:49+00:00`
+- checked_at: `2026-11-22T19:47:49+00:00`
+- etag: `W/"7af18-+7ZQeruZEpKoHKNIJMGhV7CV9HA"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://discord.gg/ye4VzTv9",
   "description": "Flail to the Face is a \"Compatible with Mörk Borg\" Actual Play Podcast, focusing on playing and promoting third party content and their creators.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37838387/37838387-1756395980208-7d45de7e84c02.jpg",
-  "fetched_at": "2026-11-01T16:05:24+00:00",
+  "fetched_at": "2026-11-22T19:47:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/mork-borg"
   ],
   "episodes": [
+    {
+      "key": "bf04a5a17137a77b0e56a44ba64bd66093946e84",
+      "title": "Season Two, Episode Fifteen: A Clean Break",
+      "published_at": "2026-11-20T10:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/flailtotheface/episodes/Season-Two--Episode-Fifteen-A-Clean-Break-e3se3am",
+      "description": "In this episode, our M.I.L.F. Agents have been sent to a mist covered remote island off the coast of Kage No Shima to aid a HellSpawn named Ume find his partner and rid the island of the Oni and Yokai that terrorize it. Will they find Ume's partner? Can they survive the monster and demon threat? Is all this worth a reduced prison sentence? Find out as Flail to the Face plays RŌNIN! This episode of Flail to the Face features the game RŌNIN by Sacha Lightfoot & Dominic Riozzi of Slightly Reckless Games & the adventure Mists of Mishima by Bryan McLean of Dark Urban Games With: Thomas Genno-Stumme playing Genji the Corrupted Shinobi Tom Gambino playing Diachi the Reckless Sumo Charles Paschke playing Tomoe the Wild Dancer And Kevin Welch as the FlailMeister. Season 2 theme music is Void Construct by Alex Grohl. Editing by Kevin Welch. Cover Art by Tom Gambino with assets from UnitSix. Video Editing by Dan Finney SFX courtesy of Epidemic Sound & Pixabay. Whispers of the Dying Lands: https://open.spotify.com/show/7yFvPcYtVa2jP5nCI1QqCS?si=a93f011397354f8d UNIVERSE ZERO: Spotify ⁠⁠https://open.spotify.com/show/0iYPlkUd0S2wN8QddH1a7L?si=s_MhCA83RX2D8P3Asucvqg&utm_source=copy-link&sci=spotify%3Acard-config%3A2EU1OFxmjr5D6i7MG2XXSm⁠⁠ YouTube ⁠⁠https://youtube.com/@gravityfail87?si=JR89AYETAvl7Trpc⁠⁠ Socials instagram and tiktok @universezerottrpg @GravityFail87 everywhere else Shrimp & Crits Podcast: ⁠⁠⁠Shrimp and Crits – A Southern Fried Actual Play Podcast⁠⁠ HellSpawn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠hellspawnrpg.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠Slightly Reckless Games: https://slightlyrecklessgames.com/ Dark Urban Games: https://darkurbangames.com/ https://darkurban.itch.io/ Dan Finney: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠OVERLAND EMPIRE⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Find us on whatever social media platform you use: Facebook Twitter Instagram BlueSky #FlailToTheFace #mörkborg #actualplay #podcast #ttrpg #hol #HumanOccupiedLandfill #Hellspawn #Ronin #MistsofMishima",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37838387/37838387-1795109771670-832266d2a97ca.jpg",
+      "enclosure_url": "https://anchor.fm/s/e221626c/podcast/play/129485590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2Fa8d1f25e-85ac-30f2-49d6-f622d2605a98.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78647760",
+      "itunes_duration": "00:51:45",
+      "speakers": [
+        "Season Two"
+      ],
+      "topics": [
+        "season",
+        "clean",
+        "break"
+      ]
+    },
     {
       "key": "57f1bb38ef855280e637aee81c31a618ad7d9dd1",
       "title": "Season Two, Episode Fourteen: Hare Raising Revelation",
@@ -1287,6 +1307,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-20 — Season Two, Episode Fifteen: A Clean Break — speakers: Season Two
 - 2026-10-29 — Season Two, Episode Fourteen: Hare Raising Revelation
 - 2026-10-09 — Bonus Episode: Into the Meat Pile Pt. 2 (w/Guest Gm Gaffy) — speakers: Guest Gm Gaffy
 - 2026-09-18 — Bonus Episode: Into the Meat Pile Pt.1 (w/ Guest Gm Gaffy) — speakers: Guest Gm Gaffy
