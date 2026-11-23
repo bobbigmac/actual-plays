@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-11-11T17:14:11+00:00`
-- checked_at: `2026-11-11T17:14:11+00:00`
-- last_modified: `Wed, 11 Nov 2026 08:00:03 GMT`
+- fetched_at: `2026-11-23T01:48:09+00:00`
+- checked_at: `2026-11-23T01:48:09+00:00`
+- last_modified: `Wed, 18 Nov 2026 16:51:28 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-11T17:14:11+00:00",
+  "fetched_at": "2026-11-23T01:48:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,31 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "f7fdf87b758eb88dc33cc926e4b1ca88cf9d7738",
+      "title": "[Tavern Tales] Jingle’s Jangles 2026 Holiday One Shot w/ Travis McElroy",
+      "published_at": "2026-11-18T15:58:00+00:00",
+      "link": null,
+      "description": "The Infinights and new party member - Jangle Gronch (played by Travis McElroy) are wrapped up in a quest from a mysterious Holiday benefactor. Check out Travis McElroy at ⁠https://www.themcelroy.family/⁠ especially their D&D podcast - ⁠The Adventure Zone! ⁠ Like these bonus adventures and one shots? Check out StinkyDragonPod.com for ad-free exclusive adventures ,episodes, and even more bonus content! Check out our new merch at store.stinkydragonpod.com - Dice, Player Character Tees, Blankets, Hoodies, and more! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer: Brian Gaar Editor: Alena Lecorchick Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/bfa3b1d2-b76d-11f1-834f-e716f40f62d7/image/bbfc36dbb787724f7a254dd051405d26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/485/traffic.megaphone.fm/GLSS7095920728.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6809",
+      "speakers": [
+        "Travis McElroy",
+        "Jangle Gronch"
+      ],
+      "topics": [
+        "tales",
+        "jingle",
+        "jangles",
+        "holiday",
+        "shot",
+        "travis",
+        "mcelroy"
+      ]
+    },
     {
       "key": "b64f57ea579e37fd8bc591f335b7e61e0c410221",
       "title": "C03 - Ep. 56 - Under Oondar Fire - Death Drop Deliverance",
@@ -4543,6 +4568,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — [Tavern Tales] Jingle’s Jangles 2026 Holiday One Shot w/ Travis McElroy — speakers: Travis McElroy, Jangle Gronch
 - 2026-11-11 — C03 - Ep. 56 - Under Oondar Fire - Death Drop Deliverance
 - 2026-10-28 — C03 - Ep. 55 - Under Oondar Fire - Prospector? I Hardly Know Her! — speakers: bearing structures, Dixie Drillers
 - 2026-10-14 — C03 - Ep. 54 - Under Oondar Fire - Pinkies Pinkies Everywhere! — speakers: secret sigils
