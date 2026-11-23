@@ -2,9 +2,9 @@
 
 - slug: `the-damage-guild-a-pathfinder-2e-podcast`
 - source: `https://www.thedamageguild.com/feed/podcast2`
-- fetched_at: `2026-11-09T11:44:55+00:00`
-- checked_at: `2026-11-09T11:44:55+00:00`
-- last_modified: `Mon, 09 Nov 2026 05:01:00 GMT`
+- fetched_at: `2026-11-23T13:03:27+00:00`
+- checked_at: `2026-11-23T13:03:27+00:00`
+- last_modified: `Mon, 23 Nov 2026 05:01:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedamageguild.com",
   "description": "Do you like jokes, adventure, killing things, and friendship? Of course you do! The Damage Guild is an actual-play Pathfinder 2nd Edition (PF2E) podcast with a focus on collaborative storytelling, character-driven narrative, and improv comedy shenanigans, delivered in a family-friendly style and set in a homebrew world. Join us for new episodes every other Monday, so you can kiss those weekend blues goodbye and get pumped to slay the dragon of your everyday life!",
   "image_url": "https://thedamageguild.com/wp-content/uploads/dgp_pf2e_podcast_artwork.jpg",
-  "fetched_at": "2026-11-09T11:44:55+00:00",
+  "fetched_at": "2026-11-23T13:03:27+00:00",
   "owners": [
     "Sean Abrams",
     "Thayne Bohman",
@@ -31,6 +31,28 @@
     "ttrpg/pathfinder"
   ],
   "episodes": [
+    {
+      "key": "cf3cd81cdcec48346f822b1a2b7e317813b0dbd3",
+      "title": "Episode 61 – Where the Robber Meets the Road",
+      "published_at": "2026-11-23T05:01:00+00:00",
+      "link": "https://thedamageguild.com/pf2e-episodes/episode-61-2/",
+      "description": "The rebellion had to start sooner or later. Zara becalms the brutes. Moss foregoes restraint. Kardain soothes the steeds .",
+      "image_url": null,
+      "enclosure_url": "https://media.blubrry.com/damageguild/media.blubrry.com/3739398/mc.blubrry.com/3739398/dgp_pf2e_episode61.mp3?awCollectionId=3739398&awEpisodeId=12206817&aw_0_azn.pgenre=Leisure&aw_0_1st.ri=blubrry&aw_0_azn.pcountry=US&aw_0_azn.planguage=en-us&cat_exclude=IAB1-8%2CIAB1-9%2CIAB7-41%2CIAB8-5%2CIAB8-18%2CIAB11-4%2CIAB23%2CIAB24%2CIAB25%2CIAB26&aw_0_cnt.rss=https%3A%2F%2Fwww.thedamageguild.com%2Ffeed%2Fpodcast2",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57313115",
+      "itunes_duration": "59:42",
+      "speakers": [
+        "Sean Abrams",
+        "Thayne Bohman",
+        "Bryan Staudt",
+        "Jay Staudt"
+      ],
+      "topics": [
+        "robber",
+        "road"
+      ]
+    },
     {
       "key": "604b68cba3178347b15571a31250402cc162ed49",
       "title": "Episode 60 – Weed All About It",
@@ -1370,6 +1392,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — Episode 61 – Where the Robber Meets the Road — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-11-09 — Episode 60 – Weed All About It — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-10-26 — Episode 59 – Horsin’ Aground — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-10-12 — Episode 58 – Public Enemy Lumber One — speakers: Public Enemy Lumber One, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
