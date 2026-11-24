@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-11-18T01:00:12+00:00`
-- checked_at: `2026-11-18T01:00:12+00:00`
-- etag: `"djEuMi4wOjE3OTQ5NDU2Mzk1NTE="`
+- fetched_at: `2026-11-24T23:56:11+00:00`
+- checked_at: `2026-11-24T23:56:11+00:00`
+- etag: `"djEuMi4wOjE3OTU1NTA0Mzk0NzY="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-11-18T01:00:12+00:00",
+  "fetched_at": "2026-11-24T23:56:11+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "03566665842c334b70958e2b02414d36bd0cae19",
+      "title": "Ep. 68 Another Breakthrough",
+      "published_at": "2026-11-24T20:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-68-another-breakthrough",
+      "description": "Exclamations of excitement and scientific furvor must surely signal that good things are on the horizon. New technologies can open many doors but take care for what awaits us on the otherside may not be so welcoming. With so many horrors lurking in the shadows, is it not wise to arm yourself against the unknown? A weapon in every home will allow us all to defend ourselves but do we really trust our neighbours to do the right thing? Do we trust ourselves? At the end of the day why not clear your mind. Take a nice walk. Eat some good food. Help a friend in need. Do what you do best. Whatever it takes to ensure you’re ready for the hardships ahead. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/6b03a32261907e875ba6bf7d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "218158013",
+      "itunes_duration": "2:31:24",
+      "speakers": [
+        "Another Breakthrough Exclamations",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "breakthrough"
+      ]
+    },
     {
       "key": "282783096188289ad2e258fee6444218bd00d9cf",
       "title": "Action Surge Episode 67",
@@ -3517,6 +3541,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-24 — Ep. 68 Another Breakthrough — speakers: Another Breakthrough Exclamations, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-11-17 — Action Surge Episode 67 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-11-10 — Ep. 67 Elections and Exaltations — speakers: Exaltations Raised, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-11-03 — Action Surge Episode 66 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle

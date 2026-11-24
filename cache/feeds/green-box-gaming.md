@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-11-24T13:53:24+00:00`
-- checked_at: `2026-11-24T13:53:24+00:00`
-- etag: `"3a644d007e8d3705809ed331fb11caa5"`
-- last_modified: `Tue, 24 Nov 2026 02:14:26 GMT`
+- fetched_at: `2026-11-24T23:56:11+00:00`
+- checked_at: `2026-11-24T23:56:11+00:00`
+- etag: `"7b8dd6be989bed0fc22637591c8955af"`
+- last_modified: `Tue, 24 Nov 2026 14:00:19 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-11-24T13:53:24+00:00",
+  "fetched_at": "2026-11-24T23:56:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "18625a2bc0f3647d9d575f90f69b083d73514fde",
+      "title": "Ep17 | Delta Green: Convergence - Ghost Town",
+      "published_at": "2026-11-24T14:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/3268656",
+      "description": "In the finale of Delta Green: Convergence, the team fights for their lives against enemies beyond their wildest dreams! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/3268656/green-box-gaming/2026_10_27_04_39_37_4fabee7e-9ebc-4a7f-9234-85d1efcef5e9.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63267316",
+      "itunes_duration": "3954",
+      "speakers": [
+        "Delta Green"
+      ],
+      "topics": [
+        "delta",
+        "green",
+        "convergence",
+        "ghost",
+        "town"
+      ]
+    },
     {
       "key": "85696f9cae4cefc5384a3cb9df992e4a7209d4bf",
       "title": "Ep16 | Delta Green: Convergence - First Contact?",
@@ -4534,6 +4556,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-24 — Ep17 | Delta Green: Convergence - Ghost Town — speakers: Delta Green
 - 2026-11-17 — Ep16 | Delta Green: Convergence - First Contact? — speakers: Delta Green, First Contact
 - 2026-11-10 — Ep15 | Delta Green: Convergence - Drain the Swamp — speakers: City Hall handled
 - 2026-11-03 — Ep14 | Delta Green: Convergence - Meeting Adjourned — speakers: Delta Green, City Hall
