@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-11-16T19:40:45+00:00`
-- checked_at: `2026-11-16T19:40:45+00:00`
-- etag: `"djEuMi4wOjE3OTQ4NDQ4Mzk1Mzc="`
+- fetched_at: `2026-11-24T02:16:25+00:00`
+- checked_at: `2026-11-24T02:16:25+00:00`
+- etag: `"djEuMi4wOjE3OTU0NDk2Mzk0MTQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-11-16T19:40:45+00:00",
+  "fetched_at": "2026-11-24T02:16:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "72cd9ac6c7aec52d8805471df936ac58247b04e3",
+      "title": "Bachmann's Quest E2: Ghosts of Campaign's Future",
+      "published_at": "2026-11-23T16:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/bachmanns-quest-e2-ghosts-of-campaigns-future",
+      "description": "After arriving in the messed up, spooky town of Cliffhanger Valley, the party of old friends are immediately set upon by scary shadow ghosts. No one is safe, including nice old ladies, and lacking any stats whatsoever our adventure may be doomed before it starts. A new adventure begins with Maggot Stinson ( Nika Howard ) , Petra “Peet” Cigarette ( Jennifer Cheek ) , Hob Hawthorne ( Michael DiMauro ) , Tommy Cigarette ( Tim Lanning ) , and our Dungeon Master Mike Bachmann . Edited by Vincent. Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1795446062292-08902660-e881-448b-9a89-3f11cd746772.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6b0455f7794e824f62047d6b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121596769",
+      "itunes_duration": "1:24:24",
+      "speakers": [
+        "Future After",
+        "Cliffhanger Valley"
+      ],
+      "topics": [
+        "bachmann",
+        "quest",
+        "ghost",
+        "campaign",
+        "future"
+      ]
+    },
     {
       "key": "8f2617d689c94528190ada1636c944fe2e30f822",
       "title": "Bachmann's Quest E1: The Well is Perfectly Safe",
@@ -12803,6 +12826,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — Bachmann's Quest E2: Ghosts of Campaign's Future — speakers: Future After, Cliffhanger Valley
 - 2026-11-16 — Bachmann's Quest E1: The Well is Perfectly Safe — speakers: Mike Bachmann
 - 2026-11-09 — Bachmann's Campaign: Session 0
 - 2026-11-02 — Owari no Hajimari: Episode 4
