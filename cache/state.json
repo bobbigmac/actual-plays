@@ -250,18 +250,18 @@
       "etag": "\"djEuMi4wOjE3OTQ5MzQ4Mzk3NTk=\""
     },
     "worlds-beyond-number": {
-      "last_checked_at": "2026-11-24T02:16:25+00:00",
-      "last_checked_unix": 1795486587,
-      "etag": "\"fdc45661e1279c547090e3f49cad2e9c\"",
-      "last_modified": "Tue, 10 Nov 2026 10:00:23 GMT"
+      "last_checked_at": "2026-11-24T13:53:24+00:00",
+      "last_checked_unix": 1795528407,
+      "etag": "\"47087ad53eea4677a7c6717fd8f83070\"",
+      "last_modified": "Tue, 24 Nov 2026 10:00:23 GMT"
     },
     "dndark": {
       "last_checked_at": "2026-09-30T05:40:00+00:00",
       "last_checked_unix": 1790746803
     },
     "dodoborne-a-daggerheart-actual-play-podcast": {
-      "last_checked_at": "2026-11-24T02:16:25+00:00",
-      "last_checked_unix": 1795486588,
+      "last_checked_at": "2026-11-24T13:53:24+00:00",
+      "last_checked_unix": 1795528407,
       "etag": "W/\"91e44761f594e4711c6e1fe9af69ee45\"",
       "last_modified": "Tue, 17 Nov 2026 22:01:25 GMT"
     },
@@ -302,14 +302,14 @@
       "consecutive_failures": 0
     },
     "force-majeure-a-star-wars-actual-play-podcast": {
-      "last_checked_at": "2026-11-24T02:16:25+00:00",
-      "last_checked_unix": 1795486588,
+      "last_checked_at": "2026-11-24T13:53:24+00:00",
+      "last_checked_unix": 1795528408,
       "etag": "\"792dee8dad5504cc2c05706bde01deec\"",
       "last_modified": "Thu, 19 Nov 2026 17:27:43 GMT"
     },
     "friends-at-the-table": {
-      "last_checked_at": "2026-11-24T02:16:25+00:00",
-      "last_checked_unix": 1795486588,
+      "last_checked_at": "2026-11-24T13:53:24+00:00",
+      "last_checked_unix": 1795528408,
       "etag": "\"f21e271c2490588671748049f68439aa\"",
       "last_modified": "Thu, 19 Nov 2026 23:51:19 GMT"
     },
@@ -340,10 +340,10 @@
       "disabled_reason": "3 consecutive failures"
     },
     "green-box-gaming": {
-      "last_checked_at": "2026-11-17T16:10:35+00:00",
-      "last_checked_unix": 1794931840,
-      "etag": "\"639d72bb561f0d888b2fc74176ffb529\"",
-      "last_modified": "Tue, 17 Nov 2026 14:00:21 GMT"
+      "last_checked_at": "2026-11-24T13:53:24+00:00",
+      "last_checked_unix": 1795528408,
+      "etag": "\"3a644d007e8d3705809ed331fb11caa5\"",
+      "last_modified": "Tue, 24 Nov 2026 02:14:26 GMT"
     },
     "greetings-adventurers-dungeons-and-dragons-5e-actual-play": {
       "last_checked_at": "2026-11-24T02:16:25+00:00",
@@ -375,9 +375,9 @@
       "last_modified": "Wed, 17 Jun 2026 22:53:53 GMT"
     },
     "high-rollers-dnd": {
-      "last_checked_at": "2026-11-24T02:16:25+00:00",
-      "last_checked_unix": 1795486588,
-      "last_modified": "Tue, 17 Nov 2026 08:24:05 GMT"
+      "last_checked_at": "2026-11-24T13:53:24+00:00",
+      "last_checked_unix": 1795528408,
+      "last_modified": "Tue, 24 Nov 2026 12:39:34 GMT"
     },
     "how-we-roll-podcast": {
       "last_checked_at": "2026-09-29T22:21:27+00:00",
@@ -463,13 +463,10 @@
       "disabled_reason": "3 consecutive failures"
     },
     "archives-fandible-actual-play-podcast": {
-      "last_checked_at": "2026-11-24T02:16:25+00:00",
-      "last_checked_unix": 1795486608,
+      "last_checked_at": "2026-11-24T13:53:24+00:00",
+      "last_checked_unix": 1795528409,
       "etag": "\"e4d54b3610067368be390a958f3bf556\"",
-      "consecutive_failures": 1,
-      "last_error_at": "2026-11-24T02:16:25+00:00",
-      "last_error_status": null,
-      "last_error_message": "<urlopen error timed out>"
+      "consecutive_failures": 0
     },
     "realms-of-peril-glory-an-actual-play-anthology": {
       "last_checked_at": "2026-11-23T13:03:27+00:00",
@@ -489,8 +486,8 @@
       "consecutive_failures": 0
     },
     "role-radio-a-5e-actual-play-dungeons-dragons-podcast": {
-      "last_checked_at": "2026-11-24T02:16:25+00:00",
-      "last_checked_unix": 1795486591
+      "last_checked_at": "2026-11-24T13:53:24+00:00",
+      "last_checked_unix": 1795528409
     },
     "roll-britannia-a-british-dungeons-dragons-5e-podcast": {
       "last_checked_at": "2026-11-18T11:52:57+00:00",
@@ -579,8 +576,8 @@
       "last_modified": "Fri, 29 May 2026 14:51:13 GMT"
     },
     "the-adventure-zone": {
-      "last_checked_at": "2026-11-24T02:16:25+00:00",
-      "last_checked_unix": 1795486592,
+      "last_checked_at": "2026-11-24T13:53:24+00:00",
+      "last_checked_unix": 1795528413,
       "etag": "\"372a7483295243065263378bc40eac66\"",
       "last_modified": "Thu, 12 Nov 2026 12:00:23 GMT"
     },
@@ -626,15 +623,15 @@
       "etag": "W/\"49394-93rvOhz/mk4TnDZc3ZR9MzxFgjI\""
     },
     "the-glass-cannon-podcast": {
-      "last_checked_at": "2026-11-23T13:03:27+00:00",
-      "last_checked_unix": 1795439014,
-      "last_modified": "Mon, 23 Nov 2026 05:00:36 GMT",
-      "etag": "\"e186592bf6307500ac0afcacc8bca894\""
+      "last_checked_at": "2026-11-24T13:53:24+00:00",
+      "last_checked_unix": 1795528413,
+      "last_modified": "Tue, 24 Nov 2026 05:00:44 GMT",
+      "etag": "\"6747b8f8c4b0d6bff83336f6e5105814\""
     },
     "the-heresies-of-radulf-burntwine": {
-      "last_checked_at": "2026-11-16T19:40:45+00:00",
-      "last_checked_unix": 1794858051,
-      "last_modified": "Mon, 16 Nov 2026 18:24:12 GMT"
+      "last_checked_at": "2026-11-24T13:53:24+00:00",
+      "last_checked_unix": 1795528415,
+      "last_modified": "Tue, 17 Nov 2026 02:53:55 GMT"
     },
     "the-iron-realm-mega-dungeon-crawl-dark-fantasy-solo-rpg-gaming-podcast": {
       "last_checked_at": "2026-08-06T11:34:56+00:00",
@@ -731,8 +728,8 @@
       "last_modified": "Thu, 29 Oct 2026 17:39:44 GMT"
     },
     "who-lives-who-dice": {
-      "last_checked_at": "2026-11-24T02:16:25+00:00",
-      "last_checked_unix": 1795486592,
+      "last_checked_at": "2026-11-24T13:53:24+00:00",
+      "last_checked_unix": 1795528415,
       "etag": "\"38cf2556dc0e6bb49281209eb5974297\"",
       "last_modified": "Sun, 03 May 2026 08:52:08 GMT",
       "consecutive_failures": 0
@@ -744,5 +741,5 @@
       "etag": "W/\"b031b-LD7/U/lZqze7YJg7MAgKzhv4Rjg\""
     }
   },
-  "updated_at": "2026-11-24T02:16:25+00:00"
+  "updated_at": "2026-11-24T13:53:24+00:00"
 }

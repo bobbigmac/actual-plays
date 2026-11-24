@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-11-17T16:10:35+00:00`
-- checked_at: `2026-11-17T16:10:35+00:00`
-- etag: `"639d72bb561f0d888b2fc74176ffb529"`
-- last_modified: `Tue, 17 Nov 2026 14:00:21 GMT`
+- fetched_at: `2026-11-24T13:53:24+00:00`
+- checked_at: `2026-11-24T13:53:24+00:00`
+- etag: `"3a644d007e8d3705809ed331fb11caa5"`
+- last_modified: `Tue, 24 Nov 2026 02:14:26 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-11-17T16:10:35+00:00",
+  "fetched_at": "2026-11-24T13:53:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -33,7 +33,7 @@
       "link": "https://rss.com/podcasts/green-box-gaming/3268653",
       "description": "H-Cell can't believe their eyes as the mystery in Groversville comes to a head! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
       "image_url": null,
-      "enclosure_url": "https://content.rss.com/episodes/164361/3268653/green-box-gaming/2026_10_27_04_36_09_8f8f5d2c-79c1-4dc0-9858-f2a80be23265.mp3",
+      "enclosure_url": "https://content.rss.com/episodes/164361/3268653/green-box-gaming/2026_11_24_01_33_11_35c2828a-3705-4d1d-b387-cc2215c8f3f0.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65063287",
       "itunes_duration": "4066",

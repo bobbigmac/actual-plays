@@ -2,10 +2,10 @@
 
 - slug: `worlds-beyond-number`
 - source: `https://feeds.simplecast.com/IAPnSSRO`
-- fetched_at: `2026-11-10T17:06:16+00:00`
-- checked_at: `2026-11-10T17:06:16+00:00`
-- etag: `"fdc45661e1279c547090e3f49cad2e9c"`
-- last_modified: `Tue, 10 Nov 2026 10:00:23 GMT`
+- fetched_at: `2026-11-24T13:53:24+00:00`
+- checked_at: `2026-11-24T13:53:24+00:00`
+- etag: `"47087ad53eea4677a7c6717fd8f83070"`
+- last_modified: `Tue, 24 Nov 2026 10:00:23 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://worlds-beyond-number.simplecast.com",
   "description": "An epic, improvised storytelling podcast where Brennan Lee Mulligan, Erika Ishii, Aabria Iyengar, and Lou Wilson hang out together, play games, build worlds, and make stories.",
   "image_url": "https://image.simplecastcdn.com/images/c89bbbb6-e942-4583-ad73-4877d9c0b2f6/dfae107c-3b1e-4c37-acf7-a48a1ff6e445/3000x3000/wbn-album-logo-art-2024-3000x3000.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-10T17:06:16+00:00",
+  "fetched_at": "2026-11-24T13:53:24+00:00",
   "owners": [
     "Brennan Lee Mulligan",
     "Aabria Iyengar",
@@ -31,6 +31,29 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "3195b2ef6df2d284940aaf5bb27a04447a5b029f",
+      "title": "World Turner: Episode 7 - Vix Institute",
+      "published_at": "2026-11-24T10:00:00+00:00",
+      "link": "https://worlds-beyond-number.simplecast.com/episodes/world-turner-episode-7-vix-institute-5X_bEGd9",
+      "description": "Akaborians, time grows short! Lo, the lonely cry of a creature lost to the years. Hark, the bells tolling out the rhythms of war. Ride now! Past danger and strife, to where the future meets the past. Ride now, for the sake of our great city! Content Warning : This episode contains depictions of gore and violence. We are: Brennan Lee Mulligan Erika Ishii Ally Beardsley Lou Wilson World Turner was produced by Worlds Beyond Number Edit and Sound Design by Jino Jang-Hansen at Big Giant Head Score by Will Savino https://wsavino.com/ Head of Production and Operations: Melanie Bowman Social Media Manager: Shannon H Lorekeeper and Transcriptionist: Jack Morgan E.F. Lavandowska Recording Engineer: Rainie Toll Character Art by Elisabeth Mkheidze Cover Art by Lu Tomkiewicz Additional Game Design by Mazey Veselak You can find transcripts of all our episodes on our Patreon. Just navigate to the post for the episode and the transcript will be attached. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/52465498-1509-439a-8bae-5a0586d07e7b/a5f24f1d-6c3d-4c60-a867-46c0543ac934/3000x3000/world_turner_album_art_v6.png?aid=rss_feed",
+      "enclosure_url": "https://afp-970414-injected.calisto.simplecastaudio.com/796e3e14-8749-4922-8d84-ba47ea7afc1c/episodes/2b53f926-d6f2-472c-8674-059983575b08/audio/128/default.mp3?aid=rss_feed&awCollectionId=796e3e14-8749-4922-8d84-ba47ea7afc1c&awEpisodeId=2b53f926-d6f2-472c-8674-059983575b08&feed=IAPnSSRO",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81325228",
+      "itunes_duration": "01:04:55",
+      "speakers": [
+        "Brennan Lee Mulligan",
+        "Aabria Iyengar",
+        "Erika Ishii",
+        "Lou Wilson"
+      ],
+      "topics": [
+        "world",
+        "turner",
+        "institute"
+      ]
+    },
     {
       "key": "35c9194777ded627e3aa99eda74f1406fac8dea0",
       "title": "World Turner: Episode 6 - Meridian Hall",
@@ -2303,6 +2326,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-24 — World Turner: Episode 7 - Vix Institute — speakers: Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-11-10 — World Turner: Episode 6 - Meridian Hall — speakers: World Turner, Meridian Hall Quiet, Content Warning, Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-10-27 — World Turner: Episode 5 - Concord Station — speakers: World Turner, Concord Station Together, Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson
 - 2026-10-13 — World Turner: Episode 4 - Vix Bridge — speakers: World Turner, Vix Bridge, Brennan Lee Mulligan, Aabria Iyengar, Erika Ishii, Lou Wilson

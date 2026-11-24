@@ -2,10 +2,10 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-11-23T13:03:27+00:00`
-- checked_at: `2026-11-23T13:03:27+00:00`
-- etag: `"e186592bf6307500ac0afcacc8bca894"`
-- last_modified: `Mon, 23 Nov 2026 05:00:36 GMT`
+- fetched_at: `2026-11-24T13:53:24+00:00`
+- checked_at: `2026-11-24T13:53:24+00:00`
+- etag: `"6747b8f8c4b0d6bff83336f6e5105814"`
+- last_modified: `Tue, 24 Nov 2026 05:00:44 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://the-glass-cannon-podcast.simplecast.com",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/46109deb-f36d-4541-b12d-b5599c7ce340/3000x3000/gcp_sotb_podcast_platforms_graphic.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-23T13:03:27+00:00",
+  "fetched_at": "2026-11-24T13:53:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,51 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "d70cd02fe6987ea69ba76015f6ec312201733523",
+      "title": "Welcome to Longford House | Sagas of Sundry: Darkling Gate Chapter One | Regency Cthulhu",
+      "published_at": "2026-11-24T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/welcome-to-longford-house-sagas-of-sundry-darkling-gate-chapter-one-regency-cthulhu-Nxb4EYlj",
+      "description": "In the autumn of 1816, three siblings and their longtime family friend arrive at Longford House to settle an inheritance dispute, only to discover that the estate is hiding something unnatural. Jane Austen meets H.P. Lovecraft in this cinematic Regency Cthulhu actual play series from Geek & Sundry. Catch new episodes of Sagas of Sundry: Darkling Gate every Monday! Watch and listen at https://linktr.ee/geekandsundry Cast: Paula Deming, Noura Ibrahim, Nicole Maines, Oscar Montoya, and Ross Bryant Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/d23d6acb-4617-4064-90f9-3441a6420ac5/3000x3000/261007gdarklinggate2000x2000v01.jpg?aid=rss_feed",
+      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/73462835-43a7-49e1-a7df-2e16f3f341df/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=73462835-43a7-49e1-a7df-2e16f3f341df&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102360305",
+      "itunes_duration": "01:46:36",
+      "speakers": [
+        "Longford House",
+        "Darkling Gate Chapter One"
+      ],
+      "topics": [
+        "longford",
+        "house",
+        "sagas",
+        "sundry",
+        "darkling",
+        "gate",
+        "chapter",
+        "regency",
+        "cthulhu"
+      ]
+    },
+    {
+      "key": "4cf721bfd7f4f17a67611bd50da0a278bf9dea6e",
+      "title": "GCN Community Update November 23, 2026",
+      "published_at": "2026-11-23T17:09:55+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/gcn-community-update-november-23-2026-DGxGdsYN",
+      "description": "The GCN Merch Store Black Friday sale goes live this week, Sagas of Sundry drops on the main Glass Cannon Podcast feed, and Get in the Trunk: Music From a Darkened Room has a date for its finale! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/7da4d5ba-0862-4563-803e-1528c2fe0163/3000x3000/gcn_community_update_logo.jpg?aid=rss_feed",
+      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/d7db3ed2-cb45-4a91-aff3-e188023f91a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=d7db3ed2-cb45-4a91-aff3-e188023f91a1&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "5681417",
+      "itunes_duration": "00:05:54",
+      "speakers": [],
+      "topics": [
+        "community",
+        "update",
+        "november"
+      ]
+    },
     {
       "key": "071f6d8cc5e41cff8c384a7b493a78be89c33654",
       "title": "Ration Math | Blood of the Wild S1 E49 | Pathfinder 2E Quest for the Frozen Flame",
@@ -21679,53 +21724,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "c42253e0cadc17cb084a2263577d922453d9613f",
-      "title": "It's My Party and I'll Scry If I Want To | The Glass Cannon Podcast Giantslayer E134 | Pathfinder 1E",
-      "published_at": "2017-12-19T05:00:00+00:00",
-      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/its-my-party-and-i-ll-scry-if-i-want-to-the-glass-cannon-podcast-giantslayer-e134-pathfinder-1e-lQB9NDbN",
-      "description": "Everyone's favorite ranger is back on his feet and ready to fight, but the party must tie up loose ends before leaving Janderhoff en route to Bloodsworn Vale. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/23dd2a72-10b4-4cb4-aa32-cfde30057575/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=23dd2a72-10b4-4cb4-aa32-cfde30057575&feed=UTUNOAis",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "64071404",
-      "itunes_duration": "01:06:09",
-      "speakers": [
-        "My Party",
-        "Scry If"
-      ],
-      "topics": [
-        "party",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
-    },
-    {
-      "key": "c3c7fb3aeccd5d2de86b6c3daf6217d87e895952",
-      "title": "Fantastic Priests and Where to Find Them | The Glass Cannon Podcast Giantslayer E133 | Pathfinder 1E",
-      "published_at": "2017-12-12T05:00:00+00:00",
-      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/fantastic-priests-and-where-to-find-them-the-glass-cannon-podcast-giantslayer-e133-pathfinder-1e-hzLAzURA",
-      "description": "The heroes arrive at the dwarven Sky Citadel of Janderhoff, each with their own personal business to attend to. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/f6a0b60a-b8db-4e55-9a54-0d4f84398e98/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=f6a0b60a-b8db-4e55-9a54-0d4f84398e98&feed=UTUNOAis",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "95270362",
-      "itunes_duration": "01:38:39",
-      "speakers": [
-        "Sky Citadel"
-      ],
-      "topics": [
-        "priests",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21734,6 +21732,8 @@
 
 ## Episodes (newest first)
 
+- 2026-11-24 — Welcome to Longford House | Sagas of Sundry: Darkling Gate Chapter One | Regency Cthulhu — speakers: Longford House, Darkling Gate Chapter One
+- 2026-11-23 — GCN Community Update November 23, 2026
 - 2026-11-23 — Ration Math | Blood of the Wild S1 E49 | Pathfinder 2E Quest for the Frozen Flame — speakers: Ration Math, Frozen Flame
 - 2026-11-21 — Magic Carpet Ride | Time For Chaos S4 E18 | Call of Cthulhu Masks of Nyarlathotep
 - 2026-11-20 — Rapacious | The Glass Cannon Podcast: Shadows of the Broken E6 | Shadowdark RPG — speakers: Shadowdark Rpg
@@ -22732,5 +22732,3 @@
 - 2018-01-09 — Helter Skelt-er | The Glass Cannon Podcast Giantslayer E137 | Pathfinder 1E — speakers: Helter Skelt-er
 - 2018-01-02 — Knife Guys Finish Last | The Glass Cannon Podcast Giantslayer E136 | Pathfinder 1E
 - 2017-12-26 — Ranger Things 2 | The Glass Cannon Podcast Giantslayer E135 | Pathfinder 1E
-- 2017-12-19 — It's My Party and I'll Scry If I Want To | The Glass Cannon Podcast Giantslayer E134 | Pathfinder 1E — speakers: My Party, Scry If
-- 2017-12-12 — Fantastic Priests and Where to Find Them | The Glass Cannon Podcast Giantslayer E133 | Pathfinder 1E — speakers: Sky Citadel

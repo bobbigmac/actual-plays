@@ -2,9 +2,9 @@
 
 - slug: `the-heresies-of-radulf-burntwine`
 - source: `https://feeds.megaphone.fm/thorb`
-- fetched_at: `2026-11-16T19:40:45+00:00`
-- checked_at: `2026-11-16T19:40:45+00:00`
-- last_modified: `Mon, 16 Nov 2026 18:24:12 GMT`
+- fetched_at: `2026-11-24T13:53:24+00:00`
+- checked_at: `2026-11-24T13:53:24+00:00`
+- last_modified: `Tue, 17 Nov 2026 02:53:55 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/thorb",
   "description": "A Horror Fantasy Medical Mystery. Contained herein are The Heresies of Radulf Burntwine. Follow the Titular monk-turned-medical-investigator as he uncovers the blasphemous truth of a plague ridden world: ours is not a loving God and we are not its favored children.",
   "image_url": "https://megaphone.imgix.net/podcasts/589ac4c6-d4a4-11ed-8d4d-5bd265fb21e3/image/Thorb_Logo_w_Realm.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-16T19:40:45+00:00",
+  "fetched_at": "2026-11-24T13:53:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
