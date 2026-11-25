@@ -2,10 +2,10 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-11-24T13:53:24+00:00`
-- checked_at: `2026-11-24T13:53:24+00:00`
-- etag: `"6747b8f8c4b0d6bff83336f6e5105814"`
-- last_modified: `Tue, 24 Nov 2026 05:00:44 GMT`
+- fetched_at: `2026-11-25T08:45:57+00:00`
+- checked_at: `2026-11-25T08:45:57+00:00`
+- etag: `"3ab265af18b0f959260cfc3c093869f5"`
+- last_modified: `Wed, 25 Nov 2026 05:01:01 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://the-glass-cannon-podcast.simplecast.com",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/46109deb-f36d-4541-b12d-b5599c7ce340/3000x3000/gcp_sotb_podcast_platforms_graphic.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-24T13:53:24+00:00",
+  "fetched_at": "2026-11-25T08:45:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "a1ab5db7c0d4818d9bc7244ac2552d15b6b619d7",
+      "title": "Gwendaith | The Secret Fire Chapter 4 | The One Ring RPG",
+      "published_at": "2026-11-25T05:00:00+00:00",
+      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/gwendaith-the-secret-fire-chapter-4-the-one-ring-rpg-wQv6gl8W",
+      "description": "The company meets the inhabitants of The Ruined Tower, both living and less so. Cast: Paula Deming, Chris Grace, Jason Charles Miller, Skid Maher, and Jared Logan Watch the video here: https://youtu.be/Ew8cSbkKmTI Logo and Original Artwork by Josh Fisher Access every available episode of The Secret Fire along with exclusive podcasts, ad-free episodes, and so much more at http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": "https://image.simplecastcdn.com/images/8205897d-9648-4dfc-b506-ebc10f4e89c8/a7a6f8f9-00d6-4de4-bf62-56c03ff7f2dc/3000x3000/tsflogo_with_artsquare4k_3000x3000.jpg?aid=rss_feed",
+      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/21347be6-5734-4cb2-a403-27f1f4b91573/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=21347be6-5734-4cb2-a403-27f1f4b91573&feed=UTUNOAis",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88937918",
+      "itunes_duration": "01:32:34",
+      "speakers": [
+        "Paula Deming"
+      ],
+      "topics": [
+        "gwendaith",
+        "secret",
+        "fire",
+        "chapter",
+        "ring"
+      ]
+    },
     {
       "key": "d70cd02fe6987ea69ba76015f6ec312201733523",
       "title": "Welcome to Longford House | Sagas of Sundry: Darkling Gate Chapter One | Regency Cthulhu",
@@ -21702,28 +21724,6 @@
         "giantslayer",
         "pathfinder"
       ]
-    },
-    {
-      "key": "d1e5d3f931029e44212995d75eae37f794c70a3f",
-      "title": "Ranger Things 2 | The Glass Cannon Podcast Giantslayer E135 | Pathfinder 1E",
-      "published_at": "2017-12-26T05:00:00+00:00",
-      "link": "https://the-glass-cannon-podcast.simplecast.com/episodes/ranger-things-2-the-glass-cannon-podcast-giantslayer-e135-pathfinder-1e-EagtPnYo",
-      "description": "In the final episode of 2017, Lorc hopes to commune with the spirits of Bloodsworn Vale as the party gains admittance to the tent of a Skoan-Quah shaman. For more podcasts and livestreams, visit glasscannonnetwork.com . To become an official member of the Naish, subscribe today at http://www.jointhenaish.com . Want to be a part of Glass Cannon Nation? Follow us at twitter.com/glasscannonpod instagram.com/theglasscannon facebook.com/glasscannonnetwork tiktok.com/@glasscannonnetwork Get the best apparel and gaming accessories in the biz at https://glasscannonnetwork.com/store If you enjoyed this, we have several other series featuring Call of Cthulhu - Time For Chaos Delta Green - Get in the Trunk Pathfinder 2E - Glass Cannon Live! Strange Aeons Pathfinder 1E - Legacy of the Ancients Traveller - Voyagers of the Jump and so much more! Join us every Thursday night for Campaign Two of The Glass Cannon Podcast – a playthrough of the Pathfinder 2E Gatewalkers Adventure Path! Videos premiere on YouTube Thursday nights at 8PM ET with a companion podcast available at midnight. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/mgln.ai/e/495/pscrb.fm/rss/p/realm.simplecastaudio.com/d8213321-1501-4d6e-ae03-71d634765f3e/episodes/c8536abb-95f0-4ff3-bbd5-b9c2798e7ced/audio/128/default.mp3?aid=rss_feed&awCollectionId=d8213321-1501-4d6e-ae03-71d634765f3e&awEpisodeId=c8536abb-95f0-4ff3-bbd5-b9c2798e7ced&feed=UTUNOAis",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "66139849",
-      "itunes_duration": "01:08:18",
-      "speakers": [],
-      "topics": [
-        "ranger",
-        "things",
-        "glass",
-        "cannon",
-        "podcast",
-        "giantslayer",
-        "pathfinder"
-      ]
     }
   ]
 }
@@ -21732,6 +21732,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-25 — Gwendaith | The Secret Fire Chapter 4 | The One Ring RPG — speakers: Paula Deming
 - 2026-11-24 — Welcome to Longford House | Sagas of Sundry: Darkling Gate Chapter One | Regency Cthulhu — speakers: Longford House, Darkling Gate Chapter One
 - 2026-11-23 — GCN Community Update November 23, 2026
 - 2026-11-23 — Ration Math | Blood of the Wild S1 E49 | Pathfinder 2E Quest for the Frozen Flame — speakers: Ration Math, Frozen Flame
@@ -22731,4 +22732,3 @@
 - 2018-01-16 — Take Your Daughter to Lorc Day | The Glass Cannon Podcast Giantslayer E138 | Pathfinder 1E
 - 2018-01-09 — Helter Skelt-er | The Glass Cannon Podcast Giantslayer E137 | Pathfinder 1E — speakers: Helter Skelt-er
 - 2018-01-02 — Knife Guys Finish Last | The Glass Cannon Podcast Giantslayer E136 | Pathfinder 1E
-- 2017-12-26 — Ranger Things 2 | The Glass Cannon Podcast Giantslayer E135 | Pathfinder 1E

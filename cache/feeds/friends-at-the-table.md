@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-11-20T11:51:08+00:00`
-- checked_at: `2026-11-20T11:51:08+00:00`
-- etag: `"f21e271c2490588671748049f68439aa"`
-- last_modified: `Thu, 19 Nov 2026 23:51:19 GMT`
+- fetched_at: `2026-11-25T08:45:57+00:00`
+- checked_at: `2026-11-25T08:45:57+00:00`
+- etag: `"34a0363d2786247b1ac2f7ba924095c3"`
+- last_modified: `Wed, 25 Nov 2026 00:56:03 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-11-20T11:51:08+00:00",
+  "fetched_at": "2026-11-25T08:45:57+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "7226cb9e4f4293c8bded530f7a91a6d858385a68",
+      "title": "Perpetua 56: Up and Down 04",
+      "published_at": "2026-11-19T23:47:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-56-up-and-down-04",
+      "description": "On the eve of Lumai's inverted eclipse, Antistrophe Landrace, Brontë Adelvys, and Caoimhe Wake make their final preparations. The mage-without-magic and the uncloaked hexcloak confer with a surprising (and unsteady) ally. Can the dark be trusted to grant the shade they need to move without being seen? Meanwhile, Brontë comes face to face with the object of his distant affections. Will she be all he remembered? This week on Perpetua: Up and Down 04 Perpetua Guide [In Progress v.062] MiniGames and Side Activities [MGSA] The High Dances of the Elevana League At the end of disc 1, there's a (technically optional) mini game for the Eastern Continent party (Team ABC). I say \"technically optional\" because it's actually really important for Brontë's character development and plot line, so you really should do it. It's a sort of card based game I think, but since I haven't fully wrapped my head around the rules yet. So I don't want to give you a big breakdown on how ti works yet, but I DO want to share the info I have on the dances themselves. (I need the rest! If you learned them, send me a message on the forums and I'll add the details to the guide!) \"Banners High\" (The Triumphant Pasodoble) In-Game Description: Set to the Order of the Bright Wall's militaristic march tune, this pasodoble separates the dancers and builds towards brief, climactic touches. Tempo Number: 20 Suit: Clubs Signature Moment: Bonus Point for each Queen Played \"Clouds Across Sky\" (The Far Horizon Foxtrot) In-Game Description: A sweeping foxtrot from Bilough that takes the dancers across the floor in smooth, beautiful arcs. Tempo Number: 17 Suit: Hearts Signature Moment: The dancers who play the highest card get 2 bonus points. \"Ice-Lined Shore\" (The Frosted Waltz) In-Game Description: This Glaishoran waltz is a classic of the form, danced from a closed position and featuring a steady clockwise rotation. A room full of dancers appears like skaters on the ice! Tempo Number: 23 Suit: Diamonds Signature Moment: 2 bonus points for having two cards with adjacent values. \"One, Two, Dig! (The Steeltoed Rumba) In-Game Description: The official dance of Cenn is a slow, romantic rumba punctuated by gentle, alternating dips. Tempo Number: 2 Suit: Spades Signature Moment: 2 extra points if a spade and a diamond are played. Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Janine Hawkins ( @bleatingheart ), Sylvi Bullet ( @sylvibullet ), and Keith J Carberry ( @keithjcarberry ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": "https://static.libsyn.com/p/assets/c/5/4/2/c54256664e67f6aba04421dee9605cbd/perpetua.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_56_Up_and_Down_04.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89528192",
+      "itunes_duration": "01:39:53",
+      "speakers": [
+        "Antistrophe Landrace",
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua"
+      ]
+    },
     {
       "key": "bfa1cb6cc58b076475acbeede4c211a82b76834f",
       "title": "Perpetua 55: Up and Down 03",
@@ -11779,6 +11798,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-19 — Perpetua 56: Up and Down 04 — speakers: Antistrophe Landrace, Austin Walker
 - 2026-11-14 — Perpetua 55: Up and Down 03 — speakers: Austin Walker
 - 2026-11-03 — Perpetua 54: Up and Down 02 — speakers: Antistrophe Landrace, Austin Walker
 - 2026-10-25 — Perpetua 53: Up and Down 01 — speakers: Elevana League, Austin Walker

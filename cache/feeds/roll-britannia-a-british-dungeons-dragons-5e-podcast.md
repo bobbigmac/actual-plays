@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-11-18T11:52:57+00:00`
-- checked_at: `2026-11-18T11:52:57+00:00`
-- etag: `"djEuMi4wOjE3OTQ5ODg4NDEyOTE="`
+- fetched_at: `2026-11-25T08:45:57+00:00`
+- checked_at: `2026-11-25T08:45:57+00:00`
+- etag: `"djEuMi4wOjE3OTU1OTM2Mzk4MzU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-11-18T11:52:57+00:00",
+  "fetched_at": "2026-11-25T08:45:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "f3321ae05ffbd559c0f02d30f0a9c2c3625471a1",
+      "title": "Ep. 358: Jammed - We’re Going Into a Tunnel | #DND",
+      "published_at": "2026-11-25T08:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this Dungeons and Dragons adventure, the crew turns towards Verdanton and the towering heart of the Big Broadcasting Corporation, hoping to place Dr Valance’s discovery beyond the reach of any single company, government, or unseen organisation. Along the way, the Dice bring strange revelations, increasingly implausible plans, and the uncomfortable suspicion that the Directorate may already be several steps ahead. In true DnD fashion, even deciding how to enter a television studio becomes a problem involving family secrets, questionable disguises, and a shark with unusually ambitious living arrangements. Then Verdanton appears on the horizon, and something changes. A routine identification check produces an answer nobody expected, an old name suddenly carries new weight, and the tower ahead begins to feel less like a destination and more like a place that has been waiting for them. Whatever lies inside, the party may be about to discover that some doors open far too easily. Why does Violet’s name already have a place in Verdanton’s systems? What is waiting for the party inside the broadcasting tower? And if the Directorate truly is everywhere, who will be listening when the real plans finally go live? There's only one way to find out, grab your Dnd Dice, join Dungeon Master James , Alex ( Lance Goodthrust ), Chip ( Feets Duo ) and Special Guests from Roll From the Hip , Tom Mayo ( Lady Violence ) and Tom Midgely ( Togali ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1794863934416-44df0a0d-6207-4f9d-9758-c384cdb0c162.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6ac7d0f639599f7c563bff88/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50644950",
+      "itunes_duration": "52:45",
+      "speakers": [
+        "Jammed We’re"
+      ],
+      "topics": [
+        "jammed",
+        "tunnel"
+      ]
+    },
     {
       "key": "adfd57f47a5dc5f7afea265ab3f1e9cc14a8662e",
       "title": "Ep. 357: Jammed - The Flying Danishman | #DND",
@@ -8316,6 +8335,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-25 — Ep. 358: Jammed - We’re Going Into a Tunnel | #DND — speakers: Jammed We’re
 - 2026-11-18 — Ep. 357: Jammed - The Flying Danishman | #DND
 - 2026-11-11 — Ep. 356: Jammed - Hand Over the Old Planny Poos | #DND
 - 2026-11-04 — Ep. 355 : Ashes of Arcathia - A Loose Cannon on the Verge of a Pub Crawl | Halloween Special 2026 | #DND
