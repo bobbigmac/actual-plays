@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-11-12T20:02:04+00:00`
-- checked_at: `2026-11-12T20:02:04+00:00`
-- etag: `"372a7483295243065263378bc40eac66"`
-- last_modified: `Thu, 12 Nov 2026 12:00:23 GMT`
+- fetched_at: `2026-11-26T17:01:14+00:00`
+- checked_at: `2026-11-26T17:01:14+00:00`
+- etag: `"653df72cd1de28eccfc38222e8afc511"`
+- last_modified: `Thu, 26 Nov 2026 12:00:32 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/9ba52d4c-4e8c-4203-a3de-be89969671f2/19f0432c-ab24-49c1-946c-6c5e76f33ed8/3000x3000/cropped_1791393495062.jpg?aid=rss_feed",
-  "fetched_at": "2026-11-12T20:02:04+00:00",
+  "fetched_at": "2026-11-26T17:01:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "4398d98bb9fbb0ecbfe709eeb723181667a7b93b",
+      "title": "The Adventure Zone Providence: Episode 5",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-providence-episode-5-9FheA2bY",
+      "description": "Tintabula, Spira, and Minutiae attempt to participate in a non-dark ritual, but chaos errupts on the rest of the island from a more sinister ritual. We're playing Super Normal from Ursidice: https://ursidice.com/supernormal/ Original Music by Griffin McElroy Additional Music in this Episode: \"Like Clockwork\" by Maarten Schellekens: https://open.spotify.com/artist/35HKcY4o7vVi5rzJ0gPxis?si=MjRLCJu1TYCUo2L5PUofTw&nd=1&dlsi=6c2ef7c6f2ac4286; \"Sad Piano Ambient\" by Life Saturation: https://litesaturation.com/; \"Post-Apocalyptic Hybrid Trailer\" by Tommaso Motteran: https://tommasomotterancinema.carrd.co/; \"Uneasy Horror Atmosphere for Found Footage\" and \"Unsettling Horror Atmosphere for Psychological Thriller\" by Alex Morgan: https://freemusicarchive.org/music/alex-morgan/; and \"Atlantis\" by Jason Shaw: https://audionautix.com/. Native American Aid: https://nativepartnership.org/naa/ Help support this show and unlock bonus content! Become a member at https://maximumfun.org/jointaz",
+      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/f6e9873e-92d5-4065-b1ba-9bc268365680/3000x3000/tazprovcoverfinal.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/63cac910-6bf1-4e8b-ab22-40a467e4a318/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=63cac910-6bf1-4e8b-ab22-40a467e4a318&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67517530",
+      "itunes_duration": "00:54:38",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "providence"
+      ]
+    },
     {
       "key": "eedddb4ba575b0082a1c4659218a43dc0aaabbf0",
       "title": "The Adventure Zone Providence: Episode 4",
@@ -8239,6 +8257,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-26 — The Adventure Zone Providence: Episode 5
 - 2026-11-12 — The Adventure Zone Providence: Episode 4
 - 2026-10-29 — The Adventure Zone Providence: Episode 3 — speakers: Tintatbula Spira
 - 2026-10-15 — The Adventure Zone Providence: Episode 2
