@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-11-20T11:51:08+00:00`
-- checked_at: `2026-11-20T11:51:08+00:00`
-- etag: `W/"f58ab741019c09d81523763c1fa0cbd2"`
-- last_modified: `Fri, 20 Nov 2026 10:00:00 GMT`
+- fetched_at: `2026-11-27T12:39:56+00:00`
+- checked_at: `2026-11-27T12:39:56+00:00`
+- etag: `W/"07b786129c1a2bfce2809cce4674c8be"`
+- last_modified: `Fri, 27 Nov 2026 10:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,29 @@
   "link": "https://audioboom.com/channels/5167570",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://audioboom.com/i/43479826.jpg",
-  "fetched_at": "2026-11-20T11:51:08+00:00",
+  "fetched_at": "2026-11-27T12:39:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "78be2b6561148384e31f8e524ec38547541b2784",
+      "title": "Axis Arc 4 Ep 6 - Clowning Around PART 2",
+      "published_at": "2026-11-27T10:00:00+00:00",
+      "link": "https://audioboom.com/posts/8972637",
+      "description": "Far out at sea a pirate ship comes face to face with a mysterious vessel that could hold the treasure hall of a lifetime… --- GET MORE ROTATING HEROES ACTION ON PATREON ROTATOES! If you enjoyed this episode and need of more space shenanigans in your life, then check out The Rotating Heroes Patreon and be sure to use the code AULLY50 to get 50% off your first month! Get access to exclusive shows like our behind-the-scenes Arc Barks, and Off Leash: Character Creations before each new campaign starts. You'll also receive instant, ad-free access to the ENTIRE back catalogue of campaigns, listen to the latest Axis episodes as soon as they drop, bonus shows, live streams, exclusive character art, AMAs and much, much more! If you haven't checked it out in a while why not also head on over to our merch store , it's getting a revamp soon so this might be your last chance to grab some of the current designs we have in stock! WANT EVEN MORE ACTUAL PLAY GOODNESS? Then check out the official second season from the Oaths & Empires universe, the Book of Kaium! GM Jasper William Cartwright whisks his now not-so-rookie players Tom McKay and Luke Dale off to the brand new continent of Kaium, where the world is bright, golden and playfully dangerous. Joining forces with brand new players Alex McCauley and Anna María, this unlikely party of politicians, pirates and pick-pockets as they take on the mission of their lives. Sign up to Patreon today to listen to the start of the campaign now and use code 'KAIUM50' to get 50% off any tier for your first month! Rotating Heroes is a 12 Sided Studios Production",
+      "image_url": "https://audioboom.com/i/43833898.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8972637.mp3?modified=1793887108&sid=5167570&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4221",
+      "speakers": [],
+      "topics": [
+        "axis"
+      ]
+    },
     {
       "key": "af2c9871b7f611921bb687f254fc6346a5cd9c02",
       "title": "Axis Arc 4 Ep 6 - Clowning Around PART 1",
@@ -3159,6 +3175,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-27 — Axis Arc 4 Ep 6 - Clowning Around PART 2
 - 2026-11-20 — Axis Arc 4 Ep 6 - Clowning Around PART 1
 - 2026-11-13 — Axis Arc 4 Ep 5 - A Crack in the Slab PART 2 — speakers: Axis Arc, Vox Vinny
 - 2026-11-06 — Axis Arc 4 Ep 5 - A Crack in the Slab PART 1 — speakers: Axis Arc, Vox Vinny

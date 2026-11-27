@@ -250,8 +250,8 @@
       "etag": "\"djEuMi4wOjE3OTQ5MzQ4Mzk3NTk=\""
     },
     "worlds-beyond-number": {
-      "last_checked_at": "2026-11-27T01:46:58+00:00",
-      "last_checked_unix": 1795744021,
+      "last_checked_at": "2026-11-27T12:39:56+00:00",
+      "last_checked_unix": 1795783198,
       "etag": "\"47087ad53eea4677a7c6717fd8f83070\"",
       "last_modified": "Tue, 24 Nov 2026 10:00:23 GMT"
     },
@@ -260,8 +260,8 @@
       "last_checked_unix": 1790746803
     },
     "dodoborne-a-daggerheart-actual-play-podcast": {
-      "last_checked_at": "2026-11-27T01:46:58+00:00",
-      "last_checked_unix": 1795744021,
+      "last_checked_at": "2026-11-27T12:39:56+00:00",
+      "last_checked_unix": 1795783198,
       "etag": "W/\"91e44761f594e4711c6e1fe9af69ee45\"",
       "last_modified": "Tue, 17 Nov 2026 22:01:25 GMT"
     },
@@ -285,8 +285,8 @@
       "consecutive_failures": 0
     },
     "dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast": {
-      "last_checked_at": "2026-11-27T01:46:58+00:00",
-      "last_checked_unix": 1795744021,
+      "last_checked_at": "2026-11-27T12:39:56+00:00",
+      "last_checked_unix": 1795783198,
       "last_modified": "Wed, 25 Nov 2026 08:00:05 GMT",
       "consecutive_failures": 0
     },
@@ -302,14 +302,14 @@
       "consecutive_failures": 0
     },
     "force-majeure-a-star-wars-actual-play-podcast": {
-      "last_checked_at": "2026-11-27T01:46:58+00:00",
-      "last_checked_unix": 1795744022,
+      "last_checked_at": "2026-11-27T12:39:56+00:00",
+      "last_checked_unix": 1795783198,
       "etag": "\"792dee8dad5504cc2c05706bde01deec\"",
       "last_modified": "Thu, 19 Nov 2026 17:27:43 GMT"
     },
     "friends-at-the-table": {
-      "last_checked_at": "2026-11-25T08:45:57+00:00",
-      "last_checked_unix": 1795596362,
+      "last_checked_at": "2026-11-27T12:39:56+00:00",
+      "last_checked_unix": 1795783199,
       "etag": "\"34a0363d2786247b1ac2f7ba924095c3\"",
       "last_modified": "Wed, 25 Nov 2026 00:56:03 GMT"
     },
@@ -422,8 +422,8 @@
       "last_modified": "Thu, 26 Nov 2026 09:45:40 GMT"
     },
     "not-another-d-d-podcast": {
-      "last_checked_at": "2026-11-20T11:51:08+00:00",
-      "last_checked_unix": 1795175472,
+      "last_checked_at": "2026-11-27T12:39:56+00:00",
+      "last_checked_unix": 1795783199,
       "last_modified": "Fri, 20 Nov 2026 04:44:59 GMT",
       "consecutive_failures": 0
     },
@@ -463,8 +463,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "archives-fandible-actual-play-podcast": {
-      "last_checked_at": "2026-11-27T01:46:58+00:00",
-      "last_checked_unix": 1795744022,
+      "last_checked_at": "2026-11-27T12:39:56+00:00",
+      "last_checked_unix": 1795783199,
       "etag": "\"e4d54b3610067368be390a958f3bf556\"",
       "consecutive_failures": 0
     },
@@ -486,8 +486,8 @@
       "consecutive_failures": 0
     },
     "role-radio-a-5e-actual-play-dungeons-dragons-podcast": {
-      "last_checked_at": "2026-11-27T01:46:58+00:00",
-      "last_checked_unix": 1795744022
+      "last_checked_at": "2026-11-27T12:39:56+00:00",
+      "last_checked_unix": 1795783199
     },
     "roll-britannia-a-british-dungeons-dragons-5e-podcast": {
       "last_checked_at": "2026-11-25T08:45:57+00:00",
@@ -495,16 +495,16 @@
       "etag": "\"djEuMi4wOjE3OTU1OTM2Mzk4MzU=\""
     },
     "roll-the-hard-20-podcast": {
-      "last_checked_at": "2026-11-27T01:46:58+00:00",
-      "last_checked_unix": 1795744022,
+      "last_checked_at": "2026-11-27T12:39:56+00:00",
+      "last_checked_unix": 1795783199,
       "etag": "W/\"831cb8495f3ae79236bb64510ae686b1\"",
       "consecutive_failures": 0
     },
     "rotating-heroes": {
-      "last_checked_at": "2026-11-20T11:51:08+00:00",
-      "last_checked_unix": 1795175473,
-      "etag": "W/\"f58ab741019c09d81523763c1fa0cbd2\"",
-      "last_modified": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "last_checked_at": "2026-11-27T12:39:56+00:00",
+      "last_checked_unix": 1795783199,
+      "etag": "W/\"07b786129c1a2bfce2809cce4674c8be\"",
+      "last_modified": "Fri, 27 Nov 2026 10:00:00 GMT",
       "consecutive_failures": 0
     },
     "session-zero": {
@@ -565,8 +565,8 @@
       "last_modified": "Mon, 11 May 2026 10:05:55 GMT"
     },
     "tales-from-the-stinky-dragon": {
-      "last_checked_at": "2026-11-27T01:46:58+00:00",
-      "last_checked_unix": 1795744022,
+      "last_checked_at": "2026-11-27T12:39:56+00:00",
+      "last_checked_unix": 1795783200,
       "last_modified": "Wed, 25 Nov 2026 08:19:44 GMT"
     },
     "taking-initiative": {
@@ -623,14 +623,14 @@
       "etag": "W/\"49394-93rvOhz/mk4TnDZc3ZR9MzxFgjI\""
     },
     "the-glass-cannon-podcast": {
-      "last_checked_at": "2026-11-27T01:46:58+00:00",
-      "last_checked_unix": 1795744023,
+      "last_checked_at": "2026-11-27T12:39:56+00:00",
+      "last_checked_unix": 1795783200,
       "last_modified": "Wed, 25 Nov 2026 05:01:01 GMT",
       "etag": "\"3ab265af18b0f959260cfc3c093869f5\""
     },
     "the-heresies-of-radulf-burntwine": {
-      "last_checked_at": "2026-11-27T01:46:58+00:00",
-      "last_checked_unix": 1795744022,
+      "last_checked_at": "2026-11-27T12:39:56+00:00",
+      "last_checked_unix": 1795783200,
       "last_modified": "Tue, 17 Nov 2026 02:53:55 GMT"
     },
     "the-iron-realm-mega-dungeon-crawl-dark-fantasy-solo-rpg-gaming-podcast": {
@@ -728,8 +728,8 @@
       "last_modified": "Thu, 29 Oct 2026 17:39:44 GMT"
     },
     "who-lives-who-dice": {
-      "last_checked_at": "2026-11-27T01:46:58+00:00",
-      "last_checked_unix": 1795744023,
+      "last_checked_at": "2026-11-27T12:39:56+00:00",
+      "last_checked_unix": 1795783200,
       "etag": "\"38cf2556dc0e6bb49281209eb5974297\"",
       "last_modified": "Sun, 03 May 2026 08:52:08 GMT",
       "consecutive_failures": 0
@@ -741,5 +741,5 @@
       "etag": "W/\"b031b-LD7/U/lZqze7YJg7MAgKzhv4Rjg\""
     }
   },
-  "updated_at": "2026-11-27T01:46:58+00:00"
+  "updated_at": "2026-11-27T12:39:56+00:00"
 }
