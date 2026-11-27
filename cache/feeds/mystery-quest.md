@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-11-20T20:29:19+00:00`
-- checked_at: `2026-11-20T20:29:19+00:00`
-- last_modified: `Fri, 20 Nov 2026 17:08:41 GMT`
+- fetched_at: `2026-11-27T23:31:00+00:00`
+- checked_at: `2026-11-27T23:31:00+00:00`
+- last_modified: `Fri, 27 Nov 2026 17:07:14 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone-images.spotifycdn.com/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-20T20:29:19+00:00",
+  "fetched_at": "2026-11-27T23:31:00+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,26 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "549ea9092f6b943fed19b0503bfb0280f2819ff3",
+      "title": "Call of Cthulhu | Eyes of Oblivion #2",
+      "published_at": "2026-11-27T17:00:00+00:00",
+      "link": null,
+      "description": "Welcome back to, 'Eyes of Oblivion'... Waking up with bizarre injuries and a patchy recollection of the previous night, Uncle Ulysses and his guests try to have bit of harmless fun performing the ritual of remembrance, an ancient rite discovered on Ulysses last expedition. Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Check out Call of Cthulhu from Chaosium: https://www.chaosium.com/call-of-cthulhu-rpg/ Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: @AngoryTom Mike Mason: @ChaosiumInc Lydia: https://twitch.tv/squidgame Ravs: @Ravs_ Dom: @apocplayers Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR1149809658.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4310",
+      "speakers": [
+        "bizarre injuries",
+        "Tom Bates"
+      ],
+      "topics": [
+        "cthulhu",
+        "oblivion"
+      ]
+    },
     {
       "key": "18acaa7991e95e5fce7a93669765b070a6212dc2",
       "title": "Call of Cthulhu | Eyes of Oblivion #1",
@@ -3559,6 +3579,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-27 — Call of Cthulhu | Eyes of Oblivion #2 — speakers: bizarre injuries, Tom Bates
 - 2026-11-20 — Call of Cthulhu | Eyes of Oblivion #1 — speakers: Tom Clark, Tom Bates
 - 2026-11-13 — Cryptid Keeper — speakers: Cryptid Keeper Welcome, Cryptid Keeper, Joie Yong, Tom Bates
 - 2026-11-06 — Prehistoric Keeper | Run Your Own Dino Park — speakers: Prehistoric Keeper, Joie Yong, Tom Bates
